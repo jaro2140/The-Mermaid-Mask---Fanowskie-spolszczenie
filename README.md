@@ -19,6 +19,10 @@ developerskich.
 | Instalator | Planowane |
 | Testy w grze | W trakcie |
 
+## Screeshots
+![alt text](/menugl.png"Menu Główne")
+
+
 ## Disclaimer
 
 Fanowski projekt niezwiązany z twórcami ani wydawcą gry.
