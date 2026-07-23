@@ -20,7 +20,7 @@ developerskich.
 | Testy w grze | W trakcie |
 
 ## Screeshots
-![alt text](/menugl.png"Menu Główne")
+![alt text]([/menugl.png](https://github.com/jaro2140/The-Mermaid-Mask---Fanowskie-spolszczenie/blob/main/menugl.png)"Menu Główne")
 
 
 ## Disclaimer
