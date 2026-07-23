@@ -1,23 +1,21 @@
-# The Mermaid Mask - Fanowskie spolszczenie
-
-🇵🇱 Fanowskie spolszczenie do gry **The Mermaid Mask** (SFB Games).
-
-Nieoficjalne polskie tłumaczenie gry **The Mermaid Mask**.
+# 🇵🇱 The Mermaid Mask - Fanowskie spolszczenie
 
 Projekt wymaga legalnie posiadanej kopii gry. Repozytorium publiczne zawiera tylko
 pliki potrzebne graczom i testerom: instalatory, gotowe patche oraz źródła
 tłumaczenia. Nie zawiera oryginalnych plików gry ani prywatnych narzędzi
 developerskich.
 
+
 ## Status
 
 | Obszar | Status |
 | --- | --- |
-| Teksty (menu, opcje) | Gotowe |
+| Teksty (menu, opcje) | W trakcie |
 | Teksty (dialogi, śledztwo) | W trakcie |
-| Czcionki (polskie znaki) | Gotowe |
-| Instalator | Planowane |
+| Czcionki (polskie znaki) | W trakcie |
+| Instalator | W trakcie |
 | Testy w grze | W trakcie |
+
 
 ## Screeshots
 ![image](https://github.com/jaro2140/The-Mermaid-Mask---Fanowskie-spolszczenie/blob/main/menugl.png)
