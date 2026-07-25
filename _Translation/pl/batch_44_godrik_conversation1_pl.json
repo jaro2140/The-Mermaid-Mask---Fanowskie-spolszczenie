@@ -1,0 +1,494 @@
+{
+  "_meta": {
+    "batch": "Godrik Conversation 1 (95 terminow) - PIERWSZA z 4 duzych scen finalowych 'Godrik Conversation 1-4' (95+96+62+98=351 terminow lacznie), oddzielnych od wczesniej przetlumaczonego luku SUSPICION Grippa (batch_08-09). To wyznanie/retrospekcja Godrika (bez maski showmana 'Gripp') o prawdziwym pochodzeniu Jezyka Syreny, Syreny, Dzwonu i Kotla oraz utracie Felicii i Dearest Seleny w oceanie - kluczowa mitologia fabularna gry.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 85/95 pokryte (Godrik 67, Grimoire 3, Sally 5, Sinthia 2, Symmetry 3, Zephyr 3, Tadpole 2). 10 nieprzypisanych to mechanika Request (6) + Choice set ds88 (4) - standardowe oznaczenie.",
+    "character_voice": "Godrik (NIE showman 'Gripp' z batch_08/09): rejestr powazny, introspekcyjny, przepelniony zalem i wstydem - kontrast z teatralnym, entuzjastycznym tonem showmana. Nowy rejestr dla tej postaci, ustanowiony w tej partii."
+  },
+  "categories": {
+    "Godrik Conversation 1": {
+      "Conversation/Godrik Conversation 1/Request exitClueRequest0Hint0": {
+        "en": "What presented Gripp with an opportunity to act on his desire to journey into the unknown?",
+        "pl": "Co dało Grippowi okazję, by zrealizować swoje pragnienie wyprawy w nieznane?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Request exitClueRequest0Hint1": {
+        "en": "Which map presented Gripp with an opportunity to act on his desire to journey into the unknown?",
+        "pl": "Jaka mapa dała Grippowi okazję, by zrealizować swoje pragnienie wyprawy w nieznane?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Request exitClueRequest1Hint0": {
+        "en": "What was Felicia ultimately hoping to find on her ocean voyage?",
+        "pl": "Czego ostatecznie miała nadzieję znaleźć Felicia podczas swojej morskiej wyprawy?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Request exitClueRequest1Hint1": {
+        "en": "What mysterious ancient artifact was Felicia ultimately hoping to find on her ocean voyage?",
+        "pl": "Jakiego tajemniczego, starożytnego artefaktu miała nadzieję znaleźć Felicia podczas swojej morskiej wyprawy?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Request exitClueRequest2Hint0": {
+        "en": "What heavy thing did Mortuga haul up onto the deck?",
+        "pl": "Co ciężkiego wciągnął Mortuga na pokład?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Request exitClueRequest2Hint1": {
+        "en": "What heavy iron thing did Mortuga haul up onto the deck?",
+        "pl": "Jaki ciężki żelazny przedmiot wciągnął Mortuga na pokład?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 1/Section ds100": {
+        "en": "...not because we were [i]friends[/i], but simply because I was the one with the skills to interpret that inscrutable map of his.",
+        "pl": "...nie dlatego, że byliśmy [i]przyjaciółmi[/i], ale po prostu dlatego, że to ja miałem umiejętności potrzebne do odczytania jego niezgłębionej mapy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds101": {
+        "en": "-instead... I asked to be brought along, on the ensuing voyage.",
+        "pl": "-zamiast tego... poprosiłem, żeby zabrano mnie na tę zbliżającą się wyprawę.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds102": {
+        "en": "Regret reared its head. Regret over inviting myself into their world.",
+        "pl": "Odezwał się żal. Żal, że wprosiłem się w ich świat.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds103": {
+        "en": "All the while, she and Mortuga stood around on deck looking windswept and heroic - far more at home on the sea than I.",
+        "pl": "Przez cały ten czas ona i Mortuga stali na pokładzie, rozwiani wiatrem i heroiczni - dużo bardziej w swoim żywiole na morzu niż ja.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds104": {
+        "en": "The work was done.\nAnd so, we went.",
+        "pl": "Praca była skończona.\nI tak wyruszyliśmy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds105": {
+        "en": "She warned that it could be dangerous to stand so close - as the mechanism would be surely powerful.",
+        "pl": "Ostrzegła, że stanie tak blisko może być niebezpieczne - mechanizm z pewnością będzie potężny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds106": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 1/Section ds107": {
+        "en": "...and Mortuga's right shoulder?",
+        "pl": "...a prawe ramię Mortugi?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 1/Section ds108": {
+        "en": "Yes. Of course.",
+        "pl": "Tak. Oczywiście.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds109": {
+        "en": "His fingerprint mark...",
+        "pl": "Ślad jego odcisku palca...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 1/Section ds112": {
+        "en": "A [i]hollow[/i] promise.\nSuch feats belong not to mortal hands.",
+        "pl": "[i]Puste[/i] przyrzeczenie.\nTakie wyczyny nie należą do rąk śmiertelników.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds113": {
+        "en": "[i]Plot the unplottable.\nChart the unchartable.\nMeasure... the unmeasurable.[/i] ",
+        "pl": "[i]Wykreśl niewykreślalne.\nZmapuj niezmapowane.\nZmierz... niemierzalne.[/i] ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds115": {
+        "en": "But after years of fraudulently offering this to others, I began, in-earnest, to yearn for it myself.",
+        "pl": "Ale po latach oszukańczego oferowania tego innym, sam zacząłem tego szczerze pragnąć.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds119": {
+        "en": "That's really how she worded it?",
+        "pl": "Naprawdę tak to ujęła?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 1/Section ds120": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 1/Section ds121": {
+        "en": "[i]With the right contraption in your pocket, even the great unknown may be quantified and calculated.[/i]",
+        "pl": "[i]Mając w kieszeni odpowiedni przyrząd, nawet wielką niewiadomą można zmierzyć i obliczyć.[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds122": {
+        "en": "And here it was.\nNot a map, not a compass - but a [i]communication[/i] device. A [i]translator.[/i]",
+        "pl": "I oto było.\nNie mapa, nie kompas - lecz urządzenie do [i]komunikacji[/i]. [i]Tłumacz.[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds123": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 1/Section ds125": {
+        "en": "-how its location in the ocean would be marked with a Wooden Buoy that glows with green light.",
+        "pl": "-jak jego lokalizacja w oceanie będzie oznaczona Drewnianą Boją, świecącą zielonym światłem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds24": {
+        "en": "Mortuga sought me out. Sought out my services.",
+        "pl": "Mortuga mnie odszukał. Szukał moich usług.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds25": {
+        "en": "Sensing an opportunity at long last, I refused financial payment for the work-",
+        "pl": "Wyczuwając wreszcie okazję, odmówiłem zapłaty za pracę-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds26": {
+        "en": "Mortuga was surprised by the request. But he ultimately agreed to my terms - such was his desire to interpret the map.",
+        "pl": "Mortuga był zaskoczony tą prośbą. Ale ostatecznie zgodził się na moje warunki - tak bardzo zależało mu na odczytaniu mapy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds27": {
+        "en": "Despite my bold intentions, I mostly found myself sheltering within Felicia's cabin during the voyage.",
+        "pl": "Mimo moich śmiałych zamiarów, przez większość podróży chowałem się w kajucie Felicii.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds29": {
+        "en": "From within the cabin, I sat and listened to their conversation.",
+        "pl": "Z wnętrza kajuty siedziałem i słuchałem ich rozmowy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds30": {
+        "en": "Mm.",
+        "pl": "Mm.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds32": {
+        "en": "We waited. Night fell. But before long, we were indeed signalled by this very light, and the Buoy was sighted.",
+        "pl": "Czekaliśmy. Zapadła noc. Ale niedługo potem rzeczywiście dał nam znak właśnie ten sam blask, i dostrzegliśmy Boję.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds33": {
+        "en": "And so they unlocked it together, taking a handle each.",
+        "pl": "I tak razem ją odblokowali, każde chwytając za jedną rączkę.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds34": {
+        "en": "Felicia took The Mermaid's Tongue from within the cauldron.",
+        "pl": "Felicia wyjęła Język Syreny z wnętrza kotła.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds35": {
+        "en": "Felicia spoke, [i]through[/i] the mask. Her voice... was changed. The Mermaid was summoned.",
+        "pl": "Felicia przemówiła [i]przez[/i] maskę. Jej głos... był odmieniony. Syrena została przywołana.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds36": {
+        "en": "Entranced, I rushed out onto the deck and leaned over the side.",
+        "pl": "Zauroczony, wybiegłem na pokład i wychyliłem się za burtę.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds37": {
+        "en": "The Mermaid reached out and grabbed the wheel.",
+        "pl": "Syrena sięgnęła i chwyciła koło sterowe.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds38": {
+        "en": "With her other hand, The Mermaid grabbed the mast, almost snapping it in two.",
+        "pl": "Drugą ręką Syrena chwyciła maszt, niemal łamiąc go na pół.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds39": {
+        "en": "I was underwater, but I was held in place. By a hand. [i]Her[/i] hand.",
+        "pl": "Byłem pod wodą, ale coś trzymało mnie w miejscu. Dłoń. [i]Jej[/i] dłoń.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds40": {
+        "en": "I wanted so much to understand.",
+        "pl": "Tak bardzo chciałem zrozumieć.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds41": {
+        "en": "A moment passed. A lifetime.",
+        "pl": "Minęła chwila. Całe życie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds42": {
+        "en": "At this moment, the broken piece from the ship's wheel floated up in front of me.",
+        "pl": "W tej właśnie chwili odłamany kawałek koła sterowego wypłynął tuż przede mną.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds43": {
+        "en": "I was... overwhelmed - with a cowardly desire to [i]return[/i] to the surface, to see the sun, to live, to breathe.",
+        "pl": "Ogarnęło mnie... tchórzliwe pragnienie, by [i]wrócić[/i] na powierzchnię, zobaczyć słońce, żyć, oddychać.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds44": {
+        "en": "Somehow, the currents carried me back to the Silkwirm coast.",
+        "pl": "Jakimś sposobem prądy zniosły mnie z powrotem na wybrzeże Silkwirm.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds45": {
+        "en": "I took the broken wheel piece back home... and fell into a deep sleep.",
+        "pl": "Zabrałem złamany kawałek koła do domu... i zapadłem w głęboki sen.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds47": {
+        "en": "Besides knowing what it was, Felicia also knew how to [i]find[/i] it-",
+        "pl": "Felicia nie tylko wiedziała, czym to jest, ale wiedziała też, jak to [i]znaleźć[/i]-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds48": {
+        "en": "Until one day... I did.",
+        "pl": "Aż pewnego dnia... ja też się dowiedziałem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds49": {
+        "en": "",
+        "pl": "",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds54": {
+        "en": "Felicia was telling Mortuga what they were looking for - what they were hoping to find...",
+        "pl": "Felicia mówiła Mortudze, czego szukają - co mieli nadzieję znaleźć...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds55": {
+        "en": "Somehow she did. Her description to Mortuga was thus;",
+        "pl": "Jakimś sposobem wiedziała. Oto jak to opisała Mortudze;",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds56": {
+        "en": "Did Felicia know what it [i]was?[/i] -before she [i]found[/i] it?",
+        "pl": "Czy Felicia wiedziała, czym to [i]jest?[/i] -zanim to [i]znalazła?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 1/Section ds57": {
+        "en": "'A mask, worn over the head. It facilitates communication with an [i]ancient being of eternal mystery'.[/i]",
+        "pl": "'Maska, zakładana na głowę. Umożliwia komunikację z [i]pradawną istotą wiecznej tajemnicy'.[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds58": {
+        "en": "",
+        "pl": "",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds59": {
+        "en": "Mortuga hauled it up, pulled it [i]all[/i] up, right onto the deck.",
+        "pl": "Mortuga wciągnął to, wyciągnął [i]całość[/i], prosto na pokład.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds60": {
+        "en": "Mortuga went to unlock it by himself, but Felicia cautioned him against it.",
+        "pl": "Mortuga chciał sam to odblokować, ale Felicia go przed tym ostrzegła.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds61": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds62": {
+        "en": "Yes. I watched her do it. She used the necklace key to wind up The Mermaid's Tongue, and placed it over her head.",
+        "pl": "Tak. Widziałem, jak to robi. Kluczykiem z naszyjnika nakręciła Język Syreny i założyła go na głowę.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds63": {
+        "en": "Did it have the coral and the gemstone eyes?",
+        "pl": "Czy miał koralowe i klejnotowe oczy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 1/Section ds64": {
+        "en": "Yes. They were attached.",
+        "pl": "Tak. Były przymocowane.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds65": {
+        "en": "And what about the necklace-",
+        "pl": "A co z naszyjnikiem-",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 1/Section ds66": {
+        "en": "Felicia had it around her neck.",
+        "pl": "Felicia miała go na szyi.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds67": {
+        "en": "Did she [i]use[/i] it??",
+        "pl": "Czy go [i]użyła[/i]??",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 1/Section ds68": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 1/Section ds69": {
+        "en": "Mortuga clambered up to the wheel in an attempt to steer us away from harm.",
+        "pl": "Mortuga wdrapał się do koła sterowego, próbując odwrócić nas od niebezpieczeństwa.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds70": {
+        "en": "The ship buckled and I was thrown off the side. Into the ocean.",
+        "pl": "Statek się przechylił i zostałem zrzucony za burtę. Do oceanu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds71": {
+        "en": "She was speaking to me, but - it was a language I [i]could not[/i] understand.",
+        "pl": "Mówiła do mnie, ale - był to język, którego [i]nie potrafiłem[/i] zrozumieć.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds72": {
+        "en": "Sensing the disconnect, she let go.",
+        "pl": "Wyczuwszy brak porozumienia, puściła mnie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds73": {
+        "en": "I became vaguely aware that I was about to drown, but I didn't want to leave.",
+        "pl": "Zacząłem mgliście zdawać sobie sprawę, że zaraz utonę, ale nie chciałem odejść.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds74": {
+        "en": "By its intervention I was reminded of my earthly existence. My life beyond this singular moment.",
+        "pl": "Dzięki jego interwencji przypomniałem sobie o moim ziemskim istnieniu. O moim życiu poza tą jedną, pojedynczą chwilą.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds75": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds76": {
+        "en": "I... grabbed onto the broken wheel and let it carry me up to the surface.",
+        "pl": "Ja... chwyciłem się złamanego koła i pozwoliłem, by zniosło mnie na powierzchnię.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds77": {
+        "en": "The Mermaid was nowhere to be seen. Neither was the Dearest Selena.",
+        "pl": "Syreny nie było już widać nigdzie. Podobnie jak Dearest Seleny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds78": {
+        "en": "The Bell and the Cauldron, locked together, to form that single shape.",
+        "pl": "Dzwon i Kocioł, zamknięte razem, tworzące ten jeden kształt.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds79": {
+        "en": "It was heavy.\nBut he was strong.",
+        "pl": "Było ciężkie.\nAle on był silny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds80": {
+        "en": "",
+        "pl": "",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds81": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds82": {
+        "en": "She'd come prepared, clearly.",
+        "pl": "Najwyraźniej przygotowała się wcześniej.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 1/Section ds83": {
+        "en": "A lifelong coward, I could never convince myself to act on it.",
+        "pl": "Będąc tchórzem przez całe życie, nigdy nie zdołałem się przekonać, żeby to zrobić.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds84": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds85": {
+        "en": "Mortuga held fast, but a portion of the wheel broke off and fell into the ocean.",
+        "pl": "Mortuga trzymał się mocno, ale część koła odłamała się i wpadła do oceanu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds87": {
+        "en": "Correct. It has been my earthly tether.",
+        "pl": "Zgadza się. To była moja ziemska kotwica.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds88": {
+        "en": "Wait, the wood from the broken wheel-",
+        "pl": "Czekaj, drewno ze złamanego koła-",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 1/Section ds88 Choice 1": {
+        "en": "It eventually became Cornelius Cane.",
+        "pl": "Ostatecznie stało się Corneliusem Cane.",
+        "speaker": "Sally (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 1/Section ds88 Choice 2": {
+        "en": "It was eventually re-attached to the ship's wheel.",
+        "pl": "Ostatecznie zostało z powrotem przymocowane do koła sterowego.",
+        "speaker": "Sally (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 1/Section ds88 Choice 3": {
+        "en": "It eventually became the Wooden Buoy.",
+        "pl": "Ostatecznie stało się Drewnianą Boją.",
+        "speaker": "Sally (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 1/Section ds88 Choice Question": {
+        "en": "Wait, the wood from the broken wheel-",
+        "pl": "Czekaj, drewno ze złamanego koła-",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 1/Section ds90": {
+        "en": "It eventually became Cornelius Cane.",
+        "pl": "Ostatecznie stało się Corneliusem Cane.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 1/Section ds91": {
+        "en": "It eventually became the Wooden Buoy.",
+        "pl": "Ostatecznie stało się Drewnianą Boją.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 1/Section ds92": {
+        "en": "It was eventually re-attached to the ship's wheel.",
+        "pl": "Ostatecznie zostało z powrotem przymocowane do koła sterowego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 1/Section ds93": {
+        "en": "But - what happened? Weren't you stranded in the ocean?",
+        "pl": "Ale - co się stało? Czy nie utknąłeś na oceanie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 1/Section ds94": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 1/Section ds95": {
+        "en": "The feel of the wood in my hand, a tangible reminder of that desire I once felt, to live, and to breathe.",
+        "pl": "Dotyk drewna w mojej dłoni, namacalne przypomnienie tego pragnienia, które kiedyś czułem - żeby żyć i oddychać.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds96": {
+        "en": "A quiet desire to journey into the unknown. To [i]quantify[/i] it.",
+        "pl": "Ciche pragnienie wyprawy w nieznane. Żeby je [i]zmierzyć.[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds97": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 1/Section ds99": {
+        "en": "I'd tell myself, as an excuse, that I never had any kind of [i]opportunity[/i] to act on it.",
+        "pl": "Mówiłem sobie, jako wymówkę, że nigdy nie miałem żadnej [i]okazji[/i], by to zrobić.",
+        "speaker": "Godrik"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Godrik Conversation 1 - nowy rejestr postaci",
+      "problem": "Ten i kolejne 3 pliki 'Godrik Conversation N' wprowadzaja calkiem nowy, powazny/introspekcyjny rejestr dla postaci znanej dotad jako energiczny showman 'Gripp' (batch_08-09). Zalozono ze to swiadomy kontrast fabularny (zdejmowanie 'maski' showmana przy opowiadaniu prawdziwej, bolesnej historii) - do potwierdzenia w grze czy ten rejestr faktycznie tak dziala wizualnie/audio."
+    }
+  ]
+}

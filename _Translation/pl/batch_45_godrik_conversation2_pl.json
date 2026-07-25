@@ -1,0 +1,499 @@
+{
+  "_meta": {
+    "batch": "Godrik Conversation 2 (96 terminow) - kontynuacja wyznania Godrika (batch_44). Kluczowa scena wyjasniajaca PRAWDZIWE pochodzenie nazwy 'Mortuga Submarine' (rozwija/potwierdza GLOSSARY wpis o Seafoam/Mortuga Submarine): Godrik kupil od Donovana Drummonda niedokonczona lodz podwodna Seafoam za akt wlasnosci Gospody Stonetop (nalezacy do rodziny Sinthii!), a Drummond przemalowal nazwe na 'Mortuga' bo Godrik podal sie za posrednika Mortugi. Takze wyjasnia dlaczego Godrik/Gripp szukal Felicii (nie Mortugi) po przebudzeniu - bo to ona nosila Jezyk Syreny i rozumiala mowe Syreny.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 76/96 pokryte. Nieprzypisane (20): Request (2) + 3 duze Choice sety (ds44/ds53/ds70, po 4 kazdy) - standardowe oznaczenie 'Grimoire (domniemany)'/'Grimoire (opcja wyboru)'/'(naglowek wyboru)'.",
+    "character_voice": "Godrik: kontynuacja powaznego, introspekcyjnego rejestru wyznania z batch_44."
+  },
+  "categories": {
+    "Godrik Conversation 2": {
+      "Conversation/Godrik Conversation 2/Request exitClueRequest0Hint0": {
+        "en": "What parchment did Mortuga show to Gripp to explain the fate of the Dearest Selena?",
+        "pl": "Jaki pergamin pokazał Mortuga Grippowi, żeby wyjaśnić los Dearest Seleny?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 2/Request exitClueRequest0Hint1": {
+        "en": "What parchment did Mortuga show to Gripp to explain the fate of the Dearest Selena? It featured a note from Felicia...",
+        "pl": "Jaki pergamin pokazał Mortuga Grippowi, żeby wyjaśnić los Dearest Seleny? Widniała na nim notatka od Felicii...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds100": {
+        "en": "Right. Drummond assumed I was merely acting as intermediary for Mortuga, the true buyer.",
+        "pl": "Właśnie. Drummond zakładał, że jestem tylko pośrednikiem Mortugi, prawdziwego nabywcy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds101": {
+        "en": "Because Drummond wanted Mortuga to think he owned the submarine.",
+        "pl": "Bo Drummond chciał, żeby Mortuga myślał, że to on jest właścicielem łodzi podwodnej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds102": {
+        "en": "Because Gripp told Drummond his name was Mortuga.",
+        "pl": "Bo Gripp powiedział Drummondowi, że nazywa się Mortuga.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds103": {
+        "en": "Did you tell Mortuga what you'd done?",
+        "pl": "Powiedziałeś Mortudze, co zrobiłeś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds104": {
+        "en": "Felicia had been the one wearing The Mermaid's Tongue...",
+        "pl": "To Felicia nosiła Język Syreny...",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds105": {
+        "en": "Felicia had been the one to spot the Wooden Buoy.",
+        "pl": "To Felicia dostrzegła Drewnianą Boję.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds106": {
+        "en": "Felicia had been the one to unlock the Cauldron.",
+        "pl": "To Felicia otworzyła Kocioł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds108": {
+        "en": "You offered to buy the Dearest Selena instead.",
+        "pl": "Zaproponowałeś, że zamiast tego kupisz Dearest Selenę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds109": {
+        "en": "You offered to buy both the Seafoam Submarine [i]and[/i] the Dearest Selena.",
+        "pl": "Zaproponowałeś, że kupisz zarówno Łódź Podwodną Seafoam, [i]jak i[/i] Dearest Selenę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds110": {
+        "en": "Besides, I knew [i]all too well[/i] the allure of a worthy challenge - a chance to put one's skills to their fullest.",
+        "pl": "Poza tym [i]aż nazbyt dobrze[/i] znałem powab godnego wyzwania - szansę, żeby w pełni wykorzystać swoje umiejętności.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds111": {
+        "en": "He told me that he and Felicia had locked it away in the Cauldron and thrown it back into the ocean.",
+        "pl": "Powiedział mi, że on i Felicia zamknęli go w Kotle i wrzucili z powrotem do oceanu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds112": {
+        "en": "-that was enough time to convince him to come with me and help search for The Mermaid's Tongue.",
+        "pl": "-to był wystarczający czas, żeby przekonać go, by pojechał ze mną i pomógł szukać Języka Syreny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds113": {
+        "en": "He wasn't happy about it. But the submarine took months to complete-",
+        "pl": "Nie był z tego zadowolony. Ale budowa łodzi podwodnej zajęła miesiące-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds114": {
+        "en": "She did not say [i]where[/i] she was going.",
+        "pl": "Nie powiedziała, [i]dokąd[/i] jedzie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds115": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 2/Section ds17": {
+        "en": "After I awoke, I went looking for Felicia.",
+        "pl": "Kiedy się obudziłem, wyruszyłem szukać Felicii.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds21": {
+        "en": "I went to the Stonetop Inn, but Felicia was not there.",
+        "pl": "Poszedłem do Gospody Stonetop, ale Felicii tam nie było.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds23": {
+        "en": "At first, Mortuga said nothing. He merely looked at me.",
+        "pl": "Z początku Mortuga nic nie powiedział. Tylko na mnie patrzył.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds24": {
+        "en": "I was horrified to learn this.",
+        "pl": "Byłem przerażony, gdy się o tym dowiedziałem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds25": {
+        "en": "I demanded that we take the Dearest Selena back out on a second voyage, to recover the sunken Cauldron.",
+        "pl": "Zażądałem, żebyśmy wypłynęli Dearest Seleną na drugą wyprawę, żeby odzyskać zatopiony Kocioł.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds26": {
+        "en": "Mortuga said it was 'impossible'.",
+        "pl": "Mortuga powiedział, że to 'niemożliwe'.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds27": {
+        "en": "And secondly, Felicia had decommissioned the ship and it was being taken apart at the shipyard.",
+        "pl": "A po drugie, Felicia wycofała statek ze służby i był rozbierany w stoczni.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds29": {
+        "en": "In explanation, Mortuga handed me a folded piece of parchment.",
+        "pl": "Na wyjaśnienie Mortuga podał mi złożoną kartkę pergaminu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds31": {
+        "en": "I told him yes; she had.",
+        "pl": "Powiedziałem mu, że tak; zrobiła to.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds32": {
+        "en": "Mortuga told me he had slept through Felicia's parting visit. He was [i]distraught[/i] over it. [i]Heartbroken.[/i]",
+        "pl": "Mortuga powiedział mi, że przespał pożegnalną wizytę Felicii. Był tym [i]zrozpaczony.[/i] [i]Załamany.[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds33": {
+        "en": "Mortuga's eyes opened wide.",
+        "pl": "Oczy Mortugi rozszerzyły się.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds34": {
+        "en": "I told him yes. Yes, she'd told me where she was going and she'd given me the address.",
+        "pl": "Powiedziałem mu, że tak. Tak, powiedziała mi, dokąd jedzie, i dała mi adres.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds35": {
+        "en": "His eyes, widened further;",
+        "pl": "Jego oczy rozszerzyły się jeszcze bardziej;",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds36": {
+        "en": "I told him I would...",
+        "pl": "Powiedziałem mu, że to zrobię...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds37": {
+        "en": "Mortuga told me again how it was [i]impossible;[/i]",
+        "pl": "Mortuga znowu powiedział mi, że to [i]niemożliwe;[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds38": {
+        "en": "I didn't want to hear it. I left the Inn, still clutching the Deeds.",
+        "pl": "Nie chciałem tego słuchać. Wyszedłem z gospody, wciąż ściskając akt własności.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds39": {
+        "en": "I went down to the shipyard, and spoke with Donovan Drummond - he had begun taking apart the Dearest Selena.",
+        "pl": "Poszedłem do stoczni i porozmawiałem z Donovanem Drummondem - zaczął już rozbierać Dearest Selenę.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds40": {
+        "en": "...but if [i]you[/i] commissioned it, why was it called The [i]Mortuga[/i] Submarine? Who painted that on the fore deck?",
+        "pl": "...ale jeśli to [i]ty[/i] ją zamówiłeś, to czemu nazywała się Łodzią Podwodną [i]Mortuga?[/i] Kto namalował to na dziobowym pokładzie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds41": {
+        "en": "Indeed, the task of combining the two incomplete vessels into a single seaworthy one was highly intriguing to him.",
+        "pl": "Rzeczywiście, zadanie połączenia dwóch niedokończonych jednostek w jedną, zdolną do żeglugi, było dla niego bardzo intrygujące.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds42": {
+        "en": "...is the [i]Inn[/i] really worth as much as [i]two vessels?[/i]",
+        "pl": "...czy [i]gospoda[/i] naprawdę jest warta tyle, co [i]dwie jednostki?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds43": {
+        "en": "Drummond merely asked how I was going to pay for two vessels.",
+        "pl": "Drummond tylko spytał, jak zamierzam zapłacić za dwie jednostki.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds44": {
+        "en": "However, I was determined to find a solution...",
+        "pl": "Byłem jednak zdeterminowany, żeby znaleźć rozwiązanie...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds44 Choice 1": {
+        "en": "You offered to finish the Seafoam Submarine yourself.",
+        "pl": "Zaproponowałeś, że sam dokończysz Łódź Podwodną Seafoam.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds44 Choice 2": {
+        "en": "You offered to buy the Dearest Selena instead.",
+        "pl": "Zaproponowałeś, że zamiast tego kupisz Dearest Selenę.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds44 Choice 3": {
+        "en": "You offered to buy both the Seafoam Submarine [i]and[/i] the Dearest Selena.",
+        "pl": "Zaproponowałeś, że kupisz zarówno Łódź Podwodną Seafoam, [i]jak i[/i] Dearest Selenę.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds44 Choice Question": {
+        "en": "However, I was determined to find a solution...",
+        "pl": "Byłem jednak zdeterminowany, żeby znaleźć rozwiązanie...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds45": {
+        "en": "He told me he would be willing to part with it, but it had never been finished.",
+        "pl": "Powiedział mi, że byłby skłonny się jej pozbyć, ale nigdy nie została dokończona.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds46": {
+        "en": "I enquired about purchasing Drummond's unused submarine. The Seafoam Submarine.",
+        "pl": "Zapytałem o zakup nieużywanej łodzi podwodnej Drummonda. Łodzi Podwodnej Seafoam.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds47": {
+        "en": "Perhaps not. But in truth, I think Drummond was glad to have an excuse to part with them.",
+        "pl": "Może nie. Ale prawdę mówiąc, myślę, że Drummond był rad z okazji, żeby się ich pozbyć.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds48": {
+        "en": "And so, it was done.",
+        "pl": "I tak to się stało.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds49": {
+        "en": "[i]Drummond[/i] did. He didn't want it to say 'Seafoam' any longer. Too many painful memories.",
+        "pl": "[i]Drummond.[/i] Nie chciał już, żeby widniało tam 'Seafoam'. Zbyt wiele bolesnych wspomnień.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds50": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds52": {
+        "en": "I... told him of my intention to return to the [i]ocean[/i] - in a submarine I was having constructed. ",
+        "pl": "Ja... powiedziałem mu o moim zamiarze powrotu na [i]ocean[/i] - łodzią podwodną, którą kazałem zbudować. ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds53": {
+        "en": "But why 'Mortuga' and not 'Gripp'?",
+        "pl": "Ale czemu 'Mortuga', a nie 'Gripp'?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds53 Choice 1": {
+        "en": "Because Gripp paid for it with the Inn Deeds, which were in Mortuga's name.",
+        "pl": "Bo Gripp zapłacił za nią aktem własności gospody, który był wystawiony na nazwisko Mortugi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds53 Choice 2": {
+        "en": "Because Gripp told Drummond his name was Mortuga.",
+        "pl": "Bo Gripp powiedział Drummondowi, że nazywa się Mortuga.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds53 Choice 3": {
+        "en": "Because Drummond wanted Mortuga to think he owned the submarine.",
+        "pl": "Bo Drummond chciał, żeby Mortuga myślał, że to on jest właścicielem łodzi podwodnej.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds53 Choice Question": {
+        "en": "But why 'Mortuga' and not 'Gripp'?",
+        "pl": "Ale czemu 'Mortuga', a nie 'Gripp'?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds54": {
+        "en": "Because Gripp paid for it with the Inn Deeds, which were in Mortuga's name.",
+        "pl": "Bo Gripp zapłacił za nią aktem własności gospody, który był wystawiony na nazwisko Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds55": {
+        "en": "He only came with you because you were pretending to know where [i]Felicia[/i] had gone, and you were withholding it from him.",
+        "pl": "Poszedł z tobą tylko dlatego, że udawałeś, że wiesz, dokąd wyjechała [i]Felicia[/i], i zatajałeś to przed nim.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds56": {
+        "en": "What were you going to do if and when Mortuga realised you'd been [i]lying[/i] to him?",
+        "pl": "Co zamierzałeś zrobić, jeśli i kiedy Mortuga zorientowałby się, że go [i]okłamywałeś?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 2/Section ds57": {
+        "en": "It was worth the risk. There was no question of leaving The Mermaid's Tongue at the bottom of the ocean.",
+        "pl": "Warto było zaryzykować. Nie było mowy o tym, żeby zostawić Język Syreny na dnie oceanu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds61": {
+        "en": "Correct.\nAs I had lied to him, he had lied to me.",
+        "pl": "Zgadza się.\nSkoro ja go okłamałem, on okłamał mnie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds62": {
+        "en": "But it [i]wasn't[/i] lost in the ocean. Mortuga had it the whole time.",
+        "pl": "Ale to [i]nie było[/i] zgubione w oceanie. Mortuga miał to przez cały czas.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds64": {
+        "en": "He said they'd kept the Wooden Buoy so that nobody else would ever be able to find it...",
+        "pl": "Powiedział, że zatrzymali Drewnianą Boję, żeby nikt inny nigdy nie mógł tego znaleźć...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds65": {
+        "en": "...and they'd kept the Iron Bell, so that even if someone [i]was[/i] to come across the Cauldron, they wouldn't be able to unlock it.",
+        "pl": "...a Żelazny Dzwon zatrzymali, żeby nawet gdyby ktoś [i]natknął[/i] się na Kocioł, nie mógł go otworzyć.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds66": {
+        "en": "Mortuga was in his bed. Asleep. He looked ill. Weak.",
+        "pl": "Mortuga leżał w łóżku. Spał. Wyglądał na chorego. Słabego.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds67": {
+        "en": "Mortuga hadn't mentioned it, and I did not ask about it.",
+        "pl": "Mortuga o tym nie wspomniał, a ja nie pytałem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds68": {
+        "en": "Did you ask about the necklace key?",
+        "pl": "Pytałeś o kluczyk z naszyjnika?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds69": {
+        "en": "-not Mortuga?",
+        "pl": "-nie Mortugi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds70": {
+        "en": "No. Felicia.",
+        "pl": "Nie. Felicii.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds70 Choice 1": {
+        "en": "Felicia had been the one wearing The Mermaid's Tongue.",
+        "pl": "To Felicia nosiła Język Syreny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds70 Choice 2": {
+        "en": "Felicia had been the one to unlock the Cauldron.",
+        "pl": "To Felicia otworzyła Kocioł.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds70 Choice 3": {
+        "en": "Felicia had been the one to spot the Wooden Buoy.",
+        "pl": "To Felicia dostrzegła Drewnianą Boję.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds70 Choice Question": {
+        "en": "Why did Gripp go looking for Felicia and not Mortuga?",
+        "pl": "Czemu Gripp szukał Felicii, a nie Mortugi?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 2/Section ds71": {
+        "en": "Correct. Given what I knew of its function, I surmised she may have understood what The Mermaid had said to me.",
+        "pl": "Zgadza się. Biorąc pod uwagę to, co wiedziałem o jego działaniu, przypuszczałem, że mogła zrozumieć, co Syrena do mnie powiedziała.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds73": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 2/Section ds74": {
+        "en": "I searched through the empty building until I came to Mortuga's room. ",
+        "pl": "Przeszukiwałem pusty budynek, aż dotarłem do pokoju Mortugi. ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds75": {
+        "en": "I was encouraged to see that he had at least retained the Wooden Buoy and the Iron Bell.",
+        "pl": "Otuchy dodał mi widok, że przynajmniej zachował Drewnianą Boję i Żelazny Dzwon.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds76": {
+        "en": "I asked him about The Mermaid's Tongue. What had happened to it? Where was it?",
+        "pl": "Zapytałem go o Język Syreny. Co się z nim stało? Gdzie był?",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds77": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds78": {
+        "en": "My only chance of summoning and communicating with The Mermaid, lost beneath the waves. Or so I thought.",
+        "pl": "Moja jedyna szansa na przywołanie Syreny i porozumienie się z nią, stracona pod falami. A przynajmniej tak sądziłem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds79": {
+        "en": "At that time I simply assumed it had been left in the mouth of the Mermaid's Tongue and thus would be in the Cauldron.",
+        "pl": "W tamtym czasie po prostu zakładałem, że została w ustach Języka Syreny, a więc znajdowałaby się w Kotle.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds80": {
+        "en": "For one, the Dearest Selena couldn't recover it from the bottom of the ocean, if it was not attached to the Buoy.",
+        "pl": "Po pierwsze, Dearest Selena nie mogła jej odzyskać z dna oceanu, jeśli nie była przymocowana do Boi.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds81": {
+        "en": "It had inscribed a note from Felicia. She was to be leaving town immediately.",
+        "pl": "Był na nim wypisany liścik od Felicii. Miała natychmiast opuścić miasteczko.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds82": {
+        "en": "With a desperate look, he asked me if Felicia had [i]also[/i] come to visit [i]me[/i] on her way out of town.",
+        "pl": "Z rozpaczliwym spojrzeniem zapytał mnie, czy Felicia [i]też[/i] odwiedziła [i]mnie[/i] w drodze z miasteczka.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds83": {
+        "en": "",
+        "pl": "",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds84": {
+        "en": ".........",
+        "pl": ".........",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds86": {
+        "en": "...!!",
+        "pl": "...!!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 2/Section ds87": {
+        "en": "I woke him up.",
+        "pl": "Obudziłem go.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds88": {
+        "en": "[i]'Did she say where she was going? I must know! I have to know!'[/i]",
+        "pl": "[i]'Powiedziała, dokąd jedzie? Muszę wiedzieć! Muszę to wiedzieć!'[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds89": {
+        "en": "[i]'Give it to me! I need to know! I'll go after her!'[/i]",
+        "pl": "[i]'Powiedz mi! Muszę wiedzieć! Pojadę za nią!'[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds90": {
+        "en": "...in exchange for The Mermaid's Tongue.",
+        "pl": "...w zamian za Język Syreny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds92": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 2/Section ds93": {
+        "en": "[i]'There's no way. It's lost. You need to let it go.'[/i]",
+        "pl": "[i]'Nie ma mowy. To przepadło. Musisz to odpuścić.'[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds95": {
+        "en": "In order for it to be seaworthy, it would need several new parts that would take a long time to build-",
+        "pl": "Żeby nadawała się do żeglugi, potrzebowałaby kilku nowych części, których budowa zajęłaby dużo czasu-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds96": {
+        "en": "You offered to finish the Seafoam Submarine yourself.",
+        "pl": "Zaproponowałeś, że sam dokończysz Łódź Podwodną Seafoam.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 2/Section ds97": {
+        "en": "Correct. I suggested we could use parts from the sailing ship to finish the submarine-",
+        "pl": "Zgadza się. Zaproponowałem, że możemy użyć części z żaglowca, żeby dokończyć łódź podwodną-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 2/Section ds98": {
+        "en": "I showed him the deeds to the Stonetop Inn. He accepted it as payment.\n",
+        "pl": "Pokazałem mu akt własności Gospody Stonetop. Przyjął to jako zapłatę.\n",
+        "speaker": "Godrik"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Godrik Conversation 2/ds79 'left in the mouth of the Mermaid's Tongue'",
+      "problem": "Niejasna fraza w zrodle - 'left in the mouth of the Mermaid's Tongue' moze oznaczac ze cos (jaki przedmiot?) zostalo w ustach maski, albo to skrot myslowy odnoszacy sie do samej maski. Przetlumaczono doslownie ('w ustach Jezyka Syreny') zachowujac tę samą niejednoznacznosc co w oryginale - do sprawdzenia w kontekscie calej gry czy chodzi o kluczyk z naszyjnika czy o co innego."
+    }
+  ]
+}

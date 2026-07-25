@@ -1,0 +1,2226 @@
+[
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 1 1",
+    "en": "slots into"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 1 2",
+    "en": "pushes down"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 1 3",
+    "en": "pierces"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 1 4",
+    "en": "lifts up"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 1 5",
+    "en": "wraps around"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 2 1",
+    "en": "to lock or unlock the cauldron"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 2 2",
+    "en": "to dismantle the Iron Bell"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 2 3",
+    "en": "to destroy the Cauldron"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 2 4",
+    "en": "to be used as a motor"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareBellCauldron connector 2 5",
+    "en": "to emit a sound"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 1 1",
+    "en": "is the same as"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 1 2",
+    "en": "is nothing to do with"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 1 3",
+    "en": "is the mirror image of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 1 4",
+    "en": "was the inspiration for"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 1 5",
+    "en": "is the secret to"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 2 1",
+    "en": "suggesting the box is from Fellow Manor"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 2 2",
+    "en": "suggesting the box is from Silkwirm-on-sea"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 2 3",
+    "en": "suggesting the box belongs to Baroness Fortuna"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 2 4",
+    "en": "suggesting the box belongs to Mariana Moon"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareMoon1 connector 2 5",
+    "en": "suggesting the box is from the Silkwirm Spectator"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 1 1",
+    "en": "is an exact match of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 1 2",
+    "en": "is a mirror image of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 1 3",
+    "en": "is fairly similar to"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 1 4",
+    "en": "doesn't look anything like"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 1 5",
+    "en": "is a longer version of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 2 1",
+    "en": "but it doesn't match any of the other cards"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 2 2",
+    "en": "because Sinthia wrote it from memory"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 2 3",
+    "en": "and it matches all the other cards as well"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 2 4",
+    "en": "because it was written by Mortuga"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareSinthia1 connector 2 5",
+    "en": "because the same pen was used for both"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 1 1",
+    "en": "is an engraving of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 1 2",
+    "en": "is a counterfeit of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 1 3",
+    "en": "is a transcript of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 1 4",
+    "en": "is a photograph of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 1 5",
+    "en": "is a painting of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 2 1",
+    "en": "because it was made by Waylan Wolfe"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 2 2",
+    "en": "because it was made by Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 2 3",
+    "en": "because it was made by Mariana Moon"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 2 4",
+    "en": "because it was made by Wit & Whimsy"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareTadpole2 connector 2 5",
+    "en": "because it was made by Madam Tadpole"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 1 1",
+    "en": "is drawn in the same style as"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 1 2",
+    "en": "is a set of instructions for"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 1 3",
+    "en": "rhymes with"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 1 4",
+    "en": "is the real meaning behind"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 1 5",
+    "en": "sounds a bit like"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 2 1",
+    "en": "because it's a plan for the next book"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 2 2",
+    "en": "because it matches the movie logo"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 2 3",
+    "en": "because it was created years ago"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 2 4",
+    "en": "because it's actually a secret code"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareWirman1 connector 2 5",
+    "en": "because Wirman made a mistake"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 1 1",
+    "en": "wirelessly transmits to"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 1 2",
+    "en": "is plugged into"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 1 3",
+    "en": "wirelessly receives from"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 1 4",
+    "en": "points in the direction of"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 1 5",
+    "en": "vibrates when it gets near"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 2 1",
+    "en": "and the Fog Ball receives the dream energy"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 2 2",
+    "en": "and the Fog Ball transmits the dream energy"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 2 3",
+    "en": "and the Fog Ball receives the radio signal"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 2 4",
+    "en": "and the Fog Ball transmits the radio signal"
+  },
+  {
+    "term": "Puzzles/Connectors/CompareZephyr2 connector 2 5",
+    "en": "and the Fog Ball violently explodes"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 1 1",
+    "en": "was the original inspiration for"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 1 2",
+    "en": "was an employee of"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 1 3",
+    "en": "was murdered by"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 1 4",
+    "en": "was fired by"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 1 5",
+    "en": "was married to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 2 1",
+    "en": "who Dirk plays in the movie adaptation"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 2 2",
+    "en": "who paid Dirk a lot of money"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 2 3",
+    "en": "who wanted to murder Mortuga"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 2 4",
+    "en": "who wanted to murder Dirk"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk1 connector 2 5",
+    "en": "who is secretly on board the submarine"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 1 1",
+    "en": "asked Dirk to spy on"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 1 2",
+    "en": "needed Wirman to meet"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 1 3",
+    "en": "told Dirk to kill"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 1 4",
+    "en": "asked Wirman to talk to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 1 5",
+    "en": "wanted Dirk to replace"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 2 1",
+    "en": "and report back"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 2 2",
+    "en": "to become friends with them"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 2 3",
+    "en": "and try to murder them"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 2 4",
+    "en": "to make a lot of money"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameDirk2 connector 2 5",
+    "en": "to cheer them up"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 1",
+    "en": "fell through"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 2",
+    "en": "landed inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 3",
+    "en": "was placed on top of"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 4",
+    "en": "knocked over"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 5",
+    "en": "got stuck in"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 1",
+    "en": "and landed in the Bilge"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 2",
+    "en": "and stayed in the Illusion Theatre"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 3",
+    "en": "and landed in the Captain's Cabin"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 4",
+    "en": "and was lost forever"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 5",
+    "en": "and landed in the Airlock"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 1",
+    "en": "unlocked"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 2",
+    "en": "removed"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 3",
+    "en": "killed"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 4",
+    "en": "locked"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 5",
+    "en": "replaced"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 1",
+    "en": "and was killed by what was inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 2",
+    "en": "in order to frame somebody else"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 3",
+    "en": "and hid something inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 4",
+    "en": "and killed the person inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 5",
+    "en": "because someone told him to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 1 1",
+    "en": "brought something onto"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 1 2",
+    "en": "brought somebody onto"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 1 3",
+    "en": "took something away from"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 1 4",
+    "en": "took somebody away from"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 1 5",
+    "en": "killed somebody from"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 2 1",
+    "en": "to give to Mortuga"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 2 2",
+    "en": "in order to kill Mortuga"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 2 3",
+    "en": "to frame someone"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 2 4",
+    "en": "as a joke"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMariana1 connector 2 5",
+    "en": "to pay off a debt"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 1 1",
+    "en": "was wedged into"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 1 2",
+    "en": "was designed to fit into"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 1 3",
+    "en": "was glued onto"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 1 4",
+    "en": "was removed from"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 1 5",
+    "en": "was screwed into"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 2 1",
+    "en": "to kill Mortuga when it rotated around"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 2 2",
+    "en": "to trap Mortuga in the Illusion Theatre"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 2 3",
+    "en": "to kill Mortuga when it fell down"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 2 4",
+    "en": "to keep Mortuga out of the Illusion Theatre"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameMurderMethod connector 2 5",
+    "en": "to kill Mortuga when it shot forward"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 1 1",
+    "en": "signed the contract after"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 1 2",
+    "en": "signed the contract before"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 1 3",
+    "en": "signed the contract inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 1 4",
+    "en": "showed the contract to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 1 5",
+    "en": "signed the contract with"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 2 1",
+    "en": "and forged Mortuga's signature"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 2 2",
+    "en": "because nobody else wanted to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 2 3",
+    "en": "to avoid paying taxes"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 2 4",
+    "en": "and asked Mortuga to sign it"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSinthia1 connector 2 5",
+    "en": "to trick Sinthia into signing it"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 1",
+    "en": "could still work as a double for"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 2",
+    "en": "could permanently replace"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 3",
+    "en": "could be balanced on top of"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 4",
+    "en": "could still fit inside"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 5",
+    "en": "could reflect an image of"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 1",
+    "en": "if it was facing away from the audience"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 2",
+    "en": "if it was placed upside-down"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 3",
+    "en": "if the audience had never met Symmetry"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 4",
+    "en": "if the trick was done in the dark"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 5",
+    "en": "if the audience was really far away"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 1",
+    "en": "rattles when you shake it, because"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 2",
+    "en": "is very fragile, because"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 3",
+    "en": "feels cold to the touch, because"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 4",
+    "en": "is very heavy, because"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 5",
+    "en": "gives off a strange smell, because"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 1",
+    "en": "is hidden inside the ship"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 2",
+    "en": "has been removed from the bottle"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 3",
+    "en": "has been painted onto the bottle"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 4",
+    "en": "is stuck to the outside of the ship"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 5",
+    "en": "has been stolen from the ship"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 1 1",
+    "en": "needed to steal"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 1 2",
+    "en": "originally created"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 1 3",
+    "en": "needed to kill"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 1 4",
+    "en": "wanted to reveal"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 1 5",
+    "en": "started a rumor about"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 2 1",
+    "en": "to use as the plot for his next book"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 2 2",
+    "en": "for a newspaper article"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 2 3",
+    "en": "to use as evidence in a court case"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 2 4",
+    "en": "as a political statement"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameWirman1 connector 2 5",
+    "en": "to use as the script in a movie"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 1 1",
+    "en": "contains"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 1 2",
+    "en": "is actually just"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 1 3",
+    "en": "was fed to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 1 4",
+    "en": "is larger than"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 1 5",
+    "en": "is related to"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 2 1",
+    "en": "and it's asleep"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 2 2",
+    "en": "but it was stolen"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 2 3",
+    "en": "but it's fake"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 2 4",
+    "en": "but it's dead"
+  },
+  {
+    "term": "Puzzles/Connectors/TestMindGameZephyr1 connector 2 5",
+    "en": "and it can talk"
+  },
+  {
+    "term": "Puzzles/HUD/AttachGame_CrimeSceneBlood 1",
+    "en": "A phenomenon that's evidence of the submarine suddenly tilting..."
+  },
+  {
+    "term": "Puzzles/HUD/AttachGame_CrimeSceneSymHide 1",
+    "en": "Where was the real Sym during her new magic trick?"
+  },
+  {
+    "term": "Puzzles/HUD/AttachGame_MermaidsTongue 1",
+    "en": "Let's put the Mermaid's Tongue back together..."
+  },
+  {
+    "term": "Puzzles/HUD/AttachGame_OceanMapRippedScroll 1",
+    "en": "Two parts that make up a complete image of The Mermaid's Tongue..."
+  },
+  {
+    "term": "Puzzles/HUD/CompareBellCauldron 1",
+    "en": "What's the connection between the Iron Bell and the Stone Cauldron...?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareMoon1 1",
+    "en": "Does the map tell us anything about the black box...?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareMoon1 2",
+    "en": "Do the map and the box have any matching iconography?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareSinthia1 1",
+    "en": "what's the connection between the contract and the captain's log...?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareSinthia1 2",
+    "en": "...is there something strange about the signatures in the captain's log?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareTadpole2 1",
+    "en": "How do we know who owned the pocketbook...?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareWirman1 1",
+    "en": "Do these clues have something in common...?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareWirman1 2",
+    "en": "...is there some feature that both clues have?"
+  },
+  {
+    "term": "Puzzles/HUD/CompareWirman1 3",
+    "en": "There's something curious about the titles..."
+  },
+  {
+    "term": "Puzzles/HUD/CompareZephyr2 1",
+    "en": "What's the connection between these two clues?"
+  },
+  {
+    "term": "Puzzles/HUD/GrippShop 1",
+    "en": "Welcome to Mr Gripp's Emporium!"
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxDirk 1",
+    "en": "Drag the tiles into the correct slots."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxGripp 1",
+    "en": "Drag the correct compass into each of the four slots."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxMariana 1",
+    "en": "Drag the pieces of paper into the correct positions."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxMortuga 1",
+    "en": "Swap the positions of the sails. Tap on the boats to rotate them."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxSinthia 1",
+    "en": "Interact with parts of the safe until they're in the correct arrangement."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxSymmetry 1",
+    "en": "Drag the six cards and four glass lenses into the correct arrangement."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxTadpole 1",
+    "en": "Drag the diving helmet to rotate it. Tap on the dials to rotate them."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxWirman 1",
+    "en": "Rotate the three inner dials and the three outer rings into the correct arrangement."
+  },
+  {
+    "term": "Puzzles/HUD/LockedBoxZephyr 1",
+    "en": "Drag the bottle caps and swap them onto the correct droppers."
+  },
+  {
+    "term": "Puzzles/HUD/MarianaStatementBoard 1",
+    "en": "Welcome to Mr Gripp's Emporium!"
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleBellCauldron 1",
+    "en": "Swap the tiles into the correct slots."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleBilge 1",
+    "en": "Rotate the two outer metal dials and the two inner glass orbs."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleDollCabinetDoor 1",
+    "en": "Swap the tiles into the correct slots."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleFeliciaPainting 1",
+    "en": "Search the entire painting for anything that seems strange."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleFlagKeys 1",
+    "en": "Move the flags and pirates into the correct keyholes. Tap the pirates to rotate them."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleHexagonPanel 1",
+    "en": "Drag the nine metal pieces into the correct positions."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleLifesizeDoll 1",
+    "en": "Swap the tiles into the correct slots."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleMarianaTent 1",
+    "en": "Rotate the sun around the board. Select the correct number combination."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleMessHall 1",
+    "en": "Rotate the four dials into the correct arrangement."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleMessHall 2",
+    "en": "Rotate the four dials to place the various shapes in the correct windows."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleMessHall 3",
+    "en": "Rotate the four dials to make the shapes in each window match up to the number."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleSkullSets 1",
+    "en": "Swap the positions of the set labels and the skulls. Tap to rotate the skulls."
+  },
+  {
+    "term": "Puzzles/HUD/PuzzleSwitchboard 1",
+    "en": "Swap the six coloured plugs into the correct sockets."
+  },
+  {
+    "term": "Puzzles/HUD/SuspectBoard1 1",
+    "en": "Swap the info cards into the correct slots. Click the cards to flip them."
+  },
+  {
+    "term": "Puzzles/HUD/SuspectBoard2 1",
+    "en": "You should tell them what you know. All of it."
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameDirk1 1",
+    "en": "Why would Dirk want to research Magnus Mortuga?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameDirk2 1",
+    "en": "Why is Dirk really here on the submarine...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameDirk2 2",
+    "en": "Did somebody give Dirk some sort of mission...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameDirk2 3",
+    "en": "Was Dirk told to keep an eye on someone...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameEyeballKeyVent 1",
+    "en": "How did the culprit get hold of the eyeball key...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameGrimoire1 1",
+    "en": "What happened to Magnus Mortuga...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameMariana1 1",
+    "en": "Why did Mariana come to the submarine, at the request of Mortuga?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameMurderMethod 1",
+    "en": "How did the Iron Bell kill Mortuga...?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameSinthia1 1",
+    "en": "What is Sinthia not telling us about the signing of the contract?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameSinthia1 2",
+    "en": "When did Sinthia sign the contract? And what about Mortuga?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameSymmetry1 1",
+    "en": "Could Symmetry still use her doll in an illusion?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameThirdPerson3 1",
+    "en": "The ship in a bottle..."
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameWirman1 1",
+    "en": "Why would Wirman be interested in meeting Mortuga?"
+  },
+  {
+    "term": "Puzzles/HUD/TestMindGameZephyr1 1",
+    "en": "What's the deal with the Hex Bottle?"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 1",
+    "en": "The Iron Bell"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 10",
+    "en": "the scratches"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 11",
+    "en": "the shape on the lid"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 2",
+    "en": "The mechanism parts"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 3",
+    "en": "The darker part"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 4",
+    "en": "The hanging part"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 5",
+    "en": "The thing wedged in the side"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 6",
+    "en": "The images"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 7",
+    "en": "The moon"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 8",
+    "en": "the Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareBellCauldron part 9",
+    "en": "the lid"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 1",
+    "en": "This 'F' emblem"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 10",
+    "en": "this 'F' emblem"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 11",
+    "en": "this diamond-shaped latch"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 12",
+    "en": "these hinges"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 13",
+    "en": "these handles"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 2",
+    "en": "This 'D' emblem"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 3",
+    "en": "This Fortuna Hall logo"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 4",
+    "en": "This Silkwirm Spectator logo"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 5",
+    "en": "This Stonetop emblem"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 6",
+    "en": "This Gripp's Emporium logo"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 7",
+    "en": "This Seafoam Emblem"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 8",
+    "en": "This lighthouse logo"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareMoon1 part 9",
+    "en": "This family tree"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 1",
+    "en": "Mortuga's signature on the contract"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 10",
+    "en": "Mortuga's signature on this card"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 2",
+    "en": "Sinthia's signature on the contract"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 3",
+    "en": "The title of the contract"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 4",
+    "en": "The first page of the contract"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 5",
+    "en": "The second page of the contract"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 6",
+    "en": "Mortuga's signature on this card"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 7",
+    "en": "the handwritten notes on this card"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 8",
+    "en": "the coordinates on this card"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareSinthia1 part 9",
+    "en": "Sinthia's signature on this card"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 1",
+    "en": "The scratch on the cover"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 10",
+    "en": "the ticket"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 11",
+    "en": "the back of the photo"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 2",
+    "en": "The bloodstain"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 3",
+    "en": "The front cover"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 4",
+    "en": "The spine"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 5",
+    "en": "The back cover"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 6",
+    "en": "The padlock"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 7",
+    "en": "the 'WW' initials"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 8",
+    "en": "the photograph"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareTadpole2 part 9",
+    "en": "the handwritten caption"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 1",
+    "en": "The 'Curse in the Cauldron' title"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 10",
+    "en": "the barcode"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 2",
+    "en": "The typed paragraph"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 3",
+    "en": "The crime scene diagram"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 4",
+    "en": "The wax seal on the bottle"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 5",
+    "en": "the 'Hex of the Helmsman' title"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 6",
+    "en": "Wirman's name"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 7",
+    "en": "the publisher's name"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 8",
+    "en": "the cover illustration"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareWirman1 part 9",
+    "en": "the blurb"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 1",
+    "en": "This antenna"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 2",
+    "en": "This funnel"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 3",
+    "en": "This filter"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 4",
+    "en": "This pair of goggles"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 5",
+    "en": "this antenna"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 6",
+    "en": "this glass ball"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 7",
+    "en": "this metal part"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 8",
+    "en": "this wooden base"
+  },
+  {
+    "term": "Puzzles/Part Names/CompareZephyr2 part 9",
+    "en": "this battery"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 1",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 2",
+    "en": "Markus Mordoom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 3",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 4",
+    "en": "Kristin Kale Publishing"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 5",
+    "en": "Wit & Whimsy Productions"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 6",
+    "en": "Vincent Van De Peer"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 7",
+    "en": "J. D. Wirman"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk1 part 8",
+    "en": "Julié Janélé"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 1",
+    "en": "The Movie Producer"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 2",
+    "en": "J. D. Wirman"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 3",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 4",
+    "en": "Sinthia Seafoam"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 5",
+    "en": "Everyone on the Submarine"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 6",
+    "en": "The Book Publisher"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 7",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameDirk2 part 8",
+    "en": "Julié Janélé"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 1",
+    "en": "The Eyeball Key"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 2",
+    "en": "The Vent Under The Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 3",
+    "en": "The Sail Cloth"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 4",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 5",
+    "en": "The Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 6",
+    "en": "Mortuga's Blood"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 7",
+    "en": "The Bulkhead Door"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameEyeballKeyVent part 8",
+    "en": "The Moon Vial"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 1",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 2",
+    "en": "The Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 3",
+    "en": "Captain Seafoam"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 4",
+    "en": "The Mortuga Submarine"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 5",
+    "en": "The Illusion Theatre"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 6",
+    "en": "A weapon"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 7",
+    "en": "The Wooden Buoy"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameGrimoire1 part 8",
+    "en": "The Bulkhead Door"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 1",
+    "en": "Mariana Moon"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 2",
+    "en": "The Submarine"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 3",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 4",
+    "en": "Madam Tadpole"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 5",
+    "en": "A Cell Phone"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 6",
+    "en": "Silkwirm-on-Sea"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 7",
+    "en": "A Wooden Pipe"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMariana1 part 8",
+    "en": "The Actual Moon"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 1",
+    "en": "A Metal Thing"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 2",
+    "en": "The Iron Bell"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 3",
+    "en": "The Culprit"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 4",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 5",
+    "en": "The Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 6",
+    "en": "A Rope"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 7",
+    "en": "A Sharp Stick"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameMurderMethod part 8",
+    "en": "A Knife"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 1",
+    "en": "Sinthia Seafoam"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 2",
+    "en": "Mortuga's Murder"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 3",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 4",
+    "en": "The Submarine's Construction"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 5",
+    "en": "The Submarine"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 6",
+    "en": "Sinthia's Murder"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 7",
+    "en": "Mortuga's Birthday"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSinthia1 part 8",
+    "en": "Sinthia's Imagination"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 1",
+    "en": "The Doll"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 2",
+    "en": "Symmetry"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 3",
+    "en": "The Fog Ball"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 4",
+    "en": "Lady of the Looking Glass"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 5",
+    "en": "Sinthia"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 6",
+    "en": "The Cauldron"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 7",
+    "en": "The Golden Locket"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameSymmetry1 part 8",
+    "en": "Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 1",
+    "en": "The Ship in a Bottle"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 2",
+    "en": "A Model of Someone Else"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 3",
+    "en": "The Model of Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 4",
+    "en": "The Model of Felicia Stonetop"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 5",
+    "en": "The Model of Selena Stonetop"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 6",
+    "en": "The Moon Vial Dropper"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 7",
+    "en": "The Bottle Cap"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameThirdPerson3 part 8",
+    "en": "The Sail"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 1",
+    "en": "J. D. Wirman"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 2",
+    "en": "Mortuga's real life story"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 3",
+    "en": "Mortuga's love interest"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 4",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 5",
+    "en": "Mordoom's catchphrase"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 6",
+    "en": "Mordoom's hair care routine"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 7",
+    "en": "Markus Mordoom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameWirman1 part 8",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 1",
+    "en": "The Hex Bottle"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 2",
+    "en": "A Sea Creature"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 3",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 4",
+    "en": "Dr Zephyr"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 5",
+    "en": "A Mouse"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 6",
+    "en": "The Moon Vial"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 7",
+    "en": "An Eyeball"
+  },
+  {
+    "term": "Puzzles/Part Names/TestMindGameZephyr1 part 8",
+    "en": "The Fog Ball"
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_CellPhone_StrangeDevice/clueRequest0Hint0",
+    "en": "Let's take a look at Dirk's cellphone..."
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_CellPhone_StrangeDevice/clueRequest1Hint0",
+    "en": "Does something fit into Dirk's cellphone...?"
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_MermaidsTongue/clueRequest0Hint0",
+    "en": "The eyes..."
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_MermaidsTongue/clueRequest1Hint0",
+    "en": "The thing that sticks out the top of the head..."
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_OceanMapRippedScroll/clueRequest0Hint0",
+    "en": "The upper part of the image..."
+  },
+  {
+    "term": "Puzzles/RequestsAttachGame_OceanMapRippedScroll/clueRequest1Hint0",
+    "en": "The lower part of the image..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest0Hint0",
+    "en": "...because he had just opened..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest1Hint0",
+    "en": "...and discovered..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest3Hint0",
+    "en": "Wirman was lured onto the submarine by..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest4Hint0",
+    "en": "The contract Sinthia signed..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest5Hint0",
+    "en": "...that we discovered inside..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/clueRequest6Hint0",
+    "en": "Mortuga did write it in response to being presented with..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/soulRequest2Hint0",
+    "en": "Before Mortuga could leave the submarine, he needed..."
+  },
+  {
+    "term": "Puzzles/RequestsSuspectBoard2/soulRequest7Hint0",
+    "en": "It was somebody else who wished to lure Wirman onto the submarine."
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text0",
+    "en": "We're being held down! We need to resurface!!"
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text1",
+    "en": "The submarine can't take it - the controls are going crazy!"
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text2",
+    "en": "Wait-"
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text3",
+    "en": "What - what did she..."
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text4",
+    "en": "She's gone."
+  },
+  {
+    "term": "Puzzles/Text/CutSceneControlRoom/Text5",
+    "en": "She let us go."
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text0",
+    "en": "Compass"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text1",
+    "en": "Sextant"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text2",
+    "en": "Map"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text3",
+    "en": "Chronometer"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text4",
+    "en": "Spyglass"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text5",
+    "en": "Chart"
+  },
+  {
+    "term": "Puzzles/Text/GrippShop/Text6",
+    "en": "Exit Shop"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxGripp/Text0",
+    "en": "This compass tries to point away from all the others"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxGripp/Text1",
+    "en": "This compass doesn't want to solve this puzzle right now"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxGripp/Text2",
+    "en": "This compass is actually a clock in disguise"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxGripp/Text3",
+    "en": "This compass tries to point at all the others"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxSymmetry/Text0",
+    "en": "Jennifer and Margaret gaze jealously at Patricia, whose doll is neither too large nor too small."
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text0",
+    "en": "a crimson hue upon the label"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text1",
+    "en": "aerated with effervescence"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text2",
+    "en": "exhales a\ncurious vapor"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text3",
+    "en": "drips fall with a hurried cadence"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text4",
+    "en": "a glutinous viscosity"
+  },
+  {
+    "term": "Puzzles/Text/LockedBoxZephyr/Text5",
+    "en": "a conspicuous\nX upon the label"
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text0",
+    "en": "Imagine my excitement - to finally get a good look around the Mortuga Submarine! I was even given a tour by one of Mortuga's subordinates, a Mr Godrik Gripp."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text1",
+    "en": "We begun by visiting a bizarre laboratory known as the 'Dream Chamber.' It smelled of dried herbs and dusty glass, but was devoid of its Dream Custodian."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text10",
+    "en": "Mr Gripp took me down to the cargo hold. It smells of damp wood and tarred rope. Yes, I describe it in the present tense, for it is here I sit as I write this very diary."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text11",
+    "en": "Next door, the engine room; burnished bronze and tea-stained parchment. I learned that it's something of a nest for Mr Gripp himself, and thus was currently unoccupied."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text12",
+    "en": "Outside, I encountered a Dr Zacharius Zephyr, the aforementioned keeper of the Dream Chamber. Surprised to see us, he nearly dropped the empty glass bottle he was carrying."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text13",
+    "en": "Clearly wishing to remove himself from the situation, the good doctor muttered something inaudible and disappeared up the ladder."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text14",
+    "en": "We continued on into the next room, which I was amused to discover was some kind of shimmering mermaid grotto."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text15",
+    "en": "I smelled her before I saw her - the unmistakeable mix of salt, seaweed and sequinned spandex. It can only be Madam Tadpole, a name which may be familiar to longtime readers of this diary."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text16",
+    "en": "Tadpole and I caught up while Mr Gripp skulked in the doorway, clearly hoping this would mark the end of the tour. But it did not, dear reader, it did not!!"
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text2",
+    "en": "An early disappointment - the Captain's Cabin was locked. Mr Gripp explained how Captain Mortuga mostly keeps this room locked when it's not in use."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text3",
+    "en": "We climbed down into the living quarters, where a pair of bunk rooms sat at the end of a corridor."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text4",
+    "en": "The first smelled of crayon dust and unwatered flowers. A young woman was laying in her bed, poring over an old document. "
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text5",
+    "en": "She hastily hid the document away and introduced herself as Miss Sinthia Seafoam. A name to remember, dear reader, as she will shortly become quite important."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text6",
+    "en": "The second bunk room smelled of aftershave and desperation. The two men within (Mr James Wirman and Mr Dirk Dansom) both appeared to be asleep - so we decided not to intrude."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text7",
+    "en": "Next on the tour - a room inhabited (by the looks of things) by a young child who is also a stage magician. Sadly, this mythical child-magician is nowhere to be seen."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text8",
+    "en": "The room at the very end of the hallway was sealed with a heavy bulkhead door. Mr Gripp dismissed it as a store room that only Captain Mortuga makes use of."
+  },
+  {
+    "term": "Puzzles/Text/MarianaStatementBoard/Text9",
+    "en": "(Perhaps you'll agree with me, dear reader, when I suggest the peculiarity of a simple 'store room' being sealed off with such a significant door)"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleBellCauldron/Text0",
+    "en": "Left Side"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleBellCauldron/Text1",
+    "en": "Front"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleBellCauldron/Text2",
+    "en": "Right Side"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleBellCauldron/Text3",
+    "en": "Turn\nHandle"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleBellCauldron/Text4",
+    "en": "Turn Both\nHandles"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleLifesizeDoll/Text0",
+    "en": "Lift Head"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleLifesizeDoll/Text1",
+    "en": "Lift Locket"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleLifesizeDoll/Text2",
+    "en": "Open Flap"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleMarianaTent/Text0",
+    "en": "Dayglo"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleMarianaTent/Text1",
+    "en": "Evergleam"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleMarianaTent/Text2",
+    "en": "Illuminight"
+  },
+  {
+    "term": "Puzzles/Text/PuzzleMarianaTent/Text3",
+    "en": "Nevergleam"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text0",
+    "en": "Move the drawings to the correct positions"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text1",
+    "en": "Commissioned the submarine because he was cursed to live in the ocean "
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text10",
+    "en": "Came across the submarine by pure chance"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text11",
+    "en": "Stole The Mermaid's Tongue from the Airlock and put it in his Cabinet of Curiosity"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text12",
+    "en": "Was asked by Mortuga to keep The Mermaid's Tongue safe in his Cabinet of Curiosity"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text13",
+    "en": "Was invited to work alongside Dr Zephyr  in the Dream Chamber"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text14",
+    "en": "Was invited on board to be the resident Illusionist"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text15",
+    "en": "Performed a magic act for Mortuga which appeared to make him miserable"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text16",
+    "en": "Was asked by Mortuga to perform a magic act in the Illusion Theatre"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text17",
+    "en": "Was saved from drowning by Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text18",
+    "en": "Was kidnapped and kept prisoner by Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text19",
+    "en": "Offered to take over from Mortuga as a way of freeing him from his burden"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text2",
+    "en": "Was coerced into helping Gripp search for The Mermaid's Tongue"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text20",
+    "en": "Blackmailed Mortuga into relinquishing the captaincy to her"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text21",
+    "en": "Sought out the submarine to reclaim ownership of it"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text22",
+    "en": "Sought out Mortuga because he owed her money"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text23",
+    "en": "Mortuga wrote a contract for her to sign so that she could become captain"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text24",
+    "en": "Mortuga wrote a contract which she found after his death and forged his signature"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text25",
+    "en": "Just wanted any kind of quiet place to finish writing his book"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text26",
+    "en": "Was sent a letter explaining how to access the Mortuga submarine"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text27",
+    "en": "Considered using Mortuga's death as the story outline for his next book"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text28",
+    "en": "Interviewed Mortuga as research for his next book"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text29",
+    "en": "Tagged along with Wirman just for fun"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text3",
+    "en": "Was killed when he attempted to unlock the cauldron to get The Mermaid's Tongue"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text30",
+    "en": "Was sent to spy on Wirman and report back to his employer"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text31",
+    "en": "Tried to convince Wirman to kill Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text32",
+    "en": "Tried to convince Wirman to kill Markus Mordoom"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text33",
+    "en": "Was hired by Mortuga to find information about Felicia Stonetop"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text34",
+    "en": "Was hired by Gripp to kill Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text35",
+    "en": "Brought the Black Box onto the submarine and gave it to Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text36",
+    "en": "Brought the Black Box onto the submarine and gave it to Gripp"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text4",
+    "en": "Was killed when he used The Mermaid's Tongue to summon The Mermaid"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text5",
+    "en": "Crashed his hot air balloon into the ocean"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text6",
+    "en": "Commissioned the submarine as a way to search for The Mermaid's Tongue"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text7",
+    "en": "Argued with Mortuga about navigation, resulting in the broken ship's wheel"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text8",
+    "en": "Was with Mortuga when he opened the Black Box and discovered the Necklace Key"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard1/Text9",
+    "en": "Was asked to smuggle The Mermaid's Tongue onto the submarine"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Case File",
+    "en": "Case File"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text0",
+    "en": "Was saved from drowning by Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text1",
+    "en": "Offered to take over from Mortuga as a way of freeing him from his burden"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text10",
+    "en": "Godrik Gripp"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text11",
+    "en": "Symmetry Silkmoth"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text12",
+    "en": "Dr Zephyr"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text13",
+    "en": "Madam Tadpole"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text14",
+    "en": "to reveal the location of"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text15",
+    "en": "Felicia Stonetop."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text16",
+    "en": "The Mermaid."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text17",
+    "en": "Selena Stonetop."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text18",
+    "en": "Sylvia Seafoam."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text19",
+    "en": "Confirm with Tadpole"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text2",
+    "en": "Sought out the submarine to reclaim ownership of it"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text20",
+    "en": "Sinthia became Captain because of"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text21",
+    "en": "Confirm with Tadpole"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text22",
+    "en": "Sinthia became Captain because of"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text23",
+    "en": "the Command Contract,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text24",
+    "en": "the Captain's Log,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text25",
+    "en": "the Submarine Blueprint,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text26",
+    "en": "the Newspaper page,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text27",
+    "en": "has another page, that we discovered inside"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text28",
+    "en": "but it has another page that we discovered inside"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text29",
+    "en": "the Message in a Bottle."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text3",
+    "en": "Mortuga wrote a contract which she found after his death and forged his signature"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text30",
+    "en": "the Black Box."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text31",
+    "en": "the Cabinet of Curiosity."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text32",
+    "en": "the Pocketbook."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text33",
+    "en": "While it's true that Mortuga did decide to create the Command Contract after Sinthia showed him"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text34",
+    "en": "the Inn Deeds,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text35",
+    "en": "the Handheld Radio,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text36",
+    "en": "the Underwater Photo,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text37",
+    "en": "the Broken Compass,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text38",
+    "en": "the contract was never intended for Sinthia."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text39",
+    "en": "Confirm with Sinthia"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text4",
+    "en": "Was sent a letter explaining how to access the Mortuga submarine"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text40",
+    "en": "Wirman was lured onto the submarine by"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text41",
+    "en": "the Handwritten Letter,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text42",
+    "en": "the Cell Phone,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text43",
+    "en": "the Wooden Buoy,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text44",
+    "en": "but it wasn't actually from by who it claimed to be from."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text45",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text46",
+    "en": "Dirk Dansom"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text47",
+    "en": "Vincent Van De Peer"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text48",
+    "en": "Damian Dusk"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text49",
+    "en": "sent it, hoping to lure Wirman onto the submarine."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text5",
+    "en": "Considered using Mortuga's death as the story outline for his next book"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text50",
+    "en": "He'd hoped Wirman might have information about"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text51",
+    "en": "Felicia Stonetop"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text52",
+    "en": "The Mermaid"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text53",
+    "en": "Selena Stonetop"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text54",
+    "en": "Julie Janele"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text55",
+    "en": "because Wirman's father had been acquainted with her."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text56",
+    "en": "Confirm with Wirman"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text57",
+    "en": "Watching Symmetry perform"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text58",
+    "en": "'The Star-Gazing Girl'"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text59",
+    "en": "'Lady of the Looking-Glass'"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text6",
+    "en": "Was invited to work alongside Dr Zephyr  in the Dream Chamber"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text60",
+    "en": "'My Departed Uncle Gregory'"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text61",
+    "en": "'Hex of the Helmsman'"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text62",
+    "en": "did not make Mortuga miserable."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text63",
+    "en": "He was already miserable, because he had just found"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text64",
+    "en": "the Mourning Envelope,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text65",
+    "en": "the Mermaid's Tongue,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text66",
+    "en": "the HER Painting,"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text67",
+    "en": "which informed him"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text68",
+    "en": "Governor Fellow"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text69",
+    "en": "had died."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text7",
+    "en": "Performed a magic act for Mortuga which appeared to make him miserable"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text70",
+    "en": "Confirm with Symmetry"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text71",
+    "en": "Crashed his hot air balloon into the ocean"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text72",
+    "en": "Commissioned the submarine as a way to search for The Mermaid's Tongue"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text73",
+    "en": "Argued with Mortuga about navigation, resulting in the broken ship's wheel"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text74",
+    "en": "Was with Mortuga when he opened the Black Box and discovered the Necklace Key"
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text8",
+    "en": "Even though he did wish to leave the submarine, Mortuga could not accept Tadpole's offer to give up his captaincy to her."
+  },
+  {
+    "term": "Puzzles/Text/SuspectBoard2/Text9",
+    "en": "Before Mortuga could leave the submarine, he needed"
+  }
+]

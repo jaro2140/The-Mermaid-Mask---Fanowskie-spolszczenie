@@ -1,0 +1,725 @@
+{
+  "_meta": {
+    "batch": "Wirman 05 SUSPICION (141 terminow) - konczy caly luk Wirman (212/212). Pelne wyznanie: Wirman dostal list od tajemniczego 'T. W. Ibis' (dawny szef z czasow dziennikarskich, tozsamosc czesciowo niejasna - skad Ibis wiedzial o istnieniu lodzi Mortugi pozostaje NIEWYJASNIONE), ktory przekonal go do powrotu do Silkwirm nad Morzem. Po smierci Mortugi, Wirman spisal na maszynie 'zarys fabuly' (a wlasciwie relacje z prawdziwych wydarzen) do swojej kolejnej ksiazki, poczul sie winny, zapieczetowal to w butelce i wyrzucil do oceanu - butelka trafila z powrotem na lodz (znalazla ja Tadpole). WAZNE: papier z tej butelki pasuje do papieru z KONTRAKTU DOWODCZEGO Sinthii (batch_14) - potwierdza to ze Wirman napisal na maszynie rowniez ten kontrakt (co bylo juz domniemane w batch_14 z powodu czasu, teraz potwierdzone bezposrednio dowodem materialnym).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 117/141 pokryte (Wirman 58, Grimoire 36, Sally 23). 24 nieprzypisanych to mechanika Request + Choice sets (ds23/ds73) - standardowe oznaczenie. BRAK kwestii 'Pipe' w tej scenie (jedyna SUSPICION jak dotad bez tego watku).",
+    "character_voice": "Wirman: formalny rejestr (patrz batch_36-38), samoswiadomy/ironiczny, teraz w obronie/wyznaniu winy.",
+    "new_lore": "T. W. Ibis - dawny szef Wirmana z czasow dziennikarskich (potwierdzone), autor listu ktory przekonal go do powrotu - ale SKAD Ibis wiedzial o lokalizacji lodzi Mortugi (podobno miejska legenda, nie wiedza powszechna) pozostaje calkowicie niewyjasnione w tej partii, oflagowane w VERIFICATION_QUEUE."
+  },
+  "categories": {
+    "Wirman 05 SUSPICION": {
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "What made Wirman choose to return to Silkwirm-on-sea and seek out the Mortuga submarine?",
+        "pl": "Co skłoniło Wirmana, żeby wrócić do Silkwirm nad Morzem i odszukać łódź podwodną Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "What did Wirman receive in the post that made him choose to return to Silkwirm-on-sea and seek out the Mortuga submarine?",
+        "pl": "Co Wirman dostał pocztą, co skłoniło go, żeby wrócić do Silkwirm nad Morzem i odszukać łódź podwodną Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest1Detail0": {
+        "en": "Which part is evidence of T. W. Ibis being Wirman's old boss?",
+        "pl": "Który fragment jest dowodem na to, że T. W. Ibis był dawnym szefem Wirmana?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "What evidence do we have of T. W. Ibis being Wirman's old boss?",
+        "pl": "Jaki dowód mamy na to, że T. W. Ibis był dawnym szefem Wirmana?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "What evidence do we have of T. W. Ibis being Wirman's old boss, back from when Wirman was a journalist...?",
+        "pl": "Jaki dowód mamy na to, że T. W. Ibis był dawnym szefem Wirmana, z czasów gdy Wirman był dziennikarzem...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest2Detail0": {
+        "en": "Which part suggests Wirman looked up to Ibis or would value his opinion?",
+        "pl": "Który fragment sugeruje, że Wirman podziwiał Ibisa albo cenił jego opinię?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Do we have evidence to suggest Wirman looked up to Ibis or would value his opinion?",
+        "pl": "Czy mamy dowód sugerujący, że Wirman podziwiał Ibisa albo cenił jego opinię?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "Do we have printed evidence to suggest Wirman, as an author, looked up to Ibis or would value his opinion?",
+        "pl": "Czy mamy drukowany dowód sugerujący, że Wirman, jako autor, podziwiał Ibisa albo cenił jego opinię?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "What evidence is there that Wirman might be planning his next book around Mortuga's real life story?",
+        "pl": "Jaki dowód wskazuje na to, że Wirman mógł planować swoją następną książkę wokół prawdziwej historii życia Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "What written or drawn evidence is there that Wirman might be planning his next book around Mortuga's real life story?",
+        "pl": "Jaki pisemny lub rysunkowy dowód wskazuje na to, że Wirman mógł planować swoją następną książkę wokół prawdziwej historii życia Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "What evidence is there to suggest that Wirman typed the Message in the Bottle?",
+        "pl": "Jaki dowód sugeruje, że to Wirman wystukał Wiadomość w Butelce?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "What device or document could we compare with the Message in the Bottle to suggest that Wirman typed it?",
+        "pl": "Jakie urządzenie lub dokument moglibyśmy porównać z Wiadomością w Butelce, żeby sugerować, że to Wirman ją napisał?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Something to compare with the Message in the Bottle, to prove it's a story outline for Wirman's next novel...",
+        "pl": "Coś do porównania z Wiadomością w Butelce, żeby udowodnić, że to zarys fabuły następnej powieści Wirmana...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "A book to compare with the Message in the Bottle, to prove it's a story outline for Wirman's next novel...",
+        "pl": "Książka do porównania z Wiadomością w Butelce, żeby udowodnić, że to zarys fabuły następnej powieści Wirmana...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest6Hint0": {
+        "en": "Which room is depicted by the drawing in the bottle?",
+        "pl": "Które pomieszczenie przedstawia rysunek w butelce?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Request exitClueRequest6Hint1": {
+        "en": "Which small room is depicted by the drawing in the bottle?",
+        "pl": "Które małe pomieszczenie przedstawia rysunek w butelce?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds0": {
+        "en": "Wirman, you're from Silkwirm-on-sea, is that right?",
+        "pl": "Wirman, jest pan z Silkwirm nad Morzem, zgadza się?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds10": {
+        "en": "It's so [i]banal[/i] - I'm not a man, I'm a walking cliche.",
+        "pl": "To takie [i]banalne[/i] - nie jestem człowiekiem, jestem chodzącym kliszą.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds102": {
+        "en": "Oh, now you're using [h]graphic design[/h] against me - a little below the [i]belt,[/i] don't you think?",
+        "pl": "O, teraz używacie [h]projektowania graficznego[/h] przeciwko mnie - trochę poniżej [i]pasa,[/i] nie sądzicie?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds103": {
+        "en": "It really does seem like you took the events of Mortuga's death and turned them into a story outline for your book...",
+        "pl": "Naprawdę wygląda na to, że wziął pan wydarzenia śmierci Mortugi i zamienił je w zarys fabuły swojej książki...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds104": {
+        "en": "Yeah, alright, don't [i]lecture[/i] me, I'm not exactly... proud of it.",
+        "pl": "Tak, dobra, nie [i]wykładajcie[/i] mi tego, nie jestem specjalnie... dumny z tego.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds105": {
+        "en": "I'm - I'm fully aware that this is... you know - [i]murky[/i] moral ground.",
+        "pl": "Jestem - jestem w pełni świadom, że to... wiecie - [i]mętny[/i] grunt moralny.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds106": {
+        "en": "Why was it in a bottle in the ocean?",
+        "pl": "Czemu było to w butelce w oceanie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds107": {
+        "en": "Eh... as soon as I'd typed it, I regretted it.",
+        "pl": "Eh... zaraz po tym, jak to wystukałem, pożałowałem tego.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds108": {
+        "en": "Stealing Mortuga's story all over again, for what? Just - some [i]book.[/i]",
+        "pl": "Kradnąc historię Mortugi po raz kolejny, po co? Po prostu - jakaś [i]książka.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds109": {
+        "en": "I wanted to destroy it, but I - I couldn't bring myself to do it.",
+        "pl": "Chciałem to zniszczyć, ale ja - nie mogłem się do tego zmusić.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds11": {
+        "en": "But then, right as your writing career was peaking, you came back. And now you're here on Mortuga's submarine.",
+        "pl": "Ale wtedy, właśnie gdy pańska kariera pisarska była u szczytu, wrócił pan. A teraz jest pan tutaj, na łodzi Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds110": {
+        "en": "So instead I sealed it in a bottle, and threw it into the ocean.",
+        "pl": "Więc zamiast tego zapieczętowałem to w butelce i wrzuciłem do oceanu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds111": {
+        "en": "It goes without saying that I never expected it to make its way back onto the submarine...",
+        "pl": "Nie muszę mówić, że nigdy nie spodziewałem się, że to znajdzie drogę z powrotem na łódź...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds112": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds113": {
+        "en": "So what are you going to do now?",
+        "pl": "Więc co pan teraz zrobi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds114": {
+        "en": "You know what I'd [h]like[/h] to do? Give up.",
+        "pl": "Wiecie, co [h]chciałbym[/h] zrobić? Poddać się.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds115": {
+        "en": "Why don't you?",
+        "pl": "To czemu pan tego nie zrobi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds116": {
+        "en": "Call my publisher, tell her I tried, but I quit. I'm not going to write the book.",
+        "pl": "Zadzwonić do mojej wydawczyni, powiedzieć jej, że próbowałem, ale rezygnuję. Nie napiszę tej książki.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds117": {
+        "en": "It's just not that simple.",
+        "pl": "Po prostu to nie takie proste.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds118": {
+        "en": "There's a lot of money riding on this - people's [h]jobs-[/h]",
+        "pl": "Sporo pieniędzy zależy od tego - czyjeś [h]posady-[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds119": {
+        "en": "Throwing in the towel now would be pretty selfish.",
+        "pl": "Rzucenie tego teraz byłoby dość samolubne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds12": {
+        "en": "Remind me why you're here, again?",
+        "pl": "Przypomnij mi jeszcze raz, czemu pan tu jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds120": {
+        "en": "And you already tried coming up with your own ideas for the story?",
+        "pl": "I już próbował pan wymyślić własne pomysły na fabułę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds121": {
+        "en": "Tried - and failed. Repeatedly.",
+        "pl": "Próbowałem - i mi się nie udało. Wielokrotnie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds122": {
+        "en": "I've... come to the conclusion that I must've just got [i]lucky[/i] the first time, and that I'm not actually any [i]good[/i] - at this.",
+        "pl": "Doszedłem... do wniosku, że musiałem po prostu mieć [i]szczęście[/i] za pierwszym razem, i że tak naprawdę nie jestem w tym [i]dobry.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds123": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds124": {
+        "en": "Hm. It's funny, you know - I'd already decided that Mordoom was going to be killed off.",
+        "pl": "Hm. To zabawne, wiecie - już zdecydowałem, że Mordoom zostanie zabity.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds125": {
+        "en": "That was the one idea I'd actually [h]had.[/h] But I couldn't think of an interesting way for him to go. ",
+        "pl": "To był jedyny pomysł, jaki faktycznie [h]miałem.[/h] Ale nie mogłem wymyślić ciekawego sposobu, żeby go usunąć. ",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds126": {
+        "en": "What's the [i]hook?[/i]\nWhat's the [i]setup?[/i]",
+        "pl": "Jaki jest [i]haczyk?[/i]\nJakie jest [i]przygotowanie?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds127": {
+        "en": "And then - Magnus Mortuga... is killed.",
+        "pl": "A potem - Magnus Mortuga... zostaje zabity.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds129": {
+        "en": "Tragic, obviously, but at the same time... it was [i]perfect.[/i] The - the locked room, the [i]empty cauldron-[/i]",
+        "pl": "Tragiczne, oczywiście, ale jednocześnie... to było [i]doskonałe.[/i] Ten - ten zamknięty pokój, [i]pusty kocioł-[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds13": {
+        "en": "Two words; [h]writing retreat.[/h]",
+        "pl": "Dwa słowa; [h]odosobnienie pisarskie.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds139": {
+        "en": "I couldn't resist it.",
+        "pl": "Nie mogłem się oprzeć.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds14": {
+        "en": "I've been trying to write this accursed book, but I couldn't focus with my [i]publisher breathing down my neck.[/i]",
+        "pl": "Próbowałem napisać tę przeklętą książkę, ale nie mogłem się skupić, kiedy moja [i]wydawczyni oddychała mi na kark.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds140": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds141": {
+        "en": "I noticed you went [h]straight[/h] for my sense of self-worth, there.",
+        "pl": "Zauważyłem, że poszliście [h]prosto[/h] po moje poczucie własnej wartości.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds145": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds147": {
+        "en": "We need a clue to compare with the message in a bottle.",
+        "pl": "Potrzebujemy tropu do porównania z wiadomością w butelce.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds148": {
+        "en": "Nice try. But just [h]looking[/h] at it, I can tell it's supposed to be a plan for your next novel.",
+        "pl": "Ładna próba. Ale samo [h]patrząc[/h] na to, widzę, że to ma być plan pańskiej następnej powieści.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds15": {
+        "en": "That kind of pressure is [i]not[/i] - conducive to one's creative process.",
+        "pl": "Taka presja [i]nie[/i] jest - sprzyjająca procesowi twórczemu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds152": {
+        "en": "T. W. Ibis is Wirman's book publisher.",
+        "pl": "T. W. Ibis to wydawca książek Wirmana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds153": {
+        "en": "T. W. Ibis is Wirman's real father.",
+        "pl": "T. W. Ibis to prawdziwy ojciec Wirmana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds154": {
+        "en": "It's a drawing of Sally laying an egg.",
+        "pl": "To rysunek Sally składającej jajko.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds155": {
+        "en": "It's a drawing of an alchemical symbol.",
+        "pl": "To rysunek symbolu alchemicznego.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds156": {
+        "en": "You don't see it?\n",
+        "pl": "Nie widzicie tego?\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds157": {
+        "en": "I can't - believe - you just said that.",
+        "pl": "Nie mogę - uwierzyć - że to powiedziałeś.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds158": {
+        "en": "Ohh yeah, I do kinda see it.\n",
+        "pl": "Ooo tak, w sumie trochę to widzę.\n",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds159": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds17": {
+        "en": "Surely there was something... [h]specific[/h] - that made you come back to the town and seek out the submarine?",
+        "pl": "Na pewno było coś... [h]konkretnego[/h] - co sprawiło, że wrócił pan do miasteczka i zaczął szukać łodzi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds18": {
+        "en": "Something... [i]specific?[/i]",
+        "pl": "Coś... [i]konkretnego?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds19": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds20": {
+        "en": "Oh - it's a [i]him?[/i]",
+        "pl": "O - to [i]on?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds21": {
+        "en": "Ibis? Never heard of him.",
+        "pl": "Ibis? Nigdy o nim nie słyszałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds22": {
+        "en": "So you got this letter, from someone called [i]T. W. Ibis[/i], who says-",
+        "pl": "Więc dostał pan ten list, od kogoś nazywającego się [i]T. W. Ibis,[/i] kto pisze-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds23": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds23 Choice 1": {
+        "en": "T. W. Ibis is Wirman's old boss.",
+        "pl": "T. W. Ibis to dawny szef Wirmana.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds23 Choice 2": {
+        "en": "T. W. Ibis is Wirman's real father.",
+        "pl": "T. W. Ibis to prawdziwy ojciec Wirmana.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds23 Choice 3": {
+        "en": "T. W. Ibis is Wirman's book publisher.",
+        "pl": "T. W. Ibis to wydawca książek Wirmana.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds23 Choice Question": {
+        "en": "Who is T.W. Ibis?",
+        "pl": "Kim jest T.W. Ibis?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds27": {
+        "en": "T. W. Ibis is Wirman's old boss.",
+        "pl": "T. W. Ibis to dawny szef Wirmana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds28": {
+        "en": "And, uh - what gives you that idea?",
+        "pl": "I, yy - skąd taki pomysł?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds30": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds32": {
+        "en": "Oh, [i]look at you guys[/i] - doing a little investigative journalism of your own, huh?",
+        "pl": "Oo, [i]patrzcie tylko na was[/i] - robicie sobie trochę własnego dziennikarstwa śledczego, co?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds33": {
+        "en": "So this Ibis guy - this is someone you really looked up to? Like a mentor?",
+        "pl": "Więc ten Ibis - to ktoś, kogo pan naprawdę podziwiał? Jak mentora?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds35": {
+        "en": "Steady now - he was just my boss. Let's not get all schmaltzy with this.",
+        "pl": "Powoli - to był po prostu mój szef. Nie róbmy z tego czułostkowej historii.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds38": {
+        "en": "Ah-Ahem;\n[i]'For T. W. Ibis, who imparted upon me what it is to love the art of wri-'[/i]",
+        "pl": "Ah-Ahem;\n[i]'Dla T. W. Ibisa, który wpoił mi, czym jest umiłowanie sztuki pi-'[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds39": {
+        "en": "I'm [h]aware[/h] - of what it says - alright? Can we just - settle down?",
+        "pl": "Jestem [h]świadomy[/h] - tego, co tam jest napisane - dobrze? Możemy się po prostu - uspokoić?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds40": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds41": {
+        "en": "Guys, there's something bothering me.",
+        "pl": "Ludzie, coś mi nie daje spokoju.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds42": {
+        "en": "The letter has a diagram on the back, showing you how, when and where to find the Mortuga submarine.",
+        "pl": "List ma z tyłu diagram, pokazujący, jak, kiedy i gdzie znaleźć łódź podwodną Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds43": {
+        "en": "Of course - how [i]else[/i] do you think I managed to find it?",
+        "pl": "No jasne - jak [i]inaczej[/i] myślicie, że udało mi się ją znaleźć?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds44": {
+        "en": "Magnus Mortuga's submarine is the stuff of [i]urban myth[/i] - it's not exactly public knowledge.",
+        "pl": "Łódź podwodna Magnusa Mortugi to temat [i]miejskich legend[/i] - to nie jest dokładnie wiedza powszechna.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds45": {
+        "en": "But that's my problem. How would [i]Ibis[/i] know about it? He's not on board, is he?",
+        "pl": "Ale to jest mój problem. Skąd [i]Ibis[/i] by o tym wiedział? Nie ma go na pokładzie, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds46": {
+        "en": "No, and as far as I know, he never was. He's not even living in the town anymore.",
+        "pl": "Nie, i o ile wiem, nigdy go tu nie było. Nawet już nie mieszka w miasteczku.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds47": {
+        "en": "But then, how-",
+        "pl": "Ale w takim razie, jak-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds48": {
+        "en": "Yeah, no, I have no idea.",
+        "pl": "Tak, nie, nie mam pojęcia.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds49": {
+        "en": "FYI, I've officially decided not to worry about it.",
+        "pl": "Tak w ogóle, oficjalnie zdecydowałem się tym nie martwić.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds50": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds51": {
+        "en": "Looking at the actual letter... he first insults your intregrity as an author, and then presents a solution-",
+        "pl": "Patrząc na sam list... najpierw obraża pańską integralność jako autora, a potem przedstawia rozwiązanie-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds52": {
+        "en": "A chance to meet Mortuga... so [i]that's[/i] what convinced you to come back here.",
+        "pl": "Szansa spotkania Mortugi... więc [i]to[/i] przekonało pana, żeby tu wrócić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds53": {
+        "en": "Basically offering you the chance to get onto the submarine and find Mortuga yourself...",
+        "pl": "Zasadniczo oferując panu szansę dostania się na łódź i samodzielnego odnalezienia Mortugi...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds55": {
+        "en": "The main character of your book, Markus Mordoom - he's based on Mortuga, isn't he?",
+        "pl": "Główny bohater pańskiej książki, Markus Mordoom - jest oparty na Mortudze, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds56": {
+        "en": "Ah-ah - [h]loosely inspired by[/h] - that's an important legal distinction.",
+        "pl": "Ah-ach - [h]luźno inspirowany[/h] - to ważne rozróżnienie prawne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds57": {
+        "en": "And you're currently in the process of writing a sequel?",
+        "pl": "I obecnie jest pan w trakcie pisania kontynuacji?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds58": {
+        "en": "I've said as much.",
+        "pl": "Tyle już powiedziałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds59": {
+        "en": "-and how's that going?",
+        "pl": "-i jak to idzie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds6": {
+        "en": "Ah - so, [i]technically no[/i] - my father and I moved there when I was very young.",
+        "pl": "Ach - więc, [i]technicznie nie[/i] - mój ojciec i ja przeprowadziliśmy się tam, kiedy byłem bardzo młody.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds61": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds62": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds63": {
+        "en": "Look - I don't plan on stealing Mortuga's real life story any more than I have already-",
+        "pl": "Słuchajcie - nie planuję kraść prawdziwej historii życia Mortugi bardziej, niż już to zrobiłem-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds64": {
+        "en": "I assure you I'm working on my [h]own[/h] book on my [h]own[/h] terms, with my [h]own[/h] ideas.",
+        "pl": "Zapewniam was, że pracuję nad [h]własną[/h] książką, na [h]własnych[/h] warunkach, z [h]własnymi[/h] pomysłami.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds65": {
+        "en": "But you came [i]back[/i] to-",
+        "pl": "Ale wrócił pan [i]tutaj,[/i] żeby-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds66": {
+        "en": "Do you have any evidence that I'm stealing Mortuga's real story for my next book?",
+        "pl": "Macie jakiś dowód na to, że kradnę prawdziwą historię Mortugi do mojej następnej książki?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds68": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds69": {
+        "en": "In fact, it's a little typed story that details the circumstances of Mortuga's real life- uh, [i]death.[/i]",
+        "pl": "Właściwie to krótka, wystukana na maszynie historia, opisująca szczegółowo okoliczności prawdziwego życia Mortugi- yy, [i]śmierci.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds7": {
+        "en": "But for all intents and purposes, let's say yes. Why not.",
+        "pl": "Ale dla wszelkich celów i zamiarów, powiedzmy że tak. Czemu nie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds70": {
+        "en": "A [h]story?[/h] I don't know... it reads more like an [i]arcane incantation-[/i]",
+        "pl": "[h]Historia?[/h] Nie wiem... to czyta się bardziej jak [i]tajemne zaklęcie-[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds71": {
+        "en": "Why don't you ask Symmetry about it? Or Zephyr?",
+        "pl": "Czemu nie zapytacie o to Symmetry? Albo Zephyra?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds72": {
+        "en": "Just look at that symbol!\nWh-what is that, some kind of [i]sacred geometry?[/i]",
+        "pl": "Spójrzcie tylko na ten symbol!\nC-co to jest, jakaś [i]święta geometria?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds73": {
+        "en": "Really [i]not[/i] my wheelhouse at all.",
+        "pl": "Naprawdę [i]nie[/i] moja działka, w ogóle.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds73 Choice 1": {
+        "en": "It's a drawing of a room on the submarine.",
+        "pl": "To rysunek pomieszczenia na łodzi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds73 Choice 2": {
+        "en": "It's a drawing of an alchemical symbol.",
+        "pl": "To rysunek symbolu alchemicznego.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds73 Choice 3": {
+        "en": "It's a drawing of Sally laying an egg.",
+        "pl": "To rysunek Sally składającej jajko.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds73 Choice Question": {
+        "en": "What is that symbol?",
+        "pl": "Co to za symbol?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds76": {
+        "en": "It's a drawing of a room on the submarine.",
+        "pl": "To rysunek pomieszczenia na łodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds77": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds78": {
+        "en": "It's a diagram of the crime scene.",
+        "pl": "To diagram miejsca zbrodni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds79": {
+        "en": "There's the window, the cauldron... and Mortuga's body laying on the ground.",
+        "pl": "Jest okno, kocioł... i ciało Mortugi leżące na ziemi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds8": {
+        "en": "And you first worked as a newspaper journalist, but then moved away to be an author?",
+        "pl": "I najpierw pracował pan jako dziennikarz gazetowy, ale potem wyprowadził się pan, żeby zostać autorem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds80": {
+        "en": "Hm.\nWhere did you [h]find[/h] this bottle?",
+        "pl": "Hm.\nGdzie [h]znaleźliście[/h] tę butelkę?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds81": {
+        "en": "Madam Tadpole had it. She found it floating in the ocean.",
+        "pl": "Miała ją Madam Tadpole. Znalazła ją unoszącą się w oceanie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds82": {
+        "en": "Sealed in a bottle, and found in the ocean. But you think [h]I[/h] typed it?",
+        "pl": "Zapieczętowana w butelce, znaleziona w oceanie. Ale myślicie, że [h]ja[/h] to napisałem?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds83": {
+        "en": "The piece of paper in the bottle matches the paper you use in your typewriter.",
+        "pl": "Kartka papieru w butelce pasuje do papieru, którego używa pan w swojej maszynie do pisania.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds84": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds87": {
+        "en": "[h]Other[/h] - than the fact that I happen to be [i]on his submarine...[/i]",
+        "pl": "[h]Poza[/h] tym, że akurat jestem [i]na jego łodzi...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds88": {
+        "en": "There's a piece of paper in this bottle, with something written on it.",
+        "pl": "W tej butelce jest kartka papieru, z czymś na niej napisanym.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds89": {
+        "en": "Which also matches the sheets from the command contract-",
+        "pl": "Które też pasują do kartek z kontraktu dowódczego-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds9": {
+        "en": "I [i]literally[/i] left my small town to go make it in the big city.\n..",
+        "pl": "[i]Dosłownie[/i] opuściłem swoje małe miasteczko, żeby zrobić karierę w wielkim mieście.\n..",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds90": {
+        "en": "-and we know [h]these[/h] were typed on your typewriter, because you told us.",
+        "pl": "-a wiemy, że [h]te[/h] zostały napisane na pańskiej maszynie do pisania, bo pan nam powiedział.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds91": {
+        "en": "Ahh, well, you've really done your homework, kids. I'm impressed.",
+        "pl": "Ach, cóż, naprawdę odrobiliście pracę domową, dzieciaki. Jestem pod wrażeniem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds92": {
+        "en": "You admit you typed the story?",
+        "pl": "Przyznaje pan, że napisał pan tę historię?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds93": {
+        "en": "It's not a story. It's just... ehhh - [i]record keeping.[/i]",
+        "pl": "To nie jest historia. To po prostu... eee - [i]prowadzenie zapisków.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds94": {
+        "en": "After Mortuga died, I thought someone should write an account of what happened.",
+        "pl": "Po tym, jak Mortuga umarł, pomyślałem, że ktoś powinien spisać relację z tego, co się stało.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds98": {
+        "en": "Something to prove it's a story outline for Wirman's next novel...",
+        "pl": "Coś, co udowodni, że to zarys fabuły następnej powieści Wirmana...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 05 SUSPICION/Section ds99": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Wirman 05 SUSPICION - tozsamosc/wiedza T. W. Ibisa",
+      "problem": "T. W. Ibis, dawny szef Wirmana z czasow dziennikarskich, przyslal mu list z dokladna mapa/instrukcja jak znalezc lodz podwodna Mortugi - mimo ze (wedlug samego Wirmana) istnienie i lokalizacja lodzi to tylko miejska legenda, nie wiedza powszechna, a Ibis nigdy nie byl na pokladzie ani nie mieszka juz w miasteczku. Zrodlo wiedzy Ibisa pozostaje CALKOWICIE NIEWYJASNIONE w tej partii - potencjalnie istotny trop do dalszego sledztwa (czy Ibis jest w zmowie z kims na lodzi?)."
+    }
+  ]
+}

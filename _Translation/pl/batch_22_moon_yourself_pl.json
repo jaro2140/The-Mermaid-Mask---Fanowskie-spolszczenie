@@ -1,0 +1,119 @@
+{
+  "_meta": {
+    "batch": "Moon 02 YOURSELF (21 terminow) - kontynuacja luku Moon po batch_21 (14/271). Moon opowiada o sobie jako wedrowniczce-gawedziarce poszukujacej lodzi podwodnej Mortuga dla jej legend.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 21/21 pokryte: Moon 11, Grimoire 6, Sally 4",
+    "character_voice": "Moon: mistyczna, poetycka (patrz batch_21). ds16 'rambler, ambler, fireside gambler' - wewnetrzny rym w oryginale - przetlumaczony tworczo jako 'wloczykijka, guslarka, przy ognisku karciarka' (rym na '-arka'), zachowuje zabawowy, rytmiczny charakter kosztem doslownosci pojedynczych slow (TRANSLATION_GUIDE pkt 3, gry slowne)."
+  },
+  "categories": {
+    "Moon 02 YOURSELF": {
+      "Conversation/Moon 02 YOURSELF/Section ds0": {
+        "en": "So - what, you're just some... random traveller?",
+        "pl": "Więc - co, jesteś po prostu jakąś... przypadkową podróżniczką?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds10": {
+        "en": "Uh - the motherlode of what?",
+        "pl": "Yy - żyła złota czego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds11": {
+        "en": "Of whispered half-truth! of murky rumor! Of stories unspoken-",
+        "pl": "Szeptanych półprawd! Mętnych plotek! Niewypowiedzianych historii-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds12": {
+        "en": "Oh, like urban myths and stuff?",
+        "pl": "A, czyli jakby miejskie legendy i takie tam?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds14": {
+        "en": "Right. Urban myths and stuff.",
+        "pl": "Właśnie. Miejskie legendy i takie tam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds15": {
+        "en": "So you're a historian?",
+        "pl": "Więc jesteś historyczką?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds16": {
+        "en": "Historian, storyteller... rambler, ambler, fireside gambler-",
+        "pl": "Historyczka, gawędziarka... włóczykijka, guślarka, przy ognisku karciarka-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds20": {
+        "en": "But you're - just on the submarine because you find it... interesting?",
+        "pl": "Ale jesteś - po prostu na łodzi, bo uważasz ją za... interesującą?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds21": {
+        "en": "Would that be such a crime?",
+        "pl": "Czy to byłaby taka zbrodnia?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds22": {
+        "en": "No...\n",
+        "pl": "Nie...\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds26": {
+        "en": "How long have you been here?",
+        "pl": "Jak długo tu jesteś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds27": {
+        "en": "Ah, well, let's see...",
+        "pl": "Ach, cóż, zobaczmy...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds28": {
+        "en": "Oh - dang. Really?",
+        "pl": "O - ojej. Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds29": {
+        "en": "Quite the story, isn't it?",
+        "pl": "Niezła historia, prawda?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds31": {
+        "en": "I arrived a few hours before the captain was murdered.",
+        "pl": "Przybyłam kilka godzin przed morderstwem kapitana.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds32": {
+        "en": "[i]Murder's a crime, though, pretty sure.[/i]",
+        "pl": "[i]Morderstwo to jednak zbrodnia, jestem raczej pewien.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds6": {
+        "en": "Traveller, yes. But random? Never. I'm here because I [i]chose[/i] to be.",
+        "pl": "Podróżniczka, tak. Ale przypadkowa? Nigdy. Jestem tu, bo [i]wybrałam[/i] być tutaj.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds7": {
+        "en": "I've been searching for the Mortuga Submarine for [i]some time[/i], you know.",
+        "pl": "Szukam łodzi podwodnej Mortuga od [i]jakiegoś czasu[/i], wiesz.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds8": {
+        "en": "How come?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 02 YOURSELF/Section ds9": {
+        "en": "How [h]come??[/h] This thing is the [h]motherlode![/h]",
+        "pl": "Jak to [h]czemu??[/h] To coś to prawdziwa [h]żyła złota![/h]",
+        "speaker": "Moon"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

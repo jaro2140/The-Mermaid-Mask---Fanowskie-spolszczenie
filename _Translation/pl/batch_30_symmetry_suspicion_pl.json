@@ -1,0 +1,1056 @@
+{
+  "_meta": {
+    "batch": "Symmetry 05 SUSPICION (207 terminow) - NAJWIEKSZA scena w calej grze jak dotad, konczy luk Symmetry do sceny 05 (289/292, zostaje 06 LOCKET, 3 terminy). PRZELOMOWE ROZWIAZANIE MYSTERIUM 'PIPE': ds98-99 ujawnia wprost, ze 'Pipe' to NIE jeden staly, tajemniczy glos - to fajka-dyktafon Moon (Mariana Moon byla w Zezie), ktora nagrywa dzwieki DOCIERAJACE PRZEZ OTWARTE KLAPY WENTYLACYJNE z roznych pomieszczen. W tej scenie nagranie to fragment WLASNEGO PRZEDSTAWIENIA TEATRALNEGO Symmetry ('Dziewczyna Patrzaca w Gwiazdy', ds93-96), przypadkiem zarejestrowany - NIE zwiazany z watkiem Dirka/Wirmana z batch_20 (inne nagranie, inna tresc, ten sam mechanizm). To wyjasnia tez niespojnosc z batch_25 (Moon twierdzila ze nagrala dzwiek otwierania Czarnej Skrzynki, ale Grimoire/Sally nie znalezli tego na tasmie) - dyktafon nagrywa WIELE roznych fragmentow z calej lodzi.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 151/207 pokryte (Sally 55, Symmetry 49, Grimoire 39, Pipe 8). 56 nieprzypisanych to mechanika Request/RequestPrefix/RequestSuffix + Choice sets (ds103/127/169/204/22/46/55/75) - oznaczone standardowym wzorem.",
+    "character_voice": "Symmetry: archaiczny/teatralny (patrz batch_27-29), tu emocjonalnie zlamana pod przesluchaniem. 'Sweet Sister Inanimate' (jej lalka) -> 'Slodka Siostra Nieozywiona'.",
+    "sfx_onomatopoeia": "ROZSTRZYGNIETO otwarty punkt z TECHNICAL_GUIDE ('[Squeak!]', '[Gasp!]' itd. - tlumaczyc czy nie): PRZETLUMACZONO jako napisy/opisy dzwieku w konwencji napisow dla nieslyszacych - [Squeak!]->[Pisk!], [Gasp!]->[Glosny wdech!], [Sigh]->[Westchnienie], [Thump]->[Lomot], [Scream]->[Krzyk], [Swing]->[Swist]. Decyzja do potwierdzenia z userem, patrz VERIFICATION_QUEUE.",
+    "new_terms": "The Star-Gazing Girl (pokaz magiczny Symmetry) -> 'Dziewczyna Patrzaca w Gwiazdy'. Lady of the Looking Glass (dawny pokaz) -> 'Dama Zwierciadla'. grim reaper -> 'kostucha' (potoczny polski odpowiednik). Hex of the Helmsman potwierdzone jako film Dirka (spojne z batch_17/20)."
+  },
+  "categories": {
+    "Symmetry 05 SUSPICION": {
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Something Symmetry left hidden in the Illusion Theatre...",
+        "pl": "Coś, co Symmetry zostawiła ukryte w Teatrze Iluzji...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Something Symmetry left hidden in the Illusion Theatre, in the cabinet to the side...",
+        "pl": "Coś, co Symmetry zostawiła ukryte w Teatrze Iluzji, w szafce z boku...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "Something that shows the plan for Sym's new magic trick...",
+        "pl": "Coś, co pokazuje plan nowej sztuczki magicznej Sym...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "A drawing or diagram that shows the plan for Sym's new magic trick...",
+        "pl": "Rysunek lub diagram, który pokazuje plan nowej sztuczki magicznej Sym...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest2Detail0": {
+        "en": "Which part shows the name of Symmetry's new magic trick?",
+        "pl": "Który fragment pokazuje nazwę nowej sztuczki magicznej Symmetry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Do we have something that shows the name of Symmetry's new magic trick?",
+        "pl": "Czy mamy coś, co pokazuje nazwę nowej sztuczki magicznej Symmetry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "Do we have something on which Symmetry's written the name of her new magic trick?",
+        "pl": "Czy mamy coś, na czym Symmetry zapisała nazwę swojej nowej sztuczki magicznej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "How do we know what happens during 'The Star-Gazing Girl?'",
+        "pl": "Skąd wiemy, co się dzieje podczas 'Dziewczyny Patrzącej w Gwiazdy'?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "Do we have audio evidence of what happens during 'The Star-Gazing Girl?'",
+        "pl": "Czy mamy dowód dźwiękowy tego, co się dzieje podczas 'Dziewczyny Patrzącej w Gwiazdy'?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Where did that second voice come from?",
+        "pl": "Skąd pochodził ten drugi głos?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "Where did that second voice come from? Not an actual person in the room, but some kind of device...?",
+        "pl": "Skąd pochodził ten drugi głos? Nie od prawdziwej osoby w pokoju, ale z jakiegoś urządzenia...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest6Detail0": {
+        "en": "Which parts suggests Sym uses a doll as a double in her illusions?",
+        "pl": "Który fragment sugeruje, że Sym używa lalki jako sobowtóra w swoich iluzjach?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest6Hint0": {
+        "en": "Which clue suggests Sym uses a doll as a double in her illusions?",
+        "pl": "Który trop sugeruje, że Sym używa lalki jako sobowtóra w swoich iluzjach?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest6Hint1": {
+        "en": "Which clue suggests Sym uses a doll as a double in her illusions? Was there an image of the doll reflected in a mirror?",
+        "pl": "Który trop sugeruje, że Sym używa lalki jako sobowtóra w swoich iluzjach? Czy był jakiś obraz lalki odbity w lustrze?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest8Detail0": {
+        "en": "Which part shows the 'grim reaper' character shown in the film reel?",
+        "pl": "Który fragment pokazuje postać 'kostuchy' widoczną na taśmie filmowej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest8Hint0": {
+        "en": "Something to suggest that the 'grim reaper' character shown in the film reel is from the Hex of the Helmsman movie...",
+        "pl": "Coś, co sugeruje, że postać 'kostuchy' widoczna na taśmie filmowej pochodzi z filmu Klątwa Sternika...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Request exitClueRequest8Hint1": {
+        "en": "Some kind of packaging to suggest that the 'grim reaper' character shown in the film reel is from the Hex of the Helmsman movie...",
+        "pl": "Jakieś opakowanie sugerujące, że postać 'kostuchy' widoczna na taśmie filmowej pochodzi z filmu Klątwa Sternika...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestPrefix exitClueRequest2 0": {
+        "en": "Symmetry has painted...",
+        "pl": "Symmetry namalowała...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestPrefix exitClueRequest2 1": {
+        "en": "Mortuga has painted...",
+        "pl": "Mortuga namalował...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestPrefix exitClueRequest2 2": {
+        "en": "Sinthia has painted...",
+        "pl": "Sinthia namalowała...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestSuffix exitClueRequest2 0": {
+        "en": "...on the sailcloth.",
+        "pl": "...na żaglowym płótnie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestSuffix exitClueRequest6 0": {
+        "en": "...would suggest Sym used a doll as a double.",
+        "pl": "...sugerowałoby, że Sym użyła lalki jako sobowtóra.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestSuffix exitClueRequest6 1": {
+        "en": "...would suggest Sym performed a vanishing act.",
+        "pl": "...sugerowałoby, że Sym wykonała sztuczkę ze znikaniem.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/RequestSuffix exitClueRequest6 2": {
+        "en": "...would suggest Sym was a ventriloquist.",
+        "pl": "...sugerowałoby, że Sym była brzuchomówczynią.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds0": {
+        "en": "Symmetry, you were in the Illusion Theatre with Mortuga - the evening before he died?",
+        "pl": "Symmetry, byłaś w Teatrze Iluzji z Mortugą - wieczorem przed jego śmiercią?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds102": {
+        "en": "So the first voice belongs to Sym... and then there's a [i]second[/i] voice. A woman's voice.",
+        "pl": "Więc pierwszy głos należy do Sym... a potem jest [i]drugi[/i] głos. Głos kobiety.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds103": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds103 Choice 1": {
+        "en": "It's Symmetry putting on a voice.",
+        "pl": "To Symmetry, zmieniająca głos.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds103 Choice 2": {
+        "en": "It's one of the other suspects.",
+        "pl": "To jedna z pozostałych podejrzanych osób.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds103 Choice 3": {
+        "en": "It's someone else entirely.",
+        "pl": "To ktoś zupełnie inny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds103 Choice Question": {
+        "en": "Who does the second voice on the recording belong to?",
+        "pl": "Do kogo należy drugi głos na nagraniu?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds104": {
+        "en": "It's Symmetry putting on a voice.",
+        "pl": "To Symmetry, zmieniająca głos.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds105": {
+        "en": "It's one of the other suspects.",
+        "pl": "To jedna z pozostałych podejrzanych osób.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds106": {
+        "en": "It's someone else entirely.",
+        "pl": "To ktoś zupełnie inny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds109": {
+        "en": "This film matches up to the audio from the pipe recording.",
+        "pl": "Ten film pasuje do dźwięku z nagrania z rury.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds11": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds111": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds114": {
+        "en": "Okay, so Sym put the projector into the doll, and it projected onto the circular window at the back of the room.",
+        "pl": "Okej, więc Sym włożyła projektor do lalki, a on rzutował na okrągłe okno z tyłu pokoju.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds12": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds120": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds121": {
+        "en": "If the doll was sitting on the [i]cauldron[/i], where was the [h]real[/h] Sym?",
+        "pl": "Jeśli lalka siedziała na [i]kotle,[/i] to gdzie była [h]prawdziwa[/h] Sym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds122": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds123": {
+        "en": "Listen to the end of the recording again:",
+        "pl": "Posłuchajcie jeszcze raz końcówki nagrania:",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds124": {
+        "en": "[i]Close your eyes, my love. And be still. For this is the end and the beginning.[/i]",
+        "pl": "[i]Zamknij oczy, moja miłości. I znieruchom. Bo to jest koniec i początek.[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds125": {
+        "en": "The projector.",
+        "pl": "Projektor.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds126": {
+        "en": "The scythe.",
+        "pl": "Kosa.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds127": {
+        "en": "Right at the end, it sounds like something falls onto the floor. Something solid.",
+        "pl": "Zaraz na końcu brzmi, jakby coś upadło na podłogę. Coś twardego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds127 Choice 1": {
+        "en": "The doll's head.",
+        "pl": "Głowa lalki.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds127 Choice 2": {
+        "en": "The scythe.",
+        "pl": "Kosa.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds127 Choice 3": {
+        "en": "The projector.",
+        "pl": "Projektor.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds127 Choice Question": {
+        "en": "What falls onto the floor at the end of the trick?",
+        "pl": "Co spada na podłogę na końcu sztuczki?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds128": {
+        "en": "The doll's head...",
+        "pl": "Głowa lalki...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds129": {
+        "en": "The whole thing culminates with the cloaked figure swinging the scythe...",
+        "pl": "Całość kończy się tym, jak spowita płaszczem postać zamachuje się kosą...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds13": {
+        "en": "Uh, anyway - there was some talk of Mortuga being killed by a [i]curse[/i]...",
+        "pl": "Yy, w każdym razie - były jakieś plotki, że Mortuga zginął od [i]klątwy[/i]...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds130": {
+        "en": "Oh.\nJeez, that's... kinda dark.",
+        "pl": "Och.\nRety, to... trochę mroczne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds131": {
+        "en": "Sym screams, pulls the string, and the doll... is decapitated.",
+        "pl": "Sym krzyczy, pociąga za sznurek, a lalka... zostaje ścięta.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds132": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds133": {
+        "en": "I lay awake that night, eyes wide with regret. Able to bear it no longer, a decision was made-",
+        "pl": "Leżałam bezsennie tej nocy, oczy szeroko otwarte od żalu. Niezdolna dłużej tego znieść, podjęto decyzję-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds134": {
+        "en": "...and that's when you found [i]Mortuga.[/i]",
+        "pl": "...i wtedy znalazłaś [i]Mortugę.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds135": {
+        "en": "The image of his lifeless form... it filled me with a great [i]thunderous guilt.[/i]",
+        "pl": "Obraz jego bezżywnej postaci... napełnił mnie ogromną, [i]gromową winą.[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds136": {
+        "en": "But [i]why?[/i] You think you might've actually caused Mortuga's [i]death[/i] somehow...?",
+        "pl": "Ale [i]czemu?[/i] Myślisz, że może rzeczywiście jakoś spowodowałaś [i]śmierć[/i] Mortugi...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds137": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds138": {
+        "en": "I know not the manner of Magnus Mortuga's death...",
+        "pl": "Nie znam sposobu śmierci Magnusa Mortugi...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds139": {
+        "en": "So - even if his death was unrelated...",
+        "pl": "Więc - nawet jeśli jego śmierć nie była powiązana...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds14": {
+        "en": "You... wouldn't know anything about that, would you?",
+        "pl": "Ty... nie wiedziałabyś nic na ten temat, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds140": {
+        "en": "But I [i]do[/i] know this. The night of The Star Gazing Girl... it was his last.",
+        "pl": "Ale [i]to[/i] wiem. Noc Dziewczyny Patrzącej w Gwiazdy... była jego ostatnią.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds143": {
+        "en": "When we begun, you implied that I laid a curse upon him.",
+        "pl": "Gdy zaczynaliśmy, zasugerowaliście, że rzuciłam na niego klątwę.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds144": {
+        "en": "And I say this;\n",
+        "pl": "A ja rzeknę tak;\n",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds148": {
+        "en": "It's okay, we don't need to force it out of her.",
+        "pl": "W porządku, nie musimy tego z niej wyciągać na siłę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds149": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds15": {
+        "en": "[i]Grimoire.[/i]",
+        "pl": "[i]Grimoire.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds150": {
+        "en": "It's a poster for a magic act. Or - a rough [h]layout[/h] for a poster, anyway.",
+        "pl": "To plakat na pokaz magiczny. Albo - w każdym razie surowy [h]szkic[/h] plakatu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds152": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds153": {
+        "en": "What kind of magic trick would need a lifesize doll?",
+        "pl": "Jaka sztuczka magiczna wymagałaby lalki naturalnej wielkości?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds154": {
+        "en": "The doll is a prop used in magic tricks.",
+        "pl": "Lalka to rekwizyt używany w sztuczkach magicznych.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds156": {
+        "en": "The doll was left behind by the murderer.",
+        "pl": "Lalkę zostawił morderca.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds157": {
+        "en": "The doll was a gift for Mortuga.",
+        "pl": "Lalka była prezentem dla Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds159": {
+        "en": "Oh, like the sketch on the poster?",
+        "pl": "O, jak szkic na plakacie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds16": {
+        "en": "[h]What?[/h] She's the resident curse expert.",
+        "pl": "[h]Co?[/h] Ona jest tutejszą ekspertką od klątw.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds164": {
+        "en": "It would help if we knew more about the trick itself...",
+        "pl": "Pomogłoby, gdybyśmy wiedzieli więcej o samej sztuczce...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds167": {
+        "en": "It's not like that in the original [i]sketch...[/i]",
+        "pl": "W oryginalnym [i]szkicu[/i] to nie tak wygląda...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds169": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds169 Choice 1": {
+        "en": "Mortuga asked her to keep the cauldron covered up.",
+        "pl": "Mortuga poprosił ją, żeby trzymała kocioł zakryty.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds169 Choice 2": {
+        "en": "The sailcloth has sentimental value to her.",
+        "pl": "Żaglowe płótno ma dla niej sentymentalną wartość.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds169 Choice 3": {
+        "en": "She didn't like the look of the cauldron.",
+        "pl": "Nie podobał jej się wygląd kotła.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds169 Choice Question": {
+        "en": "Why did Symmetry end up using the sailcloth?",
+        "pl": "Czemu Symmetry ostatecznie użyła żaglowego płótna?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds17": {
+        "en": "It is... entirely possible that the Captain was set upon by a curse.",
+        "pl": "To... całkiem możliwe, że Kapitan padł ofiarą klątwy.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds171": {
+        "en": "Mortuga asked her to keep the cauldron covered up.",
+        "pl": "Mortuga poprosił ją, żeby trzymała kocioł zakryty.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds172": {
+        "en": "The sailcloth has sentimental value to her.",
+        "pl": "Żaglowe płótno ma dla niej sentymentalną wartość.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds173": {
+        "en": "She didn't like the look of the cauldron.",
+        "pl": "Nie podobał jej się wygląd kotła.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds175": {
+        "en": "[i]'Symmetry, all I ask is that you keep the sailcloth on the cauldron'.[/i]",
+        "pl": "[i]'Symmetry, proszę cię tylko o to, żebyś zostawiła żaglowe płótno na kotle'.[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds178": {
+        "en": "I wonder why she [h]needed[/h] a double, though -  this isn't a [i]mirror[/i] trick like before.",
+        "pl": "Zastanawiam się jednak, czemu [h]potrzebowała[/h] sobowtóra - to nie jest sztuczka z [i]lustrem[/i] jak poprzednio.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds180": {
+        "en": "The cabinet to the side...?\n",
+        "pl": "Szafka z boku...?\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds181": {
+        "en": "When he saw my design for the poster, he had but one request;",
+        "pl": "Gdy ujrzał mój projekt plakatu, miał tylko jedną prośbę;",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds182": {
+        "en": "When I was first let inside, the sailcloth was indeed draped over the cauldron.",
+        "pl": "Gdy po raz pierwszy wpuszczono mnie do środka, żaglowe płótno rzeczywiście spowijało kocioł.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds183": {
+        "en": "I hadn't realised he did not wish me to remove it...",
+        "pl": "Nie zdawałam sobie sprawy, że nie chciał, bym je zdejmowała...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds184": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds185": {
+        "en": "See - in the drawing, the cauldron's [i]uncovered.[/i]",
+        "pl": "Widzisz - na rysunku kocioł jest [i]odkryty.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds186": {
+        "en": "Dang.",
+        "pl": "A niech to.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds187": {
+        "en": "And see how on the poster, there's a little grim reaper guy? That's the person from the film.",
+        "pl": "I widzisz, jak na plakacie jest taka mała kostucha? To ta postać z filmu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds19": {
+        "en": "See? I knew she'd know about this-",
+        "pl": "Widzisz? Wiedziałem, że będzie coś o tym wiedziała-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds199": {
+        "en": "[i]Maybe I did.[/i]",
+        "pl": "[i]Może i tak.[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds20": {
+        "en": "Let's just stick to the facts, shall we?",
+        "pl": "Trzymajmy się faktów, dobrze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds200": {
+        "en": "So [h]that's[/h] why you went back to the Illusion Theatre...",
+        "pl": "Więc [h]dlatego[/h] wróciłaś do Teatru Iluzji...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds201": {
+        "en": "...you feel bad that your trick was one of the last things he ever saw?",
+        "pl": "...czujesz się źle, że twoja sztuczka była jedną z ostatnich rzeczy, jakie zobaczył?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds202": {
+        "en": "I don't get why she couldn't just sit on the cauldron herself.",
+        "pl": "Nie rozumiem, czemu nie mogła po prostu sama usiąść na kotle.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds203": {
+        "en": "Hang on - why does Sym [h]have[/h] a film of a grim reaper character? Where'd it [i]come[/i] from??",
+        "pl": "Czekaj - czemu Sym w ogóle [h]ma[/h] film z postacią kostuchy? Skąd on się [i]wziął?[/i]?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds204": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds204 Choice 1": {
+        "en": "It's a scene from Dirk's movie.",
+        "pl": "To scena z filmu Dirka.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds204 Choice 2": {
+        "en": "Mortuga filmed it here on the submarine.",
+        "pl": "Mortuga nagrał to tutaj, na łodzi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds204 Choice 3": {
+        "en": "Sym filmed it as part of her old magic show.",
+        "pl": "Sym nagrała to jako część swojego starego pokazu magicznego.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds204 Choice Question": {
+        "en": "What's the origin of the film reel...?",
+        "pl": "Skąd pochodzi ta taśma filmowa...?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds207": {
+        "en": "Mortuga filmed it, here on the submarine.",
+        "pl": "Mortuga nagrał to, tutaj na łodzi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds208": {
+        "en": "It's a scene from Dirk's movie.",
+        "pl": "To scena z filmu Dirka.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds209": {
+        "en": "Oh yeah...\nGood catch.",
+        "pl": "O tak...\nDobre spostrzeżenie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds21": {
+        "en": "Sym, If you [h]were[/h] in the Illusion Theatre with Mortuga - what were you actually [i]doing[/i] in there?",
+        "pl": "Sym, jeśli [h]byłaś[/h] w Teatrze Iluzji z Mortugą - co ty tam właściwie [i]robiłaś?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds210": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds211": {
+        "en": "Sym filmed it as part of her old magic show.",
+        "pl": "Sym nagrała to jako część swojego starego pokazu magicznego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds212": {
+        "en": "Right.",
+        "pl": "No właśnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds213": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds214": {
+        "en": "I concede, I concede!\nI am laid bare!",
+        "pl": "Poddaję się, poddaję się!\nJestem obnażona!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds215": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds217": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds218": {
+        "en": "Besmirch'd by my own penmanship. Truly, the folly of man.",
+        "pl": "Splamiona własnym pismem. Zaiste, głupota człowieka.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds219": {
+        "en": "[Gasp!]",
+        "pl": "[Głośny wdech!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds22": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds22 Choice 1": {
+        "en": "A performance.",
+        "pl": "Występ.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds22 Choice 2": {
+        "en": "An argument.",
+        "pl": "Kłótnia.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds22 Choice 3": {
+        "en": "A conversation.",
+        "pl": "Rozmowa.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds22 Choice Question": {
+        "en": "What was Symmetry doing in the Illusion Theatre?",
+        "pl": "Co Symmetry robiła w Teatrze Iluzji?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds220": {
+        "en": "I am undone!",
+        "pl": "Jestem zgubiona!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds221": {
+        "en": "[Sigh]",
+        "pl": "[Westchnienie]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds222": {
+        "en": "I would tear it [i]all[/i] down, the whole misbegotten affair.",
+        "pl": "Zburzyłabym to [i]wszystko[/i], całe to niefortunne przedsięwzięcie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds223": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds224": {
+        "en": "[i][Thump][/i]",
+        "pl": "[i][Łomot][/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds225": {
+        "en": "[i][Scream][/i]",
+        "pl": "[i][Krzyk][/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds226": {
+        "en": "[i][Swing][/i]",
+        "pl": "[i][Świst][/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds26": {
+        "en": "An argument.",
+        "pl": "Kłótnia.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds27": {
+        "en": "A conversation.",
+        "pl": "Rozmowa.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds28": {
+        "en": "A performance.",
+        "pl": "Występ.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds29": {
+        "en": "-like a [i]magic act?[/i]",
+        "pl": "-jak pokaz [i]magiczny?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds32": {
+        "en": "A [h]foolish[/h] act. A callous indulgence, through and through.",
+        "pl": "[h]Głupi[/h] czyn. Bezduszne pobłażanie sobie, na wskroś.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds33": {
+        "en": "I... don't understand. Did it go [i]wrong?[/i]",
+        "pl": "Ja... nie rozumiem. Coś poszło [i]źle?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds34": {
+        "en": "I performed it perfectly.",
+        "pl": "Wykonałam to doskonale.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds35": {
+        "en": "Then what's the problem?",
+        "pl": "To w czym problem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds37": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds38": {
+        "en": "She's gone quiet.",
+        "pl": "Zamilkła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds43": {
+        "en": "Oh - we found something else, too.",
+        "pl": "Och - znaleźliśmy też coś innego.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds45": {
+        "en": "Sweet Sister Inanimate...",
+        "pl": "Słodka Siostro Nieożywiona...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds46": {
+        "en": "I implore you - leave her be. Her hands are clean!",
+        "pl": "Błagam was - zostawcie ją w spokoju. Jej ręce są czyste!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds46 Choice 1": {
+        "en": "The doll is a prop used in magic tricks.",
+        "pl": "Lalka to rekwizyt używany w sztuczkach magicznych.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds46 Choice 2": {
+        "en": "The doll was left behind by the murderer.",
+        "pl": "Lalkę zostawił morderca.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds46 Choice 3": {
+        "en": "The doll was a gift for Mortuga.",
+        "pl": "Lalka była prezentem dla Mortugi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds46 Choice Question": {
+        "en": "How was the doll involved?",
+        "pl": "Jak lalka była w to zamieszana?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds47": {
+        "en": "Any trick where you'd need a [i]double[/i], obviously.",
+        "pl": "Każda sztuczka, w której potrzeba [i]sobowtóra,[/i] oczywiście.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds48": {
+        "en": "Your magic act - [i]'Lady of the Looking Glass'[/i] - I don't claim to know exactly how it works,",
+        "pl": "Twój pokaz magiczny - [i]'Dama Zwierciadła'[/i] - nie twierdzę, że wiem dokładnie, jak on działa,",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds49": {
+        "en": "-but as far as I can tell, you put the doll behind some kind of special mirror, and it acts as an identical double.",
+        "pl": "-ale o ile się orientuję, umieszczasz lalkę za jakimś specjalnym lustrem, i działa ona jako identyczny sobowtór.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds50": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds51": {
+        "en": "Lady of the Looking Glass is a thing of the past. I am no longer able to perform it.",
+        "pl": "Dama Zwierciadła to już przeszłość. Nie jestem już w stanie tego wykonać.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds52": {
+        "en": "Because you don't have the special mirror?",
+        "pl": "Bo nie masz już specjalnego lustra?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds53": {
+        "en": "You misunderstand. I shall [h]never again[/h] perform this trick.",
+        "pl": "Źle rozumiecie. [h]Nigdy więcej[/h] nie wykonam tej sztuczki.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds54": {
+        "en": "But why not?",
+        "pl": "Ale czemu nie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds55": {
+        "en": "...oh.",
+        "pl": "...och.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds55 Choice 1": {
+        "en": "Because Sym and her doll are no longer identical.",
+        "pl": "Bo Sym i jej lalka nie są już identyczne.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds55 Choice 2": {
+        "en": "Because she's lost one of the other props.",
+        "pl": "Bo zgubiła jeden z pozostałych rekwizytów.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds55 Choice 3": {
+        "en": "Because someone banned her from performing it.",
+        "pl": "Bo ktoś zabronił jej to wykonywać.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds55 Choice Question": {
+        "en": "Why can't Symmetry perform this trick anymore?",
+        "pl": "Czemu Symmetry nie może już wykonać tej sztuczki?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds56": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds57": {
+        "en": "Because she's lost one of the other props.",
+        "pl": "Bo zgubiła jeden z pozostałych rekwizytów.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds58": {
+        "en": "Because someone banned her from performing it.",
+        "pl": "Bo ktoś zabronił jej to wykonywać.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds59": {
+        "en": "Because Sym and her doll are no longer identical.",
+        "pl": "Bo Sym i jej lalka nie są już identyczne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds60": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds61": {
+        "en": "Sweet Sister stays ever a fresh-face child.",
+        "pl": "Słodka Siostra pozostaje wiecznie dzieckiem o świeżej twarzy.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds62": {
+        "en": "No such fate is writ for me.",
+        "pl": "Taki los nie jest mi pisany.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds64": {
+        "en": "So you can't use the doll [h]at all[/h] anymore?",
+        "pl": "Więc [h]w ogóle[/h] nie możesz już używać lalki?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds65": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds66": {
+        "en": "Facing [i]away...?[/i]",
+        "pl": "Odwrócona [i]tyłem...?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds67": {
+        "en": "True. We don't even know what it's called.",
+        "pl": "Racja. Nawet nie wiemy, jak się to nazywa.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds68": {
+        "en": "[i]'The Star-Gazing Girl'.[/i]\nSays it right there.",
+        "pl": "[i]'Dziewczyna Patrząca w Gwiazdy'.[/i]\nJest napisane tuż tam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds69": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds70": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds71": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds72": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds74": {
+        "en": "Why would the title be written on the [i]sailcloth?[/i]",
+        "pl": "Czemu tytuł byłby napisany na [i]żaglowym płótnie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds75": {
+        "en": "I'm pretty sure she used it during the magic act.",
+        "pl": "Jestem raczej pewna, że użyła go podczas pokazu magicznego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds75 Choice 1": {
+        "en": "She draped it over the cauldron.",
+        "pl": "Zarzuciła je na kocioł.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds75 Choice 2": {
+        "en": "She wore it as a cloak.",
+        "pl": "Nosiła je jako pelerynę.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds75 Choice 3": {
+        "en": "She hung it up to use as a curtain.",
+        "pl": "Powiesiła je, żeby użyć jako zasłony.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds75 Choice Question": {
+        "en": "How did Sym use the sailcloth during the magic act?",
+        "pl": "Jak Sym użyła żaglowego płótna podczas pokazu magicznego?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds76": {
+        "en": "She hung it up to use as a curtain.",
+        "pl": "Powiesiła je, żeby użyć jako zasłony.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds77": {
+        "en": "She wore it as a cloak.",
+        "pl": "Nosiła je jako pelerynę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds78": {
+        "en": "She draped it over the cauldron.",
+        "pl": "Zarzuciła je na kocioł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds82": {
+        "en": "-and given that you had to [i]keep[/i] it, you made use of it as a kind of [i]banner.[/i]",
+        "pl": "-a skoro musiałaś je [i]zatrzymać,[/i] wykorzystałaś je jako coś w rodzaju [i]transparentu.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds83": {
+        "en": "Before the Captain assented to me using that room, he'd been using it for storage.",
+        "pl": "Zanim Kapitan zgodził się, bym używała tego pokoju, on sam używał go jako magazynu.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds84": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds85": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds86": {
+        "en": "So what's The Star-Gazing Girl [i]about?[/i] What [i]happens[/i] in it?",
+        "pl": "Więc o czym właściwie [i]jest[/i] Dziewczyna Patrząca w Gwiazdy? Co się w niej [i]dzieje?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds87": {
+        "en": "I... do not wish to speak on it.",
+        "pl": "Ja... nie życzę sobie o tym mówić.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds90": {
+        "en": "No? Well, we actually know quite a bit about it [i]already.[/i]",
+        "pl": "Nie? Cóż, w sumie [i]już[/i] sporo o tym wiemy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds92": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds93": {
+        "en": "[i]The Star-Gazing Girl stares into the ink-black void.\n[/i]",
+        "pl": "[i]Dziewczyna Patrząca w Gwiazdy wpatruje się w atramentowoczarną pustkę.\n[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds94": {
+        "en": "[i]Upon her trembling lips, a question born. A forbidden query, of what may be, and what may not be.[/i]",
+        "pl": "[i]Na jej drżących wargach, rodzi się pytanie. Zakazane pytanie, o to, co może być, i czego być nie może.[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds95": {
+        "en": "[i]The void, unyielding to the girl's plight, stares back. It speaks;[/i]",
+        "pl": "[i]Pustka, nieugięta wobec błagania dziewczyny, spogląda w odpowiedzi. I przemawia;[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds96": {
+        "en": "[i]Close your eyes, my love. And be still. For this is the end and the beginning.[/i]",
+        "pl": "[i]Zamknij oczy, moja miłości. I znieruchom. Bo to jest koniec i początek.[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds97": {
+        "en": "O! How can this be?",
+        "pl": "O! Jakże to być może?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds98": {
+        "en": "Mariana Moon was in the bilge at the time. I guess the sound traveled down through the open vent.",
+        "pl": "Mariana Moon była wtedy w Zęzie. Chyba dźwięk doszedł w dół przez otwartą klapę wentylacyjną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 05 SUSPICION/Section ds99": {
+        "en": "Her pipe is a dictaphone.",
+        "pl": "Jej fajka to dyktafon.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "SFX/onomatopeje - decyzja o tlumaczeniu",
+      "problem": "TECHNICAL_GUIDE flagowal jako nierozstrzygniete czy tlumaczyc nawiasowe onomatopeje/SFX jak [Squeak!], [Gasp!]. W tej partii podjeto decyzje ZE TAK, tlumaczac je jako napisy dzwiekowe ([Pisk!], [Glosny wdech!], [Westchnienie], [Lomot], [Krzyk], [Swist]) - do potwierdzenia z userem czy to sluszne podejscie, czy powinny zostac po angielsku jako czysto techniczne znaczniki niewidoczne dla gracza."
+    }
+  ]
+}

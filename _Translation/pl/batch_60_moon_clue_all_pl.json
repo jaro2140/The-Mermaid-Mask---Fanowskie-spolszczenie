@@ -1,0 +1,1808 @@
+{
+  "_meta": {
+    "batch": "Moon CLUE X (~50 scen, 336 terminow) - reakcje Moon na kazdy dowod w grze pokazany jej do skomentowania (mechanika 'ask about clue'). Bogata nowa mitologia: Srebrny Waz/Waz z Silkwirm (morski waz zwiazany z Sylvia Seafoam, powod budowy pierwotnej lodzi Seafoam), Selena Stonetop jako malarka (inicjaly S.S.), Solomon Stonetop zalozyciel Silkwirm-on-sea, Faustus Fellow - Gubernator ktory wykupil miasteczko, Freya - tajemnicza postac z drzewa genealogicznego Moon, oraz KLUCZOWE odkrycie: ojciec Wirmana to 'burmistrz Damian Dusk' (wyjasnia watek 'Wirman zmienil imie' z Moon SUS Wirman - prawdopodobne rodowe nazwisko Wirmana to Dusk).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - wiekszosc pokryta bezposrednio, mowca 'Film' dla FilmProjector/ds8 (nagranie filmowe).",
+    "character_voice": "Moon: kontynuacja poetyckiego/mistycznego, ale tu tez analitycznego (opisy zapachu/materialu przedmiotow - jej metoda 'wachania' dowodow) rejestru (batch_21-26, batch_50, batch_57).",
+    "new_lore": "Srebrny Waz (Silversnake/Silkwirm Serpent) - legendarny morski waz odkryty przez Felicie Stonetop i Sylvie Seafoam (gazeta), ktorego Sylvia chciala zabrac ze soba na lodz podwodna Seafoam zanim wladze zazadaly przekazania go do badan. Solomon Stonetop zbudowal Gospode Stonetop i zalozyl miasteczko. Faustus Fellow (Gubernator) wykupil cale miasteczko."
+  },
+  "categories": {
+    "Moon CLUE ActionFigure": {
+      "Conversation/Moon CLUE ActionFigure/Section ds15": {
+        "en": "Sorry - [i]'Belicia Bonetop'?[/i]",
+        "pl": "Przepraszam - [i]'Belicia Bonetop'?[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ActionFigure/Section ds16": {
+        "en": "Yeah. That's what she's called in the book, too.",
+        "pl": "Tak. Tak samo nazywa się w książce.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE ActionFigure/Section ds17": {
+        "en": "Markus Mordoom's captain [i]slash[/i] love interest.",
+        "pl": "Kapitan [i]czyli[/i] obiekt westchnień Markusa Mordooma.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE ActionFigure/Section ds21": {
+        "en": "Flying a little close to the [i]sun[/i] with that name, aren't they?",
+        "pl": "Trochę za blisko [i]słońca[/i] lecą z tym imieniem, nie sądzicie?",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE BalloonBasket": {
+      "Conversation/Moon CLUE BalloonBasket/Section ds0": {
+        "en": "[Sniff]",
+        "pl": "[Wąchanie]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BalloonBasket/Section ds6": {
+        "en": "Hmm, I'm getting mahogany... embedded with... sea salt.",
+        "pl": "Hmm, wyczuwam mahoń... przesiąknięty... solą morską.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BalloonBasket/Section ds7": {
+        "en": "Maybe from when Gripp crashed his balloon into the ocean?",
+        "pl": "Może z czasów, kiedy Gripp rozbił swój balon o ocean?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BalloonBasket/Section ds8": {
+        "en": "No, the basket is made from wicker and carbon fiber...",
+        "pl": "Nie, kosz jest zrobiony z wikliny i włókna węglowego...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BalloonBasket/Section ds9": {
+        "en": "The wood [h]inside[/h] the basket - that's the mahogany.",
+        "pl": "Drewno [h]wewnątrz[/h] kosza - to jest ten mahoń.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BalloonBasket/Section ds10": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE BlackBox": {
+      "Conversation/Moon CLUE BlackBox/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds6": {
+        "en": "Any idea what this is?",
+        "pl": "Masz pojęcie, co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds7": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds8": {
+        "en": "Really...\nYou're not even gonna tell us what it [i]smells[/i] like?",
+        "pl": "Serio...\nNawet nie powiesz nam, jak to [i]pachnie?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds9": {
+        "en": "[i]Old moss[/i] and [i]jealousy-ridden oak[/i] or something?",
+        "pl": "[i]Starym mchem[/i] i [i]przesiąkniętym zazdrością dębem[/i] czy coś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds11": {
+        "en": "It's not oak, it's cedar.",
+        "pl": "To nie dąb, to cedr.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds12": {
+        "en": "Aha!",
+        "pl": "Aha!",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds13": {
+        "en": "She... still didn't actually tell us anything.",
+        "pl": "Ona... tak naprawdę wciąż nic nam nie powiedziała.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds14": {
+        "en": "Oh, yeah.",
+        "pl": "A, tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlackBox/Section ds15": {
+        "en": "I retract that 'aha' from the record.",
+        "pl": "Wycofuję to 'aha' z protokołu.",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE BlurryPhoto": {
+      "Conversation/Moon CLUE BlurryPhoto/Section ds0": {
+        "en": "When did you take this photo?",
+        "pl": "Kiedy zrobiłaś to zdjęcie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds6": {
+        "en": "Says it right there-\nOn the [i]'night of a full moon'...[/i]",
+        "pl": "Jest napisane właśnie tam-\nW [i]'noc pełni księżyca'...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds7": {
+        "en": "How come that guy has - glowing red eyes?",
+        "pl": "Czemu ten facet ma - świecące czerwone oczy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds8": {
+        "en": "Perhaps it's because of his [i]demonic essence...[/i]",
+        "pl": "Może to przez jego [i]demoniczną istotę...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds9": {
+        "en": "Or, you used a flash.",
+        "pl": "Albo użyłaś lampy błyskowej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds10": {
+        "en": "Perhaps it's because I [i]used a flash...[/i]",
+        "pl": "Może to przez to, że [i]użyłam lampy błyskowej...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds11": {
+        "en": "Who's the woman in the ball?",
+        "pl": "Kim jest kobieta w kuli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds12": {
+        "en": "That's no woman! That's a mermaid! Slumbering in an ethereal bub-",
+        "pl": "To nie kobieta! To syrena! Drzemiąca w eterycznej ba-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BlurryPhoto/Section ds14": {
+        "en": "You're not gonna tell us, huh?",
+        "pl": "Nie powiesz nam, co?",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE BrokenCompass": {
+      "Conversation/Moon CLUE BrokenCompass/Section ds0": {
+        "en": "I never needed a compass - I prefer [h]old-fashioned[/h] methods of navigation.",
+        "pl": "Nigdy nie potrzebowałam kompasu - wolę [h]staroświeckie[/h] metody nawigacji.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BrokenCompass/Section ds7": {
+        "en": "I'm pretty sure a compass [h]is[/h] the old-fashioned method.",
+        "pl": "Jestem całkiem pewna, że kompas [h]jest[/h] staroświecką metodą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE BrokenCompass/Section ds8": {
+        "en": "Not as old as the sun and stars...",
+        "pl": "Nie tak starą jak słońce i gwiazdy...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BrokenCompass/Section ds10": {
+        "en": "...and unlike this compass, they never break and need repairing.",
+        "pl": "...i w przeciwieństwie do tego kompasu, nigdy się nie psują i nie wymagają naprawy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE BrokenCompass/Section ds11": {
+        "en": "I'm not sure it [h]is[/h] broken, actually.",
+        "pl": "Właściwie, nie jestem pewien, czy [h]jest[/h] zepsuty.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE CaptainsJacket": {
+      "Conversation/Moon CLUE CaptainsJacket/Section ds0": {
+        "en": "Emblazoned with the Seafoam [i]'S'[/i], I see. It's quite an elaborate-",
+        "pl": "Ozdobiona [i]'S'[/i] rodu Seafoam, widzę. To dość wystawn-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaptainsJacket/Section ds8": {
+        "en": "Oh, how strange. It's never been worn.",
+        "pl": "Ach, jak dziwnie. Nigdy nie był noszony.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaptainsJacket/Section ds10": {
+        "en": "Once or twice, at the very most.",
+        "pl": "Raz albo dwa razy, najwyżej.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaptainsJacket/Section ds16": {
+        "en": "Never?",
+        "pl": "Nigdy?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE CaptainsLog": {
+      "Conversation/Moon CLUE CaptainsLog/Section ds6": {
+        "en": "I'd heard Mortuga wasn't one for [i]writing things down[/i], so I'd given up hope of finding a diary-",
+        "pl": "Słyszałam, że Mortuga nie był typem, który [i]spisuje rzeczy,[/i] więc porzuciłam nadzieję na znalezienie dziennika-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaptainsLog/Section ds7": {
+        "en": "-but this might be the next best thing.",
+        "pl": "-ale to może być najlepsza alternatywa.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaptainsLog/Section ds8": {
+        "en": "He made a record of every time a new person joined the submarine.",
+        "pl": "Zapisywał każdy raz, kiedy nowa osoba dołączała do łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaptainsLog/Section ds9": {
+        "en": "Except for when [h]you[/h] joined, Mariana.",
+        "pl": "Poza tym, kiedy dołączyłaś [h]ty,[/h] Mariano.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaptainsLog/Section ds10": {
+        "en": "Well, I suppose he never had the chance.",
+        "pl": "Cóż, chyba nigdy nie miał okazji.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE CaretakersJournal": {
+      "Conversation/Moon CLUE CaretakersJournal/Section ds0": {
+        "en": "Now where did you find [h]this??[/h] ",
+        "pl": "A gdzie [h]to[/h] znaleźliście?? ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds6": {
+        "en": "Zephyr had it.",
+        "pl": "Zephyr to miał.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds7": {
+        "en": "[i]Did[/i] he now!",
+        "pl": "[i]Rzeczywiście?![/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds8": {
+        "en": "...lillian's locket... silversnake... golden palm... merma-",
+        "pl": "...medalion lilian... srebrny wąż... złota dłoń... syre-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds9": {
+        "en": "The Mermaid's Tongue.",
+        "pl": "Język Syreny.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds10": {
+        "en": "You've heard of it?",
+        "pl": "Słyszałaś o nim?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds11": {
+        "en": "Only the name... and only when people were telling me it doesn't exist.",
+        "pl": "Tylko nazwę... i tylko wtedy, kiedy ludzie mówili mi, że nie istnieje.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds12": {
+        "en": "Maybe it doesn't.",
+        "pl": "Może nie istnieje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds13": {
+        "en": "But there's a photo!",
+        "pl": "Ale jest zdjęcie!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds14": {
+        "en": "It's a photo of a [h]drawing.[/h] ",
+        "pl": "To zdjęcie [h]rysunku.[/h] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds16": {
+        "en": "What's it supposed to do, anyway? The description in the book here is pretty vague...",
+        "pl": "Co to w ogóle ma robić? Opis w tej książce jest dość niejasny...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds17": {
+        "en": "Hm, they say it allows humans to commune directly with God, while they're still alive.",
+        "pl": "Hm, mówią, że pozwala ludziom obcować bezpośrednio z Bogiem, póki jeszcze żyją.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds19": {
+        "en": "What??\n[i]God?[/i] ",
+        "pl": "Co??\n[i]Bogiem?[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds20": {
+        "en": "You know, it varies. But the sentiment is the same.",
+        "pl": "No wiesz, to się różni. Ale sens jest ten sam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds21": {
+        "en": "I can see why people would say it doesn't exist.",
+        "pl": "Rozumiem, czemu ludzie mówiliby, że to nie istnieje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds23": {
+        "en": "...in here it says; [i]'Said to facilitate communication with She Who Lies Beyond The Veil.'[/i] ",
+        "pl": "...tu jest napisane; [i]'Podobno umożliwia komunikację z Tą, Która Leży Poza Zasłoną.'[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds24": {
+        "en": "[i]She Who Lies Beyond The Veil, God, Other Dimensions, Aliens, The Afterlife...[/i] ",
+        "pl": "[i]Ta, Która Leży Poza Zasłoną, Bóg, Inne Wymiary, Kosmici, Zaświaty...[/i] ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds25": {
+        "en": "-but [i]Zephyr's[/i] trying to get hold of it?",
+        "pl": "-ale [i]Zephyr[/i] próbuje go zdobyć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds26": {
+        "en": "Well, he [i]may[/i] be. It [i]depends.[/i] ",
+        "pl": "Cóż, [i]być może.[/i] To [i]zależy.[/i] ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds27": {
+        "en": "On what?",
+        "pl": "Od czego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds28": {
+        "en": "The strength of his will.",
+        "pl": "Od siły jego woli.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds31": {
+        "en": "It's a [i]wretched[/i] thing, really - an echo of Man's desperate, futile desire to wring answers from a [i]silent universe.[/i] ",
+        "pl": "To [i]nędzna[/i] rzecz, doprawdy - echo rozpaczliwego, daremnego pragnienia Człowieka, by wydrzeć odpowiedzi z [i]milczącego wszechświata.[/i] ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaretakersJournal/Section ds32": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE CaseFile": {
+      "Conversation/Moon CLUE CaseFile/Section ds0": {
+        "en": "I see Sinthia's proudly wielding the Seafoam [i]'S'[/i] in her signature, there.",
+        "pl": "Widzę, że Sinthia dumnie posługuje się [i]'S'[/i] rodu Seafoam w swoim podpisie, tam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds6": {
+        "en": "Why shouldn't she?",
+        "pl": "A czemu miałaby nie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds7": {
+        "en": "Of course, she's well within her rights to do so-",
+        "pl": "Oczywiście, ma pełne prawo to robić-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds8": {
+        "en": "But I do think, perhaps it, uh - sends a certain message?",
+        "pl": "Ale myślę, że może to, yy - wysyła pewien komunikat?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds9": {
+        "en": "[i]'I claim this submarine in the name of the Seafoam family.'[/i]",
+        "pl": "[i]'Rości sobie tę łódź podwodną w imieniu rodu Seafoam.'[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds10": {
+        "en": "What message would that be?",
+        "pl": "Jaki to byłby komunikat?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds11": {
+        "en": "Something like that? Don't you think?",
+        "pl": "Coś w tym stylu? Nie sądzicie?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CaseFile/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE CellPhone": {
+      "Conversation/Moon CLUE CellPhone/Section ds0": {
+        "en": "A ZX-5. [i]Nice[/i] piece of kit.",
+        "pl": "ZX-5. [i]Niezły[/i] sprzęt.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds7": {
+        "en": "Polycarbonate shell, tactile interface, [i]unusually[/i] good battery life-",
+        "pl": "Poliwęglanowa obudowa, dotykowy interfejs, [i]niezwykle[/i] dobra żywotność baterii-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds8": {
+        "en": "I mean, uh-\nIt's... a cell phone.",
+        "pl": "To znaczy, yy-\nTo... telefon komórkowy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds11": {
+        "en": "Who's is it?",
+        "pl": "Czyj jest?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds12": {
+        "en": "Dirk Dansom.",
+        "pl": "Dirka Dansoma.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds13": {
+        "en": "Hm. I suppose that makes the most sense...",
+        "pl": "Hm. Chyba to ma najwięcej sensu...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CellPhone/Section ds14": {
+        "en": "After all, Mortuga really didn't seem like the cell phone [i]type...[/i]",
+        "pl": "W końcu Mortuga naprawdę nie wyglądał na [i]typ[/i] od telefonów komórkowych...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE CommandContract": {
+      "Conversation/Moon CLUE CommandContract/Section ds8": {
+        "en": "You know - one of the reasons I found it hard to research Mortuga, was that there really wasn't much of a [i]paper trail...[/i]",
+        "pl": "Wiecie - jednym z powodów, dla których trudno mi było badać Mortugę, było to, że naprawdę nie było wielu [i]śladów papierkowych...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CommandContract/Section ds9": {
+        "en": "Well, seems like he changed his ways.",
+        "pl": "Cóż, wygląda na to, że zmienił swoje nawyki.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CommandContract/Section ds10": {
+        "en": "Yes, it's rather odd, isn't it?",
+        "pl": "Tak, to dość dziwne, prawda?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CommandContract/Section ds11": {
+        "en": "I wonder what compelled him to draw up a contract like this...",
+        "pl": "Ciekawe, co skłoniło go do sporządzenia takiego kontraktu...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CommandContract/Section ds12": {
+        "en": "...I can't help but feel like the idea must've come from someone else.",
+        "pl": "...nie mogę się oprzeć wrażeniu, że ten pomysł musiał pochodzić od kogoś innego.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CommandContract/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE CurseCauldron": {
+      "Conversation/Moon CLUE CurseCauldron/Section ds7": {
+        "en": "There's only one thing more mysterious than a locked box...",
+        "pl": "Jest tylko jedna rzecz bardziej tajemnicza niż zamknięta skrzynia...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds8": {
+        "en": "...and that's an [h]unlocked[/h] box that's been emptied of its contents.",
+        "pl": "...a jest nią [h]odblokowana[/h] skrzynia opróżniona ze swojej zawartości.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds9": {
+        "en": "Did you ever come across the cauldron in your research?",
+        "pl": "Natknęłaś się kiedyś na kocioł w swoich badaniach?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds11": {
+        "en": "No... it really does seem to be something Mortuga's been keeping to himself.",
+        "pl": "Nie... to naprawdę wygląda na coś, co Mortuga trzymał dla siebie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds12": {
+        "en": "What d'you make of those scratch marks?",
+        "pl": "Co sądzisz o tych zadrapaniach?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds14": {
+        "en": "That's a relief.",
+        "pl": "To ulga.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds15": {
+        "en": "Wait - is it??",
+        "pl": "Czekaj - czy na pewno??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE CurseCauldron/Section ds16": {
+        "en": "I'm not sure. They don't really look like anything made by an animal...",
+        "pl": "Nie jestem pewna. Nie wyglądają na zrobione przez zwierzę...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE DivingLicense": {
+      "Conversation/Moon CLUE DivingLicense/Section ds0": {
+        "en": "[i]Tanya Tap-dole...[/i]",
+        "pl": "[i]Tanya Tap-dole...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DivingLicense/Section ds6": {
+        "en": "Ah. I see what you did there.",
+        "pl": "Ach. Widzę, co tu zrobiliście.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DivingLicense/Section ds7": {
+        "en": "I didn't do anything.",
+        "pl": "Nic nie zrobiłem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE DivingLicense/Section ds8": {
+        "en": "She's not talking to you.",
+        "pl": "Ona nie mówi do ciebie.",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE DreamHelmet": {
+      "Conversation/Moon CLUE DreamHelmet/Section ds0": {
+        "en": "Very well. Let's see-",
+        "pl": "Bardzo dobrze. Zobaczmy-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds6": {
+        "en": "Mariana - I was wondering if you could tell us who's worn this?",
+        "pl": "Mariano - zastanawiałem się, czy mogłabyś nam powiedzieć, kto to nosił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds7": {
+        "en": "How's she supposed to do that?",
+        "pl": "Jak niby ma to zrobić?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds8": {
+        "en": "You know... by the smell.",
+        "pl": "No wiesz... po zapachu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds9": {
+        "en": "Oh.\nGross.",
+        "pl": "Och.\nObrzydliwe.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds11": {
+        "en": "I'm getting wind-battered mahogany...",
+        "pl": "Wyczuwam smagany wiatrem mahoń...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds13": {
+        "en": "Great. Thanks.",
+        "pl": "Świetnie. Dzięki.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds14": {
+        "en": "...and mostly-melted candlewax.",
+        "pl": "...i w większości stopiony wosk świecowy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DreamHelmet/Section ds15": {
+        "en": "...ice cold sea spray...",
+        "pl": "...lodowato zimną morską mgiełkę...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE DriftwoodCane": {
+      "Conversation/Moon CLUE DriftwoodCane/Section ds0": {
+        "en": "The bandages in the centre smell of fearful sweat...",
+        "pl": "Bandaże pośrodku pachną przerażonym potem...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DriftwoodCane/Section ds6": {
+        "en": "...the wood itself - it's mahogany, but it smells of salty ocean air...",
+        "pl": "...samo drewno - to mahoń, ale pachnie słonym morskim powietrzem...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DriftwoodCane/Section ds8": {
+        "en": "...and the little hat - smells like a dress worn by a doll.",
+        "pl": "...a mały kapelusik - pachnie jak suknia noszona przez lalkę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE DriftwoodCane/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE DriftwoodCane/Section ds10": {
+        "en": "[i]...dress - worn - by- a - doll.[/i]\nLovely.",
+        "pl": "[i]...suknia - noszona - przez - lalkę.[/i]\nUroczo.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE FamilyPhoto": {
+      "Conversation/Moon CLUE FamilyPhoto/Section ds0": {
+        "en": "Oh, Good. I was worried this wasn't going to come up.",
+        "pl": "Och, dobrze. Martwiłam się, że to nie wypłynie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds7": {
+        "en": "-What?\nSinthia and her family?",
+        "pl": "-Co?\nSinthia i jej rodzina?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds8": {
+        "en": "The submarine in the background?",
+        "pl": "Łódź podwodna w tle?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds9": {
+        "en": "Yes and yes.\nBut also, [h]no.[/h]",
+        "pl": "Tak i tak.\nAle też, [h]nie.[/h]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds10": {
+        "en": "The best part of this photo is the thing on the left-hand side...",
+        "pl": "Najlepsza część tego zdjęcia to rzecz po lewej stronie...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds12": {
+        "en": "Barely.",
+        "pl": "Ledwo.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds13": {
+        "en": "...is it a snake?",
+        "pl": "...to wąż?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds16": {
+        "en": "We might've. But what's it doing in the photo?",
+        "pl": "Może i tak. Ale co robi na zdjęciu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds17": {
+        "en": "Oh? You've heard of it?",
+        "pl": "O? Słyszeliście o nim?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds18": {
+        "en": "So - that submarine in the background - the Silversnake is the reason that was built!",
+        "pl": "Więc - ta łódź podwodna w tle - Srebrny Wąż jest powodem, dla którego ją zbudowano!",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds20": {
+        "en": "Sylvia Seafoam, pictured there in the fancy jacket, she was quite fond of her serpent friend, you see-",
+        "pl": "Sylvia Seafoam, przedstawiona tam w wystawnej marynarce, bardzo lubiła swojego przyjaciela węża, rozumiecie-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds21": {
+        "en": "So Sylvia made a plan to go and live in a submarine, and take the Silversnake [i]with[/i] her.",
+        "pl": "Więc Sylvia zaplanowała, że zamieszka na łodzi podwodnej i zabierze Srebrnego Węża [i]ze[/i] sobą.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds22": {
+        "en": "-but the powers that be were demanding she hand it over to be studied.",
+        "pl": "-ale władze żądały, żeby go oddała do zbadania.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds23": {
+        "en": "Wait - so the sea serpent would [h]also[/h] be living in the submarine?",
+        "pl": "Czekajcie - więc morski wąż [h]też[/h] miałby mieszkać na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds24": {
+        "en": "Well, I don't have all the details - it's something I'm still researching.",
+        "pl": "Cóż, nie mam wszystkich szczegółów - wciąż to badam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds31": {
+        "en": "It's in a glass tank - do you see it? ",
+        "pl": "Jest w szklanym zbiorniku - widzicie go? ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds33": {
+        "en": "That's, uh... quite ambitious.",
+        "pl": "To, yy... dość ambitne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FamilyPhoto/Section ds38": {
+        "en": "It's the [h]Silver[/h]snake! Also known as the [i]Silkwirm Serpent.[/i]",
+        "pl": "To [h]Srebrny[/h] Wąż! Znany też jako [i]Wąż z Silkwirm.[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE FeliciaPainting": {
+      "Conversation/Moon CLUE FeliciaPainting/Section ds0": {
+        "en": "This here - that's the Stonetop emblem.",
+        "pl": "To tutaj - to godło Stonetopów.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds7": {
+        "en": "We saw it on the sign outside the Stonetop Inn.",
+        "pl": "Widzieliśmy je na szyldzie przed Gospodą Stonetop.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds8": {
+        "en": "Oh yeah...",
+        "pl": "A tak...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds9": {
+        "en": "No, but I was basically still asleep at that point.",
+        "pl": "Nie, ale w tamtym momencie właściwie wciąż spałam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds11": {
+        "en": "What are those letters above it?",
+        "pl": "Co to za litery nad nim?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds12": {
+        "en": "Initials.\n[i]'S.S'[/i].",
+        "pl": "Inicjały.\n[i]'S.S'.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds13": {
+        "en": "Stonetop... sea... secret... stone...?",
+        "pl": "Stonetop... sztorm... sekret... skała...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds14": {
+        "en": "Selena Stonetop.",
+        "pl": "Selena Stonetop.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds15": {
+        "en": "The owner... of the painting?",
+        "pl": "Właścicielka... obrazu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds16": {
+        "en": "The painter herself.",
+        "pl": "Sama malarka.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FeliciaPainting/Section ds18": {
+        "en": "-do you remember Sally?",
+        "pl": "-pamiętasz, Sally?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE Figurehead": {
+      "Conversation/Moon CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE FilmProjector": {
+      "Conversation/Moon CLUE FilmProjector/Section ds8": {
+        "en": "[i]Close your eyes, my love, and be still. For this is the end and the beginning.[/i]",
+        "pl": "[i]Zamknij oczy, moja miłości, i znieruchom. Bo to jest koniec i początek.[/i]",
+        "speaker": "Film"
+      },
+      "Conversation/Moon CLUE FilmProjector/Section ds10": {
+        "en": "That voice...",
+        "pl": "Ten głos...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FilmProjector/Section ds11": {
+        "en": "That's the voice I heard when I was in the bilge...",
+        "pl": "To głos, który słyszałam, kiedy byłam w zęzie...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE FilmProjector/Section ds15": {
+        "en": "At least I think it is - sounds a little different without all the echo.",
+        "pl": "Przynajmniej tak mi się wydaje - brzmi trochę inaczej bez tego całego echa.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE FogBall": {
+      "Conversation/Moon CLUE FogBall/Section ds0": {
+        "en": "If I'm not mistaken, this little part at the front... is actually a [i]microphone.[/i]",
+        "pl": "Jeśli się nie mylę, ta mała część z przodu... to właściwie [i]mikrofon.[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE GlassEyeball": {
+      "Conversation/Moon CLUE GlassEyeball/Section ds9": {
+        "en": "It carries something of the [i]cadaver[/i] about it...",
+        "pl": "Ma w sobie coś ze [i]zwłok...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE GlassEyeball/Section ds10": {
+        "en": "Might be the [i]smell. Rust and stagnant seawater...[/i]",
+        "pl": "Może to ten [i]zapach. Rdza i stojąca woda morska...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE GlassEyeball/Section ds11": {
+        "en": "Perhaps it came from the ocean - have you asked Madam Tadpole about it?",
+        "pl": "Może pochodzi z oceanu - pytaliście o to Madam Tadpole?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE GlassEyeball/Section ds12": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE GoldenLocket": {
+      "Conversation/Moon CLUE GoldenLocket/Section ds10": {
+        "en": "Looks like [i]gold[/i] to me.",
+        "pl": "Dla mnie wygląda jak [i]złoto.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE GoldenLocket/Section ds11": {
+        "en": "No way. Real gold?",
+        "pl": "Nie ma mowy. Prawdziwe złoto?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE GoldenLocket/Section ds12": {
+        "en": "Why not?",
+        "pl": "A czemu nie?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE GoldenLocket/Section ds13": {
+        "en": "I thought Symmetry was supposed to be an impoverished orphan!",
+        "pl": "Myślałam, że Symmetry miała być zubożałą sierotą!",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE GoldenLocket/Section ds14": {
+        "en": "Well, it's not worth anything unless she's willing to [i]sell[/i] it.\n",
+        "pl": "Cóż, nie jest nic warte, dopóki nie zechce go [i]sprzedać.[/i]\n",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE HandheldRadio": {
+      "Conversation/Moon CLUE HandheldRadio/Section ds0": {
+        "en": "I thought the submarine didn't [h]have[/h] a radio...",
+        "pl": "Myślałam, że łódź podwodna nie [h]ma[/h] radia...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandheldRadio/Section ds6": {
+        "en": "I don't think it does.",
+        "pl": "Nie sądzę, żeby miała.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE HandheldRadio/Section ds7": {
+        "en": "This is more like a child's walkie talkie.",
+        "pl": "To bardziej wygląda na dziecięcy krótkofalówkę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE HandheldRadio/Section ds8": {
+        "en": "If it's a walkie talkie, then what happened to the other one?",
+        "pl": "Jeśli to krótkofalówka, to co się stało z tą drugą?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE HandheldRadio/Section ds9": {
+        "en": "Good question.",
+        "pl": "Dobre pytanie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandheldRadio/Section ds10": {
+        "en": "Oh yes, you're quite right. Probably has a short range, too...",
+        "pl": "O tak, macie rację. Pewnie ma też krótki zasięg...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE HandwrittenLetter": {
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds6": {
+        "en": "These [i]diagrams[/i]... they're detailing the time and place to find the Mortuga submarine.",
+        "pl": "Te [i]diagramy...[/i] szczegółowo opisują czas i miejsce, gdzie znaleźć łódź podwodną Mortuga.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds7": {
+        "en": "Of course, it would be possible just to write it out in words, but this has been done with astronomy and lunar phases...",
+        "pl": "Oczywiście, można by to po prostu opisać słowami, ale zrobiono to za pomocą astronomii i faz księżyca...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds11": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds12": {
+        "en": "[i]My[/i] guess is that it's intended to incite [i]curiosity[/i] in the recipient.",
+        "pl": "[i]Moim[/i] zdaniem ma to wzbudzić [i]ciekawość[/i] u odbiorcy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds13": {
+        "en": "It's more effective than if they'd just written [i]'come to this place at this time.'[/i]",
+        "pl": "To skuteczniejsze, niż gdyby po prostu napisali [i]'przyjdź w to miejsce o tej porze'.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds14": {
+        "en": "It feels less like a trap this way.",
+        "pl": "W ten sposób wydaje się to mniej pułapką.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HandwrittenLetter/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE HexBottle": {
+      "Conversation/Moon CLUE HexBottle/Section ds0": {
+        "en": "But the liquid is saltwater, with a mix of herbs.",
+        "pl": "Ale płyn to woda morska, z mieszanką ziół.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexBottle/Section ds6": {
+        "en": "I suppose Zephyr must have a pestle and mortar... I might ask to borrow it-",
+        "pl": "Zgaduję, że Zephyr musi mieć moździerz z tłuczkiem... może poproszę o pożyczenie-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexBottle/Section ds7": {
+        "en": "I can't speak to what that is [i]squirming[/i] around in the bottle, there-",
+        "pl": "Nie potrafię powiedzieć, co to [i]wije się[/i] w tej butelce, tam-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexBottle/Section ds9": {
+        "en": "Which herbs?",
+        "pl": "Jakie zioła?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE HexBottle/Section ds12": {
+        "en": "Valerian, skullcap and chamomile.",
+        "pl": "Kozłek lekarski, tarczyca i rumianek.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE HexoftheHelmsman": {
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds0": {
+        "en": "Pass it here, I'll show you something amusing.",
+        "pl": "Podajcie mi to, pokażę wam coś zabawnego.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds7": {
+        "en": "See this photograph on the inside cover?",
+        "pl": "Widzicie to zdjęcie na wewnętrznej okładce?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds8": {
+        "en": "It's a picture of Wirman, isn't it?",
+        "pl": "To zdjęcie Wirmana, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds9": {
+        "en": "If it is... it's a [h]very[/h] flattering one.",
+        "pl": "Jeśli tak... to jest [h]bardzo[/h] pochlebne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds10": {
+        "en": "Ha! It's not Wirman at all!",
+        "pl": "Ha! To wcale nie Wirman!",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds11": {
+        "en": "It's his rather more handsome father, Mayor Damian Dusk.",
+        "pl": "To jego znacznie przystojniejszy ojciec, burmistrz Damian Dusk.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds12": {
+        "en": "[h]Get out.[/h]\nReally?",
+        "pl": "[h]Nie ma mowy.[/h]\nNaprawdę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE HexoftheHelmsman/Section ds17": {
+        "en": "No word of a lie!",
+        "pl": "Ani słowa kłamstwa!",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE IllusionistPoster": {
+      "Conversation/Moon CLUE IllusionistPoster/Section ds0": {
+        "en": "Mariana - you visited Silkwirm before, didn't you?",
+        "pl": "Mariano - byłaś już wcześniej w Silkwirm, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE IllusionistPoster/Section ds6": {
+        "en": "Was Sym's magic show in the theatre back then?",
+        "pl": "Czy pokaz magiczny Sym był wtedy w teatrze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE IllusionistPoster/Section ds8": {
+        "en": "No... when I passed through, the theatre wasn't showing [i]anything.[/i]",
+        "pl": "Nie... kiedy tamtędy przejeżdżałam, teatr nie wystawiał [i]niczego.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE IllusionistPoster/Section ds9": {
+        "en": "So - that must've been after Sym left... but before the Theatre had booked a new act.",
+        "pl": "Więc - to musiało być po tym, jak Sym odeszła... ale zanim teatr zarezerwował nowy występ.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE IllusionistPoster/Section ds10": {
+        "en": "This very poster was up on the walls, but they'd covered it with a banner that said [i]'Cancelled'[/i]",
+        "pl": "Właśnie ten plakat wisiał na ścianach, ale przykryli go banerem z napisem [i]'Odwołane'[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE InnDeeds": {
+      "Conversation/Moon CLUE InnDeeds/Section ds6": {
+        "en": "Where on Earth did you find [i]this??[/i]",
+        "pl": "Gdzie u licha znaleźliście [i]to??[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds7": {
+        "en": "Sinthia had it.",
+        "pl": "Sinthia to miała.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds8": {
+        "en": "I don't know, you two have all the luck...",
+        "pl": "Nie wiem, wam dwojgu wszystko się udaje...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds9": {
+        "en": "I spent a [i]year[/i] researching Silkwirm and never found anything this good.",
+        "pl": "Spędziłam [i]rok[/i] na badaniu Silkwirm i nigdy nie znalazłam czegoś tak dobrego.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds10": {
+        "en": "What's so good about it?",
+        "pl": "Co w tym takiego dobrego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds11": {
+        "en": "It's penned by Solomon Stonetop himself.",
+        "pl": "Napisany ręką samego Solomona Stonetopa.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE InnDeeds/Section ds12": {
+        "en": "They say he built the Stonetop Inn with his own hands - and in doing so, he founded the town of Silkwirm-on-sea.",
+        "pl": "Mówią, że zbudował Gospodę Stonetop własnymi rękami - i tym samym założył miasteczko Silkwirm nad Morzem.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE IronBell": {
+      "Conversation/Moon CLUE IronBell/Section ds8": {
+        "en": "It has the smell and feel of something that's been in the ocean for quite some [i]time...[/i]",
+        "pl": "Ma zapach i wygląd czegoś, co przebywało w oceanie przez dłuższy [i]czas...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds9": {
+        "en": "Only there's no evidence of it on the surface - no barnacles, no algae...",
+        "pl": "Tylko że nie ma na to dowodów na powierzchni - żadnych pąkli, żadnych alg...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds10": {
+        "en": "Or - maybe someone just cleaned it.",
+        "pl": "Albo - może ktoś to po prostu wyczyścił.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds11": {
+        "en": "Maybe it's a type of metal that resists that kind of stuff.",
+        "pl": "Może to rodzaj metalu odpornego na takie rzeczy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds12": {
+        "en": "You know, if and when I make a mysterious observation-",
+        "pl": "Wiecie, jeśli i kiedy dokonuję tajemniczej obserwacji-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds13": {
+        "en": "Sorry.",
+        "pl": "Przepraszam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds14": {
+        "en": "Sorry.",
+        "pl": "Przepraszam.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE IronBell/Section ds15": {
+        "en": "-I'm not necessarily looking for [i]immediate logical explanations.[/i]",
+        "pl": "-niekoniecznie szukam [i]natychmiastowych, logicznych wyjaśnień.[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE LifesizeDoll": {
+      "Conversation/Moon CLUE LifesizeDoll/Section ds9": {
+        "en": "So, does [h]everyone[/h] on this submarine keep a lifesize doll of themselves, or...?",
+        "pl": "Więc, czy [h]wszyscy[/h] na tej łodzi podwodnej trzymają lalkę naturalnej wielkości swojej podobizny, czy...?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE LifesizeDoll/Section ds10": {
+        "en": "I'm pretty sure it's just Sym.",
+        "pl": "Jestem całkiem pewien, że to tylko Sym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE LifesizeDoll/Section ds11": {
+        "en": "I swear, if we find a room somewhere with dolls of everyone else, I am going to [h]freak out.[/h]",
+        "pl": "Przysięgam, jeśli znajdziemy gdzieś pokój z lalkami wszystkich pozostałych, [h]oszaleję.[/h]",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE MermaidPainting": {
+      "Conversation/Moon CLUE MermaidPainting/Section ds0": {
+        "en": "How so?",
+        "pl": "Jak to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds20": {
+        "en": "Ah... [i]now[/i] we're getting to it. The reason all of us are here, really.",
+        "pl": "Ach... [i]teraz[/i] dochodzimy do sedna. Prawdziwego powodu, dla którego my wszyscy tu jesteśmy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds22": {
+        "en": "The Silversnake... the Mortuga Submarine...\n",
+        "pl": "Srebrny Wąż... Łódź Podwodna Mortuga...\n",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds23": {
+        "en": "Did you ever stop and wonder - why here? Why this particular part of the coast?",
+        "pl": "Zastanawialiście się kiedyś - dlaczego tutaj? Dlaczego akurat ta część wybrzeża?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds24": {
+        "en": "It all stems from a single truth;",
+        "pl": "Wszystko wywodzi się z jednej prawdy;",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds25": {
+        "en": "There's something hiding in the water. Something big.\n",
+        "pl": "Coś ukrywa się w wodzie. Coś wielkiego.\n",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds37": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds42": {
+        "en": "Ah - now - it wasn't my intent to cause you any lasting unease...",
+        "pl": "Ach - no cóż - nie było moim zamiarem wywołać u was trwały niepokój...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds43": {
+        "en": "Look - we three, we're merely [i]tourists[/i] here - [i]passers by.[/i]",
+        "pl": "Słuchajcie - my troje, jesteśmy tu jedynie [i]turystami[/i] - [i]przechodniami.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds44": {
+        "en": "Take my advice; keep your [i]distance[/i] from all this - so you can still walk away at the end.",
+        "pl": "Posłuchajcie mojej rady; trzymajcie [i]dystans[/i] od tego wszystkiego - żebyście na koniec wciąż mogli po prostu odejść.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds46": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE MermaidPainting/Section ds47": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE MessageinaBottle": {
+      "Conversation/Moon CLUE MessageinaBottle/Section ds6": {
+        "en": "Hm. That algae is still young...",
+        "pl": "Hm. Te algi są jeszcze młode...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MessageinaBottle/Section ds7": {
+        "en": "Meaning?",
+        "pl": "Czyli?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MessageinaBottle/Section ds8": {
+        "en": "Meaning - the bottle's been in the [i]ocean...[/i] but not for all that long.",
+        "pl": "Czyli - butelka była w [i]oceanie...[/i] ale nie aż tak długo.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE ModelTown": {
+      "Conversation/Moon CLUE ModelTown/Section ds10": {
+        "en": "Do you recognise any of the little wooden people?",
+        "pl": "Rozpoznajesz kogoś z tych małych drewnianych ludzików?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds13": {
+        "en": "I believe [i]this[/i] is supposed to be Silkwirm's Governor - a man named Faustus Fellow.",
+        "pl": "Wierzę, że [i]to[/i] ma przedstawiać Gubernatora Silkwirm - człowieka imieniem Faustus Fellow.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds14": {
+        "en": "He was a wealthy landowner who bought the town in order to bring it under his control.",
+        "pl": "Był bogatym posiadaczem ziemskim, który kupił miasteczko, żeby wziąć je pod swoją kontrolę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds15": {
+        "en": "He bought the whole town?",
+        "pl": "Kupił całe miasteczko?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds16": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds17": {
+        "en": "I couldn't say.",
+        "pl": "Nie potrafię powiedzieć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ModelTown/Section ds19": {
+        "en": "Interesting...",
+        "pl": "Interesujące...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE MoonVial": {
+      "Conversation/Moon CLUE MoonVial/Section ds6": {
+        "en": "Do you recognise this, Mariana?",
+        "pl": "Rozpoznajesz to, Mariano?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds7": {
+        "en": "Should I...?",
+        "pl": "Powinnam...?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds8": {
+        "en": "Well, we just figured - since there's a moon drawn on the label...",
+        "pl": "Cóż, po prostu pomyśleliśmy - skoro na etykiecie jest narysowany księżyc...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds9": {
+        "en": "So because my name is [i]Moon[/i], all moon-related things must belong to me? Hm?",
+        "pl": "Więc skoro nazywam się [i]Moon,[/i] wszystkie rzeczy związane z księżycem muszą należeć do mnie? Hm?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds17": {
+        "en": "Even if it's not yours, do you have any idea what it is?",
+        "pl": "Nawet jeśli to nie twoje, masz pojęcie, co to jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds19": {
+        "en": "It's a... herbal [i]compound[/i] of some kind. Valerian, skullcap, chamomile... and seawater.",
+        "pl": "To... jakiś ziołowy [i]związek.[/i] Kozłek lekarski, tarczyca, rumianek... i woda morska.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds21": {
+        "en": "Maybe it's medicine. Would those herbs do anything in particular?",
+        "pl": "Może to lekarstwo. Czy te zioła robiłyby coś konkretnego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds22": {
+        "en": "Hm - I suppose it could be a [i]sleep aid[/i]. Like a mild sedative?\n",
+        "pl": "Hm - przypuszczam, że to może być [i]środek nasenny.[/i] Coś jak łagodny lek uspokajający?\n",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds23": {
+        "en": "So... not poison?",
+        "pl": "Więc... nie trucizna?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE MoonVial/Section ds24": {
+        "en": "[i]Interesting.[/i]",
+        "pl": "[i]Interesujące.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE MourningEnvelope": {
+      "Conversation/Moon CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE MovieMagazine": {
+      "Conversation/Moon CLUE MovieMagazine/Section ds0": {
+        "en": "Where'd you get that? A dentist's waiting room?\n",
+        "pl": "Skąd to masz? Z poczekalni u dentysty?\n",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds7": {
+        "en": "There's a poster on the back cover - it's for Dirk's movie.",
+        "pl": "Na tylnej okładce jest plakat - to reklama filmu Dirka.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds8": {
+        "en": "Oh yes, look at that...",
+        "pl": "O tak, spójrzcie na to...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds9": {
+        "en": "Huh. They've given her the wrong type of necklace...",
+        "pl": "Huh. Dali jej niewłaściwy rodzaj naszyjnika...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds10": {
+        "en": "The sword looks about right, though...",
+        "pl": "Miecz wygląda za to całkiem nieźle...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds11": {
+        "en": "What's that?",
+        "pl": "Co takiego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE MovieMagazine/Section ds12": {
+        "en": "Just thinking out loud.",
+        "pl": "Po prostu myślę na głos.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE NewspaperPage": {
+      "Conversation/Moon CLUE NewspaperPage/Section ds6": {
+        "en": "This marks a pivotal moment in Silkwirm's history - the day the [i]Silversnake[/i] was discovered.",
+        "pl": "To oznacza przełomowy moment w historii Silkwirm - dzień, w którym odkryto [i]Srebrnego Węża.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE NewspaperPage/Section ds7": {
+        "en": "It also shows the two women who found it - [i]Felicia Stonetop[/i], that's her on the left, and [i]Sylvia Seafoam[/i] on the right.",
+        "pl": "Pokazuje też dwie kobiety, które go znalazły - [i]Felicię Stonetop,[/i] to ona po lewej, i [i]Sylvię Seafoam[/i] po prawej.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE NewspaperPage/Section ds9": {
+        "en": "Ha. Yes, well... that's [i]history[/i] for you.",
+        "pl": "Ha. Tak, cóż... taka jest [i]historia.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE NewspaperPage/Section ds20": {
+        "en": "But - on the statue, the serpent was shown being wrestled by a male fisherman...",
+        "pl": "Ale - na posągu wąż był pokazany, jak zmaga się z nim rybak mężczyzna...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE NewspaperPage/Section ds21": {
+        "en": "Hang on - we saw a statue about this in the town square...",
+        "pl": "Czekajcie - widzieliśmy posąg o tym na rynku...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE OceanTreasure": {
+      "Conversation/Moon CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE Pocketbook": {
+      "Conversation/Moon CLUE Pocketbook/Section ds0": {
+        "en": "That's quite some book... did you take it from a [i]werewolf[/i], perhaps?",
+        "pl": "To całkiem spora książka... zabraliście ją może [i]wilkołakowi?[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE Pocketbook/Section ds6": {
+        "en": "[Sniff]",
+        "pl": "[Wąchanie]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE Pocketbook/Section ds7": {
+        "en": "Ah. That explains it.",
+        "pl": "Ach. To wszystko wyjaśnia.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE Pocketbook/Section ds8": {
+        "en": "No - it doesn't.",
+        "pl": "Nie - wcale nie wyjaśnia.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE Pocketbook/Section ds9": {
+        "en": "Sniffing it and saying [i]'that explains it'[/i], does not, in fact, explain it!",
+        "pl": "Wąchanie tego i mówienie [i]'to wszystko wyjaśnia'[/i] wcale, tak naprawdę, niczego nie wyjaśnia!",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE RaggedCloth": {
+      "Conversation/Moon CLUE RaggedCloth/Section ds0": {
+        "en": "It's a piece of an old sail... roughly cut into a square.",
+        "pl": "To kawałek starego żagla... z grubsza wycięty w kwadrat.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE RippedScroll": {
+      "Conversation/Moon CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE SeaChart": {
+      "Conversation/Moon CLUE SeaChart/Section ds0": {
+        "en": "As much as I [i]love[/i] an old map, I wouldn't know where to [i]start[/i] with this...",
+        "pl": "Choć [i]uwielbiam[/i] stare mapy, nie wiedziałabym, od czego [i]zacząć[/i] z tą...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SeaChart/Section ds6": {
+        "en": "I prefer maps that show some sort of land.",
+        "pl": "Wolę mapy, które pokazują jakiś rodzaj lądu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SeaChart/Section ds7": {
+        "en": "Or, you know - some sort of [h]anything.[/h]",
+        "pl": "Albo, no wiecie - jakiegokolwiek [h]czegokolwiek.[/h]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE ShipinaBottle": {
+      "Conversation/Moon CLUE ShipinaBottle/Section ds0": {
+        "en": "It's evident by the selection of little wooden people on board...",
+        "pl": "Widać to po doborze małych drewnianych ludzików na pokładzie...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds6": {
+        "en": "What did they use it for?",
+        "pl": "Do czego jej używali?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds9": {
+        "en": "Now, I'd have to assume this is the [i]Stonetop family[/i] ship - the [i]'Dearest Selena'.[/i]",
+        "pl": "No, musiałabym założyć, że to statek [i]rodziny Stonetop[/i] - [i]'Dearest Selena'.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds10": {
+        "en": "How d'you know it's that ship? Is there a photo of it?",
+        "pl": "Skąd wiesz, że to ten statek? Jest jakieś jego zdjęcie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds11": {
+        "en": "The Dearest Selena was captained by [i]Felicia Stonetop[/i] - that's her there.",
+        "pl": "Dearest Seleną dowodziła [i]Felicia Stonetop[/i] - to ona tam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds12": {
+        "en": "What about the woman tied to the front?",
+        "pl": "A co z kobietą przywiązaną z przodu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds13": {
+        "en": "That's a representation of the ship's [i]figurehead.[/i]",
+        "pl": "To przedstawienie [i]galionu[/i] statku.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds14": {
+        "en": "Oh, I don't know, fishing? Tourism? General gallivanter?",
+        "pl": "Och, nie wiem, rybołówstwo? Turystyka? Ogólne włóczęgostwo?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipinaBottle/Section ds17": {
+        "en": "And one [i]Magnus Mortuga[/i] was her helmsman.",
+        "pl": "A pewien [i]Magnus Mortuga[/i] był jej sternikiem.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE ShipsWheel": {
+      "Conversation/Moon CLUE ShipsWheel/Section ds6": {
+        "en": "The thicker wood is mahogany - very [h]old[/h] mahogany.",
+        "pl": "Grubsze drewno to mahoń - bardzo [h]stary[/h] mahoń.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipsWheel/Section ds7": {
+        "en": "The thinner wood... oh I don't know, some kind of cheap timber, perhaps?",
+        "pl": "Cieńsze drewno... och, nie wiem, może jakiś tani budulec?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE ShipsWheel/Section ds8": {
+        "en": "Somebody skimped on the repairs, huh?",
+        "pl": "Ktoś oszczędzał na naprawach, co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE ShipsWheel/Section ds10": {
+        "en": "Let's see...",
+        "pl": "Zobaczmy...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE SilkwirmMap": {
+      "Conversation/Moon CLUE SilkwirmMap/Section ds0": {
+        "en": "I see you've been enjoying my map.",
+        "pl": "Widzę, że cieszyliście się moją mapą.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds6": {
+        "en": "It's - barely a map, it's closer to a [h]list.[/h]",
+        "pl": "To - ledwie mapa, bliżej jej do [h]listy.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds8": {
+        "en": "What about the family tree on the back?",
+        "pl": "A co z drzewem genealogicznym z tyłu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds9": {
+        "en": "Most of my research into Silkwirm has been focused on these two family lines - the [i]Fellows[/i] and the [i]Stonetops.[/i]",
+        "pl": "Większość moich badań nad Silkwirm skupiała się na tych dwóch liniach rodzinnych - [i]Fellowach[/i] i [i]Stonetopach.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds10": {
+        "en": "Seems like you haven't worked out how Mortuga fits into it...",
+        "pl": "Wygląda na to, że nie ustaliłaś, jak pasuje do tego Mortuga...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds11": {
+        "en": "Hm... I'm not sure if he [h]does[/h] fit into it, to be honest.",
+        "pl": "Hm... szczerze mówiąc, nie jestem pewna, czy [h]w ogóle[/h] pasuje.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds12": {
+        "en": "His name is just - floating out there by itself.",
+        "pl": "Jego imię po prostu - unosi się tam samotnie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds14": {
+        "en": "Mariana, you've got a question mark there. Someone you don't know the name of.",
+        "pl": "Mariano, masz tam znak zapytania. Ktoś, czyjego imienia nie znasz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds15": {
+        "en": "Ah, yes... [i]quite the mystery[/i], you see, I'd heard about-",
+        "pl": "Ach, tak... [i]spora zagadka,[/i] rozumiecie, słyszałam o-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds16": {
+        "en": "We know her name.\nIt's Freya.",
+        "pl": "Znamy jej imię.\nFreya.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SilkwirmMap/Section ds18": {
+        "en": "You're welcome.",
+        "pl": "Nie ma za co.",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE StrangeDevice": {
+      "Conversation/Moon CLUE StrangeDevice/Section ds0": {
+        "en": "I... don't know what that is.",
+        "pl": "Ja... nie wiem, co to jest.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE StrangeDevice/Section ds13": {
+        "en": "Me neither.",
+        "pl": "Ja też nie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon CLUE SubmarineBlueprint": {
+      "Conversation/Moon CLUE SubmarineBlueprint/Section ds0": {
+        "en": "I'd love to know where Sinthia got the diagram of the wooden ship...",
+        "pl": "Chciałabym wiedzieć, skąd Sinthia ma diagram drewnianego statku...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SubmarineBlueprint/Section ds6": {
+        "en": "I thought it was supposed to be a submarine.",
+        "pl": "Myślałam, że to miała być łódź podwodna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE SubmarineBlueprint/Section ds7": {
+        "en": "No no - the yellowish parts - they're from an old drawing of a sailing ship?",
+        "pl": "Nie, nie - żółtawe fragmenty - pochodzą ze starego rysunku żaglowca?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SubmarineBlueprint/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE SubmarineBlueprint/Section ds10": {
+        "en": "Looks like it might be from the original, too. I just wonder where she got it.",
+        "pl": "Wygląda na to, że mogą być z oryginału. Zastanawiam się tylko, skąd je ma.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE SunTablets": {
+      "Conversation/Moon CLUE SunTablets/Section ds0": {
+        "en": "Mariana - can you tell us what these tablets are?",
+        "pl": "Mariano - możesz nam powiedzieć, czym są te tabletki?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE SunTablets/Section ds6": {
+        "en": "Hm... it's rather more difficult when it's something synthetic like this.",
+        "pl": "Hm... to trochę trudniejsze, kiedy to coś syntetycznego jak to.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SunTablets/Section ds7": {
+        "en": "[Sniff]",
+        "pl": "[Wąchanie]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SunTablets/Section ds8": {
+        "en": "Some kind of vitamin supplement, I believe?",
+        "pl": "Jakiś rodzaj suplementu witaminowego, jak sądzę?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE SunTablets/Section ds9": {
+        "en": "All three of them?",
+        "pl": "Wszystkie trzy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE SunTablets/Section ds11": {
+        "en": "Yes... the three tablets seem, largely, to be the same thing.",
+        "pl": "Tak... te trzy tabletki wydają się, w dużej mierze, tym samym.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE TheMermaidsTongue": {
+      "Conversation/Moon CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE Typewriter": {
+      "Conversation/Moon CLUE Typewriter/Section ds0": {
+        "en": "Mr Wirman's typewriter...",
+        "pl": "Maszyna do pisania pana Wirmana...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE Typewriter/Section ds6": {
+        "en": "It's got a good example of the [i]Fellow emblem[/i], there on the back - see?",
+        "pl": "Ma na sobie dobry przykład [i]godła Fellowów,[/i] tam z tyłu - widzicie?",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE UnderwaterPhoto": {
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds9": {
+        "en": "That [h]has[/h] to be a face... but it's not... it doesn't look like - like anyone...",
+        "pl": "To [h]musi[/h] być twarz... ale nie jest... nie wygląda jak - jak ktokolwiek...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds10": {
+        "en": "When was this taken?",
+        "pl": "Kiedy to zrobiono?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds12": {
+        "en": "So she's probably still out there...",
+        "pl": "Więc prawdopodobnie wciąż tam jest...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds14": {
+        "en": "Pretty recently, I think.",
+        "pl": "Całkiem niedawno, jak sądzę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds15": {
+        "en": "I see.",
+        "pl": "Rozumiem.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE UnderwaterPhoto/Section ds18": {
+        "en": "Listen, don't worry about it. Seriously.",
+        "pl": "Słuchajcie, nie martwcie się tym. Poważnie.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon CLUE WoodenBuoy": {
+      "Conversation/Moon CLUE WoodenBuoy/Section ds0": {
+        "en": "I believe Mortuga used its light to alert others to the location of the submarine...",
+        "pl": "Wierzę, że Mortuga używał jej światła, żeby powiadamiać innych o lokalizacji łodzi podwodnej...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds6": {
+        "en": "That's how it happened with us. Although, I guess it was Sinthia, not Mortuga.",
+        "pl": "Tak właśnie stało się z nami. Chociaż, zgaduję, że to była Sinthia, nie Mortuga.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds8": {
+        "en": "-on the rare occasions when he wished to [i]do[/i] such a thing, of course.",
+        "pl": "-w rzadkich przypadkach, kiedy chciał [i]zrobić[/i] coś takiego, rzecz jasna.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds9": {
+        "en": "You know, for some [i]time[/i] now I've heard stories of sailors seeing a green light in the ocean at night...",
+        "pl": "Wiecie, od jakiegoś [i]czasu[/i] słyszę historie żeglarzy widzących zielone światło w oceanie nocą...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds11": {
+        "en": "The problem is, several of the stories [i]predate[/i] the Mortuga Submarine...",
+        "pl": "Problem w tym, że kilka z tych historii [i]poprzedza[/i] Łódź Podwodną Mortuga...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds12": {
+        "en": "Well, I guess you have your explanation.",
+        "pl": "Cóż, zgaduję, że macie już swoje wyjaśnienie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE WoodenBuoy/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon CLUE WoodenPipe": {
+      "Conversation/Moon CLUE WoodenPipe/Section ds0": {
+        "en": "What do you think of the pipe? Fine craftsmanship, wouldn't you say?",
+        "pl": "Co sądzicie o rurze? Świetne rzemiosło, nie powiedzielibyście?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds6": {
+        "en": "It's not a pipe at all!\nIt's a [i]secret dictaphone![/i]",
+        "pl": "To wcale nie rura!\nTo [i]tajny dyktafon![/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds12": {
+        "en": "Ahh, no, hang on, it might be useful.",
+        "pl": "Ach, nie, czekajcie, może się przydać.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds14": {
+        "en": "Aha. I knew it.",
+        "pl": "Aha. Wiedziałam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds15": {
+        "en": "You're clearly recording people without their permission.",
+        "pl": "Wyraźnie nagrywasz ludzi bez ich zgody.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds16": {
+        "en": "It's not a secret.",
+        "pl": "To nie tajemnica.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds18": {
+        "en": "Well - if you're going to kick up a fuss, I'll just take it back, shall I-",
+        "pl": "Cóż - jeśli macie zamiar robić z tego aferę, to po prostu to zabiorę z powrotem, dobrze-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds20": {
+        "en": "Tut at me all you like, but you can't deny the value of hard evidence.",
+        "pl": "Cmokajcie na mnie, ile chcecie, ale nie możecie zaprzeczyć wartości twardych dowodów.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds23": {
+        "en": "So?",
+        "pl": "No i?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds24": {
+        "en": "So it's immoral!",
+        "pl": "No i to niemoralne!",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon CLUE WoodenPipe/Section ds25": {
+        "en": "[Tut]",
+        "pl": "[Cmoknięcie]",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Moon CLUE FeliciaPainting/ds13 gra slow S.S.",
+      "problem": "Oryginalna gra slow (Stonetop/sea/secret/stone, wszystkie na 'S') zaadaptowana na polskie odpowiedniki zaczynajace sie na 'S' (Stonetop/sztorm/sekret/skala) zamiast doslownego tlumaczenia - 'sea' stalo sie 'sztorm' zamiast 'morze' zeby zachowac litere S. Do sprawdzenia czy brzmi naturalnie w pelnym kontekscie dialogu."
+    },
+    {
+      "term": "Moon CLUE HexoftheHelmsman/ds11 'Mayor Damian Dusk'",
+      "problem": "KLUCZOWE odkrycie - ojciec Wirmana to burmistrz Damian Dusk. To bardzo prawdopodobnie rozwiazuje watek 'Wirman zmienil imie' z Moon SUS Wirman (batch_57) - rodowe nazwisko Wirmana to zapewne 'Dusk', a 'Wirman' to pseudonim literacki. Nie dopisano jeszcze formalnie do GLOSSARY jako potwierdzone - do zrobienia po ewentualnym potwierdzeniu w kolejnych partiach (np. Wirman CLUE HexoftheHelmsman)."
+    }
+  ]
+}

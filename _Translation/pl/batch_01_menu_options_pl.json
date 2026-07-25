@@ -1,0 +1,326 @@
+{
+  "_meta": {
+    "batch": "Pierwszy batch - menu glowne (Title) + opcje (Options) + sterowanie (Controls) + czasowniki akcji (Verbs). Cel: uruchomic widoczna czesc gry po polsku jak najszybciej + zaimplementowac polskie znaki w fontach uzywanych na tym ekranie.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "target_language_slot": "Russian (index 7 w mLanguages) - gra NIE ma pustego slotu 'DevTest' jak Tangle Tower (12 jezykow, wszystkie realnie uzywane), user zdecydowal podmienic Russian",
+    "format_note": "Ten projekt (w odroznieniu od Tangle Tower) trzyma EN obok PL w kazdym wpisie dla szybkiej weryfikacji/porownania.",
+    "scenes_confirmed": "level1 (620 komponentow TMP) - potwierdzone skanem jako ekran startowy/opcji. Fonty uzywane tam: CANDELABOLD SDF (240), OldNewspaperTypes SDF (229), Roboto-Regular SDF (97), Roboto-Black SDF (44) = 98.4% komponentow - wszystkie 4 juz spatchowane o polskie znaki w _App/src/build_polish_glyphs.py."
+  },
+  "categories": {
+    "Title": {
+      "Title/Art Gallery": {
+        "en": "Art",
+        "pl": "Grafiki"
+      },
+      "Title/Art Gallery 2": {
+        "en": "Gallery",
+        "pl": "Galeria"
+      },
+      "Title/BACK TO TITLE": {
+        "en": "Back To Title",
+        "pl": "Powrót do menu"
+      },
+      "Title/CREDITS": {
+        "en": "Credits",
+        "pl": "Twórcy"
+      },
+      "Title/Credits/GAME DEVELOPMENT": {
+        "en": "GAME DEVELOPMENT",
+        "pl": "PRODUKCJA GRY"
+      },
+      "Title/Credits/SFB Author": {
+        "en": "SFB Games is the author of this software.\n2026 SFB Games Limited",
+        "pl": "SFB Games jest autorem tego oprogramowania.\n2026 SFB Games Limited"
+      },
+      "Title/Demo": {
+        "en": "Demo",
+        "pl": "Demo"
+      },
+      "Title/Intro/Set 1 Line 1": {
+        "en": "Eavesdrop what the stars are saying",
+        "pl": "Podsłuchaj, co szepczą gwiazdy"
+      },
+      "Title/Intro/Set 1 Line 2": {
+        "en": "Earthly tether, slowly fraying",
+        "pl": "Ziemska więź powoli słabnie"
+      },
+      "Title/Intro/Set 2 Line 1": {
+        "en": "Floating, helpless from the worst",
+        "pl": "Unosisz się, bezbronna wobec zła"
+      },
+      "Title/Intro/Set 2 Line 2": {
+        "en": "Of jealous hunger, selfish thirst",
+        "pl": "Zazdrosnego głodu, samolubnego pragnienia"
+      },
+      "Title/Intro/Set 3 Line 1": {
+        "en": "Take a moment, kneel and meet",
+        "pl": "Zatrzymaj się, uklęknij i spójrz"
+      },
+      "Title/Intro/Set 3 Line 2": {
+        "en": "The flowers growing at your feet",
+        "pl": "Na kwiaty rosnące u twych stóp"
+      },
+      "Title/MUSIC PLAYER": {
+        "en": "Music\nPlayer",
+        "pl": "Odtwarzacz\nMuzyki"
+      },
+      "Title/SETTINGS": {
+        "en": "Settings",
+        "pl": "Ustawienia"
+      },
+      "Title/START GAME": {
+        "en": "Start Game",
+        "pl": "Rozpocznij grę"
+      },
+      "Title/Saves/CREATE NEW FILE": {
+        "en": "CREATE NEW FILE",
+        "pl": "UTWÓRZ NOWY ZAPIS"
+      },
+      "Title/Saves/Delete": {
+        "en": "Delete",
+        "pl": "Usuń"
+      }
+    },
+    "Options": {
+      "Options/AUTOSAVE ON": {
+        "en": "AUTOSAVE ON",
+        "pl": "AUTOZAPIS WŁĄCZONY"
+      },
+      "Options/Achievements": {
+        "en": "Achievements",
+        "pl": "Osiągnięcia"
+      },
+      "Options/Ambience": {
+        "en": "Ambience",
+        "pl": "Otoczenie"
+      },
+      "Options/Audio": {
+        "en": "Audio",
+        "pl": "Dźwięk"
+      },
+      "Options/Clue Suggestions": {
+        "en": "Clue Suggestions",
+        "pl": "Podpowiedzi tropów"
+      },
+      "Options/Controls": {
+        "en": "Controls",
+        "pl": "Sterowanie"
+      },
+      "Options/CurrentLanguage": {
+        "en": "English",
+        "pl": "Polski"
+      },
+      "Options/Cursor": {
+        "en": "Cursor",
+        "pl": "Kursor"
+      },
+      "Options/Display": {
+        "en": "Display",
+        "pl": "Ekran"
+      },
+      "Options/Full Screen": {
+        "en": "Full Screen",
+        "pl": "Pełny ekran"
+      },
+      "Options/Map Suggestions": {
+        "en": "Map Suggestions",
+        "pl": "Podpowiedzi mapy"
+      },
+      "Options/Music": {
+        "en": "Music",
+        "pl": "Muzyka"
+      },
+      "Options/Quit to Title Screen": {
+        "en": "Quit to Title Screen",
+        "pl": "Wyjdź do ekranu tytułowego"
+      },
+      "Options/Resolution": {
+        "en": "Resolution",
+        "pl": "Rozdzielczość"
+      },
+      "Options/SFX": {
+        "en": "SFX",
+        "pl": "Efekty dźwiękowe"
+      },
+      "Options/Setting Off": {
+        "en": "OFF",
+        "pl": "WYŁ."
+      },
+      "Options/Setting On": {
+        "en": "ON",
+        "pl": "WŁ."
+      },
+      "Options/Suspicion Suggestions": {
+        "en": "Suspicion Suggestions",
+        "pl": "Podpowiedzi podejrzeń"
+      },
+      "Options/Text Language": {
+        "en": "Text Language",
+        "pl": "Język tekstu"
+      },
+      "Options/Voice": {
+        "en": "Voice",
+        "pl": "Głos"
+      },
+      "Options/Vsync": {
+        "en": "Vsync",
+        "pl": "Vsync"
+      },
+      "Options/Windowed": {
+        "en": "Windowed",
+        "pl": "Tryb okienkowy"
+      }
+    },
+    "Controls": {
+      "Controls/Activate Re-centre cursor": {
+        "en": "Activate / Re-centre cursor",
+        "pl": "Aktywuj / Wyśrodkuj kursor"
+      },
+      "Controls/Continue": {
+        "en": "Continue",
+        "pl": "Kontynuuj"
+      },
+      "Controls/Control types": {
+        "en": "Control types",
+        "pl": "Rodzaje sterowania"
+      },
+      "Controls/Controller": {
+        "en": "Controller",
+        "pl": "Kontroler"
+      },
+      "Controls/Controllers": {
+        "en": "Controllers",
+        "pl": "Kontrolery"
+      },
+      "Controls/Interact": {
+        "en": "Interact",
+        "pl": "Interakcja"
+      },
+      "Controls/Motion": {
+        "en": "Motion",
+        "pl": "Ruch"
+      },
+      "Controls/Move cursor": {
+        "en": "Move cursor",
+        "pl": "Przesuń kursor"
+      },
+      "Controls/SonyController": {
+        "en": "Controller",
+        "pl": "Kontroler"
+      },
+      "Controls/SonyMotion": {
+        "en": "Motion sensor function",
+        "pl": "Funkcja czujnika ruchu"
+      },
+      "Controls/Touch": {
+        "en": "Touch",
+        "pl": "Dotyk"
+      },
+      "Controls/Touch screen to interact": {
+        "en": "Touch screen to interact",
+        "pl": "Dotknij ekranu, żeby wejść w interakcję"
+      },
+      "Controls/Touchpad": {
+        "en": "Touch pad",
+        "pl": "Panel dotykowy"
+      }
+    },
+    "Verbs": {
+      "Verbs/Cancel": {
+        "en": "Cancel",
+        "pl": "Anuluj"
+      },
+      "Verbs/Close": {
+        "en": "CLOSE",
+        "pl": "ZAMKNIJ"
+      },
+      "Verbs/End": {
+        "en": "END",
+        "pl": "KONIEC"
+      },
+      "Verbs/Look": {
+        "en": "LOOK",
+        "pl": "PATRZ"
+      },
+      "Verbs/Move": {
+        "en": "Move",
+        "pl": "Przesuń"
+      },
+      "Verbs/Next": {
+        "en": "NEXT",
+        "pl": "DALEJ"
+      },
+      "Verbs/Open": {
+        "en": "OPEN",
+        "pl": "OTWÓRZ"
+      },
+      "Verbs/OpenAlt": {
+        "en": "OPEN",
+        "pl": "OTWÓRZ"
+      },
+      "Verbs/Prev": {
+        "en": "PREV",
+        "pl": "WSTECZ"
+      },
+      "Verbs/Pull": {
+        "en": "Pull",
+        "pl": "Pociągnij"
+      },
+      "Verbs/PullAlt": {
+        "en": "Pull",
+        "pl": "Pociągnij"
+      },
+      "Verbs/Push": {
+        "en": "Push",
+        "pl": "Popchnij"
+      },
+      "Verbs/Read": {
+        "en": "READ",
+        "pl": "CZYTAJ"
+      },
+      "Verbs/Shake": {
+        "en": "SHAKE",
+        "pl": "POTRZĄŚNIJ"
+      },
+      "Verbs/Shut": {
+        "en": "SHUT",
+        "pl": "ZAMKNIJ"
+      },
+      "Verbs/ShutAlt": {
+        "en": "SHUT",
+        "pl": "ZAMKNIJ"
+      },
+      "Verbs/ShutAlt2": {
+        "en": "SHUT",
+        "pl": "ZAMKNIJ"
+      },
+      "Verbs/Start": {
+        "en": "Start",
+        "pl": "Start"
+      },
+      "Verbs/Unlock": {
+        "en": "Unlock",
+        "pl": "Odblokuj"
+      },
+      "Verbs/Use": {
+        "en": "USE",
+        "pl": "UŻYJ"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Title/Art Gallery + Title/Art Gallery 2",
+      "problem": "Dwa osobne klucze I2Loc dla jednego dwuwyrazowego przycisku (EN: 'Art' / 'Gallery' jako dwie oddzielne linie). Zamienilem kolejnosc tresci (PL: 'Galeria' / 'Sztuki'), zeby caloscowo czytac sie jako 'Galeria Sztuki' zamiast dosłownego 'Sztuka Galeria' - trzeba sprawdzic w grze czy te dwa pola faktycznie sa dwiema liniami jednego napisu (a nie np. dwoma osobnymi, niezaleznymi etykietami w roznych miejscach UI), inaczej podzial tresci nie ma sensu."
+    },
+    {
+      "term": "Title/Intro/Set 1-3, Line 1-2",
+      "problem": "Poetycki tekst intro (prawdopodobnie synchronizowany z muzyka/cinematica). Oryginal ma rymy (saying/fraying, worst/thirst, meet/feet) - polskie tlumaczenie zachowuje sens i nastroj, ale NIE rymuje sie (wymuszanie rymu psulo naturalnosc). Do sprawdzenia w grze: czy tekst ma jakiekolwiek ograniczenie czasowe/synchronizacje z audio, ktore polska wersja (inna dlugosc zdan) moze rozjechac."
+    },
+    {
+      "term": "Options/Windowed, Options/Display",
+      "problem": "'Ekran' dla Display i 'Tryb okienkowy' dla Windowed - powszechne w polskich grach, ale do potwierdzenia czy mieszcza sie w szerokosci przycisku UI (nie testowane wizualnie)."
+    }
+  ]
+}

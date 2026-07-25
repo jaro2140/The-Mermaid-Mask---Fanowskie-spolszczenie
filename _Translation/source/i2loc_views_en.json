@@ -1,0 +1,126 @@
+[
+  {
+    "term": "Views/Names/AftDeck",
+    "en": "Aft Deck"
+  },
+  {
+    "term": "Views/Names/Airlock",
+    "en": "Airlock Grotto"
+  },
+  {
+    "term": "Views/Names/Bilge",
+    "en": "Bilge"
+  },
+  {
+    "term": "Views/Names/CabinetOfCuriosity",
+    "en": "Cabinet of Curiosity"
+  },
+  {
+    "term": "Views/Names/CaptainsCabin",
+    "en": "Captain's Cabin"
+  },
+  {
+    "term": "Views/Names/CaptainsQuarters",
+    "en": "Captain's Quarters"
+  },
+  {
+    "term": "Views/Names/CargoHold",
+    "en": "Cargo Hold"
+  },
+  {
+    "term": "Views/Names/ChildsRoom",
+    "en": "Child's Room"
+  },
+  {
+    "term": "Views/Names/ControlRoom",
+    "en": "Control Room"
+  },
+  {
+    "term": "Views/Names/DirkWirman",
+    "en": "Bunk Room"
+  },
+  {
+    "term": "Views/Names/DomeTank",
+    "en": "Dome Tank"
+  },
+  {
+    "term": "Views/Names/DreamChamber",
+    "en": "Dream Chamber"
+  },
+  {
+    "term": "Views/Names/EngineRoom",
+    "en": "Engine Room"
+  },
+  {
+    "term": "Views/Names/ForeDeck",
+    "en": "Fore Deck"
+  },
+  {
+    "term": "Views/Names/IllusionTheatre",
+    "en": "Illusion Theatre"
+  },
+  {
+    "term": "Views/Names/MessHall",
+    "en": "Mess Hall"
+  },
+  {
+    "term": "Views/Names/Parlor",
+    "en": "Parlor"
+  },
+  {
+    "term": "Views/Names/StonetopInn",
+    "en": "The Stonetop Inn"
+  },
+  {
+    "term": "Views/Names/SymSinthia",
+    "en": "Bunk Room"
+  },
+  {
+    "term": "Views/Names/TownSquare",
+    "en": "Town Square"
+  },
+  {
+    "term": "Views/Text/IllusionTheatre/Text0",
+    "en": "A Murderer..."
+  },
+  {
+    "term": "Views/Text/IllusionTheatre/Text1",
+    "en": "...and a Thief"
+  },
+  {
+    "term": "Views/Text/Parlor/Text0",
+    "en": "Initial"
+  },
+  {
+    "term": "Views/Text/Parlor/Text1",
+    "en": "Report"
+  },
+  {
+    "term": "Views/Text/Parlor/Text2",
+    "en": "The Mermaid's Tongue"
+  },
+  {
+    "term": "Views/Text/Parlor/Text3",
+    "en": "The Third Person"
+  },
+  {
+    "term": "Views/Text/Parlor/Text4",
+    "en": "The Voyage aboard the Dearest Selena"
+  },
+  {
+    "term": "Views/Text/Parlor/Text5",
+    "en": "The Creation of the Mortuga Submarine"
+  },
+  {
+    "term": "Views/Text/Parlor/Text6",
+    "en": "We were Nine Souls"
+  },
+  {
+    "term": "Views/Text/Parlor/Text7",
+    "en": "The Murder of Magnus Mortuga"
+  },
+  {
+    "term": "Views/Text/Parlor/Text8",
+    "en": "A Gathering of \nHapless Travellers"
+  }
+]

@@ -1,0 +1,373 @@
+{
+  "_meta": {
+    "batch": "Tadpole 04 STATEMENT (70 terminow) - kontynuacja luku Tadpole po batch_32-33 (45/245). Barwna, przygodowa opowiesc Tadpole o nocy morderstwa - 'demon' ktorego rzekomo pokonala improwizowanym oszczepem (wioslem) okazuje sie prawdopodobnie ZAMASKOWANYM CZLOWIEKIEM (skorzana maska na cala glowe, jak kominiarka, znaleziona plywajaca w wodzie, potem skradziona) - istotny trop dot. mordercy.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 70/70 pokryte: Tadpole 47 (przybliz.), Grimoire i Sally reszta",
+    "character_voice": "Tadpole: bezposrednia, potoczna, przygodowa narracja ('cos', 'tryna', 'nah', 'yup') - patrz batch_32-33."
+  },
+  "categories": {
+    "Tadpole 04 STATEMENT": {
+      "Conversation/Tadpole 04 STATEMENT/Section ds129": {
+        "en": "I remember the sub did a weird kind of [i]tilt.[/i] Dunno what it was, but anyway, it woke me up.",
+        "pl": "Pamiętam, że łódź zrobiła jakiś dziwny [i]przechył.[/i] Nie wiem co to było, ale w każdym razie mnie obudziło.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds131": {
+        "en": "I get up and check outside - nothing. So I check the bilge.",
+        "pl": "Wstaję i sprawdzam na zewnątrz - nic. Więc sprawdzam Zęzę.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds132": {
+        "en": "No, but something's dripping into the water...",
+        "pl": "Nie, ale coś kapie do wody...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds136": {
+        "en": "So I head up there to check. The door's locked - I open it up.",
+        "pl": "Więc idę tam sprawdzić. Drzwi są zamknięte - otwieram je.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds139": {
+        "en": "I go inside, and that's when I find him. Dead - [i]killed[/i], looks like.",
+        "pl": "Wchodzę do środka, i wtedy go znajduję. Martwego - [i]zabitego,[/i] wygląda na to.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds140": {
+        "en": "I get [i]angry[/i]. I'm out for [i]revenge[/i] - I gotta find the guy who did it.",
+        "pl": "Robię się [i]wściekła.[/i] Chcę [i]zemsty[/i] - muszę znaleźć tego, kto to zrobił.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds141": {
+        "en": "So I run to the mess hall - [i]nobody.[/i] Climb up to the parlor - [i]nobody.[/i]",
+        "pl": "Więc biegnę do Mesy - [i]nikogo.[/i] Wspinam się do salonu - [i]nikogo.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds142": {
+        "en": "Then I notice the hatch up to the fore deck was left open...",
+        "pl": "Wtedy zauważam, że właz na pokład dziobowy został zostawiony otwarty...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds143": {
+        "en": "Someone's making an escape, I think. [i]Cowardly.[/i]",
+        "pl": "Ktoś ucieka, myślę sobie. [i]Tchórzliwie.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds144": {
+        "en": "I go up on deck - nobody. I look across to the [i]aft[/i] deck-",
+        "pl": "Wychodzę na pokład - nikogo. Patrzę w stronę pokładu [i]rufowego[/i]-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds145": {
+        "en": "Nah, there was a demon.",
+        "pl": "Nie, był tam demon.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds146": {
+        "en": "Yup. Glowing eyes, single horn coming outta the head - like an [i]antler[/i], kind of.",
+        "pl": "Ta. Świecące oczy, jeden róg wystający z głowy - trochę jak [i]poroże.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds147": {
+        "en": "No idea. Alien language.",
+        "pl": "Nie mam pojęcia. Kosmiczny język.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds149": {
+        "en": "Uh... so - [i]oh yeah[/i], there was this big green light. Not sure where it was coming from, though.",
+        "pl": "Yy... więc - [i]a tak[/i], było takie wielkie zielone światło. Nie jestem pewna, skąd dokładnie dochodziło.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds150": {
+        "en": "So I took one of the oars off the old rowing boat and threw it. Hard.",
+        "pl": "Więc wzięłam jedno z wioseł ze starej łódki wiosłowej i rzuciłam nim. Mocno.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds155": {
+        "en": "I wanna be sure, so I jump off the side and swim over to the aft deck.",
+        "pl": "Chcę się upewnić, więc zeskakuję z burty i płynę w stronę pokładu rufowego.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds156": {
+        "en": "But nope, nothing.",
+        "pl": "Ale nie, nic.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds157": {
+        "en": "Then I dive down past the back of the sub, to take a look around.",
+        "pl": "Potem nurkuję obok tyłu łodzi, żeby się rozejrzeć.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds158": {
+        "en": "Did you [h]see[/h] anyone?",
+        "pl": "[h]Widziałaś[/h] kogoś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds160": {
+        "en": "Did you ever [i]find[/i] the head? Of the - demon or whatever it was? You said it fell into the ocean.",
+        "pl": "Czy w ogóle [i]znalazłaś[/i] tę głowę? Demona czy czym to tam było? Mówiłaś, że wpadła do oceanu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds161": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds162": {
+        "en": "I took it back inside the submarine, left it right here in the airlock, and uh...",
+        "pl": "Zabrałam ją z powrotem na łódź, zostawiłam właśnie tutaj, w śluzie, i yy...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds163": {
+        "en": "I left the airlock... told Sinthia to gather up the others and come up to the store room.",
+        "pl": "Wyszłam ze śluzy... kazałam Sinthii zebrać resztę i przyjść do magazynu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds164": {
+        "en": "Zephyr was in the mess hall, I told him to come too.",
+        "pl": "Zephyr był w Mesie, kazałam mu też przyjść.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds166": {
+        "en": "So I go to the store room... Dirk's there, with Wirman, and Sym.",
+        "pl": "Więc idę do magazynu... jest tam Dirk, z Wirmanem, i Sym.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds168": {
+        "en": "Everyone else shows up shortly after.",
+        "pl": "Reszta pojawia się chwilę później.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds171": {
+        "en": "So - you all gathered at the crime scene. What happened?",
+        "pl": "Więc - wszyscy zebraliście się na miejscu zbrodni. Co się stało?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds172": {
+        "en": "Nobody wanted to admit to [i]murder,[/i] so it was a bit of a stalemate.",
+        "pl": "Nikt nie chciał przyznać się do [i]morderstwa,[/i] więc zrobił się mały pat.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds173": {
+        "en": "Most of the others made excuses and scurried off...",
+        "pl": "Większość reszty wymyśliła wymówki i się rozpierzchła...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds174": {
+        "en": "Zephyr, Gripp and I stayed behind. I guess we were the ones who knew Magnus best.\n",
+        "pl": "Zephyr, Gripp i ja zostaliśmy. Chyba to my znaliśmy Magnusa najlepiej.\n",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds176": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds178": {
+        "en": "So yeah, I'm tryna go back to sleep but I can't - cos now there's all these [i]footsteps[/i] outside my room.",
+        "pl": "Więc no, próbuję wrócić do snu, ale nie mogę - bo teraz są te wszystkie [i]kroki[/i] za moimi drzwiami.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds180": {
+        "en": "Was anyone [i]in[/i] there?",
+        "pl": "Był tam [i]ktoś?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds181": {
+        "en": "I get a closer look, and it's [i]blood[/i] - coming through the drain that connects to the room above.",
+        "pl": "Przyglądam się bliżej, i to [i]krew[/i] - płynąca przez odpływ łączący się z pokojem powyżej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds186": {
+        "en": "You [i]unlocked[/i] it? How?",
+        "pl": "[i]Odblokowałaś[/i] to? Jak?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds187": {
+        "en": "So [i]okay,[/i] I guess it's not really [i]locked,[/i] more like - [i]shut.[/i]",
+        "pl": "Więc [i]okej,[/i] chyba to nie jest tak naprawdę [i]zamknięte na klucz,[/i] bardziej jak - [i]zamknięte.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds188": {
+        "en": "Could - [i]anyone[/i] - turn that wheel?",
+        "pl": "Czy - [i]każdy[/i] - mógłby obrócić to koło?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds189": {
+        "en": "Probably not, it takes some upper body strength.",
+        "pl": "Chyba nie, to wymaga trochę siły w rękach i barkach.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds190": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds191": {
+        "en": "Let me guess. Nobody.",
+        "pl": "Zgadnę. Nikt.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds192": {
+        "en": "Uh - uh...",
+        "pl": "Yy - yy...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds193": {
+        "en": "Was it a [h]person?[/h]",
+        "pl": "Czy to była [h]osoba?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds194": {
+        "en": "I dunno, maybe. It was dark, I could only really make out the eyes-",
+        "pl": "Nie wiem, może. Było ciemno, mogłam naprawdę dojrzeć tylko oczy-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds195": {
+        "en": "-and it wasn't [i]looking[/i] at me, it was looking out to the side - at the ocean, I guess?",
+        "pl": "-i nie [i]patrzyło[/i] to na mnie, patrzyło gdzieś w bok - na ocean, tak sądzę?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds196": {
+        "en": "Then it starts talking.",
+        "pl": "Potem zaczyna mówić.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds197": {
+        "en": "...what did it [i]say?[/i]",
+        "pl": "...co to [i]powiedziało?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds198": {
+        "en": "Ali-\n[i]What??[/i]",
+        "pl": "Obc-\n[i]Co??[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds199": {
+        "en": "Okay, even [i]I'm[/i] making notes now. This is the best statement we ever got.",
+        "pl": "Okej, nawet [i]ja[/i] teraz robię notatki. To najlepsze zeznanie, jakie kiedykolwiek dostaliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds200": {
+        "en": "It can't be anything [i]good[/i], I figure. Better put a stop to it.",
+        "pl": "To nie może być nic [i]dobrego,[/i] pomyślałam. Lepiej to powstrzymać.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds201": {
+        "en": "[i]Suspect - vanquishes - demon - with - improvised - javelin.[/i]",
+        "pl": "[i]Podejrzana - pokonuje - demona - improwizowanym - oszczepem.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds202": {
+        "en": "Direct hit. Its [i]head[/i] came off, pretty sure - I saw it fall into the ocean.",
+        "pl": "Trafienie w punkt. Jej [i]głowa[/i] odpadła, jestem raczej pewna - widziałam, jak wpada do oceanu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds204": {
+        "en": "After that, the green glow went away, so now it's too dark to see anything.",
+        "pl": "Po tym zielona poświata zniknęła, więc teraz jest zbyt ciemno, żeby cokolwiek zobaczyć.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds208": {
+        "en": "Uh, no. Not - no.",
+        "pl": "Yy, nie. Nie - nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds209": {
+        "en": "...?",
+        "pl": "...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds210": {
+        "en": "I'm pretty sure I was being [i]watched.[/i] Like I could feel - [i]something[/i] was out there with me.",
+        "pl": "Jestem raczej pewna, że byłam [i]obserwowana.[/i] Jakbym czuła - że [i]coś[/i] tam było ze mną.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds211": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds212": {
+        "en": "How should I [i]put[/i] this-",
+        "pl": "Jak by to [i]ująć[/i]-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds213": {
+        "en": "Oh, [i]yeah[/i]. I did, actually - it was right there, floating in the water.",
+        "pl": "O, [i]tak.[/i] Właściwie tak - było tuż tam, unosiło się na wodzie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds214": {
+        "en": "Turns out it was this, uh... this leather [i]mask[/i] kinda thing?",
+        "pl": "Okazało się, że to było coś takiego, yy... coś jak skórzana [i]maska?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds215": {
+        "en": "A [i]mask...?[/i]",
+        "pl": "[i]Maska...?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds216": {
+        "en": "Like a [i]full head[/i] mask, you know, kinda like a balaclava.",
+        "pl": "Taka maska na [i]całą głowę,[/i] no wiecie, coś jak kominiarka.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds217": {
+        "en": "Do you still [i]have[/i] it??",
+        "pl": "Nadal ją [i]masz?[/i]?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds218": {
+        "en": "It's gone. I think it got stolen.",
+        "pl": "Zniknęła. Chyba została skradziona.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds219": {
+        "en": "-that's, uh... [i]disappointing.[/i]",
+        "pl": "-to, yy... [i]rozczarowujące.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds220": {
+        "en": "Tadpole, you didn't finish your statement.",
+        "pl": "Tadpole, nie skończyłaś swojego zeznania.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds221": {
+        "en": "[i]Right[/i], right.",
+        "pl": "[i]Racja,[/i] racja.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds224": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds225": {
+        "en": "That's it - story's over, get out of here!",
+        "pl": "To wszystko - koniec historii, wynocha stąd!",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds227": {
+        "en": "I dunno. Sorry.",
+        "pl": "Nie wiem. Wybaczcie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 04 STATEMENT/Section ds228": {
+        "en": "By turning the wheel.",
+        "pl": "Obracając kołem.",
+        "speaker": "Tadpole"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Tadpole 04 STATEMENT - tozsamosc 'demona'",
+      "problem": "Tadpole opisuje walke z 'demonem' o swiecacych oczach i rogu, ktory po 'zabiciu' (rzuceniem wiosla) okazuje sie zostawiac po sobie skorzana maske na cala glowe (jak kominiarka) unoszaca sie w wodzie - silna poszlaka ze to byl czlowiek w masce/przebraniu (mozliwy morderca uciekajacy z miejsca zbrodni), nie prawdziwy demon. Maska zostala pozniej skradziona z sluzy - kto ja ukradl pozostaje nieujawnione w tej partii."
+    },
+    {
+      "term": "Tadpole 04 STATEMENT/ds198 'Ali-'",
+      "problem": "Przerwane slowo Grimoire'a, najprawdopodobniej poczatek 'Alien' (nawiazujac do ds147 'Alien language') - przetlumaczone jako przerwane 'Obc-' (od 'Obcy' = Alien) zeby zachowac efekt przerwania w polowie slowa."
+    }
+  ]
+}

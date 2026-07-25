@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "batch": "Wirman 01 INTRO (18 terminow) - poczatek luku postaci Wirman (pelne imie potwierdzone: J. D. Wirman, autor ksiazek 'Hex of the Helmsman'/'Klatwa Sternika' o postaci Markus Mordoom, ktora gra Dirk - patrz batch_17/20). Ostatnia z 3 postaci tej tury (po Symmetry i Tadpole).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 18/18 pokryte: Wirman 9, Sally 7, Grimoire 2",
+    "character_voice": "Wirman: pewny siebie, zgryzliwy dowcip, przekonany o wlasnej wielkosci ('famous? successful? genius?') - autor/dziennikarz, mowi z gawedziarska precyzja o rzemiosle pisarskim."
+  },
+  "categories": {
+    "Wirman 01 INTRO": {
+      "Conversation/Wirman 01 INTRO/Section ds0": {
+        "en": "Two detectives...\nOne short, one tall.",
+        "pl": "Dwoje detektywów...\nJedno niskie, jedno wysokie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds13": {
+        "en": "Sir? If you have a minute - I'm Detective Grimoire, and this is Sal-",
+        "pl": "Panie? Jeśli ma pan chwilę - jestem detektyw Grimoire, a to Sal-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds15": {
+        "en": "The name's Wirman.\nJ. D. Wirman.",
+        "pl": "Nazwisko Wirman.\nJ. D. Wirman.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds16": {
+        "en": "I know who you are, Mr Wirman. I've read your book.",
+        "pl": "Wiem, kim pan jest, panie Wirman. Czytałam pańską książkę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds18": {
+        "en": "Oh joy, you're fans.\nOf all the places-",
+        "pl": "O, radość, jesteście fankami.\nZ tylu miejsc akurat tutaj-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds19": {
+        "en": "I never said I [h]liked[/h] the book. Maybe I hated it.",
+        "pl": "Nigdy nie powiedziałam, że [h]lubię[/h] tę książkę. Może ją znienawidziłam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds20": {
+        "en": "There's no way you hated it.",
+        "pl": "Nie ma mowy, żebyś ją znienawidziła.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds21": {
+        "en": "Damn, he's right.",
+        "pl": "Cholera, ma rację.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds24": {
+        "en": "Author, journalist... ahh, let's see what else - [h]famous?[/h] Successful? Some kind of [h]genius,[/h] even?",
+        "pl": "Autor, dziennikarz... ach, zobaczmy co jeszcze - [h]sławny?[/h] Odnoszący sukcesy? Nawet coś w rodzaju [h]geniusza?[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds25": {
+        "en": "Oh, sure, that's why I got myself trapped in the [h]murder[/h] submarine...",
+        "pl": "O tak, dlatego właśnie uwięziłem się na łodzi [h]morderstwa[/h]...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds26": {
+        "en": "The arcs are too tight, each chapter leads to the next - beginning, middle, end - and bang. Not a line wasted.",
+        "pl": "Wątki są zbyt zwarte, każdy rozdział prowadzi do następnego - początek, środek, koniec - i bum. Ani jedna linijka zmarnowana.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds33": {
+        "en": "Eh - tried and true.",
+        "pl": "Eh - sprawdzone i pewne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds35": {
+        "en": "He's an author.",
+        "pl": "On jest autorem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds36": {
+        "en": "You still haven't told us who you are.",
+        "pl": "Wciąż nie powiedziałeś nam, kim jesteś.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds38": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds6": {
+        "en": "[i]Hey[/i], I'm really not that much shorter than Gr-",
+        "pl": "[i]Hej[/i], wcale nie jestem aż tak dużo niższa niż Gr-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds7": {
+        "en": "But which of you is the [i]funny[/i] one?",
+        "pl": "Ale które z was jest tym [i]zabawnym?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 01 INTRO/Section ds9": {
+        "en": "I'd say it goes back and forth-",
+        "pl": "Powiedziałabym, że to się zmienia-",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "batch": "Wirman 02 YOURSELF (24 terminow) - kontynuacja luku Wirman po batch_36 (18/212). Wirman wyjasnia ze wrocil do rodzinnego miasteczka Silkwirm nad Morzem dla spokoju, pracujac nad kontynuacja swojej powiesci - i przypadkiem trafil na lodz Mortugi, ktorego znal 'z reputacji'.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 23/24 pokryte (Wirman 9, Grimoire 7, Sally 7). 1 nieprzypisany to mechanika Request.",
+    "character_voice": "Wirman: formalny rejestr (pan/pani) - w odroznieniu od wiekszosci innych postaci traktowanych przez detektywow potocznie/'na ty', Wirman od poczatku (batch_36 ds13 'Sir?') zwracany formalnie - pasuje do jego samozadowolonej, dystyngowanej maniery."
+  },
+  "categories": {
+    "Wirman 02 YOURSELF": {
+      "Conversation/Wirman 02 YOURSELF/Request exitClueRequest0Hint0": {
+        "en": "J. D. Wirman's first novel...",
+        "pl": "Pierwsza powieść J. D. Wirmana...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds0": {
+        "en": "So, Mr Wirman - you're a famous author?",
+        "pl": "Więc, panie Wirman - jest pan sławnym autorem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds10": {
+        "en": "I... wanted somewhere [i]quiet[/i] to work on my next novel. Minimal distractions. Not saying it's [h]worked[/h], but-",
+        "pl": "Ja... chciałem jakieś [i]ciche[/i] miejsce, żeby popracować nad kolejną powieścią. Minimum rozpraszaczy. Nie mówię, że to [h]zadziałało,[/h] ale-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds11": {
+        "en": "You're writing a sequel?",
+        "pl": "Pisze pan kontynuację?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds12": {
+        "en": "[h]Trying to.[/h]\nTrying to. ",
+        "pl": "[h]Próbuję.[/h]\nPróbuję. ",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds13": {
+        "en": "Hang on - a sequel to what?",
+        "pl": "Czekaj - kontynuację czego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds14": {
+        "en": "Grimoire, are you not paying attention?",
+        "pl": "Grimoire, nie uważasz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds19": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds20": {
+        "en": "Ahh, there she is - benefactor and burden both.",
+        "pl": "Ach, otóż i ona - dobrodziejka i brzemię zarazem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds21": {
+        "en": "Sally, how did you know to bring the book [i]with[/i] you?",
+        "pl": "Sally, skąd wiedziałaś, żeby zabrać [i]ze sobą[/i] tę książkę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds22": {
+        "en": "Because Mr Wirman's local to the area - it says so right here;",
+        "pl": "Bo pan Wirman jest stąd - jest napisane właśnie tutaj;",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds23": {
+        "en": "My [i]publisher[/i] wrote that. It's quite true - but she made it sound so [i]saccharine...[/i]",
+        "pl": "To napisała moja [i]wydawczyni.[/i] To całkiem prawdziwe - ale ubrała to w tak [i]przesłodzone[/i] słowa...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds24": {
+        "en": "[i]'Hailing from a small fishing town named Silkwirm-on-sea, J. D. Wirman moved to the big city to write his first novel.'[/i]",
+        "pl": "[i]'Pochodzący z małego miasteczka rybackiego o nazwie Silkwirm nad Morzem, J. D. Wirman przeniósł się do wielkiego miasta, żeby napisać swoją pierwszą powieść.'[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds25": {
+        "en": "So you're [h]from[/h] the town - you moved away - and then you came back?",
+        "pl": "Więc jest pan [h]z[/h] tego miasteczka - wyprowadził się pan - a potem wrócił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds26": {
+        "en": "Ah - now, see - you've gone too far in the other direction, that's too utilitarian.",
+        "pl": "Ach - widzisz - teraz poszedłeś za daleko w drugą stronę, to zbyt utylitarne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds27": {
+        "en": "I get going back to your hometown for peace and quiet, but - then to end up on the submarine?",
+        "pl": "Rozumiem powrót do rodzinnego miasta dla spokoju, ale - a potem wylądować na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds28": {
+        "en": "How did you even find out about it? Did you already know Mortuga?",
+        "pl": "Skąd pan w ogóle się o niej dowiedział? Znał pan już Mortugę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds30": {
+        "en": "Oh, I knew [h]of[/h] him. He's a figure of some infamy - submarine included.",
+        "pl": "Och, słyszałem [h]o[/h] nim. To postać o pewnej niesławie - łódź podwodna włącznie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds31": {
+        "en": "In fact it was good to finally put a face to the name, after all those years.",
+        "pl": "Właściwie miło było wreszcie skojarzyć twarz z nazwiskiem, po tylu latach.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds32": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds6": {
+        "en": "That's... what they tell me.",
+        "pl": "Tak... przynajmniej tak mi mówią.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds7": {
+        "en": "How did you end up on the submarine?",
+        "pl": "Jak pan trafił na łódź?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds8": {
+        "en": "I came of my own volition!",
+        "pl": "Przybyłem z własnej woli!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 02 YOURSELF/Section ds9": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

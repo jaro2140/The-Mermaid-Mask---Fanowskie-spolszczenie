@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "batch": "Dirk 02 YOURSELF (24 terminow) - kontynuacja luku Dirka po batch_16 (INTRO, 16/244). Dirk opowiada o swojej karierze aktorskiej i filmie 'Hex of the Helmsman', ujawnia ze towarzyszy Wirmanowi (autorowi ksiazki, na ktorej oparty jest film).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 24/24 pokryte: Dirk 13, Sally 6, Grimoire 5",
+    "character_voice": "Dirk: potoczny, mlodziezowo-aktorski luz (patrz batch_16) - 'stary', 'ta', 'zajefajna', 'mega'.",
+    "new_lore": "Tytul filmu/ksiazki Dirka: 'Hex of the Helmsman' -> przetlumaczone tworczo jako 'Klatwa Sternika' (analogicznie do 'The Mermaid's Tongue' -> 'Jezyk Syreny' - tytul dziela, nie nazwa lokacji/postaci, wiec tlumaczenie opisowe zamiast zostawienia po angielsku). Dirk gra postac 'Sternika' (Helmsman) w tym filmie. Ksiazka jest autorstwa J. D. Wirmana (potwierdzone ze to TA SAMA postac co towarzyszacy Dirkowi na lodzi Wirman) - kredytowana pod nazwiskiem/pseudonimem 'Markus Mordoom' (ds29-32, patrz VERIFICATION_QUEUE)."
+  },
+  "categories": {
+    "Dirk 02 YOURSELF": {
+      "Conversation/Dirk 02 YOURSELF/Section ds0": {
+        "en": "So - Dirk... you're an actor?\nWhat kind?",
+        "pl": "Więc - Dirk... jesteś aktorem?\nJakim?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds10": {
+        "en": "Nice.\nAnything I've seen?",
+        "pl": "Miło.\nCoś, co mogłem widzieć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds11": {
+        "en": "Well, it's called [i]'Hex of the Helmsman'[/i].",
+        "pl": "Cóż, nazywa się to [i]'Klątwa Sternika'[/i].",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds12": {
+        "en": "Oh - you've seen it?",
+        "pl": "O - widziałeś to?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds13": {
+        "en": "No, but I read the book.",
+        "pl": "Nie, ale czytałam książkę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds17": {
+        "en": "Oh man, the book is gnarly - I'm not usually one for reading, but I actually finished it. The whole thing!",
+        "pl": "Ej, ta książka jest zajefajna - normalnie nie przepadam za czytaniem, ale naprawdę ją skończyłem. Całą!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds18": {
+        "en": "Congrats.",
+        "pl": "Gratulacje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds19": {
+        "en": "Was your movie a success, Dirk?",
+        "pl": "Twój film odniósł sukces, Dirk?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds20": {
+        "en": "Yeah man, it's making mega bucks.",
+        "pl": "Ta stary, zgarnia kupę kasy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds21": {
+        "en": "-are you going to make a sequel?",
+        "pl": "-zrobicie kontynuację?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds22": {
+        "en": "And, what - you're taking your vacation on a [i]submarine[/i] while you wait?",
+        "pl": "I co - spędzasz wakacje na [i]łodzi podwodnej[/i], czekając na to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds23": {
+        "en": "Well, you know, they wanna move on that ASAP but, uh, we're not ready to start filming yet.",
+        "pl": "No wiesz, oni chcą się z tym ruszyć jak najszybciej, ale, yy, jeszcze nie jesteśmy gotowi zacząć kręcić.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds24": {
+        "en": "No, I'm just here tagging along here with Wirman.",
+        "pl": "Nie, po prostu jestem tu, bo się zabrałem z Wirmanem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds26": {
+        "en": "He wanted to take a trip out here and I figured - you know, the more the merrier!",
+        "pl": "On chciał się tu wybrać, a ja pomyślałem - no wiesz, w większym gronie raźniej!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds29": {
+        "en": "[i]Markus Mordoom?[/i]",
+        "pl": "[i]Markus Mordoom?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds31": {
+        "en": "The author's a stand-up dude, too.",
+        "pl": "Autor to też spoko gość.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds32": {
+        "en": "J. D. Wirman?\nYou know him?",
+        "pl": "J. D. Wirman?\nZnasz go?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds33": {
+        "en": "Uh - yeah! He's sitting right over there.",
+        "pl": "Yy - no jasne! Siedzi o, tam.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds34": {
+        "en": "I bet.",
+        "pl": "No pewnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds35": {
+        "en": "I play the Helmsman.",
+        "pl": "Gram Sternika.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds36": {
+        "en": "You should go talk to him. Super friendly. [i]Loves[/i] meeting new people.",
+        "pl": "Powinniście z nim pogadać. Mega przyjazny. [i]Uwielbia[/i] poznawać nowych ludzi.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds38": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds7": {
+        "en": "Oh, well, uh, so for [h]ages[/h] I just did commercials-",
+        "pl": "A, no więc, yy, przez [h]całe wieki[/h] robiłem tylko reklamy-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 02 YOURSELF/Section ds8": {
+        "en": "-and then about a year ago I finally got cast in a movie.",
+        "pl": "-a potem, jakiś rok temu, w końcu dostałem rolę w filmie.",
+        "speaker": "Dirk"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Dirk 02 YOURSELF/ds29-32 'Markus Mordoom' vs 'J. D. Wirman'",
+      "problem": "Sally najpierw pyta o 'Markus Mordoom' (ds29, prawdopodobnie nazwisko/pseudonim autora widoczne na okladce ksiazki - brakuje w eksporcie linii, w ktorej Dirk je wymienia, prawdopodobnie inny mowca/mechanika), po czym Dirk (ds31) i Sally (ds32, pytajac o 'J. D. Wirman') zdaja sie mowic o TEJ SAMEJ osobie - postaci Wirman towarzyszacej Dirkowi na lodzi. Zalozono ze 'Markus Mordoom' to pseudonim pisarski Wirmana - obie nazwy zostawione bez tlumaczenia (nazwy wlasne), ale zwiazek do potwierdzenia w grze/przy tlumaczeniu luku Wirmana."
+    },
+    {
+      "term": "Dirk 02 YOURSELF/ds11 'Hex of the Helmsman' -> 'Klatwa Sternika'",
+      "problem": "Tytul filmu/ksiazki przetlumaczony tworczo (analogicznie do The Mermaid's Tongue) zamiast zostawiony po angielsku - do potwierdzenia z userem czy tytuly dziel fikcyjnych w grze maja byc tlumaczone czy zostawiane oryginalnie (precedens jeszcze nie ustalony jawnie w GLOSSARY)."
+    }
+  ]
+}

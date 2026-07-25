@@ -1,0 +1,306 @@
+{
+  "_meta": {
+    "batch": "Conversation/Grimoire 2 Foredeck Sunset + Grimoire 3 Iron Bell + Grimoire 4 Parlor 0 (54 terminow). Uzupelnia luke miedzy batch_02 (Grimoire 1) a batch_03 (Grimoire 5) - kontynuacja chronologiczna watku Grimoire'a.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking)",
+    "new_glossary_terms": {
+      "Mess Hall": "Mesa - pomieszczenie jadalne na okrecie, termin morski",
+      "Fore Deck": "Pokład Dziobowy",
+      "Illusion Theatre": "Teatr Iluzji",
+      "Iron Bell/Mermaid's Tongue": "potwierdzone przez usera jako Żelazny Dzwon / Język Syreny - brak gry slow litera-po-literze (sprawdzone w calym zrodle), jest za to gra slow 'tongue'=jezyk(organ)/jezyk(mowa) ktora PRZEKLADA SIE 1:1 na polskie 'jezyk' (Section ds152 w Grimoire 6 Parlor 2, do przetlumaczenia w kolejnej partii)"
+    }
+  },
+  "categories": {
+    "Grimoire 2 Foredeck Sunset": {
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds58": {
+        "en": "Did Sinthia [i]really[/i] think we'd use that boat?",
+        "pl": "Czy Sinthia [i]naprawdę[/i] sądziła, że skorzystamy z tej łodzi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds59": {
+        "en": "I don't know.",
+        "pl": "Nie wiem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds60": {
+        "en": "She seemed really [i]off[/i]. Did something happen...?",
+        "pl": "Wydawała się naprawdę [i]nie sobą[/i]. Coś się stało...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds61": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds62": {
+        "en": "We're not really going to leave, are we?",
+        "pl": "Tak naprawdę nie zamierzamy odpłynąć, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds63": {
+        "en": "No, we're not done. Not yet.",
+        "pl": "Nie, jeszcze nie skończyliśmy. Jeszcze nie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds64": {
+        "en": "Remember what Sinthia said? Everyone's gathering in the Mess Hall.",
+        "pl": "Pamiętasz, co powiedziała Sinthia? Wszyscy zbierają się w Mesie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds66": {
+        "en": "Not just that, but we're back on the surface, too.",
+        "pl": "Nie tylko to - wróciliśmy też na powierzchnię.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds67": {
+        "en": "Aha...",
+        "pl": "Aha...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds69": {
+        "en": "So what are we waiting for?",
+        "pl": "To na co czekamy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds70": {
+        "en": "But what do we do...?",
+        "pl": "Ale co robimy...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds71": {
+        "en": "Or... did she just forget to take the submarine back to town?",
+        "pl": "Albo... czy ona po prostu zapomniała popłynąć z powrotem do miasta?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds73": {
+        "en": "I think she's just getting scared.",
+        "pl": "Myślę, że po prostu zaczyna się bać.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds74": {
+        "en": "Of the [i]truth[/i] - of facing the truth - and all the consequences of it.",
+        "pl": "[i]Prawdy[/i] - zmierzenia się z prawdą - i wszystkich jej konsekwencji.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds76": {
+        "en": "Scared of what? Exposing a murderer?",
+        "pl": "Bać się czego? Zdemaskowania mordercy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds77": {
+        "en": "Seems like something of an [i]opportunity...[/i]",
+        "pl": "To chyba raczej jakaś [i]szansa...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds78": {
+        "en": "We sure are.",
+        "pl": "Na pewno tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 2 Foredeck Sunset/Section ds79": {
+        "en": "[i]Whatever[/i] they end up being.",
+        "pl": "[i]Jakiekolwiek[/i] by nie były.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Grimoire 3 Iron Bell": {
+      "Conversation/Grimoire 3 Iron Bell/Request exitClueRequest0Hint0": {
+        "en": "The Iron Bell is a mechanism that connects to another clue...",
+        "pl": "Żelazny Dzwon to mechanizm, który łączy się z innym dowodem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Request exitClueRequest0Hint1": {
+        "en": "The Iron Bell is a mechanism that slots into another clue from above...",
+        "pl": "Żelazny Dzwon to mechanizm, który wsuwa się w inny dowód od góry...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds49": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds51": {
+        "en": "It's a mechanism that connects to another clue...",
+        "pl": "To mechanizm, który łączy się z innym dowodem...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds52": {
+        "en": "...if the Bell attaches onto the top of the [i]Cauldron...[/i]",
+        "pl": "...jeśli Dzwon mocuje się na górze [i]Kotła...[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds55": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds56": {
+        "en": "What are you suggesting? We carry it along the hallway, down a ladder, along [i]another[/i] hallway-",
+        "pl": "Co sugerujesz? Że poniesiemy go korytarzem, w dół po drabinie, [i]kolejnym[/i] korytarzem-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds57": {
+        "en": "It's not a bell at all.",
+        "pl": "To wcale nie jest dzwon.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds58": {
+        "en": "It [i]is[/i] a bell, but it's broken.",
+        "pl": "To [i]jest[/i] dzwon, tylko zepsuty.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds59": {
+        "en": "So - we've been calling it a [i]bell[/i] this whole time...",
+        "pl": "Czyli - cały czas nazywaliśmy go [i]dzwonem[/i]...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds59 Choice 1": {
+        "en": "It's not a bell at all.",
+        "pl": "To wcale nie jest dzwon.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds59 Choice 2": {
+        "en": "It [i]is[/i] a bell, but it's broken.",
+        "pl": "To [i]jest[/i] dzwon, tylko zepsuty.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds59 Choice 3": {
+        "en": "It [i]used[/i] to be a bell.",
+        "pl": "[i]Kiedyś[/i] był dzwonem.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds59 Choice Question": {
+        "en": "We've been calling it a bell this whole time...",
+        "pl": "Cały czas nazywaliśmy go dzwonem...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds60": {
+        "en": "It [i]used[/i] to be a bell.",
+        "pl": "[i]Kiedyś[/i] był dzwonem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds61": {
+        "en": "Then - it must be possible to move it down into the room [i]below?[/i] - into the Illusion Theatre?",
+        "pl": "W takim razie - da się go przenieść do pokoju [i]poniżej?[/i] - do Teatru Iluzji?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds64": {
+        "en": "Yeah.\nLet's take another look at this room.",
+        "pl": "Tak.\nRzućmy jeszcze raz okiem na ten pokój.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 3 Iron Bell/Section ds65": {
+        "en": "[i]No, no[/i] - there's gotta be some simple way to do it.",
+        "pl": "[i]Nie, nie[/i] - musi być jakiś prosty sposób, żeby to zrobić.",
+        "speaker": "Sally"
+      }
+    },
+    "Grimoire 4 Parlor 0": {
+      "Conversation/Grimoire 4 Parlor 0/Section ds31": {
+        "en": "Sinthia's decided to lock us in.",
+        "pl": "Sinthia postanowiła nas zamknąć.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds57": {
+        "en": "Look, I know this isn't ideal, but - this is just how it needs to be until we can-",
+        "pl": "Słuchajcie, wiem, że to niezbyt komfortowe, ale - musi tak być, dopóki nie będziemy mogli-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds58": {
+        "en": "Uh, hi. Hey.",
+        "pl": "Eee, hej. Cześć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds59": {
+        "en": "We're back.",
+        "pl": "Wróciliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds60": {
+        "en": "What's... going on?",
+        "pl": "Co... się dzieje?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds61": {
+        "en": "She may have gone mad, we're still assessing.",
+        "pl": "Możliwe, że oszalała, wciąż to ustalamy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds62": {
+        "en": "I've - just locked the Fore Deck access, just for the [i]time being-[/i]",
+        "pl": "Ja - po prostu zamknęłam dostęp do Pokładu Dziobowego, tylko [i]na razie-[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds63": {
+        "en": "How come?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds64": {
+        "en": "She's worried the culprit will attempt to escape as soon as they're named.",
+        "pl": "Martwi się, że sprawca spróbuje uciec, gdy tylko zostanie wskazany.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds65": {
+        "en": "Ooh, we're naming the culprit? Lovely! Been looking forward to this-",
+        "pl": "Ooo, wskazujemy sprawcę? Cudownie! Nie mogłam się doczekać-",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds66": {
+        "en": "We're still doing that? I thought Sinthia fired the detective dudes?",
+        "pl": "Wciąż to robimy? Myślałem, że Sinthia wywaliła tych detektywów?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds67": {
+        "en": "On the [i]contrary[/i] - we've been pretty busy.",
+        "pl": "Wręcz [i]przeciwnie[/i] - mieliśmy sporo roboty.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds68": {
+        "en": "I, uh-",
+        "pl": "Ja, eee-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds69": {
+        "en": "She didn't fire us.",
+        "pl": "Nie wyrzuciła nas.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds70": {
+        "en": "Oh? Doing what?",
+        "pl": "Och? A co robiliście?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds71": {
+        "en": "What else? Solving the mystery.",
+        "pl": "A co innego? Rozwiązywaliśmy tę zagadkę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds73": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 4 Parlor 0/Section ds76": {
+        "en": "Sinthia. You have visitors.",
+        "pl": "Sinthia. Masz gości.",
+        "speaker": "Zephyr"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Grimoire 3 Iron Bell/Request exitClueRequest0Hint0/Hint1",
+      "problem": "Jak poprzednio - brak wlasnego soulTalking, zalozylem Grimoire."
+    },
+    {
+      "term": "Section ds59 Choice Question (naglowek wyboru dialogowego)",
+      "problem": "Nie mam pewnosci czy to tekst 'mowiony' przez postac czy czysto UI-owy naglowek okna wyboru - przetlumaczylem neutralnie, do sprawdzenia wizualnie w grze."
+    },
+    {
+      "term": "Grimoire 4 Parlor 0/ds66 'detective dudes' -> 'wywaliła tych detektywów'",
+      "problem": "Dirk ma najbardziej luzny/wspolczesny styl wypowiedzi w grze (potwierdzone w devTexts z Art Gallery: 'Dirk is the most contemporary character'). Uzylem potocznego 'wywalila' zamiast neutralnego 'wyrzucila' zeby to oddac - do potwierdzenia czy ten rejestr jest odpowiedni w calej grze dla Dirka."
+    }
+  ]
+}

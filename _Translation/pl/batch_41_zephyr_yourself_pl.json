@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "batch": "Zephyr 02 YOURSELF (26 terminow) - kontynuacja luku Zephyra po batch_40 (17/251). Zephyr opowiada o swojej 'nauce' parapsychologicznej snow i pokazuje kolekcje rzadkich artefaktow (celowo nie pokazujac najrzadszych).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 26/26 pokryte: Zephyr 12, Grimoire 8, Sally 6",
+    "character_voice": "Zephyr: formalny, mistyczny (patrz batch_40) - mowi o 'energii duchowej', 'krainie duchow', traktuje detektywow z uprzejma wyzszoscia."
+  },
+  "categories": {
+    "Zephyr 02 YOURSELF": {
+      "Conversation/Zephyr 02 YOURSELF/Section ds0": {
+        "en": "So, uh - Dr... Zephyr. What does a Dream Doctor do, exactly?",
+        "pl": "Więc, yy - doktorze... Zephyr. Co dokładnie robi Doktor Snów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds10": {
+        "en": "What [i]kind[/i] of other dimension?",
+        "pl": "Jaki [i]rodzaj[/i] innego wymiaru?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds11": {
+        "en": "Spirit energy originates in the spirit [i]realm[/i], of course.",
+        "pl": "Energia duchowa pochodzi z duchowej [i]krainy,[/i] rzecz jasna.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds12": {
+        "en": "So - have you made any kind of discoveries? Or breakthroughs?",
+        "pl": "Więc - dokonałeś jakichś odkryć? Albo przełomów?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds13": {
+        "en": "That's like - psychics and telepathy and stuff, isn't it.",
+        "pl": "To coś jak - jasnowidzenie i telepatia i takie tam, prawda.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds14": {
+        "en": "How does that relate to dreams?",
+        "pl": "Jak to się ma do snów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds15": {
+        "en": "Nothing I can meaningfully explain to you, in your [i]current state.[/i]",
+        "pl": "Nic, co mógłbym w sensowny sposób wam wyjaśnić, w waszym [i]obecnym stanie.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds17": {
+        "en": "What about all the [i]stuff[/i] in here? What does it all [i]do?[/i]",
+        "pl": "A co z tymi wszystkimi [i]rzeczami[/i] tutaj? Co one wszystkie [i]robią?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds18": {
+        "en": "It is an [i]unrivalled collection[/i] of rare artefacts.",
+        "pl": "To [i]niezrównana kolekcja[/i] rzadkich artefaktów.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds22": {
+        "en": "Alright, what's the rarest thing you've got?",
+        "pl": "Dobra, co jest najrzadszą rzeczą, jaką masz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds23": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds24": {
+        "en": "My rarest items are [i]not[/i] for the viewing public.",
+        "pl": "Moje najrzadsze eksponaty [i]nie[/i] są dla zwiedzającej publiki.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds25": {
+        "en": "Okay, now I [h]have[/h] to see what they are.",
+        "pl": "Okej, teraz [h]muszę[/h] zobaczyć, czym one są.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds26": {
+        "en": "I realise I should have lied and showed you something of [i]middling[/i] rarity, to throw you off the scent.",
+        "pl": "Zdaję sobie sprawę, że powinienem był skłamać i pokazać wam coś o [i]przeciętnej[/i] rzadkości, żeby zmylić trop.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds27": {
+        "en": "Lesson learned, huh?",
+        "pl": "Nauczka na przyszłość, co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds28": {
+        "en": "Heh.",
+        "pl": "Heh.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds30": {
+        "en": "Ah. The pull of the unknown.",
+        "pl": "Ach. Zew nieznanego.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds31": {
+        "en": "Like... the [i]afterlife?[/i]",
+        "pl": "Jak... [i]zaświaty?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds32": {
+        "en": "That is but [i]one[/i] of many names...",
+        "pl": "To tylko [i]jedno[/i] z wielu imion...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds34": {
+        "en": "I dunno... it mostly looks like a bunch of old junk.",
+        "pl": "Nie wiem... to głównie wygląda jak kupa starych gratów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds35": {
+        "en": "Specialist instruments. Most of them too complex or too subtle for [h]you[/h] to comprehend.",
+        "pl": "Specjalistyczne przyrządy. Większość z nich zbyt złożona albo zbyt subtelna, żeby [h]wy[/h] mogli je pojąć.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds37": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds6": {
+        "en": "He studies the parapsychological qualities of dreams.",
+        "pl": "On bada parapsychologiczne właściwości snów.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds7": {
+        "en": "Uh - [i]para[/i]psychological?",
+        "pl": "Yy - [i]para[/i]psychologiczne?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds8": {
+        "en": "Dreams are transmissions comprised of spirit energy from another dimension.",
+        "pl": "Sny to transmisje złożone z energii duchowej z innego wymiaru.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 02 YOURSELF/Section ds9": {
+        "en": "Oh, sure. I mean, that's common knowledge.",
+        "pl": "O, jasne. To znaczy, to powszechnie znane.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

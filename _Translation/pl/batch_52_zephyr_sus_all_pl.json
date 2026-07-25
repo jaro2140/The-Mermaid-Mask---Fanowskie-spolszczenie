@@ -1,0 +1,595 @@
+{
+  "_meta": {
+    "batch": "Zephyr SUS X (9 scen, 113 terminow) - reakcje/obserwacje Zephyra na temat kazdego z 8 pozostalych podejrzanych + na siebie samego, w jego formalnym, mistycznym rejestrze. Zephyr SUS Symmetry (23) ujawnia jak Symmetry dolaczyla do zalogi (zaproszona przez Zephyra po przedstawieniu w Fortuna Hall, gdzie byla niedoceniana/niewynagradzana). Zephyr SUS Zephyr (30) rozwija watek jego formalnego odrzucenia przez instytucje naukowe i cel badania Syreny.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 113/113 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Zephyr: kontynuacja formalnego, mistycznego rejestru (batch_40-43, batch_50)."
+  },
+  "categories": {
+    "Zephyr SUS Dirk": {
+      "Conversation/Zephyr SUS Dirk/Section ds6": {
+        "en": "When I enquired as to [i]why[/i] Mr Dansom held fascination for such things, he said, simply, 'research.'",
+        "pl": "Gdy zapytałem, [i]czemu[/i] pan Dansom żywi fascynację takimi rzeczami, powiedział po prostu: 'badania'.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Dirk/Section ds8": {
+        "en": "What did Dirk want to talk to Mortuga about?",
+        "pl": "O czym Dirk chciał porozmawiać z Mortugą?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Dirk/Section ds9": {
+        "en": "Nothing - it was the act of conversation [h]itself[/h] he was after.",
+        "pl": "O niczym - zależało mu na [h]samym[/h] akcie rozmowy.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Dirk/Section ds12": {
+        "en": "First hand experience of Mortuga's mannerisms, affectations, and vocabulary.",
+        "pl": "Bezpośrednim doświadczeniu manier, afektacji i słownictwa Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Dirk/Section ds13": {
+        "en": "I noticed Mr Dansom was quite [i]determined[/i] to hold conversation with Magnus...",
+        "pl": "Zauważyłem, że pan Dansom był dość [i]zdeterminowany,[/i] żeby prowadzić rozmowę z Magnusem...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr SUS Gripp": {
+      "Conversation/Zephyr SUS Gripp/Section ds6": {
+        "en": "Godrik... made some kind of [i]official request[/i] - but Magnus had denied it.",
+        "pl": "Godrik... złożył jakąś [i]formalną prośbę[/i] - ale Magnus jej odmówił.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Gripp/Section ds8": {
+        "en": "Their disagreement was something to do with [h]navigation[/h] - for my own sake, I stayed out of it.",
+        "pl": "Ich niezgoda dotyczyła czegoś związanego z [h]nawigacją[/h] - dla własnego dobra trzymałem się z dala od tego.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Gripp/Section ds10": {
+        "en": "He joined us about a week or so after we first left port...",
+        "pl": "Dołączył do nas jakiś tydzień po tym, jak po raz pierwszy opuściliśmy port...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Gripp/Section ds13": {
+        "en": "He caused problems almost immediately.",
+        "pl": "Niemal natychmiast zaczął sprawiać problemy.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Gripp/Section ds14": {
+        "en": "How come?",
+        "pl": "Dlaczego?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr SUS Moon": {
+      "Conversation/Zephyr SUS Moon/Section ds9": {
+        "en": "It is hypothesized that Ms. Moon was embroiled in some form of [i]deal[/i] with Magnus Mortuga.",
+        "pl": "Przypuszcza się, że panna Moon była uwikłana w jakiś rodzaj [i]układu[/i] z Magnusem Mortugą.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds13": {
+        "en": "What [i]kind[/i] of deal?",
+        "pl": "Jaki [i]rodzaj[/i] układu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds15": {
+        "en": "What would she [i]give[/i] him? Money?",
+        "pl": "Co by mu [i]dała?[/i] Pieniądze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds17": {
+        "en": "People. Kinship.",
+        "pl": "Ludzi. Więź.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds18": {
+        "en": "Maybe information [i]about[/i] a person? Or how to [i]find[/i] a person?",
+        "pl": "Może informacje [i]o[/i] kimś? Albo jak [i]znaleźć[/i] kogoś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds19": {
+        "en": "So... Mariana gave him - a [i]person?[/i]",
+        "pl": "Więc... Mariana dała mu - [i]osobę?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds22": {
+        "en": "Hm. His heart beat not for [i]money and things...[/i]",
+        "pl": "Hm. Jego serce nie biło dla [i]pieniędzy i rzeczy...[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds23": {
+        "en": "What [i]did[/i] it beat for?",
+        "pl": "Więc dla [i]czego[/i] biło?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Moon/Section ds24": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr SUS Mortuga": {
+      "Conversation/Zephyr SUS Mortuga/Section ds6": {
+        "en": "The two of them split their time between running the inn, and running a small sailing ship.",
+        "pl": "Oboje dzielili czas między prowadzenie gospody a prowadzenie małego żaglowca.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds7": {
+        "en": "How did you meet Mortuga?",
+        "pl": "Jak poznałeś Mortugę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds8": {
+        "en": "It was on my first visit to Silkwirm, many years ago.",
+        "pl": "To było podczas mojej pierwszej wizyty w Silkwirm, wiele lat temu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds9": {
+        "en": "I was merely passing through, so I stayed at the Inn where Magnus was working at the time.",
+        "pl": "Byłem tylko przejazdem, więc zatrzymałem się w gospodzie, w której Magnus wtedy pracował.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds13": {
+        "en": "So Mortuga was just an [i]innkeeper[/i] at this point?",
+        "pl": "Więc Mortuga był wtedy zwykłym [i]karczmarzem?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds14": {
+        "en": "Not [i]even[/i], the innkeeper was a woman named [i]Felicia Stonetop.[/i] Magnus merely worked under her charge.",
+        "pl": "Nawet [i]nie,[/i] właścicielką gospody była kobieta imieniem [i]Felicia Stonetop.[/i] Magnus jedynie pracował pod jej zarządem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds15": {
+        "en": "Sounds like quite a nice life.",
+        "pl": "Brzmi jak całkiem miłe życie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Mortuga/Section ds20": {
+        "en": "Hmph.",
+        "pl": "Hmph.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr SUS Sinthia": {
+      "Conversation/Zephyr SUS Sinthia/Section ds0": {
+        "en": "It is no mark against Sinthia's [i]character,[/i] she is a sharp young woman, and capable engineer-",
+        "pl": "To nie jest zarzut wobec [i]charakteru[/i] Sinthii, jest bystrą młodą kobietą i zdolną inżynierką-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds6": {
+        "en": "That Miss Seafoam had made her ambitions [h]known[/h] to Magnus, but he had shut them down.",
+        "pl": "Że panna Seafoam [h]ujawniła[/h] swoje ambicje Magnusowi, ale je stłumił.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds8": {
+        "en": "Did she never [i]say[/i] she wanted to be captain?",
+        "pl": "Nigdy nie [i]powiedziała,[/i] że chce być kapitanem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds9": {
+        "en": "On the contrary, I was [i]aware[/i] she'd held such aspirations - initially.",
+        "pl": "Wręcz przeciwnie, byłem [i]świadomy,[/i] że żywiła takie aspiracje - początkowo.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds10": {
+        "en": "But I was under the impression that her campaign had ended in failure.",
+        "pl": "Ale odniosłem wrażenie, że jej starania zakończyły się porażką.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds11": {
+        "en": "...meaning?",
+        "pl": "...czyli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Sinthia/Section ds17": {
+        "en": "-but I was wholly surprised to learn that she had become captain.",
+        "pl": "-ale byłem całkowicie zaskoczony, dowiadując się, że została kapitanem.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr SUS Symmetry": {
+      "Conversation/Zephyr SUS Symmetry/Section ds0": {
+        "en": "I first learned about Symmetry from a newspaper article detailing her residency at the Fortuna Hall Theatre.",
+        "pl": "Po raz pierwszy dowiedziałem się o Symmetry z artykułu prasowego opisującego jej rezydenturę w teatrze Fortuna Hall.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds7": {
+        "en": "Taking an excursion from the submarine, I attended the performance.",
+        "pl": "Odbywając wycieczkę z łodzi podwodnej, wziąłem udział w przedstawieniu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds8": {
+        "en": "To me, it spoke of someone with a close connection to the [i]aethereal plane.[/i]",
+        "pl": "Dla mnie świadczyło to o kimś, kto ma bliski kontakt z [i]płaszczyzną eteryczną.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds9": {
+        "en": "Afterward, I requested an audience with Miss Silkmoth [i]herself-[/i]",
+        "pl": "Potem poprosiłem o audiencję u samej panny [i]Silkmoth-[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds10": {
+        "en": "-and speaking with her for a scant few minutes, I learned... [i]two things;[/i]",
+        "pl": "-i rozmawiając z nią przez skąpe parę minut, dowiedziałem się... [i]dwóch rzeczy;[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds11": {
+        "en": "First and most importantly - my instincts had been correct;",
+        "pl": "Po pierwsze i najważniejsze - moje instynkty okazały się słuszne;",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds12": {
+        "en": "On the surface, it was merely a review of a magic show, but I felt... something [i]behind[/i] it. Something of [i]great interest.[/i]",
+        "pl": "Na pierwszy rzut oka to była jedynie recenzja pokazu magicznego, ale wyczułem... coś [i]za[/i] tym. Coś o [i]wielkim znaczeniu.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds16": {
+        "en": "She was [i]indeed[/i] fascinated with the great unanswered questions of metaphysicality.",
+        "pl": "Była [i]rzeczywiście[/i] zafascynowana wielkimi, nierozwiązanymi pytaniami metafizyki.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds17": {
+        "en": "She held a yearning to understand that which could not, ordinarily, be understood.",
+        "pl": "Żywiła tęsknotę, by zrozumieć to, czego zazwyczaj zrozumieć się nie da.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds18": {
+        "en": "What was the other thing?\nYou said you learned two things.",
+        "pl": "Co było tą drugą rzeczą?\nMówiłeś, że dowiedziałeś się dwóch rzeczy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds19": {
+        "en": "That she was thoroughly unhappy with her [i]lot[/i] at Fortuna Hall.",
+        "pl": "Że była całkowicie nieszczęśliwa ze swoim [i]losem[/i] w Fortuna Hall.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds20": {
+        "en": "The theatre owner was a heartless woman who, among other indiscretions, did not compensate Symmetry for her work.",
+        "pl": "Właścicielka teatru była bezduszną kobietą, która, między innymi nietaktami, nie płaciła Symmetry za jej pracę.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds21": {
+        "en": "Hm. A woman after my own heart.",
+        "pl": "Hm. Kobieta w moim typie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds22": {
+        "en": "To put it simply.",
+        "pl": "Mówiąc wprost.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds23": {
+        "en": "So you invited her to come live on the submarine?",
+        "pl": "Więc zaprosiłeś ją, żeby zamieszkała na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds24": {
+        "en": "But she had no family, nor any other connections. She had nowhere else to go.",
+        "pl": "Ale nie miała rodziny ani żadnych innych powiązań. Nie miała dokąd pójść.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds25": {
+        "en": "Did she bring all her props and stuff with her?",
+        "pl": "Przywiozła ze sobą wszystkie swoje rekwizyty i rzeczy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds26": {
+        "en": "Everything she could carry.",
+        "pl": "Wszystko, co mogła unieść.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds27": {
+        "en": "[i]Why?[/i] Was she gonna keep working as an illusionist on the submarine?",
+        "pl": "[i]Czemu?[/i] Miała dalej pracować jako iluzjonistka na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds28": {
+        "en": "No, Miss Silkmoth would be working with me here in the Dream Chamber.",
+        "pl": "Nie, panna Silkmoth miała pracować ze mną tutaj, w Komnacie Snów.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds29": {
+        "en": "I notice she's not here [i]anymore...[/i]",
+        "pl": "Zauważam, że jej tu już [i]nie ma...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds30": {
+        "en": "Hmph. Her tenure with me has come to an end - she has moved on to pastures anew.",
+        "pl": "Hmph. Jej czas ze mną dobiegł końca - przeniosła się na nowe pastwiska.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Symmetry/Section ds31": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr SUS Tadpole": {
+      "Conversation/Zephyr SUS Tadpole/Section ds0": {
+        "en": "It really is [i]fortuitous[/i] that Madam Tadpole found her way to the Mortuga Submarine.",
+        "pl": "To doprawdy [i]szczęśliwy przypadek,[/i] że Madam Tadpole znalazła drogę na Łódź Podwodną Mortuga.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds7": {
+        "en": "I asked her what she was looking for. She said she didn't know.",
+        "pl": "Zapytałem ją, czego szuka. Powiedziała, że nie wie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds9": {
+        "en": "On one occasion, I entered the Captain's Cabin to speak with Magnus-",
+        "pl": "Pewnego razu wszedłem do Kajuty Kapitana, żeby porozmawiać z Magnusem-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds11": {
+        "en": "Not only is she unusually well-suited to living within the confines of the ocean...",
+        "pl": "Jest nie tylko niezwykle dobrze przystosowana do życia w granicach oceanu...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds12": {
+        "en": "...but she was also unusually [i]compatible[/i] with Magnus Mortuga.",
+        "pl": "...ale była też niezwykle [i]zgodna[/i] z Magnusem Mortugą.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds19": {
+        "en": "Huh. I wonder if she knows any of his secrets...",
+        "pl": "Huh. Ciekawe, czy zna którąś z jego tajemnic...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds20": {
+        "en": "She may just.",
+        "pl": "Może właśnie tak.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds21": {
+        "en": "I'm to believe Tadpole had taken it upon herself to discover the source of Mortuga's internal anguish.",
+        "pl": "Mam uwierzyć, że Tadpole wzięła na siebie odkrycie źródła wewnętrznej udręki Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds23": {
+        "en": "In her words; [i]she wished to understand him, so that she could help him.[/i]",
+        "pl": "Jej słowami; [i]chciała go zrozumieć, żeby móc mu pomóc.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds24": {
+        "en": "It was in the course of this endeavour that she begun... [i]scouring the ship[/i] for information.",
+        "pl": "To w toku tego przedsięwzięcia zaczęła... [i]przeszukiwać statek[/i] w poszukiwaniu informacji.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds25": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds26": {
+        "en": "But instead I discovered Tadpole, quite alone, [i]trawling through his bookshelf.[/i]",
+        "pl": "Ale zamiast tego zastałem Tadpole, zupełnie samą, [i]przetrząsającą jego półkę z książkami.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Tadpole/Section ds28": {
+        "en": "As far I know, the two formed a sincere friendship.",
+        "pl": "O ile wiem, ta dwójka nawiązała szczerą przyjaźń.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr SUS Wirman": {
+      "Conversation/Zephyr SUS Wirman/Section ds0": {
+        "en": "That's okay. Tell us anyway.",
+        "pl": "W porządku. Powiedz nam mimo to.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds6": {
+        "en": "Gazing upon the crime scene, much of the tension coiled up in Mr Wirman's body visibly dissipated.",
+        "pl": "Patrząc na miejsce zbrodni, większość napięcia zwiniętego w ciele pana Wirmana widocznie się rozproszyła.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds7": {
+        "en": "And thereafter, he seemed... energised. [i]Galvanized.[/i]",
+        "pl": "A potem wydawał się... naenergetyzowany. [i]Zgalwanizowany.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds8": {
+        "en": "I observed that he did not seem at all saddened - or [i]sorrowed[/i] by the death of Magnus Mortuga.",
+        "pl": "Zauważyłem, że wcale nie wydawał się zasmucony - ani [i]przygnębiony[/i] śmiercią Magnusa Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds9": {
+        "en": "You can't know that. Some people don't always show emotion on the surface.",
+        "pl": "Nie możesz tego wiedzieć. Niektórzy ludzie nie zawsze okazują emocje na zewnątrz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds10": {
+        "en": "I have a [i]curious[/i] observation about Mr Wirman...",
+        "pl": "Mam [i]ciekawą[/i] obserwację na temat pana Wirmana...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds11": {
+        "en": "Unfortunately I haven't had the time to perform an analysis, let [i]alone[/i] propose a hypothesis-",
+        "pl": "Niestety nie miałem czasu, żeby przeprowadzić analizę, nie mówiąc już [i]nawet[/i] o postawieniu hipotezy-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds13": {
+        "en": "Of course - quite true.",
+        "pl": "Oczywiście - jak najbardziej prawda.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds14": {
+        "en": "However, Mr Wirman [h]did[/h] display an emotion. [i]Relief.[/i]",
+        "pl": "Jednakże pan Wirman [h]rzeczywiście[/h] okazał jedną emocję. [i]Ulgę.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds15": {
+        "en": "[i]Relief?[/i]",
+        "pl": "[i]Ulgę?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Wirman/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr SUS Zephyr": {
+      "Conversation/Zephyr SUS Zephyr/Section ds0": {
+        "en": "Eight separate institutions turned me away, asserting that my ideas were, quote; [i]'incompatible with our modern world'.[/i] Heh.",
+        "pl": "Osiem oddzielnych instytucji mnie odrzuciło, twierdząc, że moje idee są, cytuję; [i]'niekompatybilne z naszym nowoczesnym światem'.[/i] Heh.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds6": {
+        "en": "It opened up new ways to study the subconscious mind.",
+        "pl": "Otworzyło to nowe sposoby badania podświadomego umysłu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds7": {
+        "en": "Of course not. However, positioning myself here affords me... [i]other[/i] opportunities.",
+        "pl": "Oczywiście, że nie. Jednakże, ulokowanie się tutaj daje mi... [i]inne[/i] możliwości.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds9": {
+        "en": "They forget, of course, that the [i]'modern world'[/i] is a fleeting and ever-changing thing.",
+        "pl": "Zapominają, rzecz jasna, że [i]'nowoczesny świat'[/i] to rzecz ulotna i wiecznie zmieniająca się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds11": {
+        "en": "The possibility of studying the most important specimen of all...",
+        "pl": "Możliwość zbadania najważniejszego okazu ze wszystkich...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds12": {
+        "en": "So, [i]Dr Zephyr[/i]... I'm guessing you don't have an [i]actual[/i] doctorate?",
+        "pl": "Więc, [i]doktorze Zephyr[/i]... zgaduję, że nie masz [i]prawdziwego[/i] doktoratu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds13": {
+        "en": "Correct. I walk not the path of formal academic recognition. Not for lack of [i]trying[/i], you understand.",
+        "pl": "Zgadza się. Nie kroczę ścieżką formalnego uznania akademickiego. Nie z braku [i]starań,[/i] rozumiecie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds15": {
+        "en": "Indeed, [h]all[/h] of history's greatest scientists battled with such short sighted stubbornness.",
+        "pl": "Rzeczywiście, [h]wszyscy[/h] najwięksi naukowcy w historii zmagali się z taką krótkowzroczną zawziętością.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds16": {
+        "en": "So - you wanna be one of history's greatest scientists? And fundamentally change how we view the world?",
+        "pl": "Więc - chcesz być jednym z największych naukowców w historii? I fundamentalnie zmienić sposób, w jaki postrzegamy świat?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds17": {
+        "en": "-is that so much to ask?",
+        "pl": "-czy to tak wiele, o co prosić?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds18": {
+        "en": "I mean, yeah, it might be.",
+        "pl": "No, tak, chyba trochę tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds19": {
+        "en": "So then how did you end up studying dreams?",
+        "pl": "Więc jak w takim razie skończyłeś, badając sny?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds20": {
+        "en": "It was the result of acquiring a particular [i]specimen.[/i]",
+        "pl": "To był wynik zdobycia pewnego szczególnego [i]okazu.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds21": {
+        "en": "A specimen... like what? An animal?",
+        "pl": "Okazu... jakiego? Zwierzęcia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds22": {
+        "en": "Yeah, I'm picturing like, a - lizard floating in a jar of formaldehyde.",
+        "pl": "Tak, wyobrażam sobie, no wiesz - jaszczurkę unoszącą się w słoiku z formaliną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds23": {
+        "en": "Hmph. Something like that.",
+        "pl": "Hmph. Coś w tym stylu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds24": {
+        "en": "So - what're you working on now? Here in your [i]'Dream Chamber'.[/i]",
+        "pl": "Więc - nad czym teraz pracujesz? Tutaj, w swojej [i]'Komnacie Snów'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds25": {
+        "en": "I am studying subconscious spirit transmissions. Analysing their meaning, their intention.",
+        "pl": "Badam podświadome transmisje duchowe. Analizuję ich znaczenie, ich intencję.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds26": {
+        "en": "Do you need to be in a [i]submarine[/i] to do that?",
+        "pl": "Musisz być w [i]łodzi podwodnej,[/i] żeby to robić?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds27": {
+        "en": "Like what?",
+        "pl": "Na przykład jakich?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds28": {
+        "en": "If [i]her[/i] transmission could be analysed, interpreted-",
+        "pl": "Gdyby [i]jej[/i] transmisję dało się przeanalizować, zinterpretować-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds29": {
+        "en": "-it would be an unparallelled discovery.",
+        "pl": "-byłoby to niezrównane odkrycie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds30": {
+        "en": "Her?",
+        "pl": "Jej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds31": {
+        "en": "A being known only as [i]The Mermaid.[/i]",
+        "pl": "Istoty znanej tylko jako [i]Syrena.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds32": {
+        "en": "A [i]person?[/i]",
+        "pl": "[i]Osoby?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds34": {
+        "en": "I've told you all I know.",
+        "pl": "Powiedziałem wam wszystko, co wiem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds35": {
+        "en": "Then apparently you don't know much at all!",
+        "pl": "Więc najwyraźniej nie wiesz zbyt wiele!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds36": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds40": {
+        "en": "[i]She is all that stirs in the minds of men that they shall never know.[/i]",
+        "pl": "[i]Jest wszystkim, co porusza się w umysłach ludzi, czego nigdy nie poznają.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr SUS Zephyr/Section ds42": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

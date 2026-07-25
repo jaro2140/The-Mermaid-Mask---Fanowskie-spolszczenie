@@ -1,0 +1,715 @@
+{
+  "_meta": {
+    "batch": "Wirman SUS X (9 scen, 137 terminow) - reakcje/obserwacje Wirmana na temat kazdego z 8 pozostalych podejrzanych + na siebie samego. Wirman SUS Wirman (23) rozwija jego biografie - ojciec byl burmistrzem Silkwirm, zaczynal jako dziennikarz, 'Klatwa Sternika' to bestseller w 50 krajach tlumaczony na kolejne jezyki.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 137/137 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Wirman: formalny rejestr, zwracany 'pan' przez Grimoire/Sally (kontynuacja batch_36-39, batch_50) - ironiczny, samoswiadomy pisarz."
+  },
+  "categories": {
+    "Wirman SUS Dirk": {
+      "Conversation/Wirman SUS Dirk/Section ds0": {
+        "en": "I see you met Dirk.",
+        "pl": "Widzę, że poznaliście Dirka.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds7": {
+        "en": "How do you know him?",
+        "pl": "Skąd go pan zna?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds8": {
+        "en": "He's the actor they found to play the lead in the adaptation of my book.",
+        "pl": "To aktor, którego znaleźli, żeby zagrał główną rolę w adaptacji mojej książki.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds9": {
+        "en": "Did you not get a say in that?",
+        "pl": "Nie miał pan nic do powiedzenia w tej sprawie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds10": {
+        "en": "Oh no, that's [h]several[/h] notches above my pay grade.",
+        "pl": "Och nie, to [h]kilka[/h] szczebli powyżej mojej rangi.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds11": {
+        "en": "Sure, they keep me around as 'consultant', but I've found that to be a pretty hollow title-",
+        "pl": "Jasne, trzymają mnie jako 'konsultanta', ale odkryłem, że to dość pusty tytuł-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds12": {
+        "en": "So - how come you two traveled to the submarine together?",
+        "pl": "Więc - jak to się stało, że przypłynęliście na łódź podwodną razem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds14": {
+        "en": "[h]I[/h] traveled to the submarine. Dirk's just taken to following me around, for some reason.",
+        "pl": "[h]Ja[/h] przypłynąłem na łódź podwodną. Dirk po prostu zaczął chodzić za mną, z jakiegoś powodu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds15": {
+        "en": "D'you think he's a good actor, at least?",
+        "pl": "Myśli pan, że przynajmniej jest dobrym aktorem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds16": {
+        "en": "Dirk?\nI, uh...\nHm.",
+        "pl": "Dirk?\nJa, yy...\nHm.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds17": {
+        "en": "He was a good fit for the [h]kind[/h] of film they ended up making - how's that.",
+        "pl": "Dobrze pasował do [h]rodzaju[/h] filmu, jaki ostatecznie nakręcili - co powiecie na to.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds19": {
+        "en": "Maybe he just wants to be your friend.",
+        "pl": "Może po prostu chce być pana przyjacielem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds20": {
+        "en": "He's got plenty of friends back home!",
+        "pl": "Ma mnóstwo przyjaciół w domu!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Dirk/Section ds25": {
+        "en": "It's all decided by the executives over at Wit & Whimsy.",
+        "pl": "Wszystko decydują dyrektorzy w Wit & Whimsy.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Gripp": {
+      "Conversation/Wirman SUS Gripp/Section ds0": {
+        "en": "You met Godrik? What did you think? Personally, I like him.",
+        "pl": "Poznaliście Godrika? Co myślicie? Osobiście go lubię.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds7": {
+        "en": "He gave you the old [i]'Welcome to Mr Gripp's Emporium'[/i] treatment, eh?",
+        "pl": "Zafundował wam to stare [i]'Witajcie w Emporium Pana Grippa'[/i], co?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds8": {
+        "en": "I found him a little irritating - the way he kept waving that cane around...",
+        "pl": "Uznałam go za trochę irytującego - tak, jak wciąż wymachiwał tą laską...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds9": {
+        "en": "That's just what he's like at first, he'll settle down.",
+        "pl": "Po prostu taki jest na początku, uspokoi się.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds10": {
+        "en": "Why does he do it?",
+        "pl": "Czemu to robi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds11": {
+        "en": "One, he's an introvert who falls back on his rehearsed persona when he gets nervous.",
+        "pl": "Po pierwsze, jest introwertykiem, który wraca do swojej wyćwiczonej osobowości, kiedy się denerwuje.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds12": {
+        "en": "Like when meeting someone for the first time...",
+        "pl": "Jak przy poznawaniu kogoś po raz pierwszy...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds14": {
+        "en": "Right. Exactly.",
+        "pl": "No właśnie. Dokładnie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds15": {
+        "en": "What's your other theory?",
+        "pl": "Jaka jest pana druga teoria?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds16": {
+        "en": "He assumes people will find the [h]real[/h] him boring - not worth knowing.",
+        "pl": "Zakłada, że ludzie uznają [h]prawdziwego[/h] jego za nudnego - niewartego poznania.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds17": {
+        "en": "So, I have two theories on this-",
+        "pl": "Więc, mam na to dwie teorie-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds18": {
+        "en": "I don't think your two theories are mutually exclusive. They might both be right.",
+        "pl": "Nie sądzę, żeby pana dwie teorie się wykluczały. Obie mogą być prawdziwe.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds19": {
+        "en": "So what [h]is[/h] the real Gripp like? Once you get to know him?",
+        "pl": "Więc jaki [h]jest[/h] prawdziwy Gripp? Kiedy się go już pozna?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds20": {
+        "en": "I dunno. He's kinda like one of those savants - you know, kind of odd, but seriously gifted-",
+        "pl": "Nie wiem. Jest trochę jak jeden z tych sawantów - no wiecie, trochę dziwny, ale naprawdę utalentowany-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds23": {
+        "en": "-in his case, with uh, cartography? I guess? Navigation?\n",
+        "pl": "-w jego przypadku, w, yy, kartografii? Chyba? Nawigacji?\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Gripp/Section ds25": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Wirman SUS Moon": {
+      "Conversation/Wirman SUS Moon/Section ds0": {
+        "en": "Moon's your lead suspect, I presume?",
+        "pl": "Moon jest waszą główną podejrzaną, jak przypuszczam?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Moon/Section ds6": {
+        "en": "Uh - no? Why would she be?",
+        "pl": "Yy - nie? Czemu miałaby być?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Moon/Section ds7": {
+        "en": "Oh, the - the timeline. She shows up - and [i]bang[/i]. Mortuga murdered.",
+        "pl": "Och, ta - ta oś czasu. Pojawia się - i [i]bum.[/i] Mortuga zamordowany.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Moon/Section ds8": {
+        "en": "Maybe it's just a coincidence.",
+        "pl": "Może to tylko zbieg okoliczności.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Moon/Section ds21": {
+        "en": "I'm just saying - nobody even knows why she's here!",
+        "pl": "Tylko mówię - nikt nawet nie wie, czemu tu jest!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Moon/Section ds24": {
+        "en": "I'm not sure we know why [h]you're[/h] here.",
+        "pl": "Nie jestem pewien, czy wiemy, czemu [h]pan[/h] tu jest.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Moon/Section ds26": {
+        "en": "I already told you!",
+        "pl": "Już wam mówiłem!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Moon/Section ds28": {
+        "en": "Didn't I?\n[i]Genuinely,[/i] I can't remember.",
+        "pl": "Czy nie mówiłem?\n[i]Naprawdę[/i] nie pamiętam.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Mortuga": {
+      "Conversation/Wirman SUS Mortuga/Section ds0": {
+        "en": "Cuts quite a figure, doesn't he? Like something from myth.",
+        "pl": "Robi wrażenie, prawda? Jak coś z mitu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds6": {
+        "en": "He was real, of course. Flesh and blood.",
+        "pl": "Był prawdziwy, oczywiście. Z krwi i kości.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds7": {
+        "en": "I imagine you must've been curious to meet him...",
+        "pl": "Wyobrażam sobie, że musiał pan być ciekaw, żeby go poznać...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds8": {
+        "en": "As anyone would be.",
+        "pl": "Jak każdy by był.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds12": {
+        "en": "Did you get to know him at all?",
+        "pl": "Zdążył go pan w ogóle poznać?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds14": {
+        "en": "It's funny. Going in, I'd heard he was, you know, the strong and silent type...",
+        "pl": "To zabawne. Zanim tu przybyłem, słyszałem, że jest, no wiecie, typem silnym i małomównym...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds15": {
+        "en": "...but I didn't find that to be the case.",
+        "pl": "...ale nie okazało się to prawdą.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds16": {
+        "en": "In his own way...",
+        "pl": "Na swój sposób...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds17": {
+        "en": "So he was friendly with you?",
+        "pl": "Więc był wobec pana przyjacielski?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds18": {
+        "en": "The day I first arrived, he invited me into his cabin - just to talk, apparently.",
+        "pl": "W dniu, kiedy przybyłem, zaprosił mnie do swojej kajuty - podobno po to, żeby po prostu porozmawiać.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds19": {
+        "en": "What did you talk about?",
+        "pl": "O czym rozmawialiście?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds21": {
+        "en": "He asked about my home life, my family - my [i]father[/i]...",
+        "pl": "Pytał o moje życie rodzinne, moją rodzinę - mojego [i]ojca...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds27": {
+        "en": "Not to be rude - but why would Mortuga care about any of that?",
+        "pl": "Nie chcę być niegrzeczny - ale czemu Mortugę miałoby to obchodzić?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds28": {
+        "en": "To this day, I'm not quite sure...",
+        "pl": "Do dziś nie jestem do końca pewien...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds29": {
+        "en": "...I think [i]maybe[/i] he was after some kind of information about the outside world-",
+        "pl": "...myślę, że [i]może[/i] szukał jakichś informacji o świecie zewnętrznym-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds30": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Mortuga/Section ds31": {
+        "en": "-and thought I might be a good source.",
+        "pl": "-i pomyślał, że mógłbym być dobrym źródłem.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Sinthia": {
+      "Conversation/Wirman SUS Sinthia/Section ds0": {
+        "en": "Sinthia? Quite honestly I give her about a week.",
+        "pl": "Sinthia? Szczerze mówiąc, daję jej mniej więcej tydzień.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds7": {
+        "en": "A week until what?",
+        "pl": "Tydzień do czego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds8": {
+        "en": "Until she cracks. Packs it in.",
+        "pl": "Aż pęknie. Rzuci to wszystko.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds9": {
+        "en": "The pressure's already getting to her - I know the signs, believe me.",
+        "pl": "Presja już jej doskwiera - znam te objawy, uwierzcie mi.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds10": {
+        "en": "You think Sinthia's gonna quit being captain?",
+        "pl": "Myśli pan, że Sinthia przestanie być kapitanem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds11": {
+        "en": "It's only a matter of time.",
+        "pl": "To tylko kwestia czasu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds12": {
+        "en": "And you know what - [h]good[/h] - she deserves her freedom. She's still young.",
+        "pl": "I wiecie co - [h]dobrze[/h] - zasługuje na wolność. Jest jeszcze młoda.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds13": {
+        "en": "No need to take on a burden like that. Nobody's even [h]paying[/h] her, for goodness sake.",
+        "pl": "Nie musi brać na siebie takiego ciężaru. Nikt jej nawet nie [h]płaci,[/h] na miłość boską.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds14": {
+        "en": "But then who'll be the captain of the submarine?",
+        "pl": "Ale kto wtedy będzie kapitanem łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds15": {
+        "en": "Nobody! Let it float loose like a piece of driftwood, that's what I say.",
+        "pl": "Nikt! Niech płynie luzem jak kawałek driftwoodu, tak mówię.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds16": {
+        "en": "It's not like we were going anywhere anyway - even when [h]Mortuga[/h] was in charge.",
+        "pl": "I tak nigdzie nie płynęliśmy - nawet kiedy dowodził [h]Mortuga.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds17": {
+        "en": "-maybe Sinthia [h]does[/h] want to take the submarine somewhere.",
+        "pl": "-może Sinthia [h]jednak[/h] chce dopłynąć łodzią podwodną gdzieś.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds18": {
+        "en": "If she does, she's never mentioned it.",
+        "pl": "Jeśli tak, nigdy o tym nie wspomniała.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds19": {
+        "en": "Seemed to me that she wanted to be captain just - to [h]be captain[/h], you know?",
+        "pl": "Wydawało mi się, że chciała być kapitanem po prostu - żeby [h]być kapitanem,[/h] rozumiecie?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Sinthia/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman SUS Symmetry": {
+      "Conversation/Wirman SUS Symmetry/Section ds22": {
+        "en": "No idea. She was just asking what 'research' I'd done into hexes and curses...",
+        "pl": "Nie mam pojęcia. Po prostu pytała, jakie 'badania' przeprowadziłem nad klątwami i urokami...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds23": {
+        "en": "Oh yeah, she was asking about that, too.",
+        "pl": "O tak, o to też pytała.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds24": {
+        "en": "...and was rather disappointed when I told her I'd just made it up.",
+        "pl": "...i była raczej rozczarowana, kiedy powiedziałem jej, że po prostu to zmyśliłem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds26": {
+        "en": "Sym tells me she's halfway through reading Helmsman.",
+        "pl": "Sym mówi mi, że jest w połowie czytania Sternika.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds27": {
+        "en": "-is she enjoying it?",
+        "pl": "-podoba jej się?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds28": {
+        "en": "I guess Sym's into that kinda stuff...",
+        "pl": "Zgaduję, że Sym lubi tego typu rzeczy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds29": {
+        "en": "I thought she was supposed to be an Illusionist.",
+        "pl": "Myślałam, że miała być iluzjonistką.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds30": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds31": {
+        "en": "She wanted to know what I liked about her old [i]magic show[/i] - the one she had in the theatre.",
+        "pl": "Chciała wiedzieć, co mi się podobało w jej starym [i]pokazie magicznym[/i] - tym, który miała w teatrze.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds32": {
+        "en": "And from what I gather, she's been developing a [h]new[/h] act, and wanted some feedback, you know - to get some direction.",
+        "pl": "I z tego, co rozumiem, opracowuje [h]nowy[/h] numer i chciała jakiejś opinii, no wiecie - żeby nadać sobie kierunek.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds36": {
+        "en": "I know what it's like - to make a follow-up to something people liked. It can be daunting.",
+        "pl": "Wiem, jak to jest - stworzyć kontynuację czegoś, co ludziom się spodobało. To może przytłaczać.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds37": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds38": {
+        "en": "You saw her old show?",
+        "pl": "Widział pan jej stary pokaz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Symmetry/Section ds39": {
+        "en": "Yeah. It was pretty good.",
+        "pl": "Tak. Był całkiem dobry.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Tadpole": {
+      "Conversation/Wirman SUS Tadpole/Section ds0": {
+        "en": "Madam Tadpole...",
+        "pl": "Madam Tadpole...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds6": {
+        "en": "Simultaneously the most laid back and most terrifying individual I've ever met.",
+        "pl": "Jednocześnie najbardziej wyluzowana i najbardziej przerażająca osoba, jaką kiedykolwiek spotkałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds7": {
+        "en": "You don't feel it?",
+        "pl": "Nie czujecie tego?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds8": {
+        "en": "Maybe if you get on her bad side...",
+        "pl": "Może jeśli się jej narazi...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds9": {
+        "en": "Terrifying?",
+        "pl": "Przerażająca?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds11": {
+        "en": "...I wouldn't dare. She'd crush me like a twig.",
+        "pl": "...nie ośmieliłbym się. Zmiażdżyłaby mnie jak gałązkę.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds12": {
+        "en": "[i]Every[/i] muscle group.",
+        "pl": "[i]Każda[/i] grupa mięśniowa.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds14": {
+        "en": "Meanwhile, swimming works out every muscle group. Did you know that? I didn't.",
+        "pl": "Tymczasem pływanie ćwiczy każdą grupę mięśniową. Wiedzieliście o tym? Ja nie wiedziałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds18": {
+        "en": "She does look pretty tough.",
+        "pl": "Rzeczywiście wygląda na dość twardą.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds19": {
+        "en": "Who would you say is stronger - Madam Tadpole or Dirk Dansom?",
+        "pl": "Kto pana zdaniem jest silniejszy - Madam Tadpole czy Dirk Dansom?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds20": {
+        "en": "...Dirk's in good shape, but a lot of it's just for show. He's just gotta look good for camera-",
+        "pl": "...Dirk jest w dobrej formie, ale w dużej mierze to tylko na pokaz. Musi po prostu dobrze wyglądać do kamery-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds21": {
+        "en": "I don't think Tadpole's about to fight anyone. She's so chilled out.",
+        "pl": "Nie sądzę, żeby Tadpole miała zamiar z kimś walczyć. Jest taka wyluzowana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds22": {
+        "en": "For now. I worry about what'll happen when - [i]if[/i] - you two name a culprit.",
+        "pl": "Na razie. Martwię się, co się stanie, kiedy - [i]jeśli[/i] - wskażecie sprawcę.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds23": {
+        "en": "You think she might, uh... [i]retaliate?[/i]",
+        "pl": "Myśli pan, że mogłaby, yy... [i]się zemścić?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds24": {
+        "en": "If she does, I'm not gonna be the one to stand in her way.",
+        "pl": "Jeśli tak, nie zamierzam stawać jej na drodze.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds25": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Tadpole/Section ds27": {
+        "en": "To me, she gives off this indisputable [i]'I will destroy you if I see fit to do so'[/i] kind of energy.",
+        "pl": "Dla mnie emanuje tą niepodważalną energią [i]'zniszczę cię, jeśli uznam to za stosowne'.[/i]",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Wirman": {
+      "Conversation/Wirman SUS Wirman/Section ds0": {
+        "en": "So what made you want to become a writer?",
+        "pl": "Więc co sprawiło, że zapragnął pan zostać pisarzem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds6": {
+        "en": "It's all I've ever done. I was given a job writing for a newspaper when I was pretty young.",
+        "pl": "To jedyne, co kiedykolwiek robiłem. Dostałem pracę pisząc dla gazety, kiedy byłem całkiem młody.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds7": {
+        "en": "[h]Given[/h] a job?",
+        "pl": "[h]Dostał[/h] pan pracę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds8": {
+        "en": "Yeah. Friends in high places, you know.",
+        "pl": "Tak. Przyjaciele na wysokich stanowiskach, wiecie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds9": {
+        "en": "Like who?",
+        "pl": "Na przykład kto?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds10": {
+        "en": "My Father was the mayor.",
+        "pl": "Mój ojciec był burmistrzem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds11": {
+        "en": "Ah. That'll do it.",
+        "pl": "Ach. To by wyjaśniało.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds12": {
+        "en": "Sometimes. Other times it was painfully dull.",
+        "pl": "Czasami. Innym razem było to boleśnie nudne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds13": {
+        "en": "Did you enjoy writing for the newspaper?",
+        "pl": "Podobało się panu pisanie dla gazety?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds14": {
+        "en": "I've got tendency to lean towards hyperbole...",
+        "pl": "Mam tendencję do skłaniania się ku hiperboli...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds15": {
+        "en": "For every [i]'Rumor of a Cursed Man Disappearing into the Ocean'[/i]...",
+        "pl": "Na każdą [i]'Plotkę o Przeklętym Mężczyźnie Znikającym w Oceanie'[/i]...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds16": {
+        "en": "[i]Rumor of a cursed ma-[/i] wait, you wrote an article about Mortuga?",
+        "pl": "[i]Plotka o przeklętym mę-[/i] czekaj, napisał pan artykuł o Mortudze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds17": {
+        "en": "Oh, no. I quit before that. I left town and went off to the city to be an author.",
+        "pl": "Och, nie. Odszedłem, zanim do tego doszło. Opuściłem miasteczko i wyjechałem do miasta, żeby zostać autorem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds18": {
+        "en": "And the result... Hex of the Helmsman.",
+        "pl": "A rezultat... Klątwa Sternika.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds19": {
+        "en": "[i]Fifty[/i] national bestseller lists. As we speak, it's being translated into - five, six, seven - [i]eight[/i] more languages.",
+        "pl": "[i]Pięćdziesiąt[/i] krajowych list bestsellerów. W tej chwili jest tłumaczona na - pięć, sześć, siedem - jeszcze [i]osiem[/i] języków.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds20": {
+        "en": "Must be nice. Your first book - and it's a big hit.",
+        "pl": "Musi być miło. Pana pierwsza książka - i od razu wielki hit.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds21": {
+        "en": "I'm not complaining.",
+        "pl": "Nie narzekam.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds22": {
+        "en": "I can see why you'd be writing a sequel.",
+        "pl": "Rozumiem, czemu pisze pan kontynuację.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds23": {
+        "en": "This is how things go - if you get a success, you have to keep it going.",
+        "pl": "Tak to działa - jeśli odniesiesz sukces, musisz go podtrzymywać.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds24": {
+        "en": "I really don't have a choice, do I?",
+        "pl": "Naprawdę nie mam wyboru, prawda?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds25": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds26": {
+        "en": "...and the everyday goings on in Silkwirm weren't always enough to satiate me.",
+        "pl": "...a codzienne wydarzenia w Silkwirm nie zawsze wystarczały, żeby mnie zaspokoić.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Wirman/Section ds27": {
+        "en": "...you'd have ten [i]'Elderly Couple File Complaint over Garbage Collection'.[/i]",
+        "pl": "...miałbyś dziesięć [i]'Starsze Małżeństwo Składa Skargę na Wywóz Śmieci'.[/i]",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman SUS Zephyr": {
+      "Conversation/Wirman SUS Zephyr/Section ds8": {
+        "en": "I don't understand what his deal is, but I already have a headache, so I'm just not gonna worry about it.",
+        "pl": "Nie rozumiem, o co mu chodzi, ale już boli mnie głowa, więc po prostu się tym nie będę martwił.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds9": {
+        "en": "What did he say he was, a [i]Dream Doctor?[/i]",
+        "pl": "Co powiedział, że jest, [i]Doktorem Snów?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds10": {
+        "en": "Great! Good for him.",
+        "pl": "Świetnie! Dobrze dla niego.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds11": {
+        "en": "He's researching spirit energy, I think?",
+        "pl": "Bada energię duchową, tak chyba?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds12": {
+        "en": "Lovely! More power to him.",
+        "pl": "Cudownie! Powodzenia mu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds13": {
+        "en": "And he was the first person to join Mortuga's submarine... because they knew each other from before.",
+        "pl": "I był pierwszą osobą, która dołączyła do łodzi podwodnej Mortugi... bo znali się wcześniej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds14": {
+        "en": "Wonderful! I don't-",
+        "pl": "Wspaniale! Nie-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds15": {
+        "en": "Wait, really? Huh.",
+        "pl": "Czekajcie, naprawdę? Huh.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds16": {
+        "en": "Zephyr's not from Silkwirm though, is he?",
+        "pl": "Zephyr nie jest jednak z Silkwirm, prawda?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds17": {
+        "en": "I don't think so.",
+        "pl": "Nie sądzę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds18": {
+        "en": "Interesting...",
+        "pl": "Interesujące...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds19": {
+        "en": "Ah, well, thanks a lot. Now I have yet another thing to think about.",
+        "pl": "Ach, cóż, wielkie dzięki. Teraz mam jeszcze jedną rzecz do przemyślenia.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman SUS Zephyr/Section ds20": {
+        "en": "Have fun!",
+        "pl": "Baw się dobrze!",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

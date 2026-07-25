@@ -1,0 +1,780 @@
+{
+  "_meta": {
+    "batch": "Sinthia 05 SUSPICION (151 terminow) - kontynuacja luku Sinthii po batch_13 (STATEMENT, 115/266). Glowna scena oskarzenia/przesluchania: kontrakt dowodzenia, sfalszowany podpis Mortugi, akt wlasnosci Gospody Stonetop, historia lodzi Seafoam/Mortuga. Konczy luk Sinthii do sceny 05 wlacznie (266/266 z definicji z PROJECT_STATUS - zostaje jeszcze 06 REPORT, 16 terminow, poza ta liczba).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 119/151 pokryte (Sinthia 55, Grimoire 36, Sally 28). 32 nieprzypisane to mechanika Request/RequestPrefix/RequestSuffix (podpowiedzi tropow) i Section dsNN Choice N/Choice Question (opcje wyboru w mini-grze oskarzenia) - oznaczone wzorem ustalonym w batch_04 ('Grimoire (domniemany)' / 'Grimoire (opcja wyboru)' / '(naglowek wyboru)').",
+    "character_voice": "Sinthia teatralna, ale tu w defensywie/pod presja - duzo wtracen, jakania, nagle wybuchy ('Ah!!'). Grimoire dedukcyjny, precyzyjny. Sally sarkastyczna, przebija watpliwosci.",
+    "puzzle_logic": "Dwie zagadki logiczne w tej scenie (TRANSLATION_GUIDE pkt 4 - spojnosc zagadek): (1) ds55 + Choice 1-3 + ds59 - dowod ze podpis na kontrakcie jest sfalszowany (odpowiedz: dowod w postaci tropu, echo w ds133/134). (2) ds85 + Choice 1-3 + ds88 - jak Sinthia jest prawowita wlascicielka lodzi (odpowiedz: pierwotnie lodz Seafoam, echo w ds135/136). Teksty odpowiedzi (Choice N) i ich powtorzenia w dialogu (ds59/88/133-136) przetlumaczone IDENTYCZNIE dla spojnosci.",
+    "new_glossary_terms": "Command contract -> 'kontrakt dowodczy' (dopisac do GLOSSARY), Inn Deeds -> 'akt wlasnosci [Gospody Stonetop]', Party A/B -> Strona A/Strona B, nowa postac 'Donovan Drummond' (ojczym Sinthii, poprzedni wlasciciel Gospody Stonetop po Mortudze)."
+  },
+  "categories": {
+    "Sinthia 05 SUSPICION": {
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "What allowed Sinthia to officially claim captaincy of the submarine?",
+        "pl": "Co pozwoliło Sinthii oficjalnie objąć dowództwo nad łodzią podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "What document allowed Sinthia to officially claim captaincy of the submarine?",
+        "pl": "Jaki dokument pozwolił Sinthii oficjalnie objąć dowództwo nad łodzią podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "How was Mortuga's contract made?",
+        "pl": "Jak powstał kontrakt Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "How was Mortuga's contract typed?",
+        "pl": "W jaki sposób napisano kontrakt Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Do we have evidence to suggest that Sinthia forged Mortuga's signature?",
+        "pl": "Czy mamy dowód na to, że Sinthia sfałszowała podpis Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "Do we have a record of other signatures, to suggest that Sinthia forged Mortuga's signature on the Contract?",
+        "pl": "Czy mamy zapis innych podpisów, sugerujący, że Sinthia sfałszowała podpis Mortugi na kontrakcie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest3Detail0": {
+        "en": "Which part shows the original submarine?",
+        "pl": "Który fragment przedstawia oryginalną łódź podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "Something that shows Sinthia's connection to the original submarine...",
+        "pl": "Coś, co pokazuje związek Sinthii z oryginalną łodzią podwodną...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "A photograph that shows Sinthia's connection to the original submarine...",
+        "pl": "Fotografia, która pokazuje związek Sinthii z oryginalną łodzią podwodną...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "Something to show the submarine's original design has been altered...",
+        "pl": "Coś, co pokazuje, że oryginalny projekt łodzi podwodnej został zmieniony...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "A diagram to show the submarine's original design has been altered...",
+        "pl": "Diagram pokazujący, że oryginalny projekt łodzi podwodnej został zmieniony...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "What did Sinthia want to give back to Mortuga to undo the purchase of the submarine?",
+        "pl": "Co Sinthia chciała oddać Mortudze, żeby unieważnić zakup łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "What document did Sinthia want to give back to Mortuga to undo the purchase of the submarine?",
+        "pl": "Jaki dokument Sinthia chciała oddać Mortudze, żeby unieważnić zakup łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Request exitClueRequest6Hint0": {
+        "en": "Which part shows who ended up owning the Stonetop Inn?",
+        "pl": "Który fragment pokazuje, kto ostatecznie stał się właścicielem Gospody Stonetop?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestPrefix exitClueRequest3 0": {
+        "en": "Sinthia's family were constructing...",
+        "pl": "Rodzina Sinthii budowała...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestPrefix exitClueRequest3 1": {
+        "en": "Sinthia's family were buying...",
+        "pl": "Rodzina Sinthii kupowała...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestPrefix exitClueRequest3 2": {
+        "en": "Sinthia's family were trying to sell...",
+        "pl": "Rodzina Sinthii próbowała sprzedać...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestPrefix exitClueRequest6 0": {
+        "en": "The deeds show...",
+        "pl": "Akt własności pokazuje...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest3 0": {
+        "en": "...which was known as the Seafoam submarine.",
+        "pl": "...znaną jako łódź podwodna Seafoam.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest3 1": {
+        "en": "...which was known as the Mortuga submarine.",
+        "pl": "...znaną jako łódź podwodna Mortuga.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest3 2": {
+        "en": "...which was known as the Silkwirm submarine.",
+        "pl": "...znaną jako łódź podwodna Silkwirm.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest6 0": {
+        "en": "...is now the owner of the Stonetop Inn.",
+        "pl": "...jest teraz właścicielem Gospody Stonetop.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest6 1": {
+        "en": "...is now the owner of the Seafoam Submarine.",
+        "pl": "...jest teraz właścicielem łodzi podwodnej Seafoam.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/RequestSuffix exitClueRequest6 2": {
+        "en": "...is now the owner of Silkwirm-on-sea.",
+        "pl": "...jest teraz właścicielem Silkwirm nad Morzem.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds0": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds10": {
+        "en": "Okay, but you have to admit - the wording on this thing is kind of [i]vague.[/i]",
+        "pl": "Okej, ale musisz przyznać - sformułowania w tym są dość [i]mętne.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds100": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds101": {
+        "en": "Yeah - the blueprint's from my mother's original design. But as I said, that version was never completed.",
+        "pl": "Tak - ten plan pochodzi z oryginalnego projektu mojej matki. Ale jak mówiłam, ta wersja nigdy nie została ukończona.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds102": {
+        "en": "I've been trying to update it to show how the submarine looks now - the design changed a bit after Mortuga bought it...",
+        "pl": "Próbowałam go uaktualnić, żeby pokazać, jak łódź wygląda teraz - projekt trochę się zmienił, odkąd kupił ją Mortuga...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds103": {
+        "en": "Wait - if Mortuga bought it, then he [h]did[/h] own it.",
+        "pl": "Czekaj - jeśli Mortuga ją kupił, to [h]jednak[/h] był jej właścicielem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds104": {
+        "en": "It wasn't a legitimate purchase. It wasn't my father's to sell.",
+        "pl": "To nie był legalny zakup. Mój ojciec nie miał prawa jej sprzedać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds106": {
+        "en": "So - the [i]'recent development'[/i] mentioned in the contract... that was-",
+        "pl": "Czyli ten [i]'niedawny rozwój sytuacji'[/i] wspomniany w kontrakcie... to było-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds107": {
+        "en": "That was me, informing Mortuga that his ownership of the submarine was based on an illegitimate purchase.",
+        "pl": "To byłam ja, informująca Mortugę, że jego własność łodzi opierała się na nielegalnym zakupie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds108": {
+        "en": "My intention was to refund his payment and undo the transaction, placing the submarine back into my ownership.",
+        "pl": "Zamierzałam zwrócić mu zapłatę i unieważnić transakcję, odzyskując łódź na własność.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds109": {
+        "en": "[i]Refund the payment[/i]... you tried to give him his [h]money[/h] back?",
+        "pl": "[i]Zwrócić zapłatę[/i]... próbowałaś oddać mu [h]pieniądze?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds11": {
+        "en": "It doesn't actually say; [i]'Hi everyone, Mortuga here, Sinthia gets to be captain if I die.'[/i]",
+        "pl": "Właściwie to tam nie ma napisane; [i]'Cześć wszystkim, tu Mortuga, Sinthia zostaje kapitanem, jeśli umrę.'[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds110": {
+        "en": "Not money. Something else.",
+        "pl": "Nie pieniądze. Coś innego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds111": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds112": {
+        "en": "The deeds to the Stonetop Inn.\n",
+        "pl": "Akt własności Gospody Stonetop.\n",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds113": {
+        "en": "Originally owned by the Stonetop family, until it was passed into the ownership of Magnus Mortuga. And then-",
+        "pl": "Pierwotnie należała do rodziny Stonetop, dopóki nie przeszła na własność Magnusa Mortugi. A potem-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds114": {
+        "en": "The deeds passed from Mortuga to Donovan Drummond. Sinthia's stepfather.",
+        "pl": "Akt własności przeszedł od Mortugi do Donovana Drummonda. Ojczyma Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds115": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds116": {
+        "en": "So [i]that's[/i] how Mortuga paid for the submarine... he sold his house, basically.",
+        "pl": "Więc [i]tak[/i] Mortuga zapłacił za łódź... sprzedał swój dom, w zasadzie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds117": {
+        "en": "I came aboard with the intention of giving the Stonetop Inn back to Mortuga, in exchange for my mother's submarine.",
+        "pl": "Wsiadłam na pokład z zamiarem oddania Gospody Stonetop Mortudze, w zamian za łódź mojej matki.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds118": {
+        "en": "And... that's exactly what I did.",
+        "pl": "I... dokładnie to zrobiłam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds119": {
+        "en": "But - did Mortuga actually [h]accept[/h] your offer?",
+        "pl": "Ale - czy Mortuga faktycznie [h]przyjął[/h] twoją ofertę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds122": {
+        "en": "When I first made the proposal... he didn't give me an answer either way.",
+        "pl": "Kiedy pierwszy raz złożyłam tę propozycję... nie dał mi żadnej odpowiedzi.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds123": {
+        "en": "He looked at the Inn Deeds very closely... read the whole thing, front and back.",
+        "pl": "Przyjrzał się aktowi własności gospody bardzo uważnie... przeczytał wszystko, od deski do deski.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds124": {
+        "en": "Then he handed them back, and told me he'd need some time.",
+        "pl": "Potem oddał mi go i powiedział, że potrzebuje czasu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds125": {
+        "en": "Before I heard anything else about it... he was killed. ",
+        "pl": "Zanim usłyszałam cokolwiek więcej... został zabity. ",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds126": {
+        "en": "But then I found the command contract.",
+        "pl": "Ale wtedy znalazłam kontrakt dowódczy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds127": {
+        "en": "It seemed like he'd decided to accept my proposal after all - and just... not had a chance to tell me.",
+        "pl": "Wyglądało na to, że jednak zdecydował się przyjąć moją propozycję - po prostu... nie zdążył mi powiedzieć.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds128": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds13": {
+        "en": "Let's review, shall we?\nAhem;",
+        "pl": "Podsumujmy, dobrze?\nAhem;",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds130": {
+        "en": "After reading it, I could come to only one conclusion;",
+        "pl": "Po przeczytaniu tego, mogłam dojść tylko do jednego wniosku;",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds131": {
+        "en": "Obviously, I thought I'd never find out what his decision was...",
+        "pl": "Oczywiście, myślałam, że nigdy nie dowiem się, jaka była jego decyzja...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds132": {
+        "en": "Wow, I bet he loved that.",
+        "pl": "Wow, założę się, że to uwielbiał.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds133": {
+        "en": "We have no evidence.",
+        "pl": "Nie mamy żadnych dowodów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds134": {
+        "en": "We have anecdotal evidence.",
+        "pl": "Mamy dowody poszlakowe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds135": {
+        "en": "Sinthia is Mortuga's daughter.",
+        "pl": "Sinthia jest córką Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds136": {
+        "en": "Mortuga sold the submarine to Sinthia before he died.",
+        "pl": "Mortuga sprzedał łódź Sinthii, zanim umarł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds137": {
+        "en": "...Mortuga had the contract typed up - but then never signed it?",
+        "pl": "...Mortuga zlecił napisanie kontraktu - ale nigdy go nie podpisał?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds138": {
+        "en": "Just the way it's meant to be, right. We got it.",
+        "pl": "Po prostu tak, jak ma być, tak? Rozumiemy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds14": {
+        "en": "[i]'This contract represents an agreement between the two individuals in contention over the ownership and command of the Mortuga submarine.'[/i]",
+        "pl": "[i]'Niniejszy kontrakt stanowi porozumienie między dwiema osobami spierającymi się o własność i dowództwo nad łodzią podwodną Mortuga.'[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds15": {
+        "en": "The two individuals - that's you and Mortuga?",
+        "pl": "Te dwie osoby - to ty i Mortuga?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds16": {
+        "en": "Indeed.",
+        "pl": "Istotnie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds17": {
+        "en": "But you're not actually named, uh - by [i]name.[/i]",
+        "pl": "Ale w ogóle nie jesteś tam wymieniona, yy - z [i]imienia.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds18": {
+        "en": "If I may continue?",
+        "pl": "Czy mogę kontynuować?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds19": {
+        "en": "[i]'For their own safety and privacy, these two people shall only be referred to as Party A and Party B.'[/i]",
+        "pl": "[i]'Dla własnego bezpieczeństwa i prywatności, te dwie osoby będą określane wyłącznie jako Strona A i Strona B.'[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds20": {
+        "en": "See? Mortuga was quite a private person. He was just being considerate.",
+        "pl": "Widzisz? Mortuga był dość skrytą osobą. Po prostu był taktowny.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds21": {
+        "en": "So Mortuga is Party A?",
+        "pl": "Czyli Mortuga to Strona A?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds22": {
+        "en": "You call it considerate...\nI call it [h]convenient.[/h]",
+        "pl": "Ty nazywasz to taktem...\nJa nazywam to [h]wygodnym.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds23": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds24": {
+        "en": "[i]'Previously, Party A has been considered the legal owner of the Mortuga submarine, and thus its rightful commander.'[/i]",
+        "pl": "[i]'Dotychczas Strona A była uznawana za prawowitego właściciela łodzi podwodnej Mortuga, a tym samym jej prawowitego dowódcę.'[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds25": {
+        "en": "He's clearly talking about himself. It's the Mortuga submarine, after all, and he was the commander.",
+        "pl": "Ewidentnie mówi o sobie samym. To w końcu łódź podwodna Mortuga, a to on był dowódcą.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds26": {
+        "en": "[i]'However, a recent development has exposed that Party B is in fact the legal owner of this vessel.'[/i]",
+        "pl": "[i]'Jednakże niedawny rozwój sytuacji ujawnił, że w rzeczywistości to Strona B jest prawowitym właścicielem tego statku.'[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds27": {
+        "en": "Party B - that's you?",
+        "pl": "Strona B - to ty?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds28": {
+        "en": "Affirmative.",
+        "pl": "Potwierdzam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds29": {
+        "en": "[i]'A recent development...'[/i]\nThere's more of that deliberately vague wording.",
+        "pl": "[i]'Niedawny rozwój sytuacji...'[/i]\nZnowu to celowo mętne sformułowanie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds30": {
+        "en": "I have a question. When exactly did Mortuga [h]write[/h] this contract?",
+        "pl": "Mam pytanie. Kiedy dokładnie Mortuga [h]napisał[/h] ten kontrakt?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds31": {
+        "en": "When... [i]exactly?[/i]",
+        "pl": "Kiedy... [i]dokładnie?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds32": {
+        "en": "I don't actually know-",
+        "pl": "Właściwie to nie wiem-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds33": {
+        "en": "You don't know when he [i]wrote[/i] it??",
+        "pl": "Nie wiesz, kiedy on to [i]napisał[/i]??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds34": {
+        "en": "Well, it must've been some time after I came aboard the submarine.",
+        "pl": "Cóż, musiało to być jakiś czas po tym, jak wsiadłam na łódź.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds35": {
+        "en": "I assume it was after I'd... uh - [i]presented my case[/i] to him.",
+        "pl": "Zakładam, że było to po tym, jak... yy - [i]przedstawiłam mu swoją sprawę.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds36": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds37": {
+        "en": "[h]Sinthia[/h] might not know, but we actually have some insight on this-",
+        "pl": "[h]Sinthia[/h] może nie wiedzieć, ale my akurat mamy na ten temat pewien wgląd-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds38": {
+        "en": "For one - we know how the contract was written - how it was actually [h]created,[/h] I mean.",
+        "pl": "Po pierwsze - wiemy, jak ten kontrakt został napisany - to znaczy, jak został właściwie [h]stworzony.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds39": {
+        "en": "It was typed on Wirman's typewriter - so it was made some time [i]after[/i] Wirman arrived.",
+        "pl": "Został wystukany na maszynie do pisania Wirmana - czyli powstał jakiś czas [i]po[/i] przybyciu Wirmana.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds40": {
+        "en": "- and - and Wirman and Dirk arrived after I did! So this gets me off the hook!!",
+        "pl": "- a - a Wirman i Dirk przybyli po mnie! Więc to mnie oczyszcza z zarzutów!!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds41": {
+        "en": "Try not to sound [h]too[/h] relieved. But yeah, this does seem to confirm it.",
+        "pl": "Postaraj się nie brzmieć [h]aż tak[/h] odprężona. Ale tak, to chyba to potwierdza.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds42": {
+        "en": "So, my next question is this: When did you [h]sign[/h] the contract?",
+        "pl": "Więc, moje następne pytanie brzmi: Kiedy [h]podpisałaś[/h] ten kontrakt?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds43": {
+        "en": "Umm... a little while ago?\nSome... amount of time ago?",
+        "pl": "Yy... jakiś czas temu?\nJakąś... ilość czasu temu?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds44": {
+        "en": "[i]If this conversation gets any more vague I'm going to cry.[/i]",
+        "pl": "[i]Jeśli ta rozmowa zrobi się jeszcze bardziej mętna, to się rozpłaczę.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds45": {
+        "en": "Was it... a [i]day[/i] before the murder? A [i]week?[/i]",
+        "pl": "Czy to był... [i]dzień[/i] przed morderstwem? [i]Tydzień?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds46": {
+        "en": "Ummm...",
+        "pl": "Yyy...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds47": {
+        "en": "Surely it was at [h]some[/h] point before the murder. Otherwise...",
+        "pl": "Na pewno było to [h]w jakimś[/h] momencie przed morderstwem. W przeciwnym razie...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds48": {
+        "en": "I think it might be time to make an accusation.",
+        "pl": "Chyba czas postawić zarzut.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds49": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds50": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds51": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds52": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds53": {
+        "en": "Ah!!",
+        "pl": "Ach!!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds54": {
+        "en": "Such a [h]rude[/h] accusation!\nSo rude!",
+        "pl": "Cóż za [h]niegrzeczny[/h] zarzut!\nJaki niegrzeczny!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds55": {
+        "en": "Do you have any evidence that it's been forged?",
+        "pl": "Masz jakiś dowód, że został sfałszowany?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds55 Choice 1": {
+        "en": "We have evidence in the form of a clue.",
+        "pl": "Mamy dowód w postaci tropu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds55 Choice 2": {
+        "en": "We have anecdotal evidence.",
+        "pl": "Mamy dowody poszlakowe.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds55 Choice 3": {
+        "en": "We have no evidence.",
+        "pl": "Nie mamy żadnych dowodów.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds55 Choice Question": {
+        "en": "...is there any evidence that Sinthia forged Mortuga's signature?",
+        "pl": "...czy istnieje jakiś dowód na to, że Sinthia sfałszowała podpis Mortugi?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds59": {
+        "en": "We have evidence in the form of a clue.",
+        "pl": "Mamy dowód w postaci tropu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds6": {
+        "en": "Sinthia - you became captain after Mortuga died?",
+        "pl": "Sinthia - zostałaś kapitanem po śmierci Mortugi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds60": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds61": {
+        "en": "I assure you, that is Mortuga's [h]exact[/h] signature. ",
+        "pl": "Zapewniam cię, to jest [h]dokładnie[/h] podpis Mortugi. ",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds62": {
+        "en": "The captain's log. It's basically a stack of cards printed out by the submarine's control panel.",
+        "pl": "Dziennik pokładowy. To w zasadzie stos kart drukowanych przez panel sterowania łodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds63": {
+        "en": "Each little card has a space for the captain to sign...",
+        "pl": "Na każdej małej karcie jest miejsce na podpis kapitana...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds64": {
+        "en": "...and the most recent card is signed by you, Sinthia. All the rest are signed by Mortuga.",
+        "pl": "...a najnowsza karta jest podpisana przez ciebie, Sinthio. Wszystkie pozostałe są podpisane przez Mortugę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds65": {
+        "en": "Well. [i]Sort of.[/i]",
+        "pl": "Cóż. [i]W pewnym sensie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds66": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds67": {
+        "en": "Uhhh... yeah? It's a perfect match! What's the [i]problem?[/i]",
+        "pl": "Yyy... no i? To idealne dopasowanie! Jaki jest [i]problem?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds68": {
+        "en": "The perfect match [h]is[/h] the problem.",
+        "pl": "Idealne dopasowanie [h]jest[/h] problemem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds69": {
+        "en": "You were too [i]accurate[/i]. If you'd done a worse job, you might've gotten away with it.",
+        "pl": "Byłaś zbyt [i]dokładna[/i]. Gdybyś spisała się gorzej, może uszłoby ci to na sucho.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds7": {
+        "en": "Yup - it's just the way it's meant to b-",
+        "pl": "Taa - to po prostu jest tak, jak ma by-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds70": {
+        "en": "...what do you mean?",
+        "pl": "...co masz na myśli?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds71": {
+        "en": "If you look through the cards, Mortuga never signs his name the same way twice.",
+        "pl": "Jeśli przejrzysz te karty, zauważysz, że Mortuga nigdy nie podpisuje się dwa razy tak samo.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds73": {
+        "en": "But the signature on the contract matches one of them [h]exactly.[/h]",
+        "pl": "Ale podpis na kontrakcie pasuje do jednego z nich [h]idealnie.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds74": {
+        "en": "Which seems to be proof that you copied it. Or, traced it, or whatever it was.",
+        "pl": "Co wygląda na dowód, że go skopiowałaś. Albo przerysowałaś, czy cokolwiek to było.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds75": {
+        "en": "Oh. Whoops.\nDidn't notice that.",
+        "pl": "Och. Ups.\nNie zauważyłam tego.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds76": {
+        "en": "I thought it was his signature... why doesn't he have a signature?",
+        "pl": "Myślałam, że to jego podpis... czemu on nie ma stałego podpisu?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds77": {
+        "en": "So if Sinthia forged the signature, that means...",
+        "pl": "Więc jeśli Sinthia sfałszowała podpis, to znaczy, że...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds78": {
+        "en": "Right after Mortuga was killed, I went looking to see if he'd written a will.",
+        "pl": "Zaraz po tym, jak Mortugę zabito, poszłam sprawdzić, czy spisał testament.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds79": {
+        "en": "That's when I found it. Laying inside the little hatch in the control panel.",
+        "pl": "Wtedy to znalazłam. Leżało w małym włazie panelu sterowania.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds8": {
+        "en": "But, uh - there was something you [i]used[/i] to claim the captaincy? A document?",
+        "pl": "Ale, yy - było coś, czego [i]użyłaś[/i], żeby objąć dowództwo? Jakiś dokument?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds80": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds81": {
+        "en": "I grabbed it and hurried back to my room to read it.",
+        "pl": "Chwyciłam to i pospiesznie wróciłam do swojego pokoju, żeby to przeczytać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds82": {
+        "en": "That he wrote it about [i]me[/i], but never got a chance to [i]show[/i] it to me.",
+        "pl": "Że napisał to o [i]mnie[/i], ale nigdy nie zdążył mi tego [i]pokazać.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds83": {
+        "en": "Remind me why you were so sure it was written about you?",
+        "pl": "Przypomnij mi, czemu byłaś tak pewna, że to zostało napisane o tobie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds84": {
+        "en": "[i]'...a recent development has exposed that Party B is in fact the [h]legal owner[/h] of this vessel.'[/i]",
+        "pl": "[i]'...niedawny rozwój sytuacji ujawnił, że w rzeczywistości to Strona B jest [h]prawowitym właścicielem[/h] tego statku.'[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds85": {
+        "en": "...you're really the [i]legal owner[/i] of the Mortuga submarine?",
+        "pl": "...naprawdę jesteś [i]prawowitą właścicielką[/i] łodzi podwodnej Mortuga?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds85 Choice 1": {
+        "en": "It was originally the [i]Seafoam[/i] Submarine.",
+        "pl": "Pierwotnie była to łódź podwodna [i]Seafoam.[/i]",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds85 Choice 2": {
+        "en": "Mortuga sold the submarine to Sinthia before he died.",
+        "pl": "Mortuga sprzedał łódź Sinthii, zanim umarł.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds85 Choice 3": {
+        "en": "Sinthia is Mortuga's daughter.",
+        "pl": "Sinthia jest córką Mortugi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds85 Choice Question": {
+        "en": "How is Sinthia the legal owner of the Mortuga submarine?",
+        "pl": "W jaki sposób Sinthia jest prawowitą właścicielką łodzi podwodnej Mortuga?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds88": {
+        "en": "It was originally the [i]Seafoam[/i] Submarine.",
+        "pl": "Pierwotnie była to łódź podwodna [i]Seafoam.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds9": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds91": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds93": {
+        "en": "This was back when it was still being built...",
+        "pl": "To było wtedy, gdy wciąż była budowana...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds94": {
+        "en": "The Seafoam submarine... was never completed.",
+        "pl": "Łódź podwodna Seafoam... nigdy nie została ukończona.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds95": {
+        "en": "We got close.\nAnd - then we stopped.",
+        "pl": "Byliśmy blisko.\nA potem - przestaliśmy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds96": {
+        "en": "It lay rusting in the shipyard for some time. Mortuga would eventually purchase it from my father.",
+        "pl": "Leżała, rdzewiejąc w stoczni przez jakiś czas. W końcu Mortuga odkupił ją od mojego ojca.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds98": {
+        "en": "At which point it was altered, completed, and renamed the [h]Mortuga[/h] submarine.",
+        "pl": "Wtedy właśnie została przerobiona, dokończona i przemianowana na łódź podwodną [h]Mortuga.[/h]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 05 SUSPICION/Section ds99": {
+        "en": "Altered...?",
+        "pl": "Przerobiona...?",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Sinthia 05 SUSPICION/ds133-138",
+      "problem": "Bloki ds133/134 (echo Choice 2/3 z ds55) i ds135/136 (echo Choice 2/3 z ds85) pojawiaja sie jako osobne linie dialogowe pod koniec sceny, przypisane Grimoire/Sally, po ds132 'Wow, I bet he loved that.' i przed ds137/138. Nie jest jasne z samego plaskiego eksportu I2Loc czy to (a) powtorka/rekapitulacja bledych opcji ktore gracz MOGL wybrac wczesniej (galaz dialogowa dla zlych odpowiedzi), czy (b) osobny, rownolegly watek. Przetlumaczono spojnie z oryginalnymi Choice-ami (identyczny tekst PL gdzie EN identyczny), a ds138 'Just the way it's meant to be, right. We got it.' polaczono stylistycznie z ds7 Sinthii ('to po prostu jest tak, jak ma byc') jako celowe echo/nawiazanie - do potwierdzenia w grze czy ten fragment faktycznie nastepuje w tej kolejnosci."
+    },
+    {
+      "term": "Sinthia 05 SUSPICION/ds123 'Inn Deeds'",
+      "problem": "Pierwsze pelne uzycie nazwy dowodu 'Inn Deeds' (osobna od 'the deeds to the Stonetop Inn' z ds112) - przetlumaczone opisowo jako 'aktowi wlasnosci gospody' (przypadek celownik). Sugeruje dopisanie formalnej nazwy do GLOSSARY ('Inn Deeds' -> 'Akt Wlasnosci Gospody') przy nastepnej okazji, gdy pojawi sie jako samodzielna nazwa dowodu (np. w kategorii Clues)."
+    }
+  ]
+}

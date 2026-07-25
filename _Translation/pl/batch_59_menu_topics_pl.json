@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "batch": "Conversation/Menu (18 terminow) - etykiety UI menu tematow rozmowy ('ask about...', kategorie Podstawy/Tropy/Podejrzani itd. widoczne w interfejsie przesluchania), nie dialog postaci.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "Brak w speaker_map.json (nie sa czescia dialogueSections) - to etykiety UI, oznaczone '(UI - menu)'.",
+    "note": "'The Mortuga Submarine' -> 'Łódź Podwodna Mortuga' zgodnie z ustalonym wzorcem tlumaczenia (GLOSSARY, Lokacje). 'Cane'/'Locket'/'Pipe' to skrocone etykiety menu odnoszace sie do znanych juz dowodow (Cornelius Cane, medalion Moon, Drewniana Rura) - przetlumaczone jako rzeczowniki pospolite zgodnie z kontekstem menu."
+  },
+  "categories": {
+    "Menu": {
+      "Conversation/Menu/AskAbout Basics": {
+        "en": "ask about",
+        "pl": "zapytaj o",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/AskAbout Clues": {
+        "en": "ask about",
+        "pl": "zapytaj o",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/AskAbout Suspects": {
+        "en": "ask about",
+        "pl": "zapytaj o",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Basics": {
+        "en": "Basics",
+        "pl": "Podstawy",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Cane": {
+        "en": "Cane",
+        "pl": "Laska",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Check Case File": {
+        "en": "Check Case File",
+        "pl": "Sprawdź Akta Sprawy",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Clues": {
+        "en": "Clues",
+        "pl": "Tropy",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/First Encounter": {
+        "en": "First Encounter",
+        "pl": "Pierwsze Spotkanie",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Locket": {
+        "en": "Locket",
+        "pl": "Medalion",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Night of the Murder": {
+        "en": "Night of the Murder",
+        "pl": "Noc Morderstwa",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Pipe": {
+        "en": "Pipe",
+        "pl": "Rura",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Report": {
+        "en": "Report",
+        "pl": "Raport",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/ReportClues": {
+        "en": "Clues ",
+        "pl": "Tropy ",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/ReportSuspicions": {
+        "en": "Suspicions",
+        "pl": "Podejrzenia",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Suspects": {
+        "en": "Suspects",
+        "pl": "Podejrzani",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Suspicion": {
+        "en": "Suspicion",
+        "pl": "Podejrzenie",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/The Mortuga Submarine": {
+        "en": "The Mortuga Submarine",
+        "pl": "Łódź Podwodna Mortuga",
+        "speaker": "(UI - menu)"
+      },
+      "Conversation/Menu/Yourself": {
+        "en": "Yourself",
+        "pl": "O sobie",
+        "speaker": "(UI - menu)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Conversation/Menu - etykiety skrocone (Cane/Locket/Pipe)",
+      "problem": "Te trzy etykiety to prawdopodobnie skrocone nazwy przyciskow menu odnoszace sie do konkretnych dowodow (Cornelius Cane, medalion Moon/Symmetry, Drewniana Rura) - przetlumaczono jako ogolne rzeczowniki ('Laska', 'Medalion', 'Rura') bez pewnosci czy to poprawny kontekst UI (np. czy 'Cane' to menu do pytania o Corneliusa, czy cos innego) - do sprawdzenia wizualnie w grze."
+    }
+  ]
+}

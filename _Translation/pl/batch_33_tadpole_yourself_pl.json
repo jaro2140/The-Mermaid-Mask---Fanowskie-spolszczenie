@@ -1,0 +1,174 @@
+{
+  "_meta": {
+    "batch": "Tadpole 02 YOURSELF (32 terminow) - kontynuacja luku Tadpole po batch_32 (13/245). Kluczowa historia: Mortuga uratowal Tadpole przed utonieciem podczas glebokiego nurkowania - stad jej lojalnosc wobec niego (spojne z opisem Moon z batch_24: Tadpole domaga sie sprawiedliwosci dla 'swojego zamordowanego kapitana').",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 32/32 pokryte: Tadpole 19, Grimoire 8, Sally 5",
+    "character_voice": "Tadpole: pewna siebie, bezposrednia, lekko tajemnicza co do przeszlosci (patrz batch_32)."
+  },
+  "categories": {
+    "Tadpole 02 YOURSELF": {
+      "Conversation/Tadpole 02 YOURSELF/Section ds0": {
+        "en": "So, Madam Tadpole.\nYou're a professional [i]swimmer...?[/i] Or a professional [i]mermaid?[/i]",
+        "pl": "Więc, Madam Tadpole.\nJesteś zawodową [i]pływaczką...?[/i] Czy zawodową [i]syreną?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds10": {
+        "en": "Nope, it's a tattoo.\nSorry to disappoint.",
+        "pl": "Nie, to tatuaż.\nPrzykro mi, że rozczarowuję.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds11": {
+        "en": "I've always been real good at holding my breath underwater. Like [h]scary[/h] good.",
+        "pl": "Zawsze byłam naprawdę dobra w wstrzymywaniu oddechu pod wodą. Jak [h]przerażająco[/h] dobra.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds12": {
+        "en": "It's cool. Why d'you get it?",
+        "pl": "Fajne. Czemu go sobie zrobiłaś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds13": {
+        "en": "How come you're here on the submarine?",
+        "pl": "Czemu jesteś tu, na łodzi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds15": {
+        "en": "The other kids used to call me [i]fishgirl.[/i]",
+        "pl": "Inne dzieciaki nazywały mnie kiedyś [i]rybią dziewczyną.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds18": {
+        "en": "Okay, so, I like to go diving - in the sea. [h]Deep.[/h]",
+        "pl": "Okej, więc, lubię nurkować - w morzu. [h]Głęboko.[/h]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds19": {
+        "en": "He brought me back.\nI owe him my life.",
+        "pl": "Sprowadził mnie z powrotem.\nZawdzięczam mu życie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds20": {
+        "en": "Somehow, Magnus found me. Pulled me into his submarine.",
+        "pl": "Jakoś Magnus mnie znalazł. Wciągnął na swoją łódź.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds21": {
+        "en": "So - Mortuga saved you from drowning... and you just decided to stay?",
+        "pl": "Więc - Mortuga uratował cię przed utonięciem... i po prostu postanowiłaś zostać?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds22": {
+        "en": "It's where I belong - the ocean.",
+        "pl": "Tam jest moje miejsce - w oceanie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds23": {
+        "en": "I had my fill of living on land.\nI've got no interest in going back.",
+        "pl": "Miałam dość życia na lądzie.\nNie mam ochoty wracać.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds24": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds25": {
+        "en": "Anyway so one time I went [h]too[/h] deep. I wasn't gonna come back up.",
+        "pl": "W każdym razie, raz zeszłam [h]za[/h] głęboko. Nie miałam wrócić na powierzchnię.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds26": {
+        "en": "Oh, like with an oxygen tank and a mask-",
+        "pl": "O, jak z butlą tlenową i maską-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds27": {
+        "en": "No no no, I don't use any of that stuff.\n",
+        "pl": "Nie, nie, nie, nie używam niczego takiego.\n",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds29": {
+        "en": "I was pretty much done for.",
+        "pl": "Było ze mną praktycznie po wszystkim.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds32": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds33": {
+        "en": "Wait, so, are you [h]from[/h] Silkwirm? Were you living in the town?",
+        "pl": "Czekaj, więc jesteś [h]z[/h] Silkwirm? Mieszkałaś w miasteczku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds34": {
+        "en": "Nope. I'm from [i]faaar[/i] away.",
+        "pl": "Nie. Jestem z [i]daaaleka.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds35": {
+        "en": "...then how come you were diving into [i]this[/i] bit of ocean?",
+        "pl": "...to czemu nurkowałaś w [i]tym[/i] akurat kawałku oceanu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds36": {
+        "en": "Oh. Well, yeah, I was visiting the town... for work.",
+        "pl": "Och. No, tak, odwiedzałam miasteczko... służbowo.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds37": {
+        "en": "What [i]kinda[/i] work?",
+        "pl": "Jaką [i]niby[/i] pracę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds38": {
+        "en": "Uh... [i]performance art.[/i] Kinda.",
+        "pl": "Yy... [i]sztukę performatywną.[/i] Coś w tym stylu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds39": {
+        "en": "Like I said, I'm done with all that.",
+        "pl": "Jak mówiłam, skończyłam z tym wszystkim.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds41": {
+        "en": "I'd say they had it right.",
+        "pl": "Powiedziałabym, że mieli rację.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds42": {
+        "en": "Ah, kids can be mean-",
+        "pl": "Ach, dzieci potrafią być okrutne-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds6": {
+        "en": "I'm not a professional anything, not anymore.",
+        "pl": "Nie jestem już zawodowo niczym, już nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds7": {
+        "en": "I'm done with all that.",
+        "pl": "Skończyłam z tym wszystkim.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds8": {
+        "en": "Do you have [i]gills?[/i]",
+        "pl": "Masz [i]skrzela?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 02 YOURSELF/Section ds9": {
+        "en": "Hahaha!",
+        "pl": "Hahaha!",
+        "speaker": "Tadpole"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

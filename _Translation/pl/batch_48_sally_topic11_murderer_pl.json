@@ -1,0 +1,614 @@
+{
+  "_meta": {
+    "batch": "Sally Topic 11 A Murderer... (119 terminow) - scena mechaniki dedukcji Grimoire/Sally rekonstruujaca DOKLADNY mechanizm morderstwa (bez udzialu podejrzanych) - naturalne uzupelnienie odkrycia z 'Godrik Conversation 4' (batch_47). Zawiera powtorzone nagrania 'Pipe' z ta sama tresci co linie Mortugi/Grippa w Godrik Conversation 3 (potwierdza mechanizm: te rozmowy w kajucie kapitana zostaly nagrane przez fajke-dyktafon Moon i teraz sa odtwarzane jako dowod) - zachowano identyczne tlumaczenie tych powtorzonych fragmentow dla spojnosci. Zawiera tez mechanike '[Mind Game]' (ds46) - widoczny dla gracza tekst z separatorami '/' do ulozenia, przetlumaczony w calosci (nie tylko naglowek bracket).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 84/119 pokryte. Nieprzypisane (35): Request (15, exitClueRequest0-6) + 5 Choice setow (ds1/ds16/ds22/ds25/ds29, po 4) - standardowe 'Grimoire (domniemany)'/'Grimoire (opcja wyboru)'/'(naglowek wyboru)'.",
+    "engine_tokens": "Bracket-comma-combined tokeny ([Present Clue, Hex Memory, ...], [clue detail present, ...]) pozostawione literalnie bez tlumaczenia zgodnie z precedensem VERIFICATION_QUEUE #8. '[Static]' (linie Pipe) rowniez literalny engine token."
+  },
+  "categories": {
+    "Sally Topic 11 A Murderer...": {
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest0Hint0": {
+        "en": "First hand evidence to confirm Mortuga lowered the Iron Bell...",
+        "pl": "Bezpośredni dowód potwierdzający, że Mortuga opuścił Żelazny Dzwon...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest0Hint1": {
+        "en": "Something or someone showed us a vision of Mortuga and the Iron Bell...",
+        "pl": "Coś albo ktoś pokazał nam wizję Mortugi i Żelaznego Dzwonu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest1Detail0": {
+        "en": "A record of Mortuga attempting to turn both handles on the Iron Bell...",
+        "pl": "Zapis próby Mortugi, żeby przekręcić oba uchwyty Żelaznego Dzwonu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest2Hint0": {
+        "en": "What was it about the Iron Bell that killed Mortuga...?",
+        "pl": "Co dokładnie w Żelaznym Dzwonie zabiło Mortugę...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest2Hint1": {
+        "en": "Which part acted as the actual murder weapon...?",
+        "pl": "Który element pełnił rolę faktycznego narzędzia zbrodni...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest3Detail0": {
+        "en": "Which part shows what's been removed?",
+        "pl": "Który fragment pokazuje, co zostało usunięte?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest3Hint0": {
+        "en": "It was something taken out of the Black Box...",
+        "pl": "To było coś wyjęte z Czarnej Skrzynki...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest3Hint1": {
+        "en": "The most important of the three items that were taken out of the Black Box...",
+        "pl": "Najważniejszy z trzech przedmiotów wyjętych z Czarnej Skrzynki...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest4Detail0": {
+        "en": "Which part shows the necklace?",
+        "pl": "Który fragment pokazuje naszyjnik?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest4Hint0": {
+        "en": "A picture of someone wearing the necklace...",
+        "pl": "Obrazek kogoś noszącego naszyjnik...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest4Hint1": {
+        "en": "A painting of someone wearing the necklace...",
+        "pl": "Obraz kogoś noszącego naszyjnik...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest5Detail0": {
+        "en": "Which part shows the full shape of the necklace?",
+        "pl": "Który fragment pokazuje pełny kształt naszyjnika?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest5Hint0": {
+        "en": "Something that shows the full shape of the necklace...",
+        "pl": "Coś, co pokazuje pełny kształt naszyjnika...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest5Hint1": {
+        "en": "A large statue or carving that shows the full shape of the necklace...",
+        "pl": "Duży posąg albo rzeźba pokazująca pełny kształt naszyjnika...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest6Detail0": {
+        "en": "Which part is evidence of Mortuga opening the Black Box while he was in the Captain's Cabin with the culprit?",
+        "pl": "Który fragment jest dowodem na to, że Mortuga otworzył Czarną Skrzynkę, będąc w Kajucie Kapitana ze sprawcą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest6Hint0": {
+        "en": "Evidence of Mortuga opening the Black Box while he was in the Captain's Cabin with the culprit...",
+        "pl": "Dowód na to, że Mortuga otworzył Czarną Skrzynkę, będąc w Kajucie Kapitana ze sprawcą...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Request exitClueRequest6Hint1": {
+        "en": "Audio evidence of Mortuga opening the Black Box while he was in the Captain's Cabin with the culprit...",
+        "pl": "Dowód dźwiękowy na to, że Mortuga otworzył Czarną Skrzynkę, będąc w Kajucie Kapitana ze sprawcą...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds0": {
+        "en": "So. Mortuga opened the cauldron in order to take something out of it... ",
+        "pl": "Więc. Mortuga otworzył kocioł, żeby coś z niego wyjąć... ",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds1": {
+        "en": "Okay, but [i]how[/i] was he killed?",
+        "pl": "Okej, ale [i]jak[/i] został zabity?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds1 Choice 1": {
+        "en": "The Iron Bell...",
+        "pl": "Żelazny Dzwon...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds1 Choice 2": {
+        "en": "The Stone Cauldron...",
+        "pl": "Kamienny Kocioł...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds1 Choice 3": {
+        "en": "The thing [i]inside[/i] the Cauldron...",
+        "pl": "Rzecz [i]wewnątrz[/i] Kotła...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds1 Choice Question": {
+        "en": "How was Magnus Mortuga killed?",
+        "pl": "Jak zginął Magnus Mortuga?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds2": {
+        "en": "[Present Clue, Hex Memory, Detail: Memory of Mortuga]",
+        "pl": "[Present Clue, Hex Memory, Detail: Memory of Mortuga]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds3": {
+        "en": "Yeah, well, we just did [i]that[/i] too. It was easy.",
+        "pl": "Tak, cóż, właśnie [i]to[/i] też zrobiliśmy. To było łatwe.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds4": {
+        "en": "He had help from someone else.",
+        "pl": "Pomógł mu ktoś inny.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds5": {
+        "en": "He did it by himself.",
+        "pl": "Zrobił to sam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds6": {
+        "en": "The Stone Cauldron...",
+        "pl": "Kamienny Kocioł...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds7": {
+        "en": "The Iron Bell...",
+        "pl": "Żelazny Dzwon...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds8": {
+        "en": "-and [i]that's[/i] when he was killed.",
+        "pl": "-i [i]wtedy[/i] właśnie został zabity.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds9": {
+        "en": "We know that the Cauldron lid is unlocked by that [i]screwdriver[/i]-kinda thing on the Iron Bell...",
+        "pl": "Wiemy, że wieko Kotła jest odblokowywane tą rzeczą przypominającą [i]śrubokręt[/i] na Żelaznym Dzwonie...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds10": {
+        "en": "...and so if Mortuga wanted to [i]unlock[/i] the cauldron, he'd first have to lower the bell into this room - like [i]we[/i] just did.",
+        "pl": "...więc jeśli Mortuga chciał [i]odblokować[/i] kocioł, musiałby najpierw opuścić dzwon do tego pomieszczenia - tak jak [i]my[/i] właśnie zrobiliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds11": {
+        "en": "You know, we've actually got [i]evidence[/i] for this. First [i]hand[/i] evidence, no less.",
+        "pl": "Wiesz, właściwie mamy na to [i]dowód.[/i] [i]Bezpośredni,[/i] co więcej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds12": {
+        "en": "Hex had a [i]memory[/i] of seeing Mortuga - through the window of the Illusion Theatre...",
+        "pl": "Hex miał [i]wspomnienie,[/i] jak widzi Mortugę - przez okno Teatru Iluzji...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds13": {
+        "en": "Oh yeah, look at that - the dark shape that lowers down in front of Mortuga - that's the Iron Bell!",
+        "pl": "O tak, spójrz na to - ten ciemny kształt opuszczający się przed Mortugą - to Żelazny Dzwon!",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds14": {
+        "en": "But then to actually [i]unlock[/i] the cauldron, you have to turn the handles on [i]both[/i] sides of the Bell...",
+        "pl": "Ale żeby faktycznie [i]odblokować[/i] kocioł, trzeba przekręcić uchwyty po [i]obu[/i] stronach Dzwonu...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds15": {
+        "en": "...and that's what got him [i]killed?[/i]",
+        "pl": "...i to właśnie go [i]zabiło?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds16": {
+        "en": "But how did [i]Mortuga[/i] do it?",
+        "pl": "Ale jak [i]Mortuga[/i] to zrobił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds16 Choice 1": {
+        "en": "He did it by himself.",
+        "pl": "Zrobił to sam.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds16 Choice 2": {
+        "en": "He had help from someone else.",
+        "pl": "Pomógł mu ktoś inny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds16 Choice 3": {
+        "en": "He used a special tool.",
+        "pl": "Użył specjalnego narzędzia.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds16 Choice Question": {
+        "en": "How was Mortuga able to turn both Iron Bell handles?",
+        "pl": "Jak Mortudze udało się przekręcić oba uchwyty Żelaznego Dzwonu?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds17": {
+        "en": "So Mortuga [i]could[/i] do it by himself - but only just?",
+        "pl": "Więc Mortuga [i]mógł[/i] to zrobić sam - ale ledwo?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds18": {
+        "en": "[i]'Magnus put his arms around it to turn the things. He can just about reach, but I told him not to do it like that.'[/i] ",
+        "pl": "[i]'Magnus obejmował go ramionami, żeby przekręcić te rzeczy. Ledwo sięga, ale powiedziałam mu, żeby tego tak nie robił.'[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds19": {
+        "en": "[i]-is[/i] there? What [i]kind[/i] of record?",
+        "pl": "[i]-jest?[/i] Jaki [i]rodzaj[/i] zapisu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds21": {
+        "en": "The part sticking out of the bell [i]isn't[/i] the complete murder weapon.",
+        "pl": "Część wystająca z dzwonu [i]nie jest[/i] całym narzędziem zbrodni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds22": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds22 Choice 1": {
+        "en": "It [i]was[/i] longer, but it's been broken in half.",
+        "pl": "[i]Było[/i] dłuższe, ale zostało złamane na pół.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds22 Choice 2": {
+        "en": "It's sharper than it looks.",
+        "pl": "Jest ostrzejsze, niż wygląda.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds22 Choice 3": {
+        "en": "It [i]didn't[/i] actually kill Mortuga.",
+        "pl": "[i]Tak naprawdę[/i] nie zabiło Mortugi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds22 Choice Question": {
+        "en": "The metal thing isn't long or sharp enough to kill you...",
+        "pl": "Ta metalowa rzecz nie jest wystarczająco długa ani ostra, żeby kogoś zabić...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds23": {
+        "en": "It [i]was[/i] longer, but it's been broken in half.",
+        "pl": "[i]Było[/i] dłuższe, ale zostało złamane na pół.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds24": {
+        "en": "Something that belonged to the culprit...",
+        "pl": "Coś, co należało do sprawcy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds25": {
+        "en": "A fragment of [i]what?[/i] A knife?",
+        "pl": "Fragment [i]czego?[/i] Noża?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds25 Choice 1": {
+        "en": "Something taken out of the Black Box...",
+        "pl": "Coś wyjętego z Czarnej Skrzynki...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds25 Choice 2": {
+        "en": "Something that belonged to the culprit...",
+        "pl": "Coś, co należało do sprawcy...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds25 Choice 3": {
+        "en": "Something that belonged to Mortuga...",
+        "pl": "Coś, co należało do Mortugi...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds25 Choice Question": {
+        "en": "A fragment of what? A knife?",
+        "pl": "Fragment czego? Noża?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds26": {
+        "en": "Something taken out of the Black Box...",
+        "pl": "Coś wyjętego z Czarnej Skrzynki...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds27": {
+        "en": "The envelope's empty now, but there's an imprint of what was in there when Mortuga first opened the box.",
+        "pl": "Koperta jest teraz pusta, ale jest w niej odcisk tego, co w niej było, kiedy Mortuga po raz pierwszy otworzył skrzynkę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds28": {
+        "en": "It's pretty clear - you can see exactly what shape it is.",
+        "pl": "Jest całkiem wyraźny - widać dokładnie, jaki ma kształt.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds29": {
+        "en": "Okay, but what [i]is[/i] it? And why was it in that [i]envelope?[/i]",
+        "pl": "Okej, ale co to [i]jest?[/i] I czemu było w tej [i]kopercie?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds29 Choice 1": {
+        "en": "A necklace.",
+        "pl": "Naszyjnik.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds29 Choice 2": {
+        "en": "A knife.",
+        "pl": "Nóż.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds29 Choice 3": {
+        "en": "A pair of scissors.",
+        "pl": "Nożyczki.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds29 Choice Question": {
+        "en": "But what is it? And why was it in that envelope?",
+        "pl": "Ale co to jest? I czemu było w tej kopercie?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds30": {
+        "en": "A necklace.",
+        "pl": "Naszyjnik.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds32": {
+        "en": "I dunno, it doesn't show the necklace very clearly, it's half hidden in her dress...",
+        "pl": "Nie wiem, nie widać naszyjnika zbyt wyraźnie, jest w połowie ukryty w jej sukni...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds33": {
+        "en": "Here it is as worn by [i]Selena[/i] Stonetop - Felicia's mother - who presumably passed it down to her daughter.",
+        "pl": "Oto on, noszony przez [i]Selenę[/i] Stonetop - matkę Felicii - która najwyraźniej przekazała go swojej córce.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds34": {
+        "en": "...I'm assuming that's why it was eventually sent back to Silkwirm - back to its original owner - after Felicia died.",
+        "pl": "...zakładam, że dlatego został ostatecznie odesłany z powrotem do Silkwirm - do swojego pierwotnego właściciela - po śmierci Felicii.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds35": {
+        "en": "-who then opens it while he's in the Captain's Cabin with the culprit.",
+        "pl": "-który potem otwiera ją, będąc w Kajucie Kapitana ze sprawcą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds41": {
+        "en": "Even if it does - it is wholly unrelated our unfortunate voyage.",
+        "pl": "Nawet jeśli tak jest - jest to całkowicie niezwiązane z naszą nieszczęsną wyprawą.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds42": {
+        "en": "-it doesn't open that way. It slides out at the side. Let me do it.",
+        "pl": "-nie otwiera się w ten sposób. Wysuwa się z boku. Pozwól, że ja to zrobię.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds43": {
+        "en": "Well... we know Mortuga didn't stay [i]too long[/i] in the captain's cabin-",
+        "pl": "Cóż... wiemy, że Mortuga nie został [i]zbyt długo[/i] w kajucie kapitana-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds44": {
+        "en": "...so that if Mortuga attempted to unlock the cauldron by himself-",
+        "pl": "...więc gdyby Mortuga spróbował sam odblokować kocioł-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds46": {
+        "en": "[Clue Detail present, Iron Bell, thing wedged in the side]\n[Mind Game]\nA metal thing / was placed in the Iron Bell to kill / Mortuga / when the unlocking mechanism rotated it around",
+        "pl": "[Clue Detail present, Iron Bell, thing wedged in the side]\n[Mind Game]\nMetalowa rzecz / została umieszczona w Żelaznym Dzwonie, żeby zabić / Mortugę / kiedy mechanizm odblokowujący ją obrócił",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds48": {
+        "en": "Mortuga was cut straight across the neck when the upper section of the Bell swung around.",
+        "pl": "Mortudze przecięło szyję na wylot, kiedy górna część Dzwonu się obróciła.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds49": {
+        "en": "The little metal thing - it's not actually [i]part[/i] of the Iron Bell... someone must have [i]put[/i] it there.",
+        "pl": "Ta mała metalowa rzecz - tak naprawdę nie jest [i]częścią[/i] Żelaznego Dzwonu... ktoś musiał ją tam [i]umieścić.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds50": {
+        "en": "It's sharper than it looks.",
+        "pl": "Jest ostrzejsze, niż wygląda.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds51": {
+        "en": "It's a fragment left behind when it was broken - presumably, when the culprit took it back out.",
+        "pl": "To fragment pozostawiony, kiedy zostało złamane - najprawdopodobniej, gdy sprawca je wyjmował z powrotem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds52": {
+        "en": "[clue detail present, mourning envelope, imprint of something that was inside]",
+        "pl": "[clue detail present, mourning envelope, imprint of something that was inside]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds53": {
+        "en": "It once belonged to Felicia Stonetop - she's wearing it in the painting.",
+        "pl": "Kiedyś należał do Felicii Stonetop - nosi go na obrazie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds54": {
+        "en": "A knife.",
+        "pl": "Nóż.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds55": {
+        "en": "[clue detail present, felicia painting, necklace]",
+        "pl": "[clue detail present, felicia painting, necklace]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds57": {
+        "en": "[clue detail present, figurehead, necklace]",
+        "pl": "[clue detail present, figurehead, necklace]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds59": {
+        "en": "So - the Mourning Envelope was sent to Fellow Manor...",
+        "pl": "Więc - Koperta Żałobna została wysłana do Fellow Manor...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds60": {
+        "en": "-and then eventually [i]Mariana[/i] comes along, [i]finds[/i] the box, brings it onto the submarine and hands it to Magnus Mortuga.",
+        "pl": "-a potem w końcu pojawia się [i]Mariana,[/i] [i]znajduje[/i] skrzynkę, przynosi ją na łódź podwodną i wręcza Magnusowi Mortudze.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds61": {
+        "en": "I really don't know why you're here, this doesn't concern you.",
+        "pl": "Naprawdę nie wiem, po co tu jesteś, to nie twoja sprawa.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds62": {
+        "en": "-it would be the last thing he ever did.",
+        "pl": "-to będzie ostatnia rzecz, jaką kiedykolwiek zrobił.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds63": {
+        "en": "The thing [i]inside[/i] the Cauldron...",
+        "pl": "Rzecz [i]wewnątrz[/i] Kotła...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds64": {
+        "en": "He used a special tool.",
+        "pl": "Użył specjalnego narzędzia.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds65": {
+        "en": "It [i]didn't[/i] actually kill Mortuga.",
+        "pl": "[i]Tak naprawdę[/i] nie zabiło Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds66": {
+        "en": "Something that belonged to Mortuga...",
+        "pl": "Coś, co należało do Mortugi...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds67": {
+        "en": "A pair of scissors.",
+        "pl": "Nożyczki.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds68": {
+        "en": "...sure, if you've got two people, taking one handle each.",
+        "pl": "...jasne, jeśli macie dwie osoby, każda trzymająca jeden uchwyt.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds69": {
+        "en": "Must be.",
+        "pl": "Musi tak być.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds70": {
+        "en": "You think?",
+        "pl": "Myślisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds72": {
+        "en": "[i]'Might not be safe, since we don't know exactly what'll happen. So I said we could do it together, one each.'[/i]",
+        "pl": "[i]'Może nie być bezpiecznie, skoro nie wiemy dokładnie, co się stanie. Więc powiedziałam, że możemy zrobić to razem, po jednym uchwycie każde.'[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds74": {
+        "en": "Felicia Stonetop's diary, from their time on the Dearest Selena. Ahem;",
+        "pl": "Dziennik Felicii Stonetop, z czasów na Dearest Selenie. Hm;",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds75": {
+        "en": "Right, [i]only just[/i] - in order to reach both sides, he had to place his body [i]directly[/i] up against the bell.",
+        "pl": "No właśnie, [i]ledwo[/i] - żeby dosięgnąć obu stron, musiał przywrzeć ciałem [i]bezpośrednio[/i] do dzwonu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds76": {
+        "en": "Just like [i]you[/i] were trying to do, before I told you not to.",
+        "pl": "Dokładnie tak, jak [i]ty[/i] próbowałeś zrobić, zanim ci zabroniłam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds77": {
+        "en": "We saw how [i]fast[/i] it goes - and it's really heavy, it must have a whole [i]load[/i] of force behind it.",
+        "pl": "Widzieliśmy, jak [i]szybko[/i] się porusza - i jest naprawdę ciężki, musi mieć za sobą całą [i]masę[/i] siły.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds78": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds79": {
+        "en": "Right, the [i]culprit[/i], presumably - knowing it would kill Mortuga [i]if and when[/i] he tried to unlock the cauldron.",
+        "pl": "No właśnie, [i]sprawca,[/i] najwyraźniej - wiedząc, że to zabije Mortugę, [i]jeśli i kiedy[/i] spróbuje odblokować kocioł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds80": {
+        "en": "Only, it's - kinda [i]small...[/i]",
+        "pl": "Tylko że jest - trochę [i]mała...[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds81": {
+        "en": "Even if you [i]did[/i] press up against the bell, I'm not sure it's [i]long[/i] enough or [i]sharp[/i] enough to cut you.",
+        "pl": "Nawet gdybyś [i]rzeczywiście[/i] przywarł do dzwonu, nie jestem pewna, czy jest wystarczająco [i]długa[/i] albo [i]ostra,[/i] żeby cię skaleczyć.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds82": {
+        "en": "Go ahead.",
+        "pl": "Śmiało.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds83": {
+        "en": "Let's put this together, shall we?",
+        "pl": "Poskładajmy to razem, dobrze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds85": {
+        "en": "...and then Selena - or Governor Fellow or whoever - they put it in the [i]Black Box?[/i]",
+        "pl": "...a potem Selena - albo Gubernator Fellow, czy kto tam - włożyli go do [i]Czarnej Skrzynki?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds86": {
+        "en": "[Present Clue] Wooden Pipe\nDetail: audio of Mortuga opening the Black Box and finding the necklace]",
+        "pl": "[Present Clue] Drewniana Rura\nDetail: nagranie audio Mortugi otwierającego Czarną Skrzynkę i znajdującego naszyjnik]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds87": {
+        "en": "But what happened next...?",
+        "pl": "Ale co wydarzyło się dalej...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds88": {
+        "en": "....and that's when they could've wedged it into the side of the Iron Bell...",
+        "pl": "....i wtedy właśnie mogli wcisnąć go w bok Żelaznego Dzwonu...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds90": {
+        "en": "I'm pretty sure, yeah. There's even a [i]record[/i] of him trying to do this once before.",
+        "pl": "Jestem całkiem pewna, tak. Jest nawet [i]zapis[/i] tego, jak raz wcześniej próbował to zrobić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds91": {
+        "en": "[Static]",
+        "pl": "[Static]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds92": {
+        "en": "There's something inside...\nWait... what's this?",
+        "pl": "Coś jest w środku...\nCzekaj... co to jest?",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds93": {
+        "en": "[Static]",
+        "pl": "[Static]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds94": {
+        "en": "So - maybe Mortuga left the culprit in the cabin with the necklace...?",
+        "pl": "Więc - może Mortuga zostawił sprawcę w kajucie z naszyjnikiem...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds95": {
+        "en": "-since Mariana told us he came back into the control room...",
+        "pl": "-skoro Mariana powiedziała nam, że wrócił do sterowni...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 11 A Murderer.../Section ds96": {
+        "en": "I'm - pretty sure she is, anyway.",
+        "pl": "Jestem - całkiem tego pewien, tak czy inaczej.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Sally Topic 11/ds86 '[Present Clue] Wooden Pipe / Detail: ...]'",
+      "problem": "Nietypowy, niespojny format bracketow (rozpoczyna sie '[Present Clue]' ale konczy pojedynczym ']' bez pary) - potraktowano jako czesciowo widoczny dla gracza tekst (nazwa dowodu + opis szczegolu) i przetlumaczono w calosci, w tym nazwe 'Wooden Pipe' -> 'Drewniana Rura' (ustalony wczesniej termin) - do sprawdzenia w grze czy ten fragment faktycznie jest widoczny, czy to czysto techniczny marker."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "_meta": {
+    "batch": "Sinthia 03 MORTUGA SUBMARINE (22 terminow) - kontynuacja luku Sinthii.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking)",
+    "discovery": "ds12 wspomina 'Mr Wirman and Mr Dansom' - mozliwe ze 'Dansom' to nazwisko Dirka (nie potwierdzone jeszcze bezposrednio przypisaniem do postaci Dirk, do sprawdzenia przy okazji kolejnych partii)."
+  },
+  "categories": {
+    "Sinthia 03 MORTUGA SUBMARINE": {
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds0": {
+        "en": "Why did you wanna come to the submarine in the [i]first[/i] place? To become [i]captain?[/i]",
+        "pl": "Czemu [i]w ogóle[/i] chciałaś przybyć na łódź podwodną? Żeby zostać [i]kapitanem?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds10": {
+        "en": "Not yet - we'll get there.",
+        "pl": "Jeszcze nie - dojdziemy do tego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds11": {
+        "en": "How long have you [i]been[/i] here, Sinthia?",
+        "pl": "Jak długo tu [i]jesteś[/i], Sinthia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds12": {
+        "en": "I arrived a few weeks before Mr Wirman and Mr Dansom.",
+        "pl": "Przybyłam kilka tygodni przed panem Wirmanem i panem Dansomem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds13": {
+        "en": "Oh, well - Mortuga put me up in the bunk room at the bow end of the ship. I share a room with Sym.",
+        "pl": "Och, cóż - Mortuga zakwaterował mnie w kajucie sypialnej na dziobie statku. Dzielę pokój z Sym.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds14": {
+        "en": "I'm assuming you don't live here in the control room - where do you sleep?",
+        "pl": "Zakładam, że nie mieszkasz tutaj, w sterówce - gdzie sypiasz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds15": {
+        "en": "If you arrived before Dirk and Wirman, the other bunk room would've still been empty...",
+        "pl": "Jeśli przybyłaś przed Dirkiem i Wirmanem, ta druga kajuta sypialna musiała być jeszcze pusta...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds16": {
+        "en": "Yeah, I think he wanted to keep that other bunk room vacant.",
+        "pl": "Tak, chyba chciał, żeby ta druga kajuta zostawała pusta.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds17": {
+        "en": "Huh. Interesting.",
+        "pl": "Hm. Ciekawe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds18": {
+        "en": "I'm not complaining - I really [h]like[/h] sharing with Sym! She's great!",
+        "pl": "Nie narzekam - naprawdę [h]lubię[/h] dzielić pokój z Sym! Jest świetna!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds19": {
+        "en": "...but Mortuga made you [i]share?[/i]",
+        "pl": "...ale Mortuga kazał wam się [i]dzielić?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds20": {
+        "en": "So, what are you gonna do with the submarine, now that you're captain?",
+        "pl": "Więc co zrobisz z łodzią podwodną, teraz gdy jesteś kapitanem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds21": {
+        "en": "My first order of business - hiring you two!",
+        "pl": "Moja pierwsza decyzja - zatrudnienie was dwojga!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds22": {
+        "en": "Sure, I get that. What about [h]afterwards?[/h]",
+        "pl": "Jasne, rozumiem. A co [h]potem?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds23": {
+        "en": "Uhh-",
+        "pl": "Yyy-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds26": {
+        "en": "We really can't do anything else until this gets cleared up, you know...",
+        "pl": "Naprawdę nie możemy nic innego zrobić, dopóki to się nie wyjaśni, wiesz...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds28": {
+        "en": "We'll - sail the seven seas! -and have adventures...",
+        "pl": "Będziemy - żeglować po siedmiu morzach! -i przeżywać przygody...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds29": {
+        "en": "You know. That... kinda stuff.",
+        "pl": "No wiesz. Takie... tam rzeczy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds6": {
+        "en": "I sought an audience with Magnus Mortuga. I had things I wished to discuss with him!",
+        "pl": "Szukałam posłuchania u Magnusa Mortugi. Miałam sprawy, które chciałam z nim omówić!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds7": {
+        "en": "Like what?",
+        "pl": "Na przykład jakie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds8": {
+        "en": "...matters of great importance! Affairs of great significance! Dealings of great-",
+        "pl": "...sprawy wielkiej wagi! Kwestie wielkiego znaczenia! Interesy wielkiej-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 03 MORTUGA SUBMARINE/Section ds9": {
+        "en": "She's not gonna tell us.",
+        "pl": "Ona nam nie powie.",
+        "speaker": "Grimoire"
+      }
+    }
+  }
+}

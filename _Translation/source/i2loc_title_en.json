@@ -1,0 +1,74 @@
+[
+  {
+    "term": "Title/Art Gallery",
+    "en": "Art"
+  },
+  {
+    "term": "Title/Art Gallery 2",
+    "en": "Gallery"
+  },
+  {
+    "term": "Title/BACK TO TITLE",
+    "en": "Back To Title"
+  },
+  {
+    "term": "Title/CREDITS",
+    "en": "Credits"
+  },
+  {
+    "term": "Title/Credits/GAME DEVELOPMENT",
+    "en": "GAME DEVELOPMENT"
+  },
+  {
+    "term": "Title/Credits/SFB Author",
+    "en": "SFB Games is the author of this software.\n2026 SFB Games Limited"
+  },
+  {
+    "term": "Title/Demo",
+    "en": "Demo"
+  },
+  {
+    "term": "Title/Intro/Set 1 Line 1",
+    "en": "Eavesdrop what the stars are saying"
+  },
+  {
+    "term": "Title/Intro/Set 1 Line 2",
+    "en": "Earthly tether, slowly fraying"
+  },
+  {
+    "term": "Title/Intro/Set 2 Line 1",
+    "en": "Floating, helpless from the worst"
+  },
+  {
+    "term": "Title/Intro/Set 2 Line 2",
+    "en": "Of jealous hunger, selfish thirst"
+  },
+  {
+    "term": "Title/Intro/Set 3 Line 1",
+    "en": "Take a moment, kneel and meet"
+  },
+  {
+    "term": "Title/Intro/Set 3 Line 2",
+    "en": "The flowers growing at your feet"
+  },
+  {
+    "term": "Title/MUSIC PLAYER",
+    "en": "Music\nPlayer"
+  },
+  {
+    "term": "Title/SETTINGS",
+    "en": "Settings"
+  },
+  {
+    "term": "Title/START GAME",
+    "en": "Start Game"
+  },
+  {
+    "term": "Title/Saves/CREATE NEW FILE",
+    "en": "CREATE NEW FILE"
+  },
+  {
+    "term": "Title/Saves/Delete",
+    "en": "Delete"
+  }
+]

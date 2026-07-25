@@ -1,0 +1,159 @@
+{
+  "_meta": {
+    "batch": "Wirman 04 STATEMENT (29 terminow) - kontynuacja luku Wirman po batch_36-37 (42/212). Zeznanie Wirmana z nocy morderstwa - pisal w Mesie zeby nie przeszkadzac spiacemu Dirkowi, widzial Symmetry zamarla w drzwiach po odkryciu ciala.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 29/29 pokryte: Wirman 25, Sally 3, Grimoire 1",
+    "character_voice": "Wirman: formalny rejestr (patrz batch_36-37), literacko-ironiczny sposob narracji."
+  },
+  "categories": {
+    "Wirman 04 STATEMENT": {
+      "Conversation/Wirman 04 STATEMENT/Section ds100": {
+        "en": "Dirk and I follow the sound - all the way down the corridor...",
+        "pl": "Dirk i ja podążamy za dźwiękiem - przez cały korytarz...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds101": {
+        "en": "...so I returned to my room to uh - [i]await further instruction.[/i]",
+        "pl": "...więc wróciłem do swojego pokoju, żeby, yy - [i]czekać na dalsze instrukcje.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds103": {
+        "en": "Did you go back to sleep?",
+        "pl": "Wrócił pan do spania?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds104": {
+        "en": "No, I - couldn't.",
+        "pl": "Nie, ja - nie mogłem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds105": {
+        "en": "I went back to work. Figured I'd be better off keeping busy, you know.",
+        "pl": "Wróciłem do pracy. Pomyślałem, że lepiej mi będzie, jeśli będę czymś zajęty, wie pani.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds107": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds108": {
+        "en": "Uh, I'm not talking about Dirk, I mean - the submarine, it [i]moved. Tilted.[/i]",
+        "pl": "Yy, nie mówię o Dirku, mam na myśli - łódź, ona się [i]poruszyła. Przechyliła.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds14": {
+        "en": "[i]'Mariana Moon'[/i], apparently. Good name. Probably fake, but good.\n",
+        "pl": "[i]'Mariana Moon'[/i], podobno. Dobre imię. Pewnie fałszywe, ale dobre.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds22": {
+        "en": "She got straight to work trying to extract my [i]entire life story[/i] - but then Mortuga shows up and we all go quiet.",
+        "pl": "Od razu zabrała się do wyciągania ze mnie [i]całej historii mojego życia[/i] - ale wtedy pojawia się Mortuga i wszyscy milkniemy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds26": {
+        "en": "The guy looked miserable - and he passed straight through the room like a ghost.\n",
+        "pl": "Ten facet wyglądał nieszczęśliwie - i przeszedł przez pokój prosto jak duch.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds33": {
+        "en": "-but before he leaves, he asks us to show Mariana around the submarine.",
+        "pl": "-ale zanim wychodzi, prosi nas, żebyśmy oprowadzili Marianę po łodzi.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds35": {
+        "en": "Uh, Godrik came up, few minutes later? Brought some kinda busywork with him.",
+        "pl": "Yy, Godrik przyszedł, parę minut później? Przyniósł ze sobą jakąś robotę do zabicia czasu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds39": {
+        "en": "I slept for barely an hour before a [i]big jerk[/i] wakes me up.",
+        "pl": "Spałem ledwie godzinę, zanim obudziło mnie [i]wielkie szarpnięcie.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds47": {
+        "en": "Was anyone else in there?",
+        "pl": "Był tam ktoś jeszcze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds49": {
+        "en": "So there we were, whiling away, until I look up and see this [i]woman-[/i]",
+        "pl": "Więc tak sobie siedzieliśmy, zabijając czas, aż podnoszę wzrok i widzę tę [i]kobietę-[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds6": {
+        "en": "I don't wanna deprive Dirk of his beauty sleep, so I took my typewriter out into the mess hall.",
+        "pl": "Nie chciałem pozbawiać Dirka jego snu piękności, więc wziąłem maszynę do pisania i poszedłem do Mesy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds67": {
+        "en": "Anyway, I tried to get back to sleep, but, no - now there's a [i]scream.[/i]",
+        "pl": "W każdym razie, próbowałem wrócić do snu, ale nie - teraz jest [i]krzyk.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds68": {
+        "en": "And behind her - Mortuga. Dead. Laying in front of some ancient stone cauldron...",
+        "pl": "A za nią - Mortuga. Martwy. Leżący przed jakimś starożytnym kamiennym kotłem...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds71": {
+        "en": "The lid of the thing; flung open - like something had just [h]burst[/h] out of it.",
+        "pl": "Pokrywa tej rzeczy; rozwarta na oścież - jakby coś właśnie z niej [h]wybuchło.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds74": {
+        "en": "The whole scene was otherwordly... like a painting.",
+        "pl": "Cała scena była nierzeczywista... jak obraz.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds75": {
+        "en": "Then Madam Tadpole arrived, with just about everyone else trailing behind her.",
+        "pl": "Potem przybyła Madam Tadpole, a za nią wlokła się prawie cała reszta.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds76": {
+        "en": "Uh, from what I gather, she'd discovered the body, and then left to go get everybody else.",
+        "pl": "Yy, z tego, co rozumiem, ona odkryła ciało, a potem poszła po wszystkich pozostałych.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds77": {
+        "en": "Tadpole brought everyone with her? So - she already knew about the murder?",
+        "pl": "Tadpole przyprowadziła wszystkich ze sobą? Więc - już wiedziała o morderstwie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds78": {
+        "en": "-and you know, I really didn't want to get in her way...",
+        "pl": "-i wie pan, naprawdę nie chciałem jej wchodzić w drogę...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds86": {
+        "en": "Symmetry's frozen in place in the doorway at the end.",
+        "pl": "Symmetry zamarła w bezruchu w drzwiach na końcu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds88": {
+        "en": "Anyway, I'm wide awake, so I stay up to get some writing done.",
+        "pl": "W każdym razie, jestem całkiem rozbudzony, więc nie kładę się spać, żeby trochę popisać.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds89": {
+        "en": "I say - [i]night[/i] - I'm referring to the indistinctive block of time we on the submarine have agreed to collectively refer to... as night.",
+        "pl": "Mówię - [i]noc[/i] - mam na myśli ten nieokreślony blok czasu, który my, na łodzi, wspólnie zgodziliśmy się nazywać... nocą.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds93": {
+        "en": "Night rolls around, and I can't sleep. As usual.",
+        "pl": "Nadchodzi noc, a ja nie mogę spać. Jak zwykle.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 04 STATEMENT/Section ds98": {
+        "en": "I... really didn't have the energy, so I made an excuse and left.",
+        "pl": "Ja... naprawdę nie miałem energii, więc wymyśliłem wymówkę i wyszedłem.",
+        "speaker": "Wirman"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

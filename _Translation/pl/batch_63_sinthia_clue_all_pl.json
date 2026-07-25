@@ -1,0 +1,1763 @@
+{
+  "_meta": {
+    "batch": "Sinthia CLUE X (~53 sceny, 327 terminow) - reakcje kapitan Sinthii (teatralna nastolatka) na kazdy dowod w grze. Zawiera mechanike wyboru (Choice) w GoldenLocket/ds9 - dwie opcje odpowiedzi Grimoire'a + naglowek pytania, mowca nieprzypisany w zrodle -> standardowa konwencja 'Grimoire (opcja wyboru)' / '(naglowek wyboru)'.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - pokrycie pelne poza mechanika Choice (3 wpisy, standardowa konwencja).",
+    "character_voice": "Sinthia: kontynuacja teatralnego, dramatycznego rejestru nastolatki (batch_10-11, batch_13-15).",
+    "uwagi": "InnDeeds/ds8,17 - gra slow 'indeed'/'inn deed' (nazwa dokumentu brzmi jak angielskie 'w istocie') nieprzekladalna doslownie - zastosowano funkcjonalny zamiennik oparty o 'otoz to' -> 'o, toz to' (podobny rytm komiczny, rozbicie slowa). Do potwierdzenia z userem."
+  },
+  "categories": {
+    "Sinthia CLUE ActionFigure": {
+      "Conversation/Sinthia CLUE ActionFigure/Section ds10": {
+        "en": "Whats with that [i]wheel?[/i] It looks kinda like a shield... does he have that in the [i]movie?\n[/i]",
+        "pl": "Co z tym [i]kołem?[/i] Wygląda trochę jak tarcza... czy ma to w [i]filmie?\n[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ActionFigure/Section ds11": {
+        "en": "He has a wheel in the [i]book[/i]... but it mostly stays attached to his ship - apart from one time it breaks off in a big storm.",
+        "pl": "Ma koło w [i]książce...[/i] ale przez większość czasu zostaje przyczepione do jego statku - poza jednym razem, kiedy odrywa się podczas wielkiej burzy.",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE BalloonBasket": {
+      "Conversation/Sinthia CLUE BalloonBasket/Section ds6": {
+        "en": "My parents used to shop here, from time to time...",
+        "pl": "Moi rodzice kiedyś tu robili zakupy, od czasu do czasu...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BalloonBasket/Section ds9": {
+        "en": "They'd complain that Mr Gripp would charge them [i]full price[/i]. Even though they were locals.",
+        "pl": "Narzekali, że pan Gripp liczył im [i]pełną cenę.[/i] Mimo że byli miejscowi.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BalloonBasket/Section ds10": {
+        "en": "Heh. Gripp's not one to give out discounts, huh?",
+        "pl": "Heh. Gripp nie jest typem, który rozdaje zniżki, co?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE BlackBox": {
+      "Conversation/Sinthia CLUE BlackBox/Section ds0": {
+        "en": "I don't like it.",
+        "pl": "Nie podoba mi się to.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds6": {
+        "en": "You don't wanna know what's inside?",
+        "pl": "Nie chcesz wiedzieć, co jest w środku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds7": {
+        "en": "I do... and I don't.",
+        "pl": "Chcę... i nie chcę.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds8": {
+        "en": "[i]What if it's bad?[/i]",
+        "pl": "[i]A co, jeśli to coś złego?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds9": {
+        "en": "Bad like how?",
+        "pl": "Złego jak co dokładnie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds10": {
+        "en": "Like... what if it's something we didn't wanna see??",
+        "pl": "No... a co jeśli to coś, czego nie chcielibyśmy zobaczyć??",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds11": {
+        "en": "I think I'd still rather know.",
+        "pl": "Myślę, że i tak wolałbym wiedzieć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE BlackBox/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE BlurryPhoto": {
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds0": {
+        "en": "[i]Night of a Full Moon...[/i]",
+        "pl": "[i]Noc Pełni Księżyca...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds6": {
+        "en": "My mom taught me how you can use the moon to work out where you are.",
+        "pl": "Moja mama nauczyła mnie, jak można użyć księżyca, żeby ustalić, gdzie się jest.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds7": {
+        "en": "Like, if you're sailing on the ocean, and you can see the moon, you can work out which way's North. I think.",
+        "pl": "No wiesz, jeśli płyniesz po oceanie i widzisz księżyc, możesz ustalić, gdzie jest północ. Chyba.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds8": {
+        "en": "What if it's too cloudy?",
+        "pl": "A co, jeśli jest zbyt pochmurno?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds9": {
+        "en": "Uh...",
+        "pl": "Yy...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BlurryPhoto/Section ds10": {
+        "en": "Then you'd use a compass. Like a normal person.",
+        "pl": "To wtedy użyłabyś kompasu. Jak normalny człowiek.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE BrokenCompass": {
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds9": {
+        "en": "This is the ship's compass? From here in the control room?",
+        "pl": "To kompas statku? Stąd, z centrali dowodzenia?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds10": {
+        "en": "Mhm. Looks like Mr Gripp's already working on fixing it.",
+        "pl": "Mhm. Wygląda na to, że pan Gripp już go naprawia.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds11": {
+        "en": "Why so many [i]needles?[/i]",
+        "pl": "Czemu tyle [i]igieł?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds12": {
+        "en": "The original needle was broken. Mr Gripp said he had a few he could try out as replacements.",
+        "pl": "Oryginalna igła była zepsuta. Pan Gripp powiedział, że ma kilka zamienników do wypróbowania.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds13": {
+        "en": "This one's the original?",
+        "pl": "Ta jest oryginalna?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds14": {
+        "en": "Uh. Yeah.",
+        "pl": "Yy. Tak.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds15": {
+        "en": "Looks fine to me. Just put it back in.",
+        "pl": "Dla mnie wygląda w porządku. Po prostu ją załóż z powrotem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds16": {
+        "en": "Nope! Wouldn't work! It's malfunctioning - it needs to be replaced.",
+        "pl": "Nie! Nie zadziała! Jest wadliwa - trzeba ją wymienić.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE BrokenCompass/Section ds20": {
+        "en": "Good! That's - good.",
+        "pl": "Dobrze! To - dobrze.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE CaptainsJacket": {
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds6": {
+        "en": "So... I notice you're the [i]captain[/i]... but you're not wearing the [i]Captain's Jacket.[/i]",
+        "pl": "Więc... zauważyłem, że jesteś [i]kapitanem...[/i] ale nie masz na sobie [i]Kurtki Kapitana.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds10": {
+        "en": "It's... just the way it's meant to be.",
+        "pl": "Po prostu... tak ma być.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds11": {
+        "en": "It's based on the one [i]Mortuga[/i] had. See? The epaulettes are kinda the same.",
+        "pl": "Jest wzorowana na tej, którą miał [i]Mortuga.[/i] Widzisz? Naramienniki są podobne.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds12": {
+        "en": "Oh - I've been wanting to ask someone about this - how come Mortuga's jacket is like - [i]half[/i] a jacket?",
+        "pl": "Och - chciałem kogoś o to zapytać - czemu kurtka Mortugi jest jak - [i]połowa[/i] kurtki?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds13": {
+        "en": "Apparently he didn't wanna wear anything on his right shoulder.",
+        "pl": "Podobno nie chciał niczego nosić na prawym ramieniu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds14": {
+        "en": "Some kind of pain from an old injury, I think.",
+        "pl": "Jakiś ból po starej kontuzji, chyba.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds16": {
+        "en": "I have my [i]own[/i] jacket. [i]This[/i] one stays behind glass.",
+        "pl": "Mam [i]własną[/i] kurtkę. [i]Ta[/i] zostaje za szkłem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsJacket/Section ds20": {
+        "en": "Okay, so what about [i]your[/i] jacket?",
+        "pl": "Okej, a co z [i]twoją[/i] kurtką?",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE CaptainsLog": {
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds0": {
+        "en": "Oh - you found the captain's log.",
+        "pl": "Och - znaleźliście dziennik kapitana.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds6": {
+        "en": "Sure did.",
+        "pl": "A jakże.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds7": {
+        "en": "How does it work?",
+        "pl": "Jak to działa?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds9": {
+        "en": "So, at the end of every day you're supposed to print out one of these little cards...",
+        "pl": "Więc, na koniec każdego dnia trzeba wydrukować jedną z tych małych kartek...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds10": {
+        "en": "...with readings from the submarine's movements in the last twenty-four hours...",
+        "pl": "...z odczytami ruchu łodzi podwodnej z ostatnich dwudziestu czterech godzin...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds11": {
+        "en": "So the card on the top, that's from the day Mortuga died?",
+        "pl": "Więc karta na wierzchu jest z dnia, w którym zginął Mortuga?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds12": {
+        "en": "...then the captain signs it and writes about anything noteworthy that happened.",
+        "pl": "...a potem kapitan ją podpisuje i zapisuje wszystko, co godne uwagi się wydarzyło.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds13": {
+        "en": "Yeah, I - figured we should have a record of it.",
+        "pl": "Tak, ja - pomyślałam, że powinniśmy mieć jakiś zapis.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds14": {
+        "en": "You took over as captain that same [i]night?[/i]",
+        "pl": "Przejęłaś dowództwo jako kapitan tej samej [i]nocy?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds15": {
+        "en": "What of it?",
+        "pl": "I co z tego?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaptainsLog/Section ds16": {
+        "en": "Nothing! Just asking...",
+        "pl": "Nic! Tylko pytam...",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE CaretakersJournal": {
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds0": {
+        "en": "Huh...",
+        "pl": "Hę...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds6": {
+        "en": "Oh, I know about this one. The Silversnake.",
+        "pl": "Och, o tym to wiem. Srebrny Wąż.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds9": {
+        "en": "What d'you know about it?",
+        "pl": "Co o nim wiesz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds10": {
+        "en": "Well, I know it's a big sea serpent that my mom and her best friend fished outta the ocean.",
+        "pl": "Cóż, wiem, że to wielki wąż morski, którego moja mama i jej najlepsza przyjaciółka wyłowiły z oceanu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds11": {
+        "en": "Your [h]mother[/h] found it?",
+        "pl": "Twoja [h]mama[/h] go znalazła?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds12": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds13": {
+        "en": "What happened to it? Did she keep it?",
+        "pl": "Co się z nim stało? Zatrzymała go?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds14": {
+        "en": "Eventually some men came and took it away.",
+        "pl": "W końcu przyszli jacyś mężczyźni i go zabrali.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds15": {
+        "en": "For a while.",
+        "pl": "Na jakiś czas.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds19": {
+        "en": "Where is it now?",
+        "pl": "Gdzie on teraz jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds20": {
+        "en": "I don't know.",
+        "pl": "Nie wiem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaretakersJournal/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE CaseFile": {
+      "Conversation/Sinthia CLUE CaseFile/Section ds0": {
+        "en": "[h]Aha![/h] I see you found my case file.",
+        "pl": "[h]Aha![/h] Widzę, że znaleźliście moje akta sprawy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds7": {
+        "en": "Oh, I read all about the [i]Tangle Tower[/i] case in a newspaper.",
+        "pl": "Och, czytałam o sprawie [i]Tangle Tower[/i] w gazecie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds8": {
+        "en": "How come you knew about Grimoire?",
+        "pl": "Skąd wiedziałaś o Grimoire?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds9": {
+        "en": "I didn't know that got any press. Someone must've sold their story...",
+        "pl": "Nie wiedziałem, że to trafiło do prasy. Ktoś musiał sprzedać swoją historię...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds10": {
+        "en": "I gotta ask - did Fiona end up leaving the tower? Or is she still there?",
+        "pl": "Muszę zapytać - czy Fiona w końcu wyprowadziła się z wieży? Czy nadal tam jest?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds11": {
+        "en": "Fifi? Yeah, she and Poppy moved out.",
+        "pl": "Fifi? Tak, ona i Poppy się wyprowadziły.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds12": {
+        "en": "Oh, good for them.",
+        "pl": "Och, cieszę się za nie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds13": {
+        "en": "They got a real nice place out in the countryside.",
+        "pl": "Mają naprawdę fajne miejsce na wsi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds14": {
+        "en": "Ahh, that's so nice...",
+        "pl": "Achh, to takie miłe...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds16": {
+        "en": "Sure did.",
+        "pl": "A jakże.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CaseFile/Section ds17": {
+        "en": "I'm jealous! Hahaha...",
+        "pl": "Zazdroszczę! Hahaha...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE CellPhone": {
+      "Conversation/Sinthia CLUE CellPhone/Section ds7": {
+        "en": "I never actually [i]had[/i] my own cell phone - do they all have flashlights like this?",
+        "pl": "Tak naprawdę nigdy [i]nie miałam[/i] własnego telefonu komórkowego - czy wszystkie mają takie latarki?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CellPhone/Section ds8": {
+        "en": "Could be useful - it gets pretty dark down here.",
+        "pl": "Może się przydać - tu na dole robi się dość ciemno.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CellPhone/Section ds11": {
+        "en": "Wait, that's a [i]flashlight?[/i]",
+        "pl": "Czekaj, to jest [i]latarka?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CellPhone/Section ds14": {
+        "en": "Sinthia, is this the phone you used to call [i]us?[/i]",
+        "pl": "Sinthia, czy to jest telefon, którym zadzwoniłaś do [i]nas?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CellPhone/Section ds15": {
+        "en": "No, I used one in the town, when I went to drop off the case file...",
+        "pl": "Nie, użyłam jednego w miasteczku, kiedy pojechałam zostawić akta sprawy...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE CommandContract": {
+      "Conversation/Sinthia CLUE CommandContract/Section ds0": {
+        "en": "But we've both signed it! So... yep! It's binding!",
+        "pl": "Ale oboje go podpisaliśmy! Więc... tak! Jest wiążący!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds6": {
+        "en": "Any further questions?",
+        "pl": "Jakieś dalsze pytania?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds7": {
+        "en": "There it is - in black and white!",
+        "pl": "Oto i on - czarno na białym!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds8": {
+        "en": "Signed by [i]me[/i], signed by [i]Mortuga...[/i]",
+        "pl": "Podpisany przeze [i]mnie,[/i] podpisany przez [i]Mortugę...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds9": {
+        "en": "Yeah, I can see.",
+        "pl": "Tak, widzę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds10": {
+        "en": "Where'd it come from?",
+        "pl": "Skąd się wziął?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds11": {
+        "en": "[i]Mortuga[/i] wrote it. I think he used a typewriter.",
+        "pl": "Napisał go [i]Mortuga.[/i] Chyba użył maszyny do pisania.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds12": {
+        "en": "And - what - he presented it to you? When?",
+        "pl": "I - co - wręczył ci go? Kiedy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds13": {
+        "en": "Well, no, cos he... he died. So.",
+        "pl": "No, nie, bo on... on umarł. Więc.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds15": {
+        "en": "[h]Yeah[/h], how did you-",
+        "pl": "[h]No właśnie[/h], jak ty-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CommandContract/Section ds16": {
+        "en": "No? [i]Great[/i], let's move on.",
+        "pl": "Nie? [i]Świetnie,[/i] idźmy dalej.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE CurseCauldron": {
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds6": {
+        "en": "In the case file you said the cauldron had [i]'never been unlocked before'.[/i]",
+        "pl": "W aktach sprawy napisałaś, że kocioł [i]'nigdy wcześniej nie był odblokowany'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds7": {
+        "en": "And nobody knew [h]how[/h] to unlock it - except, presumably, Mortuga himself.",
+        "pl": "I nikt nie wiedział, [h]jak[/h] go odblokować - poza, jak przypuszczam, samym Mortugą.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds12": {
+        "en": "So you think it got opened in the course of the [i]murder?[/i]",
+        "pl": "Więc myślisz, że został otwarty w trakcie [i]morderstwa?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds13": {
+        "en": "I see three possibilities;",
+        "pl": "Widzę trzy możliwości;",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds14": {
+        "en": "One; the cauldron was opened [h]before[/h] the murder.",
+        "pl": "Pierwsza; kocioł został otwarty [h]przed[/h] morderstwem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds16": {
+        "en": "And three; the cauldron was opened [h]during[/h] the murder.",
+        "pl": "I trzecia; kocioł został otwarty [h]podczas[/h] morderstwa.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds18": {
+        "en": "Two; someone opened the cauldron [h]after[/h] the murder.",
+        "pl": "Druga; ktoś otworzył kocioł [h]po[/h] morderstwie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds19": {
+        "en": "Someone other than [i]Mortuga.[/i]",
+        "pl": "Ktoś inny niż [i]Mortuga.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds24": {
+        "en": "Like... the murder happening and the cauldron opening are [i]one and the same?[/i]",
+        "pl": "Czyli... morderstwo i otwarcie kotła to [i]jedno i to samo?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds25": {
+        "en": "Naturally.",
+        "pl": "Naturalnie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE CurseCauldron/Section ds29": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE DivingLicense": {
+      "Conversation/Sinthia CLUE DivingLicense/Section ds0": {
+        "en": "[i]Ocean Rescue Divers Association...[/i]",
+        "pl": "[i]Stowarzyszenie Nurków Ratowniczych Oceanu...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE DivingLicense/Section ds8": {
+        "en": "Ugh, they'd never let [h]me[/h] in. I can barely even swim.",
+        "pl": "Ugh, nigdy by [h]mnie[/h] nie przyjęli. Ledwo umiem pływać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE DivingLicense/Section ds9": {
+        "en": "But you live right by the sea!",
+        "pl": "Ale mieszkasz tuż nad morzem!",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE DivingLicense/Section ds10": {
+        "en": "Pardon me for not swimming in the [i]deep freezing ocean.[/i]",
+        "pl": "Wybacz, że nie pływam w [i]głębokim, lodowatym oceanie.[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE DreamHelmet": {
+      "Conversation/Sinthia CLUE DreamHelmet/Section ds9": {
+        "en": "What does it do?",
+        "pl": "Do czego to służy?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE DreamHelmet/Section ds10": {
+        "en": "We're not sure.",
+        "pl": "Nie jesteśmy pewni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE DreamHelmet/Section ds11": {
+        "en": "My money's on [h]nothing.[/h]",
+        "pl": "Obstawiam, że do [h]niczego.[/h]",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE DriftwoodCane": {
+      "Conversation/Sinthia CLUE DriftwoodCane/Section ds10": {
+        "en": "I'm sure I saw a [i]picture[/i] of this recently - but it looked different...",
+        "pl": "Jestem pewna, że widziałam niedawno [i]zdjęcie[/i] tego - ale wyglądało inaczej...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE DriftwoodCane/Section ds11": {
+        "en": "Where did you see this [i]picture?[/i]",
+        "pl": "Gdzie widziałaś to [i]zdjęcie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE DriftwoodCane/Section ds12": {
+        "en": "Uh... somewhere in the engine room?",
+        "pl": "Yy... gdzieś w maszynowni?",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE FamilyPhoto": {
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds6": {
+        "en": "Are you two close?",
+        "pl": "Jesteście sobie bliskie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds7": {
+        "en": "Mm... not really. We kinda drifted apart after-",
+        "pl": "Mm... niezupełnie. Trochę się od siebie oddaliłyśmy po-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds10": {
+        "en": "That's your mom?",
+        "pl": "To twoja mama?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds11": {
+        "en": "Yeah. She was the harbormaster.",
+        "pl": "Tak. Była kapitanem portu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds14": {
+        "en": "That's your dad on the right?",
+        "pl": "To twój tata po prawej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds15": {
+        "en": "Yeah. Stepdad. But yeah.",
+        "pl": "Tak. Ojczym. Ale tak.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds16": {
+        "en": "That's a pretty fancy jacket for a [i]harbormaster[/i]. Looks more like a [i]naval[/i] officer.",
+        "pl": "To dość elegancka kurtka jak na [i]kapitana portu.[/i] Wygląda bardziej jak oficer [i]marynarki.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds17": {
+        "en": "Yeah, well. She had a lot of big ideas...",
+        "pl": "Tak, no. Miała mnóstwo wielkich pomysłów...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds18": {
+        "en": "She was super ambitious, always making plans - my dad could barely keep up.",
+        "pl": "Była bardzo ambitna, zawsze coś planowała - mój tata ledwo nadążał.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FamilyPhoto/Section ds19": {
+        "en": "-after a while.",
+        "pl": "-po jakimś czasie.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE FeliciaPainting": {
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds6": {
+        "en": "No he wasn't touching the [i]frame[/i], he was touching the painting itself.",
+        "pl": "Nie, nie dotykał [i]ramy,[/i] dotykał samego obrazu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds7": {
+        "en": "I dunno. Might be worth a second look.",
+        "pl": "Nie wiem. Może warto się temu jeszcze przyjrzeć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds8": {
+        "en": "Maybe it got knocked and he was straightening it.",
+        "pl": "Może został potrącony i go prostował.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds10": {
+        "en": "I remember one time I went into Mortuga's cabin and he was standing in front of this painting...",
+        "pl": "Pamiętam, że raz weszłam do kajuty Mortugi, a on stał przed tym obrazem...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds12": {
+        "en": "...and he had his hand held up to it. Like he was touching it.",
+        "pl": "...i trzymał uniesioną rękę przy nim. Jakby go dotykał.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FeliciaPainting/Section ds13": {
+        "en": "Okay, well - he is within his right to do that...",
+        "pl": "Okej, cóż - miał do tego prawo...",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE Figurehead": {
+      "Conversation/Sinthia CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE FilmProjector": {
+      "Conversation/Sinthia CLUE FilmProjector/Section ds0": {
+        "en": "Oh - it's Sym's projector.",
+        "pl": "Och - to projektor Sym.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FilmProjector/Section ds6": {
+        "en": "-is it actually [i]hers?[/i]",
+        "pl": "-czy on naprawdę jest [i]jej?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE FilmProjector/Section ds7": {
+        "en": "Uhh, no, I think she [i]borrowed[/i] it from somebody?",
+        "pl": "Yy, nie, chyba go od kogoś [i]pożyczyła?[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE FogBall": {
+      "Conversation/Sinthia CLUE FogBall/Section ds0": {
+        "en": "Oh. Sym's Fog ball...",
+        "pl": "Och. Kula Mgły Sym...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FogBall/Section ds6": {
+        "en": "-what's this weird little [i]antenna[/i] thing?",
+        "pl": "-co to za dziwna mała [i]antenka?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE FogBall/Section ds9": {
+        "en": "-is that not just part of the design?",
+        "pl": "-czy to nie jest po prostu część designu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE FogBall/Section ds10": {
+        "en": "No... I don't think so.",
+        "pl": "Nie... nie sądzę.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE GlassEyeball": {
+      "Conversation/Sinthia CLUE GlassEyeball/Section ds6": {
+        "en": "D'you know what this is?",
+        "pl": "Wiesz, co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GlassEyeball/Section ds9": {
+        "en": "I dunno... does it belong to [i]Madam Tadpole?[/i]",
+        "pl": "Nie wiem... czy to należy do [i]Madam Tadpole?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GlassEyeball/Section ds10": {
+        "en": "Oh?",
+        "pl": "O?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GlassEyeball/Section ds11": {
+        "en": "Seems like the kinda thing she might've fished outta the [i]sea...[/i]",
+        "pl": "Wygląda na coś, co mogła wyłowić z [i]morza...[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE GoldenLocket": {
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds0": {
+        "en": "Sym let you see her locket...?",
+        "pl": "Sym pozwoliła wam zobaczyć swój medalion...?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds6": {
+        "en": "Do you know what's inside? Did she ever show you?",
+        "pl": "Wiesz, co jest w środku? Kiedykolwiek ci pokazała?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds7": {
+        "en": "No, and I didn't ask. She's allowed to have secrets.",
+        "pl": "Nie, i nie pytałam. Ma prawo mieć swoje sekrety.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds9": {
+        "en": "Wait - [i]you[/i] didn't open it, did you?",
+        "pl": "Czekajcie - [i]wy[/i] go nie otworzyliście, prawda?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds9 Choice 1": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds9 Choice 2": {
+        "en": "Nah.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds9 Choice Question": {
+        "en": "You didn't open it, did you?",
+        "pl": "Nie otworzyliście go, prawda?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds10": {
+        "en": "Nah.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds11": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds12": {
+        "en": "I should think [i]not!![/i]",
+        "pl": "Mam nadzieję, że [i]nie!![/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds14": {
+        "en": "Was it - okay? There wasn't anything bad in there?",
+        "pl": "Czy było - w porządku? Nie było tam nic złego?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds15": {
+        "en": "It's fine.",
+        "pl": "Jest w porządku.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE GoldenLocket/Section ds16": {
+        "en": "Okay. Fine. Good.",
+        "pl": "Okej. Dobra. Dobrze.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE HandheldRadio": {
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds7": {
+        "en": "Sinthia, this radio looks kinda like [h]you.[/h]",
+        "pl": "Sinthia, to radio wygląda trochę jak [h]ty.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds8": {
+        "en": "Ahh, you really think so?",
+        "pl": "Achh, naprawdę tak myślisz?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds9": {
+        "en": "Why did she take that as a compliment??",
+        "pl": "Czemu ona odebrała to jako komplement??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds10": {
+        "en": "Does it [h]belong[/h] to you?",
+        "pl": "Czy ono [h]należy[/h] do ciebie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds11": {
+        "en": "Of course, I brought it [i]with[/i] me - that's how I first contacted the submarine from the outside.",
+        "pl": "Oczywiście, przywiozłam je [i]ze[/i] sobą - w ten sposób po raz pierwszy skontaktowałam się z łodzią podwodną z zewnątrz.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds12": {
+        "en": "You used the radio to contact Mortuga? -and you asked him to let you into the submarine?",
+        "pl": "Użyłaś radia, żeby skontaktować się z Mortugą? -i poprosiłaś go, żeby wpuścił cię do łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds13": {
+        "en": "Yup!",
+        "pl": "No pewnie!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds14": {
+        "en": "Wait - so there's a receiver in the control room?",
+        "pl": "Czekaj - czyli w centrali dowodzenia jest odbiornik?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds15": {
+        "en": "No.\nWell - kinda.",
+        "pl": "Nie.\nCóż - trochę.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds18": {
+        "en": "So-",
+        "pl": "Więc-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HandheldRadio/Section ds19": {
+        "en": "You know what, never mind.",
+        "pl": "Wiesz co, nieważne.",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE HandwrittenLetter": {
+      "Conversation/Sinthia CLUE HandwrittenLetter/Section ds6": {
+        "en": "The stamp - that's Governor Fellow. The guy who owned Silkwirm-on-sea.",
+        "pl": "Ten znaczek - to Gubernator Fellow. Facet, który był właścicielem Silkwirm nad Morzem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HandwrittenLetter/Section ds8": {
+        "en": "I didn't know you could own a town.",
+        "pl": "Nie wiedziałam, że można być właścicielem miasteczka.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HandwrittenLetter/Section ds9": {
+        "en": "Well, he [i]acted[/i] like he did. Putting himself on the stamps was the [i]least[/i] of it.",
+        "pl": "Cóż, [i]zachowywał się[/i] tak, jakby był. Umieszczenie siebie na znaczkach to było [i]najmniejsze[/i] z tego wszystkiego.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE HexBottle": {
+      "Conversation/Sinthia CLUE HexBottle/Section ds6": {
+        "en": "Hey... it's that bottle I saw Dr Zephyr carrying around the submarine.",
+        "pl": "Hej... to ta butelka, którą widziałam, jak Dr Zephyr nosił po łodzi podwodnej.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HexBottle/Section ds7": {
+        "en": "What about the thing [h]in[/h] the bottle?",
+        "pl": "A co z tym czymś [h]w[/h] butelce?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE HexBottle/Section ds12": {
+        "en": "Uh - I don't really [h]want[/h] to know what that is.",
+        "pl": "Yy - tak naprawdę nie [h]chcę[/h] wiedzieć, co to jest.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HexBottle/Section ds13": {
+        "en": "Hm. Smells kinda like flowers or something. Weird.",
+        "pl": "Hm. Pachnie trochę jak kwiaty czy coś. Dziwne.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE HexoftheHelmsman": {
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds0": {
+        "en": "So this is what Mr Wirman did after he left town.",
+        "pl": "Więc to zrobił pan Wirman po tym, jak wyjechał z miasteczka.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds6": {
+        "en": "Why would he need to leave [h]town[/h] to write a book? I feel like you could do that from [i]anywhere.[/i]",
+        "pl": "Czemu musiałby wyjechać z [h]miasteczka,[/h] żeby napisać książkę? Wydaje mi się, że można to robić [i]wszędzie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds7": {
+        "en": "It was probably more about making connections.",
+        "pl": "Chodziło pewnie bardziej o nawiązywanie kontaktów.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds8": {
+        "en": "Silkwirm's a real [i]dead end[/i] if you've got any kind of aspirations.",
+        "pl": "Silkwirm to prawdziwy [i]ślepy zaułek,[/i] jeśli masz jakiekolwiek aspiracje.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds11": {
+        "en": "You mean like in publishing?",
+        "pl": "Masz na myśli jakby w wydawnictwie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE HexoftheHelmsman/Section ds12": {
+        "en": "-in [i]anything.[/i]",
+        "pl": "-w [i]czymkolwiek.[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE IllusionistPoster": {
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds0": {
+        "en": "She's the theatre owner who adopted Sym.",
+        "pl": "To właścicielka teatru, która adoptowała Sym.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds6": {
+        "en": "But I get the sense that Fortuna wasn't very [i]nice[/i] to her.",
+        "pl": "Ale mam wrażenie, że Fortuna nie była dla niej zbyt [i]miła.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds7": {
+        "en": "[i]Baroness Fortuna...[/i]",
+        "pl": "[i]Baronowa Fortuna...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds9": {
+        "en": "Who [i]is[/i] she?",
+        "pl": "Kim ona [i]jest?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds10": {
+        "en": "Did Sym [h]like[/h] living with her? -in the theatre?",
+        "pl": "Czy Sym [h]lubiła[/h] mieszkać z nią? -w teatrze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE IllusionistPoster/Section ds11": {
+        "en": "Mmm... Sym's reluctant to speak ill of her elders...",
+        "pl": "Mmm... Sym niechętnie mówi źle o starszych...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE InnDeeds": {
+      "Conversation/Sinthia CLUE InnDeeds/Section ds6": {
+        "en": "Go on?",
+        "pl": "Mów dalej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds7": {
+        "en": "You found it, huh.",
+        "pl": "Znaleźliście to, co.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds8": {
+        "en": "We did indeed.\n[h]Inn Deed.[/h]\nWe did [i]inn-deed-[/i]",
+        "pl": "Ależ tak, otóż to.\n[h]Akt Gospody.[/h]\nZnaleźliśmy - [i]o, tóż to-[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds9": {
+        "en": "Yep. We got it. Good joke... let's move on.",
+        "pl": "Tak. Załapaliśmy. Niezły żart... idźmy dalej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds10": {
+        "en": "Why did you hide it?",
+        "pl": "Czemu to ukryłaś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds11": {
+        "en": "I'm allowed to keep stuff under my mattress!",
+        "pl": "Wolno mi trzymać rzeczy pod materacem!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds12": {
+        "en": "Is it yours...? It doesn't have your name on it.",
+        "pl": "Czy to twoje...? Nie ma na tym twojego nazwiska.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds13": {
+        "en": "Hmph. No it [h]doesn't[/h] - that's exactly why I brought it [i]with[/i] me, actually.",
+        "pl": "Hmph. Nie, [h]nie ma[/h] - właśnie dlatego zabrałam je [i]ze[/i] sobą, tak w ogóle.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds15": {
+        "en": "No...\nI'm done talking.",
+        "pl": "Nie...\nSkończyłam z gadaniem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds17": {
+        "en": "[i]Inn-deed-[/i]",
+        "pl": "[i]O, tóż to-[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds18": {
+        "en": "Oh shut up.",
+        "pl": "Och, zamknij się.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE InnDeeds/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE IronBell": {
+      "Conversation/Sinthia CLUE IronBell/Section ds0": {
+        "en": "What d'you know about this bell?",
+        "pl": "Co wiesz o tym dzwonie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE IronBell/Section ds6": {
+        "en": "That's no [h]bell[/h].\nIt's got a fluted [i]drive[/i] tip!",
+        "pl": "To żaden [h]dzwon.[/h]\nMa rowkowaną końcówkę [i]napędową![/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE IronBell/Section ds7": {
+        "en": "A what?",
+        "pl": "Jaką?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE IronBell/Section ds8": {
+        "en": "For a fluted socket? With six flutes?",
+        "pl": "Do rowkowanego gniazda? Z sześcioma rowkami?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE IronBell/Section ds9": {
+        "en": "Ohhh... yeah.\nI - agree completely.",
+        "pl": "Ohhh... tak.\nJa - zgadzam się całkowicie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE LifesizeDoll": {
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds6": {
+        "en": "I don't - I don't like that, it's - kinda morbid.",
+        "pl": "Nie - nie podoba mi się to, to jest - trochę makabryczne.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds7": {
+        "en": "So, this is the doll that apparently looks just like Sym.",
+        "pl": "Więc to jest ta lalka, która podobno wygląda dokładnie jak Sym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds8": {
+        "en": "Yeah... I mean it does and it doesn-",
+        "pl": "Tak... no, wygląda i nie wyglą-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds9": {
+        "en": "Oh. The head comes off.",
+        "pl": "Och. Głowa się odczepia.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds10": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE LifesizeDoll/Section ds11": {
+        "en": "Yeah...",
+        "pl": "Tak...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE MermaidPainting": {
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds10": {
+        "en": "I, uh - I'm considering having this taken down.",
+        "pl": "Ja, yy - rozważam, żeby to zdjąć.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds11": {
+        "en": "-I'm Captain so I'm allowed to do stuff like that.",
+        "pl": "-jestem Kapitanem, więc wolno mi robić takie rzeczy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds12": {
+        "en": "Why would you wanna take it down?",
+        "pl": "Czemu chciałabyś to zdjąć?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds13": {
+        "en": "It's just... unnerving. It's making some of the crew uncomfortable.",
+        "pl": "To po prostu... niepokojące. Sprawia, że część załogi czuje się niekomfortowo.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds14": {
+        "en": "Some of the crew?",
+        "pl": "Część załogi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE MermaidPainting/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE MessageinaBottle": {
+      "Conversation/Sinthia CLUE MessageinaBottle/Section ds0": {
+        "en": "Hey! There's a document in there!",
+        "pl": "Hej! Tam w środku jest dokument!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MessageinaBottle/Section ds11": {
+        "en": "It's a piece of [i]paper[/i], I dunno if I'd call it a [h]document.[/h]",
+        "pl": "To kawałek [i]papieru,[/i] nie wiem, czy nazwałbym to [h]dokumentem.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE MessageinaBottle/Section ds12": {
+        "en": "...apart from the [i]title[/i], which is drawn by hand. ",
+        "pl": "...poza [i]tytułem,[/i] który jest narysowany ręcznie. ",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE MessageinaBottle/Section ds13": {
+        "en": "It's been typed!",
+        "pl": "To zostało napisane na maszynie!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MessageinaBottle/Section ds14": {
+        "en": "Oh yeah. It almost looks like a logo for something...",
+        "pl": "O tak. Wygląda niemal jak logo czegoś...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE ModelTown": {
+      "Conversation/Sinthia CLUE ModelTown/Section ds0": {
+        "en": "Wow. There they are.",
+        "pl": "Wow. Oto oni.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ModelTown/Section ds6": {
+        "en": "That's my mom, standing in the harbor...",
+        "pl": "To moja mama, stoi w porcie...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ModelTown/Section ds7": {
+        "en": "...and that's my dad, standing under the lighthouse.",
+        "pl": "...a to mój tata, stoi pod latarnią morską.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ModelTown/Section ds8": {
+        "en": "Cute.",
+        "pl": "Urocze.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE ModelTown/Section ds10": {
+        "en": "Hey, the lighthouse opens up... and there's a film reel in there.",
+        "pl": "Hej, latarnia się otwiera... i jest tam szpula filmowa.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ModelTown/Section ds11": {
+        "en": "Uh, that is [h]not[/h] accurate. We did [h]not[/h] have a giant film reel in our attic.",
+        "pl": "Yy, to jest [h]nie[/h]dokładne. [h]Nie[/h] mieliśmy gigantycznej szpuli filmowej na strychu.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE MoonVial": {
+      "Conversation/Sinthia CLUE MoonVial/Section ds0": {
+        "en": "You know... if this [h]is[/h] poison, then surely it's a red herring.",
+        "pl": "Wiecie... jeśli to [h]jest[/h] trucizna, to na pewno fałszywy trop.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MoonVial/Section ds6": {
+        "en": "Right. So - you think someone put it there as a false lead?",
+        "pl": "No dobra. Więc - myślisz, że ktoś to tam podłożył jako fałszywy trop?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE MoonVial/Section ds7": {
+        "en": "I dunno... it's not a very [i]good[/i] false lead.",
+        "pl": "Nie wiem... to nie jest zbyt [i]dobry[/i] fałszywy trop.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MoonVial/Section ds10": {
+        "en": "Mortuga didn't [h]die[/h] from poisoning.",
+        "pl": "Mortuga nie [h]umarł[/h] od otrucia.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MoonVial/Section ds11": {
+        "en": "How so?",
+        "pl": "Skąd wiesz?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE MourningEnvelope": {
+      "Conversation/Sinthia CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE MovieMagazine": {
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds8": {
+        "en": "I guess he must be. He told me he's getting all [i]kinds[/i] of offers from other studios.",
+        "pl": "Chyba musi być. Powiedział mi, że dostaje wszelkiego [i]rodzaju[/i] oferty od innych wytwórni.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds9": {
+        "en": "Lucky him. He must be thrilled.",
+        "pl": "Ma szczęście. Musi być zachwycony.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds14": {
+        "en": "You know, this article's kind of unfair to Dirk - it barely [i]mentions[/i] him.",
+        "pl": "Wiecie, ten artykuł jest trochę niesprawiedliwy dla Dirka - ledwo o nim [i]wspomina.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds15": {
+        "en": "Probably because it was written [i]before[/i] the movie came out. So, he wasn't famous yet.",
+        "pl": "Pewnie dlatego, że został napisany [i]przed[/i] premierą filmu. Więc jeszcze nie był sławny.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds16": {
+        "en": "Oh yeah. True.",
+        "pl": "O tak. Prawda.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE MovieMagazine/Section ds17": {
+        "en": "The movie was a [i]hit[/i], right? So, Dirk's famous [i]now?[/i]",
+        "pl": "Film był [i]hitem,[/i] prawda? Więc Dirk jest [i]teraz[/i] sławny?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE NewspaperPage": {
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds0": {
+        "en": "I remember this. My mom had a copy framed and put it up in our hallway.",
+        "pl": "Pamiętam to. Moja mama miała oprawioną kopię i powiesiła ją w naszym korytarzu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds6": {
+        "en": "That's her in the photo?",
+        "pl": "To ona na zdjęciu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds7": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds8": {
+        "en": "Who's the [i]other[/i] woman?",
+        "pl": "Kim jest ta [i]druga[/i] kobieta?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds9": {
+        "en": "That's her best friend. They were always going on little adventures together-",
+        "pl": "To jej najlepsza przyjaciółka. Zawsze razem wyruszały na małe przygody-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds10": {
+        "en": "-and one time... they came back with a sea serpent.",
+        "pl": "-i pewnego razu... wróciły z wężem morskim.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds11": {
+        "en": "The Silversnake.",
+        "pl": "Srebrny Wąż.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds12": {
+        "en": "Also known as the Silkwirm Serpent.",
+        "pl": "Znany też jako Wąż z Silkwirm.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds13": {
+        "en": "Does it - not have eyes?",
+        "pl": "Czy on - nie ma oczu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds14": {
+        "en": "Nope, no eyes. And its skin was rock hard, but shiny, like a gemstone.",
+        "pl": "Nie, żadnych oczu. A jego skóra była twarda jak skała, ale błyszcząca, jak klejnot.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds15": {
+        "en": "Where'd you keep it? In the shipyard?",
+        "pl": "Gdzie go trzymaliście? W stoczni?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds16": {
+        "en": "Yeah. Mom wanted to take it back into the sea... but she didn't wanna [i]leave[/i] it. She wanted to go [i]with[/i] it. ",
+        "pl": "Tak. Mama chciała zabrać go z powrotem do morza... ale nie chciała go [i]zostawić.[/i] Chciała popłynąć [i]razem[/i] z nim. ",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds17": {
+        "en": "She wanted [h]all[/h] of us to go.",
+        "pl": "Chciała, żebyśmy popłynęli [h]wszyscy.[/h]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds18": {
+        "en": "Why'd they take it out of the [i]ocean[/i], anyway?",
+        "pl": "A czemu w ogóle wyciągnęły go z [i]oceanu?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds19": {
+        "en": "Uh - it was... injured? They wanted to look after it until it recovered.",
+        "pl": "Yy - był... ranny? Chciały się nim zaopiekować, aż wyzdrowieje.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds20": {
+        "en": "To go... and live in the ocean.",
+        "pl": "Żeby popłynąć... i zamieszkać w oceanie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds22": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE NewspaperPage/Section ds23": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE OceanTreasure": {
+      "Conversation/Sinthia CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE Pocketbook": {
+      "Conversation/Sinthia CLUE Pocketbook/Section ds6": {
+        "en": "That's one creepy book.",
+        "pl": "To jedna przerażająca książeczka.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE Pocketbook/Section ds7": {
+        "en": "Wait, are those [i]initials?[/i] [i]M.M?[/i]",
+        "pl": "Czekaj, czy to [i]inicjały?[/i] [i]M.M?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE Pocketbook/Section ds8": {
+        "en": "You're looking at it upside down.",
+        "pl": "Patrzysz na to do góry nogami.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE Pocketbook/Section ds9": {
+        "en": "Mmm - [i]am I...?[/i]",
+        "pl": "Mmm - [i]naprawdę...?[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE RaggedCloth": {
+      "Conversation/Sinthia CLUE RaggedCloth/Section ds6": {
+        "en": "D'you know what [i]'The Stargazing Girl'[/i] is all about?",
+        "pl": "Wiesz, o czym jest [i]'Dziewczyna Patrząca w Gwiazdy'?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE RaggedCloth/Section ds7": {
+        "en": "No, Sym didn't tell me the details.",
+        "pl": "Nie, Sym nie powiedziała mi szczegółów.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE RaggedCloth/Section ds8": {
+        "en": "She didn't [h]want[/h] to, for some reason. She seemed to regret the whole thing.",
+        "pl": "Z jakiegoś powodu nie [h]chciała.[/h] Wydawała się żałować całej tej sprawy.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE RippedScroll": {
+      "Conversation/Sinthia CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE SeaChart": {
+      "Conversation/Sinthia CLUE SeaChart/Section ds0": {
+        "en": "This weird little [i]drawing...[/i]",
+        "pl": "Ten dziwny mały [i]rysunek...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SeaChart/Section ds6": {
+        "en": "It looks kinda like that thing Mortuga kept up on the fore deck.",
+        "pl": "Wygląda trochę jak ta rzecz, którą Mortuga trzymał na dziobowym pokładzie.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE ShipinaBottle": {
+      "Conversation/Sinthia CLUE ShipinaBottle/Section ds0": {
+        "en": "I [i]know[/i] this ship... I used to look out my bedroom window, and see it sitting in the harbor.",
+        "pl": "[i]Znam[/i] ten statek... kiedyś wyglądałam przez okno swojej sypialni i widziałam go stojącego w porcie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ShipinaBottle/Section ds6": {
+        "en": "Does it have a name?",
+        "pl": "Czy ma nazwę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE ShipinaBottle/Section ds7": {
+        "en": "Uh - something... [i]Selena?[/i] Precious Selena?",
+        "pl": "Yy - coś tam... [i]Selena?[/i] Droga Selena?",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE ShipsWheel": {
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds8": {
+        "en": "How come there's two different wheels?",
+        "pl": "Czemu są dwa różne koła?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds9": {
+        "en": "The big wooden one's for steering left and right.",
+        "pl": "To duże drewniane jest do skręcania w lewo i prawo.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds10": {
+        "en": "The smaller one's for diving and surfacing.",
+        "pl": "To mniejsze jest do zanurzania i wynurzania.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds13": {
+        "en": "Speaking of, what does the [i]'S'[/i] stand for?",
+        "pl": "A skoro już o tym mowa, co oznacza to [i]'S'?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds14": {
+        "en": "Seafoam!",
+        "pl": "Seafoam!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE ShipsWheel/Section ds16": {
+        "en": "Yeah. Figured.",
+        "pl": "Tak. Tak myślałem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Sinthia CLUE SilkwirmMap": {
+      "Conversation/Sinthia CLUE SilkwirmMap/Section ds0": {
+        "en": "Sinthia - this map's got your [i]surname[/i] on it - and the [i]'S'[/i] from your signature.",
+        "pl": "Sinthia - na tej mapie jest twoje [i]nazwisko[/i] - i [i]'S'[/i] z twojego podpisu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE SilkwirmMap/Section ds6": {
+        "en": "I mean, nobody ever really [i]called[/i] it that - but my mom [i]was[/i] the harbormaster, so, yeah.",
+        "pl": "No, tak naprawdę nikt tego tak nigdy [i]nie nazywał[/i] - ale moja mama [i]była[/i] kapitanem portu, więc, no tak.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SilkwirmMap/Section ds7": {
+        "en": "Oh yeah.\n[i]'Seafoam Harbor'...[/i]",
+        "pl": "O tak.\n[i]'Port Seafoam'...[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE StrangeDevice": {
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds0": {
+        "en": "It's an antenna.",
+        "pl": "To antena.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds6": {
+        "en": "Seawater can [i]really[/i] do a number on electronics, you gotta be careful.",
+        "pl": "Woda morska potrafi [i]naprawdę[/i] narobić szkód w elektronice, trzeba uważać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds7": {
+        "en": "Give us your professional opinion. Laser gun? Shrink ray?",
+        "pl": "Podaj nam swoją profesjonalną opinię. Działko laserowe? Promień kurczący?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds9": {
+        "en": "A really [i]weird[/i] antenna, but, yeah.",
+        "pl": "Naprawdę [i]dziwna[/i] antena, ale, tak.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds10": {
+        "en": "Also it's [i]damaged[/i] - it's starting to rust, and there's sediment in the joints...",
+        "pl": "Poza tym jest [i]uszkodzona[/i] - zaczyna rdzewieć i w złączach jest osad...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE StrangeDevice/Section ds12": {
+        "en": "Intergalactic hairdryer?",
+        "pl": "Międzygalaktyczna suszarka do włosów?",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE SubmarineBlueprint": {
+      "Conversation/Sinthia CLUE SubmarineBlueprint/Section ds0": {
+        "en": "Given its messy history? [i]Yes it is![/i]",
+        "pl": "Biorąc pod uwagę jej burzliwą historię? [i]No pewnie![/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SubmarineBlueprint/Section ds8": {
+        "en": "[i]It's a work in progress - okay?[/i]",
+        "pl": "[i]To wciąż praca w toku - okej?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SubmarineBlueprint/Section ds9": {
+        "en": "What are you trying to [i]do[/i], exactly?",
+        "pl": "Co dokładnie próbujesz [i]zrobić?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE SubmarineBlueprint/Section ds10": {
+        "en": "I'm [h]trying[/h] to get a handle on the exact form of the submarine.",
+        "pl": "[h]Próbuję[/h] ogarnąć dokładny kształt łodzi podwodnej.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SubmarineBlueprint/Section ds11": {
+        "en": "...is that difficult?",
+        "pl": "...czy to trudne?",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE SunTablets": {
+      "Conversation/Sinthia CLUE SunTablets/Section ds0": {
+        "en": "Sun tablets...?",
+        "pl": "Tabletki słoneczne...?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE SunTablets/Section ds6": {
+        "en": "Yeah. For when you need sunlight, but you can't get any.",
+        "pl": "Tak. Na wypadek, gdy potrzebujesz światła słonecznego, ale nie możesz go zdobyć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE SunTablets/Section ds7": {
+        "en": "Like if you - I dunno, random example - [i]lived in a submarine.[/i]",
+        "pl": "Na przykład, gdybyś - nie wiem, przypadkowy przykład - [i]mieszkała w łodzi podwodnej.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE SunTablets/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE TheMermaidsTongue": {
+      "Conversation/Sinthia CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE Typewriter": {
+      "Conversation/Sinthia CLUE Typewriter/Section ds9": {
+        "en": "Mr Wirman's typewriter...?",
+        "pl": "Maszyna do pisania pana Wirmana...?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE Typewriter/Section ds11": {
+        "en": "I don't think Wirman [h]wants[/h] anyone to fix it.",
+        "pl": "Nie sądzę, żeby Wirman [h]chciał,[/h] żeby ktoś to naprawiał.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE Typewriter/Section ds13": {
+        "en": "Oh.\nWeird.",
+        "pl": "Och.\nDziwne.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE Typewriter/Section ds14": {
+        "en": "It's a [h]mess[/h] - the keys are all in the wrong place...",
+        "pl": "To [h]bałagan[/h] - klawisze są wszystkie w złych miejscach...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE Typewriter/Section ds15": {
+        "en": "I could fix it for him, no problem. Or - Mr Gripp could do it, I bet.",
+        "pl": "Mogłabym to dla niego naprawić, bez problemu. Albo - pan Gripp mógłby to zrobić, założę się.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE UnderwaterPhoto": {
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds0": {
+        "en": "The night of the murder, when I was in the control room by myself...",
+        "pl": "Tej nocy, kiedy doszło do morderstwa, gdy byłam sama w centrali dowodzenia...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds7": {
+        "en": "But then [h]this[/h] came out...\nI wish I hadn't done it.",
+        "pl": "Ale potem wyszło [h]to[/h]...\nChciałabym, żebym tego nie zrobiła.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds8": {
+        "en": "I put it in the safe so I wouldn't have to think about it.",
+        "pl": "Włożyłam to do sejfu, żeby nie musieć o tym myśleć.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds9": {
+        "en": "I can understand that.",
+        "pl": "Rozumiem to.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds11": {
+        "en": "I locked it in the safe...\nI didn't think-",
+        "pl": "Zamknęłam to w sejfie...\nNie pomyślałam-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds12": {
+        "en": "What [h]is[/h] it?",
+        "pl": "Co to [h]jest?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds14": {
+        "en": "...it was right around the time the ship's compass was freaking out...",
+        "pl": "...to było mniej więcej wtedy, kiedy kompas statku wariował...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds15": {
+        "en": "You used the underwater imaging system?",
+        "pl": "Użyłaś podwodnego systemu obrazowania?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds16": {
+        "en": "I don't know why.\nI - couldn't resist.",
+        "pl": "Nie wiem czemu.\nJa - nie mogłam się powstrzymać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds17": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds18": {
+        "en": "Yeah. Sometimes you gotta compartmentalize. One thing at a time, you know?",
+        "pl": "Tak. Czasem trzeba to sobie poukładać w głowie. Jedna rzecz na raz, wiesz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE UnderwaterPhoto/Section ds19": {
+        "en": "Mm... that's true.",
+        "pl": "Mm... to prawda.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia CLUE WoodenBuoy": {
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds0": {
+        "en": "There he is, Mortuga's little mascot.",
+        "pl": "Oto i on, mała maskotka Mortugi.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds6": {
+        "en": "What does he [h]do?[/h]",
+        "pl": "Co on [h]robi?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds7": {
+        "en": "Oh, you know, bit of this, bit of that - a big green light shines out of his eyes sometimes.",
+        "pl": "Och, no wiesz, trochę tego, trochę tamtego - czasem z jego oczu bije wielkie zielone światło.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds8": {
+        "en": "Yeah - we [i]saw[/i] it. It lured us onto the submarine.",
+        "pl": "Tak - [i]widzieliśmy[/i] to. Zwabiło nas na łódź podwodną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds9": {
+        "en": "That's the [i]idea![/i]",
+        "pl": "O to właśnie [i]chodzi![/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds10": {
+        "en": "How does it work? Do you activate it from in here?",
+        "pl": "Jak to działa? Aktywujesz to stąd?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds11": {
+        "en": "Nope. It just kinda happens.",
+        "pl": "Nie. To po prostu jakby samo się dzieje.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenBuoy/Section ds12": {
+        "en": "[i]Wooden - buoy - is - confirmed - to - be - magical.[/i]",
+        "pl": "[i]Drew-nia-na - bo-ja - zo-sta-ła - po-twier-dzo-na - ja-ko - ma-gicz-na.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia CLUE WoodenPipe": {
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds0": {
+        "en": "Wait, so it's a [i]casette[/i] player. For listening to music?",
+        "pl": "Czekaj, więc to odtwarzacz [i]kaset?[/i] Do słuchania muzyki?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds6": {
+        "en": "Uh - nearly.",
+        "pl": "Yy - prawie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds7": {
+        "en": "Looks like the [i]tape[/i] can swap out...",
+        "pl": "Wygląda na to, że [i]taśmę[/i] można wymienić...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds8": {
+        "en": "So?",
+        "pl": "No i?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds9": {
+        "en": "So maybe there are other tapes.",
+        "pl": "Więc może są inne taśmy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia CLUE WoodenPipe/Section ds10": {
+        "en": "Hey, yeah! I bet there are...",
+        "pl": "Hej, no tak! Założę się, że są...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Conversation/Sinthia CLUE InnDeeds/Section ds8, ds17",
+      "issue": "Gra slow 'indeed'/'Inn Deed' nieprzekladalna doslownie (dokument nazywa sie tak, ze brzmi jak angielskie 'w istocie'). Zastosowano funkcjonalny zamiennik 'otoz to' / 'o, toz to' zachowujacy komiczny rytm rozbicia slowa, ale nieoparte na nazwie dokumentu 'Akt Wlasnosci'. Do przemyslenia/potwierdzenia z userem."
+    },
+    {
+      "term": "Conversation/Sinthia CLUE RaggedCloth/Section ds6",
+      "issue": "Tytul ksiazki/opowiadania Sym \"'The Stargazing Girl'\" przetlumaczony roboczo jako \"'Dziewczyna Patrząca w Gwiazdy'\" - brak wczesniejszego wystapienia tego tytulu w innych batchach do potwierdzenia spojnosci nazwy."
+    }
+  ]
+}

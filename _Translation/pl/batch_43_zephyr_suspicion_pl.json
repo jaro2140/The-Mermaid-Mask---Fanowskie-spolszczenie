@@ -1,0 +1,900 @@
+{
+  "_meta": {
+    "batch": "Zephyr 05 SUSPICION (176 terminow) - KONCZY luk Zephyra (251/251) I WSZYSTKICH 8 GLOWNYCH PODEJRZANYCH (Grimoire, Gripp/Godrik, Sinthia, Dirk, Moon, Symmetry, Tadpole, Wirman, Zephyr). Mad-scientist mistyk: Zephyr hoduje magiczna 'heksapusa' (szesciornoga wersja omiornicy) imieniem Hex w butelce, ktorej sny sluza do eksperymentow z 'Helmem Snow' powiekszona wersja tej samej technologii. Mortuga byl krolikiem doswiadczalnym Zephyra. Kolejne echo mechanizmu 'Pipe' (ds109-110) - to samo nagranie przedstawienia Symmetry co w innych scenach, ale z drobna, prawdopodobnie celowa roznica ('ink-blank' zamiast 'ink-black' - moze to byc niedoslyszenie przez sciane).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 113/176 pokryte (Zephyr 41, Grimoire 39, Sally 31, Pipe 2). 63 nieprzypisanych to mechanika Request + Choice sets (ds15/35/88/98) - najwiecej Request-family jak dotad w jednej scenie, standardowe oznaczenie.",
+    "character_voice": "Zephyr: formalny, mistyczny (patrz batch_40-42), tu bardziej defensywny/zenospowany przesluchaniem.",
+    "new_terms": "Hex Bottle -> Butelka Hexa, Fog Ball -> Kula Mgly, Dream Helmet -> Helm Snow, Moon Vial -> Fiolka Moon, hexapus -> heksapus (wymyslone stworzenie Zephyra, szesc nog zamiast osmiu)."
+  },
+  "categories": {
+    "Zephyr 05 SUSPICION": {
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Something related to Zephyr, found at the crime scene...",
+        "pl": "Coś związanego z Zephyrem, znalezione na miejscu zbrodni...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Some small thing related to Zephyr, found on the floor of the crime scene...",
+        "pl": "Jakaś mała rzecz związana z Zephyrem, znaleziona na podłodze miejsca zbrodni...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest10Hint0": {
+        "en": "Which part shows why the Hex bottle is relevant to Zephyr's dream research?",
+        "pl": "Który fragment pokazuje, czemu butelka Hexa jest istotna dla badań Zephyra nad snami?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest13Hint0": {
+        "en": "Which part shows the connection between the Hex Bottle and the Dream Helmet?",
+        "pl": "Który fragment pokazuje związek między Butelką Hexa a Hełmem Snów?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "The smell of that Moon Vial liquid is connected to Zephyr in some way...",
+        "pl": "Zapach tego płynu z Fiolki Moon jest w jakiś sposób związany z Zephyrem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "The smell of that Moon Vial liquid is connected to Zephyr in some way... is there another clue with the same smell?",
+        "pl": "Zapach tego płynu z Fiolki Moon jest w jakiś sposób związany z Zephyrem... czy jest inny trop o tym samym zapachu?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Something to compare with the Hex Bottle, to connect it to Zephyr's dream experiments...",
+        "pl": "Coś do porównania z Butelką Hexa, żeby połączyć ją z eksperymentami Zephyra nad snami...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "One of Zephyr's devices to compare with the Hex Bottle, to connect it to his dream experiments...",
+        "pl": "Jedno z urządzeń Zephyra do porównania z Butelką Hexa, żeby połączyć ją z jego eksperymentami nad snami...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "Where does the Dream Helmet send the 'dream spirit energy'?",
+        "pl": "Dokąd Hełm Snów wysyła 'duchową energię snu'?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "What other Dream Chamber device does the Dream Helmet send the 'dream spirit energy' to?",
+        "pl": "Do jakiego innego urządzenia z Komnaty Snów Hełm Snów wysyła 'duchową energię snu'?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest4Detail0": {
+        "en": "Which part shows the record of the mysterious face that he saw?",
+        "pl": "Który fragment pokazuje zapis tajemniczej twarzy, którą widział?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "Where did Zephyr make a record of the mysterious face that he saw?",
+        "pl": "Gdzie Zephyr zapisał tajemniczą twarz, którą widział?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "Where did Zephyr make a little drawing of the mysterious face that he saw?",
+        "pl": "Gdzie Zephyr narysował małą tajemniczą twarz, którą widział?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest5Detail0": {
+        "en": "Which part shows the fog ball?",
+        "pl": "Który fragment pokazuje kulę mgły?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Do we have any information about the Fog Ball and its purpose?",
+        "pl": "Czy mamy jakieś informacje o Kuli Mgły i jej przeznaczeniu?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "Do we have any printed information about the Fog Ball and its purpose?",
+        "pl": "Czy mamy jakieś drukowane informacje o Kuli Mgły i jej przeznaczeniu?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest6Detail0": {
+        "en": "Which part has Symmetry's voice?",
+        "pl": "Który fragment zawiera głos Symmetry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest6Hint0": {
+        "en": "How could we hear Symmetry's voice right now?",
+        "pl": "Jak moglibyśmy teraz usłyszeć głos Symmetry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest6Hint1": {
+        "en": "What device could we use to hear Symmetry's voice right now?",
+        "pl": "Jakiego urządzenia moglibyśmy użyć, żeby teraz usłyszeć głos Symmetry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest8Detail0": {
+        "en": "Which part suggests Mortuga took one of Zephyr's moon vials?",
+        "pl": "Który fragment sugeruje, że Mortuga wziął jedną z fiolek Moon Zephyra?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest8Hint0": {
+        "en": "Do we have evidence to suggest Mortuga took one of Zephyr's moon vials?",
+        "pl": "Czy mamy dowód sugerujący, że Mortuga wziął jedną z fiolek Moon Zephyra?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitClueRequest8Hint1": {
+        "en": "Did we find anything in Mortuga's Cabin or Quarters to suggest Mortuga took one of Zephyr's moon vials?",
+        "pl": "Czy znaleźliśmy coś w Kajucie lub Kwaterze Mortugi sugerującego, że wziął jedną z fiolek Moon Zephyra?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitSoulRequest7Hint0": {
+        "en": "Who was Zephyr using the dream helmet on?",
+        "pl": "Na kim Zephyr używał hełmu snów?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitSoulRequest7Hint1": {
+        "en": "Who was Zephyr using the dream helmet on? Surely it was a friend of Zephyr's - and someone with a troubled psyche...",
+        "pl": "Na kim Zephyr używał hełmu snów? Na pewno był to przyjaciel Zephyra - i ktoś z niespokojną psychiką...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitSoulRequest9Hint0": {
+        "en": "Whose voice activates the Fog Ball?",
+        "pl": "Czyj głos aktywuje Kulę Mgły?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Request exitSoulRequest9Hint1": {
+        "en": "Whose voice activates the Fog Ball? Surely, it's the true owner of the Fog Ball...",
+        "pl": "Czyj głos aktywuje Kulę Mgły? Na pewno to prawdziwy właściciel Kuli Mgły...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest10 0": {
+        "en": "The Hex bottle is relevant to Zephyr's dream research, because...",
+        "pl": "Butelka Hexa jest istotna dla badań Zephyra nad snami, ponieważ...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest4 0": {
+        "en": "Zephyr made of a drawing of...",
+        "pl": "Zephyr narysował...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest4 1": {
+        "en": "Zephyr took a photograph of...",
+        "pl": "Zephyr sfotografował...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest4 2": {
+        "en": "Zephyr wrote about...",
+        "pl": "Zephyr napisał o...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest5 0": {
+        "en": "The Fog Ball appears in...",
+        "pl": "Kula Mgły pojawia się w...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest5 1": {
+        "en": "The Hex Bottle appears in...",
+        "pl": "Butelka Hexa pojawia się w...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest5 2": {
+        "en": "The Lifesize Doll appears in...",
+        "pl": "Lalka Naturalnej Wielkości pojawia się w...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestPrefix exitClueRequest8 0": {
+        "en": "Mortuga had...",
+        "pl": "Mortuga miał...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest10 0": {
+        "en": "...is an image of his dream.",
+        "pl": "...to obraz jego snu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest10 1": {
+        "en": "...is from a photograph.",
+        "pl": "...pochodzi z fotografii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest10 2": {
+        "en": "...is a film projection.",
+        "pl": "...to projekcja filmowa.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest13 0": {
+        "en": "...is the same shape as the one on the dream helmet.",
+        "pl": "...ma ten sam kształt co ten na hełmie snów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest13 1": {
+        "en": "...is the same size as the one on the dream helmet.",
+        "pl": "...ma ten sam rozmiar co ten na hełmie snów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest13 2": {
+        "en": "...is different to the one on the dream helmet.",
+        "pl": "...różni się od tego na hełmie snów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest4 0": {
+        "en": "...that he'd seen in the Fog Ball",
+        "pl": "...którą widział w Kuli Mgły",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest4 1": {
+        "en": "...that he'd seen in the Hex Bottle",
+        "pl": "...którą widział w Butelce Hexa",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest4 2": {
+        "en": "...that he'd seen in the Dream Helmet",
+        "pl": "...którą widział w Hełmie Snów",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest5 0": {
+        "en": "...and it's displaying the same face that Zephyr saw.",
+        "pl": "...i wyświetla tę samą twarz, którą widział Zephyr.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest5 1": {
+        "en": "...and it's reflecting Symmetry's face.",
+        "pl": "...i odbija twarz Symmetry.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest5 2": {
+        "en": "...but it's displaying a different face.",
+        "pl": "...ale wyświetla inną twarz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/RequestSuffix exitClueRequest8 0": {
+        "en": "...from the Moon Vial.",
+        "pl": "...z Fiolki Moon.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds0": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds10": {
+        "en": "You [h]say[/h] that - but we found something at the crime scene that we think belongs to you.",
+        "pl": "[h]Mówisz[/h] tak - ale znaleźliśmy coś na miejscu zbrodni, co naszym zdaniem należy do ciebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds101": {
+        "en": "A certain voice.",
+        "pl": "Pewien głos.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds102": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds103": {
+        "en": "I demand that we [i]test[/i] this theory - send for Symmetry at once!!",
+        "pl": "Żądam, żebyśmy [i]przetestowali[/i] tę teorię - sprowadźcie Symmetry natychmiast!!",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds104": {
+        "en": "The fog ball's designed to show the face when it hears Sym's voice.",
+        "pl": "Kula mgły ma pokazywać twarz, kiedy słyszy głos Sym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds105": {
+        "en": "See how in the photograph, she's talking to it through the telephone?",
+        "pl": "Widzisz, jak na zdjęciu mówi do niej przez telefon?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds106": {
+        "en": "Wait - we don't have to.",
+        "pl": "Czekaj - nie musimy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds107": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds108": {
+        "en": "We have a recording of Sym's voice right here.",
+        "pl": "Mamy tu właśnie nagranie głosu Sym.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds109": {
+        "en": "[i]The Star-Gazing Girl stares into the ink-blank void.[/i]",
+        "pl": "[i]Dziewczyna Patrząca w Gwiazdy wpatruje się w atramentowopustą pustkę.[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds11": {
+        "en": "Specifically, something we think is related to your little dream experiments.",
+        "pl": "Konkretnie, coś, co naszym zdaniem jest związane z twoimi małymi eksperymentami nad snami.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds110": {
+        "en": "[i]Upon her trembling lips, a question born.[/i]",
+        "pl": "[i]Na jej drżących wargach, rodzi się pytanie.[/i]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds111": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds112": {
+        "en": "I don't say this to be cruel, but it seems like your dream experiments are, uh - [i]inconclusive.[/i]",
+        "pl": "Nie mówię tego, żeby być okrutna, ale wygląda na to, że twoje eksperymenty nad snami są, yy - [i]niejednoznaczne.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds113": {
+        "en": "I'm just glad to have some clarity about what they actually [i]are.\n[/i]",
+        "pl": "Po prostu cieszę się, że mamy jasność co do tego, czym one właściwie [i]są.\n[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds114": {
+        "en": "And as far as I can tell... it all seems pretty harmless.",
+        "pl": "I o ile mogę stwierdzić... to wszystko wydaje się dość niegroźne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds115": {
+        "en": "Right. And the moon potion-",
+        "pl": "No właśnie. A eliksir moon-",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds116": {
+        "en": "As you said. Merely an herbal tincture.",
+        "pl": "Jak powiedzieliście. Zwykła nalewka ziołowa.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds118": {
+        "en": "But then why was it found at the crime scene??",
+        "pl": "Ale czemu w takim razie znaleziono ją na miejscu zbrodni??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds119": {
+        "en": "That, I do not know.",
+        "pl": "Tego nie wiem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds12": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds120": {
+        "en": "D'you know if Mortuga had any on him? Did he ever borrow a bottle from you?",
+        "pl": "Wiesz, czy Mortuga miał przy sobie coś takiego? Pożyczał kiedyś od ciebie butelkę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds121": {
+        "en": "It's a possibility.",
+        "pl": "To możliwe.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds123": {
+        "en": "It was on his desk, in the captain's cabin.",
+        "pl": "Była na jego biurku, w kajucie kapitana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds124": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds129": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds130": {
+        "en": "If Mortuga had the dropper, I'm assuming he had the [h]rest[/h] of the moon vial somewhere nearby.",
+        "pl": "Jeśli Mortuga miał zakraplacz, zakładam, że miał [h]resztę[/h] fiolki moon gdzieś w pobliżu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds133": {
+        "en": "And yet... the moon vial was discovered at the scene of the crime.",
+        "pl": "A jednak... fiolkę moon odkryto na miejscu zbrodni.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds134": {
+        "en": ".....",
+        "pl": ".....",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds136": {
+        "en": "So what [h]is[/h] it?\nWhat's in the bottle?",
+        "pl": "Więc co to [h]jest?[/h]\nCo jest w butelce?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds137": {
+        "en": "Where exactly did you find this?",
+        "pl": "Gdzie dokładnie to znaleźliście?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds138": {
+        "en": "Curious...",
+        "pl": "Ciekawe...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds14": {
+        "en": "That has nothing to do with my research.",
+        "pl": "To nie ma nic wspólnego z moimi badaniami.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds140": {
+        "en": "Of course I do.",
+        "pl": "Oczywiście, że wiem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds144": {
+        "en": "Unfortunately, I have been unable to consistently replicate it.",
+        "pl": "Niestety, nie byłem w stanie konsekwentnie tego powtórzyć.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds145": {
+        "en": "Did you make a record of it?",
+        "pl": "Zrobiłeś jakiś zapis tego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds146": {
+        "en": "One floor below.",
+        "pl": "Piętro niżej.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds147": {
+        "en": "Sally. We've been over this. That's [i]not[/i] what they're called.",
+        "pl": "Sally. Już to przerabialiśmy. To [i]nie[/i] tak się nazywają.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds148": {
+        "en": "I saw the opportunity, and I took it.",
+        "pl": "Zobaczyłam okazję i ją wykorzystałam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds149": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds15": {
+        "en": "What makes you so sure it even [h]belongs[/h] to me?",
+        "pl": "Skąd taka pewność, że to w ogóle [h]należy[/h] do mnie?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds15 Choice 1": {
+        "en": "The smell...",
+        "pl": "Zapach...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds15 Choice 2": {
+        "en": "The color of the liquid...",
+        "pl": "Kolor płynu...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds15 Choice 3": {
+        "en": "The moon label...",
+        "pl": "Etykieta z księżycem...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds15 Choice Question": {
+        "en": "What could connect the Moon Vial to Dr Zephyr?",
+        "pl": "Co mogłoby łączyć Fiolkę Moon z doktorem Zephyrem?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds150": {
+        "en": "A sexta-",
+        "pl": "Seksta-",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds151": {
+        "en": "An octopus.",
+        "pl": "Ośmiornica.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds153": {
+        "en": "The moon label...",
+        "pl": "Etykieta z księżycem...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds154": {
+        "en": "The color of the liquid...",
+        "pl": "Kolor płynu...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds155": {
+        "en": "The smell...",
+        "pl": "Zapach...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds156": {
+        "en": "A hexapus.",
+        "pl": "Heksapus.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds157": {
+        "en": "The fog ball reflects the face of whoever uses it.",
+        "pl": "Kula mgły odbija twarz tego, kto jej używa.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds158": {
+        "en": "That face never appeared in the fog ball.",
+        "pl": "Ta twarz nigdy nie pojawiła się w kuli mgły.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds159": {
+        "en": "A certain temperature.",
+        "pl": "Pewna temperatura.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds160": {
+        "en": "A certain smell.",
+        "pl": "Pewien zapach.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds161": {
+        "en": "They are two distinct objects, there is no such connection.",
+        "pl": "To dwa odrębne przedmioty, nie ma takiego związku.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds162": {
+        "en": "Oh no?",
+        "pl": "Ach nie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds164": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds165": {
+        "en": "That's how the [i]original[/i] trick worked, anyway.",
+        "pl": "Tak czy inaczej, tak działała [i]oryginalna[/i] sztuczka.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds17": {
+        "en": "That is to say - my experiments have no [i]connection[/i] with the murder.",
+        "pl": "To znaczy - moje eksperymenty nie mają żadnego [i]związku[/i] z morderstwem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds18": {
+        "en": "According to Mariana Moon, the liquid from the bottle is seawater mixed with three particular herbs.",
+        "pl": "Według Mariany Moon, płyn z butelki to woda morska zmieszana z trzema konkretnymi ziołami.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds21": {
+        "en": "Mariana Moon's sense of smell knows no [i]bounds-[/i]",
+        "pl": "Zmysł węchu Mariany Moon nie zna [i]granic-[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds22": {
+        "en": "-but I fail to see how this information connects it to [i]me?[/i]",
+        "pl": "-ale nie rozumiem, jak ta informacja łączy to ze [i]mną?[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds23": {
+        "en": "The liquid in your 'Hex' bottle has the exact same four ingredients.",
+        "pl": "Płyn w twojej butelce 'Hex' ma dokładnie te same cztery składniki.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds26": {
+        "en": "Irrelevant. The Hex Bottle isn't anything to do with my dream experiments either.",
+        "pl": "Nieistotne. Butelka Hexa też nie ma nic wspólnego z moimi eksperymentami nad snami.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds32": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds33": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds35": {
+        "en": "...a [i]'sea creature'[/i]?",
+        "pl": "...jakieś [i]'morskie stworzenie'?[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds35 Choice 1": {
+        "en": "An octopus.",
+        "pl": "Ośmiornica.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds35 Choice 2": {
+        "en": "A hexapus.",
+        "pl": "Heksapus.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds35 Choice 3": {
+        "en": "A sextapus.",
+        "pl": "Sekstapus.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds35 Choice Question": {
+        "en": "What kind of sea creature is inside the Hex Bottle?",
+        "pl": "Jakie morskie stworzenie jest w Butelce Hexa?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds38": {
+        "en": "It's not called a hex bottle because there's a [h]magic spell[/h] inside.",
+        "pl": "Nie nazywa się 'butelka Hexa' dlatego, że jest w niej [h]zaklęcie.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds39": {
+        "en": "It's called a hex bottle because there's a sleeping [h]hexapus[/h] inside.",
+        "pl": "Nazywa się 'butelka Hexa', bo jest w niej śpiący [h]heksapus.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds40": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds41": {
+        "en": "His name is Hex.\nI've had him since I was a young boy.",
+        "pl": "Nazywa się Hex.\nMam go, odkąd byłem małym chłopcem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds43": {
+        "en": "-not to be rude, but that must have been quite some time ago.\n",
+        "pl": "-nie chcę być niegrzeczny, ale to musiało być już dość dawno temu.\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds44": {
+        "en": "A normal octopus would live only a couple years, wouldn't it?",
+        "pl": "Zwykła ośmiornica żyłaby tylko parę lat, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds45": {
+        "en": "Hex is a singular specimen, with a number of [i]special properties...[/i]",
+        "pl": "Hex to niezwykły okaz, o wielu [i]szczególnych właściwościach...[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds46": {
+        "en": "Do you ever let him out of that little bottle?",
+        "pl": "Wypuszczasz go kiedyś z tej małej butelki?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds47": {
+        "en": "Hex swims freely in the ocean at night - and during the day he returns to me and sleeps in the bottle.",
+        "pl": "Hex pływa swobodnie w oceanie nocą - a w ciągu dnia wraca do mnie i śpi w butelce.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds48": {
+        "en": "So he's asleep right now?",
+        "pl": "Więc teraz właśnie śpi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds49": {
+        "en": "I [h]knew[/h] he was related to your dream experiments!",
+        "pl": "[h]Wiedziałem,[/h] że jest powiązany z twoimi eksperymentami nad snami!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds50": {
+        "en": "Who said anything about dreams?",
+        "pl": "Kto tu mówił coś o snach?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds51": {
+        "en": "Nobody. But just looking at him - I think I know one of Hex's special properties...",
+        "pl": "Nikt. Ale patrząc tylko na niego - chyba wiem, jedną ze szczególnych właściwości Hexa...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds52": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds53": {
+        "en": "...and it would explain why you'd be interested in the first place.",
+        "pl": "...i to by wyjaśniało, czemu w ogóle byłeś nim zainteresowany.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds54": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds55": {
+        "en": "Pure subconscious projection, unmarred by the insecurities of the waking mind.\n",
+        "pl": "Czysta projekcja podświadomości, nieskażona niepewnością obudzonego umysłu.\n",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds57": {
+        "en": "That's pretty cool. I can see why you became a dream scientist.",
+        "pl": "To całkiem fajne. Rozumiem, czemu zostałeś naukowcem od snów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds58": {
+        "en": "So the Hex bottle was the original... and then you made the dream helmet more recently?",
+        "pl": "Więc butelka Hexa była pierwsza... a potem zrobiłeś niedawno hełm snów?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds6": {
+        "en": "Zephyr, can you tell us more about the work you do as a Dream Doctor?",
+        "pl": "Zephyr, możesz nam powiedzieć więcej o pracy, którą wykonujesz jako Doktor Snów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds63": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds66": {
+        "en": "Right. The dream helmet's clearly just a scaled-up version of the Hex bottle...",
+        "pl": "No właśnie. Hełm snów to ewidentnie po prostu powiększona wersja butelki Hexa...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds67": {
+        "en": "Specifically - scaled up to [h]human[/h] size.",
+        "pl": "Konkretnie - powiększona do rozmiaru [h]człowieka.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds7": {
+        "en": "I'm looking for - [i]specifics[/i], here.",
+        "pl": "Szukam tu - [i]konkretów.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds70": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds71": {
+        "en": "We heard Mortuga was experiencing a particular recurring dream.",
+        "pl": "Słyszeliśmy, że Mortudze śnił się pewien powtarzający się sen.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds72": {
+        "en": "I think - he was your [i]test subject.[/i]",
+        "pl": "Myślę - że był twoim [i]królikiem doświadczalnym.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds73": {
+        "en": "So - Mortuga wears the dream helmet, and lays on your weird chair thing.",
+        "pl": "Więc - Mortuga zakłada hełm snów i kładzie się na tym twoim dziwnym fotelu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds74": {
+        "en": "And then... you give him some of the moon potion to help him sleep?",
+        "pl": "A potem... dajesz mu trochę eliksiru moon, żeby pomóc mu zasnąć?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds75": {
+        "en": "And as he dreams, the dream helmet collects the spirit energy, and sends it to, uh...",
+        "pl": "A gdy śni, hełm snów zbiera energię duchową i wysyła ją do, yy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds76": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds78": {
+        "en": "Do not think I cannot hear your [i]mocking tone-[/i]",
+        "pl": "Nie myślcie, że nie słyszę waszego [i]drwiącego tonu-[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds79": {
+        "en": "It may surprise you to learn that I have [i]indeed[/i] had some success in this area.",
+        "pl": "Może was zaskoczyć, że [i]rzeczywiście[/i] miałem pewne sukcesy w tej dziedzinie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds8": {
+        "en": "I've told you all I think you could understand.",
+        "pl": "Powiedziałem wam wszystko, co moim zdaniem możecie zrozumieć.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds80": {
+        "en": "I did, once, successfully filter something into the fog ball-",
+        "pl": "Raz udało mi się przefiltrować coś do kuli mgły-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds81": {
+        "en": "-and I witnessed a face inside the glass... however briefly.",
+        "pl": "-i ujrzałem twarz wewnątrz szkła... choć na krótko.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds82": {
+        "en": "A face?",
+        "pl": "Twarz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds83": {
+        "en": "No doubt the visage of someone from beyond the veil...",
+        "pl": "Bez wątpienia oblicze kogoś spoza zasłony...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds85": {
+        "en": "I [i]thought[/i] I did... but I can't remember where... ",
+        "pl": "[i]Wydawało[/i] mi się, że tak... ale nie pamiętam gdzie... ",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds86": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds87": {
+        "en": "There it is! [i]Irrefutable evidence![/i]",
+        "pl": "Otóż to! [i]Niepodważalny dowód![/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds88": {
+        "en": "Sorry to burst your bubble, Zephyr, but...",
+        "pl": "Przykro mi to mówić, Zephyr, ale...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds88 Choice 1": {
+        "en": "The fog ball was designed to show that exact face.",
+        "pl": "Kula mgły została zaprojektowana, żeby pokazywać dokładnie tę twarz.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds88 Choice 2": {
+        "en": "That face never appeared in the fog ball.",
+        "pl": "Ta twarz nigdy nie pojawiła się w kuli mgły.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds88 Choice 3": {
+        "en": "The fog ball reflects the face of whoever uses it.",
+        "pl": "Kula mgły odbija twarz tego, kto jej używa.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds88 Choice Question": {
+        "en": "Why would that face appear in the fog ball?",
+        "pl": "Czemu ta twarz miałaby się pojawić w kuli mgły?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds9": {
+        "en": "To be blunt, it's not a line of enquiry that should [i]concern[/i] you.",
+        "pl": "Mówiąc wprost, to nie jest trop, który powinien was [i]zajmować.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds94": {
+        "en": "The fog ball was designed to show that exact face.",
+        "pl": "Kula mgły została zaprojektowana, żeby pokazywać dokładnie tę twarz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds95": {
+        "en": "What do you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds96": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds98": {
+        "en": "But what's the [i]connection?[/i] What causes the face to appear?",
+        "pl": "Ale jaki jest [i]związek?[/i] Co powoduje, że twarz się pojawia?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds98 Choice 1": {
+        "en": "A certain voice.",
+        "pl": "Pewien głos.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds98 Choice 2": {
+        "en": "A certain smell.",
+        "pl": "Pewien zapach.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds98 Choice 3": {
+        "en": "A certain temperature.",
+        "pl": "Pewna temperatura.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Zephyr 05 SUSPICION/Section ds98 Choice Question": {
+        "en": "What causes the fog ball to display that face?",
+        "pl": "Co powoduje, że kula mgły wyświetla tę twarz?",
+        "speaker": "(naglowek wyboru)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Zephyr 05 SUSPICION/ds109 'ink-blank' vs Symmetry 05 SUSPICION/ds93 'ink-black'",
+      "problem": "To samo nagranie 'Pipe' (fragment przedstawienia Symmetry) ma tu drobna roznice tekstu wzgledem batch_30 ('ink-blank void' zamiast 'ink-black void') - przetlumaczono to doslownie zachowujac roznice ('atramentowopustą' zamiast 'atramentowoczarną' z batch_30), zakladajac ze to celowy efekt niedoslyszenia nagrania przez sciane/klape wentylacyjna z innego pomieszczenia. Do potwierdzenia czy to faktycznie zamierzona niespojnosc czy literowka w zrodle."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "_meta": {
+    "batch": "Symmetry 04 STATEMENT (42 terminow) - kontynuacja luku Symmetry po batch_27-28 (40/292). Symmetry recytuje swoje zeznanie jako PELNOPRAWNY SCENARIUSZ TEATRALNY (didaskalia w nawiasach kwadratowych, imiona postaci WIELKIMI LITERAMI + dwukropek + kwestia) - zgodne z jej tozsamoscia aktorki/iluzjonistki teatralnej. Potwierdza tez, ze inne postacie zwracaja sie do Dirka per 'Dansom' (nazwisko).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 42/42 pokryte: Symmetry 33, Grimoire 5, Sally 4",
+    "character_voice": "Symmetry: archaiczny/teatralny (patrz batch_27-28). W tej scenie dodatkowo format scenariusza - didaskalia [w nawiasach], imiona postaci WIELKIMI LITERAMI, struktura 'IMIE:\\n(didaskalium)\\nkwestia' zachowana doslownie z oryginalu."
+  },
+  "categories": {
+    "Symmetry 04 STATEMENT": {
+      "Conversation/Symmetry 04 STATEMENT/Section ds49": {
+        "en": "[Scene opens]\n[Submarine, interior]\n[SYMMETRY lies awake in bed]",
+        "pl": "[Scena się otwiera]\n[Łódź podwodna, wnętrze]\n[SYMMETRY leży w łóżku, rozbudzona]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds50": {
+        "en": "[A sudden movement of the submarine wakes SINTHIA]",
+        "pl": "[Nagły ruch łodzi budzi SINTHIĘ]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds51": {
+        "en": "SINTHIA:\n(noticing SYMMETRY)\nO, You were already awake? What is wrong?",
+        "pl": "SINTHIA:\n(zauważając SYMMETRY)\nO, już nie spałaś? Co się stało?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds52": {
+        "en": "[The ILLUSION THEATRE]\n[The door is already open]",
+        "pl": "[TEATR ILUZJI]\n[Drzwi są już otwarte]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds53": {
+        "en": "[She also sees a large FACE passing by the window]",
+        "pl": "[Widzi też wielką TWARZ przesuwającą się za oknem]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds55": {
+        "en": "[Enter DANSOM and WIRMAN]\nDANSOM:\nO, My dude, this is crazy.",
+        "pl": "[Wchodzą DANSOM i WIRMAN]\nDANSOM:\nO, stary, to jest szalone.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds56": {
+        "en": "[In her wake, MR GRIPP, SINTHIA and MARIANA]",
+        "pl": "[Za nią, PAN GRIPP, SINTHIA i MARIANA]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds57": {
+        "en": "[And after a short while, DR ZEPHYR]",
+        "pl": "[A po krótkiej chwili, DOKTOR ZEPHYR]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds58": {
+        "en": "SINTHIA:\n(Getting up)\nO, I must go and inspect the control room.",
+        "pl": "SINTHIA:\n(wstając)\nO, muszę pójść i sprawdzić sterownię.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds59": {
+        "en": "[Exit SINTHIA]\n[SYMMETRY lays in bed a little longer]",
+        "pl": "[SINTHIA wychodzi]\n[SYMMETRY leży w łóżku jeszcze chwilę]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds60": {
+        "en": "SYMMETRY:\n(Getting up)\nO, I must return to the Illusion Theatre. I cannot bear it.",
+        "pl": "SYMMETRY:\n(wstając)\nO, muszę wrócić do Teatru Iluzji. Nie mogę tego znieść.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds61": {
+        "en": "[SYMMETRY sees CAPTAIN MORTUGA, laying dead on the ground. She screams]",
+        "pl": "[SYMMETRY widzi KAPITANA MORTUGĘ, leżącego martwego na ziemi. Krzyczy]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds62": {
+        "en": "[Enter MADAM TADPOLE]",
+        "pl": "[Wchodzi MADAM TADPOLE]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds63": {
+        "en": "MADAM TADPOLE:\n(Taking charge)\nO, Which one of you is the murderer?",
+        "pl": "MADAM TADPOLE:\n(przejmując dowodzenie)\nO, która z was jest morderczynią?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds64": {
+        "en": "[The two young women attempt to enter the CAPTAIN'S CABIN, but the door is locked]",
+        "pl": "[Dwie młode kobiety próbują wejść do KAJUTY KAPITANA, ale drzwi są zamknięte]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds65": {
+        "en": "SINTHIA:\n(Visibly nervous)\nO, But who will become captain now?",
+        "pl": "SINTHIA:\n(widocznie zdenerwowana)\nO, ale kto teraz zostanie kapitanem?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds66": {
+        "en": "[Exit SINTHIA and SYMMETRY]",
+        "pl": "[SINTHIA i SYMMETRY wychodzą]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds67": {
+        "en": "[They decide to visit the CONTROL ROOM instead]",
+        "pl": "[Postanawiają zamiast tego odwiedzić STEROWNIĘ]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds68": {
+        "en": "[SINTHIA is now moving with urgency, and SYMMETRY is lagging behind]",
+        "pl": "[SINTHIA porusza się teraz w pośpiechu, a SYMMETRY zostaje w tyle]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds69": {
+        "en": "[SINTHIA emerges from the CONTROL ROOM]",
+        "pl": "[SINTHIA wyłania się ze STEROWNI]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds70": {
+        "en": "[SINTHIA goes down the ladder. SYMMETRY follows behind]",
+        "pl": "[SINTHIA schodzi po drabinie. SYMMETRY podąża za nią]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds72": {
+        "en": "[She places the paper back into the typewriter]",
+        "pl": "[Wkłada papier z powrotem do maszyny do pisania]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds74": {
+        "en": "[SYMMETRY returns to her bedroom]",
+        "pl": "[SYMMETRY wraca do swojej sypialni]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds75": {
+        "en": "[Scene ends]",
+        "pl": "[Scena się kończy]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds77": {
+        "en": "Return?",
+        "pl": "Wraca?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds79": {
+        "en": "[The two young women briefly talk to one another]",
+        "pl": "[Dwie młode kobiety chwilę ze sobą rozmawiają]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds80": {
+        "en": "Guilt about what?",
+        "pl": "Wina za co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds81": {
+        "en": "Not gonna give us that bit?",
+        "pl": "Nie dasz nam tego fragmentu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds83": {
+        "en": "What? A face - outside the submarine?",
+        "pl": "Co? Twarz - na zewnątrz łodzi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds84": {
+        "en": "SYMMETRY:\n(Pondering)\nO, Do you think Mortuga wrote a will?",
+        "pl": "SYMMETRY:\n(zamyślona)\nO, myślicie, że Mortuga spisał testament?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds85": {
+        "en": "We're really doing it like this.",
+        "pl": "Więc naprawdę tak to robimy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds86": {
+        "en": "[She is restlesss, wrought with guilt]",
+        "pl": "[Jest niespokojna, dręczona poczuciem winy]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds87": {
+        "en": "[WIRMAN says nothing]",
+        "pl": "[WIRMAN nic nie mówi]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds88": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds89": {
+        "en": "I'm sure that's [i]exactly[/i] what she said.",
+        "pl": "Jestem pewna, że to [i]dokładnie[/i] to, co powiedziała.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds90": {
+        "en": "Not a bad question.",
+        "pl": "Niezłe pytanie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds91": {
+        "en": "[She is holding several sheets of paper and the Captain's Logbook]",
+        "pl": "[Trzyma kilka kartek papieru i Dziennik Pokładowy Kapitana]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds92": {
+        "en": "[Outside WIRMAN'S BUNK ROOM]",
+        "pl": "[Przed KAJUTĄ SYPIALNĄ WIRMANA]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds93": {
+        "en": "SYMMETRY:\n(Noticing a piece of paper on the ground)",
+        "pl": "SYMMETRY:\n(zauważając kartkę papieru na ziemi)",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds95": {
+        "en": "O, Surely this was dropped by Wirman, as it is from his typewriter. I shall return it to whence it came.",
+        "pl": "O, z pewnością to zgubił Wirman, skoro to z jego maszyny do pisania. Zwrócę to, skąd przybyło.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds96": {
+        "en": "Tell me now so that ye may be punished appropriately.",
+        "pl": "Powiedz mi teraz, byś mógł być ukarany stosownie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 04 STATEMENT/Section ds98": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Symmetry 04 STATEMENT/ds96",
+      "problem": "Niejasny kontekst - kto dokladnie mowi 'Tell me now so that ye may be punished appropriately' i do kogo (archaiczne 'ye' moze byc l.poj. formalne lub l.mnoga). Zalozono ze to Symmetry zwracajaca sie w scenariuszu do jednej osoby (prawdopodobnie Wirmana, po zwroceniu kartki) - przetlumaczone l.pojedyncza. Do potwierdzenia w kontekscie pelnej sceny w grze."
+    }
+  ]
+}

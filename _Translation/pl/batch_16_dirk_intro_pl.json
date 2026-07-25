@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "batch": "Dirk 01 INTRO (16 terminow) - poczatek luku postaci Dirk (pelne nazwisko potwierdzone tutaj: 'Dirk Dansom', domysl z batch_11 _meta potwierdzony). Pierwsze spotkanie z Dirkiem, aktorem na lodzi.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 16/16 pokryte: Dirk 8, Sally 5, Grimoire 3",
+    "character_voice": "Dirk: najbardziej wspolczesny/luzny jezykowo bohater gry (potwierdzone w devTexts Art Gallery, patrz GLOSSARY) - duzo wtracen 'you know'/'I mean'/'like', mlodziezowy/aktorski luz. Tlumaczone potocznie: 'no wiesz', 'no bo', 'spoko', 'sorry', 'super' zamiast neutralnych odpowiednikow."
+  },
+  "categories": {
+    "Dirk 01 INTRO": {
+      "Conversation/Dirk 01 INTRO/Section ds0": {
+        "en": "Heyyy, what's up?\nHow's it going?",
+        "pl": "Heeej, co słychać?\nJak leci?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds10": {
+        "en": "Uh, yeah, we're here to investigate the - [i]murder[/i] - of Magnus Mortuga.",
+        "pl": "Yy, tak, jesteśmy tu, żeby zbadać - [i]morderstwo[/i] - Magnusa Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds11": {
+        "en": "[h]Oh,[/h] yeah - major bummer, honestly - he was a pretty standup guy.",
+        "pl": "[h]Oo,[/h] tak - naprawdę wielki dołek, szczerze - był całkiem spoko gościem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds12": {
+        "en": "Dirk - you didn't tell us your surname.",
+        "pl": "Dirk - nie powiedziałeś nam swojego nazwiska.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds13": {
+        "en": "Oh right - sorry.",
+        "pl": "O, faktycznie - sorry.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds14": {
+        "en": "Dirk Dansom.\n[h]Actor.[/h]",
+        "pl": "Dirk Dansom.\n[h]Aktor.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds21": {
+        "en": "I mean, you know, sure - kind of an oddball, but like, in a good way? You know, I mean, he-",
+        "pl": "No wiesz, no jasne - trochę dziwak, ale tak w dobrym sensie? No wiesz, no bo on-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds22": {
+        "en": "So - yeah anyway... um, hi! And, uh - what can I do for you folks?",
+        "pl": "Więc - tak w sumie... yy, hej! I, yy - co mogę dla was zrobić?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds23": {
+        "en": "He's adorable.\nCan we keep him?",
+        "pl": "Jest uroczy.\nMożemy go zatrzymać?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds24": {
+        "en": "No.\nYou'd forget to feed him.",
+        "pl": "Nie.\nZapomniałabyś go nakarmić.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds26": {
+        "en": "I would, yeah.",
+        "pl": "No tak, pewnie bym zapomniała.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds27": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds6": {
+        "en": "Uh... it's going good. I think.",
+        "pl": "Yy... całkiem nieźle. Chyba.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds7": {
+        "en": "Awesome, yeah - um, I'm Dirk by the way. Who are you guys?",
+        "pl": "Super, tak - yy, jestem Dirk, swoją drogą. A wy kim jesteście?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds8": {
+        "en": "I'm... Grimoire, and this is Sally-",
+        "pl": "Jestem... Grimoire, a to Sally-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 01 INTRO/Section ds9": {
+        "en": "Ohh cool, cool - so - you're the detectives?",
+        "pl": "Ooo super, super - czyli - jesteście detektywami?",
+        "speaker": "Dirk"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

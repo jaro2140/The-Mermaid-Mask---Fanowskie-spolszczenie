@@ -1,0 +1,245 @@
+{
+  "_meta": {
+    "batch": "Sinthia (pelne imie: Sinthia Seafoam) - poczatek luku postaci: 01 INTRO (17) + 02 YOURSELF (29) = 46 terminow.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking)",
+    "character_voice": "Sinthia: mloda (18 lat), teatralna, przesadnie dramatyczna kapitan - duzo wykrzyknikow, samozachwytu, dzieciecego uporu."
+  },
+  "categories": {
+    "Sinthia 01 INTRO": {
+      "Conversation/Sinthia 01 INTRO/Section ds0": {
+        "en": "It is I, Sinthia Seafoam! [h]Fearless[/h] Captain of the Mortuga Submarine.",
+        "pl": "To ja, Sinthia Seafoam! [h]Nieustraszona[/h] kapitan łodzi podwodnej Mortuga.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds10": {
+        "en": "Aha! Then [h]you[/h] must be Detective Grimoire.",
+        "pl": "A-ha! Czyli [h]ty[/h] musisz być detektywem Grimoire.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds11": {
+        "en": "Uh - correct. Yes.",
+        "pl": "Yy - zgadza się. Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds12": {
+        "en": "[i]The world's greatest detective[/i], here, on my submarine-",
+        "pl": "[i]Najlepszy detektyw na świecie[/i], tutaj, na mojej łodzi podwodnej-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds13": {
+        "en": "[i]The world's-[/i]\nNo no I'm not the world's greatest, just [h]a[/h] detective.",
+        "pl": "[i]Na świecie-[/i]\nNie, nie, nie jestem najlepszym na świecie, po prostu [h]jakimś[/h] detektywem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds14": {
+        "en": "Uh, she was probably talking about [h]me?[/h]",
+        "pl": "Yy, chyba miała na myśli [h]mnie?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds17": {
+        "en": "Now, I assume you've come to make your official report?",
+        "pl": "A teraz, zakładam, że przybyliście złożyć oficjalny raport?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds18": {
+        "en": "Let's hear it - I'm a busy woman, you know!",
+        "pl": "Słucham - jestem zajętą kobietą, wiecie!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds19": {
+        "en": "Slow down there, Miss Seafoam. ",
+        "pl": "Zwolnij, panno Seafoam. ",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds20": {
+        "en": "We just came in here to [i]question[/i] you - since you're one of the suspects.",
+        "pl": "Przyszliśmy tu, żeby cię [i]przesłuchać[/i] - w końcu jesteś jedną z podejrzanych.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds21": {
+        "en": "But [h]I[/h] hired you!",
+        "pl": "Ale to [h]ja[/h] was wynajęłam!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds22": {
+        "en": "What...? Really?",
+        "pl": "Co...? Naprawdę?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds23": {
+        "en": "Yeah, no - that doesn't get you off the hook, I'm afraid.",
+        "pl": "No właśnie nie - obawiam się, że to cię nie zwalnia z podejrzeń.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds24": {
+        "en": "[i]Ugh.[/i] This is [h]so[/h] totally unfair.",
+        "pl": "[i]Uch.[/i] To jest [h]tak[/h] bardzo niesprawiedliwe.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds6": {
+        "en": "Hey, so - thanks for finally letting us in.",
+        "pl": "Hej, więc - dzięki, że w końcu nas wpuściłaś.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds7": {
+        "en": "You know, I have to say, that [i]really was[/i] pretty unhelpful-",
+        "pl": "Wiesz, muszę powiedzieć, że to [i]naprawdę nie[/i] pomogło-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 01 INTRO/Section ds8": {
+        "en": "Hi. I'm Sally.",
+        "pl": "Cześć. Jestem Sally.",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia 02 YOURSELF": {
+      "Conversation/Sinthia 02 YOURSELF/Section ds0": {
+        "en": "So... how'd you end up as the new captain?",
+        "pl": "Więc... jak zostałaś nowym kapitanem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds10": {
+        "en": "[i]-it's all above board, okay??[/i]",
+        "pl": "[i]-wszystko jest w porządku, jasne??[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds11": {
+        "en": "I didn't say it wasn't.",
+        "pl": "Nie powiedziałam, że nie jest.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds12": {
+        "en": "Sinthia, what were you [i]before[/i] you became captain? D'you have any credentials?",
+        "pl": "Sinthia, kim byłaś [i]zanim[/i] zostałaś kapitanem? Masz jakieś kwalifikacje?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds13": {
+        "en": "Fifteen years experience as a nautical engineer and shipyard mechanic. Family business.",
+        "pl": "Piętnaście lat doświadczenia jako inżynier morski i mechanik stoczniowy. Rodzinny biznes.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds14": {
+        "en": "You don't look much older than fifteen [h]now.[/h]",
+        "pl": "Teraz [h]też[/h] nie wyglądasz na wiele więcej niż piętnaście lat.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds15": {
+        "en": "...\nI'm [h]eight[/h]een!! [i]Ugh.[/i]",
+        "pl": "...\nMam [h]osiem[/h]naście lat!! [i]Uch.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds17": {
+        "en": "How does an eighteen-year-old end up on a [i]submarine?[/i]",
+        "pl": "Jak to się dzieje, że osiemnastolatka trafia na [i]łódź podwodną?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds18": {
+        "en": "I came by rowing boat.",
+        "pl": "Przypłynęłam łódką wiosłową.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds19": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds20": {
+        "en": "Wait, the rowing boat we saw up on the [i]fore deck?[/i] That's yours?",
+        "pl": "Czekaj, ta łódka wiosłowa, którą widzieliśmy na [i]pokładzie dziobowym?[/i] To twoja?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds22": {
+        "en": "That's not really what I meant-",
+        "pl": "Nie do końca o to mi chodziło-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds23": {
+        "en": "...I'll add it to the list.",
+        "pl": "...dopiszę to do listy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds24": {
+        "en": "You should know, it's in bad shape. And it's missing an oar.",
+        "pl": "Powinnaś wiedzieć, że jest w kiepskim stanie. I brakuje jej wiosła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds25": {
+        "en": "So how come you wanted to hire Grimoire?",
+        "pl": "To czemu chciałaś wynająć Grimoire'a?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds26": {
+        "en": "Because! There's a [h]murderer[/h] in our ranks... and they must be rooted [i]out![/i]",
+        "pl": "Bo! W naszych szeregach jest [h]morderca[/h]... i trzeba go [i]wytropić![/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds29": {
+        "en": "So - what d'you want us to [i]do[/i] exactly?",
+        "pl": "Więc - co dokładnie mamy [i]zrobić?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds30": {
+        "en": "[h]One[/h] - you will investigate and ascertain the identity of the killer...",
+        "pl": "[h]Po pierwsze[/h] - zbadacie sprawę i ustalicie tożsamość zabójcy...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds31": {
+        "en": "[h]Two[/h] - you will return here and report your findings to me.",
+        "pl": "[h]Po drugie[/h] - wrócicie tutaj i zdacie mi raport z ustaleń.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds32": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds33": {
+        "en": "Three, you go home.",
+        "pl": "Po trzecie, idziecie do domu.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds34": {
+        "en": "Three, you [h]pay[/h] us.\n[h]Four,[/h] we go home.",
+        "pl": "Po trzecie, [h]płacisz[/h] nam.\n[h]Po czwarte,[/h] idziemy do domu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds35": {
+        "en": "Three, she pays us, four, we go get [i]ice-cream[/i], [h]five[/h] we go home.",
+        "pl": "Po trzecie, płaci nam, po czwarte, idziemy na [i]lody[/i], [h]po piąte[/h] idziemy do domu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds36": {
+        "en": "[h]Deal![/h]",
+        "pl": "[h]Zgoda![/h]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds37": {
+        "en": "Meeting adjourned!",
+        "pl": "Zebranie zamknięte!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds38": {
+        "en": "I didn't actually say [i]anything.[/i]",
+        "pl": "Właściwie to nic nie [i]powiedziałam.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds7": {
+        "en": "Wait, I didn't-",
+        "pl": "Czekaj, nie-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds8": {
+        "en": "It's just the way it's meant to [i]be.[/i]",
+        "pl": "Tak po prostu ma [i]być.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 02 YOURSELF/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  }
+}

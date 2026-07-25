@@ -1,0 +1,179 @@
+{
+  "_meta": {
+    "batch": "Conversation/Grimoire 5 Parlor 1 - scena zbiorowa (29 terminow), Grimoire tlumaczy mechanizm zbrodni calej grupie podejrzanych.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "Mowcy z _App/output/speaker_map.json (soulTalking). Scena ma 9 roznych mowcow - Grimoire, Sally, Tadpole, Sinthia, Gripp, Dirk, Wirman, Zephyr, Moon, Symmetry.",
+    "new_glossary_terms": {
+      "The Mermaid's Tongue": "Język Syreny - tytulowy MacGuffin, centralny artefakt fabuly",
+      "Iron Bell": "Żelazny Dzwon - mechanizm/dowod zbrodni, pojawia sie tez w Map/Checklist (jeszcze nieprzetlumaczone tam)"
+    }
+  },
+  "categories": {
+    "Grimoire 5 Parlor 1": {
+      "Conversation/Grimoire 5 Parlor 1/Request exitClueRequest0Hint0": {
+        "en": "What was Mortuga keeping in the cauldron?",
+        "pl": "Co Mortuga trzymał w kotle?",
+        "speaker": "Grimoire (domniemany, jak w batch_02)"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Request exitClueRequest0Hint1": {
+        "en": "What mysterious ancient artifact was Mortuga keeping in the cauldron?",
+        "pl": "Jaki tajemniczy, starożytny artefakt Mortuga trzymał w kotle?",
+        "speaker": "Grimoire (domniemany, jak w batch_02)"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds102": {
+        "en": "So, what are we looking at? D'you have the murder weapon?",
+        "pl": "No dobra, na co my tu patrzymy? Masz narzędzie zbrodni?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds103": {
+        "en": "No, look - listen to me.",
+        "pl": "Nie, czekajcie - posłuchajcie mnie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds104": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds105": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds106": {
+        "en": "So... the murder weapon-",
+        "pl": "Więc... narzędzie zbrodni-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds107": {
+        "en": "-and it's still... [i]missing?[/i]",
+        "pl": "-i wciąż go... [i]brakuje?[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds108": {
+        "en": "...and Mortuga was killed because he tried to take something out of the cauldron?",
+        "pl": "...i Mortuga zginął, bo próbował coś wyjąć z kotła?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds109": {
+        "en": "Take [i]what[/i] out of the cauldron?",
+        "pl": "Wyjąć [i]co[/i] z kotła?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds110": {
+        "en": "The Mermaid's Tongue.",
+        "pl": "Język Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds111": {
+        "en": "The one thing that [i]all of this[/i] has been about.",
+        "pl": "Jedyne, o co w tym [i]wszystkim[/i] chodziło.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds113": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds115": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds116": {
+        "en": "Uh, no.",
+        "pl": "Ee, nie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds117": {
+        "en": "Kinda?",
+        "pl": "Niby tak?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds118": {
+        "en": "Right - kinda.",
+        "pl": "No właśnie - niby tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds119": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds120": {
+        "en": "Sinthia, maybe you [i]should've[/i] fired them-",
+        "pl": "Sinthia, może [i]powinnaś[/i] była ich zwolnić-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds121": {
+        "en": "Mortuga was killed by the mechanism of the Iron Bell.",
+        "pl": "Mortuga zginął od mechanizmu Żelaznego Dzwonu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds122": {
+        "en": "It lowers onto the cauldron and they fit together. It's a big mechanical lock.",
+        "pl": "Opada na kocioł i oba elementy się łączą. To wielki mechaniczny zamek.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds123": {
+        "en": "Right - and there's this little metal thing wedged in the side.",
+        "pl": "No właśnie - a z boku tkwi taki mały metalowy element.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds124": {
+        "en": "It's not part of the Iron Bell itself, but it was placed there by the murderer.",
+        "pl": "To nie część samego Żelaznego Dzwonu, tylko coś, co umieścił tam morderca.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds125": {
+        "en": "Felicia Stonetop's necklace...",
+        "pl": "Naszyjnik Felicii Stonetop...",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds126": {
+        "en": "Right - apart from a small fragment that snapped off and was left in the Iron Bell.",
+        "pl": "No właśnie - poza małym odłamkiem, który odpadł i został w Żelaznym Dzwonie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds128": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds129": {
+        "en": "It can only really be one thing.",
+        "pl": "To może być tylko jedno.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds130": {
+        "en": "...and that's how they got in and out without ever opening or closing the bulkhead door.",
+        "pl": "...i tak właśnie wchodzili i wychodzili, nigdy nie otwierając ani nie zamykając drzwi grodziowych.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 5 Parlor 1/Section ds131": {
+        "en": "It's a [i]necklace?[/i]",
+        "pl": "To [i]naszyjnik?[/i]",
+        "speaker": "Symmetry"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "The Mermaid's Tongue -> Język Syreny",
+      "problem": "Tytulowy artefakt fabuly (odpowiednik 'mermaid mask' z tytulu gry). Przetlumaczylem opisowo zamiast zostawic po angielsku, bo to nazwa-metafora majaca znaczenie dla gracza, nie marka/nazwa wlasna w sensie No-Touch Zone. Kluczowa decyzja do potwierdzenia PRZED dalszym tlumaczeniem, bo pojawi sie wielokrotnie w dalszych partiach (Clues, Puzzles, Examine) - jesli user chce zostawic po angielsku, trzeba to zmienic wszedzie konsekwentnie."
+    },
+    {
+      "term": "Iron Bell -> Żelazny Dzwon",
+      "problem": "Podobnie jak wyzej - nazwa mechanizmu/dowodu, tlumaczona opisowo. Wystepuje tez w Map/Checklist/Iron Bell (jeszcze nietlumaczone) - trzeba tam uzyc tej samej nazwy gdy dojdziemy do kategorii Map."
+    },
+    {
+      "term": "Felicia Stonetop -> odmiana 'Felicii'",
+      "problem": "Odmienilem imie 'Felicia' przez przypadki jak polskie imie na -ia (Felicia/Felicii), ale zostawilem nazwisko 'Stonetop' nieodmienione (typowe dla obcych nazwisk). Do zweryfikowania czy to spojne z reszta gry, gdy pojawi sie wiecej kontekstu o tej postaci (nie jest jeszcze w GLOSSARY jako mowca - nie ma zadnych kwestii w dialogueSections, prawdopodobnie postac tylko wspominana, nie grywalna/mowiaca)."
+    },
+    {
+      "term": "Request exitClueRequest0Hint0/Hint1",
+      "problem": "Jak w batch_02 - zalozylem ze mowi Grimoire, ale te 2 terminy nie maja wlasnego soulTalking (nie sa w dialogueSections)."
+    }
+  ]
+}

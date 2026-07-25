@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "batch": "Symmetry 01 INTRO (14 terminow) - poczatek luku postaci Symmetry (pelne imie: Symmetry Silkmoth, iluzjonistka). Kolejna postac alfabetycznie po Moon.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 14/14 pokryte: Symmetry 6, Grimoire 5, Sally 3",
+    "character_voice": "Symmetry: mowi ARCHAICZNYM, teatralnym angielskim (Szekspirowskim stylem - 'outwitt'd', 'should thou find me guilty', zaimki thou/thee) - iluzjonistka w scenicznej personie. Przetlumaczone archaicznym polskim: inwersje szyku zdania, slownictwo ksiazkowe/przestarzale ('czyz', 'azali', 'wszelako', 'rzec', 'brzemie', 'mniemac'), unikanie wspolczesnych skrotow i potocyzmow. TO KLUCZOWA, SPOJNA KONWENCJA na caly luk Symmetry (5 scen, ~292 terminow) - musi byc utrzymana identycznie w kazdej kolejnej partii tej postaci."
+  },
+  "categories": {
+    "Symmetry 01 INTRO": {
+      "Conversation/Symmetry 01 INTRO/Section ds0": {
+        "en": "Alas, I am outwitt'd.\nMy paltry facade, undone.",
+        "pl": "Ach, przechytrzon jestem.\nMa nędzna maska - zdarta.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds11": {
+        "en": "I mean, yeah - I could see you blinking.",
+        "pl": "No w sumie, tak - widziałem, jak mrugasz.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds12": {
+        "en": "You're... [i]Symmetry[/i] - is that right?",
+        "pl": "Jesteś... [i]Symmetry[/i] - zgadza się?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds13": {
+        "en": "Symmetry [i]Silkmoth.[/i]\nIllusionist.",
+        "pl": "Symmetry [i]Silkmoth.[/i]\nIluzjonistka.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds19": {
+        "en": "Eh. Pretty much. Yeah.",
+        "pl": "Eh. Mniej więcej. Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds20": {
+        "en": "And [i]you![/i] Are you not detectives both? in service to the captain?",
+        "pl": "A [i]wy![/i] Czyż nie jesteście oboje detektywami? W służbie kapitana?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds21": {
+        "en": "And should thou find me [i]guilty?[/i] What punishment awaits?",
+        "pl": "A jeślibyś uznał mnie za [i]winną?[/i] Jakaż kara czeka?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds22": {
+        "en": "We don't really plan that far ahead, to be honest.",
+        "pl": "Szczerze mówiąc, nie planujemy aż tak daleko naprzód.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds23": {
+        "en": "[h]Will[/h] we find you guilty?",
+        "pl": "Czy [h]uznamy[/h] cię za winną?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds24": {
+        "en": "My heart is burden'd heavy, true - but not from [i]murderer's[/i] guilt.",
+        "pl": "Serce me ciężarem obarczone, prawda to - lecz nie od winy [i]morderczyni.[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds25": {
+        "en": "Okay, glad to hear it.",
+        "pl": "Okej, miło słyszeć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds26": {
+        "en": "Technically, she just said she isn't [h]feeling[/h] guilty. She didn't say she [i]wasn't[/i] guilty.\n",
+        "pl": "Technicznie rzecz biorąc, powiedziała tylko, że nie [h]czuje się[/h] winna. Nie powiedziała, że [i]nie jest[/i] winna.\n",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds6": {
+        "en": "[i]Bound[/i] are we, by limitation of the flesh.",
+        "pl": "[i]Spętani[/i] jesteśmy ograniczeniem ciała.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 01 INTRO/Section ds9": {
+        "en": "We could hear you breathing a little bit, too. Sorry.",
+        "pl": "Słyszeliśmy też trochę, jak oddychasz. Przepraszam.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

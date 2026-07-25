@@ -1,0 +1,504 @@
+{
+  "_meta": {
+    "batch": "Godrik Conversation 4 (98 terminow) - FINALOWA scena wyznania Godrika, konczaca luk 'Godrik Conversation 1-4' (95+96+62+98=351, KOMPLETNY). To jest PELNE PRZYZNANIE SIE DO MORDERSTWA: Mortuga zginal od ostrza ukrytego w Kluczyku z Naszyjnika, wbudowanego w mechanizm Zelaznego Dzwonu (dwa pokretla wymagajace przycisniecia twarzy/szyi do urzadzenia) - Godrik zaaranzowal to jako 'zabezpieczenie', wiedzac ze Mortuga kiedys uzyje Kocla. Tadpole nazywa go wprost 'mordercą' (ds91). Kluczowa scena rozwiazujaca zagadke calej gry.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 95/98 pokryte. Nieprzypisane (3): Request (3, exitClueRequest0 Detail0/Hint0/Hint1) - standardowe 'Grimoire (domniemany)'. 2 Choice sety (ds66, ds76) maja mowce rozwiazanych poprzez echo w kolejnych liniach (Grimoire) - oznaczone 'Grimoire (opcja wyboru)'.",
+    "character_voice": "Godrik: kontynuacja powaznego rejestru z batch_44-46, tu szczytujaca w chlodnym, niemal usprawiedliwiajacym tonie przyznania sie do zabojstwa ('To me, it was merely insurance')."
+  },
+  "categories": {
+    "Godrik Conversation 4": {
+      "Conversation/Godrik Conversation 4/Request exitClueRequest0Detail0": {
+        "en": "Which part confirmed Mortuga was keeping the Cauldron on the submarine...?",
+        "pl": "Który fragment potwierdził, że Mortuga trzymał Kocioł na łodzi podwodnej...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 4/Request exitClueRequest0Hint0": {
+        "en": "What did Gripp see that confirmed Mortuga was keeping the Cauldron on the submarine...?",
+        "pl": "Co zobaczył Gripp, co potwierdziło, że Mortuga trzymał Kocioł na łodzi podwodnej...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 4/Request exitClueRequest0Hint1": {
+        "en": "What drawing did Gripp see that confirmed Mortuga was keeping the Cauldron on the submarine...?",
+        "pl": "Jaki rysunek zobaczył Gripp, co potwierdziło, że Mortuga trzymał Kocioł na łodzi podwodnej...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds100": {
+        "en": "No, it's possible.",
+        "pl": "Nie, to możliwe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds101": {
+        "en": "It is, if you have a wingspan like Magnus Mortuga.",
+        "pl": "Jest, jeśli ma się rozpiętość ramion taką jak Magnus Mortuga.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds102": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 4/Section ds103": {
+        "en": "Having first locked himself in the room, Mortuga unlocked the Cauldron and was killed by the blade of the Necklace Key.",
+        "pl": "Zamknąwszy się najpierw w pokoju, Mortuga otworzył Kocioł i zginął od ostrza Kluczyka z Naszyjnika.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds104": {
+        "en": "...and then you went up to the Aft Deck and used it. Didn't you?",
+        "pl": "...a potem poszedłeś na Pokład Rufowy i go użyłeś. Prawda?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds105": {
+        "en": "You're welcome.",
+        "pl": "Nie ma za co.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds106": {
+        "en": "-and [h]I[/h] took it when I later visited the room to collect Hex from the Dome Tank.",
+        "pl": "-a [h]ja[/h] zabrałem go, kiedy później odwiedziłem pokój, żeby odebrać Hexa ze Zbiornika Kopułowego.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 4/Section ds107": {
+        "en": "[i]Wow.[/i] You're admitting it, huh?",
+        "pl": "[i]Ho.[/i] Przyznajesz się, co?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds108": {
+        "en": "I admit I moved it to a more [i]secure location[/i] - ultimately a wise decision, wouldn't you say?",
+        "pl": "Przyznaję, że przeniosłem go w bardziej [i]bezpieczne miejsce[/i] - ostatecznie mądra decyzja, nie sądzicie?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 4/Section ds109": {
+        "en": "Except - it's not there anymore, is it?",
+        "pl": "Tylko że - już go tam nie ma, prawda?",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds110": {
+        "en": "It's right here.",
+        "pl": "Jest tutaj.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds111": {
+        "en": "Truth be told, we were both sick of each other. The last vestiges of our mutual decorum fell away.",
+        "pl": "Prawdę mówiąc, obaj mieliśmy siebie nawzajem dość. Ostatnie resztki wzajemnej ogłady opadły.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds112": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds113": {
+        "en": "He [i]attempted[/i] to shut me down with cold logic-",
+        "pl": "[i]Próbował[/i] mnie uciszyć zimną logiką-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds114": {
+        "en": "So now you had everything you needed;",
+        "pl": "Więc teraz miałeś wszystko, czego potrzebowałeś;",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds115": {
+        "en": "I concede it may have been an alluring [i]prospect,[/i] but actually choosing to [i]act,[/i] it - it displays a dangerous hubris-",
+        "pl": "Przyznaję, że mogła to być kusząca [i]perspektywa,[/i] ale rzeczywiste wybranie, żeby [i]działać,[/i] to - to świadczy o niebezpiecznej pysze-",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds16": {
+        "en": "Which brings me to conclusion [i]two.[/i] The fact that her Necklace had been sent to her parents in a black-rimmed envelope...",
+        "pl": "Co prowadzi mnie do wniosku [i]drugiego.[/i] Fakt, że jej Naszyjnik został wysłany do jej rodziców w kopercie obrzeżonej czernią...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds18": {
+        "en": "Tadpole then dove into the ocean and collected the pieces...",
+        "pl": "Wtedy Tadpole zanurkowała w oceanie i zebrała fragmenty...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds19": {
+        "en": "I tilted the submarine in order to claim the [i]Eyeball[/i] Key-",
+        "pl": "Przechyliłem łódź podwodną, żeby zdobyć kluczyk w kształcie [i]Oka[/i]-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds20": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds23": {
+        "en": "I climbed up onto the desk and wedged it into the Iron Bell - around the back, so that it would not be seen.",
+        "pl": "Wspiąłem się na biurko i wcisnąłem go w Żelazny Dzwon - z tyłu, żeby nie było go widać.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds24": {
+        "en": "I did. And he flatly denied it, which caused an argument.",
+        "pl": "Zrobiłem to. A on stanowczo temu zaprzeczył, co wywołało kłótnię.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds26": {
+        "en": "However it was a lie that [i]no longer worked on me,[/i] for I had laid eyes upon the truth. ",
+        "pl": "Jednak było to kłamstwo, które [i]już na mnie nie działało,[/i] bo ujrzałem prawdę na własne oczy. ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds27": {
+        "en": "[i]One[/i] - we now possessed the Key necessary to operate the Mermaid's Tongue.",
+        "pl": "[i]Jeden[/i] - mieliśmy już Kluczyk potrzebny do obsługi Języka Syreny.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds29": {
+        "en": "The Key, the Bell... and The Mermaid's Tongue itself - albeit locked in the Cauldron.",
+        "pl": "Kluczyk, Dzwon... i sam Język Syreny - choć zamknięty w Kotle.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds30": {
+        "en": "On [i]that[/i] note... I had also surmised Mortuga's reason for rigging the Iron Bell onto a winch above his desk.",
+        "pl": "Skoro już o [i]tym[/i] mowa... domyśliłem się też, czemu Mortuga umocował Żelazny Dzwon na wyciągarce nad swoim biurkiem.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds31": {
+        "en": "Overcome with frustration and grief, Mortuga had left the room. He had left [i]me[/i] with the Necklace Key.",
+        "pl": "Ogarnięty frustracją i żałobą, Mortuga wyszedł z pokoju. Zostawił [i]mnie[/i] z Kluczykiem z Naszyjnika.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds34": {
+        "en": "The rest, you know.",
+        "pl": "Resztę znacie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds35": {
+        "en": "-which granted me access to the Captain's Cabin - and a path into the store room from above.",
+        "pl": "-co dało mi dostęp do Kajuty Kapitana - i drogę do magazynu od góry.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds36": {
+        "en": "I took The Mermaid's Tongue from the unlocked Cauldron.",
+        "pl": "Wziąłem Język Syreny z odblokowanego Kotła.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds37": {
+        "en": "I tried to. But you stopped me.",
+        "pl": "Próbowałem. Ale mnie powstrzymaliście.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds39": {
+        "en": "Yeah. As for the mask itself, I just left it in my room-",
+        "pl": "Tak. A samą maskę zostawiłam po prostu w swoim pokoju-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds40": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 4/Section ds41": {
+        "en": "Correct. I had seen Symmetry's drawing of the Cauldron.",
+        "pl": "Zgadza się. Widziałem rysunek Kotła autorstwa Symmetry.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds42": {
+        "en": "...including the coral and the gemstone eyes, which she kept for herself.",
+        "pl": "...razem z koralem i klejnotowymi oczami, które zatrzymała dla siebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 4/Section ds43": {
+        "en": "Our discovery of the Necklace precipitated [i]two[/i] important conclusions;",
+        "pl": "Odkrycie Naszyjnika doprowadziło do [i]dwóch[/i] ważnych wniosków;",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds44": {
+        "en": "...attested to us that Felicia Stonetop had died.",
+        "pl": "...poświadczył nam, że Felicia Stonetop nie żyje.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds45": {
+        "en": "In my complacency, I had not even known it was [i]missing[/i] - simply assuming it lay within the Cauldron...",
+        "pl": "W swoim samozadowoleniu nawet nie wiedziałem, że go [i]brakuje[/i] - po prostu zakładałem, że leży w Kotle...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds46": {
+        "en": "But no. Felicia had taken it away with her, and now, through what [i]twist of fate[/i], it had returned.",
+        "pl": "Ale nie. Felicia zabrała go ze sobą, a teraz, jakimś [i]zrządzeniem losu,[/i] powrócił.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds47": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 4/Section ds48": {
+        "en": "Even through his bourgeoning grief, Mortuga could see in my eyes how I wished to make use of the Key.",
+        "pl": "Nawet w swojej narastającej żałobie Mortuga widział w moich oczach, jak bardzo chciałem wykorzystać Kluczyk.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds51": {
+        "en": "Fearing what ruin might follow should I act, he did what he had always done...",
+        "pl": "Obawiając się, jaka ruina może nastąpić, gdybym zadziałał, zrobił to, co zawsze robił...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds52": {
+        "en": "He lied. Lied about having The Mermaid's Tongue on board.",
+        "pl": "Skłamał. Skłamał, że ma Język Syreny na pokładzie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds53": {
+        "en": "He had your best interest at heart, Godrik, we both know this-",
+        "pl": "Miał na sercu twoje dobro, Godriku, obaj to wiemy-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 4/Section ds55": {
+        "en": "...about what Mortuga had in the store room...",
+        "pl": "...o tym, co Mortuga trzymał w magazynie...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 4/Section ds56": {
+        "en": "The truth?",
+        "pl": "Prawdę?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds57": {
+        "en": "He asked me to [i]change[/i] it... I was [i]going[/i] to change it...",
+        "pl": "Poprosił, żebym to [i]zmieniła[/i]... [i]Miałam[/i] to zmienić...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 4/Section ds58": {
+        "en": "I concluded that he had set it up this way so that [i]he[/i] could unlock the Cauldron, and access its contents himself.",
+        "pl": "Doszedłem do wniosku, że urządził to tak, żeby [i]on sam[/i] mógł otworzyć Kocioł i mieć dostęp do jego zawartości.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds59": {
+        "en": "You think [i]he[/i] wanted to use The Mermaid's Tongue?",
+        "pl": "Myślisz, że [i]on[/i] chciał użyć Języka Syreny?",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds60": {
+        "en": "You'd like to suggest Mortuga would be [i]immune[/i] from such things? Hm?",
+        "pl": "Chcesz zasugerować, że Mortuga byłby [i]odporny[/i] na coś takiego? Hm?",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds61": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds62": {
+        "en": "Well, maybe, he just - wanted to be able to [i]get[/i] to it... but not actually [i]use[/i] it, you know?",
+        "pl": "No, może po prostu - chciał móc się do tego [i]dostać[/i]... ale nie żeby to faktycznie [i]użyć,[/i] wiecie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Godrik Conversation 4/Section ds63": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds64": {
+        "en": "Gripp, did you actually [i]accuse[/i] Mortuga of wanting to open the Cauldron? -of wanting to use The Mermaid's Tongue?",
+        "pl": "Gripp, czy naprawdę [i]oskarżyłeś[/i] Mortugę o to, że chciał otworzyć Kocioł? -że chciał użyć Języka Syreny?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 4/Section ds65": {
+        "en": "Hm, I knew [i]Mortuga[/i] would be capable of it. ",
+        "pl": "Hm, wiedziałem, że [i]Mortuga[/i] byłby do tego zdolny. ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds66": {
+        "en": "Wait - is that true?",
+        "pl": "Czekajcie - czy to prawda?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 4/Section ds66 Choice 1": {
+        "en": "Yeah, it's impossible.",
+        "pl": "Tak, to niemożliwe.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds66 Choice 2": {
+        "en": "No, it's possible.",
+        "pl": "Nie, to możliwe.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds66 Choice 3": {
+        "en": "Kinda. Depends how big you are. How wide your arms are.",
+        "pl": "Trochę. Zależy, jak duży jesteś. Jak szeroko sięgają twoje ramiona.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds66 Choice Question": {
+        "en": "Is it impossible for one man to simultaneously turn both dials?",
+        "pl": "Czy to niemożliwe, żeby jeden człowiek jednocześnie przekręcił oba pokrętła?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds67": {
+        "en": "Eh - kinda. Depends how [i]big[/i] you are. How wide your arms are.",
+        "pl": "Eh - trochę. Zależy, jak [i]duży[/i] jesteś. Jak szeroko sięgają twoje ramiona.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds69": {
+        "en": "Well, uh - not to side with Gripp here, but - he was right. Mortuga [i]did[/i] open the Cauldron, didn't he?",
+        "pl": "Cóż, yy - nie żebym stawał po stronie Grippa, ale - miał rację. Mortuga [i]rzeczywiście[/i] otworzył Kocioł, prawda?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Godrik Conversation 4/Section ds71": {
+        "en": "Perhaps his intention was simply to move The Mermaid's Tongue to a newly contrived hiding place.",
+        "pl": "Może jego zamiarem było po prostu przenieść Język Syreny do nowo wymyślonej kryjówki.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 4/Section ds72": {
+        "en": "Hmph. Maybe he was just gonna [i]destroy[/i] it.",
+        "pl": "Hmph. Może po prostu zamierzał to [i]zniszczyć.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds73": {
+        "en": "-as he should have done years [i]hence[/i], I might add.",
+        "pl": "-co powinien był zrobić już lata [i]temu,[/i] dodałabym.",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds74": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds75": {
+        "en": "Grimoire, what do you think?",
+        "pl": "Grimoire, co ty myślisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 4/Section ds76": {
+        "en": "Uhm-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds76 Choice 1": {
+        "en": "I think he wanted to [i]use[/i] The Mermaid's Tongue.",
+        "pl": "Myślę, że chciał [i]użyć[/i] Języka Syreny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds76 Choice 2": {
+        "en": "I think he wanted to [i]hide[/i] The Mermaid's Tongue somewhere else.",
+        "pl": "Myślę, że chciał [i]ukryć[/i] Język Syreny gdzie indziej.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds76 Choice 3": {
+        "en": "I think he wanted to [i]destroy[/i] The Mermaid's Tongue.",
+        "pl": "Myślę, że chciał [i]zniszczyć[/i] Język Syreny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds76 Choice Question": {
+        "en": "Why do you think Mortuga opened the Cauldron?",
+        "pl": "Dlaczego, twoim zdaniem, Mortuga otworzył Kocioł?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Godrik Conversation 4/Section ds77": {
+        "en": "I think he wanted to [i]hide[/i] The Mermaid's Tongue somewhere else.",
+        "pl": "Myślę, że chciał [i]ukryć[/i] Język Syreny gdzie indziej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds78": {
+        "en": "I think he wanted to [i]destroy[/i] The Mermaid's Tongue.",
+        "pl": "Myślę, że chciał [i]zniszczyć[/i] Język Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds79": {
+        "en": "I think he wanted to [i]use[/i] The Mermaid's Tongue.",
+        "pl": "Myślę, że chciał [i]użyć[/i] Języka Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds80": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds81": {
+        "en": "[i]Whatever[/i] the reason... I knew it was only a matter of time.",
+        "pl": "[i]Niezależnie[/i] od powodu... wiedziałem, że to tylko kwestia czasu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds82": {
+        "en": "And what's more, following our discussion about the mechanism of the Iron Bell-",
+        "pl": "Co więcej, po naszej dyskusji o mechanizmie Żelaznego Dzwonu-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds83": {
+        "en": "-insisting that it was not possible for one man to simultaneously turn both dials on the Iron Bell.",
+        "pl": "-upierając się, że nie sposób, by jeden człowiek jednocześnie przekręcił oba pokrętła Żelaznego Dzwonu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds84": {
+        "en": "I... understood the [i]specific physicality[/i] of the task ahead of him.",
+        "pl": "Ja... rozumiałem [i]konkretną fizyczność[/i] zadania, jakie go czekało.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds85": {
+        "en": "[i]Physicality...?[/i]",
+        "pl": "[i]Fizyczność...?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Godrik Conversation 4/Section ds86": {
+        "en": "In order to reach both dials, Mortuga would need to hold his body close against the Iron Bell.",
+        "pl": "Żeby dosięgnąć obu pokręteł, Mortuga musiałby przywrzeć ciałem blisko do Żelaznego Dzwonu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds87": {
+        "en": "His head - his neck - would be right up against the mechanism.",
+        "pl": "Jego głowa - jego szyja - byłyby tuż przy mechanizmie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 4/Section ds88": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds89": {
+        "en": "I felt it in my hand, the metal, cold and sharp.",
+        "pl": "Poczułem to w dłoni, metal, zimny i ostry.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds90": {
+        "en": "At least - not until the mechanism activated.",
+        "pl": "Przynajmniej - dopóki mechanizm się nie uruchomił.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds91": {
+        "en": "You're a murderer.",
+        "pl": "Jesteś mordercą.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 4/Section ds92": {
+        "en": "Call me what you will. To me, it was merely insurance against continued deception and greed on Mortuga's part.",
+        "pl": "Nazywajcie mnie, jak chcecie. Dla mnie to było jedynie zabezpieczenie przed dalszym oszustwem i chciwością ze strony Mortugi.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds93": {
+        "en": "If he indeed decided to keep The Mermaid's Tongue for [i]himself-[/i]",
+        "pl": "Gdyby rzeczywiście postanowił zatrzymać Język Syreny dla [i]siebie-[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds94": {
+        "en": "Then, it would be his last decision.",
+        "pl": "Wtedy byłaby to jego ostatnia decyzja.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds95": {
+        "en": "-if he decided, as he always had, to keep it from [i]me-[/i]",
+        "pl": "-gdyby postanowił, tak jak zawsze, zataić to przede [i]mną-[/i]",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds97": {
+        "en": "Yeah, it's impossible.",
+        "pl": "Tak, to niemożliwe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 4/Section ds98": {
+        "en": "-and I could see in his eyes that he intended to do it.",
+        "pl": "-i widziałem w jego oczach, że zamierzał to zrobić.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 4/Section ds99": {
+        "en": "Perhaps in [i]theory.[/i] But I knew Mortuga, of [i]all[/i] people, [i]would[/i] be capable of it.",
+        "pl": "Może w [i]teorii.[/i] Ale wiedziałem, że Mortuga, ze [i]wszystkich[/i] ludzi, [i]byłby[/i] do tego zdolny.",
+        "speaker": "Godrik"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

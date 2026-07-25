@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "batch": "Symmetry 02 YOURSELF (26 terminow) - kontynuacja luku Symmetry po batch_27 (14/292). Symmetry pokazuje sztuczke z kartami duck/rabbit (kaczka/krolik iluzja optyczna) i opowiada o swoim zyciu iluzjonistki.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 23/26 pokryte (Symmetry 10, Sally 8, Grimoire 5). 3 nieprzypisane to opcje wyboru ds12 Choice 1/2/Question (mechanika sztuczki z kartami) - oznaczone '(opcja wyboru)'/'(naglowek wyboru)'.",
+    "character_voice": "Symmetry: archaiczny/teatralny (patrz batch_27, konwencja utrzymana). ds22 cytuje doslownie ds13+ds17 (przewidziala co Sally powie) - PL przetlumaczone identycznie z tamtymi liniami dla spojnosci 'sztuczki'."
+  },
+  "categories": {
+    "Symmetry 02 YOURSELF": {
+      "Conversation/Symmetry 02 YOURSELF/Section ds12": {
+        "en": "Think hard, and choose with steady mind - and I'll predict the course of fate.",
+        "pl": "Myśl usilnie, wybierz umysłem niezachwianym - a ja przepowiem bieg przeznaczenia.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds12 Choice 1": {
+        "en": "(Think of a duck)",
+        "pl": "(Pomyśl o kaczce)",
+        "speaker": "(opcja wyboru)"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds12 Choice 2": {
+        "en": "(Think of a rabbit)",
+        "pl": "(Pomyśl o króliku)",
+        "speaker": "(opcja wyboru)"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds12 Choice Question": {
+        "en": "Think hard, and choose with steady mind...",
+        "pl": "Myśl usilnie, wybierz umysłem niezachwianym...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds13": {
+        "en": "[i]That's[/i] the trick? Sorry, but this is like the most [i]basic[/i] optical illusion.",
+        "pl": "[i]To[/i] jest ta sztuczka? Przepraszam, ale to chyba najbardziej [i]podstawowa[/i] iluzja optyczna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds14": {
+        "en": "Okay, I'm thinking about it.",
+        "pl": "Okej, myślę o tym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds15": {
+        "en": "Cast thine eyes upon this card!",
+        "pl": "Zwróć wzrok swój na tę kartę!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds17": {
+        "en": "There'll be a drawing that looks like a duck [h]or[/h] a rabbit, depending on how you interpret it.",
+        "pl": "Będzie tam rysunek, który wygląda jak kaczka [h]albo[/h] królik, zależnie jak go zinterpretujesz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds20": {
+        "en": "What does it say?",
+        "pl": "Co tam jest napisane?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds22": {
+        "en": "[i]'That's the trick? Sorry, but this is like the most basic optical illusion. There'll be a drawing-'[/i]",
+        "pl": "[i]'To jest ta sztuczka? Przepraszam, ale to chyba najbardziej podstawowa iluzja optyczna. Będzie tam rysunek-'[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds23": {
+        "en": "[i]Okay okay[/i], I get it. Very good, well done.",
+        "pl": "[i]Okej, okej[/i], rozumiem. Bardzo dobrze, brawo.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds27": {
+        "en": "On its back, an image clear - a duck or rabbit's form.",
+        "pl": "Na jej odwrocie, obraz jasny - kaczki lub królika kształt.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds31": {
+        "en": "My magic act is theatre-born; and played upon a stage.",
+        "pl": "Mój magiczny występ z teatru się zrodził; i na scenie jest grany.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds32": {
+        "en": "So you're an illusionist? What kind of tricks do you do?",
+        "pl": "Więc jesteś iluzjonistką? Jakie sztuczki robisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds33": {
+        "en": "Oh? Like with big props? Smoke and mirrors kinda stuff?",
+        "pl": "O? Z wielkimi rekwizytami? Coś w stylu dymu i luster?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds34": {
+        "en": "Smoke and mirror, crate and cage, dolls and doubles both.",
+        "pl": "Dym i lustro, skrzynia i klatka, lalki oraz sobowtóry takoż.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds35": {
+        "en": "How long have you been doing it?",
+        "pl": "Jak długo się tym zajmujesz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds36": {
+        "en": "Since approximate-[i]twelve.[/i]\nI'm now approximate-eighteen.",
+        "pl": "Od w przybliżeniu-[i]dwunastu.[/i]\nJestem teraz w przybliżeniu-osiemnaście.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds37": {
+        "en": "...approximate?",
+        "pl": "...w przybliżeniu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds38": {
+        "en": "My sum of years I cannot say. Time hath kept no count.",
+        "pl": "Sumy lat swych rzec nie mogę. Czas rachuby nie prowadził.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds39": {
+        "en": "[i]Oh[/i] - okay.",
+        "pl": "[i]Aha[/i] - okej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds41": {
+        "en": "Do you only do big [i]stage[/i] magic? You don't, by any chance, do any [i]close up[/i] stuff...?",
+        "pl": "Robisz tylko wielką magię [i]sceniczną?[/i] Nie robisz może czasem czegoś [i]z bliska?[/i]...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 02 YOURSELF/Section ds42": {
+        "en": "Grimoire, she's not here to [i]perform[/i] for you-",
+        "pl": "Grimoire, ona nie jest tu, żeby dla ciebie [i]występować[/i]-",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

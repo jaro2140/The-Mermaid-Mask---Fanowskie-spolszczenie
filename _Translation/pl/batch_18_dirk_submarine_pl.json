@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "batch": "Dirk 03 MORTUGA SUBMARINE (23 terminow) - kontynuacja luku Dirka po batch_17 (INTRO+YOURSELF, 40/244). Dirk o zyciu na lodzi, swoim hobby (zbieranie dat urodzin zalogi) i wrazeniach z Mortugi (relacja negatywna - 'mur nie do przebicia').",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 23/23 pokryte: Dirk 14, Sally 5, Grimoire 4",
+    "character_voice": "Dirk: jak w batch_16/17, potoczny/mlodziezowy - 'ej', 'stary', 'no wiesz'."
+  },
+  "categories": {
+    "Dirk 03 MORTUGA SUBMARINE": {
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds0": {
+        "en": "Honestly? Mixed bag.",
+        "pl": "Szczerze? Bywa różnie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds10": {
+        "en": "Listen - if you're not careful, it'll [h]get[/h] you. No for real.",
+        "pl": "Słuchaj - jak nie będziesz uważać, to cię [h]dorwie.[/h] Serio, nie żartuję.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds11": {
+        "en": "You seem to be holding out.",
+        "pl": "Ty jakoś trzymasz się nieźle.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds13": {
+        "en": "Ha, well thanks - you know, so far so good!",
+        "pl": "Ha, dzięki - no wiesz, jak na razie daję radę!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds18": {
+        "en": "Dirk, you're basically just a [i]passenger[/i], am I right?",
+        "pl": "Dirk, ty jesteś tu w zasadzie tylko [i]pasażerem[/i], zgadza się?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds22": {
+        "en": "You don't have a - [i]job[/i] here on the submarine...?\n",
+        "pl": "Nie masz - [i]żadnej roboty[/i] tutaj na łodzi...?\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds28": {
+        "en": "Uh, well - you know, I set myself [i]personal[/i] goals.",
+        "pl": "Yy, no cóż - wiesz, ustalam sobie [i]osobiste[/i] cele.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds29": {
+        "en": "Like what?",
+        "pl": "Na przykład jakie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds30": {
+        "en": "I got Sinthia's, Gripp's, [i]Tadpole's[/i] - oh man, [i]that[/i] one took some doing, she does [i]not[/i] like to share personal info, lemme tell you...",
+        "pl": "Mam Sinthii, Grippa, [i]Tadpole[/i] - ej, [i]ta[/i] akurat kosztowała mnie sporo zachodu, ona [i]w ogóle[/i] nie lubi dzielić się prywatnymi info, mówię ci...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds32": {
+        "en": "It's lucky they still had this room free... you ended up with pretty nice living quarters.",
+        "pl": "To szczęście, że mieli jeszcze wolny ten pokój... trafiłeś na całkiem niezłą kwaterę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds33": {
+        "en": "Hahaha, I guess! I never really thought about it!",
+        "pl": "Hahaha, no chyba tak! Nigdy się nad tym nie zastanawiałem!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds35": {
+        "en": "How long has it been?",
+        "pl": "Jak długo to już trwa?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds37": {
+        "en": "Wirman and I arrived a couple weeks ago. We're the most recent arrivals, aside from Mariana.",
+        "pl": "Wirman i ja przybyliśmy parę tygodni temu. Jesteśmy tu najnowsi, nie licząc Mariany.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds38": {
+        "en": "Like, um - well - I was trying find out everyone's [i]birthday.[/i]",
+        "pl": "No, yy - w sumie - próbowałem dowiedzieć się, kiedy wszyscy mają [i]urodziny.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds39": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds40": {
+        "en": "-all kinds of people I'd normally never rub shoulders with, you know-",
+        "pl": "-wszelkiego rodzaju ludzi, z którymi normalnie w życiu bym się nie zadawał, no wiesz-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds41": {
+        "en": "What do you make of the Mortuga submarine?",
+        "pl": "Co sądzisz o łodzi podwodnej Mortuga?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds42": {
+        "en": "Man, this place is [h]wild[/h] - it's like something out of a weird old book.",
+        "pl": "Ej, to miejsce jest [h]dzikie[/h] - jakby wyjęte z jakiejś dziwnej starej książki.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds44": {
+        "en": "Nobody back home is going to believe [h]any[/h] of it.",
+        "pl": "Nikt w domu nie uwierzy w [h]ani jedno[/h] z tego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds45": {
+        "en": "[i]Mortuga[/i], though?\n[i]Brick wall[/i], dude. He would [i]not[/i] give me the goods.",
+        "pl": "[i]Mortuga[/i] jednak?\n[i]Mur[/i], stary. [i]W ogóle[/i] nie chciał mi nic zdradzić.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds7": {
+        "en": "So, I love meeting all the weirdos that ended up down here-",
+        "pl": "Więc, uwielbiam poznawać tych wszystkich dziwaków, którzy tu wylądowali-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds8": {
+        "en": "How d'you like living here?",
+        "pl": "Jak ci się podoba mieszkanie tutaj?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 03 MORTUGA SUBMARINE/Section ds9": {
+        "en": "-but man is it [h]dark.[/h] There's no sun, no day, no night - you barely even feel the time passing.",
+        "pl": "-ale ej, jest tu [h]ciemno.[/h] Nie ma słońca, nie ma dnia ani nocy - ledwo w ogóle czuć, jak mija czas.",
+        "speaker": "Dirk"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,670 @@
+{
+  "_meta": {
+    "batch": "Tadpole 05 SUSPICION (130 terminow) - konczy luk Tadpole (245/245). Trzecie z rzedu 'rozwiazanie' nagrania Pipe (po Dirku i Symmetry) - tym razem to zapis PRAWDZIWEJ rozmowy Tadpole (prawdziwe imie: Tanya) z Mortuga, w ktorej probowala przekonac go, zeby oddal jej dowodztwo nad lodzia. Kluczowy nowy trop: notes/ksiazka nalezaca pierwotnie do Waylana Wolfe'a (szefa wedrownego widowiska), zawierajaca zdjecia TRZECH kobiet: Tanya Tadpole, Mariana Moon i Baronowa Fortuna (wlascicielka teatru Fortuna Hall w Silkwirm nad Morzem, teraz zabitego deskami) - wspolna przeszlosc trojga podejrzanych/postaci w wedrownym widowisku Wolfe'a.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 98/130 pokryte (Tadpole 37, Grimoire 34, Sally 27). 20 nieprzypisanych to mechanika Request + Choice sets (ds34/ds50) - standardowe oznaczenie. 12 kwestii 'Pipe'.",
+    "character_voice": "Tadpole: bezposrednia, potoczna (patrz batch_32-34).",
+    "pipe_mechanic_note": "W tej scenie 'Pipe' to zapis DWUOSOBOWEJ rozmowy (Tadpole + Mortuga, na przemian) pod JEDNYM ogolnym tagiem mowcy 'Pipe' - potwierdza to ze mechanika 'Pipe' = odtwarzanie nagrania dyktafonu Moon, nie pojedynczy tajemniczy glos. Mimo ze z kontekstu (zwrot 'Tanya') mozna by wywnioskowac ktora linia nalezy do kogo, ZACHOWANO bezplciowe tlumaczenie WSZYSTKICH linii 'Pipe' dla spojnosci z ustalona zasada w calym projekcie (unikanie koniugacji rodzajowych czasu przeszlego, przeformulowanie na czas terazniejszy/tryb rozkazujacy tam gdzie to mozliwe)."
+  },
+  "categories": {
+    "Tadpole 05 SUSPICION": {
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Do we have evidence of Tadpole having a disagreement with Mortuga?",
+        "pl": "Czy mamy dowód na to, że Tadpole miała nieporozumienie z Mortugą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Do we have audio evidence of Tadpole having a disagreement with Mortuga?",
+        "pl": "Czy mamy dowód dźwiękowy na to, że Tadpole miała nieporozumienie z Mortugą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "...is there something Tadpole could have been trying to get from Mortuga's bookcase?",
+        "pl": "...czy jest coś, co Tadpole mogła próbować zdobyć z biblioteczki Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "Does Tadpole have some kind of weird book that might have belonged to Mortuga?",
+        "pl": "Czy Tadpole ma jakąś dziwną książkę, która mogła należeć do Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Someone named Tanya, with long brown hair...",
+        "pl": "Ktoś imieniem Tanya, z długimi brązowymi włosami...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "Another photograph of someone named Tanya, with long brown hair...",
+        "pl": "Kolejna fotografia kogoś imieniem Tanya, z długimi brązowymi włosami...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "Something that shows the original owner of the bloodstained pocketbook...",
+        "pl": "Coś, co pokazuje pierwotnego właściciela zakrwawionego notesu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "A photograph that shows the original owner of the bloodstained pocketbook...",
+        "pl": "Fotografia, która pokazuje pierwotnego właściciela zakrwawionego notesu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest4Detail0": {
+        "en": "Which part has context for Baroness Fortuna?",
+        "pl": "Który fragment daje kontekst na temat Baronowej Fortuny?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "Do we have any context for Baroness Fortuna?",
+        "pl": "Czy mamy jakiś kontekst na temat Baronowej Fortuny?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "Do we have any context for Baroness Fortuna? Perhaps some kind of branding from the Fortuna Hall Theatre?",
+        "pl": "Czy mamy jakiś kontekst na temat Baronowej Fortuny? Może jakieś logo z Teatru Fortuna Hall?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Which part should we ask Tadpole about?",
+        "pl": "O który fragment powinniśmy zapytać Tadpole?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds0": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds100": {
+        "en": "[h]Not[/h] - because [h]I[/h] wanted to be captain. But because I could tell Magnus [h]didn't.[/h]",
+        "pl": "[h]Nie[/h] - bo [h]ja[/h] chciałam być kapitanem. Ale bo widziałam, że Magnus [h]nie chciał.[/h]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds102": {
+        "en": "I believe his tenure on board the submarine was some kind of [i]self-imposed punishment.[/i]",
+        "pl": "Wierzę, że jego pobyt na łodzi był rodzajem [i]kary, którą sam sobie nałożył.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds104": {
+        "en": "But I thought maybe he'd suffered enough. Maybe he deserved another shot at...",
+        "pl": "Ale pomyślałam, że może już wystarczająco wycierpiał. Może zasługiwał na kolejną szansę na...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds105": {
+        "en": "At whatever it is he actually wanted.",
+        "pl": "Na cokolwiek, czego naprawdę chciał.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds106": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds108": {
+        "en": "A group that [h]you,[/h] Tadpole, used to be a member of.",
+        "pl": "Grupa, której [h]ty,[/h] Tadpole, byłaś kiedyś członkinią.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds11": {
+        "en": "Nope. Let's get to the point, hm?",
+        "pl": "Nie. Przejdźmy do rzeczy, co?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds110": {
+        "en": "That all you got?",
+        "pl": "To wszystko, co macie?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds111": {
+        "en": "Not an argument.",
+        "pl": "Nie kłótnia.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds112": {
+        "en": "Nosebleed. [i]Very[/i] common among divers.",
+        "pl": "Krwawienie z nosa. [i]Bardzo[/i] powszechne u nurków.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds113": {
+        "en": "Mental note, don't share [h]any[/h] personal information with Dirk Dansom.",
+        "pl": "Notatka do siebie - nie dzielić się [h]żadnymi[/h] informacjami osobistymi z Dirkiem Dansomem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds114": {
+        "en": "[h]One[/h] of whom we've established is you, Tadpole, since it has your old name written on the back.",
+        "pl": "[h]Jedną[/h] z nich, jak ustaliliśmy, jesteś ty, Tadpole, bo z tyłu jest napisane twoje stare imię.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds116": {
+        "en": "I... assumed it was Mortuga's book because of the [i]'MM'[/i] initials on-",
+        "pl": "Ja... założyłem, że to książka Mortugi przez inicjały [i]'MM'[/i] na-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds117": {
+        "en": "Nope, it's nothing to do with him.",
+        "pl": "Nie, to nie ma z nim nic wspólnego.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds118": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds119": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds120": {
+        "en": "Nobody.",
+        "pl": "Nikt.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds122": {
+        "en": "It might be why Madam Tadpole's in this part of the world in the [i]first place.[/i]",
+        "pl": "To może wyjaśniać, czemu Madam Tadpole w ogóle jest w tej części świata, [i]przede wszystkim.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds123": {
+        "en": "Not an argument.",
+        "pl": "Nie kłótnia.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds124": {
+        "en": "We need a clue to compare with the pocketbook.",
+        "pl": "Potrzebujemy tropu do porównania z notesem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds126": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds127": {
+        "en": "Sure. Tanya.",
+        "pl": "Jasne. Tanya.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds128": {
+        "en": "Tadpole, how did [h]you[/h] end up with it?",
+        "pl": "Tadpole, jak [h]ty[/h] weszłaś w jego posiadanie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds129": {
+        "en": "An object? Nope.",
+        "pl": "Przedmiot? Nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds13": {
+        "en": "[present clue]\nwooden pipe",
+        "pl": "[present clue]\ndrewniana rura",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds130": {
+        "en": "Hm. I don't wanna tell you. You'll take it the wrong way.",
+        "pl": "Hm. Nie chcę wam mówić. Zrozumiecie to źle.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds131": {
+        "en": "Someone's sneaking around watching me rummage through [i]bookcases?[/i]",
+        "pl": "Ktoś się skrada i obserwuje, jak przeszukuję [i]biblioteczki?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds132": {
+        "en": "[clue detail]",
+        "pl": "[clue detail]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds133": {
+        "en": "Right. [i]Fine.[/i] I'll tell you.",
+        "pl": "Dobra. [i]W porządku.[/i] Powiem wam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds134": {
+        "en": "But you [i]better[/i] not get all excited.",
+        "pl": "Ale [i]lepiej[/i] się aż tak nie ekscytujcie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds135": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds136": {
+        "en": "-at what?",
+        "pl": "-czym?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds137": {
+        "en": "Someone's sneaking around recording me with a [i]dictaphone?[/i]",
+        "pl": "Ktoś się skrada i nagrywa mnie na [i]dyktafon?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds138": {
+        "en": "Seems like it.",
+        "pl": "Wygląda na to.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds14": {
+        "en": "Come on. Give it up. Just let me take it-",
+        "pl": "No dawaj. Poddaj się. Po prostu pozwól mi to zabrać-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds141": {
+        "en": "It may have been recorded without [i]permission[/i], but it's still a record of a conversation you had with Mortuga.",
+        "pl": "Może i zostało to nagrane bez [i]pozwolenia,[/i] ale to nadal zapis rozmowy, którą odbyłaś z Mortugą.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds143": {
+        "en": "It probably means there should be [i]other[/i] records in the book.",
+        "pl": "To prawdopodobnie znaczy, że w książce powinny być [i]inne[/i] zapisy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds144": {
+        "en": "It probably means the book didn't originally [h]belong[/h] to you.",
+        "pl": "To prawdopodobnie znaczy, że książka pierwotnie nie [h]należała[/h] do ciebie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds145": {
+        "en": "I assure you, he doesn't need it anymore.",
+        "pl": "Zapewniam was, że już jej nie potrzebuje.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds147": {
+        "en": "It's not even a [i]book.[/i]",
+        "pl": "To nawet nie jest [i]książka.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds149": {
+        "en": "It probably means you stole the book from Mortuga.",
+        "pl": "To prawdopodobnie znaczy, że ukradłaś tę książkę Mortudze.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds15": {
+        "en": "I've told you before.",
+        "pl": "Mówię ci to nie pierwszy raz.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds151": {
+        "en": "I'm sorry, Tanya. I cannot.",
+        "pl": "Przykro mi, Tanya. Nie mogę.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds152": {
+        "en": "But why d'you even need-",
+        "pl": "Ale czemu ci to w ogóle potrzebne-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds153": {
+        "en": "No, you [i]haven't.[/i] All you've ever told me is that you're-",
+        "pl": "Nie, to [i]nieprawda.[/i] Zawsze mówisz mi tylko, że jesteś-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds154": {
+        "en": "I'd like to request that you return to your room.",
+        "pl": "Proszę, wróć do swojego pokoju.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds155": {
+        "en": "I have something I must attend to.",
+        "pl": "Mam coś, czym muszę się zająć.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds156": {
+        "en": "I'm sorry, Tanya. I cannot.",
+        "pl": "Przykro mi, Tanya. Nie mogę.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds157": {
+        "en": "I've told you before.",
+        "pl": "Mówię ci to nie pierwszy raz.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds158": {
+        "en": "No, you [i]haven't[/i]. All you've ever told me is that you're-",
+        "pl": "Nie, to [i]nieprawda.[/i] Zawsze mówisz mi tylko, że jesteś-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds18": {
+        "en": "It sounds like you're trying get something from him? Some kind of object he was [i]keeping[/i] from you?",
+        "pl": "Brzmi, jakbyś próbowała coś od niego zdobyć? Jakiś przedmiot, który [i]trzymał[/i] przed tobą?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds19": {
+        "en": "So then what [h]were[/h] you talking about?",
+        "pl": "Więc o czym [h]właściwie[/h] rozmawialiście?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds21": {
+        "en": "[Present Clue]\nPocketbook",
+        "pl": "[Present Clue]\nNotes",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds23": {
+        "en": "Ah.",
+        "pl": "Ach.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds24": {
+        "en": "...it's just- you were seen rummaging through Mortuga's bookcase. The one in his cabin.",
+        "pl": "...po prostu- widziano cię, jak przeszukujesz biblioteczkę Mortugi. Tę w jego kajucie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds25": {
+        "en": "I thought maybe you were looking for this-",
+        "pl": "Pomyślałem, że może szukałaś tego-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds29": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds30": {
+        "en": "I mean... it [h]would[/h] neatly explain what that argument was about-",
+        "pl": "To znaczy... to [h]by[/h] ładnie wyjaśniało, o co chodziło w tej kłótni-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds31": {
+        "en": "-and obviously I noticed that there's a dried [h]bloodstain[/h] on the front of the book.",
+        "pl": "-i oczywiście zauważyłem, że na okładce książki jest zaschnięta [h]plama krwi.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds32": {
+        "en": "Oh. Really.",
+        "pl": "Och. Naprawdę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds33": {
+        "en": "It's just some old book, it's not important.",
+        "pl": "To tylko jakaś stara książka, to nieważne.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds34": {
+        "en": "Now, that's not [h]quite[/h] true, is it?",
+        "pl": "No, to nie jest [h]do końca[/h] prawda, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds34 Choice 1": {
+        "en": "It's not even a book.",
+        "pl": "To nawet nie jest książka.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds34 Choice 2": {
+        "en": "It's extremely rare.",
+        "pl": "To niezwykle rzadkie.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds34 Choice 3": {
+        "en": "It's a weapon.",
+        "pl": "To broń.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds34 Choice Question": {
+        "en": "What's special about the book?",
+        "pl": "Co jest szczególnego w tej książce?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds35": {
+        "en": "It's a weapon.",
+        "pl": "To broń.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds36": {
+        "en": "It's extremely rare.",
+        "pl": "To niezwykle rzadkie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds37": {
+        "en": "It opens up into a little box.",
+        "pl": "Otwiera się w małą skrzyneczkę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds38": {
+        "en": "Mental note, don't tell your birthdate to Dirk Dansom.",
+        "pl": "Notatka do siebie - nie zdradzać daty urodzenia Dirkowi Dansomowi.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds39": {
+        "en": "[i]Well;[/i] even if you didn't take the book from Mortuga, there's something in there I wanted to [i]ask[/i] you about.",
+        "pl": "[i]Cóż;[/i] nawet jeśli nie wzięłaś tej książki od Mortugi, jest w niej coś, o co chciałem cię [i]zapytać.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds40": {
+        "en": "Do you know who [i]this[/i] is?",
+        "pl": "Wiesz, kim jest [i]ta osoba?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds41": {
+        "en": "Says it right there on the back.",
+        "pl": "Jest napisane właśnie tam, z tyłu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds43": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds44": {
+        "en": "[Present Clue]\nDiving License",
+        "pl": "[Present Clue]\nLicencja Nurkowa",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds45": {
+        "en": "We heard you used to be a rescue diver...",
+        "pl": "Słyszeliśmy, że byłaś kiedyś nurkiem ratownikiem...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds50": {
+        "en": "What of it?",
+        "pl": "I co z tego?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds50 Choice 1": {
+        "en": "It probably means the book didn't originally belong to Tadpole.",
+        "pl": "To prawdopodobnie znaczy, że książka pierwotnie nie należała do Tadpole.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds50 Choice 2": {
+        "en": "It probably means there should be other records in the book.",
+        "pl": "To prawdopodobnie znaczy, że w książce powinny być inne zapisy.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds50 Choice 3": {
+        "en": "It probably means Tadpole stole the book from Mortuga.",
+        "pl": "To prawdopodobnie znaczy, że Tadpole ukradła tę książkę Mortudze.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds50 Choice Question": {
+        "en": "The fact that there's a record of Tadpole in the book...",
+        "pl": "Fakt, że w książce jest zapis dotyczący Tadpole...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds51": {
+        "en": "Right, why would you have a record of [i]yourself?[/i]",
+        "pl": "No właśnie, czemu miałabyś mieć zapis o [i]sobie samej?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds52": {
+        "en": "So, the book contains photos of these three women...",
+        "pl": "Więc, książka zawiera zdjęcia tych trzech kobiet...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds53": {
+        "en": "Hey - they spelled your name wrong. It says [i]Tap-dole.[/i]",
+        "pl": "Hej - źle napisali twoje imię. Jest napisane [i]Tap-dole.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds54": {
+        "en": "Yeah, that's my real surname.",
+        "pl": "Tak, to moje prawdziwe nazwisko.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds55": {
+        "en": "Right - sorry. Makes sense.",
+        "pl": "No tak - przepraszam. Ma sens.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds56": {
+        "en": "Tadpole begun as a [i]stage[/i] name, but now I just wear it as my name.",
+        "pl": "Tadpole zaczęło jako [i]pseudonim sceniczny,[/i] ale teraz po prostu noszę je jako swoje imię.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds57": {
+        "en": "Oh, unless-",
+        "pl": "O, chyba że-",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds58": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds59": {
+        "en": "[i]...a stage name, huh?[/i]",
+        "pl": "[i]...pseudonim sceniczny, co?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds6": {
+        "en": "Tadpole, what would you say your relationship with [h]Mortuga[/h] was like?",
+        "pl": "Tadpole, jak byś opisała swoją relację z [h]Mortugą?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds60": {
+        "en": "I [i]told[/i] you, it's nothing to do with Mortuga.",
+        "pl": "[i]Mówiłam[/i] wam, to nie ma nic wspólnego z Mortugą.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds63": {
+        "en": "So who [h]does[/h] it belong to?",
+        "pl": "Więc do kogo [h]należy?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds7": {
+        "en": "We got on great - where's this going?",
+        "pl": "Dogadywaliśmy się świetnie - do czego to zmierza?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds71": {
+        "en": "Something to suggest who the original owner was...",
+        "pl": "Coś, co sugeruje, kim był pierwotny właściciel...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds72": {
+        "en": "[present clue, Blurry Photo]\n[Compare Game]\nThe scratch on the cover is an engraving of the monogram on the ticket, as it was made by Waylan Wolfe.",
+        "pl": "[present clue, Blurry Photo]\n[Compare Game]\nRysa na okładce to grawerunek monogramu z biletu, ponieważ zostało to wykonane przez Waylana Wolfe'a.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds79": {
+        "en": "So, the man in this photo - Waylan Wolfe - we think was the head of some kind of traveling show...",
+        "pl": "Więc, mężczyzna na tym zdjęciu - Waylan Wolfe - naszym zdaniem był szefem jakiegoś wędrownego widowiska...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds8": {
+        "en": "Did you ever [i]disagree[/i] with him? [i]Argue[/i] with him?",
+        "pl": "Czy kiedykolwiek [i]różniłaś się[/i] z nim zdaniem? [i]Kłóciłaś[/i] się z nim?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds80": {
+        "en": "Hey, look at that.\nI'm actually impressed.",
+        "pl": "Hej, patrzcie no.\nJestem naprawdę pod wrażeniem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds81": {
+        "en": "Presumably, the pocketbook is where he kept records of the various people he had dealings with.",
+        "pl": "Przypuszczalnie, w tym notesie trzymał zapisy o różnych ludziach, z którymi miał do czynienia.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds82": {
+        "en": "Tanya Tadpole.\nMariana Moon.\nBaroness Fortuna.",
+        "pl": "Tanya Tadpole.\nMariana Moon.\nBaronowa Fortuna.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds84": {
+        "en": "The first two we know about - but what about Fortuna? What does [h]she[/h] have to do with Wolfe?",
+        "pl": "O pierwszych dwóch już wiemy - ale co z Fortuną? Co [h]ona[/h] ma wspólnego z Wolfe'em?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds85": {
+        "en": "[Present Clue]\nIllusionist Poster",
+        "pl": "[Present Clue]\nPlakat Iluzjonisty",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds86": {
+        "en": "Baroness Fortuna owns the Fortuna Hall theatre in Silkwirm-on-sea.",
+        "pl": "Baronowa Fortuna jest właścicielką teatru Fortuna Hall w Silkwirm nad Morzem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds87": {
+        "en": "Perhaps Wolfe's travelling performers came through Silkwirm-on-sea at one point...",
+        "pl": "Może wędrowni artyści Wolfe'a w pewnym momencie przejeżdżali przez Silkwirm nad Morzem...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds88": {
+        "en": "We actually passed it on the way to the Stonetop Inn - it's all boarded up now.",
+        "pl": "Właściwie mijaliśmy go po drodze do Gospody Stonetop - teraz jest cały zabity deskami.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds89": {
+        "en": "So if the pocketbook originally belonged to Waylan Wolfe...\n",
+        "pl": "Więc jeśli notes pierwotnie należał do Waylana Wolfe'a...\n",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds90": {
+        "en": "...and perhaps some of them never [i]left.[/i]",
+        "pl": "...i może niektórzy z nich nigdy nie [i]odeszli.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds91": {
+        "en": "I [i]took[/i] it from him.",
+        "pl": "[i]Wzięłam[/i] go od niego.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds92": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds93": {
+        "en": "So - it really [h]doesn't[/h] have anything to do with Mortuga...",
+        "pl": "Więc - to naprawdę [h]nie ma[/h] nic wspólnego z Mortugą...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds94": {
+        "en": "But in that case, what was that [h]argument[/h] about?",
+        "pl": "Ale w takim razie, o co chodziło w tej [h]kłótni?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds95": {
+        "en": "Come on. Give it up. Just let me take it-",
+        "pl": "No dawaj. Poddaj się. Po prostu pozwól mi to zabrać-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds96": {
+        "en": "But why d'you even need-",
+        "pl": "Ale czemu ci to w ogóle potrzebne-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds98": {
+        "en": "I was tryna convince him to leave the submarine, and give up the captaincy to me.",
+        "pl": "Próbowałam przekonać go, żeby opuścił łódź i oddał mi dowództwo.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 05 SUSPICION/Section ds99": {
+        "en": "[h]What!?[/h]",
+        "pl": "[h]Co!?[/h]",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Tadpole 05 SUSPICION - Waylan Wolfe i wspolna przeszlosc",
+      "problem": "Nowy, istotny watek fabularny: notes nalezal pierwotnie do Waylana Wolfe'a, szefa wedrownego widowiska, i zawiera zdjecia trzech kobiet (Tadpole, Moon, Baronowa Fortuna) - sugeruje wspolna przeszlosc/zwiazek tych postaci sprzed wydarzen na lodzi. Fortuna jeszcze nie pojawila sie jako grywalna postac - do sledzenia czy to sie rozwinie w dalszych partiach."
+    }
+  ]
+}

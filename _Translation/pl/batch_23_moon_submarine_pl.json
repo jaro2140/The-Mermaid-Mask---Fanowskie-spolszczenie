@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "batch": "Moon 03 SUBMARINE (34 terminow) - kontynuacja luku Moon po batch_21-22 (35/271). Moon opowiada o swoim przybyciu na lodz i pierwszym spotkaniu z kapitanem Mortuga - w charakterystycznym dla niej stylu baśniowej narracji trzecioosobowej przeplatanej z pierwszoosobowa relacja.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 34/34 pokryte: Moon 28, Sally 3, Grimoire 3",
+    "character_voice": "Moon: mistyczna gawedziarka (patrz batch_21-22). W tej scenie narruje wlasne przybycie jak basn/legende ('Tajemnicza nieznajoma stawia stope na jej pokladzie...') - czas terazniejszy narracyjny zachowany konsekwentnie zgodnie z oryginalem.",
+    "engine_tokens": "ds85 '[MarianaStatementBoard]' - token silnika (mechanika 'tablicy zeznan'), zostawiony bez tlumaczenia wzorem innych nawiasowych markerow (Mind Game, Present Clue itd. z batch_20)."
+  },
+  "categories": {
+    "Moon 03 SUBMARINE": {
+      "Conversation/Moon 03 SUBMARINE/Section ds19": {
+        "en": "Mr Wirman apologises - explains he's too [i]tired[/i] - and leaves through the opposite corridor.",
+        "pl": "Pan Wirman przeprasza - tłumaczy, że jest zbyt [i]zmęczony[/i] - i odchodzi przeciwległym korytarzem.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds20": {
+        "en": "Then he disappears through the rear corridor. ",
+        "pl": "Potem znika w tylnym korytarzu. ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds22": {
+        "en": "Captain Mortuga reappears, descending the ladder.",
+        "pl": "Kapitan Mortuga pojawia się ponownie, schodząc po drabinie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds26": {
+        "en": "Doing so, I encounter two gentlemen named Mr Wirman and Mr Gripp.",
+        "pl": "Czyniąc tak, napotykam dwóch dżentelmenów imieniem pan Wirman i pan Gripp.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds30": {
+        "en": "He seems sad... angry. He avoids my gaze as he crosses the room to take hold of the wheel.",
+        "pl": "Wygląda na smutnego... rozgniewanego. Unika mojego wzroku, przemierzając pokój, by chwycić za koło sterowe.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds33": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds34": {
+        "en": "Nice guy. Stoic - but polite. Kind.",
+        "pl": "Miły facet. Stoicki - ale uprzejmy. Życzliwy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds38": {
+        "en": "Right, so - yes - I can see there's [i]one more room[/i] to visit.",
+        "pl": "No dobrze, więc - tak - widzę, że jest [i]jeszcze jedno pomieszczenie[/i] do odwiedzenia.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds41": {
+        "en": "Mr Gripp insists it's just the bilge; 'a dark, dank and smelly place, ill-frequented by humankind.'",
+        "pl": "Pan Gripp upiera się, że to tylko zęza; 'ciemne, wilgotne i cuchnące miejsce, rzadko odwiedzane przez rodzaj ludzki.'",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds46": {
+        "en": "A merciless wind rattles the rotting wood of the old Silkwirm harbor.",
+        "pl": "Bezlitosny wiatr targa spróchniałym drewnem starego portu Silkwirm.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds47": {
+        "en": "The shadow of a vessel, lurking low in the night-black water.",
+        "pl": "Cień statku, czającego się nisko w nocnej, czarnej wodzie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds48": {
+        "en": "Cloaked in darkness, she slips inside the submarine. Who is she? What is her dark purpose-",
+        "pl": "Spowita mrokiem, wślizguje się do wnętrza łodzi podwodnej. Kim ona jest? Jaki jest jej mroczny cel-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds49": {
+        "en": "It's you. We get it.",
+        "pl": "To ty. Rozumiemy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds50": {
+        "en": "A mysterious [h]stranger,[/h] I said!",
+        "pl": "Tajemnicza [h]nieznajoma[/h], tak powiedziałam!",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds51": {
+        "en": "She descends into an ornate parlor - empty... save for a lone figure standing by the fire.",
+        "pl": "Schodzi do zdobnego salonu - pustego... jeśli nie liczyć samotnej postaci stojącej przy kominku.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds52": {
+        "en": "He turns, his face still half-hidden in flickering shadow.",
+        "pl": "Odwraca się, jego twarz wciąż na wpół ukryta w migoczącym cieniu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds53": {
+        "en": "So - [h]not[/h] empty.",
+        "pl": "Więc - [h]nie[/h] pustego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds54": {
+        "en": "It is Captain Magnus Mortuga.",
+        "pl": "To kapitan Magnus Mortuga.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds55": {
+        "en": "What was he like?",
+        "pl": "Jaki on był?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds56": {
+        "en": "He tells me to wait in the control room, and then disappears off towards the back of the ship.",
+        "pl": "Każe mi czekać w sterowni, po czym znika w stronę tyłu statku.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds57": {
+        "en": "After a little while, he comes back. But now, he's a [i]slightly different man.[/i]",
+        "pl": "Po chwili wraca. Ale teraz jest [i]nieco innym człowiekiem.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds58": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds59": {
+        "en": "The light is gone from his eyes...",
+        "pl": "Blask zniknął z jego oczu...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds6": {
+        "en": "A mysterious stranger steps onto her foredeck.",
+        "pl": "Tajemnicza nieznajoma stawia stopę na jej pokładzie dziobowym.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds60": {
+        "en": "He tells me to head down the ladder towards the mess hall.",
+        "pl": "Każe mi zejść po drabinie w stronę Mesy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds61": {
+        "en": "Neither of them [i]look[/i] like sailors, so I know they can't be crew - I assume they must be guests, like me.",
+        "pl": "Żaden z nich nie [i]wygląda[/i] na marynarza, więc wiem, że nie mogą być załogą - zakładam, że muszą być gośćmi, tak jak ja.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds62": {
+        "en": "And true enough, it transpires that Mr Wirman is a writer and Mr Gripp is, uh, some kind of watch repairman.",
+        "pl": "I rzeczywiście, okazuje się, że pan Wirman jest pisarzem, a pan Gripp jest, yy, jakimś naprawiaczem zegarków.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds63": {
+        "en": "He asks the two men to show me around the submarine and introduce me to [i]'the others.'[/i]",
+        "pl": "Prosi tych dwóch mężczyzn, żeby oprowadzili mnie po łodzi i przedstawili [i]'reszcie.'[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds64": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds79": {
+        "en": "I tell him - he couldn't have sold it to me better if he'd [i]tried.[/i]",
+        "pl": "Mówię mu - nie mógłby mnie do tego lepiej przekonać, nawet gdyby [i]się starał.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds83": {
+        "en": "It's the last time I see him alive...",
+        "pl": "To ostatni raz, kiedy widzę go żywego...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds84": {
+        "en": "Now... I wrote this down in my diary, so I may as well let you read it-",
+        "pl": "Teraz... zapisałam to w swoim dzienniku, więc równie dobrze mogę wam dać to przeczytać-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds85": {
+        "en": "[MarianaStatementBoard]",
+        "pl": "[MarianaStatementBoard]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 03 SUBMARINE/Section ds86": {
+        "en": "Mr Gripp, unable to come up with such an excuse, agrees to show me around.",
+        "pl": "Pan Gripp, niezdolny wymyślić taką wymówkę, zgadza się mnie oprowadzić.",
+        "speaker": "Moon"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

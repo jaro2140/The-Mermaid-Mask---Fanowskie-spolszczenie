@@ -1,0 +1,1138 @@
+[
+  {
+    "term": "Hints/Hint All Lets talk to the other suspects",
+    "en": "Let's talk to the other suspects..."
+  },
+  {
+    "term": "Hints/Hint Dirk 1 Action Figure",
+    "en": "Let's try the Action Figure."
+  },
+  {
+    "term": "Hints/Hint Dirk 1 Cell Phone",
+    "en": "Let's try the Cell Phone."
+  },
+  {
+    "term": "Hints/Hint Dirk 1 Hex of the Helmsman",
+    "en": "Let's try Hex of the Helmsman."
+  },
+  {
+    "term": "Hints/Hint Dirk 1 Movie Magazine",
+    "en": "Let's try the Movie Magazine."
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Command Contract",
+    "en": "Maybe the Command Contract...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Diving License",
+    "en": "Maybe the Diving License...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Film Projector",
+    "en": "Maybe the Film Projector...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 MessageinaBottle",
+    "en": "Maybe the Message in a Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Pocketbook",
+    "en": "Maybe the Pocketbook...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Strange Device",
+    "en": "Maybe the Strange Device...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 2 Sun Tablets",
+    "en": "Maybe the Sun Tablets...?"
+  },
+  {
+    "term": "Hints/Hint Dirk 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Dirk Action Figure",
+    "en": "Maybe the Action Figure...?"
+  },
+  {
+    "term": "Hints/Hint Dirk Cell Phone",
+    "en": "Maybe the Cell Phone...?"
+  },
+  {
+    "term": "Hints/Hint Dirk Hex of the Helmsman",
+    "en": "Maybe Hex of the Helmsman...?"
+  },
+  {
+    "term": "Hints/Hint Dirk Lets ask others about Dirk",
+    "en": "Let's ask others about Dirk..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets examines clues in case file",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore Dirks bunk room",
+    "en": "Let's explore Dirk's bunk room..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the airlock",
+    "en": "Let's explore the airlock..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the bilge",
+    "en": "Let's explore the bilge..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the cargo hold",
+    "en": "Let's explore the cargo hold..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the control room",
+    "en": "Let's explore the control room..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the other bunk room",
+    "en": "Let's explore the other bunk room..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets talk to Dirk",
+    "en": "Let's talk to Dirk..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets talk to Mariana",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets talk to Sinthia",
+    "en": "Let's talk to Sinthia..."
+  },
+  {
+    "term": "Hints/Hint Dirk Lets talk to Wirman",
+    "en": "Let's talk to Wirman..."
+  },
+  {
+    "term": "Hints/Hint Dirk Movie Magazine",
+    "en": "Maybe the Movie Magazine...?"
+  },
+  {
+    "term": "Hints/Hint Dirk No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Gripp 1 Balloon Basket",
+    "en": "Let's try the Balloon Basket."
+  },
+  {
+    "term": "Hints/Hint Gripp 1 Broken Compass",
+    "en": "Let's try the Broken Compass."
+  },
+  {
+    "term": "Hints/Hint Gripp 1 Cornelius Cane",
+    "en": "Let's try Cornelius Cane."
+  },
+  {
+    "term": "Hints/Hint Gripp 1 Ocean Map",
+    "en": "Let's try the Ocean Map."
+  },
+  {
+    "term": "Hints/Hint Gripp 2 CaptainsLog",
+    "en": "Maybe the Captain's Log...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 CaretakersJournal",
+    "en": "Maybe the Caretaker's Journal...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 GoldenLocket",
+    "en": "Maybe the Golden Locket...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 ModelTown",
+    "en": "Maybe the Model Town...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 ShipinaBottle",
+    "en": "Maybe the Ship in a Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 ShipsWheel",
+    "en": "Maybe the Ship's Wheel...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 SilkwirmMap",
+    "en": "Maybe the Silkwirm Map...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 2 WoodenBuoy",
+    "en": "Maybe the Wooden Buoy...?"
+  },
+  {
+    "term": "Hints/Hint Gripp 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Gripp Balloon Basket",
+    "en": "Maybe the Balloon Basket...?"
+  },
+  {
+    "term": "Hints/Hint Gripp Broken Compass",
+    "en": "Maybe the Broken Compass...?"
+  },
+  {
+    "term": "Hints/Hint Gripp Cornelius Cane",
+    "en": "Maybe Cornelius Cane...?"
+  },
+  {
+    "term": "Hints/Hint Gripp Lets examines clues in case file 1",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets examines clues in case file 2",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the Captains Cabin",
+    "en": "Let's explore the Captain's Cabin..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the Captains Quarters",
+    "en": "Let's explore the Captain's Quarters..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the Control Room",
+    "en": "Let's explore the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the Dream Chamber",
+    "en": "Let's explore the Dream Chamber..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the Illusion Theatre",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the engine room",
+    "en": "Let's explore the Engine Room..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets talk to Gripp",
+    "en": "Let's talk to Gripp..."
+  },
+  {
+    "term": "Hints/Hint Gripp Lets talk to others about Gripp",
+    "en": "Let's talk to others about Gripp..."
+  },
+  {
+    "term": "Hints/Hint Gripp No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Gripp Ocean Map",
+    "en": "Maybe the Ocean Map...?"
+  },
+  {
+    "term": "Hints/Hint Map 10 Go After Gripp",
+    "en": "We have to go after Gripp!"
+  },
+  {
+    "term": "Hints/Hint Map 11 Check Control Room",
+    "en": "We have to get back to the Control Room!"
+  },
+  {
+    "term": "Hints/Hint Map 12 No Hint",
+    "en": "I think we're done."
+  },
+  {
+    "term": "Hints/Hint Map 1a Visit Crime Scene",
+    "en": "Let's visit the Crime Scene first..."
+  },
+  {
+    "term": "Hints/Hint Map 1b Explore Crime Scene",
+    "en": "Let's explore the Crime Scene..."
+  },
+  {
+    "term": "Hints/Hint Map 2 Explore the Submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Map 2 Explore the Submarine 1",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Map 2 Find all Suspects",
+    "en": "Let's try to find all the Suspects..."
+  },
+  {
+    "term": "Hints/Hint Map 2 Get into the Control Room",
+    "en": "Let's find a way into the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Examines Clues in Case File",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore Airlock",
+    "en": "Let's explore the Airlock Grotto..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore Bilge",
+    "en": "Let's explore the Bilge..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore CaptainsCabin",
+    "en": "Let's explore the Captain's Cabin..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore CaptainsQuarters",
+    "en": "Let's explore the Captain's Quarters..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore CargoHold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore ChildsRoom",
+    "en": "Let's explore the Child's Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore ControlRoom",
+    "en": "Let's explore the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore DirkWirman",
+    "en": "Let's explore Dirk & Wirman's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore DreamChamber",
+    "en": "Let's explore the Dream Chamber..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore EngineRoom",
+    "en": "Let's explore the Engine Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore IllusionTheatre",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore MessHall",
+    "en": "Let's explore the Mess Hall..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore Parlor",
+    "en": "Let's explore the Parlor..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Explore SymSinthia",
+    "en": "Let's explore Sym & Sinthia's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Light up Bilge",
+    "en": "Maybe there's a way to light up the Bilge..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Dirk",
+    "en": "Let's talk to Dirk..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Gripp",
+    "en": "Let's talk to Gripp..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Moon",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Sinthia",
+    "en": "Let's talk to Sinthia..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Sym",
+    "en": "Let's talk to Sym..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Tadpole",
+    "en": "Let's talk to Tadpole..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Wirman",
+    "en": "Let's talk to Wirman..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Talk to Zephyr",
+    "en": "Let's talk to Zephyr..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Unlock Captains Cabin",
+    "en": "Let's find a way to unlock the Captain's Cabin..."
+  },
+  {
+    "term": "Hints/Hint Map 3 Unlock Captains Quarters",
+    "en": "Let's find a way to access the Captain's Quarters..."
+  },
+  {
+    "term": "Hints/Hint Map 4 Report to Sinthia",
+    "en": "Let's make our report to Sinthia."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check Captains Cabin",
+    "en": "Let's check the Captain's Cabin."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check Captains Quarters",
+    "en": "Let's check the Captain's Quarters."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check CargoHold",
+    "en": "Let's check the Cargo Hold."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check ControlRoom",
+    "en": "Let's check the Control Room."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check DreamChamber",
+    "en": "Let's check the Dream Chamber."
+  },
+  {
+    "term": "Hints/Hint Map 5 Check Mess Hall",
+    "en": "Let's check the Mess Hall."
+  },
+  {
+    "term": "Hints/Hint Map 5 Discuss",
+    "en": "Let's discuss what we've learned..."
+  },
+  {
+    "term": "Hints/Hint Map 5 Explore AftDeck",
+    "en": "Let's explore the Aft Deck..."
+  },
+  {
+    "term": "Hints/Hint Map 5 Explore CabinetCuriosity",
+    "en": "Let's explore the Cabinet of Curiosity..."
+  },
+  {
+    "term": "Hints/Hint Map 5 Explore DomeTank",
+    "en": "Let's explore the Dome Tank..."
+  },
+  {
+    "term": "Hints/Hint Map 5 Explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Map 5 Explore the submarine 2",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Map 6 Investigate Crime Scene",
+    "en": "Let's investigate the Crime Scene."
+  },
+  {
+    "term": "Hints/Hint Map 6 Revisit Crime Scene",
+    "en": "Let's go back to the Crime Scene."
+  },
+  {
+    "term": "Hints/Hint Map 7 Discuss Crime Scene",
+    "en": "Let's discuss the Crime Scene."
+  },
+  {
+    "term": "Hints/Hint Map 7 Investigate Crime Scene",
+    "en": "Let's investigate the Crime Scene."
+  },
+  {
+    "term": "Hints/Hint Map 8 Check Mess Hall",
+    "en": "Let's check the Mess Hall."
+  },
+  {
+    "term": "Hints/Hint Map 9 Check Parlor",
+    "en": "Let's check the Parlor."
+  },
+  {
+    "term": "Hints/Hint Moon 1 HexBottle",
+    "en": "Let's try the Hex Bottle."
+  },
+  {
+    "term": "Hints/Hint Moon 1 MoonVial",
+    "en": "Let's try the Moon Vial."
+  },
+  {
+    "term": "Hints/Hint Moon 1 SilkwirmMap",
+    "en": "Let's try the Silkwirm Map."
+  },
+  {
+    "term": "Hints/Hint Moon 1 WoodenPipe",
+    "en": "Let's try the Wooden Pipe."
+  },
+  {
+    "term": "Hints/Hint Moon 2 Black Box",
+    "en": "Maybe the Black Box...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 CaretakersJournal",
+    "en": "Maybe the Caretaker's Journal...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 CellPhone",
+    "en": "Maybe the Cell Phone...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 FamilyPhoto",
+    "en": "Maybe the Family Photo...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 FeliciaPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 GlassEyeball",
+    "en": "Maybe the Glass Eyeball...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 InnDeeds",
+    "en": "Maybe the Inn Deeds...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 MermaidPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 ModelTown",
+    "en": "Maybe the Model Town...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 Newspaper",
+    "en": "Maybe the Newspaper Page...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 OceanMap",
+    "en": "Maybe the Ocean Map...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 Pocketbook",
+    "en": "Maybe the Pocketbook...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 ShipinaBottle",
+    "en": "Maybe the Ship in a Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Moon 2 WoodenBuoy",
+    "en": "Maybe the Wooden Buoy...?"
+  },
+  {
+    "term": "Hints/Hint Moon 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets examines clues in case file 1",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets examines clues in case file 2",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets explore the Airlock",
+    "en": "Let's explore the Airlock..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets explore the Bunk Room",
+    "en": "Let's explore the Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets explore the Captains Quarters",
+    "en": "Let's explore the Captain's Quarters..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets explore the Cargo Hold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets talk to Dirk",
+    "en": "Let's talk to Dirk..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets talk to Mariana",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Moon Lets talk to others about Mariana",
+    "en": "Let's talk to others about Mariana..."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 Blueprint",
+    "en": "Let's try the Submarine Blueprint."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 CaptainsLog",
+    "en": "Let's try the Captain's Log."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 CommandContract",
+    "en": "Let's try the Command Contract."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 FamilyPhoto",
+    "en": "Let's try the Family Photo."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 FeliciaPainting",
+    "en": "Let's try the HER Painting."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 InnDeeds",
+    "en": "Let's try the Inn Deeds."
+  },
+  {
+    "term": "Hints/Hint Sinthia 1 UnderwaterPhoto",
+    "en": "Let's try the Underwater Photo."
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 BrokenCompass",
+    "en": "Maybe the Broken Compass...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 CaptainsJacket",
+    "en": "Maybe the Captain's Jacket...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 CaseFile",
+    "en": "Maybe the Case File...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 CellPhone",
+    "en": "Maybe the Cell Phone...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 CurseCauldron",
+    "en": "Maybe the Stone Cauldron...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 GlassEyeball",
+    "en": "Maybe the Glass Eyeball...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 HandheldRadio",
+    "en": "Maybe the Handheld Radio...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 MermaidPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 ModelTown",
+    "en": "Maybe the Model Town...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 Newspaper",
+    "en": "Maybe the Newspaper...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 ShipsWheel",
+    "en": "Maybe the Ship's Wheel...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 SilkwirmMap",
+    "en": "Maybe the Silkwirm Map...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 StrangeDevice",
+    "en": "Maybe the Strange Device...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 2 WoodenBuoy",
+    "en": "Maybe the Wooden Buoy...?"
+  },
+  {
+    "term": "Hints/Hint Sinthia 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets examines clues in case file",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets explore Sinthias Bunk Room",
+    "en": "Let's explore Sinthia's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets explore Wirmans Bunk Room",
+    "en": "Let's explore Wirman's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets explore the Cargo Hold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets explore the Control Room",
+    "en": "Let's explore the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets talk to Mariana",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets talk to Sinthia",
+    "en": "Let's talk to Sinthia..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets talk to Sym",
+    "en": "Lets talk to Symmetry..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets talk to Wirman",
+    "en": "Let's talk to Wirman..."
+  },
+  {
+    "term": "Hints/Hint Sinthia Lets talk to others about Sinthia",
+    "en": "Let's talk to others about Sinthia..."
+  },
+  {
+    "term": "Hints/Hint Sym 1 FilmProjector",
+    "en": "Let's try the Film Projector."
+  },
+  {
+    "term": "Hints/Hint Sym 1 GlassEyeball",
+    "en": "Let's try the Glass Eyeball."
+  },
+  {
+    "term": "Hints/Hint Sym 1 Golden Locket",
+    "en": "Let's try the Golden Locket."
+  },
+  {
+    "term": "Hints/Hint Sym 1 IllusionPoster",
+    "en": "Let's try the Illusion Poster."
+  },
+  {
+    "term": "Hints/Hint Sym 1 LifesizeDoll",
+    "en": "Let's try the Lifesize Doll."
+  },
+  {
+    "term": "Hints/Hint Sym 1 Newspaper",
+    "en": "Let's try the Newspaper Page."
+  },
+  {
+    "term": "Hints/Hint Sym 1 Sailcloth",
+    "en": "Let's try the Sailcloth."
+  },
+  {
+    "term": "Hints/Hint Sym 2 Caretakers Journal",
+    "en": "Maybe the Caretaker's Journal...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Cauldron",
+    "en": "Maybe the Stone Cauldron...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Dream Helmet",
+    "en": "Maybe the Dream Helmet...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Fog Ball",
+    "en": "Maybe the Fog Ball...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Hex Bottle",
+    "en": "Maybe the Hex Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Moon Vial",
+    "en": "Maybe the Moon Vial...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Ship in a Bottle",
+    "en": "Maybe the Ship in a Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Sym 2 Underwater Photo",
+    "en": "Maybe the Underwater Photo...?"
+  },
+  {
+    "term": "Hints/Hint Sym 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets examines clues in case file",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore DirkWirman Bunk Room",
+    "en": "Let's explore Dirk and Wirman's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore the Childs Room",
+    "en": "Let's explore the Child's Room..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore the Control Room",
+    "en": "Let's explore the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore the Dream Chamber",
+    "en": "Let's explore the Dream Chamber..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore the Illusion Theatre",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets talk to Symmetry",
+    "en": "Let's talk to Symmetry..."
+  },
+  {
+    "term": "Hints/Hint Sym Lets talk to others about Symmetry",
+    "en": "Let's talk to others about Symmetry..."
+  },
+  {
+    "term": "Hints/Hint Tadpole 1 DivingLicense",
+    "en": "Let's try the Diving License."
+  },
+  {
+    "term": "Hints/Hint Tadpole 1 GlassEyeball",
+    "en": "Let's try the Glass Eyeball."
+  },
+  {
+    "term": "Hints/Hint Tadpole 1 MessageinaBottle",
+    "en": "Let's try the Message in a Bottle."
+  },
+  {
+    "term": "Hints/Hint Tadpole 1 MoonPhoto",
+    "en": "Let's try the Moon Photo."
+  },
+  {
+    "term": "Hints/Hint Tadpole 1 Pocketbook",
+    "en": "Let's try the Pocketbook."
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 FeliciaPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 HexBottle",
+    "en": "Maybe the Hex Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 IllusionistPoster",
+    "en": "Maybe the Illusion Poster...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 MermaidPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 OceanMap",
+    "en": "Maybe the Ocean Map...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 StrangeDevice",
+    "en": "Maybe the Strange Device...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 2 UnderwaterPhoto",
+    "en": "Maybe the Underwater Photo...?"
+  },
+  {
+    "term": "Hints/Hint Tadpole 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets examines clues in case file 1",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets examines clues in case file 2",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Airlock",
+    "en": "Let's explore the Airlock..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Bilge",
+    "en": "Let's explore the Bilge..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Bunk Room",
+    "en": "Let's explore the Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Cargo Hold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Dream Chamber",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the Illusion Theatre",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets talk to Dirk",
+    "en": "Let's talk to Dirk..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets talk to Mariana",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets talk to Tadpole",
+    "en": "Let's talk to Tadpole..."
+  },
+  {
+    "term": "Hints/Hint Tadpole Lets talk to others about Tadpole",
+    "en": "Let's talk to others about Tadpole..."
+  },
+  {
+    "term": "Hints/Hint Wirman 1 HandwrittenLetter",
+    "en": "Let's try the Handwritten Letter."
+  },
+  {
+    "term": "Hints/Hint Wirman 1 HexNovel",
+    "en": "Let's try Hex of the Helmsman."
+  },
+  {
+    "term": "Hints/Hint Wirman 1 Typewriter",
+    "en": "Let's try the Typewriter."
+  },
+  {
+    "term": "Hints/Hint Wirman 2 ActionFigure",
+    "en": "Maybe the Action Figure...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 CellPhone",
+    "en": "Maybe the Cell Phone...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 CommandContract",
+    "en": "Maybe the Command Contract...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 Curse Cauldron",
+    "en": "Maybe the Stone Cauldron...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 IllusionistPoster",
+    "en": "Maybe the Illusion Poster...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 InnDeeds",
+    "en": "Maybe the Inn Deeds...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 MessageinaBottle",
+    "en": "Maybe the Message in a Bottle...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 MovieMagazine",
+    "en": "Maybe the Movie Magazine...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 Newspaper",
+    "en": "Maybe the Newspaper...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 2 SilkwirmMap",
+    "en": "Maybe the Silkwirm Map...?"
+  },
+  {
+    "term": "Hints/Hint Wirman 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Wirman Done",
+    "en": "...I think we're done."
+  },
+  {
+    "term": "Hints/Hint Wirman HandwrittenLetter",
+    "en": "Maybe the Handwritten Letter...?"
+  },
+  {
+    "term": "Hints/Hint Wirman HexNovel",
+    "en": "Maybe Hex of the Helmsman...?"
+  },
+  {
+    "term": "Hints/Hint Wirman Lets examines clues in case file",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore Wirmans Bunk Room",
+    "en": "Let's explore Wirman's Bunk Room..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore the Airlock",
+    "en": "Let's explore the Airlock..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore the Cargo Hold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore the Childs Room",
+    "en": "Let's explore the Child's Room..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore the Control Room",
+    "en": "Let's explore the Control Room..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets explore the submarine",
+    "en": "Let's explore the submarine.."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets talk to Tadpole",
+    "en": "Let's talk to Tadpole..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets talk to Wirman",
+    "en": "Let's talk to Wirman..."
+  },
+  {
+    "term": "Hints/Hint Wirman Lets talk to others about Wirman",
+    "en": "Let's talk to others about Wirman..."
+  },
+  {
+    "term": "Hints/Hint Wirman Newspaper",
+    "en": "Maybe the Newspaper...?"
+  },
+  {
+    "term": "Hints/Hint Wirman No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Wirman Typewriter",
+    "en": "Maybe the Typewriter...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 1 CaretakersJournal",
+    "en": "Let's try the Caretaker's Journal."
+  },
+  {
+    "term": "Hints/Hint Zephyr 1 DreamHelmet",
+    "en": "Let's try the Dream Helmet."
+  },
+  {
+    "term": "Hints/Hint Zephyr 1 FogBall",
+    "en": "Let's try the Fog Ball."
+  },
+  {
+    "term": "Hints/Hint Zephyr 1 HexBottle",
+    "en": "Let's try the Hex Bottle."
+  },
+  {
+    "term": "Hints/Hint Zephyr 1 MoonVial",
+    "en": "Let's try the Moon Vial."
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 Cane",
+    "en": "Maybe Cornelius Cane...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 Cauldron",
+    "en": "Maybe the Stone Cauldron...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 FeliciaPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 GlassEyeball",
+    "en": "Maybe the Glass Eyeball...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 GoldenLocket",
+    "en": "Maybe the Golden Locket...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 HexNovel",
+    "en": "Maybe Hex of the Helmsman...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 IllusionistPoster",
+    "en": "Maybe the Illusion Poster...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 IronBell",
+    "en": "Maybe the Iron Bell...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 MermaidPainting",
+    "en": "Maybe the HER Painting...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 NewspaperPage",
+    "en": "Maybe the Newspaper Page...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 OceanMap",
+    "en": "Maybe the Ocean Map...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 2 UnderwaterPhoto",
+    "en": "Maybe the Underwater Photo...?"
+  },
+  {
+    "term": "Hints/Hint Zephyr 3 No Prompt",
+    "en": "Nothing comes to mind..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets examines clues in case file",
+    "en": "Let's examine the clues in our Case File..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets explore the Cargo Hold",
+    "en": "Let's explore the Cargo Hold..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets explore the Childs Room",
+    "en": "Let's explore the Child's Room..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets explore the Dream Chamber",
+    "en": "Let's explore the Dream Chamber..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets explore the Illusion Theatre",
+    "en": "Let's explore the Illusion Theatre..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets explore the submarine",
+    "en": "Let's explore the submarine..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets talk to Mariana",
+    "en": "Let's talk to Mariana..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets talk to Zephyr",
+    "en": "Let's talk to Zephyr..."
+  },
+  {
+    "term": "Hints/Hint Zephyr Lets talk to others about Zephyr",
+    "en": "Let's talk to others about Zephyr..."
+  }
+]

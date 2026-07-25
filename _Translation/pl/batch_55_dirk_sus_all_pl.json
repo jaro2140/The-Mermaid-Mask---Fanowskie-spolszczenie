@@ -1,0 +1,530 @@
+{
+  "_meta": {
+    "batch": "Dirk SUS X (9 scen, 100 terminow) - reakcje/obserwacje Dirka na temat kazdego z 8 pozostalych podejrzanych + na siebie samego. Dirk SUS SYMMETRY (ds58/61) - Dirk widzial 'dwie' Symmetry naraz w jej pokoju, co pasuje do znanej z wczesniejszych partii Lalki Naturalnej Wielkosci uzywanej w jej starym pokazie 'Dama Zwierciadla'. Dirk SUS ZEPHYR wspomina 'upiorna maske' w kolekcji Zephyra, ktora Zephyr nazwal 'bezcenna' - to prawdopodobnie odniesienie do Jezyka Syreny/Kotla.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 100/100 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Dirk: kontynuacja luznego, wspolczesnego slangu (batch_16-20, batch_50)."
+  },
+  "categories": {
+    "Dirk SUS DIRK": {
+      "Conversation/Dirk SUS DIRK/Section ds0": {
+        "en": "Dirk Dansom, six foot two, blonde, athletic - passionate, adaptable, amenable-",
+        "pl": "Dirk Dansom, metr osiemdziesiąt osiem, blondyn, wysportowany - namiętny, elastyczny, zgodny-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds6": {
+        "en": "[h]Okay, okay[/h] - you're hired. Please stop.",
+        "pl": "[h]Okej, okej[/h] - jesteś zatrudniony. Przestań, proszę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds7": {
+        "en": "-and how long have you been an actor?",
+        "pl": "-i jak długo jesteś aktorem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds8": {
+        "en": "Oh man, I... I've been trying to break into it for like, [h]forever.[/h]",
+        "pl": "O rany, ja... próbuję się przebić w tym już jakby [h]od zawsze.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds9": {
+        "en": "But - I was getting nowhere until Mr Van De Peer said he wanted to hire a nobod- an [h]unknown[/h], for his new project.",
+        "pl": "Ale - donikąd to nie prowadziło, dopóki pan Van De Peer nie powiedział, że chce zatrudnić nikog- [h]nieznanego[/h] aktora do swojego nowego projektu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds10": {
+        "en": "So - you went from getting no work, to getting the lead in a big movie?",
+        "pl": "Więc - przeszedłeś od braku pracy do głównej roli w wielkim filmie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds11": {
+        "en": "Crazy, right?",
+        "pl": "Szaleństwo, co?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds12": {
+        "en": "So, you're... rich and famous now?",
+        "pl": "Więc jesteś... teraz bogaty i sławny?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds13": {
+        "en": "Ah well - I mean, yeah - [i]right?[/i]\nI mean - [h]hello?[/h]",
+        "pl": "No cóż - to znaczy, tak - [i]no nie?[/i]\nTo znaczy - [h]halo?[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds14": {
+        "en": "Hello.",
+        "pl": "Halo.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds15": {
+        "en": "Hey.\nWhat's up?",
+        "pl": "Hej.\nCo słychać?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds18": {
+        "en": "[i]Hex of the Helmsman.[/i] It's kind of a fantasy horror adventure?",
+        "pl": "[i]Klątwa Sternika.[/i] To taka fantasy-horror-przygoda?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds19": {
+        "en": "I play mysterious anti-hero [i]Markus Mordoom.[/i]",
+        "pl": "Gram tajemniczego antybohatera [i]Markusa Mordooma.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS DIRK/Section ds21": {
+        "en": "He's pretty much the main guy.",
+        "pl": "To w zasadzie główna postać.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk SUS GRIPP": {
+      "Conversation/Dirk SUS GRIPP/Section ds27": {
+        "en": "From what I gather, it was making him money, but it wasn't making him happy.",
+        "pl": "Z tego, co rozumiem, zarabiał na tym pieniądze, ale to nie czyniło go szczęśliwym.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds36": {
+        "en": "Dirk, did he ever mention [i]why[/i] he closed it down?",
+        "pl": "Dirk, wspominał kiedyś, [i]czemu[/i] to zamknął?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds38": {
+        "en": "He wanted to put all those navigation skills to use and actually head out on an adventure.",
+        "pl": "Chciał wykorzystać te wszystkie umiejętności nawigacyjne i naprawdę wyruszyć na przygodę.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds45": {
+        "en": "You say that, but I heard he ran a pretty successful business back in the town.",
+        "pl": "Mówisz tak, ale słyszałem, że prowadził całkiem udany biznes w miasteczku.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds47": {
+        "en": "Yeah, we saw it on our way here. It's boarded up now, like everything else.",
+        "pl": "Tak, widzieliśmy go po drodze tutaj. Jest teraz zabity deskami, jak wszystko inne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds48": {
+        "en": "I dunno, he's just doing what he's good at.",
+        "pl": "Nie wiem, po prostu robi to, w czym jest dobry.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds51": {
+        "en": "It's kind of a niche skillset...",
+        "pl": "To dość niszowy zestaw umiejętności...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds52": {
+        "en": "Which is what?",
+        "pl": "Czyli jaki?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds53": {
+        "en": "You know, fixing compasses and stuff. ",
+        "pl": "No wiesz, naprawianie kompasów i takie tam. ",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS GRIPP/Section ds56": {
+        "en": "Do... [h]you[/h] know why Gripp's running a shop down in the engine room?",
+        "pl": "Czy... [h]ty[/h] wiesz, czemu Gripp prowadzi sklep w maszynowni?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk SUS MOON": {
+      "Conversation/Dirk SUS MOON/Section ds0": {
+        "en": "Mariana? Ha - man, she's [i]really[/i] living out the escapist fantasy. I gotta say I'm impressed.",
+        "pl": "Mariana? Ha - stary, ona [i]naprawdę[/i] żyje tą ucieczkową fantazją. Muszę przyznać, że jestem pod wrażeniem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MOON/Section ds12": {
+        "en": "That's if you [i]believe[/i] what she says. I think she might be making some of it up.",
+        "pl": "To jeśli [i]wierzysz[/i] w to, co mówi. Myślę, że może trochę tego zmyślać.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS MOON/Section ds13": {
+        "en": "Hey, you know it's funny you say that - I did notice something the other day.",
+        "pl": "Hej, no wiesz, śmieszne, że to mówisz - zauważyłem coś parę dni temu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MOON/Section ds14": {
+        "en": "Oh?",
+        "pl": "Och?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS MOON/Section ds15": {
+        "en": "Well, she's supposed to be all like old-timey and stuff, right? But she was [h]really[/h] curious about my cell phone.",
+        "pl": "No, niby ma być taka staroświecka i w ogóle, tak? Ale była [h]naprawdę[/h] ciekawa mojego telefonu komórkowego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MOON/Section ds17": {
+        "en": "She was asking what [i]make[/i] it was, what [i]model number[/i] - you know, really specific stuff.",
+        "pl": "Pytała, jakiej [i]marki[/i] jest, jaki [i]numer modelu[/i] - no wiesz, naprawdę konkretne rzeczy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MOON/Section ds18": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS MOON/Section ds20": {
+        "en": "Curious how?",
+        "pl": "Ciekawa jak?",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk SUS MORTUGA": {
+      "Conversation/Dirk SUS MORTUGA/Section ds0": {
+        "en": "Listen - I heard the dude died cos of a [h]curse??[/h] Is that true??",
+        "pl": "Słuchajcie - słyszałem, że koleś zginął przez [h]klątwę??[/h] Czy to prawda??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds9": {
+        "en": "Uh, no, there's no evidence of a curse.",
+        "pl": "Yy, nie, nie ma dowodów na klątwę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds10": {
+        "en": "Oh. [h]Still.[/h]",
+        "pl": "Och. [h]I tak.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds11": {
+        "en": "Did you get to [i]know[/i] Mortuga before he died?",
+        "pl": "Zdążyłeś [i]poznać[/i] Mortugę, zanim zginął?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds12": {
+        "en": "Man, I [h]tried[/h]. Dude was [h]not[/h] much for conversation.",
+        "pl": "Stary, [h]próbowałem.[/h] Koleś [h]nie[/h] przepadał za rozmowami.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds38": {
+        "en": "Actually, I tell a lie - there was [h]one[/h] thing Mortuga wanted to talk to me about.",
+        "pl": "Właściwie, kłamię - było [h]jedno[/h] zagadnienie, o którym Mortuga chciał ze mną porozmawiać.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds39": {
+        "en": "Oh yeah?",
+        "pl": "O tak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds40": {
+        "en": "He was super curious about [i]contracts.[/i]",
+        "pl": "Był super ciekaw [i]kontraktów.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds41": {
+        "en": "Like - the legal documents?",
+        "pl": "No wiesz - dokumentów prawnych?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds42": {
+        "en": "Yeah, he wanted to know how they work - like, how they can be used to make people [i]do[/i] stuff - or [i]not[/i] do stuff.",
+        "pl": "Tak, chciał wiedzieć, jak działają - no wiesz, jak można ich użyć, żeby zmusić ludzi, żeby coś [i]zrobili[/i] - albo czegoś [i]nie[/i] robili.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds43": {
+        "en": "Weird...",
+        "pl": "Dziwne...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds44": {
+        "en": "I tried explaining how, you know, how I'm an actor playing a character that's kinda similar to him? Figured he'd be stoked.",
+        "pl": "Próbowałem wytłumaczyć, no wiesz, że jestem aktorem grającym postać trochę do niego podobną? Myślałem, że się ucieszy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS MORTUGA/Section ds45": {
+        "en": "Let me guess.\nHe was, not, in fact, stoked?",
+        "pl": "Zgadnę.\nNie ucieszył się, w rzeczywistości?",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk SUS SINTHIA": {
+      "Conversation/Dirk SUS SINTHIA/Section ds0": {
+        "en": "I heard [i]Sinthia's[/i] captain now just because of some [i]contract[/i] she signed?",
+        "pl": "Słyszałem, że [i]Sinthia[/i] jest teraz kapitanem tylko przez jakiś [i]kontrakt,[/i] który podpisała?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds6": {
+        "en": "What's the problem?",
+        "pl": "Na czym polega problem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds7": {
+        "en": "Hmph. You can't always [i]trust[/i] a contract - and I [h]doubt[/h] she had it reviewed by an independant third party.",
+        "pl": "Hmph. Nie zawsze można [i]ufać[/i] kontraktowi - a [h]wątpię,[/h] żeby dała go sprawdzić niezależnej trzeciej stronie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds8": {
+        "en": "I mean - she seems to [h]want[/h] to be captain. I don't think she's being forced into it?",
+        "pl": "To znaczy - wygląda na to, że [h]chce[/h] być kapitanem. Nie sądzę, żeby ją do tego zmuszano?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds9": {
+        "en": "Nah - it's not always as simple as all that.",
+        "pl": "Nie - to nie zawsze jest takie proste.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds10": {
+        "en": "Sinthia's still so [i]young[/i] - who's looking out for her best interests?",
+        "pl": "Sinthia jest jeszcze taka [i]młoda[/i] - kto dba o jej dobro?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds12": {
+        "en": "-she's an adult, isn't she?",
+        "pl": "-jest dorosła, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds16": {
+        "en": "What an [i]idyllic little picture[/i] you've painted for us there, Dirk.",
+        "pl": "Ale [i]sielankowy mały obrazek[/i] nam tu namalowałeś, Dirk.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds17": {
+        "en": "She's only eighteen - she should be, I dunno, outside in the sun, picking berries, having picnics - that kinda stuff.",
+        "pl": "Ma dopiero osiemnaście lat - powinna być, no nie wiem, na zewnątrz w słońcu, zbierać jagody, urządzać pikniki - takie tam.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SINTHIA/Section ds18": {
+        "en": "I'm serious!",
+        "pl": "Mówię poważnie!",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk SUS SYMMETRY": {
+      "Conversation/Dirk SUS SYMMETRY/Section ds52": {
+        "en": "What d'you know about [i]Sym?[/i]",
+        "pl": "Co wiesz o [i]Sym?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds53": {
+        "en": "Well... she left the theatre she used to work at - to come onto the submarine, you know, then-",
+        "pl": "Cóż... opuściła teatr, w którym kiedyś pracowała - żeby przybyć na łódź podwodną, no wiesz, wtedy-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds54": {
+        "en": "But not anymore?",
+        "pl": "Ale już nie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds55": {
+        "en": "Nope, she's working on something by herself now - in that room that looks like an old-timey kid's bedroom.",
+        "pl": "Nie, teraz pracuje nad czymś sama - w tym pokoju, który wygląda jak staroświecka dziecięca sypialnia.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds56": {
+        "en": "-then, for a while, she worked with Dr Zephyr in his lab.",
+        "pl": "-a wcześniej, przez jakiś czas, pracowała z doktorem Zephyrem w jego laboratorium.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds57": {
+        "en": "D'you know what it is she's working on?",
+        "pl": "Wiesz, nad czym pracuje?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds58": {
+        "en": "Uh, not exactly, but get this - one time I looked into that room... and there were [h]two of 'em.[/h]",
+        "pl": "Yy, nie do końca, ale posłuchaj tego - raz zajrzałem do tego pokoju... i było ich [h]dwie.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds59": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds60": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS SYMMETRY/Section ds61": {
+        "en": "Two Symmetry Silkmoths.",
+        "pl": "Dwie Symmetry Silkmoth.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk SUS TADPOLE": {
+      "Conversation/Dirk SUS TADPOLE/Section ds7": {
+        "en": "Like, get this - I found out she used to be a rescue diver - but they banned her for being [h]too good.[/h]",
+        "pl": "No wiesz, posłuchajcie tego - dowiedziałem się, że kiedyś była nurkiem ratowniczym - ale zakazali jej pracy, bo była [h]zbyt dobra.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds8": {
+        "en": "How can you be [i]too good[/i] at that?",
+        "pl": "Jak można być w czymś [i]zbyt dobrym?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds9": {
+        "en": "I dunno, she'd go too [i]deep[/i], stay under too [i]long[/i], break all the guidelines, you know.",
+        "pl": "Nie wiem, schodziła za [i]głęboko,[/i] zostawała pod wodą za [i]długo,[/i] łamała wszystkie zasady, no wiesz.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds12": {
+        "en": "I gotta say, no disrespect to Sinthia - but - I'm disappointed Tadpole didn't become the new captain.",
+        "pl": "Muszę powiedzieć, bez obrazy dla Sinthii - ale - jestem rozczarowany, że Tadpole nie została nowym kapitanem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds14": {
+        "en": "-did Tadpole [h]say[/h] she wanted to be captain?",
+        "pl": "-czy Tadpole [h]powiedziała,[/h] że chce być kapitanem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds15": {
+        "en": "No, I just think she'd be really good at it.",
+        "pl": "Nie, po prostu myślę, że byłaby w tym naprawdę dobra.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds22": {
+        "en": "Tadpole? She's awesome - got all [h]kinds[/h] of stories. ",
+        "pl": "Tadpole? Jest niesamowita - ma wszelkiego [h]rodzaju[/h] historie. ",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds24": {
+        "en": "Takes some work to get them out of her, but it's totally worth it.",
+        "pl": "Trzeba się trochę napracować, żeby je z niej wyciągnąć, ale zdecydowanie warto.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds25": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS TADPOLE/Section ds27": {
+        "en": "She's smart, brave... plus she knows all about the ocean?? I mean, come on!",
+        "pl": "Jest mądra, odważna... a do tego zna się na oceanie?? No weź, no bez jaj!",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk SUS WIRMAN": {
+      "Conversation/Dirk SUS WIRMAN/Section ds0": {
+        "en": "Wirman's my good buddy. He's like the cranky older brother I never had.",
+        "pl": "Wirman to mój dobry kumpel. Jest jak zrzędliwy starszy brat, którego nigdy nie miałem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds6": {
+        "en": "Well, I played the lead in the movie version of Wirman's book, so the studio figured we needed to be friends.",
+        "pl": "No, zagrałem główną rolę w filmowej wersji książki Wirmana, więc wytwórnia uznała, że musimy być przyjaciółmi.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds7": {
+        "en": "How did you become friends?",
+        "pl": "Jak zostaliście przyjaciółmi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds8": {
+        "en": "Oh, it was mandated by the film studio.",
+        "pl": "Och, to było narzucone przez wytwórnię filmową.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds9": {
+        "en": "[i]What??[/i]",
+        "pl": "[i]Co??[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds14": {
+        "en": "Dirk - your work and Wirman's work - they're kinda intertwined, aren't they?",
+        "pl": "Dirk - twoja praca i praca Wirmana - są w pewnym sensie splecione, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds15": {
+        "en": "Uh, how d'you mean?",
+        "pl": "Yy, jak to?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds16": {
+        "en": "You can't make your next movie until Wirman's written his next book.",
+        "pl": "Nie możesz nakręcić swojego kolejnego filmu, dopóki Wirman nie napisze swojej kolejnej książki.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds17": {
+        "en": "Oh. Sure... I mean that's true - I guess.",
+        "pl": "Och. Jasne... to znaczy to prawda - chyba.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds18": {
+        "en": "Interesting.",
+        "pl": "Interesujące.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds21": {
+        "en": "-and now he's writing his [i]next[/i] book? -a [i]sequel?[/i]",
+        "pl": "-a teraz pisze swoją [i]kolejną[/i] książkę? -[i]kontynuację?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds22": {
+        "en": "Yeah dude, [i]'Hex of the Helmsman 2 - The Revenge: Unleashed.'[/i]",
+        "pl": "Tak, stary, [i]'Klątwa Sternika 2 - Zemsta: Rozpętana'.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds23": {
+        "en": "Or - whatever, I don't think he actually has a title for it yet, or a story outline, or actually anything.",
+        "pl": "Albo - cokolwiek, nie sądzę, żeby miał już właściwie tytuł, czy zarys fabuły, czy w ogóle cokolwiek.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS WIRMAN/Section ds27": {
+        "en": "I kinda feel [i]bad[/i] for him, honestly. It's a lot of pressure, you know?",
+        "pl": "Szczerze, trochę mi go [i]żal.[/i] To dużo presji, no wiesz?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk SUS ZEPHYR": {
+      "Conversation/Dirk SUS ZEPHYR/Section ds0": {
+        "en": "Dr Z? Aw man, [i]love[/i] this guy.",
+        "pl": "Doktor Z? O stary, [i]uwielbiam[/i] tego gościa.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds16": {
+        "en": "Dude has some seriously rad stuff in there - plus, like - it's all [h]real[/h], you know?",
+        "pl": "Koleś ma tam naprawdę odjazdowe rzeczy - a poza tym, no wiesz - to wszystko jest [h]prawdziwe,[/h] rozumiecie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds19": {
+        "en": "Worth a lot of money, you think?",
+        "pl": "Warte dużo pieniędzy, myślisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds20": {
+        "en": "Oh, totally - the guy's sitting on a gold mine.",
+        "pl": "O, zdecydowanie - koleś siedzi na kopalni złota.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds21": {
+        "en": "There was this one thing - it was behind glass - like this [i]spooky mask[/i] kinda thing?",
+        "pl": "Była tam jedna rzecz - za szkłem - taka jakby [i]upiorna maska?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds22": {
+        "en": "I wish I could remember what it was called... anyway, Dr Z said it was [i]'priceless'.[/i]",
+        "pl": "Szkoda, że nie pamiętam, jak się nazywała... w każdym razie, doktor Z powiedział, że jest [i]'bezcenna'.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds28": {
+        "en": "So - obviously I asked what that meant and - get this - it means it's worth a lot of money!",
+        "pl": "Więc - jasne, że zapytałem, co to znaczy i - posłuchajcie tego - to znaczy, że jest warta dużo pieniędzy!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds29": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds36": {
+        "en": "Hey, did he show you his 'curiosity collection'?",
+        "pl": "Hej, pokazał wam swoją 'kolekcję osobliwości'?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk SUS ZEPHYR/Section ds37": {
+        "en": "I don't think so...",
+        "pl": "Nie sądzę...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

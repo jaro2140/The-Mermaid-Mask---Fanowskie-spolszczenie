@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "batch": "Sinthia 06 REPORT (16 terminow) - epilog luku Sinthii po batch_14 (SUSPICION). Sinthia probuje przerwac sledztwo i wyprosic Grimoire'a/Sally z lodzi. KONCZY caly luk postaci Sinthia Seafoam (282/282 - wszystkie 6 scen numerowanych).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 16/16 pokryte: Sinthia 9, Grimoire 3, Sally 4",
+    "continuity_note": "ds62 Grimoire cytuje/przedrzeźnia fraze Sinthii z batch_14 ds7 ('it's just the way it's meant to be') - przetlumaczone identycznie jak tam ('to po prostu jest tak, jak ma byc') dla zachowania efektu echa/przytyku."
+  },
+  "categories": {
+    "Sinthia 06 REPORT": {
+      "Conversation/Sinthia 06 REPORT/Section ds31": {
+        "en": "Hey, do you have a minute? We're, uh - ready to make our report.",
+        "pl": "Hej, masz chwilę? Jesteśmy, yy - gotowi złożyć nasz raport.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds40": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds46": {
+        "en": "What's wrong?",
+        "pl": "Co się stało?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds47": {
+        "en": "I appreciate your hard work. Truly.",
+        "pl": "Doceniam waszą ciężką pracę. Naprawdę.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds48": {
+        "en": "However, I, uh - I think it's time you left.",
+        "pl": "Jednak, ja, yy - myślę, że czas, żebyście już poszli.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds49": {
+        "en": "We didn't even tell you what we found!",
+        "pl": "Nawet nie powiedzieliśmy ci, co znaleźliśmy!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds50": {
+        "en": "I need to go. Everyone's gathering in the mess hall.",
+        "pl": "Muszę iść. Wszyscy zbierają się w Mesie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds51": {
+        "en": "I'll resurface the submarine, and you can leave via the fore deck.",
+        "pl": "Wynurzę łódź, a wy będziecie mogli wyjść przez pokład dziobowy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds54": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds57": {
+        "en": "So, you're giving [i]up?[/i] You're not gonna - see this [i]through?[/i]",
+        "pl": "Więc [i]poddajesz[/i] się? Nie zamierzasz - doprowadzić tego do [i]końca?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds58": {
+        "en": "Sorry, but, I just think... maybe-",
+        "pl": "Przepraszam, ale, ja po prostu myślę... może-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds59": {
+        "en": "What??",
+        "pl": "Co??",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds62": {
+        "en": "What - [i]that's just the way it's meant to be?[/i]",
+        "pl": "Co - [i]to po prostu jest tak, jak ma być?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds63": {
+        "en": "People are starting to accuse each other. I don't like it.",
+        "pl": "Ludzie zaczynają się nawzajem oskarżać. Nie podoba mi się to.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds65": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 06 REPORT/Section ds66": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

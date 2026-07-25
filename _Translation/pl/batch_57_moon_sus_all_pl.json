@@ -1,0 +1,475 @@
+{
+  "_meta": {
+    "batch": "Moon SUS X (9 scen, 88 terminow) - reakcje/obserwacje Moon na temat kazdego z 8 pozostalych podejrzanych + na siebie samą. Moon SUS Sinthia ujawnia pelne pochodzenie Sinthii: corka kapitanat portu Sylvii Seafoam, pasierbica Donovana Drummonda (wlasciciela stoczni, jej ojczyma z batch_45). Moon SUS Wirman potwierdza ze 'Klatwa Sternika' to luzna reinterpretacja prawdziwej historii Mortugi oraz wspomina ze Wirman 'zmienil imie' (nowy, niewyjasniony watek).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 88/88 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Moon: kontynuacja poetyckiego/mistycznego rejestru gawedziarki (batch_21-26, batch_50) - tu bardziej stonowany, bo to rozmowy 'z zycia' a nie opowiesci."
+  },
+  "categories": {
+    "Moon SUS Dirk": {
+      "Conversation/Moon SUS Dirk/Section ds0": {
+        "en": "I can't imagine what he was talking about.",
+        "pl": "Nie wyobrażam sobie, o czym on mówił.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Dirk/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Dirk/Section ds21": {
+        "en": "I saw Dirk wondering the halls this morning - like he was looking for something.",
+        "pl": "Widziałam, jak Dirk błądził po korytarzach dziś rano - jakby czegoś szukał.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Dirk/Section ds22": {
+        "en": "I asked him what it was he'd lost...",
+        "pl": "Zapytałam go, co takiego zgubił...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Dirk/Section ds24": {
+        "en": "...and he said he couldn't really describe it - but it '[i]looked a bit like a gun.'[/i]",
+        "pl": "...i powiedział, że tak naprawdę nie potrafi tego opisać - ale to '[i]wyglądało trochę jak pistolet.'[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Dirk/Section ds25": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Dirk/Section ds26": {
+        "en": "So - something that looks like a gun... but isn't actually a gun?",
+        "pl": "Więc - coś, co wygląda jak pistolet... ale tak naprawdę nie jest pistoletem?",
+        "speaker": "Sally"
+      }
+    },
+    "Moon SUS Gripp": {
+      "Conversation/Moon SUS Gripp/Section ds0": {
+        "en": "I will say, for someone with such a novel outfit, he's ever so quiet.",
+        "pl": "Powiem tak, jak na kogoś w tak niecodziennym stroju, jest wyjątkowo cichy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Gripp/Section ds6": {
+        "en": "Quiet?",
+        "pl": "Cichy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Gripp/Section ds7": {
+        "en": "I thought his whole thing was to be deliberately obnoxious!",
+        "pl": "Myślałam, że cały jego numer to celowa irytacja!",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Gripp/Section ds8": {
+        "en": "You disagree?",
+        "pl": "Nie zgadzasz się?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Gripp/Section ds10": {
+        "en": "He wasn't like that with you?",
+        "pl": "Nie był z tobą taki?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Gripp/Section ds11": {
+        "en": "Not at all.",
+        "pl": "Wcale nie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Gripp/Section ds12": {
+        "en": "Whilst showing me around the submarine, he was mostly subdued - didn't say an awful lot.",
+        "pl": "Podczas oprowadzania mnie po łodzi podwodnej był raczej powściągliwy - niewiele mówił.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Gripp/Section ds13": {
+        "en": "Maybe you make him nervous.",
+        "pl": "Może cię się denerwuje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Gripp/Section ds14": {
+        "en": "Maybe [h]you[/h] make him nervous.",
+        "pl": "Może [h]ty[/h] go denerwujesz.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Gripp/Section ds19": {
+        "en": "So - Mariana. What d'you make of him? Godrik, I mean?",
+        "pl": "Więc - Mariano. Co o nim sądzisz? Godriku, mam na myśli?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon SUS Moon": {
+      "Conversation/Moon SUS Moon/Section ds0": {
+        "en": "So, Mariana... uh - where are you from?",
+        "pl": "Więc, Mariano... yy - skąd jesteś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Moon/Section ds6": {
+        "en": "No fixed address. That's the way it's been for some time.",
+        "pl": "Bez stałego adresu. Tak jest już od jakiegoś czasu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Moon/Section ds7": {
+        "en": "Oh. I see.",
+        "pl": "Och. Rozumiem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Moon/Section ds8": {
+        "en": "But you came to Silkwirm looking for the Mortuga submarine? How come?",
+        "pl": "Ale przybyłaś do Silkwirm, szukając łodzi podwodnej Mortuga? Jak to?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Moon/Section ds9": {
+        "en": "I go wherever I please... which [h]usually[/h] amounts to wherever has the most interesting rumors.",
+        "pl": "Idę tam, gdzie mi się podoba... co [h]zazwyczaj[/h] sprowadza się do miejsca z najciekawszymi plotkami.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Moon/Section ds10": {
+        "en": "I don't wanna be rude, but do you... uh, ever have to do work? To, uh - get money?",
+        "pl": "Nie chcę być niegrzeczna, ale czy ty... yy, kiedykolwiek musisz pracować? Żeby, yy - zarobić pieniądze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Moon/Section ds11": {
+        "en": "...from time to time.",
+        "pl": "...od czasu do czasu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Moon/Section ds12": {
+        "en": "I've taken up work as a tour guide, a historian, a performing storyteller-",
+        "pl": "Podejmowałam się pracy jako przewodniczka, historyczka, występująca gawędziarka-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Moon/Section ds15": {
+        "en": "But how did you wind up getting onto the submarine? Isn't it a secret?",
+        "pl": "Ale jak udało ci się dostać na łódź podwodną? Czyż to nie tajemnica?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Moon/Section ds16": {
+        "en": "Well, if it's such a secret, how did [h]you[/h] do it?",
+        "pl": "Cóż, jeśli to taka tajemnica, jak [h]wam[/h] się to udało?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Moon/Section ds17": {
+        "en": "Uh... well, I got a phonecall from Sinthia Seafoam, and she told us to come to Silkwirm.",
+        "pl": "Yy... cóż, dostałem telefon od Sinthii Seafoam, i powiedziała nam, żebyśmy przyjechali do Silkwirm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Moon/Section ds18": {
+        "en": "-and then the submarine came up to the harbor so we could get on.",
+        "pl": "-a potem łódź podwodna podpłynęła do portu, żebyśmy mogli wejść na pokład.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Moon/Section ds19": {
+        "en": "Well, there we are - perhaps that's how I did it, too.",
+        "pl": "No proszę - może właśnie tak ja też to zrobiłam.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon SUS Mortuga": {
+      "Conversation/Moon SUS Mortuga/Section ds6": {
+        "en": "Broad shoulders, long arms... good for reaching across a wheel.",
+        "pl": "Szerokie ramiona, długie ręce... dobre do sięgania po kole sterowym.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds10": {
+        "en": "He had a hard face, but soft eyes. I'd wager he was once a very handsome man.",
+        "pl": "Miał surową twarz, ale łagodne oczy. Obstawiałabym, że kiedyś był bardzo przystojnym mężczyzną.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds11": {
+        "en": "Do you know anything about his life before the submarine? Like if he had a family?",
+        "pl": "Wiesz coś o jego życiu przed łodzią podwodną? Na przykład czy miał rodzinę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds12": {
+        "en": "I've never heard mention of his parentage, no.",
+        "pl": "Nigdy nie słyszałam wzmianki o jego pochodzeniu, nie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds14": {
+        "en": "But he lived in Silkwirm?\nDo you know where exactly?",
+        "pl": "Ale mieszkał w Silkwirm?\nWiesz dokładnie gdzie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds15": {
+        "en": "Mmm, the only record I found lists him as living at the [i]Stonetop Inn.[/i]",
+        "pl": "Mmm, jedyny zapis, jaki znalazłam, wymienia go jako mieszkańca [i]Gospody Stonetop.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds17": {
+        "en": "-and working on board the Stonetop family sailing ship.",
+        "pl": "-i pracującego na pokładzie żaglowca rodziny Stonetop.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds18": {
+        "en": "As the captain?",
+        "pl": "Jako kapitan?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds19": {
+        "en": "As a deckhand - and eventually, as the helmsman.",
+        "pl": "Jako marynarz pokładowy - a ostatecznie, jako sternik.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds22": {
+        "en": "So how'd he end up as the captain of a submarine?",
+        "pl": "Więc jak skończył jako kapitan łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds24": {
+        "en": "All I could dig up was a rumor that he bought the submarine from the Shipyard...",
+        "pl": "Jedyne, co udało mi się wygrzebać, to plotka, że kupił łódź podwodną ze stoczni...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds25": {
+        "en": "He [h]bought[/h] it?",
+        "pl": "[h]Kupił[/h] ją?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds26": {
+        "en": "Or - maybe he commissioned to have it built - accounts vary on that.",
+        "pl": "Albo - może zlecił jej budowę - relacje się w tej kwestii różnią.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds27": {
+        "en": "Either way - how could Mortuga afford to buy a submarine?",
+        "pl": "Tak czy inaczej - jak Mortugę było stać na kupno łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Mortuga/Section ds28": {
+        "en": "My guess is that he didn't pay with [i]money[/i], but made some other kind of trade.",
+        "pl": "Zgaduję, że nie zapłacił [i]pieniędzmi,[/i] tylko dokonał jakiejś innej wymiany.",
+        "speaker": "Moon"
+      }
+    },
+    "Moon SUS Sinthia": {
+      "Conversation/Moon SUS Sinthia/Section ds10": {
+        "en": "Still. Sounds like Sinthia actually [h]does[/h] have the expertise to be captain.",
+        "pl": "Mimo to. Brzmi, jakby Sinthia rzeczywiście [h]miała[/h] wiedzę potrzebną, żeby być kapitanem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds11": {
+        "en": "Hm! Who said she [i]doesn't?[/i]",
+        "pl": "Hm! Kto powiedział, że [i]nie ma?[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds21": {
+        "en": "-but I [i]believe[/i] they raised Sinthia to be a [i]mechanic.[/i]",
+        "pl": "-ale [i]wierzę,[/i] że wychowali Sinthię na [i]mechaniczkę.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds22": {
+        "en": "Sinthia Seafoam...",
+        "pl": "Sinthia Seafoam...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds23": {
+        "en": "The daughter of Harbormaster [i]Sylvia[/i] Seafoam...",
+        "pl": "Córka kapitanat portu [i]Sylvii[/i] Seafoam...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds24": {
+        "en": "...and the [i]step-daughter[/i] of Donovan Drummond, the shipyard owner.",
+        "pl": "...i [i]pasierbica[/i] Donovana Drummonda, właściciela stoczni.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds29": {
+        "en": "By all accounts, Sylvia Seafoam was an ambitious and outgoing sailor...",
+        "pl": "Z tego, co wiadomo, Sylvia Seafoam była ambitną i towarzyską żeglarką...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Sinthia/Section ds30": {
+        "en": "That's a pretty solid nautical heritage.",
+        "pl": "To całkiem solidne morskie dziedzictwo.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Moon SUS Symmetry": {
+      "Conversation/Moon SUS Symmetry/Section ds6": {
+        "en": "That's not her real name?",
+        "pl": "To nie jest jej prawdziwe imię?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds13": {
+        "en": "It's not her [i]birth[/i] name, no.",
+        "pl": "To nie jest jej imię [i]urodzenia,[/i] nie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds21": {
+        "en": "I'm led to believe [i]'Illusion Theatre'[/i] is a name Miss Silkmoth came up with herself.",
+        "pl": "Skłaniam się ku temu, że [i]'Teatr Iluzji'[/i] to nazwa, którą panna Silkmoth sama wymyśliła.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds22": {
+        "en": "I realised later that she'd been with Mortuga at the time.",
+        "pl": "Później zorientowałam się, że w tym czasie była z Mortugą.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds23": {
+        "en": "...in the Illusion Theatre?",
+        "pl": "...w Teatrze Iluzji?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds24": {
+        "en": "You know what's funny? Nobody else calls it that. They all just call it the store room.",
+        "pl": "Wiecie, co jest zabawne? Nikt inny tak tego nie nazywa. Wszyscy po prostu mówią na to magazyn.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds25": {
+        "en": "Symmetry was the only person I [i]didn't[/i] see on my tour of the submarine...",
+        "pl": "Symmetry była jedyną osobą, której [i]nie[/i] widziałam podczas mojego zwiedzania łodzi podwodnej...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Symmetry/Section ds26": {
+        "en": "-rather like how she came up with the name [i]'Symmetry Silkmoth'.[/i]",
+        "pl": "-podobnie jak to, jak wymyśliła imię [i]'Symmetry Silkmoth'.[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Moon SUS Tadpole": {
+      "Conversation/Moon SUS Tadpole/Section ds0": {
+        "en": "I first met Tadpole when she was on the road, travelling with a group of performers.",
+        "pl": "Po raz pierwszy poznałam Tadpole, kiedy była w trasie, podróżując z grupą artystów.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds6": {
+        "en": "After that, I joined their camp for the night - Tadpole and I shared some stories, you know...",
+        "pl": "Potem dołączyłam do ich obozowiska na noc - Tadpole i ja wymieniłyśmy się kilkoma historiami, wiecie...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds15": {
+        "en": "How come you didn't stay with them longer?",
+        "pl": "Czemu nie zostałaś z nimi dłużej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds16": {
+        "en": "Did you see her perform?",
+        "pl": "Widziałaś jej występ?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds17": {
+        "en": "I got to see a rehearsal, but that was it.",
+        "pl": "Zdążyłam zobaczyć próbę, ale to wszystko.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds18": {
+        "en": "Hm. Their leader was a real bad apple.",
+        "pl": "Hm. Ich przywódca był naprawdę parszywą owcą.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds21": {
+        "en": "I told her how I'd just been on a research trip to a town on the coast called Silkwirm-on-sea.",
+        "pl": "Powiedziałam jej, że właśnie byłam na wyprawie badawczej do miasteczka na wybrzeżu zwanego Silkwirm nad Morzem.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds22": {
+        "en": "I mentioned that Silkwirm actually had a little theatre that might be a good fit.",
+        "pl": "Wspomniałam, że w Silkwirm jest właściwie mały teatr, który mógłby dobrze pasować.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds23": {
+        "en": "She told me how their group went around performing in local theatres and town halls and whatnot.",
+        "pl": "Powiedziała mi, jak ich grupa jeździła, występując w lokalnych teatrach i ratuszach i tym podobnych miejscach.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds25": {
+        "en": "I was rather keen to be [i]shot[/i] of him.",
+        "pl": "Bardzo zależało mi, żeby się go [i]pozbyć.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Tadpole/Section ds37": {
+        "en": "She had longer hair back then, of course...",
+        "pl": "Wtedy miała dłuższe włosy, oczywiście...",
+        "speaker": "Moon"
+      }
+    },
+    "Moon SUS Wirman": {
+      "Conversation/Moon SUS Wirman/Section ds0": {
+        "en": "Wirman? I know he once worked as a [i]newspaper[/i] journalist...",
+        "pl": "Wirman? Wiem, że kiedyś pracował jako dziennikarz [i]gazetowy...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Wirman/Section ds13": {
+        "en": "-that's before he changed his [i]name[/i], of course.",
+        "pl": "-to znaczy zanim zmienił [i]imię,[/i] oczywiście.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Wirman/Section ds15": {
+        "en": "Have you read his book? Hex of the Helmsman?",
+        "pl": "Czytałaś jego książkę? Klątwę Sternika?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Wirman/Section ds16": {
+        "en": "I, uh - [i]leafed through it.[/i]",
+        "pl": "Ja, yy - [i]przekartkowałam ją.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Wirman/Section ds18": {
+        "en": "I must say, he's got some good research skills - I'd love to know what his sources were.",
+        "pl": "Muszę przyznać, ma niezłe umiejętności badawcze - chciałabym wiedzieć, jakie miał źródła.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Wirman/Section ds19": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon SUS Wirman/Section ds20": {
+        "en": "The book is very clearly a loose re-telling of the real-life story of one [i]Magnus Mortuga.[/i]",
+        "pl": "Ta książka to bardzo wyraźnie luźna reinterpretacja prawdziwej historii pewnego [i]Magnusa Mortugi.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Wirman/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Moon SUS Zephyr": {
+      "Conversation/Moon SUS Zephyr/Section ds0": {
+        "en": "I didn't expect to find a fellow [i]herbologist[/i] on board - Dr Zephyr really knows his rosehip from his rosemary.",
+        "pl": "Nie spodziewałam się znaleźć na pokładzie towarzysza [i]zielarza[/i] - doktor Zephyr naprawdę zna się na różnicy między różą dziką a rozmarynem.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds12": {
+        "en": "I dunno, I get the sense his work is more [h]alchemy[/h] than chemistry...",
+        "pl": "Nie wiem, mam wrażenie, że jego praca to bardziej [h]alchemia[/h] niż chemia...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds14": {
+        "en": "He's a chemist too. Impressive, don't you think?",
+        "pl": "Jest też chemikiem. Imponujące, nie sądzisz?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds15": {
+        "en": "He does seem rather [i]secretive[/i] about it...",
+        "pl": "Wydaje się co do tego dość [i]skryty...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds16": {
+        "en": "I tried asking him about his experiments-",
+        "pl": "Próbowałam zapytać go o jego eksperymenty-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds17": {
+        "en": "But he seemed awfully reluctant to divulge any details.",
+        "pl": "Ale wydawał się okropnie niechętny, żeby zdradzić jakiekolwiek szczegóły.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon SUS Zephyr/Section ds18": {
+        "en": "Sounds familiar.",
+        "pl": "Brzmi znajomo.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Moon SUS Wirman/ds13 'before he changed his name'",
+      "problem": "Moon wspomina, ze Wirman 'zmienil imie' zanim zaczal pisac 'Klatwe Sternika' - nowy, niewyjasniony watek (mozliwe ze to zwykly pseudonim literacki, nie fabularna tajemnica) - do sledzenia czy zostanie rozwiniety w kolejnych partiach (np. sceny CLUE Wirmana)."
+    }
+  ]
+}

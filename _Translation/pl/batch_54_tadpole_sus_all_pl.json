@@ -1,0 +1,650 @@
+{
+  "_meta": {
+    "batch": "Tadpole SUS X (9 scen, 124 terminow) - reakcje/obserwacje Tadpole na temat kazdego z 8 pozostalych podejrzanych + na siebie samą. Tadpole SUS Zephyr (17) rozwiazuje watek pozostawiony otwarty w batch_52 (Zephyr SUS Symmetry) - to WLASNIE Tadpole zmusila Zephyra, zeby zakonczyl wspolprace z Symmetry w Komnacie Snow, z obawy ze zbyt mloda Symmetry da sie 'wprowadzic w blad' tematem komunikacji z duchami.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 123/124 pokryte. Nieprzypisany (1): Tadpole SUS Sinthia/ds22 (samo '...') - standardowe 'Grimoire (domniemany)'.",
+    "character_voice": "Tadpole: kontynuacja bezposredniego, potocznego rejestru (batch_32-35, batch_50)."
+  },
+  "categories": {
+    "Tadpole SUS Dirk": {
+      "Conversation/Tadpole SUS Dirk/Section ds7": {
+        "en": "Dirk's got a little crush on me, pretty sure.",
+        "pl": "Dirk się we mnie trochę podkochuje, jestem prawie pewna.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Dirk/Section ds8": {
+        "en": "Cute.",
+        "pl": "Słodkie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Dirk/Section ds9": {
+        "en": "He's a good egg, but he's not my type. I don't go in for the boy scout look.",
+        "pl": "Jest w porządku, ale to nie mój typ. Nie kręci mnie wygląd skauta.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Dirk/Section ds10": {
+        "en": "[i]Sorry[/i] - could we, maybe, talk about something more relevant?",
+        "pl": "[i]Przepraszam[/i] - czy moglibyśmy, może, porozmawiać o czymś bardziej istotnym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Dirk/Section ds14": {
+        "en": "Now if he grew a [h]beard...[/h] then I'd be open for negotiation.",
+        "pl": "A gdyby zapuścił [h]brodę...[/h] to byłabym otwarta na negocjacje.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Dirk/Section ds15": {
+        "en": "Sure. I could see that.",
+        "pl": "Jasne. Mogę to sobie wyobrazić.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole SUS Gripp": {
+      "Conversation/Tadpole SUS Gripp/Section ds6": {
+        "en": "I know he used to run a shop selling [i]compasses[/i] or whatever...",
+        "pl": "Wiem, że kiedyś prowadził sklep sprzedający [i]kompasy[/i] czy coś takiego...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds10": {
+        "en": "If Gripp didn't actually want to work in a shop, what [h]did[/h] he want to do?",
+        "pl": "Jeśli Gripp tak naprawdę nie chciał pracować w sklepie, to co [h]chciał[/h] robić?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds11": {
+        "en": "He wanted to be the [i]navigator.[/i] For the submarine.",
+        "pl": "Chciał być [i]nawigatorem.[/i] Na łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds12": {
+        "en": "He'd probably be pretty good at that.",
+        "pl": "Pewnie byłby w tym całkiem dobry.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds13": {
+        "en": "Problem was, Magnus didn't [h]need[/h] a navigator. Didn't want one.",
+        "pl": "Problem w tym, że Magnus nie [h]potrzebował[/h] nawigatora. Nie chciał żadnego.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds25": {
+        "en": "...hm.",
+        "pl": "...hm.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds26": {
+        "en": "It's just - now that Mortuga's dead, and - there's a new captain...",
+        "pl": "Po prostu - teraz, kiedy Mortuga nie żyje, i - jest nowy kapitan...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds27": {
+        "en": "You're thinking Gripp might finally get to be [i]navigator?[/i] Under Sinthia?",
+        "pl": "Myślisz, że Gripp mógłby wreszcie zostać [i]nawigatorem?[/i] Pod Sinthią?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds28": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds29": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds32": {
+        "en": "I dunno, I don't think Gripp [h]wants[/h] to be Sinthia's navigator. ",
+        "pl": "Nie wiem, nie sądzę, żeby Gripp [h]chciał[/h] być nawigatorem Sinthii. ",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds39": {
+        "en": "I think he wanted to be [h]Mortuga's[/h] navigator.",
+        "pl": "Myślę, że chciał być nawigatorem [h]Mortugi.[/h]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds43": {
+        "en": "Although, he seems to have fallen back [i]into[/i] it, so I don't know what's going on there. Creature of habit, I guess.",
+        "pl": "Chociaż wygląda na to, że wpadł z powrotem [i]w[/i] to, więc nie wiem, co tam się dzieje. Niewolnik nawyku, jak sądzę.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Gripp/Section ds45": {
+        "en": "...but from what I gather, he knew it wasn't really his life's calling.",
+        "pl": "...ale z tego, co rozumiem, wiedział, że to naprawdę nie było jego życiowe powołanie.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Moon": {
+      "Conversation/Tadpole SUS Moon/Section ds0": {
+        "en": "I couldn't [i]believe[/i] it when she showed up.",
+        "pl": "Nie mogłam [i]uwierzyć,[/i] kiedy się pojawiła.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds6": {
+        "en": "I swear, this submarine is like some kind of giant [i]sink strainer-[/i]",
+        "pl": "Przysięgam, ta łódź podwodna jest jak jakiś wielki [i]sitko do zlewu-[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds7": {
+        "en": "You know Mariana Moon from before?",
+        "pl": "Znałaś Marianę Moon wcześniej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds8": {
+        "en": "Yeah, we've crossed paths - we very briefly both worked for the same guy.",
+        "pl": "Tak, skrzyżowały się nasze ścieżki - przez krótką chwilę obie pracowałyśmy dla tego samego gościa.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds9": {
+        "en": "[i]What[/i] guy? Doing [i]what?[/i]",
+        "pl": "[i]Jakiego[/i] gościa? [i]Robiąc[/i] co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds14": {
+        "en": "This was before I'd even been there myself.",
+        "pl": "To było, zanim ja sama tam nawet byłam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds23": {
+        "en": "She even mentioned the rumor of the [i]Mortuga submarine[/i] - how she'd been in Silkwirm looking for it...",
+        "pl": "Nawet wspomniała o plotce o [i]łodzi podwodnej Mortuga[/i] - jak była w Silkwirm, szukając jej...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds24": {
+        "en": "What was the rumor?",
+        "pl": "Jaka to była plotka?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds25": {
+        "en": "Performance art. Mariana's act was storytelling.",
+        "pl": "Sztuka performatywna. Numerem Mariany było opowiadanie historii.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds26": {
+        "en": "What about?",
+        "pl": "O czym?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds27": {
+        "en": "The show [h]I[/h] saw was about the history of [i]Silkwirm-on-sea[/i], with a focus on all the rumors and urban myths.",
+        "pl": "Pokaz, który [h]ja[/h] widziałam, dotyczył historii [i]Silkwirm nad Morzem,[/i] skupiając się na wszystkich plotkach i miejskich legendach.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds28": {
+        "en": "Uh - just that there was supposed to be this haunted submarine with a captain who got cursed to live underwater forever.",
+        "pl": "Yy - po prostu, że miała istnieć jakaś nawiedzona łódź podwodna z kapitanem, który został przeklęty, żeby żyć pod wodą na zawsze.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds29": {
+        "en": "Sounds made up.",
+        "pl": "Brzmi jak zmyślone.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Moon/Section ds30": {
+        "en": "I know, right?",
+        "pl": "Wiem, prawda?",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Mortuga": {
+      "Conversation/Tadpole SUS Mortuga/Section ds0": {
+        "en": "I really liked him. He wasn't like [i]anyone[/i] else I've met.",
+        "pl": "Naprawdę go lubiłam. Nie był podobny do [i]nikogo[/i] innego, kogo poznałam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds7": {
+        "en": "What did you [i]like[/i] about him?",
+        "pl": "Co ci się w nim [i]podobało?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds8": {
+        "en": "He was this great combination of super introverted and super proactive.",
+        "pl": "Był świetnym połączeniem super introwertyczności i super proaktywności.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds9": {
+        "en": "Like you'd be complaining that you had a headache, or whatever - and he wouldn't say a word-",
+        "pl": "Na przykład narzekałabyś, że boli cię głowa, czy cokolwiek - a on nie powiedziałby ani słowa-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds10": {
+        "en": "-but then the next morning you'd wake up and find painkillers beside your bed.",
+        "pl": "-ale potem następnego ranka budziłabyś się i znajdowała środki przeciwbólowe obok łóżka.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds11": {
+        "en": "[i]And where would he get painkillers on a submarine-[/i]",
+        "pl": "[i]A skąd wziąłby środki przeciwbólowe na łodzi podwodnej-[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds12": {
+        "en": "[i]Kinda [h]creepy[/h], sneaking into your room at night-[/i]",
+        "pl": "[i]Trochę [h]niepokojące,[/h] wkradanie się do twojego pokoju w nocy-[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds14": {
+        "en": "Wow.",
+        "pl": "Wow.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds16": {
+        "en": "The [h]point[/h] is, he actually [i]cared[/i] about other people.",
+        "pl": "[h]Chodzi[/h] o to, że naprawdę [i]zależało[/i] mu na innych ludziach.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds19": {
+        "en": "Really, the only person he was hard on was himself.",
+        "pl": "Tak naprawdę jedyną osobą, dla której był surowy, był on sam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds24": {
+        "en": "Go on.",
+        "pl": "Mów dalej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds25": {
+        "en": "Well, for one, he never let himself leave the submarine. Even if he wanted to.",
+        "pl": "Cóż, po pierwsze, nigdy nie pozwalał sobie opuścić łodzi podwodnej. Nawet gdyby chciał.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds26": {
+        "en": "[h]Did[/h] he want to?",
+        "pl": "Czy [h]chciał?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds27": {
+        "en": "[h]I[/h] think so.",
+        "pl": "[h]Ja[/h] tak myślę.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds28": {
+        "en": "Then what was [i]stopping[/i] him?",
+        "pl": "Więc co go [i]powstrzymywało?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Mortuga/Section ds29": {
+        "en": "I wish I could say.",
+        "pl": "Chciałabym umieć powiedzieć.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Sinthia": {
+      "Conversation/Tadpole SUS Sinthia/Section ds0": {
+        "en": "Lil' Sinthia... she's cute, huh?",
+        "pl": "Mała Sinthia... jest słodka, co?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds6": {
+        "en": "I don't know if that's an [i]appropriate[/i] way to talk about your captain.",
+        "pl": "Nie wiem, czy to [i]stosowny[/i] sposób mówienia o swojej kapitan.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds7": {
+        "en": "Hahaha!\nYou're so right.",
+        "pl": "Hahaha!\nMasz zupełną rację.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds9": {
+        "en": "Which is...?",
+        "pl": "Czyli...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds10": {
+        "en": "That's she's too young and too bright - to be living down here in the dark.",
+        "pl": "Że jest za młoda i za bystra - żeby mieszkać tu na dole, w ciemności.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds12": {
+        "en": "You think her being captain is kind of a [i]joke?[/i]",
+        "pl": "Myślisz, że to, że jest kapitanem, to trochę [i]żart?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds13": {
+        "en": "It's not a joke to [h]her[/h]. She cares a [h]lot[/h] about the submarine.",
+        "pl": "Dla [h]niej[/h] to nie żart. Bardzo [h]jej[/h] zależy na łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds14": {
+        "en": "I just don't think it's doing her any good, to care that much.",
+        "pl": "Po prostu nie sądzę, żeby wychodziło jej to na dobre, że tak bardzo jej zależy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds15": {
+        "en": "It's just a hunk of metal, after all.",
+        "pl": "W końcu to tylko kawał metalu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds16": {
+        "en": "-and wood. Some of it is made out of wood, I noticed.",
+        "pl": "-i drewna. Zauważyłem, że część jest zrobiona z drewna.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds19": {
+        "en": "Did Mortuga want Sinthia to succeed him as captain? Did he ever [i]mention[/i] it?",
+        "pl": "Czy Mortuga chciał, żeby Sinthia przejęła po nim kapitaństwo? Czy kiedykolwiek o tym [i]wspomniał?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds21": {
+        "en": "No. I'd say he probably felt the same way I do about it.",
+        "pl": "Nie. Powiedziałabym, że pewnie czuł to samo, co ja.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Sinthia/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Tadpole SUS Symmetry": {
+      "Conversation/Tadpole SUS Symmetry/Section ds0": {
+        "en": "Sym's quite delicate. She's got some real self-worth issues.",
+        "pl": "Sym jest dość delikatna. Ma poważne problemy z poczuciem własnej wartości.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds6": {
+        "en": "She's kinda eerie.",
+        "pl": "Jest trochę niesamowita.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds7": {
+        "en": "-and she's got this thousand-yard stare... like a rabbit in the headlights.",
+        "pl": "-i ma to spojrzenie w nieskończoność... jak królik oślepiony światłami.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds8": {
+        "en": "Yeah, I'm still not sure how much of it is sincere, and how much is residual from her time performing on stage...",
+        "pl": "Tak, wciąż nie jestem pewna, ile z tego jest szczere, a ile pozostałością po czasach występowania na scenie...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds9": {
+        "en": "She's got a [i]unique[/i] way of speaking, too.",
+        "pl": "Ma też [i]unikalny[/i] sposób mówienia.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds10": {
+        "en": "I [h]have[/h] heard her talking more normally, though. When she's with Sinthia.",
+        "pl": "Chociaż [h]słyszałam,[/h] jak mówi bardziej normalnie. Kiedy jest z Sinthią.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds15": {
+        "en": "What about Sym's parents?",
+        "pl": "A co z rodzicami Sym?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds16": {
+        "en": "Orphan.",
+        "pl": "Sierota.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds17": {
+        "en": "S'far as I know, she was homeless for a while, until the system picked her up, and she got moved into the theatre.",
+        "pl": "O ile wiem, przez jakiś czas była bezdomna, dopóki system się nią nie zajął i przeniesiono ją do teatru.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds18": {
+        "en": "So, she's never had any kind of normal life...",
+        "pl": "Więc nigdy nie miała żadnego normalnego życia...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds20": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds22": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Symmetry/Section ds26": {
+        "en": "That thousand-yard stare starting to make a little more [h]sense[/h] now, huh?",
+        "pl": "To spojrzenie w nieskończoność zaczyna teraz mieć trochę więcej [h]sensu,[/h] co?",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Tadpole": {
+      "Conversation/Tadpole SUS Tadpole/Section ds0": {
+        "en": "Miss Tadpole, you said you were an [i]olympic-level swimmer...?[/i]",
+        "pl": "Panno Tadpole, mówiła pani, że jest [i]pływaczką na poziomie olimpijskim...?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds6": {
+        "en": "Oh, sure.",
+        "pl": "O, jasne.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds7": {
+        "en": "They'd never let me [i]compete[/i] though. I got banned way back when I used to swim in regionals.",
+        "pl": "Nigdy jednak nie pozwolili mi [i]startować.[/i] Zostałam zdyskwalifikowana dawno temu, kiedy pływałam w zawodach regionalnych.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds8": {
+        "en": "Why? What did you [i]do?[/i]",
+        "pl": "Czemu? Co [i]zrobiłaś?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds9": {
+        "en": "Nothing. They just decided I had certain [i]'physical abnormalities'[/i] that made it unfair to the other swimmers.",
+        "pl": "Nic. Po prostu zdecydowali, że mam pewne [i]'nieprawidłowości fizyczne',[/i] które sprawiały, że było to niesprawiedliwe wobec innych pływaków.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds10": {
+        "en": "That kinda sucks.",
+        "pl": "To trochę do bani.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds11": {
+        "en": "It's whatever, I never really cared about competing anyway.",
+        "pl": "Trudno, i tak nigdy tak naprawdę nie zależało mi na rywalizacji.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds15": {
+        "en": "So what did you do after you got [i]banned?[/i]",
+        "pl": "Więc co robiłaś po tym, jak cię [i]zdyskwalifikowali?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds16": {
+        "en": "Oh, you know, left home, traveled, got a job, [i]quit[/i] that job, traveled some more...",
+        "pl": "Och, no wiesz, opuściłam dom, podróżowałam, znalazłam pracę, [i]rzuciłam[/i] tę pracę, podróżowałam jeszcze trochę...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds17": {
+        "en": "And, uh - have you, uh...",
+        "pl": "I, yy - czy ty, yy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds18": {
+        "en": "Have you always been - [i]green?[/i]",
+        "pl": "Zawsze byłaś - [i]zielona?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds19": {
+        "en": "Hahaha!",
+        "pl": "Hahaha!",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds20": {
+        "en": "You finally built up the courage to ask, huh?",
+        "pl": "W końcu zebrałeś się na odwagę, żeby zapytać, co?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds21": {
+        "en": "No, it was a reaction to some chemicals we used, in a little water tank I used to swim in.",
+        "pl": "Nie, to była reakcja na jakieś chemikalia, których używaliśmy, w małym zbiorniku z wodą, w którym kiedyś pływałam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Tadpole/Section ds22": {
+        "en": "The doctor said it's reversible, but I couldn't afford the treatment, so... [i]yeah.[/i] I'm green.",
+        "pl": "Lekarz powiedział, że to odwracalne, ale nie było mnie stać na leczenie, więc... [i]tak.[/i] Jestem zielona.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Wirman": {
+      "Conversation/Tadpole SUS Wirman/Section ds10": {
+        "en": "Now when Wirman got here - [h]that's[/h] when things got interesting.",
+        "pl": "A kiedy Wirman tu dotarł - [h]wtedy[/h] zrobiło się interesująco.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds11": {
+        "en": "Why? Because he's a famous author?",
+        "pl": "Czemu? Bo jest sławnym autorem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds12": {
+        "en": "Oh, no, I don't care about that - I don't read pulp literature.",
+        "pl": "O, nie, to mnie nie obchodzi - nie czytam literatury sensacyjnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds13": {
+        "en": "Oh. Right.",
+        "pl": "Och. No tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds14": {
+        "en": "Okay, so - Wirman's from Silkwirm,  just like Mortuga.",
+        "pl": "Okej, więc - Wirman jest z Silkwirm, tak samo jak Mortuga.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds15": {
+        "en": "Wait... you think they knew each other from before? From when they both lived in the town?",
+        "pl": "Czekaj... myślisz, że znali się wcześniej? Z czasów, kiedy oboje mieszkali w miasteczku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds16": {
+        "en": "No, but I [h]do[/h] think they share a connection.",
+        "pl": "Nie, ale [h]myślę,[/h] że łączy ich jakiś związek.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds17": {
+        "en": "And after he arrived on the submarine, Mortuga spent a lot of time [i]talking[/i] with him.\n",
+        "pl": "A po tym, jak przybył na łódź podwodną, Mortuga spędzał z nim dużo czasu na [i]rozmowach.[/i]\n",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds18": {
+        "en": "Like, maybe they have a mutual friend or something?",
+        "pl": "Może, no wiesz, mają wspólnego przyjaciela czy coś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds19": {
+        "en": "Something like that...",
+        "pl": "Coś w tym stylu...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds21": {
+        "en": "Then... it seems like Mortuga would've [h]wanted[/h] Wirman on the submarine, if he had something to [h]gain[/h] from it-",
+        "pl": "Więc... wygląda na to, że Mortuga [h]chciałby[/h] mieć Wirmana na łodzi podwodnej, gdyby miał na tym coś do [h]zyskania-[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds22": {
+        "en": "-even if it was just [i]information.[/i]",
+        "pl": "-nawet jeśli byłyby to tylko [i]informacje.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds23": {
+        "en": "[i]What[/i] information, though?? What was Mortuga trying to find out??",
+        "pl": "Ale [i]jakie[/i] informacje?? Czego Mortuga próbował się dowiedzieć??",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds25": {
+        "en": "Then what's so [i]interesting?[/i]",
+        "pl": "Więc co jest takie [i]interesujące?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Wirman/Section ds27": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole SUS Zephyr": {
+      "Conversation/Tadpole SUS Zephyr/Section ds0": {
+        "en": "Yeah, Zephyr and I had a little [i]falling out.[/i]",
+        "pl": "Tak, Zephyr i ja trochę [i]się poróżniliśmy.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds6": {
+        "en": "Over [i]what?[/i] Something to do with his experiments?",
+        "pl": "O [i]co?[/i] Coś związanego z jego eksperymentami?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds7": {
+        "en": "In theory, I really don't care [h]what[/h] he does in his lab...",
+        "pl": "W teorii, tak naprawdę nie obchodzi mnie, [h]co[/h] robi w swoim laboratorium...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds10": {
+        "en": "Look - it's not the dreams that were the problem. It's the [i]communicating-with-spirits-from-the-other-world[/i] stuff.",
+        "pl": "Słuchaj - problemem nie były sny. Problemem było to [i]komunikowanie-się-z-duchami-z-innego-świata.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds12": {
+        "en": "Oh, like... talking with the afterlife?",
+        "pl": "O, czyli... rozmowy z zaświatami?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds13": {
+        "en": "Zephyr's a grown man, if he wants to 'research' that stuff, he's free to do so.",
+        "pl": "Zephyr jest dorosłym mężczyzną, jeśli chce 'badać' takie rzeczy, wolno mu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds15": {
+        "en": "But Sym's still young. I didn't want her getting mislead. So I put a stop to it.",
+        "pl": "Ale Sym jest jeszcze młoda. Nie chciałam, żeby dała się wprowadzić w błąd. Więc temu zapobiegłam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds17": {
+        "en": "[i]How?[/i]",
+        "pl": "[i]Jak?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds18": {
+        "en": "I made Zephyr tell Sym he didn't need her anymore.",
+        "pl": "Zmusiłam Zephyra, żeby powiedział Sym, że już jej nie potrzebuje.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds20": {
+        "en": "Ouch.",
+        "pl": "Ała.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds21": {
+        "en": "It's for the best.",
+        "pl": "Tak jest lepiej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds23": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds24": {
+        "en": "What were they working on? Researching dreams, I guess?",
+        "pl": "Nad czym pracowali? Badali sny, jak sądzę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds25": {
+        "en": "When I first got here, Sym was working for Zephyr in the Dream Chamber...",
+        "pl": "Kiedy tu przybyłam, Sym pracowała dla Zephyra w Komnacie Snów...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds31": {
+        "en": "...I just didn't like that he'd dragged [h]Sym[/h] into it.",
+        "pl": "...po prostu nie podobało mi się, że wciągnął w to [h]Sym.[/h]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds34": {
+        "en": "Well, sure, that was part of it - they even had [h]Mortuga[/h] as a test subject, at one point...",
+        "pl": "Cóż, jasne, to była część tego - w pewnym momencie mieli nawet [h]Mortugę[/h] jako królika doświadczalnego...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole SUS Zephyr/Section ds35": {
+        "en": "They were researching [h]Mortuga's[/h] dreams??",
+        "pl": "Badali sny [h]Mortugi?![/h]",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

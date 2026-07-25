@@ -1,0 +1,175 @@
+{
+  "_meta": {
+    "batch": "Zephyr 04 STATEMENT (32 terminow) - kontynuacja luku Zephyra po batch_40-41 (43/251). Zeznanie napisane w charakterystycznym dla niego rytualnym, poetyckim stylu 'dziennika snow' (nie zwykla proza jak inne postacie) - opisuje sen o twarzy w zielonym swietle, potem wydarzenia nocy morderstwa.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 32/32 pokryte: Zephyr wiekszosc, Grimoire i Sally reszta",
+    "character_voice": "Zephyr: formalny, mistyczny, tu w formie poetyckiej narracji onirycznej ('Emerging from the beshroudal of the night-black sea, a face') - zachowano podniosly, rytualny rejestr.",
+    "possible_connection": "ds99 'A low voice, speaking a forbidden language' - mozliwe echo tej samej mechaniki 'Pipe' (fajka-dyktafon Moon) co u innych postaci, gdzie ten sam zrodlowy dzwiek (przedstawienie Symmetry 'Dziewczyna Patrzaca w Gwiazdy') brzmi obco/niezrozumiale dla roznych sluchaczy w roznych pomieszczeniach - do potwierdzenia w SUSPICION tej postaci."
+  },
+  "categories": {
+    "Zephyr 04 STATEMENT": {
+      "Conversation/Zephyr 04 STATEMENT/Section ds100": {
+        "en": "Emerging from the beshroudal of the night-black sea, a face.",
+        "pl": "Wyłaniająca się z całunu nocnoczarnego morza, twarz.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds102": {
+        "en": "I awake. The room is bathed in green light.",
+        "pl": "Budzę się. Pokój skąpany jest w zielonym świetle.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds103": {
+        "en": "Larger than I had known a face [i]could[/i] be.",
+        "pl": "Większa, niż wiedziałem, że twarz [i]może[/i] być.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds108": {
+        "en": "A green light? Like from the wooden buoy?",
+        "pl": "Zielone światło? Jak z drewnianej boi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds109": {
+        "en": "[i]Not[/i] dissimilar, but a thousand times more [i]potent.[/i]",
+        "pl": "[i]Nie[/i] niepodobne, lecz tysiąc razy [i]silniejsze.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds110": {
+        "en": "I leave my chambers, heading for the airlock, in which I have some business.",
+        "pl": "Opuszczam swoje komnaty, kierując się ku śluzie, gdzie mam pewną sprawę.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds111": {
+        "en": "I meet Sinthia in the parlor as she emerges from the control room.",
+        "pl": "Spotykam Sinthię w salonie, gdy wyłania się ze sterowni.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds112": {
+        "en": "I notice she is clutching the ship's compass. She also appears visibly upset.",
+        "pl": "Zauważam, że ściska kompas statku. Wygląda też na wyraźnie zdenerwowaną.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds113": {
+        "en": "Like me, Sinthia is on her way to the lowest deck. She departs, and I follow behind.",
+        "pl": "Podobnie jak ja, Sinthia zmierza ku najniższemu pokładowi. Odchodzi, a ja podążam za nią.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds114": {
+        "en": "I wait as Sinthia converses with Madam Tadpole at the base of the second ladder.",
+        "pl": "Czekam, gdy Sinthia rozmawia z Madam Tadpole u podstawy drugiej drabiny.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds115": {
+        "en": "Madam Tadpole [i]ascends[/i] the ladder, she is moving with haste and purpose.",
+        "pl": "Madam Tadpole [i]wspina się[/i] po drabinie, porusza się w pośpiechu i z determinacją.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds116": {
+        "en": "She requests that I go immediately to the store room at the end of the corridor.",
+        "pl": "Prosi, żebym natychmiast udał się do magazynu na końcu korytarza.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds118": {
+        "en": "Did you go?",
+        "pl": "Poszedłeś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds119": {
+        "en": "As soon as I'd concluded my business.",
+        "pl": "Zaraz po tym, jak zakończyłem swoją sprawę.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds120": {
+        "en": "Which [i]was...?[/i]",
+        "pl": "Która [i]polegała na...?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds121": {
+        "en": "Nothing of great import. Merely something I needed to collect from the airlock.",
+        "pl": "Nic wielkiej wagi. Po prostu coś, co musiałem odebrać ze śluzy.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds123": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds124": {
+        "en": "So you went to the airlock, and [h]then[/h] you went to the store room?",
+        "pl": "Więc poszedłeś do śluzy, a [h]potem[/h] poszedłeś do magazynu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds125": {
+        "en": "I did.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds126": {
+        "en": "Right after I stopped off at my chambers...",
+        "pl": "Zaraz po tym, jak wstąpiłem do swoich komnat...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds128": {
+        "en": "You understand I first needed to return certain items to their [i]designated storage locations.[/i]",
+        "pl": "Rozumiecie, że najpierw musiałem zwrócić pewne przedmioty na ich [i]wyznaczone miejsca przechowywania.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds129": {
+        "en": "After which I truly [i]did do[/i] as Madam Tadpole had requested.",
+        "pl": "Po czym naprawdę [i]uczyniłem[/i] to, o co poprosiła Madam Tadpole.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds130": {
+        "en": "I did... ultimately regret my dallying. As it transpired, she had wished to inform me of Magnus Mortuga's [i]death.[/i]",
+        "pl": "Ostatecznie... pożałowałem swojej zwłoki. Jak się okazało, chciała poinformować mnie o [i]śmierci[/i] Magnusa Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds131": {
+        "en": "And there his body lay. In the shadow of his stone cauldron... his blood pooling beneath him.",
+        "pl": "I tam leżało jego ciało. W cieniu jego kamiennego kotła... jego krew zbierała się pod nim w kałuży.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds132": {
+        "en": "A potent [i]unease[/i] was already germinating amongst the group...",
+        "pl": "Silny [i]niepokój[/i] już kiełkował wśród grupy...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds133": {
+        "en": "Doubts were beginning to be sown, and fingers were beginning to point.",
+        "pl": "Wątpliwości zaczynały być siane, a palce zaczynały wskazywać.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds134": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds135": {
+        "en": "Magnus Mortuga... was a man of great will, and great strength.",
+        "pl": "Magnus Mortuga... był człowiekiem wielkiej woli i wielkiej siły.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds136": {
+        "en": "It is hard, [i]still[/i], to accept that he has left us.",
+        "pl": "Wciąż trudno [i]jeszcze[/i] zaakceptować, że nas opuścił.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds96": {
+        "en": "The last dream, before waking. A single phase. Non-lucid. Focus is soft, but heavy.",
+        "pl": "Ostatni sen, przed przebudzeniem. Pojedyncza faza. Nieświadomy. Skupienie łagodne, lecz ciężkie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds98": {
+        "en": "All is dark. The endless void.",
+        "pl": "Wszystko jest ciemne. Nieskończona pustka.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 04 STATEMENT/Section ds99": {
+        "en": "A low voice, speaking a [i]forbidden[/i] language.",
+        "pl": "Niski głos, mówiący [i]zakazanym[/i] językiem.",
+        "speaker": "Zephyr"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,674 @@
+{
+  "_meta": {
+    "batch": "Conversation/Grimoire 7 Parlor 3 (127 terminow) - najwieksza dotad scena, konfrontacja z Grippem i ujawnienie 'trzeciej osoby' na statku.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking). Duzo terminow bez soulTalking to opcje Choice (Grimoire) lub tokeny silnika (patrz nizej).",
+    "engine_tokens_left_unchanged": "Kilkanascie terminow to NIE dialog, tylko komendy/tokeny silnika gry osadzone jako 'tekst' (np. '[Clue Detail, Film]', '[Mind Game, The ship in a bottle]', '[present clue] the model town', '[Present soul, Gripp]', '[Present clue, ocean map]', '[attach game, bottle smash]', '[present clue, compass]', '[clue present, handheld radio]') - zgodnie z TRANSLATION_GUIDE ('komendy lub tokeny silnika gry' zostaja bez zmian) NIE przetlumaczone, PL == EN. Podobnie '[Gasp]' i '[Static]' (x3) to prawdopodobnie sygnaly SFX/reakcji, nie mowa - zostawione bez zmian (patrz TECHNICAL_GUIDE, wciaz niezdecydowane czy tlumaczyc onomatopeje w calej grze).",
+    "pipe_resolved": "WAZNE ODKRYCIE: 'Pipe' (mowca z 0 trafien zaimkow w GLOSSARY, oznaczony jako 'nieznana plec') to NIE postac, tylko URZADZENIE - rura/tuba glosowa na lodzi ('Mariana's pipe', ds191: 'Before it reached Mariana's pipe, the audio was transmitted...'). Kwestie przypisane 'Pipe' to zaklocony, czesciowo slyszalny glos TRZECIEJ, nieujawnionej jeszcze osoby, transmitowany przez ta rure - stad tez tagi '[Static]'. Zaktualizowac GLOSSARY.",
+    "new_glossary_terms": {
+      "Black Box": "Czarna Skrzynka - nazwa dowodu",
+      "Ship in a Bottle": "Statek w Butelce - nazwa dowodu",
+      "Engine Room": "Maszynownia - lokacja",
+      "model town": "makieta miasteczka - mechanika/rekwizyt (mala litera, nie unikalna nazwa wlasna)",
+      "Mariana's pipe / Pipe": "rura/tuba glosowa Mariany - patrz pipe_resolved wyzej. 'Pipe' jako 'mowca' w dialogueSections to ZAKLOCONY GLOS TRZECIEJ OSOBY plynacy przez to urzadzenie, nie osobny charakter"
+    }
+  },
+  "categories": {
+    "Grimoire 7 Parlor 3": {
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest0Hint0": {
+        "en": "Mortuga's other wooden model...",
+        "pl": "Inny drewniany model Mortugi...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest0Hint1": {
+        "en": "Mortuga's other wooden model - this one's a bit bigger than the Ship in a Bottle...",
+        "pl": "Inny drewniany model Mortugi - trochę większy niż Statek w Butelce...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest2Hint0": {
+        "en": "Evidence of Mortuga's dealings with Gripp that lead to him coming on the voyage...",
+        "pl": "Dowód na to, że interesy Mortugi z Grippem doprowadziły do tego, że ten popłynął w rejs...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest2Hint1": {
+        "en": "Evidence of Mortuga's business transaction with Gripp that lead to him coming on the voyage...",
+        "pl": "Dowód na transakcję biznesową Mortugi z Grippem, przez którą ten popłynął w rejs...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest3Hint0": {
+        "en": "Gripp has the murder weapon and the key for The Mermaid's Tongue...",
+        "pl": "Gripp ma narzędzie zbrodni i klucz do Języka Syreny...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest3Hint1": {
+        "en": "Gripp has the murder weapon and the key for The Mermaid's Tongue. He had it sitting in the Engine Room, for all to see...",
+        "pl": "Gripp ma narzędzie zbrodni i klucz do Języka Syreny. Trzymał go w Maszynowni, na widoku...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest4Detail0": {
+        "en": "Which part is evidence to suggest there were three people on board the Dearest Selena?",
+        "pl": "Która część jest dowodem na to, że na pokładzie Dearest Seleny było troje ludzi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest4Hint0": {
+        "en": "Which part is evidence to suggest there were three people on board the Dearest Selena?",
+        "pl": "Która część jest dowodem na to, że na pokładzie Dearest Seleny było troje ludzi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest5Hint0": {
+        "en": "What explains the curious nature of the audio recording of Mortuga opening the Black Box?",
+        "pl": "Co wyjaśnia dziwną naturę nagrania audio, na którym Mortuga otwiera Czarną Skrzynkę?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitClueRequest5Hint1": {
+        "en": "What malfunctioning pieces of technology explain the curious nature of the audio recording of Mortuga opening the Black Box?",
+        "pl": "Jakie wadliwe urządzenia wyjaśniają dziwną naturę nagrania audio, na którym Mortuga otwiera Czarną Skrzynkę?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitSoulRequest1Hint0": {
+        "en": "Who should be in the model town, but isn't?",
+        "pl": "Kto powinien być w makiecie miasteczka, a go tam nie ma?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Request exitSoulRequest1Hint1": {
+        "en": "There's someone who logically should appear in the model town, based on Mortuga's choices of which buildings to include...",
+        "pl": "Jest ktoś, kto logicznie powinien pojawić się w makiecie miasteczka, sądząc po tym, które budynki wybrał Mortuga...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestPrefix exitClueRequest3 0": {
+        "en": "Gripp has...",
+        "pl": "Gripp ma...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestPrefix exitClueRequest4 0": {
+        "en": "The opening of",
+        "pl": "Otwarcie",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestPrefix exitClueRequest4 1": {
+        "en": "The size of",
+        "pl": "Rozmiar",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestPrefix exitClueRequest4 2": {
+        "en": "The color of",
+        "pl": "Kolor",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestSuffix exitClueRequest3 0": {
+        "en": "...which is both the murder weapon and the key for The Mermaid's Tongue.",
+        "pl": "...który jest zarówno narzędziem zbrodni, jak i kluczem do Języka Syreny.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/RequestSuffix exitClueRequest4 0": {
+        "en": "reveals there is someone other than Mortuga and Felicia on board the ship.",
+        "pl": "ujawnia, że na pokładzie statku był ktoś oprócz Mortugi i Felicii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds100": {
+        "en": "Let's see...",
+        "pl": "Zobaczmy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds100 Choice 1": {
+        "en": "Mortuga's film reel...",
+        "pl": "Taśma filmowa Mortugi...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds100 Choice 2": {
+        "en": "The audio recording of Mortuga opening the Black Box...",
+        "pl": "Nagranie audio, na którym Mortuga otwiera Czarną Skrzynkę...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds100 Choice 3": {
+        "en": "The Ship in a Bottle...",
+        "pl": "Statek w Butelce...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds100 Choice Question": {
+        "en": "Evidence to suggest there were three people on the Dearest Selena voyage...",
+        "pl": "Dowód na to, że w rejsie Dearest Seleny brało udział troje ludzi...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds102": {
+        "en": "[Gasp]",
+        "pl": "[Gasp]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds103": {
+        "en": "The audio recording of Mortuga opening the Black Box...",
+        "pl": "Nagranie audio, na którym Mortuga otwiera Czarną Skrzynkę...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds105": {
+        "en": "Alright, but does any of that tell you [h]who[/h] it actually is?",
+        "pl": "Dobra, ale czy coś z tego mówi nam, [h]kim[/h] właściwie jest ta osoba?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds106": {
+        "en": "[Clue Detail, Film]",
+        "pl": "[Clue Detail, Film]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds107": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds107 Choice 1": {
+        "en": "Mortuga is talking [i]to[/i] the third person from the voyage.",
+        "pl": "Mortuga rozmawia [i]z[/i] trzecią osobą z rejsu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds107 Choice 2": {
+        "en": "Mortuga is talking [i]about[/i] the third person from the voyage.",
+        "pl": "Mortuga mówi [i]o[/i] trzeciej osobie z rejsu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds107 Choice 3": {
+        "en": "The audio was recorded [i]by[/i] the third person from the voyage.",
+        "pl": "Nagranie zostało zrobione [i]przez[/i] trzecią osobę z rejsu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds107 Choice Question": {
+        "en": "The audio recording of Mortuga opening the Black Box...",
+        "pl": "Nagranie audio, na którym Mortuga otwiera Czarną Skrzynkę...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds108": {
+        "en": "[Mind Game, The ship in a bottle]",
+        "pl": "[Mind Game, The ship in a bottle]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds110": {
+        "en": "I [i]knew[/i] there was something in there... some[i]one[/i] in there...",
+        "pl": "[i]Wiedziałam[/i], że coś tam jest... [i]ktoś[/i] tam jest...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds111": {
+        "en": "Yeah, yeah.",
+        "pl": "Tak, tak.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds112": {
+        "en": "[i]Spooky.[/i]",
+        "pl": "[i]Upiornie.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds113": {
+        "en": "Well, there we are. Quite a [i]bit[/i] of evidence, as it stands.",
+        "pl": "No, proszę. Całkiem [i]sporo[/i] dowodów jak na razie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds114": {
+        "en": "And what evidence have you collected to support this?",
+        "pl": "A jakie dowody zebraliście na poparcie tego?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds116": {
+        "en": "Potentially, yeah.",
+        "pl": "Potencjalnie, tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds116 Choice 1": {
+        "en": "The ship in a bottle rattling when you shake it.",
+        "pl": "Grzechotanie Statku w Butelce, gdy się nim potrząsa.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds116 Choice 2": {
+        "en": "The door opening in the background of the film.",
+        "pl": "Otwierające się drzwi w tle filmu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds116 Choice 3": {
+        "en": "The remarks made by Mortuga on the audio recording.",
+        "pl": "Uwagi, jakie Mortuga robi na nagraniu audio.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds116 Choice Question": {
+        "en": "One of these could lead us to an actual person...",
+        "pl": "Jedno z nich może zaprowadzić nas do prawdziwej osoby...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds117": {
+        "en": "The door opening in the background of the film.",
+        "pl": "Otwierające się drzwi w tle filmu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds118": {
+        "en": "First, we'll compare the Ship in a Bottle with Mortuga's [i]other[/i] wooden model...",
+        "pl": "Najpierw porównamy Statek w Butelce z [i]innym[/i] drewnianym modelem Mortugi...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds119": {
+        "en": "The Ship in a Bottle rattling when you shake it.",
+        "pl": "Grzechotanie Statku w Butelce, gdy się nim potrząsa.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds120": {
+        "en": "[present clue] the model town",
+        "pl": "[present clue] the model town",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds121": {
+        "en": "The model town? What about it?",
+        "pl": "Makieta miasteczka? A co z nią?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds121 Choice 1": {
+        "en": "The lighthouse.",
+        "pl": "Latarnia morska.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds121 Choice 2": {
+        "en": "The people in the town.",
+        "pl": "Ludzie w miasteczku.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds121 Choice 3": {
+        "en": "The people who [i]aren't[/i] in the town.",
+        "pl": "Ludzie, których [i]nie ma[/i] w miasteczku.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds121 Choice Question": {
+        "en": "How does the Model Town identify who will be in the Ship in a Bottle?",
+        "pl": "Jak Makieta Miasteczka wskazuje, kto będzie w Statku w Butelce?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds123": {
+        "en": "The lighthouse.",
+        "pl": "Latarnia morska.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds124": {
+        "en": "The people who [i]aren't[/i] in the town.",
+        "pl": "Ludzie, których [i]nie ma[/i] w miasteczku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds125": {
+        "en": "What do you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds126": {
+        "en": "It's important to remember that the model town is specific to Mortuga's [i]life.[/i]",
+        "pl": "Ważne, żeby pamiętać, że makieta miasteczka odzwierciedla [i]życie[/i] Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds127": {
+        "en": "And he only detailed the buildings he was [i]familiar[/i] with - the rest are just generic blocks.",
+        "pl": "A szczegółowo odwzorował tylko budynki, które [i]znał[/i] - reszta to zwykłe klocki.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds128": {
+        "en": "With this in mind, there's someone else who [i]should[/i] be here, but isn't.",
+        "pl": "Mając to na uwadze, jest ktoś jeszcze, kto [i]powinien[/i] tu być, ale go nie ma.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds129": {
+        "en": "Mortuga and Felicia aren't in the town because they're on the [i]ship...[/i]",
+        "pl": "Mortugi i Felicii nie ma w miasteczku, bo są na [i]statku...[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds132": {
+        "en": "When adding the model figures, he only included people he had [i]dealings[/i] with.",
+        "pl": "Dodając figurki do makiety, uwzględnił tylko ludzi, z którymi miał [i]do czynienia[/i].",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds133": {
+        "en": "[Present soul, Gripp]",
+        "pl": "[Present soul, Gripp]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds134": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds136": {
+        "en": "Mortuga made a detailed model of Gripp's shop - it's not a generic cube like everything else.",
+        "pl": "Mortuga zrobił szczegółowy model sklepu Grippa - to nie zwykła kostka jak reszta.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds137": {
+        "en": "Which means there [i]should[/i] be a model of Gripp himself. But it's not there.",
+        "pl": "Co znaczy, że [i]powinna[/i] tam być figurka samego Grippa. Ale jej nie ma.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds138": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds139": {
+        "en": "...and if they did, how did Gripp end up going along on Mortuga's ship?",
+        "pl": "...a jeśli tak, to jak to się stało, że Gripp popłynął na statku Mortugi?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds141": {
+        "en": "[Present clue, ocean map]",
+        "pl": "[Present clue, ocean map]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds142": {
+        "en": "There's a sticker on the back of the map. It's a service record from Gripp's shop.",
+        "pl": "Na odwrocie mapy jest naklejka. To zapis serwisowy ze sklepu Grippa.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds143": {
+        "en": "Mortuga hired Gripp to interpret the Ocean Map - which he did.",
+        "pl": "Mortuga wynajął Grippa, żeby zinterpretował Mapę Oceanu - i ten to zrobił.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds144": {
+        "en": "But Gripp didn't ask for payment in [i]money[/i]. Instead, he asked to come on the [i]voyage.[/i]",
+        "pl": "Ale Gripp nie chciał zapłaty w [i]pieniądzach[/i]. Zamiast tego poprosił, żeby móc popłynąć w [i]rejs.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds145": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds146": {
+        "en": "This isn't proof. Not really.",
+        "pl": "To nie jest dowód. Nie tak naprawdę.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds147": {
+        "en": "Well, there is [i]one[/i] thing we could-",
+        "pl": "Cóż, jest [i]jedna[/i] rzecz, którą moglibyśmy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds148": {
+        "en": "Do it.\nIf you don't, I will.",
+        "pl": "Zrób to.\nJeśli nie ty, to ja.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds149": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds150": {
+        "en": "[attach game, bottle smash]",
+        "pl": "[attach game, bottle smash]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds151": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds152": {
+        "en": "...Mr Gripp being on that ship isn't actually evidence that he [i]murdered[/i] Mortuga...",
+        "pl": "...to, że pan Gripp był na tym statku, wcale nie jest dowodem, że [i]zamordował[/i] Mortugę...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds153": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds153 Choice 1": {
+        "en": "Gripp still has the murder weapon.",
+        "pl": "Gripp wciąż ma narzędzie zbrodni.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds153 Choice 2": {
+        "en": "Gripp still has the key for The Mermaid's Tongue.",
+        "pl": "Gripp wciąż ma klucz do Języka Syreny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds153 Choice 3": {
+        "en": "Gripp has both the murder weapon [i]and[/i] the key.",
+        "pl": "Gripp ma narzędzie zbrodni [i]i[/i] klucz.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds153 Choice Question": {
+        "en": "Evidence that Gripp killed Mortuga and used The Mermaid's Tongue...",
+        "pl": "Dowód na to, że Gripp zabił Mortugę i użył Języka Syreny...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds154": {
+        "en": "Gripp still has the murder weapon.",
+        "pl": "Gripp wciąż ma narzędzie zbrodni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds156": {
+        "en": "Gripp still has both the murder weapon [i]and[/i] the key.",
+        "pl": "Gripp wciąż ma narzędzie zbrodni [i]i[/i] klucz.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds157": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds158": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds159": {
+        "en": "I guess this is it.",
+        "pl": "Chyba nadszedł ten moment.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds160": {
+        "en": "[present clue, compass]",
+        "pl": "[present clue, compass]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds161": {
+        "en": "Right. [i]Nor[/i] is this evidence that he used The Mermaid's Tongue.",
+        "pl": "Zgadza się. To [i]też[/i] nie jest dowodem, że użył Języka Syreny.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds162": {
+        "en": "The remarks made by Mortuga on the audio recording.",
+        "pl": "Uwagi, jakie Mortuga robi na nagraniu audio.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds163": {
+        "en": "The people in the town.",
+        "pl": "Ludzie w miasteczku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds164": {
+        "en": "Gripp still has the key for The Mermaid's Tongue.",
+        "pl": "Gripp wciąż ma klucz do Języka Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds165": {
+        "en": "Wait - the model person - inside the ship? There's a way to work out who it is?",
+        "pl": "Chwila - ta figurka w środku - w statku? Da się ustalić, kto to jest?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds166": {
+        "en": "Right. It was a crew of [i]three[/i] - not two.",
+        "pl": "Zgadza się. Załoga liczyła [i]troje[/i], nie dwoje.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds167": {
+        "en": "Evidence?",
+        "pl": "Dowód?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds168": {
+        "en": "Oh yeah, look at that.",
+        "pl": "O tak, spójrzcie na to.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds172": {
+        "en": "[Static]",
+        "pl": "[Static]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds173": {
+        "en": "-I really don't know why you're here, this doesn't concern you-",
+        "pl": "-naprawdę nie wiem, po co tu jesteście, to was nie dotyczy-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds174": {
+        "en": "-in addition to Magnus Mortuga and Felicia Stonetop, I assume.",
+        "pl": "-oprócz Magnusa Mortugi i Felicii Stonetop, jak sądzę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds175": {
+        "en": "The audio was recorded [i]by[/i] the third person from the voyage.",
+        "pl": "Nagranie zostało zrobione [i]przez[/i] trzecią osobę z rejsu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds176": {
+        "en": "Mortuga is talking [i]about[/i] the third person from the voyage.",
+        "pl": "Mortuga mówi [i]o[/i] trzeciej osobie z rejsu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds177": {
+        "en": "Mortuga is talking [i]to[/i] the third person from the voyage.",
+        "pl": "Mortuga rozmawia [i]z[/i] trzecią osobą z rejsu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds178": {
+        "en": "[h]-is[/h] he? I only hear the one voice...",
+        "pl": "[h]-Niby[/h]? Ja słyszę tylko jeden głos...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds179": {
+        "en": "Only, they're faulty - or [i]one[/i] of them is, at least - it turns itself on and off every few seconds. ",
+        "pl": "Tyle że są wadliwe - a przynajmniej [i]jeden[/i] z nich - włącza się i wyłącza co kilka sekund. ",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds180": {
+        "en": "The cadence happened to line up with the conversation, so you only get [i]Mortuga's[/i] half.",
+        "pl": "Rytm akurat zbiegł się z rozmową, więc słyszysz tylko połowę [i]Mortugi[/i].",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds181": {
+        "en": "There are more things in heaven and earth, Mr Wirman...",
+        "pl": "Więcej jest rzeczy na niebie i ziemi, panie Wirman...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds182": {
+        "en": "Huh. That's... [i]quite[/i] the coincidence. Personally - if [i]I'd[/i] written that? - I'd feel guilty.",
+        "pl": "Hm. To... [i]niezły[/i] zbieg okoliczności. Osobiście - gdybym [i]ja[/i] to napisał - czułbym się winny.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds184": {
+        "en": "-what recording is [i]this?[/i]",
+        "pl": "-co [i]to[/i] za nagranie?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds185": {
+        "en": "But... why would Mortuga include Gripp in his model town? Did they [i]know[/i] each other?",
+        "pl": "Ale... czemu Mortuga umieściłby Grippa w swojej makiecie miasteczka? Czy oni się [i]znali?[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds186": {
+        "en": "Wh-what about the [i]murder weapon?[/i] What happened to it?",
+        "pl": "A-a co z [i]narzędziem zbrodni?[/i] Co się z nim stało?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds187": {
+        "en": "Wouldn't he have needed that [i]special key?[/i]",
+        "pl": "Czy nie potrzebowałby tego [i]specjalnego klucza?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds189": {
+        "en": "The Ship in a Bottle...",
+        "pl": "Statek w Butelce...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds190": {
+        "en": "[clue present, handheld radio]",
+        "pl": "[clue present, handheld radio]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds191": {
+        "en": "Before it reached Mariana's pipe, the audio was transmitted from the cabin to the control room by these radios.",
+        "pl": "Zanim dotarło do rury głosowej Mariany, nagranie było przesyłane z kabiny do sterowni tymi radiami.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds193": {
+        "en": "I don't think they're who she's talking about.",
+        "pl": "Nie sądzę, że to o nich mówi.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds194": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds195": {
+        "en": "[i]I[/i] can think of a way-",
+        "pl": "[i]Ja[/i] znam sposób-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds196": {
+        "en": "[h]Let's -[/h] do it with logic and reasoning, shall we?",
+        "pl": "[h]Zróbmy to[/h] - metodą logiki i rozumowania, dobrze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds197": {
+        "en": "Tch.",
+        "pl": "Tch.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds198": {
+        "en": "Selena too, I suppose, since she's the figurehead...",
+        "pl": "Selena też, jak sądzę, skoro jest galionową figurą...",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds199": {
+        "en": "Uh... ah-",
+        "pl": "Yy... ach-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds201": {
+        "en": "[Static]",
+        "pl": "[Static]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds202": {
+        "en": "-even if it does - it is wholly unrelated our unfortunate voyage-",
+        "pl": "-nawet jeśli tak, to nie ma to nic wspólnego z naszą nieszczęsną podróżą-",
+        "speaker": "Pipe"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds203": {
+        "en": "[Static]",
+        "pl": "[Static]",
+        "speaker": "Pipe"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds98": {
+        "en": "The [i]third person...?[/i]",
+        "pl": "[i]Trzecia osoba...?[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 7 Parlor 3/Section ds99": {
+        "en": "Mortuga's film reel...",
+        "pl": "Taśma filmowa Mortugi...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Engine tokens ('[Clue Detail, Film]', '[Mind Game...]', '[present clue]...', itd.)",
+      "problem": "Zalozylem ze to komendy silnika osadzone jako tresc devText/I2Loc (nie dialog), zostawione 1:1 bez tlumaczenia zgodnie z TRANSLATION_GUIDE. Do potwierdzenia w grze ze rzeczywiscie nie sa nigdy pokazywane graczowi jako tekst (a jesli sa - trzeba je jednak przetlumaczyc)."
+    },
+    {
+      "term": "'Pipe' jako urzadzenie, nie postac",
+      "problem": "Ustalono na podstawie ds191 ('Mariana's pipe') ze 'Pipe' to rura glosowa, nie osoba - kwestie przypisane 'Pipe' (ds172,173,201,202,203) to zaklocony glos TRZECIEJ, jeszcze nieujawnionej osoby. Tlumaczenie linii ds173/ds202 celowo unika form wymagajacych rodzaju gramatycznego (zeby nie zdradzic plci tej osoby przed czasem) - do sprawdzenia czy to sie utrzyma w kolejnych scenach gdy ta postac zostanie ujawniona."
+    },
+    {
+      "term": "ds191 'Mariana's pipe' -> 'rury głosowej Mariany'",
+      "problem": "Nie jestem pewien dokladnego mechanizmu (czy to fizyczna rura przy stanowisku Mariany/Moon, czy inne urzadzenie) - przetlumaczone opisowo, do zweryfikowania kontekstowo w grze."
+    },
+    {
+      "term": "ds159 Godrik: 'I guess this is it.' -> 'Chyba nadszedł ten moment.'",
+      "problem": "Idiom bez jednoznacznego dosłownego odpowiednika - przetlumaczone funkcjonalnie (poczucie rezygnacji/nieuchronnosci). Do sprawdzenia czy pasuje do tonu sceny w grze (Godrik zostaje w tym momencie skonfrontowany)."
+    }
+  ]
+}

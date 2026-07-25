@@ -1,0 +1,952 @@
+{
+  "_meta": {
+    "batch": "Gripp 05 SUSPICION (186 terminow) - konczy pelny luk postaci Grippa. Grimoire i Sally przycisniete Grippa ws. Cornelius Cane, kola sterowego, mapy oceanu i sporu z Mortuga.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking). Terminy Request/RequestPrefix/RequestSuffix i Choice bez soulTalking przypisane Grimoire (domniemany/opcja wyboru) jak w poprzednich batchach.",
+    "new_glossary_terms": {
+      "Ship's Wheel": "Koło Sterowe - nazwa dowodu",
+      "Cornelius Cane": "NIE tlumaczone - imie/nazwa postaci (drewniana laska-maskotka Grippa, pun na 'cane'=laska), No-Touch Zone jak inne imiona"
+    }
+  },
+  "categories": {
+    "Gripp 05 SUSPICION": {
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Let's ask Mr Gripp about his faithful sidekick.",
+        "pl": "Zapytajmy pana Grippa o jego wiernego towarzysza.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Let's ask Mr Gripp about his faithful wooden sidekick.",
+        "pl": "Zapytajmy pana Grippa o jego wiernego drewnianego towarzysza.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest10Hint0": {
+        "en": "Which part explains why the spokes of the Ship's Wheel are shorter than Cornelius Cane?",
+        "pl": "Która część wyjaśnia, czemu szprychy Koła Sterowego są krótsze niż Cornelius Cane?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest1Detail0": {
+        "en": "Which part is reference for what Gripp's cane is supposed to look like?",
+        "pl": "Która część jest odniesieniem do tego, jak powinna wyglądać laska Grippa?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "Do we have reference for what Gripp's cane is supposed to look like?",
+        "pl": "Czy mamy odniesienie do tego, jak powinna wyglądać laska Grippa?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "Do we have a poster or banner showing what Gripp's cane is supposed to look like?",
+        "pl": "Czy mamy plakat albo baner pokazujący, jak powinna wyglądać laska Grippa?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Where did the wood come from that Gripp used to make Cornelius Cane?",
+        "pl": "Skąd pochodziło drewno, z którego Gripp zrobił Corneliusa Cane'a?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "What other object on the submarine was the origin of the wood that Gripp used to make Cornelius Cane?",
+        "pl": "Jaki inny przedmiot na łodzi podwodnej był źródłem drewna, z którego Gripp zrobił Corneliusa Cane'a?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest3Detail0": {
+        "en": "Which part shows the pieces of wood that broke off the ship's wheel?",
+        "pl": "Która część pokazuje kawałki drewna, które odłamały się od koła sterowego?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "Where does Gripp keep the pieces of wood that broke off the ship's wheel?",
+        "pl": "Gdzie Gripp trzyma kawałki drewna, które odłamały się od koła sterowego?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "In what container does Gripp keep the pieces of wood that broke off the ship's wheel?",
+        "pl": "W jakim pojemniku Gripp trzyma kawałki drewna, które odłamały się od koła sterowego?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "What sparked a disagreement between Gripp and Mortuga, relating to the navigation of the submarine?",
+        "pl": "Co wywołało spór między Grippem a Mortugą, związany z nawigacją łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "What parchment scroll sparked a disagreement between Gripp and Mortuga, relating to the navigation of the submarine?",
+        "pl": "Jaki zwój pergaminu wywołał spór między Grippem a Mortugą, związany z nawigacją łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest5Detail0": {
+        "en": "Which part shows Mortuga had previously attempted to follow the map?",
+        "pl": "Która część pokazuje, że Mortuga wcześniej próbował podążać za mapą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Do we have evidence suggesting Mortuga had previously attempted to follow the map?",
+        "pl": "Czy mamy dowód sugerujący, że Mortuga wcześniej próbował podążać za mapą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "Do we have video evidence suggesting Mortuga had previously attempted to follow the map?",
+        "pl": "Czy mamy nagranie sugerujące, że Mortuga wcześniej próbował podążać za mapą?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest6Hint0": {
+        "en": "What vessel are Magnus Mortuga and Felicia Stonetop standing on in the film?",
+        "pl": "Na jakim statku stoją Magnus Mortuga i Felicia Stonetop na tym filmie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest6Hint1": {
+        "en": "What ship are Magnus Mortuga and Felicia Stonetop standing on in the film?",
+        "pl": "Na jakim okręcie stoją Magnus Mortuga i Felicia Stonetop na tym filmie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest7Hint0": {
+        "en": "Do we have something to suggest that Mortuga successfully reached the centre of the map?",
+        "pl": "Czy mamy coś, co sugeruje, że Mortudze udało się dotrzeć do środka mapy?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest7Hint1": {
+        "en": "Do we have an object Mortuga found that suggests he successfully reached the centre of the map?",
+        "pl": "Czy mamy przedmiot znaleziony przez Mortugę, który sugeruje, że udało mu się dotrzeć do środka mapy?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest8Hint0": {
+        "en": "Which part relates directly to both Gripp and Mortuga?",
+        "pl": "Która część odnosi się bezpośrednio zarówno do Grippa, jak i do Mortugi?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Request exitClueRequest9Hint0": {
+        "en": "Which part explains what the Wooden Buoy has to do with the Ocean Map?",
+        "pl": "Która część wyjaśnia, co Drewniana Boja ma wspólnego z Mapą Oceanu?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestPrefix exitClueRequest10 0": {
+        "en": "If you REMOVE the bandage you can see that Cornelius is made from...",
+        "pl": "Jeśli ZDEJMIESZ bandaż, widać, że Cornelius jest zrobiony z...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestPrefix exitClueRequest10 1": {
+        "en": "If you REMOVE his hat you can see that Cornelius is made from...",
+        "pl": "Jeśli ZDEJMIESZ jego kapelusz, widać, że Cornelius jest zrobiony z...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestPrefix exitClueRequest10 2": {
+        "en": "If you LOOK at his back you can see that Cornelius is made from...",
+        "pl": "Jeśli SPOJRZYSZ na jego plecy, widać, że Cornelius jest zrobiony z...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest1 0": {
+        "en": "...looks different to the cane Gripp has now.",
+        "pl": "...wygląda inaczej niż laska, którą Gripp ma teraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest1 1": {
+        "en": "...looks the same as the cane Gripp has now.",
+        "pl": "...wygląda tak samo jak laska, którą Gripp ma teraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest1 2": {
+        "en": "...isn't a cane at all.",
+        "pl": "...wcale nie jest laską.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest10 0": {
+        "en": "...that are two wheel spokes joined together.",
+        "pl": "...że to dwie szprychy koła połączone razem.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest10 1": {
+        "en": "...that's one long wheel spoke.",
+        "pl": "...że to jedna długa szprycha koła.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest10 2": {
+        "en": "...that isn't from the ship's wheel at all.",
+        "pl": "...że to wcale nie pochodzi z koła sterowego.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest3 0": {
+        "en": "...is from the broken ship's wheel.",
+        "pl": "...pochodzi ze złamanego koła sterowego.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest3 1": {
+        "en": "...is from a hot air balloon.",
+        "pl": "...pochodzi z balonu na gorące powietrze.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/RequestSuffix exitClueRequest3 2": {
+        "en": "...is Gripp's old cane.",
+        "pl": "...to stara laska Grippa.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds0": {
+        "en": "Uh, yeah, there [i]is[/i] something - or [h]someone[/h] - that I'd like to ask you about.",
+        "pl": "Yy, tak, [i]jest[/i] coś - albo [h]ktoś[/h] - o co chciałbym cię zapytać.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds10": {
+        "en": "His appearance.",
+        "pl": "Jego wygląd.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds103": {
+        "en": "There's one thing I don't understand - if Mortuga didn't intend to [i]use[/i] the map, why did he keep it [i]around?[/i]",
+        "pl": "Jest jedna rzecz, której nie rozumiem - jeśli Mortuga nie zamierzał [i]używać[/i] mapy, czemu ją [i]zatrzymał?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds105": {
+        "en": "I don't suppose we'll ever find out-",
+        "pl": "Chyba się nigdy nie dowiemy-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds106": {
+        "en": "I think I know.",
+        "pl": "Chyba wiem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds107": {
+        "en": "...you do?",
+        "pl": "...naprawdę?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds108": {
+        "en": "Mhm. There's a good reason why Mortuga didn't want to follow the map.",
+        "pl": "Mhm. Jest dobry powód, dla którego Mortuga nie chciał podążyć za mapą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds108 Choice 1": {
+        "en": "He'd already followed it.",
+        "pl": "Już za nią podążył.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds108 Choice 2": {
+        "en": "He'd found out the map was a hoax.",
+        "pl": "Odkrył, że mapa to oszustwo.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds108 Choice 3": {
+        "en": "He'd decided it was too dangerous.",
+        "pl": "Uznał, że to zbyt niebezpieczne.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds108 Choice Question": {
+        "en": "Why wouldn't Mortuga want to follow the map?",
+        "pl": "Czemu Mortuga nie chciałby podążyć za mapą?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds111": {
+        "en": "He'd found out the map was a hoax.",
+        "pl": "Odkrył, że mapa to oszustwo.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds112": {
+        "en": "He'd decided it was too dangerous.",
+        "pl": "Uznał, że to zbyt niebezpieczne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds114": {
+        "en": "He'd already followed it.",
+        "pl": "Już za nią podążył.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds117": {
+        "en": "...what makes you say that?",
+        "pl": "...czemu tak mówisz?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds118": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds119": {
+        "en": "This is a film of Magnus Mortuga and a woman named Felicia Stonetop.",
+        "pl": "To film przedstawiający Magnusa Mortugę i kobietę imieniem Felicia Stonetop.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds12": {
+        "en": "I don't think think he looks... quite like he's supposed to?",
+        "pl": "Chyba nie wygląda... tak, jak powinien?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds120": {
+        "en": "They're talking about their plans to follow the map.",
+        "pl": "Rozmawiają o swoich planach podążenia za mapą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds122": {
+        "en": "Remarkable...",
+        "pl": "Niezwykłe...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds124": {
+        "en": "No - in fact, it's not a submarine at all.",
+        "pl": "Nie - w rzeczywistości to wcale nie jest łódź podwodna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds125": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds126": {
+        "en": "The ship was called the [i]Dearest Selena[/i], but it belonged to Felicia Stonetop.",
+        "pl": "Statek nazywał się [i]Dearest Selena[/i], ale należał do Felicii Stonetop.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds128": {
+        "en": "She was the Captain and Mortuga was her helmsman. See, he's at the top there, manning the wheel.",
+        "pl": "Ona była kapitanem, a Mortuga jej sternikiem. Widzisz, tam na górze, przy kole sterowym.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds129": {
+        "en": "You know, that's been on his desk since I arrived-",
+        "pl": "Wiecie, to stało na jego biurku, odkąd przybyłem-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds130": {
+        "en": "-and I [i]never once thought[/i] to ask him about it.",
+        "pl": "-i [i]ani razu nie przyszło mi do głowy[/i], żeby go o to zapytać.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds131": {
+        "en": "So, okay - we know they [h]intended[/h] to follow the map...",
+        "pl": "No dobra - wiemy, że [h]zamierzali[/h] podążyć za mapą...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds132": {
+        "en": "...but do we know if they actually [h]managed[/h] it?",
+        "pl": "...ale czy wiemy, czy faktycznie im się [h]udało?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds134": {
+        "en": "Good point. Making plans is one thing, but a successful expedition is quite another.",
+        "pl": "Słuszna uwaga. Planowanie to jedno, a udana wyprawa to zupełnie co innego.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds135": {
+        "en": "I can't be sure, but there was something we found here on the submarine...",
+        "pl": "Nie mogę być pewna, ale znaleźliśmy tu, na łodzi podwodnej, coś...",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds136": {
+        "en": "Something that suggests to me Mortuga actually [h]did[/h] reach the centre of the map.",
+        "pl": "Coś, co sugeruje mi, że Mortudze faktycznie [h]udało się[/h] dotrzeć do środka mapy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds137": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds14": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds140": {
+        "en": "What's [h]that[/h] got to do with it?",
+        "pl": "Co [h]to[/h] ma z tym wspólnego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds141": {
+        "en": "Oh yeah, look at that!\nI think you might be right.",
+        "pl": "O tak, spójrz na to!\nChyba masz rację.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds142": {
+        "en": "But why didn't he just tell me...?",
+        "pl": "Ale czemu po prostu mi nie powiedział...?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds144": {
+        "en": "Well, buoys are normally put in place to mark a position.",
+        "pl": "Cóż, boje zwykle umieszcza się, żeby oznaczyć pozycję.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds145": {
+        "en": "The position of something else in the ocean?",
+        "pl": "Pozycję czegoś innego w oceanie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds146": {
+        "en": "It has to be. Think about it-",
+        "pl": "Musi tak być. Pomyśl o tym-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds147": {
+        "en": "If the buoy wasn't attached to anything, then it would've floated away, making the map worthless.",
+        "pl": "Gdyby boja nie była do niczego przyczepiona, odpłynęłaby, przez co mapa byłaby bezwartościowa.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds148": {
+        "en": "It was only because it was attached to something [h]else[/h] at the time.",
+        "pl": "Została na miejscu tylko dlatego, że była wtedy przyczepiona do czegoś [h]innego[/h].",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds149": {
+        "en": "So - if they [i]found[/i] the buoy when they went to the centre of the map...",
+        "pl": "Czyli - jeśli [i]znaleźli[/i] boję, gdy dotarli do środka mapy...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds151": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds157": {
+        "en": "What did he find in the ocean that was such a big secret?",
+        "pl": "Co on znalazł w oceanie, co było taką wielką tajemnicą?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds158": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds159": {
+        "en": "Surely it wasn't just... [h]this?[/h] It hardly seems like anything at all...",
+        "pl": "Chyba to nie było tylko... [h]to?[/h] To ledwie coś przypomina...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds16": {
+        "en": "Now you mention it, they don't match at all.",
+        "pl": "Teraz, kiedy o tym mówisz, wcale do siebie nie pasują.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds160": {
+        "en": "What a thing to say, you've only just [i]met[/i] him!",
+        "pl": "Coś takiego powiedzieć, przecież dopiero co go [i]poznałaś![/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds163": {
+        "en": "Wait - was that filmed here on the submarine...?",
+        "pl": "Czekaj - to zostało nakręcone tutaj, na łodzi podwodnej...?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds165": {
+        "en": "Ha-[i]ha![/i] Have [i]at[/i] you! I've been looking forward to this part.",
+        "pl": "Ha-[i]ha![/i] No to [i]dawaj![/i] Czekałem na tę część.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds169": {
+        "en": "[i]Oh-[/i]\nRight.\nI'd forgotten you'd seen that.",
+        "pl": "[i]Ach-[/i]\nNo tak.\nZapomniałem, że to widzieliście.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds17": {
+        "en": "The one [i]you've[/i] got is a different shape... and it's made of wood.",
+        "pl": "Ten, który [i]ty[/i] masz, ma inny kształt... i jest zrobiony z drewna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds171": {
+        "en": "It's a record of service from your shop. Not the one here in the [i]submarine[/i], but the [i]real[/i] one in the town.",
+        "pl": "To zapis usługi z twojego sklepu. Nie tego tutaj, na [i]łodzi podwodnej[/i], ale tego [i]prawdziwego[/i] w mieście.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds173": {
+        "en": "I did.",
+        "pl": "Tak, zrobiłem to.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds175": {
+        "en": "Why?",
+        "pl": "Dlaczego?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds176": {
+        "en": "[i]Map interpreted by: Godrik Gripp. For customer: Magnus Mortuga.[/i]",
+        "pl": "[i]Mapę zinterpretował: Godrik Gripp. Dla klienta: Magnus Mortuga.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds178": {
+        "en": "Eh... it's all there in black and white, I suppose.",
+        "pl": "Eee... chyba wszystko jest tam napisane czarno na białym.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds179": {
+        "en": "Yes [i]indeed[/i] - some time ago, Mortuga came into my shop.",
+        "pl": "Tak, [i]rzeczywiście[/i] - jakiś czas temu Mortuga wszedł do mojego sklepu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds18": {
+        "en": "[h]This[/h] is what you're grilling me about?",
+        "pl": "[h]To[/h] jest to, o co mnie przypiekacie?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds180": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds181": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "?"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds182": {
+        "en": "It's marked with an X, but there's nothing in the way of coordinates-",
+        "pl": "Jest oznaczona krzyżykiem, ale nie ma żadnych współrzędnych-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds184": {
+        "en": "The problem was -afterwards, all my other work suddenly seemed... [i]banal.[/i] Hm!",
+        "pl": "Problem w tym, że -potem cała reszta mojej pracy nagle wydała się... [i]banalna.[/i] Hm!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds185": {
+        "en": "A disagreement? About [i]what?[/i] Where to take the [i]submarine?[/i]",
+        "pl": "Spór? O [i]co?[/i] O to, dokąd popłynąć [i]łodzią podwodną?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds186": {
+        "en": "[i]Interpret[/i] it?",
+        "pl": "[i]Zinterpretować[/i] ją?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds187": {
+        "en": "-nor are there any apparent [i]landmarks[/i] - given that it's just describing an area of ocean.",
+        "pl": "-ani żadnych widocznych [i]punktów orientacyjnych[/i] - w końcu opisuje po prostu obszar oceanu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds188": {
+        "en": "So - how did you work it out?",
+        "pl": "Więc - jak to rozgryzłeś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds19": {
+        "en": "Why [i]would[/i] the two canes look different though?",
+        "pl": "Ale czemu te dwie laski [i]miałyby[/i] w ogóle wyglądać inaczej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds19 Choice 1": {
+        "en": "Gripp made a new cane after arriving on the submarine.",
+        "pl": "Gripp zrobił nową laskę po przybyciu na łódź podwodną.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds19 Choice 2": {
+        "en": "The drawing of the original cane is inaccurate.",
+        "pl": "Rysunek oryginalnej laski jest niedokładny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds19 Choice 3": {
+        "en": "Gripp painted the original cane to look different.",
+        "pl": "Gripp pomalował oryginalną laskę, żeby wyglądała inaczej.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds19 Choice Question": {
+        "en": "Why does Gripp's current cane look different to the original?",
+        "pl": "Czemu obecna laska Grippa wygląda inaczej niż oryginalna?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds190": {
+        "en": "...it [i]grabbed me[/i], and it didn't let go. For two weeks, it was all I thought about.",
+        "pl": "...to mnie [i]wciągnęło[/i] i nie puszczało. Przez dwa tygodnie tylko o tym myślałem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds191": {
+        "en": "I was so focused on it I barely slept - easily the most thrilling job I'd ever taken on.",
+        "pl": "Byłem tak skupiony, że ledwie spałem - zdecydowanie najbardziej ekscytujące zlecenie, jakiego się kiedykolwiek podjąłem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds192": {
+        "en": "I even waived the payment - I couldn't in good conscience charge for something I'd enjoyed so much.",
+        "pl": "Nawet zrezygnowałem z zapłaty - nie mógłbym w spokoju sumienia liczyć sobie za coś, co sprawiło mi tyle radości.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds196": {
+        "en": "I began to daydream of that thrilling feeling - that pursuit of the unknown...",
+        "pl": "Zacząłem marzyć o tym ekscytującym uczuciu - o tym pościgu za nieznanym...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds197": {
+        "en": "Something [i]about[/i] that map, the mystery of it, the feeling of chasing down the unknown...",
+        "pl": "Coś [i]w[/i] tej mapie, jej tajemniczość, uczucie pogoni za nieznanym...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds198": {
+        "en": "It led me to eventually close up shop and head out in my balloon - on a voyage of my own...",
+        "pl": "Ostatecznie doprowadziło mnie to do zamknięcia sklepu i wyruszenia moim balonem - we własną podróż...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds199": {
+        "en": "Which, as you know, ended rather abruptly.",
+        "pl": "Która, jak wiecie, zakończyła się dość nagle.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds20": {
+        "en": "The drawing of the original cane is inaccurate.",
+        "pl": "Rysunek oryginalnej laski jest niedokładny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds200": {
+        "en": "Ah - but to be pulled from the ocean by [i]Magnus Mortuga himself[/i], and to find that [i]very same map[/i] laying on his desk...",
+        "pl": "Ach - ale zostać wyłowionym z oceanu przez [i]samego Magnusa Mortugę[/i] i znaleźć [i]dokładnie tę samą mapę[/i] leżącą na jego biurku...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds201": {
+        "en": "I asked him at [i]once[/i] if he'd ever followed the map to the coordinates... and he said he hadn't.",
+        "pl": "Zapytałem go [i]od razu[/i], czy kiedykolwiek podążył za mapą do tych współrzędnych... powiedział, że nie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds202": {
+        "en": "I was disappointed at first, but then I realised - we had the submarine, we could still go! Right now!",
+        "pl": "Na początku byłem rozczarowany, ale potem zdałem sobie sprawę - mieliśmy łódź podwodną, wciąż mogliśmy popłynąć! Zaraz teraz!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds203": {
+        "en": "He was very strong, you see.",
+        "pl": "Widzicie, był bardzo stanowczy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds204": {
+        "en": "He showed me the map and asked if I'd be able to interpret it for some voyage he was planning.",
+        "pl": "Pokazał mi mapę i zapytał, czy potrafiłbym ją zinterpretować na potrzeby jakiejś podróży, którą planował.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds205": {
+        "en": "My request denied, I soon found myself opening a new branch of Gripp's Emporium right here in the engine room.",
+        "pl": "Po odmowie mojej prośbie, wkrótce otworzyłem nową filię Emporium Grippa właśnie tutaj, w maszynowni.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds206": {
+        "en": "[i]Which[/i] -  of course, necessitated the construction of a new Cornelius Cane.",
+        "pl": "[i]Co[/i] - rzecz jasna, wymagało zbudowania nowego Corneliusa Cane'a.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds207": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds208": {
+        "en": "There's a [i]faint[/i] resemblance, I suppose... ",
+        "pl": "Jest [i]nikłe[/i] podobieństwo, jak sądzę... ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds21": {
+        "en": "Gripp made a new cane after arriving on the submarine.",
+        "pl": "Gripp zrobił nową laskę po przybyciu na łódź podwodną.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds210": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds211": {
+        "en": "...but aren't the - wheel spokes a fair bit [i]shorter[/i] than Cornelius?",
+        "pl": "...ale czy szprychy koła nie są sporo [i]krótsze[/i] niż Cornelius?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds212": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds213": {
+        "en": "Right.",
+        "pl": "No właśnie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds22": {
+        "en": "Gripp painted the original cane to look different.",
+        "pl": "Gripp pomalował oryginalną laskę, żeby wyglądała inaczej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds23": {
+        "en": "What a [h]damning[/h] accusation.",
+        "pl": "Cóż za [h]druzgocące[/h] oskarżenie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds24": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds25": {
+        "en": "Yes, I made a new cane, and yes, it's made of wood.",
+        "pl": "Tak, zrobiłem nową laskę, i tak, jest zrobiona z drewna.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds26": {
+        "en": "Where are you [h]going[/h] with this??",
+        "pl": "Do czego to [h]zmierza??[/h]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds26 Choice 1": {
+        "en": "Ask about where the wood came from.",
+        "pl": "Zapytaj, skąd wzięło się drewno.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds26 Choice 2": {
+        "en": "Ask about what happened to the original cane.",
+        "pl": "Zapytaj, co się stało z oryginalną laską.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds26 Choice 3": {
+        "en": "Ask about why Gripp wants a cane in the first place.",
+        "pl": "Zapytaj, czemu Gripp w ogóle chce mieć laskę.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds26 Choice Question": {
+        "en": "Gripp made a new wooden cane...",
+        "pl": "Gripp zrobił nową drewnianą laskę...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds28": {
+        "en": "What happened to the [i]original[/i] cane?",
+        "pl": "Co się stało z [i]oryginalną[/i] laską?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds29": {
+        "en": "I... left him at home - when I went off in my balloon.",
+        "pl": "Ja... zostawiłem go w domu - kiedy wyruszyłem moim balonem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds31": {
+        "en": "...I thought I ought to leave the trappings of the brand behind me, but it wasn't to be, clearly.",
+        "pl": "...pomyślałem, że powinienem zostawić za sobą atrybuty marki, ale najwyraźniej nie było mi to pisane.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds32": {
+        "en": "Why do you want a cane in the [i]first[/i] place?",
+        "pl": "Czemu [i]w ogóle[/i] chcesz mieć laskę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds33": {
+        "en": "Mr Gripp's [i]always[/i] had Cornelius Cane as his sidekick-",
+        "pl": "Pan Gripp [i]zawsze[/i] miał Corneliusa Cane'a jako swojego towarzysza-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds34": {
+        "en": "-it's an integral part of the branding for Mr Gripp's Emporium.",
+        "pl": "-to integralna część wizerunku Emporium Pana Grippa.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds35": {
+        "en": "Where did the [i]wood[/i] come from?",
+        "pl": "Skąd wzięło się [i]drewno?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds37": {
+        "en": "!!",
+        "pl": "!!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds40": {
+        "en": "I, uh...\nI forget.",
+        "pl": "Ja, yy...\nZapomniałem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds41": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds47": {
+        "en": "[i]Remarkable![/i] This is quite the revelation!",
+        "pl": "[i]Niezwykłe![/i] To doprawdy objawienie!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds50": {
+        "en": "Wait, you're saying you [i]didn't know[/i] the wood came from the wheel?",
+        "pl": "Czekaj, mówisz, że [i]nie wiedziałeś[/i], że drewno pochodzi z koła?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds51": {
+        "en": "Of course I didn't! Why would I know anything [h]about[/h] that?",
+        "pl": "Oczywiście, że nie! Skąd miałbym cokolwiek o tym [h]wiedzieć?[/h]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds51 Choice 1": {
+        "en": "Because you've also got the [i]rest[/i] of the broken wheel pieces.",
+        "pl": "Bo masz też [i]resztę[/i] połamanych kawałków koła.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds51 Choice 2": {
+        "en": "Because [i]you[/i] were the one who repaired the broken wheel.",
+        "pl": "Bo to [i]ty[/i] naprawiałeś złamane koło.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds51 Choice 3": {
+        "en": "Because you were the one who sold the [i]original wheel[/i] to Mortuga.",
+        "pl": "Bo to ty sprzedałeś Mortudze [i]oryginalne koło.[/i]",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds51 Choice Question": {
+        "en": "Why might Gripp know the wood came from the broken wheel?",
+        "pl": "Czemu Gripp mógłby wiedzieć, że drewno pochodzi ze złamanego koła?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds52": {
+        "en": "Because you were the one who sold the [i]original wheel[/i] to Mortuga.",
+        "pl": "Bo to ty sprzedałeś Mortudze [i]oryginalne koło.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds53": {
+        "en": "Because [i]you[/i] were the one who repaired the broken wheel.",
+        "pl": "Bo to [i]ty[/i] naprawiałeś złamane koło.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds54": {
+        "en": "Because you've also got the [i]rest[/i] of the broken wheel pieces.",
+        "pl": "Bo masz też [i]resztę[/i] połamanych kawałków koła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds55": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds57": {
+        "en": "So Gripp, I  have to ask - do you know anything about how the ship's wheel was broken?",
+        "pl": "Więc Gripp, muszę zapytać - wiesz coś o tym, jak zostało złamane koło sterowe?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds58": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "?"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds59": {
+        "en": "Yes, I was there when the wheel was broken.",
+        "pl": "Tak, byłem tam, kiedy koło zostało złamane.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds6": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds60": {
+        "en": "In fact, Mortuga and I... we, uh - we broke it.",
+        "pl": "Właściwie, Mortuga i ja... my, yy - my je złamaliśmy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds61": {
+        "en": "[h]You[/h] broke it?",
+        "pl": "[h]Wy[/h] je złamaliście?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds62": {
+        "en": "There'd been... a disagreement. It's nothing, really, not important-",
+        "pl": "Doszło do... nieporozumienia. To nic takiego, naprawdę, nieważne-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds63": {
+        "en": "I was... trying to take control of the wheel, and Mortuga [i]forcibly wrenched[/i] it out my grip.",
+        "pl": "Ja... próbowałem przejąć kontrolę nad kołem, a Mortuga [i]siłą wyrwał[/i] mi je z rąk.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds64": {
+        "en": "Wait - you tried to steer the submarine? Without permission?",
+        "pl": "Czekaj - próbowałeś sterować łodzią podwodną? Bez pozwolenia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds66": {
+        "en": "Something - like that...",
+        "pl": "Coś... w tym stylu...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds68": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds7": {
+        "en": "[i]...Cornelius?[/i] What about him?",
+        "pl": "[i]...Cornelius?[/i] A co z nim?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds7 Choice 1": {
+        "en": "His appearance.",
+        "pl": "Jego wygląd.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds7 Choice 2": {
+        "en": "His name.",
+        "pl": "Jego imię.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds7 Choice 3": {
+        "en": "His function.",
+        "pl": "Jego funkcja.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds7 Choice Question": {
+        "en": "What's weird about Cornelius Cane?",
+        "pl": "Co jest dziwnego w Corneliusie Cane?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds73": {
+        "en": "By employing every ounce of my skill. By working [i]harder[/i] than I'd ever worked.",
+        "pl": "Wykorzystując każdą odrobinę mojego kunsztu. Pracując [i]ciężej[/i], niż kiedykolwiek wcześniej.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds8": {
+        "en": "His name.",
+        "pl": "Jego imię.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds82": {
+        "en": "But Mortuga told me we would be doing no such thing.",
+        "pl": "Ale Mortuga powiedział mi, że nic takiego nie będziemy robić.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds83": {
+        "en": "In fact, we weren't to be navigating [h]anywhere.[/h]",
+        "pl": "Właściwie mieliśmy [h]nigdzie[/h] nie nawigować.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds84": {
+        "en": "Instead, he seemed insistant in hovering near the Silkwirm coast, like something was keeping him tethered to it.",
+        "pl": "Zamiast tego uparcie kręcił się w pobliżu wybrzeża Silkwirm, jakby coś trzymało go tam na uwięzi.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds87": {
+        "en": "So... you tried steering the submarine yourself?",
+        "pl": "Czyli... sam próbowałeś sterować łodzią podwodną?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds88": {
+        "en": "I'd convinced myself it was what Mortuga secretly wanted, even if he was refusing to admit it.",
+        "pl": "Przekonałem samego siebie, że to właśnie potajemnie chciał Mortuga, nawet jeśli nie chciał się do tego przyznać.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds89": {
+        "en": "I thought a little nudge might be just what he needed - get him out of his comfort zone, you know.",
+        "pl": "Pomyślałem, że mały impuls to może być dokładnie to, czego potrzebował - wyrwać go ze strefy komfortu, rozumiecie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds9": {
+        "en": "His function.",
+        "pl": "Jego funkcja.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds90": {
+        "en": "But as I've already admitted, it didn't go to plan.",
+        "pl": "Ale jak już przyznałem, nie poszło zgodnie z planem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds91": {
+        "en": "Mortuga came into the control room, we briefly fought, the wheel was broken, and that was it.",
+        "pl": "Mortuga wszedł do sterówki, przez chwilę się szarpaliśmy, koło się złamało i na tym koniec.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 05 SUSPICION/Section ds93": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ds203 Gripp 'He was very strong, you see.' -> 'Widzicie, był bardzo stanowczy.'",
+      "problem": "'Strong' przetlumaczone jako 'stanowczy' (w sensie odmowy), nie doslownie 'silny fizycznie' - kontekst (odmowa prosby) sugeruje to znaczenie, ale bez pelnego kontekstu otaczajacych linii nie mam 100% pewnosci."
+    }
+  ]
+}

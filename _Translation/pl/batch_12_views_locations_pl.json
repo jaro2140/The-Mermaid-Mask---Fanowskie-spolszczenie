@@ -1,0 +1,151 @@
+{
+  "_meta": {
+    "batch": "Views - pelna kategoria (31 terminow): Names (20, oficjalne nazwy lokacji na lodzi podwodnej pokazywane graczowi w UI/mapie) + Text (11, karty tytulowe segmentow w Parlor/Illusion Theatre - najpewniej ekran 'story so far'/recap). Zrobione w calosci na raz (nie per-scena jak Conversation), bo to zamkniety, maly slownik nazw lokacji uzywany pozniej w SETKACH linii dialogowych w calej grze - lepiej ustalic raz, spojnie, niz improwizowac ad-hoc przy kazdej scenie.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json (kategoria Views, 31/31 terminow)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "format_note": "en/pl w osobnych liniach (odswiezony uklad, 2026-07-24)."
+  },
+  "categories": {
+    "Views": {
+      "Views/Names/AftDeck": {
+        "en": "Aft Deck",
+        "pl": "Pokład Rufowy"
+      },
+      "Views/Names/Airlock": {
+        "en": "Airlock Grotto",
+        "pl": "Grota Śluzowa"
+      },
+      "Views/Names/Bilge": {
+        "en": "Bilge",
+        "pl": "Zęza"
+      },
+      "Views/Names/CabinetOfCuriosity": {
+        "en": "Cabinet of Curiosity",
+        "pl": "Gabinet Osobliwości"
+      },
+      "Views/Names/CaptainsCabin": {
+        "en": "Captain's Cabin",
+        "pl": "Kajuta Kapitana"
+      },
+      "Views/Names/CaptainsQuarters": {
+        "en": "Captain's Quarters",
+        "pl": "Kwatera Kapitańska"
+      },
+      "Views/Names/CargoHold": {
+        "en": "Cargo Hold",
+        "pl": "Ładownia"
+      },
+      "Views/Names/ChildsRoom": {
+        "en": "Child's Room",
+        "pl": "Pokój Dziecięcy"
+      },
+      "Views/Names/ControlRoom": {
+        "en": "Control Room",
+        "pl": "Sterownia"
+      },
+      "Views/Names/DirkWirman": {
+        "en": "Bunk Room",
+        "pl": "Kajuta Sypialna"
+      },
+      "Views/Names/DomeTank": {
+        "en": "Dome Tank",
+        "pl": "Zbiornik Kopułowy"
+      },
+      "Views/Names/DreamChamber": {
+        "en": "Dream Chamber",
+        "pl": "Komnata Snów"
+      },
+      "Views/Names/EngineRoom": {
+        "en": "Engine Room",
+        "pl": "Maszynownia"
+      },
+      "Views/Names/ForeDeck": {
+        "en": "Fore Deck",
+        "pl": "Pokład Dziobowy"
+      },
+      "Views/Names/IllusionTheatre": {
+        "en": "Illusion Theatre",
+        "pl": "Teatr Iluzji"
+      },
+      "Views/Names/MessHall": {
+        "en": "Mess Hall",
+        "pl": "Mesa"
+      },
+      "Views/Names/Parlor": {
+        "en": "Parlor",
+        "pl": "Salon"
+      },
+      "Views/Names/StonetopInn": {
+        "en": "The Stonetop Inn",
+        "pl": "Gospoda Stonetop"
+      },
+      "Views/Names/SymSinthia": {
+        "en": "Bunk Room",
+        "pl": "Kajuta Sypialna"
+      },
+      "Views/Names/TownSquare": {
+        "en": "Town Square",
+        "pl": "Rynek"
+      },
+      "Views/Text/IllusionTheatre/Text0": {
+        "en": "A Murderer...",
+        "pl": "Morderca..."
+      },
+      "Views/Text/IllusionTheatre/Text1": {
+        "en": "...and a Thief",
+        "pl": "...i Złodziej"
+      },
+      "Views/Text/Parlor/Text0": {
+        "en": "Initial",
+        "pl": "Wstępny"
+      },
+      "Views/Text/Parlor/Text1": {
+        "en": "Report",
+        "pl": "Raport"
+      },
+      "Views/Text/Parlor/Text2": {
+        "en": "The Mermaid's Tongue",
+        "pl": "Język Syreny"
+      },
+      "Views/Text/Parlor/Text3": {
+        "en": "The Third Person",
+        "pl": "Trzecia Osoba"
+      },
+      "Views/Text/Parlor/Text4": {
+        "en": "The Voyage aboard the Dearest Selena",
+        "pl": "Podróż na Pokładzie Dearest Selena"
+      },
+      "Views/Text/Parlor/Text5": {
+        "en": "The Creation of the Mortuga Submarine",
+        "pl": "Powstanie Łodzi Podwodnej Mortuga"
+      },
+      "Views/Text/Parlor/Text6": {
+        "en": "We were Nine Souls",
+        "pl": "Byliśmy Dziewięcioma Duszami"
+      },
+      "Views/Text/Parlor/Text7": {
+        "en": "The Murder of Magnus Mortuga",
+        "pl": "Morderstwo Magnusa Mortugi"
+      },
+      "Views/Text/Parlor/Text8": {
+        "en": "A Gathering of \nHapless Travellers",
+        "pl": "Zgromadzenie\nNieszczęsnych Podróżników"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Views/Names/ControlRoom vs dialog 'control room'",
+      "problem": "Oficjalna nazwa lokacji (ten wpis) to 'Sterownia' (bardziej formalny rejestr, jak na etykiecie/mapie), natomiast w dialogach (batch_11 ds14) postacie mowia potocznie 'sterowka' o tym samym miejscu. To swiadomy wybor - naturalne zroznicowanie rejestru (formalna etykieta vs potoczna mowa zalogi), analogicznie do polskiego jak marynarze faktycznie by mowili - ale do potwierdzenia w grze czy nie razi obok siebie."
+    },
+    {
+      "term": "Views/Names/CaptainsCabin vs CaptainsQuarters",
+      "problem": "Dwie osobne lokacje w oryginale ('Captain's Cabin' i 'Captain's Quarters') - prawdopodobnie kajuta osobista Mortugi vs. bardziej oficjalna/reprezentacyjna czesc kwatery kapitanskiej, ale nie potwierdzone w grze co dokladnie kazda z nich zawiera. Przetlumaczono jako 'Kajuta Kapitana' / 'Kwatera Kapitanska' zeby byly jednoznacznie odrozniane - do sprawdzenia czy ten podzial ma sens po zobaczeniu obu lokacji w grze."
+    },
+    {
+      "term": "Views/Text/Parlor/Text0-1 'Initial'/'Report'",
+      "problem": "Dwa osobne klucze I2Loc dla dwuslownego tytulu 'Initial Report' (wzorem Title/Art Gallery + Art Gallery 2 z batch_01, tam tez nierozwiazane). Przetlumaczono zachowujac ta sama kolejnosc slow (Text0='Wstepny', Text1='Raport') bez zamiany miejscami, mimo ze naturalniejszy polski szyk to 'Raport Wstepny' - unikniecie zamiany zeby nie powtorzyc niepewnosci z Art Gallery (gdzie nie wiadomo czy to dwie linie jednego napisu czy dwie niezalezne etykiety). Do sprawdzenia wizualnie w grze."
+    }
+  ]
+}

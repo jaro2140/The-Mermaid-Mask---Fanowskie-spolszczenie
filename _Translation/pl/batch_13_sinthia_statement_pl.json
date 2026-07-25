@@ -1,0 +1,259 @@
+{
+  "_meta": {
+    "batch": "Sinthia 04 STATEMENT (47 terminow) - kontynuacja luku Sinthii po batch_10/11 (INTRO+YOURSELF+MORTUGA SUBMARINE, 68/266). Sinthia skladajaca formalne zeznanie z nocy morderstwa Grimoire'owi i Sally.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 47/47 pokryte: Sinthia 37, Grimoire 6, Sally 4",
+    "character_voice": "Sinthia: mloda (18 lat), teatralna kapitan, ale w tej scenie skladajaca formalne zeznanie - wciaz duzo wtracen/jakania sie ('uh'->'yy'), ale ton bardziej opanowany niz w SUSPICION.",
+    "location_terms": "Uzyto nazewnictwa z batch_12 (Views): sterownia/sterowka (Control Room - formalna nazwa vs potoczna mowa, patrz VERIFICATION_QUEUE), pokład dziobowy/rufowy (Fore/Aft Deck), maszynownia (Engine Room), ładownia (Cargo Hold), salon (Parlor), magazyn (store/storage room - nie ma wlasnej pozycji w Views/Names, ustalone juz w batch_05/08)."
+  },
+  "categories": {
+    "Sinthia 04 STATEMENT": {
+      "Conversation/Sinthia 04 STATEMENT/Section ds101": {
+        "en": "...someone mentioned that Sym was the last person who'd seen Mortuga alive...",
+        "pl": "...ktoś wspomniał, że Sym była ostatnią osobą, która widziała Mortugę żywego...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds106": {
+        "en": "Everyone should've been asleep, but suddenly... we were surfacing.",
+        "pl": "Wszyscy powinni spać, ale nagle... zaczęliśmy się wynurzać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds107": {
+        "en": "My bunk room's in the bow, and I could feel it tilting up.",
+        "pl": "Moja kajuta jest na dziobie, więc poczułam, jak się unosi.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds108": {
+        "en": "I was gonna go check, but then I noticed Sym was wide awake, looking upset.",
+        "pl": "Miałam iść to sprawdzić, ale wtedy zauważyłam, że Sym w ogóle nie śpi i wygląda na zdenerwowaną.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds109": {
+        "en": "When I asked, she told me something had gone wrong with the new [i]magic act[/i] she'd set up.",
+        "pl": "Kiedy zapytałam, powiedziała, że coś poszło nie tak z nowym [i]numerem magicznym[/i], który przygotowała.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds11": {
+        "en": "She seemed to agree with that, so I left her and went up to the control room.",
+        "pl": "Wyglądało na to, że się zgodziła, więc zostawiłam ją i poszłam do sterówki.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds110": {
+        "en": "I told her she could always take it down, rework it, and then try it again later. ",
+        "pl": "Powiedziałam jej, że zawsze może to zdjąć, przerobić i spróbować jeszcze raz później. ",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds113": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds114": {
+        "en": "She wanted me to bring Gripp and everyone else and meet her outside the storage room upstairs.",
+        "pl": "Chciała, żebym przyprowadziła Grippa i resztę, i spotkała się z nią pod magazynem na górze.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds115": {
+        "en": "Did he agree to fix it for you?",
+        "pl": "Zgodził się to dla ciebie naprawić?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds116": {
+        "en": "Yeah... of course. He even said he had a bunch of [i]replacement needles[/i] he could try out.",
+        "pl": "Tak... jasne. Powiedział nawet, że ma sporo [i]zapasowych igieł[/i], które mógłby wypróbować.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds117": {
+        "en": "-and the three of us went up to the store room like Tadpole had asked.",
+        "pl": "-i we troje poszliśmy do magazynu, tak jak prosiła Tadpole.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds118": {
+        "en": "You went straight back to your room?",
+        "pl": "Poszłaś od razu do swojego pokoju?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds119": {
+        "en": "Uhh, no, I went back up to the control room first.",
+        "pl": "Yy, nie, najpierw wróciłam do sterówki.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds12": {
+        "en": "The control room was empty, but I could see we [i]had[/i] actually surfaced - so I went up onto the fore deck to check.",
+        "pl": "Sterówka była pusta, ale widziałam, że [i]rzeczywiście[/i] się wynurzyliśmy - więc poszłam sprawdzić na pokład dziobowy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds120": {
+        "en": "For what reason?",
+        "pl": "Z jakiego powodu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds121": {
+        "en": "I was wondering if Mortuga had left any instructions... or any paperwork - I wanted to read the captain's log, too.",
+        "pl": "Zastanawiałam się, czy Mortuga zostawił jakieś instrukcje... albo jakieś papiery - chciałam też przeczytać dziennik pokładowy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds122": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds123": {
+        "en": "Something tells me that's not the whole story.",
+        "pl": "Coś mi mówi, że to nie cała historia.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds124": {
+        "en": "If you have any other specific questions, I'll uh - field them separately.",
+        "pl": "Jeśli macie jakieś inne konkretne pytania, to yy - odpowiem na nie osobno.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds125": {
+        "en": "That's the whole statement, I swear!!",
+        "pl": "To całe moje zeznanie, przysięgam!!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds14": {
+        "en": "How could you tell?",
+        "pl": "Skąd mogłaś to wiedzieć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds15": {
+        "en": "When the submarine surfaces, the bow tilts up and the stern tilts down - and diving's the opposite.",
+        "pl": "Kiedy łódź podwodna się wynurza, dziób unosi się do góry, a rufa opada - a przy zanurzaniu jest odwrotnie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds17": {
+        "en": "The bow is the front.",
+        "pl": "Dziób to przód.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds18": {
+        "en": "I knew that!",
+        "pl": "Wiedziałem to!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds21": {
+        "en": "There wasn't anybody out there either.",
+        "pl": "Tam też nikogo nie było.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds27": {
+        "en": "I had this weird feeling and really didn't wanna go back to bed, so, I went back to the control room.",
+        "pl": "Miałam dziwne przeczucie i naprawdę nie chciałam wracać do łóżka, więc wróciłam do sterówki.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds30": {
+        "en": "I took a closer look at the control panel to see if I could work out why we might've surfaced...",
+        "pl": "Przyjrzałam się bliżej panelowi sterowania, żeby sprawdzić, czy uda mi się ustalić, dlaczego mogliśmy się wynurzyć...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds31": {
+        "en": "Suddenly, the readings all started to go haywire.",
+        "pl": "Nagle wszystkie wskazania oszalały.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds32": {
+        "en": "The ship's compass, the needle - it was... uh - malfunctioning.",
+        "pl": "Kompas statku, ta igła - była... yy - zepsuta.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds34": {
+        "en": "So, I... pulled it out of its socket.",
+        "pl": "Więc... wyjęłam ją z gniazda.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds35": {
+        "en": "Yeah, I, uh - figured it would need to be taken for repairs.",
+        "pl": "Tak, ja, yy - uznałam, że trzeba to oddać do naprawy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds49": {
+        "en": "So I left the control room, but bumped into Dr Zephyr in the parlor.",
+        "pl": "Więc wyszłam ze sterówki, ale wpadłam na doktora Zephyra w salonie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds50": {
+        "en": "He was carrying a little empty bottle made of green glass... I dunno why. I didn't ask.",
+        "pl": "Niósł taką małą, pustą buteleczkę z zielonego szkła... nie wiem po co. Nie pytałam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds6": {
+        "en": "I woke up when the submarine made an unscheduled maneuver...",
+        "pl": "Obudziłam się, kiedy łódź podwodna wykonała nieplanowany manewr...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds75": {
+        "en": "I went down the two ladders and towards the engine room - since I wanted Mr Gripp to take a look at the ship's compass.",
+        "pl": "Zeszłam po dwóch drabinach w stronę maszynowni - chciałam, żeby pan Gripp rzucił okiem na kompas statku.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds76": {
+        "en": "But then [i]Madam Tadpole[/i] appeared and called out to me.",
+        "pl": "Ale wtedy pojawiła się [i]Madam Tadpole[/i] i mnie zawołała.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds77": {
+        "en": "I went into the Engine Room and gave Mr Gripp the compass - I told him the needle would need replacing.",
+        "pl": "Weszłam do Maszynowni i dałam panu Grippowi kompas - powiedziałam mu, że igła wymaga wymiany.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds78": {
+        "en": "Anyway, then we went to the cargo hold to fetch Mariana Moon-",
+        "pl": "W każdym razie, potem poszliśmy do ładowni po Marianę Moon-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds8": {
+        "en": "I wondered if someone other than Mortuga might be at the wheel...",
+        "pl": "Zastanawiałam się, czy ktoś inny niż Mortuga mógł stać za sterem...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds80": {
+        "en": "We went down the corridor - the others were gathered outside the little room at the end...",
+        "pl": "Poszliśmy korytarzem - reszta zebrała się przed małym pokojem na końcu...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds81": {
+        "en": "I... looked through the crowd and saw Captain Mortuga, laying on his back. Dead.",
+        "pl": "Ja... spojrzałam przez tłum i zobaczyłam kapitana Mortugę, leżącego na plecach. Martwego.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds82": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds84": {
+        "en": "I didn't like where the conversation was heading, so I took Sym and left.",
+        "pl": "Nie podobało mi się, w jakim kierunku zmierzała ta rozmowa, więc zabrałam Sym i wyszłam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds88": {
+        "en": "Everyone was trying to work out what had happened...",
+        "pl": "Wszyscy próbowali dojść, co się właściwie stało...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia 04 STATEMENT/Section ds96": {
+        "en": "And... yeah. That's about it.",
+        "pl": "I... no. To by było na tyle.",
+        "speaker": "Sinthia"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Sinthia 04 STATEMENT/ds78 'cargo hold'",
+      "problem": "Pierwsze uzycie 'Cargo Hold' w dialogu (poza Views/Names z batch_12) - przetlumaczone jako 'ladownia' zgodnie z ustalona nazwa lokacji. Zdanie urywa sie w polowie ('-') wiec kontekst kontynuacji nieznany, do sprawdzenia przy nastepnej partii Sinthii (05 SUSPICION), gdzie prawdopodobnie wątek sie konczy."
+    },
+    {
+      "term": "Sinthia 04 STATEMENT/ds32 rodzaj 'it' (igla vs kompas)",
+      "problem": "'The ship's compass, the needle - it was malfunctioning' - zalozono ze 'it' odnosi sie do 'the needle' (igla, r.z.) nie 'compass' (kompas, r.m.), stad zenska forma 'byla zepsuta'. Gramatycznie obie interpretacje mozliwe w angielskim - do potwierdzenia w kontekscie sceny czy to na pewno igla byla uszkodzonym elementem (co potwierdza tez ds116 'replacement needles' z batch_11/Grippem)."
+    }
+  ]
+}

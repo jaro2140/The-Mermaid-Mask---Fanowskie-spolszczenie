@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "batch": "Tadpole 01 INTRO (13 terminow) - poczatek luku postaci Tadpole (Madam Tadpole). Kolejna postac po Symmetry.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 13/13 pokryte: Tadpole 8, Sally 4, Grimoire 1",
+    "character_voice": "Tadpole: pewna siebie, bezposrednia, zartobliwy/rzeczowy ton ('Great question', 'Go.', 'Yup') - twierdzi ze jest 'w polowie syrena' (zart - w rzeczywistosci tylko swietna plywaczka)."
+  },
+  "categories": {
+    "Tadpole 01 INTRO": {
+      "Conversation/Tadpole 01 INTRO/Section ds0": {
+        "en": "Hey.",
+        "pl": "Hej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds10": {
+        "en": "Great question.\n[h]Half[/h] mermaid.",
+        "pl": "Świetne pytanie.\nW [h]połowie[/h] syrena.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds12": {
+        "en": "The [h]top[/h] half - obviously.\nFrom the waist up? [i]All mermaid.[/i]",
+        "pl": "[h]Górna[/h] połowa - oczywiście.\nOd pasa w górę? [i]Cała syrena.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds13": {
+        "en": "...and as you can see I have the legs of an ordinary human woman.",
+        "pl": "...a jak widzicie, mam nogi zwykłej ludzkiej kobiety.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds14": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds15": {
+        "en": "Second question. Go.",
+        "pl": "Drugie pytanie. Dawaj.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds19": {
+        "en": "Who... [i]happens[/i] to be an olympic-level swimmer.",
+        "pl": "Która... [i]akurat[/i] jest pływaczką na poziomie olimpijskim.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds20": {
+        "en": "Ah.",
+        "pl": "Ach.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds22": {
+        "en": "An [i]ordinary[/i] human woman?",
+        "pl": "[i]Zwykłej[/i] ludzkiej kobiety?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds6": {
+        "en": "It's me, Madam Tadpole.\nYup, that's my name.",
+        "pl": "To ja, Madam Tadpole.\nTak, to moje imię.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds7": {
+        "en": "First question. Go.",
+        "pl": "Pierwsze pytanie. Dawaj.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds8": {
+        "en": "...uh-",
+        "pl": "...yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 01 INTRO/Section ds9": {
+        "en": "Are you a mermaid, or - what's the deal?",
+        "pl": "Jesteś syreną, czy - o co chodzi?",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

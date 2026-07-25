@@ -1,0 +1,595 @@
+{
+  "_meta": {
+    "batch": "Sinthia SUS X (9 scen, 112 terminow) - OSTATNIA partia scen 'SUS X' - konczy mechanike reakcji kazdego z 8 glownych podejrzanych na pozostalych (wszystkie 8 postaci x 9 scen = 72 sceny SUS X, teraz KOMPLETNE). Sinthia SUS Wirman ujawnia ze Wirman NIE urodzil sie w Silkwirm (mimo ze tam dorastal) i zrzekl sie dziedzictwa po bogatej rodzinie. Sinthia SUS Zephyr wprowadza nowy nierozwiazany watek: Zephyr trzyma jakies tajemnicze zwierze w Komnacie Snow i ma kontakty na czarnym rynku (info od Symmetry).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 112/112 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Sinthia: kontynuacja teatralnego/dramatycznego rejestru nastolatki (batch_10-11+13-15, batch_50)."
+  },
+  "categories": {
+    "Sinthia SUS Dirk": {
+      "Conversation/Sinthia SUS Dirk/Section ds8": {
+        "en": "Dirk's okay, I guess. I've not got a lot in [i]common[/i] with him...",
+        "pl": "Dirk jest w porządku, chyba. Nie mam z nim zbyt wiele [i]wspólnego...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds10": {
+        "en": "He grew up in a big, sunny city... I grew up in a little grey fishing town where it [i]literally[/i] never stops raining.",
+        "pl": "Dorastał w wielkim, słonecznym mieście... ja dorastałam w małym, szarym miasteczku rybackim, gdzie [i]dosłownie[/i] nigdy nie przestaje padać.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds13": {
+        "en": "I guess he's pretty [h]wealthy[/h] now, too - from his movie.",
+        "pl": "Zgaduję, że jest teraz też całkiem [h]bogaty[/h] - dzięki filmowi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds18": {
+        "en": "I dunno - I heard he didn't get paid that much [i]at all.[/i]",
+        "pl": "Nie wiem - słyszałam, że wcale nie zapłacili mu [i]zbyt wiele.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds19": {
+        "en": "Really.",
+        "pl": "Serio.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds20": {
+        "en": "I'll get my [i]violin[/i] out.\nI'm sure he's doing just fine.",
+        "pl": "Zaraz wyciągnę [i]skrzypce.[/i]\nJestem pewna, że radzi sobie w porządku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds23": {
+        "en": "...let's change the subject. I prefer to not speak ill of my crew behind their backs.",
+        "pl": "...zmieńmy temat. Wolę nie mówić źle o mojej załodze za ich plecami.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds24": {
+        "en": "I think Sinthia just remembered she's supposed to be the captain.",
+        "pl": "Chyba Sinthia właśnie sobie przypomniała, że ma być kapitanem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Dirk/Section ds26": {
+        "en": "Something about his contract... his agent...",
+        "pl": "Coś o jego kontrakcie... jego agencie...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Gripp": {
+      "Conversation/Sinthia SUS Gripp/Section ds0": {
+        "en": "I found out Mr Gripp wanted to be the submarine's [i]navigator[/i] at one stage - but Mortuga never allowed it.",
+        "pl": "Dowiedziałam się, że pan Gripp chciał w pewnym momencie zostać [i]nawigatorem[/i] łodzi podwodnej - ale Mortuga nigdy na to nie pozwolił.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds6": {
+        "en": "After I became captain, I half expected Gripp to come and ask about taking on the role.",
+        "pl": "Po tym, jak zostałam kapitanem, w połowie spodziewałam się, że Gripp przyjdzie i zapyta o objęcie tej roli.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds7": {
+        "en": "But he didn't?",
+        "pl": "Ale nie przyszedł?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds9": {
+        "en": "Would you have said [i]yes?[/i]",
+        "pl": "Czy powiedziałabyś [i]tak?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds10": {
+        "en": "Of [i]course[/i]. I've no idea why Mortuga didn't allow it, but Mr Gripp's [i]clearly[/i] an expert. I would've welcomed his help.",
+        "pl": "[i]Oczywiście.[/i] Nie mam pojęcia, czemu Mortuga na to nie pozwolił, ale pan Gripp jest [i]wyraźnie[/i] ekspertem. Chętnie przyjęłabym jego pomoc.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds17": {
+        "en": "I wonder why he didn't ask.",
+        "pl": "Ciekawe, czemu nie zapytał.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds18": {
+        "en": "I'd... guess he assumed Sinthia didn't [h]want[/h] any help.",
+        "pl": "Zgaduję... że założył, że Sinthia nie [h]chce[/h] żadnej pomocy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds19": {
+        "en": "Hmph. [i]Feedback duly noted.[/i]",
+        "pl": "Hmph. [i]Uwaga przyjęta do wiadomości.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds23": {
+        "en": "Sorry, Sinthia - but you do give off a kind of [i]'I can do everything by myself'[/i] vibe. Just a little.",
+        "pl": "Przepraszam, Sinthia - ale rzeczywiście emanujesz taką [i]'ja wszystko zrobię sama'[/i] energią. Tylko trochę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds27": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Gripp/Section ds28": {
+        "en": "??",
+        "pl": "??",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Moon": {
+      "Conversation/Sinthia SUS Moon/Section ds8": {
+        "en": "So, what - nobody's allowed on board without being [i]invited?[/i]",
+        "pl": "Więc, co - nikomu nie wolno wejść na pokład bez [i]zaproszenia?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds9": {
+        "en": "I have to assume she was invited?",
+        "pl": "Muszę założyć, że została zaproszona?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds10": {
+        "en": "Mariana Moon...? Eh. I've barely known her longer than [i]you[/i] have.",
+        "pl": "Mariana Moon...? Eh. Znam ją ledwie dłużej niż [i]wy.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds11": {
+        "en": "Do you know why she's on the [i]submarine?[/i]",
+        "pl": "Wiesz, czemu jest na [i]łodzi podwodnej?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds12": {
+        "en": "Naturally.",
+        "pl": "Oczywiście.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds13": {
+        "en": "Who invited [h]you?[/h]",
+        "pl": "Kto zaprosił [h]ciebie?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds14": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds15": {
+        "en": "Okay maybe I'm an exception-",
+        "pl": "Okej, może jestem wyjątkiem-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds16": {
+        "en": "You know, now that [h]you're[/h] captain, you could tell Mariana to leave if you don't like her.",
+        "pl": "Wiesz, teraz, kiedy [h]ty[/h] jesteś kapitanem, mogłabyś kazać Marianie odejść, jeśli jej nie lubisz.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds17": {
+        "en": "I think she's very... [i]interesting.[/i]",
+        "pl": "Myślę, że jest bardzo... [i]interesująca.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds19": {
+        "en": "Wow.",
+        "pl": "Wow.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds20": {
+        "en": "I never said I didn't like her!",
+        "pl": "Nigdy nie powiedziałam, że jej nie lubię!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Moon/Section ds24": {
+        "en": "-but Captain Mortuga granted me access, and - and he let me stay. So it amounts to the same thing.",
+        "pl": "-ale kapitan Mortuga udzielił mi dostępu, i - i pozwolił mi zostać. Więc to na to samo wychodzi.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Mortuga": {
+      "Conversation/Sinthia SUS Mortuga/Section ds0": {
+        "en": "When he let me into the submarine!",
+        "pl": "Kiedy wpuścił mnie na łódź podwodną!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds7": {
+        "en": "When did you first meet Mortuga?",
+        "pl": "Kiedy po raz pierwszy poznałaś Mortugę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds8": {
+        "en": "Oh. It's, just - you know, you're both from Silkwirm, I thought maybe you'd've run into him [i]before[/i] that.",
+        "pl": "Och. Po prostu - no wiesz, oboje jesteście z Silkwirm, myślałem, że może natknęłaś się na niego [i]wcześniej.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds9": {
+        "en": "My [i]parents[/i] did. I know that much.",
+        "pl": "Moi [i]rodzice[/i] tak. Tyle wiem.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds10": {
+        "en": "Uh, remind me-",
+        "pl": "Yy, przypomnij mi-",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds11": {
+        "en": "The harbormaster and the shipyard mechanic.",
+        "pl": "Kapitanat portu i mechaniczka stoczni.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds12": {
+        "en": "Ah. That tracks.",
+        "pl": "Ach. To się zgadza.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds13": {
+        "en": "So Mortuga lived an active life back then? He wasn't like a... [i]recluse?[/i]",
+        "pl": "Więc Mortuga prowadził wtedy aktywne życie? Nie był jakimś... [i]odludkiem?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds14": {
+        "en": "I don't think he's ever been [i]outgoing-[/i]",
+        "pl": "Nie sądzę, żeby kiedykolwiek był [i]towarzyski-[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds15": {
+        "en": "-but from what I gather he was very loyal to the few friends he [h]did[/h] have.",
+        "pl": "-ale z tego, co rozumiem, był bardzo lojalny wobec tych kilku przyjaciół, których [h]jednak[/h] miał.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds16": {
+        "en": "In fact, I'm pretty sure he was trying to reconnect with someone he once knew from the town.",
+        "pl": "Właściwie, jestem całkiem pewna, że próbował odnowić kontakt z kimś, kogo kiedyś znał z miasteczka.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds19": {
+        "en": "Who [i]was[/i] it? Did he say?",
+        "pl": "Kim [i]była[/i] ta osoba? Powiedział?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Mortuga/Section ds22": {
+        "en": "No. I never found out.",
+        "pl": "Nie. Nigdy się nie dowiedziałam.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Sinthia": {
+      "Conversation/Sinthia SUS Sinthia/Section ds6": {
+        "en": "Not [h]a[/h] submarine.\n[h]This[/h] submarine.",
+        "pl": "Nie [h]jakąś[/h] łodzią podwodną.\n[h]Tą[/h] łodzią podwodną.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds8": {
+        "en": "What about your mother?",
+        "pl": "A co z twoją matką?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds9": {
+        "en": "You said you're [i]eighteen?[/i] Where are your parents?",
+        "pl": "Mówiłaś, że masz [i]osiemnaście lat?[/i] Gdzie są twoi rodzice?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds11": {
+        "en": "My stepfather's still in Silkwirm. He's too stubborn to leave, even though the town's pretty much dead...",
+        "pl": "Mój ojczym wciąż jest w Silkwirm. Jest zbyt uparty, żeby wyjechać, mimo że miasteczko jest praktycznie martwe...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds12": {
+        "en": "The shipyard beneath the lighthouse. That's where [i]I[/i] lived, too.",
+        "pl": "Stocznia pod latarnią morską. Tam też [i]ja[/i] mieszkałam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds13": {
+        "en": "Sounds like it might've been an interesting [i]place[/i] to grow up.",
+        "pl": "Brzmi, jakby to mogło być interesujące [i]miejsce[/i] na dorastanie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds14": {
+        "en": "It used to be. Nowadays it's basically just a big pile of rust.",
+        "pl": "Kiedyś było. Teraz to w zasadzie tylko wielka kupa rdzy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds15": {
+        "en": "Where abouts-?",
+        "pl": "Gdzie dokładnie-?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds16": {
+        "en": "I'm sorry.",
+        "pl": "Przepraszam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds17": {
+        "en": "It's okay.",
+        "pl": "W porządku.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds18": {
+        "en": "So - Sinthia, why did you want to become captain of a submarine?",
+        "pl": "Więc - Sinthia, czemu chciałaś zostać kapitanem łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds20": {
+        "en": "Like I said - it's just the way it's meant to be.",
+        "pl": "Jak mówiłam - to po prostu jest tak, jak ma być.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Sinthia/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Sinthia SUS Symmetry": {
+      "Conversation/Sinthia SUS Symmetry/Section ds8": {
+        "en": "No?",
+        "pl": "Nie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds9": {
+        "en": "Uh - so, it's looking like Sym was the last person to see Mortuga alive.",
+        "pl": "Yy - więc, wygląda na to, że Sym była ostatnią osobą, która widziała Mortugę żywego.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds11": {
+        "en": "Sym's my best friend!",
+        "pl": "Sym jest moją najlepszą przyjaciółką!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds12": {
+        "en": "Well. That's nice.",
+        "pl": "Cóż. To miłe.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds14": {
+        "en": "She's really cool and weird and she knows [i]all[/i] kinds of stuff about illusions and magic and curses and psychics and haunted dolls-",
+        "pl": "Jest naprawdę fajna i dziwna i wie [i]wszystko[/i] o iluzjach i magii i klątwach i jasnowidzeniu i nawiedzonych lalkach-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds15": {
+        "en": "What a ringing endorsement...",
+        "pl": "Co za entuzjastyczna rekomendacja...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds16": {
+        "en": "Uh - curses?",
+        "pl": "Yy - klątwy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds17": {
+        "en": "Oh yeah, Sym's obsessed. She's convinced that [h]she's[/h] cursed, or even that she [h]is[/h] a curse.",
+        "pl": "O tak, Sym ma na tym punkcie obsesję. Jest przekonana, że [h]jest[/h] przeklęta, albo nawet że sama [h]jest[/h] klątwą.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds18": {
+        "en": "I dunno. This sounds like kind of an [i]unhealthy[/i] predisposition.",
+        "pl": "Nie wiem. To brzmi jak trochę [i]niezdrowe[/i] nastawienie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds19": {
+        "en": "Oh yeah, totally. I'm actually pretty worried about her... especially, since, [i]you know.[/i]",
+        "pl": "O tak, zdecydowanie. Właściwie to się o nią całkiem martwię... zwłaszcza, no wiecie, [i]sami wiecie.[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds20": {
+        "en": "They were both in that store room the evening he died - The Illusion Theatre?",
+        "pl": "Oboje byli w tym magazynie wieczorem, kiedy zginął - Teatrze Iluzji?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Symmetry/Section ds31": {
+        "en": "That's why she wears that locket.",
+        "pl": "Dlatego nosi ten medalion.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Tadpole": {
+      "Conversation/Sinthia SUS Tadpole/Section ds7": {
+        "en": "Madam Tadpole's so [i]cool[/i]. She's super strong and she can swim [h]super[/h] fast.",
+        "pl": "Madam Tadpole jest taka [i]fajna.[/i] Jest super silna i potrafi pływać [h]super[/h] szybko.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds9": {
+        "en": "She knows all about the different kinds of [h]fish?[/h]",
+        "pl": "Zna się na wszystkich różnych rodzajach [h]ryb?[/h]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds10": {
+        "en": "Wow.",
+        "pl": "Wow.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds11": {
+        "en": "And she can hold her breath underwater for like, [h]ages.[/h]",
+        "pl": "I potrafi wstrzymać oddech pod wodą przez, no, [h]wieki.[/h]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds12": {
+        "en": "Of course.",
+        "pl": "Oczywiście.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds13": {
+        "en": "I bet.",
+        "pl": "Założę się.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds14": {
+        "en": "Also, she's travelled the [i]world[/i] - she's had all these different [i]jobs[/i], met all these different [i]people...[/i]",
+        "pl": "A poza tym podróżowała po [i]świecie[/i] - miała te wszystkie różne [i]prace,[/i] poznała tych wszystkich różnych [i]ludzi...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds15": {
+        "en": "Well, she's a bit older than you.",
+        "pl": "Cóż, jest trochę starsza od ciebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds16": {
+        "en": "Yeah.\nI guess.",
+        "pl": "Tak.\nChyba.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Tadpole/Section ds19": {
+        "en": "I haven't done [i]any[/i] of that stuff...",
+        "pl": "Nie zrobiłam [i]niczego[/i] z tych rzeczy...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Wirman": {
+      "Conversation/Sinthia SUS Wirman/Section ds0": {
+        "en": "Mr Wirman?",
+        "pl": "Pan Wirman?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds6": {
+        "en": "Come to think of it, I don't actually think Wirman [h]was[/h] born in Silkwirm...",
+        "pl": "Teraz, kiedy o tym myślę, chyba Wirman [h]nie[/h] urodził się w Silkwirm...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds7": {
+        "en": "He just... really wanted to [h]meet[/h] him, I guess.",
+        "pl": "Po prostu... naprawdę chciał go [h]poznać,[/h] jak sądzę.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds10": {
+        "en": "Uhhh - I usually just try to stay out of his way. He's kinda grouchy.",
+        "pl": "Yyy - zwykle po prostu staram się nie wchodzić mu w drogę. Jest trochę zrzędliwy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds11": {
+        "en": "Did you know him before the submarine?",
+        "pl": "Znałaś go przed łodzią podwodną?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds12": {
+        "en": "No, no. He [h]did[/h] grow up in Silkwirm, but he lived up town in a big fancy house, and I, uh, didn't.",
+        "pl": "Nie, nie. [h]Rzeczywiście[/h] dorastał w Silkwirm, ale mieszkał w górnej części miasteczka, w wielkim, wystawnym domu, a ja, yy, nie.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds13": {
+        "en": "Born with a [i]silver spoon[/i] in his mouth, huh?",
+        "pl": "Urodzony ze [i]srebrną łyżeczką[/i] w ustach, co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds14": {
+        "en": "And, uh - I think he [h]might've[/h] mentioned something about disclaiming his inheritance?",
+        "pl": "I, yy - myślę, że [h]może[/h] wspomniał coś o zrzeczeniu się swojego spadku?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds15": {
+        "en": "I guess he wanted to make his [i]own[/i] money.",
+        "pl": "Zgaduję, że chciał zarabiać [i]własne[/i] pieniądze.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds16": {
+        "en": "Which, by all accounts, is exactly what he did after he left town and wrote that book.",
+        "pl": "Co, z tego, co wiadomo, dokładnie zrobił po tym, jak opuścił miasteczko i napisał tę książkę.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds17": {
+        "en": "So why would he need to come back?",
+        "pl": "Więc czemu miałby musieć wracać?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds19": {
+        "en": "Meet who?",
+        "pl": "Poznać kogo?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Wirman/Section ds20": {
+        "en": "Who else? Captain Mortuga! ",
+        "pl": "Kogo innego? Kapitana Mortugę! ",
+        "speaker": "Sinthia"
+      }
+    },
+    "Sinthia SUS Zephyr": {
+      "Conversation/Sinthia SUS Zephyr/Section ds0": {
+        "en": "I'm probably gonna have to draw up some rules on keeping [i]pets...[/i]",
+        "pl": "Chyba będę musiała ustalić jakieś zasady dotyczące trzymania [i]zwierząt domowych...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds7": {
+        "en": "It's not that I wanna [h]ban[/h] them - but, you know, maybe a rule about not keeping them secret?",
+        "pl": "Nie żebym chciała je [h]zakazać[/h] - ale, no wiecie, może zasadę o nietrzymaniu ich w tajemnicy?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds8": {
+        "en": "And, uh... what's this got to do with Zephyr?",
+        "pl": "I, yy... co to ma wspólnego z Zephyrem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds9": {
+        "en": "Oh. He - uh, I'm pretty sure he's keeping an animal in there. In his Dream Chamber.",
+        "pl": "Och. On - yy, jestem całkiem pewna, że trzyma tam jakieś zwierzę. W swojej Komnacie Snów.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds10": {
+        "en": "But you've not actually - [h]seen[/h] it.",
+        "pl": "Ale tak naprawdę - nie [h]widziałaś[/h] go.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds11": {
+        "en": "No. I heard him talking to it, though. Few times.",
+        "pl": "Nie. Ale słyszałam, jak do niego mówi. Parę razy.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds13": {
+        "en": "What kind of pet d'you think it is?",
+        "pl": "Jakim zwierzęciem, twoim zdaniem, jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds14": {
+        "en": "It could be anything.",
+        "pl": "Może być czymkolwiek.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds15": {
+        "en": "Black market...?",
+        "pl": "Czarny rynek...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds17": {
+        "en": "Ooh, wait. She told me not to tell anyone else.",
+        "pl": "Ooh, czekajcie. Kazała mi nikomu więcej nie mówić.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds18": {
+        "en": "Uh, forget I said that.",
+        "pl": "Yy, zapomnijcie, że to powiedziałam.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds19": {
+        "en": "Sure thing-",
+        "pl": "Jasne, jasne-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds22": {
+        "en": "I can see you writing it down!!",
+        "pl": "Widzę, że to zapisujesz!!",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Sinthia SUS Zephyr/Section ds23": {
+        "en": "Dr Zephyr's into some [i]pretty weird[/i] stuff - and he's got, like, black market connections. Sym was telling me about it.",
+        "pl": "Doktor Zephyr zajmuje się jakimiś [i]dość dziwnymi[/i] sprawami - i ma, no wiesz, kontakty na czarnym rynku. Sym mi o tym mówiła.",
+        "speaker": "Sinthia"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Sinthia SUS Zephyr - tajemnicze zwierze w Komnacie Snow",
+      "problem": "Nowy, niewyjasniony watek: Zephyr podobno trzyma jakies zwierze w tajemnicy w swojej Komnacie Snow i ma kontakty na czarnym rynku - do sledzenia czy zostanie to rozwiazane w innych partiach (mozliwe ze to Hex, heksapus z batch_43, ale Hex nie jest tajemnicą - do potwierdzenia czy to inny watek)."
+    }
+  ]
+}

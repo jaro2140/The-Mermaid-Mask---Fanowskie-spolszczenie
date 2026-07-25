@@ -1,0 +1,554 @@
+{
+  "_meta": {
+    "batch": "Sally Topic 12 ...and a Thief (108 terminow) - druga i ostatnia czesc mechaniki dedukcji Grimoire/Sally (po batch_48 'A Murderer...'), rekonstruujaca jak sprawca (Godrik, patrz batch_44-47) dostal sie do zamknietej Kajuty Kapitana i ukradl Jezyk Syreny z Kotla: przechylil lodz podwodna (recznie kolowrotem liny w Teatrze Iluzji, bez widocznosci co robi), zeby kluczyk w ksztalcie oka sturlal sie do kratki wentylacyjnej zezy, wszedl przez dziure w podlodze Kajuty Kapitana (pod biurkiem/dywanem) po linie Dzwonu.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 68/108 pokryte. Nieprzypisane (40): Request (15) + 4 Choice sety (ds47/ds50/ds64/ds78, po 4 kazdy plus Question) - standardowe 'Grimoire (domniemany)'/'Grimoire (opcja wyboru)'/'(naglowek wyboru)'.",
+    "terminology": "bilgewater smell -> zapach wody z zezy (nawiazuje do ustalonego terminu 'Bilge -> Zeza', GLOSSARY Lokacje)."
+  },
+  "categories": {
+    "Sally Topic 12 ...and a Thief": {
+      "Conversation/Sally Topic 12 ...and a Thief/Request Detail0": {
+        "en": "Which part is evidence of the submarine suddenly surfacing?",
+        "pl": "Który fragment jest dowodem na to, że łódź podwodna nagle wypłynęła na powierzchnię?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request Hint0": {
+        "en": "A clue found in the Control Room that's evidence of the submarine suddenly surfacing...",
+        "pl": "Trop znaleziony w Sterowni będący dowodem na to, że łódź podwodna nagle wypłynęła na powierzchnię...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request Hint1": {
+        "en": "A clue we found in the Control Room's control panel that's a record of the submarine suddenly surfacing...",
+        "pl": "Trop, który znaleźliśmy na panelu sterowania w Sterowni, będący zapisem tego, że łódź podwodna nagle wypłynęła na powierzchnię...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest1Hint0": {
+        "en": "How did Mortuga stop people from going into the Captain's Cabin?",
+        "pl": "Jak Mortuga uniemożliwił ludziom wejście do Kajuty Kapitana?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest1Hint1": {
+        "en": "How did Mortuga lock the door to stop people from going into the Captain's Cabin?",
+        "pl": "Jak Mortuga zamknął drzwi, żeby uniemożliwić ludziom wejście do Kajuty Kapitana?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest3Detail0": {
+        "en": "Which part was used to tilt the submarine?",
+        "pl": "Który element został użyty, żeby przechylić łódź podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest3Hint0": {
+        "en": "How did the culprit tilt the submarine?",
+        "pl": "Jak sprawca przechylił łódź podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest3Hint1": {
+        "en": "How did the culprit control the submarine to tilt it?",
+        "pl": "Jak sprawca sterował łodzią podwodną, żeby ją przechylić?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest4Hint0": {
+        "en": "Evidence to suggest the culprit couldn't see into the Illusion Theatre while they were manually turning the rope winch.",
+        "pl": "Dowód sugerujący, że sprawca nie widział wnętrza Teatru Iluzji, kiedy ręcznie kręcił wyciągarką linową.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest4Hint1": {
+        "en": "Something odd in the Illusion Theatre that suggests the culprit couldn't see into that room while they were manually turning the rope winch.",
+        "pl": "Coś dziwnego w Teatrze Iluzji sugerujące, że sprawca nie widział wnętrza tego pomieszczenia, kiedy ręcznie kręcił wyciągarką linową.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest6Hint0": {
+        "en": "An object found at the crime scene that's evidence of the submarine suddenly tilting...",
+        "pl": "Przedmiot znaleziony na miejscu zbrodni będący dowodem na to, że łódź podwodna nagle się przechyliła...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest6Hint1": {
+        "en": "An object we found on the floor of the crime scene that's evidence of the submarine suddenly tilting...",
+        "pl": "Przedmiot, który znaleźliśmy na podłodze miejsca zbrodni, będący dowodem na to, że łódź podwodna nagle się przechyliła...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest7Detail0": {
+        "en": "Which part is from the moon vial?",
+        "pl": "Który fragment pochodzi z fiolki moon?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest7Hint0": {
+        "en": "Where did the moon vial come from? We found a part of it that got left behind...",
+        "pl": "Skąd wzięła się fiolka moon? Znaleźliśmy jej fragment, który został pozostawiony...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitClueRequest7Hint1": {
+        "en": "Where did the moon vial come from? We found a part of it that got left behind in the Captain's Cabin...",
+        "pl": "Skąd wzięła się fiolka moon? Znaleźliśmy jej fragment, który został pozostawiony w Kajucie Kapitana...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitViewRequest0Hint0": {
+        "en": "If the culprit didn't use the Illusion Theatre bulkhead door, how did they access the crime scene?",
+        "pl": "Jeśli sprawca nie użył grodziowych drzwi Teatru Iluzji, jak dostał się na miejsce zbrodni?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Request exitViewRequest0Hint1": {
+        "en": "If the culprit didn't use the Illusion Theatre bulkhead door, surely they must have entered from above?",
+        "pl": "Jeśli sprawca nie użył grodziowych drzwi Teatru Iluzji, to chyba musiał wejść od góry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds100": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds101": {
+        "en": "They moved the whole [i]submarine[/i] - just for [i]that?[/i]",
+        "pl": "Poruszyli całą [i]łódź podwodną[/i] - tylko po [i]to?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds102": {
+        "en": "...which as we know, gave them access to the crime scene from above.",
+        "pl": "...co, jak wiemy, dało im dostęp do miejsca zbrodni od góry.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds103": {
+        "en": "-meaning they'd have to leave the Illusion Theatre with the Iron Bell [i]still lowered[/i] onto the Cauldron.",
+        "pl": "-co oznacza, że musieli opuścić Teatr Iluzji, zostawiając Żelazny Dzwon [i]wciąż opuszczony[/i] na Kocioł.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds106": {
+        "en": "-and lock the Captain's Cabin on their way out.",
+        "pl": "-i zamknąć Kajutę Kapitana, wychodząc.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds107": {
+        "en": "The culprit was strong enough to open the door.",
+        "pl": "Sprawca był wystarczająco silny, żeby otworzyć drzwi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds108": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds109": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds110": {
+        "en": "...aside from most of the suspects mentioning it in their statements?",
+        "pl": "...poza tym, że wspomniała o tym większość podejrzanych w swoich zeznaniach?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds111": {
+        "en": "Oh yeah...",
+        "pl": "O tak...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds112": {
+        "en": "Uh - the moon vial? How is [i]that[/i] evidence of the [i]submarine[/i] tilting?",
+        "pl": "Yy - fiolka moon? Jak [i]to[/i] jest dowodem na przechylenie [i]łodzi podwodnej?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds113": {
+        "en": "Oh [i]yeah[/i] - we found a part of it that got [i]left behind...[/i]",
+        "pl": "O [i]tak[/i] - znaleźliśmy jej fragment, który został [i]pozostawiony...[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds114": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds116": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds117": {
+        "en": "It makes sense if you know where it [i]came[/i] from.",
+        "pl": "Ma to sens, jeśli wiesz, skąd [i]się wzięła.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds118": {
+        "en": "Mortuga emptied the cauldron before he was killed.",
+        "pl": "Mortuga opróżnił kocioł, zanim został zabity.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds119": {
+        "en": "The culprit broke the door down.",
+        "pl": "Sprawca wyważył drzwi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds120": {
+        "en": "The culprit used air to blow the key.",
+        "pl": "Sprawca użył powietrza, żeby zdmuchnąć kluczyk.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds121": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds122": {
+        "en": "Right-?",
+        "pl": "No dobra-?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds123": {
+        "en": "It's the only way to explain it.",
+        "pl": "To jedyny sposób, żeby to wyjaśnić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds124": {
+        "en": "How did they get to the [i]cauldron?[/i] You mean - because the room was locked?",
+        "pl": "Jak dostał się do [i]kotła?[/i] Masz na myśli - bo pomieszczenie było zamknięte?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds125": {
+        "en": "Well, not [i]technically[/i] locked - but Mortuga turned the wheel to shut the bulkhead door from the inside.",
+        "pl": "Cóż, nie [i]technicznie[/i] zamknięte - ale Mortuga przekręcił koło, żeby zamknąć grodziowe drzwi od środka.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds126": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds127": {
+        "en": "Surely Mortuga would've made sure nobody could get [i]into[/i] the Captain's Cabin?",
+        "pl": "Mortuga na pewno upewniłby się, że nikt nie może dostać się [i]do[/i] Kajuty Kapitana?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds128": {
+        "en": "-he wouldn't want anyone wandering in and seeing that.",
+        "pl": "-nie chciałby, żeby ktokolwiek tam wszedł i to zobaczył.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds129": {
+        "en": "You think?",
+        "pl": "Myślisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds130": {
+        "en": "But how? I doubt Mortuga left it lying around, he probably took it with him.",
+        "pl": "Ale jak? Wątpię, żeby Mortuga zostawił go gdzieś na wierzchu, pewnie zabrał go ze sobą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds131": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds132": {
+        "en": "Did we, uh, have any [i]evidence[/i] for that...?",
+        "pl": "Czy mieliśmy, yy, jakiś [i]dowód[/i] na to...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds133": {
+        "en": "Yup.",
+        "pl": "Ano.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds138": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds139": {
+        "en": "The log card from the day of the murder - it shows the depth of the submarine...",
+        "pl": "Karta dziennika z dnia morderstwa - pokazuje głębokość łodzi podwodnej...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds140": {
+        "en": "It starts at 0 - that's when it's surfaced. Presumably that's when Mariana came on board.",
+        "pl": "Zaczyna się od 0 - wtedy jest wynurzona. Prawdopodobnie wtedy właśnie Mariana weszła na pokład.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds141": {
+        "en": "Right - well - I figured they just turned the rope winch [i]manually.[/i]",
+        "pl": "No dobra - cóż - pomyślałam, że po prostu przekręcili wyciągarkę linową [i]ręcznie.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds144": {
+        "en": "I'm sure you [i]could[/i] - even if it's not how you're [i]supposed[/i] to do it.",
+        "pl": "Jestem pewna, że [i]mógłbyś[/i] - nawet jeśli to nie jest sposób, w jaki [i]powinieneś[/i] to robić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds146": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds45": {
+        "en": "There's something I don't understand.",
+        "pl": "Jest coś, czego nie rozumiem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds46": {
+        "en": "Mortuga opened the cauldron in order to take something [i]out[/i], and that's when he was killed.",
+        "pl": "Mortuga otworzył kocioł, żeby coś z niego [i]wyjąć,[/i] i wtedy właśnie został zabity.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds47": {
+        "en": "So why was the cauldron [i]empty?[/i]",
+        "pl": "Więc czemu kocioł był [i]pusty?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds47 Choice 1": {
+        "en": "The culprit [i]stole[/i] the contents of the cauldron.",
+        "pl": "Sprawca [i]ukradł[/i] zawartość kotła.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds47 Choice 2": {
+        "en": "The cauldron was [i]always[/i] empty.",
+        "pl": "Kocioł [i]zawsze[/i] był pusty.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds47 Choice 3": {
+        "en": "Mortuga emptied the cauldron before he was killed.",
+        "pl": "Mortuga opróżnił kocioł, zanim został zabity.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds47 Choice Question": {
+        "en": "Why was the cauldron empty when we found it?",
+        "pl": "Czemu kocioł był pusty, kiedy go znaleźliśmy?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds48": {
+        "en": "The culprit [i]stole[/i] the contents of the cauldron.",
+        "pl": "Sprawca [i]ukradł[/i] zawartość kotła.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds49": {
+        "en": "-but how did they [i]get[/i] to it?",
+        "pl": "-ale jak się do niej [i]dostał?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds50": {
+        "en": "And he shut it [i]tight[/i] - probably as tight as he could - and by all accounts, he was pretty strong...",
+        "pl": "I zamknął je [i]mocno[/i] - prawdopodobnie tak mocno, jak potrafił - a z tego, co wiemy, był całkiem silny...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds50 Choice 1": {
+        "en": "The culprit was strong enough to open the door.",
+        "pl": "Sprawca był wystarczająco silny, żeby otworzyć drzwi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds50 Choice 2": {
+        "en": "The culprit broke the door down.",
+        "pl": "Sprawca wyważył drzwi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds50 Choice 3": {
+        "en": "The culprit didn't [i]need[/i] to use the bulkhead door.",
+        "pl": "Sprawca nie [i]musiał[/i] używać grodziowych drzwi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds50 Choice Question": {
+        "en": "Mortuga tightly shut the bulkhead door from the inside...",
+        "pl": "Mortuga mocno zamknął grodziowe drzwi od środka...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds51": {
+        "en": "They came in via the Captain's Cabin - you know, through the hole in the floor?",
+        "pl": "Weszli przez Kajutę Kapitana - no wiesz, przez dziurę w podłodze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds52": {
+        "en": "He had a key, he would've locked it!",
+        "pl": "Miał klucz, na pewno by je zamknął!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds53": {
+        "en": "Definitely - since he'd've rearranged it like [i]we[/i] just did - moving the desk and the rug to reveal the hole...",
+        "pl": "Zdecydowanie - bo musiałby to przestawić tak, jak [i]my[/i] właśnie zrobiliśmy - przesuwając biurko i dywan, żeby odsłonić dziurę...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds54": {
+        "en": "So the culprit would've needed the eyeball key...",
+        "pl": "Więc sprawca musiałby mieć kluczyk w kształcie oka...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds56": {
+        "en": "Yeah - I'm pretty sure Mortuga [i]did[/i] take the key into the Illusion Theatre.",
+        "pl": "Tak - jestem całkiem pewien, że Mortuga [i]rzeczywiście[/i] zabrał kluczyk do Teatru Iluzji.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds62": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds63": {
+        "en": "Remember how it smelled kinda weird? That's the [i]bilgewater smell.[/i]",
+        "pl": "Pamiętasz, że pachniało trochę dziwnie? To zapach [i]wody z zęzy.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds64": {
+        "en": "No - it didn't happen by accident.",
+        "pl": "Nie - to nie stało się przez przypadek.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds64 Choice 1": {
+        "en": "The culprit tilted the submarine.",
+        "pl": "Sprawca przechylił łódź podwodną.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds64 Choice 2": {
+        "en": "The culprit used a magnet.",
+        "pl": "Sprawca użył magnesu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds64 Choice 3": {
+        "en": "The culprit used air to blow the key.",
+        "pl": "Sprawca użył powietrza, żeby zdmuchnąć kluczyk.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds64 Choice Question": {
+        "en": "Why did the eyeball key roll across the floor and into the vent?",
+        "pl": "Czemu kluczyk w kształcie oka potoczył się po podłodze i wpadł do kratki wentylacyjnej?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds67": {
+        "en": "Making the submarine surface tilts the [i]front[/i] end up, and the [i]back[/i] end down...",
+        "pl": "Wynurzenie łodzi podwodnej przechyla [i]przód[/i] do góry, a [i]tył[/i] w dół...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds68": {
+        "en": "[i]Mortuga's blood[/i] - it pooled out first, but then started running down towards the bilge vent...",
+        "pl": "[i]Krew Mortugi[/i] - najpierw się rozlała, ale potem zaczęła spływać w stronę kratki zęzowej...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds69": {
+        "en": "It steadily goes down... but then later, it suddenly goes back [i]up[/i] again!",
+        "pl": "Stopniowo opada... ale potem nagle znowu idzie [i]w górę![/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds70": {
+        "en": "So the moon vial rolled right off Mortuga's desk and through the hole in the floor...",
+        "pl": "Więc fiolka moon stoczyła się z biurka Mortugi prosto przez dziurę w podłodze...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds71": {
+        "en": "Once the culprit had the key, they could let themselves into the Captain's Cabin...",
+        "pl": "Kiedy sprawca miał już kluczyk, mógł wejść do Kajuty Kapitana...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds72": {
+        "en": "They climbed down the rope, through the hole...",
+        "pl": "Zszedł po linie, przez dziurę...",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds73": {
+        "en": "Although, to get out - they'd need to climb back [i]up[/i] the bell rope.",
+        "pl": "Chociaż, żeby się wydostać - musiałby wspiąć się z powrotem [i]po[/i] linie dzwonu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds74": {
+        "en": "...and into this room - where they were free to take the contents of the cauldron for themselves.",
+        "pl": "...i do tego pomieszczenia - gdzie mógł swobodnie zabrać zawartość kotła dla siebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds77": {
+        "en": "...and after that, all they had to do was cover the hole back up with the rug and the desk.",
+        "pl": "...a potem musiał tylko z powrotem zakryć dziurę dywanem i biurkiem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds78": {
+        "en": "Anything else?",
+        "pl": "Coś jeszcze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds78 Choice 1": {
+        "en": "A phenomenon observed at the crime scene...",
+        "pl": "Zjawisko zaobserwowane na miejscu zbrodni...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds78 Choice 2": {
+        "en": "A clue found in the control room...",
+        "pl": "Trop znaleziony w sterowni...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds78 Choice 3": {
+        "en": "A clue found at the crime scene...",
+        "pl": "Trop znaleziony na miejscu zbrodni...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds78 Choice Question": {
+        "en": "Evidence that the submarine was surfaced shortly after the murder.",
+        "pl": "Dowód na to, że łódź podwodna wynurzyła się wkrótce po morderstwie.",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds79": {
+        "en": "The cauldron was [i]always[/i] empty.",
+        "pl": "Kocioł [i]zawsze[/i] był pusty.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds80": {
+        "en": "The culprit didn't [i]need[/i] to use that door.",
+        "pl": "Sprawca nie [i]musiał[/i] używać tych drzwi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds81": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds82": {
+        "en": "How?",
+        "pl": "Jak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds83": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds89": {
+        "en": "But then he died - in a [i]locked[/i] room. So how did someone [i]else[/i] get hold of it?",
+        "pl": "Ale wtedy zginął - w [i]zamkniętym[/i] pomieszczeniu. Więc jak ktoś [i]inny[/i] mógł się tym zawładnąć?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds92": {
+        "en": "-it fell into the bilge?",
+        "pl": "-wpadł do zęzy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds93": {
+        "en": "The culprit used a magnet.",
+        "pl": "Sprawca użył magnesu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds94": {
+        "en": "So the eyeball key just [i]happened[/i] to roll across the floor and into the vent?",
+        "pl": "Więc kluczyk w kształcie oka po prostu [i]przypadkiem[/i] potoczył się po podłodze i wpadł do kratki?",
+        "speaker": "Sally"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds95": {
+        "en": "The culprit tilted the submarine.",
+        "pl": "Sprawca przechylił łódź podwodną.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds96": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds97": {
+        "en": "A phenomenon observed at the crime scene...",
+        "pl": "Zjawisko zaobserwowane na miejscu zbrodni...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds98": {
+        "en": "A clue found in the control room...",
+        "pl": "Trop znaleziony w sterowni...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Sally Topic 12 ...and a Thief/Section ds99": {
+        "en": "A clue found at the crime scene...",
+        "pl": "Trop znaleziony na miejscu zbrodni...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,190 @@
+{
+  "_meta": {
+    "batch": "Dirk 04 STATEMENT (34 terminow) - kontynuacja luku Dirka po batch_18 (63/244). Dirk skladajacy zeznanie z nocy morderstwa: kolejnosc w jakiej zaloga zbierala sie przy magazynie, zepsuty zegarek, dziwne zachowanie Wirmana (gapienie sie/'zapamietywanie') i tajemnicza postac plywajaca za oknem lodzi.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 34/34 pokryte: Dirk 30, Grimoire 2, Sally 2",
+    "character_voice": "Dirk: jak w batch_16-18 - potoczny, 'no wiesz', 'yy'. 'bad vibes' -> 'zle wibracje' (wspolczesny kalka jezykowa naturalna w mlodziezowym PL, spojna z jego rejestrem).",
+    "continuity_note": "ds116-119 zepsuty zegarek (wskazowki 'wskazujace we wszystkich kierunkach naraz') brzmi analogicznie do zepsutego kompasu z zeznania Sinthii (batch_13 ds30-35) - mozliwy watek/echo do sledzenia w kolejnych partiach."
+  },
+  "categories": {
+    "Dirk 04 STATEMENT": {
+      "Conversation/Dirk 04 STATEMENT/Section ds100": {
+        "en": "Yeah - Wirman and I left our room, went through the mess hall, and towards the store room at the end.",
+        "pl": "Tak - Wirman i ja wyszliśmy z naszego pokoju, przeszliśmy przez Mesę i w stronę magazynu na końcu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds102": {
+        "en": "It was unlocked. Sym was standing in the doorway...",
+        "pl": "Było otwarte. Sym stała w progu...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds103": {
+        "en": "I tried to help Sym, you know - pull her away.",
+        "pl": "Próbowałem pomóc Sym, no wiesz - odciągnąć ją.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds105": {
+        "en": "Although, I don't think he noticed the person outside.",
+        "pl": "Chociaż, nie sądzę, żeby zauważył tę osobę na zewnątrz.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds106": {
+        "en": "Luckily Tadpole showed up a short while later, and she kinda took charge.",
+        "pl": "Na szczęście Tadpole pojawiła się chwilę później i jakby przejęła dowodzenie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds107": {
+        "en": "...Gripp and Sinthia showed up next...",
+        "pl": "...potem pojawili się Gripp i Sinthia...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds108": {
+        "en": "...then Mariana...",
+        "pl": "...potem Mariana...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds109": {
+        "en": "...then Zephyr.",
+        "pl": "...potem Zephyr.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds110": {
+        "en": "Tadpole wanted to know what had happened, but nobody had any answers for her.",
+        "pl": "Tadpole chciała wiedzieć, co się stało, ale nikt nie miał dla niej żadnych odpowiedzi.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds111": {
+        "en": "Sym and Sinthia left first...",
+        "pl": "Sym i Sinthia wyszły pierwsze...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds112": {
+        "en": "...then Wirman...",
+        "pl": "...potem Wirman...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds113": {
+        "en": "So - yeah, I went back to my room.",
+        "pl": "Więc - tak, wróciłem do swojego pokoju.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds114": {
+        "en": "...then me and Mariana - we left around the same time.",
+        "pl": "...potem ja i Mariana - wyszliśmy mniej więcej w tym samym czasie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds115": {
+        "en": "And, uh... you know that's all I got.",
+        "pl": "I, yy... no wiesz, to wszystko, co mam.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds116": {
+        "en": "-at some point, I got curious what time it was, so I looked at my watch.",
+        "pl": "-w pewnym momencie zaciekawiło mnie, która jest godzina, więc spojrzałem na zegarek.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds118": {
+        "en": "But as I was looking at it, it freaked out, the hands moving all over...",
+        "pl": "Ale kiedy na niego patrzyłem, zwariował, wskazówki latały gdzie popadnie...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds119": {
+        "en": "...like they were trying to point in all directions at once - if that makes any sense?",
+        "pl": "...jakby próbowały wskazywać we wszystkich kierunkach naraz - jeśli to ma jakiś sens?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds120": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds124": {
+        "en": "[i]Wirman[/i], though - he just stood there, staring. Didn't look away once.",
+        "pl": "[i]Wirman[/i] jednak - po prostu tam stał, gapiąc się. Ani razu nie odwrócił wzroku.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds125": {
+        "en": "It was like he was trying to commit it to memory or something...",
+        "pl": "Wyglądało, jakby próbował to sobie wryć w pamięć, czy coś...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds126": {
+        "en": "It woke Wirman up, too.",
+        "pl": "To też obudziło Wirmana.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds128": {
+        "en": "Mortuga was on the floor, totally dead.",
+        "pl": "Mortuga leżał na podłodze, kompletnie martwy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds129": {
+        "en": "Sorry, what?",
+        "pl": "Przepraszam, co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds130": {
+        "en": "Outside the submarine. I saw someone swim down past the window.",
+        "pl": "Na zewnątrz łodzi. Widziałem, jak ktoś przepływa obok okna.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds131": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds132": {
+        "en": "I wasn't sure [h]what[/h] to do, to be honest.",
+        "pl": "Szczerze mówiąc, nie byłem pewien, [h]co[/h] robić.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds133": {
+        "en": "Okay... what did you do next?",
+        "pl": "Okej... co zrobiłeś dalej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds134": {
+        "en": "Couldn't tell who it was, though.",
+        "pl": "Nie umiałem jednak powiedzieć, kto to był.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds135": {
+        "en": "It was bad vibes all around.",
+        "pl": "Wszędzie było czuć złe wibracje.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds136": {
+        "en": "Wirman was there already - he'd gone straight back to work.",
+        "pl": "Wirman już tam był - od razu wrócił do pracy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds137": {
+        "en": "Can I - stop talking now?",
+        "pl": "Czy mogę - już przestać mówić?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds97": {
+        "en": "I got woken up when the submarine did a weird kinda movement - like a sudden tilt.",
+        "pl": "Obudziłem się, kiedy łódź zrobiła jakiś dziwny ruch - jakby nagle się przechyliła.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds98": {
+        "en": "So, yeah, we were both sitting there, [i]awake[/i], not sure what's going on-",
+        "pl": "Więc, no, oboje tam siedzieliśmy, [i]rozbudzeni[/i], nie wiedząc, co się dzieje-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 04 STATEMENT/Section ds99": {
+        "en": "Anyway, I didn't have any more time to think about it - since then we heard this scream.",
+        "pl": "W każdym razie, nie miałem więcej czasu, żeby się nad tym zastanawiać - bo zaraz usłyszeliśmy ten krzyk.",
+        "speaker": "Dirk"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Dirk 04 STATEMENT/ds130 'someone swim down past the window'",
+      "problem": "Dirk twierdzi ze widzial kogos plywajacego za oknem lodzi podwodnej w noc morderstwa - potencjalnie istotny trop/podejrzany. Przetlumaczone doslownie, zaden kontekst nie precyzuje kim byla ta osoba w tej partii - do sledzenia w kolejnych zeznaniach czy watek wraca."
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "_meta": {
+    "batch": "Dirk 05 SUSPICION (147 terminow) - najwieksza partia postaci pobocznej jak dotad, konczy luk Dirka (244/244). Kluczowy twist fabularny: nagranie z 'Pipe' (rura glosowa) to NIE plan prawdziwego morderstwa, tylko rozmowa Dirka z autorem J.D. Wirmanem o 'zabiciu' (zakonczeniu watku) fikcyjnej postaci Markus Mordoom, ktora Dirk gra w filmie 'Hex of the Helmsman'/'Klatwa Sternika'. Potwierdza wczesniejsza niepewnosc z batch_17 (Markus Mordoom = pseudonim/postac zwiazana z Wirmanem).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 126/147 pokryte (Dirk 49, Grimoire 40, Sally 30, Pipe 7). 21 nieprzypisanych to mechanika Request/Choice - oznaczone wzorem z batch_04/14 ('Grimoire (domniemany)' / 'Grimoire (opcja wyboru)' / '(naglowek wyboru)').",
+    "character_voice": "Dirk: jak w batch_16-19. 'Pipe' (7 kwestii, ds11/76/147-151): przetlumaczone BEZPLCIOWO zgodnie z zasada z GLOSSARY (rura glosowa = nieujawniona tozsamosc) - w tej scenie prawdopodobnie glos Wirmana (rozmowa o ksiazkach/postaci), ale to nadal DEDUKCJA gracza w toku sceny, nie potwierdzony fakt, wiec tlumaczenie nie zdradza plci.",
+    "duplicate_consistency": "Zidentyfikowano i przetlumaczono identycznie wszystkie doslowne powtorzenia tekstu w zrodle: ds119=ds138 ('...'), ds13=ds53=ds62 (7 kropek), ds36=ds63=ds92 ('[Present Clue] Cell Phone'), ds78 Choice1=ds82, ds78 Choice2=ds143, ds78 Choice3=ds142, ds84 Choice1=ds89, ds84 Choice2=ds145, ds84 Choice3=ds144, ds147=ds149, ds148=ds150 - zweryfikowane skryptem przed zapisem.",
+    "new_terms": "Wooden Pipe (nazwa dowodu) -> 'Drewniana Rura' (dopisac do GLOSSARY - pierwsza formalna nazwa dowodu 'Pipe'). Cell Phone -> 'Telefon Komorkowy'. Movie Magazine -> 'Magazyn Filmowy'. Strange Device -> 'Dziwne Urzadzenie'. Nowe postacie: Vincent Van De Peer (producent filmowy z Wit and Whimsy), miasteczko/lokacja 'Silkwirm' (skad pochodzi Wirman, zwiazane tez z 'Silkwirm-on-sea'/'Silkwirm nad Morzem' z batch_14 i klucza 'Sinthia CLUE SilkwirmMap')."
+  },
+  "categories": {
+    "Dirk 05 SUSPICION": {
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest0Detail0": {
+        "en": "Which part suggests Dirk has been planning to kill someone?",
+        "pl": "Który fragment sugeruje, że Dirk planował kogoś zabić?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Do we have evidence to suggest Dirk has been planning to kill someone?",
+        "pl": "Czy mamy dowód na to, że Dirk planował kogoś zabić?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Do we have audio evidence to suggest Dirk has been planning to kill someone?",
+        "pl": "Czy mamy dowód dźwiękowy na to, że Dirk planował kogoś zabić?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "How does Dirk contact people outside the submarine?",
+        "pl": "Jak Dirk kontaktuje się z ludźmi poza łodzią podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "What device would Dirk use to contact people outside the submarine?",
+        "pl": "Jakiego urządzenia Dirk używałby do kontaktu z ludźmi poza łodzią podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "Which part shows the correspondance between Dirk and Mr Van De Peer?",
+        "pl": "Który fragment pokazuje korespondencję między Dirkiem a panem Van De Peerem?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "Which part suggests Dirk might have wanted to take other acting jobs?",
+        "pl": "Który fragment sugeruje, że Dirk mógł chcieć przyjmować inne role aktorskie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "Did we learn anything about Dirk's contract with the movie studio?",
+        "pl": "Czy dowiedzieliśmy się czegoś o kontrakcie Dirka z wytwórnią filmową?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "Did we read an interview referencing Dirk's contract with the movie studio?",
+        "pl": "Czy czytaliśmy wywiad wspominający o kontrakcie Dirka z wytwórnią filmową?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds0": {
+        "en": "Tell me, Dirk - have you ever been involved in the planning... of a [h]murder?[/h]",
+        "pl": "Powiedz mi, Dirk - czy kiedykolwiek brałeś udział w planowaniu... [h]morderstwa?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds10": {
+        "en": "[Present Clue]\nWooden Pipe",
+        "pl": "[Present Clue]\nDrewniana Rura",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds100": {
+        "en": "Eh. A little from column A, a little from column B.",
+        "pl": "Eh. Trochę jedno, trochę drugie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds101": {
+        "en": "You said yourself - the studio wanted to make at least three more Markus Mordoom movies.",
+        "pl": "Sam powiedziałeś - wytwórnia chciała zrobić co najmniej trzy kolejne filmy o Markusie Mordoomie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds102": {
+        "en": "So you're stuck in that lousy contract for several years...",
+        "pl": "Więc utknąłeś w tym kiepskim kontrakcie na kilka lat...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds103": {
+        "en": "So... if Wirman kills off the character in the books - that would stop the studio making more movies...?",
+        "pl": "Więc... jeśli Wirman zabije tę postać w książkach - to powstrzymałoby wytwórnię przed robieniem kolejnych filmów...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds104": {
+        "en": "I'm not convinced that would actually [h]work,[/h] but okay.",
+        "pl": "Nie jestem przekonana, że to by naprawdę [h]zadziałało,[/h] ale okej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds105": {
+        "en": "The point is, now that I'm a known actor, I could be making more money with a different studio. A [h]lot[/h] more.",
+        "pl": "Chodzi o to, że teraz, kiedy jestem znanym aktorem, mógłbym zarabiać więcej u innej wytwórni. [h]Dużo[/h] więcej.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds107": {
+        "en": "But I [h]can't[/h] let it get out that I wanted the Mordoom character to be killed off.",
+        "pl": "Ale [h]nie mogę[/h] pozwolić, żeby wyszło na jaw, że chciałem, żeby postać Mordooma zginęła.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds108": {
+        "en": "Everyone's gonna take it the wrong way. They'll call me... greedy... and ungrateful...",
+        "pl": "Wszyscy to źle zrozumieją. Nazwą mnie... chciwym... i niewdzięcznym...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds11": {
+        "en": "Hey. Listen. Why don't we just kill him?\n\n",
+        "pl": "Hej. Słuchaj. Czemu po prostu go nie zabijemy?\n\n",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds113": {
+        "en": "Look, you gotta understand, killing off Mordoom isn't just about me.",
+        "pl": "Słuchajcie, musicie zrozumieć, zabicie Mordooma to nie chodzi tylko o mnie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds114": {
+        "en": "He's not enjoying writing the books anymore.",
+        "pl": "On już nie czerpie przyjemności z pisania tych książek.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds115": {
+        "en": "The whole thing became just this awful burden.",
+        "pl": "Całość stała się po prostu okropnym ciężarem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds116": {
+        "en": "Hm...",
+        "pl": "Hm...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds117": {
+        "en": "And hey, besides... you know-",
+        "pl": "I hej, poza tym... no wiesz-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds119": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds12": {
+        "en": "So, uh... who are you planning to kill, Dirk?",
+        "pl": "Więc, yy... kogo planujesz zabić, Dirk?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds120": {
+        "en": "You know, those guys who pay your salary?",
+        "pl": "No wiesz, ci goście, którzy płacą ci pensję?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds121": {
+        "en": "So, they sent me to keep an eye on him. Maybe even - steer him in the right direction a little bit.",
+        "pl": "Więc wysłali mnie, żebym miał na niego oko. Może nawet - trochę pokierował nim we właściwą stronę.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds122": {
+        "en": "The person you're talking to in the recording must be Wirman-",
+        "pl": "Osoba, z którą rozmawiasz na nagraniu, musi być Wirmanem-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds123": {
+        "en": "-you're suggesting he should kill off the Mordoom character in his next book.",
+        "pl": "-sugerujesz, że powinien zabić postać Mordooma w swojej następnej książce.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds124": {
+        "en": "...and you ended up with a bad deal.",
+        "pl": "...i wyszedłeś na tym na kiepskim interesie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds125": {
+        "en": "Possibly just because you didn't have much negotiating power - since you weren't famous yet.",
+        "pl": "Może po prostu dlatego, że nie miałeś dużej siły przetargowej - bo jeszcze nie byłeś sławny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds126": {
+        "en": "...unless you can somehow ensure the next movie is the last one.",
+        "pl": "...chyba że jakoś zapewnisz, żeby następny film był ostatnim.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds128": {
+        "en": "A way out...?",
+        "pl": "Sposób na wyjście...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds129": {
+        "en": "I was also trying to help Wirman - he's been looking for a way out too.",
+        "pl": "Próbowałem też pomóc Wirmanowi - on też szukał sposobu, żeby się z tego wyplątać.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds13": {
+        "en": ".......",
+        "pl": ".......",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds130": {
+        "en": "I'm sure he'd be happier if he could just - be done with it.",
+        "pl": "Jestem pewien, że byłby szczęśliwszy, gdyby mógł po prostu - mieć to z głowy.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds131": {
+        "en": "Uh - maybe killing the main character would actually make for an [i]interesting[/i] story. D'you ever consider that?",
+        "pl": "Yy - może zabicie głównego bohatera faktycznie dałoby [i]ciekawą[/i] historię. Rozważałeś to kiedyś?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds132": {
+        "en": "[Present Clue]\nMovie Magazine",
+        "pl": "[Present Clue]\nMagazyn Filmowy",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds133": {
+        "en": "...we might just have to assume this is a recording of you planning to kill [h]Magnus Mortuga.[/h]",
+        "pl": "...możemy chyba po prostu założyć, że to nagranie, na którym planujesz zabić [h]Magnusa Mortugę.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds134": {
+        "en": "I figured, surely meeting the real Mortuga would help with my portrayal of [i]Mordoom[/i] in the next movie.",
+        "pl": "Pomyślałem, że spotkanie z prawdziwym Mortugą na pewno pomoże mi zagrać [i]Mordooma[/i] w następnym filmie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds135": {
+        "en": "So, he set me up with a way to turn my cell phone into a kinda... heavy duty satellite phone.",
+        "pl": "Więc załatwił mi sposób, żeby zmienić mój telefon komórkowy w coś w rodzaju... wypasionego telefonu satelitarnego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds137": {
+        "en": "Hang on.",
+        "pl": "Czekaj.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds138": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds139": {
+        "en": "In fact, I don't think it was your own idea at all.",
+        "pl": "Właściwie to nie sądzę, żeby to był w ogóle twój własny pomysł.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds14": {
+        "en": "Sorry. But I can't tell you.",
+        "pl": "Przepraszam. Ale nie mogę wam powiedzieć.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds140": {
+        "en": "That's because you didn't pay your network bill in a timely manner.",
+        "pl": "To dlatego, że nie zapłaciłeś na czas rachunku za sieć.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds141": {
+        "en": "That's because your phone is broken.",
+        "pl": "To dlatego, że twój telefon jest zepsuty.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds142": {
+        "en": "J.D. Wirman, the author.",
+        "pl": "J.D. Wirman, autor.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds143": {
+        "en": "Vincent Van De Peer, the movie producer.",
+        "pl": "Vincent Van De Peer, producent filmowy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds144": {
+        "en": "You want to quit acting and become a writer.",
+        "pl": "Chcesz rzucić aktorstwo i zostać pisarzem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds145": {
+        "en": "You hate the character and think he's boring.",
+        "pl": "Nienawidzisz tej postaci i uważasz, że jest nudna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds147": {
+        "en": "If he dies, we're both free, right?",
+        "pl": "Jeśli on umrze, oboje będziemy wolni, prawda?",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds148": {
+        "en": "That helps both of us!",
+        "pl": "To pomaga nam obojgu!",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds149": {
+        "en": "If he dies, we're both free, right?",
+        "pl": "Jeśli on umrze, oboje będziemy wolni, prawda?",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds15": {
+        "en": "I know that sounds mondo suspicious, but - I just flat out can't say any more about it.",
+        "pl": "Wiem, że to brzmi mega podejrzanie, ale - po prostu nie mogę powiedzieć nic więcej.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds150": {
+        "en": "That helps both of us!",
+        "pl": "To pomaga nam obojgu!",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds151": {
+        "en": "Come on, I know you don't have any better ideas.",
+        "pl": "Daj spokój, wiem, że nie masz lepszych pomysłów.",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds16": {
+        "en": "If you're not going to elaborate...",
+        "pl": "Jeśli nie zamierzasz tego rozwinąć...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds17": {
+        "en": "Come on man, that's way off, why would I want to kill Mortuga? I admire the guy, he's fascinating!!",
+        "pl": "Ej, stary, to jest kompletnie nietrafione, czemu miałbym chcieć zabić Mortugę? Podziwiam tego gościa, jest fascynujący!!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds18": {
+        "en": "I came to the submarine to [h]meet[/h] him, not murder him.",
+        "pl": "Przyjechałem na łódź, żeby go [h]poznać[/h], nie zamordować.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds19": {
+        "en": "I thought you only came to submarine because you were tagging along with Wirman?",
+        "pl": "Myślałem, że przyjechałeś na łódź tylko dlatego, że się zabrałeś z Wirmanem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds20": {
+        "en": "I mean, yeah - it was Wirman who wanted to come to Silkwirm and, you know, find the submarine, but-",
+        "pl": "No, tak - to Wirman chciał przyjechać do Silkwirm i, no wiesz, znaleźć łódź, ale-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds21": {
+        "en": "Wait - I'm falling behind - Dirk, why would [h]you[/h] want to research Mortuga?",
+        "pl": "Czekaj - już się gubię - Dirk, czemu [h]ty[/h] miałbyś chcieć badać Mortugę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds22": {
+        "en": "-I figured if I came [i]with[/i] him, I could meet this real [i]guy[/i] - the real Mortuga. You know... for research.",
+        "pl": "-pomyślałem, że jeśli pojadę [i]z[/i] nim, to będę mógł poznać tego prawdziwego [i]gościa[/i] - prawdziwego Mortugę. No wiesz... do researchu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds23": {
+        "en": "[Mind Game]\nMagnus Mortuga / was the original inspiration for / Markus Mordoom, / the character Dirk plays in the movie.",
+        "pl": "[Mind Game]\nMagnus Mortuga / był pierwowzorem dla / Markusa Mordooma, / postaci, w którą wciela się Dirk w filmie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds24": {
+        "en": "Right. So, look, I had this idea-",
+        "pl": "No dobra. Więc, słuchajcie, miałem taki pomysł-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds25": {
+        "en": "Like I said, [i]research![/i] You hear about actors doing that kind of thing, don't you?",
+        "pl": "Jak mówiłem, [i]research![/i] Słyszeliście przecież o aktorach robiących takie rzeczy, nie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds26": {
+        "en": "So - that was [h]your[/h] idea? Your [h]own personal plan[/h], to come with Wirman to the submarine?",
+        "pl": "Więc - to był [h]twój[/h] pomysł? Twój [h]własny, osobisty plan[/h], żeby przyjechać z Wirmanem na łódź?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds27": {
+        "en": "Um, yeah, but I don't like the way you [i]phrased[/i] that, it sounds like you're leading up to something or-",
+        "pl": "Yy, tak, ale nie podoba mi się, jak to [i]ująłeś[/i], brzmi, jakbyś do czegoś zmierzał, albo-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds28": {
+        "en": "Yeah, I don't believe that's why you came here with Wirman.",
+        "pl": "Tak, nie wierzę, że dlatego tu przyjechałeś z Wirmanem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds29": {
+        "en": "There's clearly a third party involved. Someone or something that we haven't mentioned yet...",
+        "pl": "Ewidentnie w to zamieszana jest trzecia strona. Ktoś albo coś, czego jeszcze nie wspomnieliśmy...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds30": {
+        "en": "[Mind Game]\nThe movie production company / asked you to spy on / J. D. Wirman / and report back.",
+        "pl": "[Mind Game]\nWytwórnia filmowa / poprosiła cię, żebyś szpiegował / J. D. Wirmana / i zdawał raport.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds31": {
+        "en": "It seems like you're basically here as an informant for the Wit and Whimsy production company.",
+        "pl": "Wygląda na to, że jesteś tu w zasadzie jako informator dla wytwórni Wit and Whimsy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds32": {
+        "en": "[i]Spy[/i] on Wirman? No way, you've got it all wrong.",
+        "pl": "[i]Szpiegować[/i] Wirmana? Nie ma mowy, kompletnie się mylicie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds33": {
+        "en": "Besides - how am I supposed to report back to Wit and Whimsy?",
+        "pl": "Poza tym - jak niby mam zdawać raport do Wit and Whimsy?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds34": {
+        "en": "Th-they're hundreds of miles away, and we're floating out here in the middle of the ocean.",
+        "pl": "O-oni są setki mil stąd, a my dryfujemy tutaj na środku oceanu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds36": {
+        "en": "[Present Clue]\nCell Phone",
+        "pl": "[Present Clue]\nTelefon Komórkowy",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds37": {
+        "en": "This is your cell phone, right?",
+        "pl": "To jest twój telefon komórkowy, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds38": {
+        "en": "Yeah, but it doesn't get any [i]signal[/i] out here, not even standing on deck.",
+        "pl": "Tak, ale tutaj w ogóle nie łapie [i]sygnału[/i], nawet stojąc na pokładzie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds39": {
+        "en": "It's quickly running out of battery, too...",
+        "pl": "Szybko też siada mu bateria...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds40": {
+        "en": "Hm. No battery, and no signal.\nWhat if I said you had a way around [h]both[/h] those problems?",
+        "pl": "Hm. Brak baterii i brak sygnału.\nA co, gdybym powiedziała, że masz sposób, żeby obejść [h]oba[/h] te problemy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds41": {
+        "en": "[Clue Attach Game]\nCell Phone + Strange Device",
+        "pl": "[Clue Attach Game]\nTelefon Komórkowy + Dziwne Urządzenie",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds43": {
+        "en": "I think this weird raygun-looking thing... is actually a custom antenna for your phone.",
+        "pl": "Myślę, że ta dziwna rzecz wyglądająca jak pistolet laserowy... to w rzeczywistości niestandardowa antena do twojego telefonu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds44": {
+        "en": "I'd imagine it doubles as a battery charger, too.\nPretty convenient.",
+        "pl": "Wyobrażam sobie, że służy też jako ładowarka.\nDość wygodne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds45": {
+        "en": "-I mean look, you plugged it in, but the battery still isn't charging, and I'm [h]still[/h] not getting any network signal.",
+        "pl": "-no bo patrzcie, podłączyliście to, ale bateria nadal się nie ładuje, i [h]nadal[/h] nie mam żadnego sygnału sieci.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds45 Choice 1": {
+        "en": "Because the custom antenna thing is broken.",
+        "pl": "Bo ta niestandardowa antena jest zepsuta.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds45 Choice 2": {
+        "en": "Because your phone is broken.",
+        "pl": "Bo twój telefon jest zepsuty.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds45 Choice 3": {
+        "en": "Because you didn't pay your network bill in a timely manner.",
+        "pl": "Bo nie zapłaciłeś na czas rachunku za sieć.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds45 Choice Question": {
+        "en": "Why isn't the cell phone getting any network signal?",
+        "pl": "Dlaczego telefon komórkowy nie łapie żadnego sygnału sieci?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds46": {
+        "en": "Bro, I don't know what you're basing this on-",
+        "pl": "Stary, nie wiem, na czym to opierasz-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds49": {
+        "en": "That's because the custom antenna thing is broken.",
+        "pl": "To dlatego, że ta niestandardowa antena jest zepsuta.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds50": {
+        "en": "Oh, for real? Oh, man, it doesn't [h]look[/h] broken?",
+        "pl": "O, serio? O, ej, nie [h]wygląda[/h] na zepsutą?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds51": {
+        "en": "I'm pretty sure it got waterlogged after someone dumped it in the bilge water.",
+        "pl": "Jestem raczej pewien, że nasiąkła wodą, odkąd ktoś wrzucił ją do zęzy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds52": {
+        "en": "[h]That's[/h] where it was? No wonder I couldn't find it.",
+        "pl": "[h]Tam[/h] była? Nic dziwnego, że nie mogłem jej znaleźć.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds53": {
+        "en": ".......",
+        "pl": ".......",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds54": {
+        "en": "Um... I mean-",
+        "pl": "Yy... no bo-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds55": {
+        "en": "Okay. Whatever, you got me.\nConsider me fully [h]got.[/h]",
+        "pl": "Okej. Whatever, macie mnie.\nUznajcie, że jestem w pełni [h]złapany.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds56": {
+        "en": "You know, this thing doesn't look like any kind of retail model... more like a one-off bit of custom engineering.",
+        "pl": "Wiecie, ta rzecz nie wygląda na żaden model sklepowy... bardziej na jednorazową, niestandardową konstrukcję.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds57": {
+        "en": "I'm guessing the production company issued it to Dirk specifically for this journey.",
+        "pl": "Zgaduję, że wytwórnia wydała to Dirkowi specjalnie na tę podróż.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds58": {
+        "en": "Probably when they realised he'd be out in the ocean and might need some help getting a phone signal...",
+        "pl": "Prawdopodobnie kiedy zorientowali się, że będzie na oceanie i może potrzebować pomocy z sygnałem telefonu...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds59": {
+        "en": "Yeah, so - Mr Van De Peer really didn't want me going [i]'off grid'...[/i]",
+        "pl": "Tak, więc - pan Van De Peer naprawdę nie chciał, żebym [i]'zniknął z radaru'...[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds6": {
+        "en": "[h]Bro.[/h]\nNot cool.",
+        "pl": "[h]Stary.[/h]\nNie fajnie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds60": {
+        "en": "-and what did Mr Van De Peer want you to keep him [h]informed[/h] about, exactly?",
+        "pl": "-a o czym dokładnie pan Van De Peer chciał, żebyś go [h]informował?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds61": {
+        "en": "Dirk doesn't have to admit to anything else - all the evidence we need is right here.",
+        "pl": "Dirk nie musi przyznawać się do niczego więcej - wszystkie dowody, jakich potrzebujemy, są tutaj.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds62": {
+        "en": ".......",
+        "pl": ".......",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds63": {
+        "en": "[Present Clue]\nCell Phone",
+        "pl": "[Present Clue]\nTelefon Komórkowy",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds64": {
+        "en": "There's a handful of outgoing messages, from you to Vincent Van De Peer. ",
+        "pl": "Jest kilka wysłanych wiadomości, od ciebie do Vincenta Van De Peera. ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds65": {
+        "en": "Specifically, they're all updates on Wirman's progress with his novel.",
+        "pl": "Dokładniej, wszystkie to aktualizacje o postępach Wirmana z jego powieścią.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds66": {
+        "en": "...look - the studio was worried Wirman was just gonna disappear without ever finishing the book.",
+        "pl": "...słuchajcie - wytwórnia bała się, że Wirman po prostu zniknie, nigdy nie kończąc książki.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds68": {
+        "en": "The right direction?\n-in terms of the story?",
+        "pl": "We właściwą stronę?\n-jeśli chodzi o fabułę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds69": {
+        "en": "Yeah, so - the movie studio has this grand plan - they want to make [i]three more[/i] Markus Mordoom movies - [h]at least.[/h]",
+        "pl": "Tak, więc - wytwórnia ma taki wielki plan - chcą zrobić [i]jeszcze trzy[/i] filmy o Markusie Mordoomie - [h]co najmniej.[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds7": {
+        "en": "Why would you come right out and attack me like that?",
+        "pl": "Czemu od razu na mnie tak napadasz?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds70": {
+        "en": "And, so, they really need Wirman to have his books play out to support that plan.",
+        "pl": "Więc naprawdę potrzebują, żeby książki Wirmana rozwijały się tak, żeby wspierać ten plan.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds71": {
+        "en": "Three more movies, huh? Sounds like quite a commitment.",
+        "pl": "Jeszcze trzy filmy, co? Brzmi jak spore zobowiązanie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds72": {
+        "en": "Yeah, I mean... yeah.\nIt is.\nIt would take years.",
+        "pl": "Tak, no... tak.\nJest.\nZajęłoby to lata.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds73": {
+        "en": "Interesting...",
+        "pl": "Interesujące...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds74": {
+        "en": "I think we may have finally looped back around to the question at hand.",
+        "pl": "Chyba w końcu wróciliśmy do pytania, o które chodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds75": {
+        "en": "Let's listen to this again, shall we?",
+        "pl": "Posłuchajmy tego jeszcze raz, dobrze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds76": {
+        "en": "Hey. Listen. Why don't we just kill him?",
+        "pl": "Hej. Słuchaj. Czemu po prostu go nie zabijemy?",
+        "speaker": "Pipe"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds77": {
+        "en": "Dirk - I think I've finally worked out who you wanted to kill.",
+        "pl": "Dirk - chyba w końcu ustaliłem, kogo chciałeś zabić.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds78": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds78 Choice 1": {
+        "en": "Markus Mordoom, the fictional character.",
+        "pl": "Markus Mordoom, postać fikcyjna.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds78 Choice 2": {
+        "en": "Vincent Van De Peer, the movie producer.",
+        "pl": "Vincent Van De Peer, producent filmowy.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds78 Choice 3": {
+        "en": "J.D. Wirman, the author.",
+        "pl": "J.D. Wirman, autor.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds78 Choice Question": {
+        "en": "Who did Dirk want to kill?",
+        "pl": "Kogo Dirk chciał zabić?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds8": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds82": {
+        "en": "Markus Mordoom, the fictional character.",
+        "pl": "Markus Mordoom, postać fikcyjna.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds83": {
+        "en": "Hey. Come on, dude.",
+        "pl": "Hej. Daj spokój, stary.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds84": {
+        "en": "Why would I want to kill off Mordoom? That's my character, my - my job!",
+        "pl": "Czemu miałbym chcieć zabić Mordooma? To moja postać, moja - moja praca!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds84 Choice 1": {
+        "en": "You want to be free to take other acting jobs instead.",
+        "pl": "Chcesz być wolny, żeby przyjmować inne role aktorskie.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds84 Choice 2": {
+        "en": "You hate the character and think he's boring.",
+        "pl": "Nienawidzisz tej postaci i uważasz, że jest nudna.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds84 Choice 3": {
+        "en": "You want to quit acting and become a writer.",
+        "pl": "Chcesz rzucić aktorstwo i zostać pisarzem.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds84 Choice Question": {
+        "en": "Why would Dirk want to kill off Markus Mordoom?",
+        "pl": "Czemu Dirk miałby chcieć zabić Markusa Mordooma?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds85": {
+        "en": "Do you deny it?",
+        "pl": "Zaprzeczasz temu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds89": {
+        "en": "You want to be free to take other acting jobs instead.",
+        "pl": "Chcesz być wolny, żeby przyjmować inne role aktorskie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds90": {
+        "en": ".....",
+        "pl": ".....",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds91": {
+        "en": "Let's take a look at the cell phone one more time.",
+        "pl": "Spójrzmy jeszcze raz na telefon komórkowy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds92": {
+        "en": "[Present Clue]\nCell Phone",
+        "pl": "[Present Clue]\nTelefon Komórkowy",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds93": {
+        "en": "There's an email in here offering you a big role in an upcoming movie...",
+        "pl": "Jest tu mail oferujący ci dużą rolę w nadchodzącym filmie...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds94": {
+        "en": "...and another email from your agent, reminding you that you're not free to take it - and won't be for several years.",
+        "pl": "...i kolejny mail od twojego agenta, przypominający, że nie możesz jej przyjąć - i nie będziesz mógł jeszcze przez kilka lat.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds95": {
+        "en": "From what I gather, you signed a pretty lousy contract with Wit and Whimsy, and now you-",
+        "pl": "Z tego, co rozumiem, podpisałeś dość kiepski kontrakt z Wit and Whimsy, i teraz-",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds96": {
+        "en": "Okay, hang on, sorry - but how would [h]you[/h] know anything about my contract?",
+        "pl": "Okej, czekaj, przepraszam - ale skąd niby [h]ty[/h] miałabyś cokolwiek wiedzieć o moim kontrakcie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds97": {
+        "en": "Well, I don't know the fine details, but I did get a general sense of it...",
+        "pl": "Cóż, nie znam szczegółów, ale zorientowałam się z grubsza...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds98": {
+        "en": "It seems to me like your co-star soaked up most of the budget for the movie...",
+        "pl": "Wydaje mi się, że twój partner z ekranu wchłonął większość budżetu filmu...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk 05 SUSPICION/Section ds99": {
+        "en": "Possibly because you were too keen to sign whatever contract they gave you.",
+        "pl": "Może dlatego, że zbyt chętnie podpisałeś jakikolwiek kontrakt, jaki ci dali.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Dirk 05 SUSPICION - tozsamosc 'Pipe'",
+      "problem": "Ta scena mocno sugeruje (choc nie potwierdza wprost), ze glos 'Pipe' nalezy do J.D. Wirmana - rozmowa dotyczy 'zabicia' postaci Mordooma w jego wlasnych ksiazkach, a Dirk odpowiada 'He's not enjoying writing the books anymore' (ds114, 'on' = ktos kto PISZE ksiazki = Wirman). Zgodnie z zasada GLOSSARY nadal przetlumaczono bezplciowo (gracz w tej scenie dopiero to dedukuje przez Mind Game ds30), ale to najsilniejsza jak dotad przeslanka co do tozsamosci - do potwierdzenia przy tlumaczeniu luku Wirmana."
+    },
+    {
+      "term": "Dirk 05 SUSPICION/ds100 'a little from column A, a little from column B'",
+      "problem": "Angielski idiom (z chinskiego menu a'la carte) bez bezposredniego odpowiednika w polskim - przetlumaczony funkcjonalnie jako 'trochę jedno, trochę drugie' (ten sam sens: mieszanka dwoch powodow), ale traci oryginalny obraz/humor idiomu."
+    },
+    {
+      "term": "Wit and Whimsy (nazwa wytworni filmowej)",
+      "problem": "Nazwa firmy zostawiona bez tlumaczenia (No-Touch Zone jak inne nazwy wlasne) mimo ze ma charakter gry slow ('dowcip i fantazja') - do rozwazenia czy przy dalszym zaglebianiu sie w watek Dirka/Wirmana user zechce ja jednak przetlumaczyc opisowo, analogicznie do Mermaid's Tongue."
+    }
+  ]
+}

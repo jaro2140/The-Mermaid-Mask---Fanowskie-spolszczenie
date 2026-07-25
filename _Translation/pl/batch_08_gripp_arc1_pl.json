@@ -1,0 +1,525 @@
+{
+  "_meta": {
+    "batch": "Gripp (=Godrik Gripp) - poczatek luku postaci: 01 INTRO (13) + 02 YOURSELF (18) + 03 SUBMARINE (21) + 04 STATEMENT (48) = 100 terminow.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking)",
+    "character_voice": "Gripp: pompatyczny, kwiecisty styl sprzedawcy/showmana (aliteracje, przesadne sformulowania) w trybie 'na scenie', ktory pęka na jakanie/wahanie kiedy jest zawstydzony lub konfrontowany - zachowane w tlumaczeniu (patrz np. ds12 INTRO vs ds148 STATEMENT)."
+  },
+  "categories": {
+    "Gripp 01 INTRO": {
+      "Conversation/Gripp 01 INTRO/Section ds0": {
+        "en": "...come in, come in, and welcome - to [i]Mr Gripp's Emporium![/i] ",
+        "pl": "...proszę, proszę, witajcie - w [i]Emporium Pana Grippa![/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds11": {
+        "en": "I guess he's Mr Gripp.",
+        "pl": "Chyba to jest pan Gripp.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds12": {
+        "en": "Here at Mr Gripp's, we [i]plot[/i] the unplottable, [i]chart[/i] the unchartable, and [i]measure[/i] the unmeasurable!",
+        "pl": "Tutaj, u Pana Grippa, [i]wykreślamy[/i] niewykreślalne, [i]mapujemy[/i] niemapowalne i [i]mierzymy[/i] niemierzalne!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds13": {
+        "en": "So fret not, noble navigator, as we stock [h]all[/h] the essentials.",
+        "pl": "Więc się nie martw, szlachetny żeglarzu, bo mamy na stanie [h]wszystko[/h], co niezbędne.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds15": {
+        "en": "No sea too vast, no night too dark, no fog too thick.",
+        "pl": "Żadne morze zbyt rozległe, żadna noc zbyt ciemna, żadna mgła zbyt gęsta.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds16": {
+        "en": "Ah-ha! Customers-",
+        "pl": "A-ha! Klienci-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds17": {
+        "en": "With the right contraption in your pocket, even the [i]great unknown[/i] may be quantified and calculated.",
+        "pl": "Z odpowiednim urządzeniem w kieszeni, nawet [i]wielką niewiadomą[/i] można zmierzyć i obliczyć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds18": {
+        "en": "Mmmmwhat’s that? You'd like a [i]succint-yet-exhaustive[/i] rundown of our operational philosophy?",
+        "pl": "Mmm, co takiego? Chcielibyście [i]zwięzłe, a zarazem wyczerpujące[/i] omówienie naszej filozofii działania?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds19": {
+        "en": "I don't [i]think[/i] I said that-",
+        "pl": "Nie [i]sądzę[/i], żebym to powiedział-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds20": {
+        "en": "Now - what is it you wanted to know?",
+        "pl": "A teraz - co chcieliście wiedzieć?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds21": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds7": {
+        "en": "Wait - what?",
+        "pl": "Czekaj - co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 01 INTRO/Section ds9": {
+        "en": "What on [i]earth[/i] are you do-",
+        "pl": "Co ty [i]do diabła[/i] robi-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp 02 YOURSELF": {
+      "Conversation/Gripp 02 YOURSELF/Section ds0": {
+        "en": "Can I get your full name?",
+        "pl": "Mogę prosić o pełne imię i nazwisko?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds10": {
+        "en": "Ah yes! We also provide [i]cartographic consultation![/i] ",
+        "pl": "Ach tak! Świadczymy również [i]konsultacje kartograficzne![/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds13": {
+        "en": "Uh, sorry - did you just talk to your stick...?",
+        "pl": "Yy, przepraszam - czy ty właśnie odezwałeś się do swojego kija...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds14": {
+        "en": "Hm? You mean Cornelius Cane?",
+        "pl": "Hm? Masz na myśli Corneliusa Cane'a?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds15": {
+        "en": "-aaand he's given it a name. [i]Great.[/i] ",
+        "pl": "-i nadał mu imię. [i]Świetnie.[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds21": {
+        "en": "[i]Don't ask any follow-up questions - [h]maybe[/h] he'll let us move on.[/i] ",
+        "pl": "[i]Nie zadawaj żadnych dodatkowych pytań - [h]może[/h] pozwoli nam przejść dalej.[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds22": {
+        "en": "This is merely the newest branch - the [i]flagship[/i] site is back in Silkwirm-on-sea.",
+        "pl": "To tylko najnowsza filia - [i]główna[/i] siedziba jest w Silkwirm-on-sea.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds23": {
+        "en": "Yeah we saw it, it's all boarded up.",
+        "pl": "Tak, widzieliśmy ją, jest cała zabita deskami.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds24": {
+        "en": "Yes, well, I can't make a living selling compasses to the [i]ghosts[/i] in a [i]ghost-town[/i], can I?",
+        "pl": "No cóż, nie mogę zarabiać na życie sprzedając kompasy [i]duchom[/i] w [i]mieście duchów[/i], prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds25": {
+        "en": "...so that's what you do? Sell compasses? Seems kinda [i]niche.[/i] ",
+        "pl": "...czyli tym się zajmujesz? Sprzedajesz kompasy? Trochę to [i]niszowe.[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds26": {
+        "en": "[i]Some maps may be invalid. Fee to be decided on a case-by-case basis-[/i] ",
+        "pl": "[i]Niektóre mapy mogą być nieważne. Opłata ustalana indywidualnie dla każdego przypadku-[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds27": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds28": {
+        "en": "We'll analyse and decipher [h]any[/h] map, all for a low-low fee.",
+        "pl": "Przeanalizujemy i rozszyfrujemy [h]każdą[/h] mapę, i to za bardzo niską opłatą.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds6": {
+        "en": "Godrik Gripp - of Mr Gripp's Emporium.",
+        "pl": "Godrik Gripp - z Emporium Pana Grippa.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds7": {
+        "en": "...and that's this little shop you run... down here in the engine room? For some reason?",
+        "pl": "...i to jest ten mały sklepik, który prowadzisz... tu na dole, w maszynowni? Z jakiegoś powodu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds8": {
+        "en": "We buy, sell and service all [i]manner[/i] of nautical navigation equipme-",
+        "pl": "Kupujemy, sprzedajemy i serwisujemy sprzęt nawigacji morskiej [i]wszelkiego rodzaju[/i]-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 02 YOURSELF/Section ds9": {
+        "en": "-hm? What's that?",
+        "pl": "-hm? Co takiego?",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp 03 THE MORTUGA SUBMARINE": {
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds0": {
+        "en": "How'd you wind up here?",
+        "pl": "Jak tu trafiłeś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds10": {
+        "en": "How'd you crash your balloon?",
+        "pl": "Jak rozbiłeś swój balon?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds11": {
+        "en": "A rather [i]spirited disagreement[/i] with a flock of migratory pelicans led to an abrupt-",
+        "pl": "Dość [i]zażarta sprzeczka[/i] ze stadem wędrownych pelikanów doprowadziła do nagłego-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds12": {
+        "en": "Sure, okay - and the [i]actual[/i] reason?",
+        "pl": "Jasne, dobra - a [i]prawdziwy[/i] powód?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds14": {
+        "en": "Storm.",
+        "pl": "Burza.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds15": {
+        "en": "There we go.",
+        "pl": "No proszę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds17": {
+        "en": "That was the [i]plan[/i], at least. As you can see, I didn't make it very far at all.",
+        "pl": "Taki był przynajmniej [i]plan[/i]. Jak widzicie, nie zaszedłem zbyt daleko.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds19": {
+        "en": "Yes, well, you're quite right of course-",
+        "pl": "Tak, cóż, oczywiście masz rację-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds20": {
+        "en": "Wait, so you're an - [i]aeronaut?[/i] I thought you were a shopkeeper.",
+        "pl": "Czekaj, czyli jesteś - [i]aeronautą?[/i] Myślałem, że jesteś sklepikarzem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds22": {
+        "en": "So there's a storm, the balloon crashes, you fall into the ocean - then what?",
+        "pl": "Czyli jest burza, balon się rozbija, wpadasz do oceanu - i co dalej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds23": {
+        "en": "-but I'd been inspired to leave my shop behind and head out on a journey of discovery, [i]into the great unknown.[/i]",
+        "pl": "-ale poczułem natchnienie, żeby zostawić za sobą sklep i wyruszyć w podróż odkrywczą, [i]w wielką niewiadomą.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds24": {
+        "en": "-in the [i]engine room[/i]? Was every other room taken?",
+        "pl": "-w [i]maszynowni?[/i] Wszystkie inne pokoje były zajęte?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds25": {
+        "en": "On the contrary! Only Mortuga and Zephyr were living here when I arrived, so I rather had the run of the place.",
+        "pl": "Wręcz przeciwnie! Kiedy przybyłem, mieszkali tu tylko Mortuga i Zephyr, więc miałem tu w zasadzie wolną rękę.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds27": {
+        "en": "Cornelius and I just agreed, this would be the best place to [i]'set up shop'[/i], as it were.",
+        "pl": "Cornelius i ja po prostu zgodziliśmy się, że to najlepsze miejsce, żeby, że tak powiem, [i]'otworzyć interes'.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds28": {
+        "en": "Why [i]did[/i] you set up your shop again? You just said you'd been 'inspired' to leave it behind.",
+        "pl": "A czemu właściwie [i]otworzyłeś[/i] znowu sklep? Przed chwilą mówiłeś, że poczułeś 'natchnienie', żeby go zostawić.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds30": {
+        "en": "Hm. I had to make myself useful [h]somehow[/h], didn't I?",
+        "pl": "Hm. Musiałem [h]jakoś[/h] się przydać, prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds32": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds7": {
+        "en": "I crashed my hot air balloon into the ocean. Whole [i]thing[/i] came down. Dreadful.",
+        "pl": "Rozbiłem swój balon na gorące powietrze o ocean. Cała [i]konstrukcja[/i] runęła. Straszne.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds8": {
+        "en": "Enter Captain Mortuga - he finds me adrift, fishes me out of the water and promptly places me here.",
+        "pl": "Wchodzi kapitan Mortuga - znajduje mnie dryfującego, wyławia z wody i od razu umieszcza mnie tutaj.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 03 THE MORTUGA SUBMARINE/Section ds9": {
+        "en": "[i]-and of course I've never been a swimmer, don't have the upper body strength-[/i]",
+        "pl": "[i]-a rzecz jasna nigdy nie byłem pływakiem, brakuje mi siły w górnej części ciała-[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp 04 STATEMENT": {
+      "Conversation/Gripp 04 STATEMENT/Section ds119": {
+        "en": "I'd taken Cornelius up to the [i]Mess Hall[/i] - poor fellow needed a little [i]repair[/i] work, you see.",
+        "pl": "Zabrałem Corneliusa do [i]Mesy[/i] - biedaczek potrzebował trochę [i]naprawy[/i], rozumiecie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds120": {
+        "en": "Then all of a sudden, somebody [i]new[/i] came down the ladder - a woman by the name of [i]Mariana Moon.[/i]",
+        "pl": "Wtedy nagle po drabinie zeszła [i]nowa[/i] osoba - kobieta o imieniu [i]Mariana Moon.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds123": {
+        "en": "Wirman and I conversed with her for a few minutes - before Mortuga himself entered the room.",
+        "pl": "Wirman i ja rozmawialiśmy z nią przez kilka minut - zanim do pokoju wszedł sam Mortuga.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds126": {
+        "en": "But before he left, he asked us to provide Mariana with a 'tour' of the submarine.",
+        "pl": "Ale zanim wyszedł, poprosił nas, żebyśmy oprowadzili Marianę po łodzi podwodnej.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds127": {
+        "en": "Wirman feigned a sudden fatigue... and slithered off back to his room - leaving me as the solitary tour guide.",
+        "pl": "Wirman udał nagłe zmęczenie... i wymknął się do swojego pokoju - zostawiając mnie jako jedynego przewodnika.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds129": {
+        "en": "Yes, well, I won't [i]bore[/i] you with the blow-by-blow, I'm sure Mariana will cover that in [i]her[/i] statement-",
+        "pl": "Tak, cóż, nie będę was [i]zanudzał[/i] szczegółami, jestem pewien, że Mariana omówi to w [i]swoim[/i] zeznaniu-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds145": {
+        "en": "And, there we were, standing in the dark, when all of a sudden, a [i]voice[/i] echoed down from above...",
+        "pl": "I staliśmy tak w ciemności, gdy nagle z góry rozległo się echo [i]głosu[/i]...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds147": {
+        "en": "Well, she had a compass she wanted me to fix. I agreed to take a look at it for her.",
+        "pl": "Cóż, miała kompas, który chciała, żebym naprawił. Zgodziłem się mu się przyjrzeć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds148": {
+        "en": "So, uh - let's see - I was sat there, feeling rather pathetic, when Sinthia appeared in my doorway.",
+        "pl": "Więc, yy - zobaczmy - siedziałem tam, czując się dość żałośnie, gdy w moich drzwiach pojawiła się Sinthia.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds149": {
+        "en": "But an unexpected lurch of the submarine caused me to very nearly [i]topple over[/i] into the bilgewater... ",
+        "pl": "Ale nieoczekiwane szarpnięcie łodzi podwodnej sprawiło, że niemal [i]przewróciłem się[/i] do zęzy... ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds150": {
+        "en": "Well - apparently satisfied by our [i]impromptu eavesdropping session[/i], she made her farewells and left.",
+        "pl": "Cóż - najwyraźniej usatysfakcjonowana naszym [i]niezaplanowanym podsłuchiwaniem[/i], pożegnała się i wyszła.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds161": {
+        "en": "And so, after fetching Mariana from next door, the three of us went up to the store room...",
+        "pl": "I tak, po zabraniu Mariany z sąsiedniego pokoju, we troje poszliśmy do magazynu...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds164": {
+        "en": "I saw Mortuga's body laying on the floor - saw the cut across his neck. The cowardice I'd felt before, compounded.",
+        "pl": "Zobaczyłem ciało Mortugi leżące na podłodze - zobaczyłem cięcie w jego szyi. Tchórzostwo, które czułem wcześniej, tylko się spotęgowało.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds166": {
+        "en": "Tadpole spoke to the room... she wanted a - a confession? or even just an explanation.",
+        "pl": "Tadpole przemówiła do wszystkich... chciała - przyznania się? albo choćby wyjaśnienia.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds171": {
+        "en": "Really, that's the end of it. After that, several things happened very quickly;",
+        "pl": "Naprawdę, na tym koniec. Potem wszystko wydarzyło się bardzo szybko;",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds173": {
+        "en": "No no - a young woman's... possibly two [i]different[/i] women?",
+        "pl": "Nie, nie - młodej kobiety... może dwóch [i]różnych[/i] kobiet?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds174": {
+        "en": "No no, Wirman was there, working away on his typewriter...",
+        "pl": "Nie, nie, Wirman tam był, pracował przy swojej maszynie do pisania...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds176": {
+        "en": "Suffice it to say... we ended up in the bilge at the very [i]back[/i] of the submarine.",
+        "pl": "Wystarczy powiedzieć... skończyliśmy w zęzie, na samym [i]tyle[/i] łodzi podwodnej.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds183": {
+        "en": "[i]Mortuga's[/i] voice?",
+        "pl": "Głos [i]Mortugi?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds184": {
+        "en": "The voices were followed by the sound of a - a [i]blade?[/i] And finally a dull thud, like something hitting the ground.",
+        "pl": "Po głosach nastąpił dźwięk - [i]ostrza?[/i] A na koniec głuchy łoskot, jakby coś uderzyło o podłogę.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds185": {
+        "en": "Sounds like a murder to me.",
+        "pl": "Dla mnie to brzmi jak morderstwo.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds186": {
+        "en": "You didn't go with her?",
+        "pl": "Nie poszedłeś z nią?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds187": {
+        "en": "You didn't wanna go upstairs and see what was going on?",
+        "pl": "Nie chciałeś iść na górę i zobaczyć, co się dzieje?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds188": {
+        "en": "What did she want?",
+        "pl": "Czego chciała?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds189": {
+        "en": "But that wasn't the end of it - she [i]then[/i] told me she'd been asked to bring me upstairs, along with everyone else.",
+        "pl": "Ale to nie był koniec - [i]wtedy[/i] powiedziała mi, że poproszono ją, żeby przyprowadziła mnie na górę, razem z resztą.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds190": {
+        "en": "It goes without saying that nobody was willing to offer one.",
+        "pl": "Nie trzeba dodawać, że nikt nie chciał go udzielić.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds192": {
+        "en": "Sinthia became captain, decided to bring in a detective, you two arrived - and, uh, here we are.",
+        "pl": "Sinthia została kapitanem, postanowiła sprowadzić detektywa, wy dwoje przybyliście - i, yy, jesteśmy tutaj.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds193": {
+        "en": "Ah, let's see-",
+        "pl": "Ach, zobaczmy-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds196": {
+        "en": "Were you [i]alone[/i] up there?\nUh - aside from [i]Cornelius[/i], I mean.",
+        "pl": "Byłeś tam na górze [i]sam?[/i]\nYy - poza [i]Corneliusem[/i], mam na myśli.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds199": {
+        "en": "He passed through towards the Child's Room and the Store Room...",
+        "pl": "Przeszedł w stronę Pokoju Dziecięcego i Magazynu...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds200": {
+        "en": "You do [i]kinda look[/i] like a tour guide, to be honest.",
+        "pl": "Szczerze mówiąc, [i]trochę wyglądasz[/i] jak przewodnik wycieczek.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds207": {
+        "en": "Did you hear any other weird noises?",
+        "pl": "Słyszałeś jakieś inne dziwne dźwięki?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds208": {
+        "en": "No, I - stayed a little longer...",
+        "pl": "Nie, ja - zostałem trochę dłużej...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds209": {
+        "en": "First, the sound of the store room door wrenching open... and then closing again.",
+        "pl": "Najpierw dźwięk gwałtownie otwieranych drzwi magazynu... a potem znowu zamykanych.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds210": {
+        "en": "What did [i]Mariana[/i] make of all this?",
+        "pl": "A co [i]Mariana[/i] o tym wszystkim sądziła?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds211": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds212": {
+        "en": "I did.",
+        "pl": "Słyszałem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds213": {
+        "en": "Secondly, some kind of short, heavy [i]scrape.[/i] Mechanical?",
+        "pl": "Po drugie, jakiś krótki, ciężki [i]zgrzyt.[/i] Mechaniczny?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds214": {
+        "en": "And finally a dull thud, like something hitting the ground.",
+        "pl": "A na koniec głuchy łoskot, jakby coś uderzyło o podłogę.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds215": {
+        "en": "Sorry - [i]again?[/i]",
+        "pl": "Przepraszam - [i]jeszcze raz?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds216": {
+        "en": "How many murders [i]were[/i] there??",
+        "pl": "Ile [i]w ogóle[/i] było tych morderstw??",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds217": {
+        "en": "...I didn't really know what to [i]do[/i] with myself after that.",
+        "pl": "...naprawdę nie wiedziałem, co ze sobą [i]zrobić[/i] po tym wszystkim.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds218": {
+        "en": "I... certainly [i]thought[/i] about it. Ultimately, I think it came down to [i]cowardice[/i] on my part.",
+        "pl": "Ja... na pewno o tym [i]myślałem[/i]. Ostatecznie chyba sprowadziło się to do mojego [i]tchórzostwa[/i].",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds219": {
+        "en": "...so I decided to take my leave and return to the safety of my engine room.",
+        "pl": "...więc postanowiłem się oddalić i wrócić do bezpieczeństwa mojej maszynowni.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds220": {
+        "en": "You didn't wanna run into the murderer?",
+        "pl": "Nie chciałeś wpaść na mordercę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds221": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds222": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "?"
+      },
+      "Conversation/Gripp 04 STATEMENT/Section ds224": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ds212 Gripp 'I did.' -> 'Słyszałem.'",
+      "problem": "Odpowiedz bez jasnego bezposredniego kontekstu pytania (ds211 to '...' - brak tekstu). Zalozylem ze odpowiada na 'Did you hear...' z ds207, ale te dwie linie sa oddzielone innymi kwestiami - do zweryfikowania w grze."
+    }
+  ]
+}

@@ -1,0 +1,3766 @@
+[
+  {
+    "term": "Clues/Details/ActionFigure 1",
+    "en": "the card backing"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 10",
+    "en": "the picture of 'Devil of the Deep'"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 11",
+    "en": "the barcode"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 2",
+    "en": "the 'Markus Mordoom' name label"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 3",
+    "en": "the logo"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 4",
+    "en": "the sword"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 5",
+    "en": "the wheel"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 6",
+    "en": "the action figure"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 7",
+    "en": "the blurb"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 8",
+    "en": "the picture of 'Belicia Bonetop'"
+  },
+  {
+    "term": "Clues/Details/ActionFigure 9",
+    "en": "the picture of 'Markus Mordoom'"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 1",
+    "en": "the basket"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 2",
+    "en": "the sandbags"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 3",
+    "en": "the shop sign"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 4",
+    "en": "the picture of Gripp"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 5",
+    "en": "the picture of the cane"
+  },
+  {
+    "term": "Clues/Details/BalloonBasket 6",
+    "en": "the wood inside the basket"
+  },
+  {
+    "term": "Clues/Details/BlackBox 1",
+    "en": "the box"
+  },
+  {
+    "term": "Clues/Details/BlackBox 2",
+    "en": "the emblem"
+  },
+  {
+    "term": "Clues/Details/BlackBox 3",
+    "en": "the black diamond"
+  },
+  {
+    "term": "Clues/Details/BlackBox 4",
+    "en": "the handles"
+  },
+  {
+    "term": "Clues/Details/BlackBox 5",
+    "en": "the hinges"
+  },
+  {
+    "term": "Clues/Details/BlackBox 6",
+    "en": "the soil"
+  },
+  {
+    "term": "Clues/Details/BlurryPhoto 1",
+    "en": "the photo"
+  },
+  {
+    "term": "Clues/Details/BlurryPhoto 2",
+    "en": "the ticket"
+  },
+  {
+    "term": "Clues/Details/BlurryPhoto 3",
+    "en": "the woman in the sphere"
+  },
+  {
+    "term": "Clues/Details/BlurryPhoto 4",
+    "en": "the man holding the sphere"
+  },
+  {
+    "term": "Clues/Details/BlurryPhoto 5",
+    "en": "the caption"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 1",
+    "en": "the compass"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 2",
+    "en": "the lid"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 3",
+    "en": "the opened panel"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 4",
+    "en": "the loose cogs"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 5",
+    "en": "the holes"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 6",
+    "en": "the necklace key needle"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 7",
+    "en": "the other needle"
+  },
+  {
+    "term": "Clues/Details/BrokenCompass 8",
+    "en": "the original needle"
+  },
+  {
+    "term": "Clues/Details/CaptainsJacket 1",
+    "en": "the jacket"
+  },
+  {
+    "term": "Clues/Details/CaptainsJacket 2",
+    "en": "the wooden mannequin"
+  },
+  {
+    "term": "Clues/Details/CaptainsJacket 3",
+    "en": "the pocket"
+  },
+  {
+    "term": "Clues/Details/CaptainsJacket 4",
+    "en": "the 'S' emblem"
+  },
+  {
+    "term": "Clues/Details/CaptainsJacket 5",
+    "en": "the epaulettes"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 1",
+    "en": "the Caretaker's Journal"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 2",
+    "en": "the title"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 3",
+    "en": "the face"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 4",
+    "en": "Lillian's Locket"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 5",
+    "en": "Silversnake Skull"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 6",
+    "en": "His Golden Palm"
+  },
+  {
+    "term": "Clues/Details/CaretakersJournal 7",
+    "en": "The Mermaid's Tongue"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 1",
+    "en": "a wooden cane"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 2",
+    "en": "a hat"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 3",
+    "en": "a bandage"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 4",
+    "en": "a happy face"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 5",
+    "en": "a surprised face"
+  },
+  {
+    "term": "Clues/Details/CorneliusCane 6",
+    "en": "two pieces of wood"
+  },
+  {
+    "term": "Clues/Details/CurseCauldron 1",
+    "en": "The Cauldron"
+  },
+  {
+    "term": "Clues/Details/CurseCauldron 2",
+    "en": "The Lid"
+  },
+  {
+    "term": "Clues/Details/CurseCauldron 3",
+    "en": "The Glass Eye"
+  },
+  {
+    "term": "Clues/Details/CurseCauldron 4",
+    "en": "The Scratches"
+  },
+  {
+    "term": "Clues/Details/CurseCauldron 5",
+    "en": "The Shape on the Lid"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 1",
+    "en": "the card"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 2",
+    "en": "the tape"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 3",
+    "en": "the photo"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 4",
+    "en": "the signature"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 5",
+    "en": "the info"
+  },
+  {
+    "term": "Clues/Details/DivingLicense 6",
+    "en": "the 'ORDA' logo"
+  },
+  {
+    "term": "Clues/Details/DreamHelmet 1",
+    "en": "the outer funnel"
+  },
+  {
+    "term": "Clues/Details/DreamHelmet 2",
+    "en": "the inner filter"
+  },
+  {
+    "term": "Clues/Details/DreamHelmet 3",
+    "en": "the goggles"
+  },
+  {
+    "term": "Clues/Details/DreamHelmet 4",
+    "en": "the antenna"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 1",
+    "en": "the frame"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 2",
+    "en": "the photo"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 3",
+    "en": "the submarine"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 4",
+    "en": "the man"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 5",
+    "en": "the woman"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 6",
+    "en": "the child"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 7",
+    "en": "the jacket"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 8",
+    "en": "the blueprint"
+  },
+  {
+    "term": "Clues/Details/FamilyPhoto 9",
+    "en": "the thing in the glass tank"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 1",
+    "en": "the painting"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 10",
+    "en": "the diary pages"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 2",
+    "en": "the frame"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 3",
+    "en": "the 'HER' plaque"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 4",
+    "en": "the wooden back"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 5",
+    "en": "the emblem"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 6",
+    "en": "the sun"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 7",
+    "en": "the woman"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 8",
+    "en": "the sword"
+  },
+  {
+    "term": "Clues/Details/FeliciaPainting 9",
+    "en": "the necklace"
+  },
+  {
+    "term": "Clues/Details/Figurehead 1",
+    "en": "the figurehead"
+  },
+  {
+    "term": "Clues/Details/Figurehead 2",
+    "en": "the necklace"
+  },
+  {
+    "term": "Clues/Details/Figurehead 3",
+    "en": "the shield"
+  },
+  {
+    "term": "Clues/Details/Figurehead 4",
+    "en": "the face"
+  },
+  {
+    "term": "Clues/Details/Figurehead 5",
+    "en": "the wooden beam"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 1",
+    "en": "Mortuga"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 2",
+    "en": "The Door"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 3",
+    "en": "The Sky"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 4",
+    "en": "The Railing"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 5",
+    "en": "The Aft Deck"
+  },
+  {
+    "term": "Clues/Details/FilmProjector 6",
+    "en": "The Wheel"
+  },
+  {
+    "term": "Clues/Details/FogBall 1",
+    "en": "the glass ball"
+  },
+  {
+    "term": "Clues/Details/FogBall 2",
+    "en": "the base"
+  },
+  {
+    "term": "Clues/Details/FogBall 3",
+    "en": "the metal panel"
+  },
+  {
+    "term": "Clues/Details/FogBall 4",
+    "en": "the antenna"
+  },
+  {
+    "term": "Clues/Details/FogBall 5",
+    "en": "the battery"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 1",
+    "en": "the envelope"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 2",
+    "en": "the letter"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 3",
+    "en": "the 'T. W. Ibis' signature"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 4",
+    "en": "the stamp"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 5",
+    "en": "the address"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 6",
+    "en": "the post mark"
+  },
+  {
+    "term": "Clues/Details/HandwrittenLetter 7",
+    "en": "the diagrams"
+  },
+  {
+    "term": "Clues/Details/HexBottle 1",
+    "en": "the funnel"
+  },
+  {
+    "term": "Clues/Details/HexBottle 2",
+    "en": "the glass bottle"
+  },
+  {
+    "term": "Clues/Details/HexBottle 3",
+    "en": "the pattern on Hex's skin"
+  },
+  {
+    "term": "Clues/Details/HexBottle 4",
+    "en": "the sleeping Hexapus"
+  },
+  {
+    "term": "Clues/Details/HexBottle 5",
+    "en": "the memory of Mortuga"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 1",
+    "en": "the book"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 10",
+    "en": "the author biography 'With his debut novel...'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 11",
+    "en": "the dedication 'For T.W. Ibis, For imparting upon me...'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 12",
+    "en": "the first page 'Chapter 1, Lost at Sea'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 2",
+    "en": "the title 'Hex of the Helmsman'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 3",
+    "en": "the author 'J.D. Wirman'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 4",
+    "en": "the publisher 'Kristin Kale Publishing'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 5",
+    "en": "the illustration "
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 6",
+    "en": "the tagline 'Something terrible awaits you...'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 7",
+    "en": "the blurb 'He sees it in his dreams...'"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 8",
+    "en": "the barcode"
+  },
+  {
+    "term": "Clues/Details/HexoftheHelmsman 9",
+    "en": "the author photo"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 1",
+    "en": "the poster"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 2",
+    "en": "the 'Baroness Fortuna Presents' banner"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 3",
+    "en": "the 'Lady of the Looking Glass' title"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 4",
+    "en": "Sym and her reflection"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 5",
+    "en": "the ticket info"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 6",
+    "en": "'title here'"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 7",
+    "en": "the scythe guy"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 8",
+    "en": "Sym sitting on the cauldron"
+  },
+  {
+    "term": "Clues/Details/IllusionistPoster 9",
+    "en": "the cauldron"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 1",
+    "en": "Nobody"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 2",
+    "en": "The Stonetop Family"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 3",
+    "en": "Selena Stonetop"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 4",
+    "en": "Felicia Stonetop"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 5",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Clues/Details/InnDeeds 6",
+    "en": "Don Drummond"
+  },
+  {
+    "term": "Clues/Details/IronBell 1",
+    "en": "the iron bell"
+  },
+  {
+    "term": "Clues/Details/IronBell 2",
+    "en": "the mechanism parts"
+  },
+  {
+    "term": "Clues/Details/IronBell 3",
+    "en": "the darker part"
+  },
+  {
+    "term": "Clues/Details/IronBell 4",
+    "en": "the hanging part"
+  },
+  {
+    "term": "Clues/Details/IronBell 5",
+    "en": "the thing wedged in the side"
+  },
+  {
+    "term": "Clues/Details/IronBell 6",
+    "en": "the images"
+  },
+  {
+    "term": "Clues/Details/IronBell 7",
+    "en": "the moon"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 1",
+    "en": "the doll's body"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 2",
+    "en": "the doll's head"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 3",
+    "en": "the pullstring"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 4",
+    "en": "the locket"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 5",
+    "en": "the chest flap"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 6",
+    "en": "the projector"
+  },
+  {
+    "term": "Clues/Details/LifesizeDoll 7",
+    "en": "the hole in the doll's stomach"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 1",
+    "en": "the painting"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 2",
+    "en": "the frame"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 3",
+    "en": "the 'HER' plaque"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 4",
+    "en": "the blank panel"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 5",
+    "en": "the wooden back"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 6",
+    "en": "the emblem"
+  },
+  {
+    "term": "Clues/Details/MermaidPainting 7",
+    "en": "the painting of the creature"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 1",
+    "en": "the algae"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 2",
+    "en": "the wax"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 3",
+    "en": "the paper"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 4",
+    "en": "the title 'Curse in the Cauldron'"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 5",
+    "en": "the writing"
+  },
+  {
+    "term": "Clues/Details/MessageinaBottle 6",
+    "en": "the symbol"
+  },
+  {
+    "term": "Clues/Details/ModelTown 1",
+    "en": "the model town"
+  },
+  {
+    "term": "Clues/Details/ModelTown 10",
+    "en": "Gripp's Emporium"
+  },
+  {
+    "term": "Clues/Details/ModelTown 11",
+    "en": "the Sylvia Seafoam meeple"
+  },
+  {
+    "term": "Clues/Details/ModelTown 12",
+    "en": "the Don Drummond meeple"
+  },
+  {
+    "term": "Clues/Details/ModelTown 13",
+    "en": "the Damian Dusk meeple"
+  },
+  {
+    "term": "Clues/Details/ModelTown 14",
+    "en": "the Baroness Fortuna meeple"
+  },
+  {
+    "term": "Clues/Details/ModelTown 15",
+    "en": "the Governor Fellow meeple"
+  },
+  {
+    "term": "Clues/Details/ModelTown 16",
+    "en": "the lighthouse roof"
+  },
+  {
+    "term": "Clues/Details/ModelTown 17",
+    "en": "the projector"
+  },
+  {
+    "term": "Clues/Details/ModelTown 2",
+    "en": "the underside"
+  },
+  {
+    "term": "Clues/Details/ModelTown 3",
+    "en": "the sea"
+  },
+  {
+    "term": "Clues/Details/ModelTown 4",
+    "en": "the harbor"
+  },
+  {
+    "term": "Clues/Details/ModelTown 5",
+    "en": "the lighthouse"
+  },
+  {
+    "term": "Clues/Details/ModelTown 6",
+    "en": "the boats"
+  },
+  {
+    "term": "Clues/Details/ModelTown 7",
+    "en": "the fountain"
+  },
+  {
+    "term": "Clues/Details/ModelTown 8",
+    "en": "The Stonetop Inn"
+  },
+  {
+    "term": "Clues/Details/ModelTown 9",
+    "en": "Fortuna Hall Theatre"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 1",
+    "en": "the imprint"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 2",
+    "en": "the envelope"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 3",
+    "en": "the address"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 4",
+    "en": "the wax seal"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 5",
+    "en": "the post mark"
+  },
+  {
+    "term": "Clues/Details/MourningEnvelope 6",
+    "en": "the stamps"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 1",
+    "en": "the newspaper"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 10",
+    "en": "the adverts"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 2",
+    "en": "the newspaper's name"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 3",
+    "en": "the editor 'T.W. Ibis'"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 4",
+    "en": "the sea serpent headline"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 5",
+    "en": "the sea serpent photo"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 6",
+    "en": "the sea serpent article"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 7",
+    "en": "the illusionist headline"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 8",
+    "en": "the illusionist photo"
+  },
+  {
+    "term": "Clues/Details/NewspaperPage 9",
+    "en": "the illusionist article"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 1",
+    "en": "the gemstones"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 2",
+    "en": "the coral"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 3",
+    "en": "the shells"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 4",
+    "en": "the fish skeleton"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 5",
+    "en": "the coins"
+  },
+  {
+    "term": "Clues/Details/OceanTreasure 6",
+    "en": "the pearl necklace"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 1",
+    "en": "the pocketbook"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 2",
+    "en": "the padlock"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 3",
+    "en": "the emblem"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 4",
+    "en": "the stuff in the pocketbook"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 5",
+    "en": "the photo of 'Moon'"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 6",
+    "en": "the photo of 'Fortuna'"
+  },
+  {
+    "term": "Clues/Details/Pocketbook 7",
+    "en": "the photo of 'Tanya'"
+  },
+  {
+    "term": "Clues/Details/RaggedCloth 1",
+    "en": "the sailcloth"
+  },
+  {
+    "term": "Clues/Details/RaggedCloth 2",
+    "en": "the holes"
+  },
+  {
+    "term": "Clues/Details/RaggedCloth 3",
+    "en": "the title"
+  },
+  {
+    "term": "Clues/Details/RippedScroll 1",
+    "en": "the wooden part"
+  },
+  {
+    "term": "Clues/Details/RippedScroll 2",
+    "en": "the parchment"
+  },
+  {
+    "term": "Clues/Details/RippedScroll 3",
+    "en": "the face"
+  },
+  {
+    "term": "Clues/Details/RippedScroll 4",
+    "en": "the egg-shaped thing"
+  },
+  {
+    "term": "Clues/Details/RippedScroll 5",
+    "en": "the writing"
+  },
+  {
+    "term": "Clues/Details/SeaChart 1",
+    "en": "the wooden part"
+  },
+  {
+    "term": "Clues/Details/SeaChart 2",
+    "en": "the parchment"
+  },
+  {
+    "term": "Clues/Details/SeaChart 3",
+    "en": "the creepy drawing"
+  },
+  {
+    "term": "Clues/Details/SeaChart 4",
+    "en": "the coral"
+  },
+  {
+    "term": "Clues/Details/SeaChart 5",
+    "en": "the map"
+  },
+  {
+    "term": "Clues/Details/SeaChart 6",
+    "en": "the X on the map"
+  },
+  {
+    "term": "Clues/Details/SeaChart 7",
+    "en": "the 'Service Record' sticker"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 1",
+    "en": "the sea"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 2",
+    "en": "the ship"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 3",
+    "en": "the sail"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 4",
+    "en": "the figurehead"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 5",
+    "en": "the helmsman"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 6",
+    "en": "the captain"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 7",
+    "en": "the bottle cap"
+  },
+  {
+    "term": "Clues/Details/ShipinaBottle 8",
+    "en": "the glass dropper"
+  },
+  {
+    "term": "Clues/Details/ShipsWheel 1",
+    "en": "the valve wheel"
+  },
+  {
+    "term": "Clues/Details/ShipsWheel 2",
+    "en": "the axle"
+  },
+  {
+    "term": "Clues/Details/ShipsWheel 3",
+    "en": "the original wood"
+  },
+  {
+    "term": "Clues/Details/ShipsWheel 4",
+    "en": "the newer part"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 1",
+    "en": "The map"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 10",
+    "en": "Family Tree"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 2",
+    "en": "F Emblem"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 3",
+    "en": "D Emblem"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 4",
+    "en": "Fortuna Hall"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 5",
+    "en": "Silkwirm Spectator"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 6",
+    "en": "Stonetop Emblem"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 7",
+    "en": "Gripp's Emporium"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 8",
+    "en": "Seafoam Emblem"
+  },
+  {
+    "term": "Clues/Details/SilkwirmMap 9",
+    "en": "Lighthouse logo"
+  },
+  {
+    "term": "Clues/Names/ActionFigure",
+    "en": "Action Figure"
+  },
+  {
+    "term": "Clues/Names/BalloonBasket",
+    "en": "Balloon Basket"
+  },
+  {
+    "term": "Clues/Names/BlackBox",
+    "en": "The Black Box"
+  },
+  {
+    "term": "Clues/Names/BlurryPhoto",
+    "en": "Moon Photo"
+  },
+  {
+    "term": "Clues/Names/BrokenCompass",
+    "en": "Broken Compass"
+  },
+  {
+    "term": "Clues/Names/CaptainsJacket",
+    "en": "Captain's Jacket"
+  },
+  {
+    "term": "Clues/Names/CaptainsLog",
+    "en": "Captain's Log"
+  },
+  {
+    "term": "Clues/Names/CaretakersJournal",
+    "en": "Caretaker's Journal"
+  },
+  {
+    "term": "Clues/Names/CaseFile",
+    "en": "Case File"
+  },
+  {
+    "term": "Clues/Names/CellPhone",
+    "en": "Cell Phone"
+  },
+  {
+    "term": "Clues/Names/CommandContract",
+    "en": "Command Contract"
+  },
+  {
+    "term": "Clues/Names/CorneliusCane",
+    "en": "Cornelius Cane"
+  },
+  {
+    "term": "Clues/Names/CurseCauldron",
+    "en": "Stone Cauldron"
+  },
+  {
+    "term": "Clues/Names/DivingLicense",
+    "en": "Diving License"
+  },
+  {
+    "term": "Clues/Names/DreamHelmet",
+    "en": "Dream Helmet"
+  },
+  {
+    "term": "Clues/Names/FamilyPhoto",
+    "en": "Family Photo"
+  },
+  {
+    "term": "Clues/Names/FeliciaPainting",
+    "en": "HER Painting"
+  },
+  {
+    "term": "Clues/Names/Figurehead",
+    "en": "Figurehead"
+  },
+  {
+    "term": "Clues/Names/FilmProjector",
+    "en": "Film Projector"
+  },
+  {
+    "term": "Clues/Names/FogBall",
+    "en": "Fog Ball"
+  },
+  {
+    "term": "Clues/Names/GlassEyeball",
+    "en": "Glass Eyeball"
+  },
+  {
+    "term": "Clues/Names/GoldenLocket",
+    "en": "Golden Locket"
+  },
+  {
+    "term": "Clues/Names/HandheldRadio",
+    "en": "Handheld Radio"
+  },
+  {
+    "term": "Clues/Names/HandwrittenLetter",
+    "en": "Handwritten Letter"
+  },
+  {
+    "term": "Clues/Names/HexBottle",
+    "en": "Hex Bottle"
+  },
+  {
+    "term": "Clues/Names/HexoftheHelmsman",
+    "en": "Hex of the Helmsman"
+  },
+  {
+    "term": "Clues/Names/IllusionistPoster",
+    "en": "Illusion Poster"
+  },
+  {
+    "term": "Clues/Names/InnDeeds",
+    "en": "Inn Deeds"
+  },
+  {
+    "term": "Clues/Names/IronBell",
+    "en": "Iron Bell"
+  },
+  {
+    "term": "Clues/Names/LifesizeDoll",
+    "en": "Lifesize Doll"
+  },
+  {
+    "term": "Clues/Names/MermaidPainting",
+    "en": "HER Painting"
+  },
+  {
+    "term": "Clues/Names/MessageinaBottle",
+    "en": "Message in a Bottle"
+  },
+  {
+    "term": "Clues/Names/ModelTown",
+    "en": "Model Town"
+  },
+  {
+    "term": "Clues/Names/MoonVial",
+    "en": "Moon Vial"
+  },
+  {
+    "term": "Clues/Names/MourningEnvelope",
+    "en": "Mourning Envelope"
+  },
+  {
+    "term": "Clues/Names/MovieMagazine",
+    "en": "Movie Magazine"
+  },
+  {
+    "term": "Clues/Names/NewspaperPage",
+    "en": "Newspaper Page"
+  },
+  {
+    "term": "Clues/Names/OceanTreasure",
+    "en": "Ocean Treasure"
+  },
+  {
+    "term": "Clues/Names/Pocketbook",
+    "en": "Pocketbook"
+  },
+  {
+    "term": "Clues/Names/RaggedCloth",
+    "en": "Sailcloth"
+  },
+  {
+    "term": "Clues/Names/RippedScroll",
+    "en": "Ripped Scroll"
+  },
+  {
+    "term": "Clues/Names/SeaChart",
+    "en": "Ocean Map"
+  },
+  {
+    "term": "Clues/Names/ShipinaBottle",
+    "en": "Ship in a Bottle"
+  },
+  {
+    "term": "Clues/Names/ShipsWheel",
+    "en": "Ship's Wheel"
+  },
+  {
+    "term": "Clues/Names/SilkwirmMap",
+    "en": "Silkwirm Map"
+  },
+  {
+    "term": "Clues/Names/StrangeDevice",
+    "en": "Strange Device"
+  },
+  {
+    "term": "Clues/Names/SubmarineBlueprint",
+    "en": "Submarine Blueprint"
+  },
+  {
+    "term": "Clues/Names/SunTablets",
+    "en": "Sun Tablets"
+  },
+  {
+    "term": "Clues/Names/TheMermaidsTongue",
+    "en": "The Mermaid's Tongue"
+  },
+  {
+    "term": "Clues/Names/Typewriter",
+    "en": "Typewriter"
+  },
+  {
+    "term": "Clues/Names/UnderwaterPhoto",
+    "en": "Underwater Photo"
+  },
+  {
+    "term": "Clues/Names/WoodenBuoy",
+    "en": "Wooden Buoy"
+  },
+  {
+    "term": "Clues/Names/WoodenPipe",
+    "en": "Wooden Pipe"
+  },
+  {
+    "term": "Clues/Names/ZephyrsLetters",
+    "en": "Zephyr's Letters"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text0",
+    "en": "An action figure still in its original packaging.\nIt was proudly displayed in the bunk room."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text1",
+    "en": "Yeah, you know, they told me if I leave it in the box it'll be worth way more in the future."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text10",
+    "en": "BELICIA\nBONETOP"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text11",
+    "en": "The enigmatic sea captain. Includes ship's compass and treasure map."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text12",
+    "en": "MARKUS\nMORDOOM"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text13",
+    "en": "The tormented helmsman. Includes anchor sword and ship's wheel shield."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text14",
+    "en": "DEVIL OF\nTHE DEEP"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text15",
+    "en": "The mysterious entity from beneath the waves. Includes reaper scythe."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text16",
+    "en": "Series 2 coming soon! Look out for:"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text17",
+    "en": "Hex of the Helmsman 2"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text18",
+    "en": "Only in Theatres"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text2",
+    "en": "That's the Captain, is it? And her accessories are a compass and a map? Typical navigator erasure."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text3",
+    "en": "Sorry - Belicia Bonetop? Flying a little close to the sun with that name, aren't they?"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text4",
+    "en": "I noticed on the back of the box it says 'Series 2 Coming Soon...'"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text5",
+    "en": "HEX of the\nHELMSMAN"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text6",
+    "en": "MARKUS MORDOOM"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text7",
+    "en": "A MAN CURSED BY THE SEA"
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text8",
+    "en": "He sees it in his nightmares. He sees it when he shuts his eyes. He cannot escape from it. But what - or who - is it? Renowned Helmsman Markus Mordoom is a man on a singular mission. He won't rest until he discovers the truth of what's really hidden beneath the stormy sea."
+  },
+  {
+    "term": "Clues/Text/ActionFigure/Text9",
+    "en": "SERIES 1"
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text0",
+    "en": "A basket for a hot air balloon. It was hanging in the centre of the engine room."
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text1",
+    "en": "For most of its life it was just ornamental - we put it out the front of the shop as a billboard."
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text2",
+    "en": "They'd complain that Mr Gripp would charge them full price. Even though they were locals."
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text3",
+    "en": "Ah, there lies the picture of the cane. But wait; is it of-a-one with that in current Godrik's grasp?"
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text4",
+    "en": "No, the basket is made from wicker and carbon fiber... The wood inside the basket - that's the mahogany."
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text5",
+    "en": "MR GRIPP'S EMPORIUM\nBUY  -  SELL -  REPAIR\n\nHere at Mr Gripp's, we chart the unchartable, plot the unplottable, and measure the unmeasurable.\n\nWith the right contraption in your pocket, even the great unknown may be quantified and calculated.\n"
+  },
+  {
+    "term": "Clues/Text/BalloonBasket/Text6",
+    "en": "OPEN!\n\n10AM to 6PM\nMON to SAT"
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text0",
+    "en": "An old wooden box that won't open. It was laying on the bed in the Captain's Quarters."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text1",
+    "en": "...did you open it? Have you tried pushing the diamond thingy? Perhaps you need a key?"
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text2",
+    "en": "I cannot turn mine eyes, what lies within!? Surely some solemn secret, dark and dreadful."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text3",
+    "en": "S'far as I know, that box is a very recent addition to the submarine."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text4",
+    "en": "I think it may have been the catalyst that lead to Mortuga's murder."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text5",
+    "en": "..."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text6",
+    "en": "The box opens by sliding a drawer out the side."
+  },
+  {
+    "term": "Clues/Text/BlackBox/Text7",
+    "en": "Inside were three objects; a rusty film reel, a ripped scroll and a black-edged envelope."
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text0",
+    "en": "An instant photo depicting a muscular man.\nIt was found in the cargo hold."
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text1",
+    "en": "-is that Tadpole with long hair? She never told me about that! It's a strong look."
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text2",
+    "en": "Aha! This must be where Madam Tadpole got her stage name."
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text3",
+    "en": "That's no woman! That's a mermaid! Slumbering in an ethereal bubble!"
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text4",
+    "en": "It's a fake tail - I don't wear it anymore. It actually slowed me down."
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text5",
+    "en": "Night of a Full Moon"
+  },
+  {
+    "term": "Clues/Text/BlurryPhoto/Text6",
+    "en": "WW\nWaylan Wolfe"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text0",
+    "en": "A broken compass that's in the process of being fixed. It was on display in Gripp's shop."
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text1",
+    "en": "The ship's compass. Gripp left it for us in the Captain's Quarters."
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text10",
+    "en": "Cost:\nWaived"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text11",
+    "en": "MR GRIPP'S\nEMPORIUM\nSilkwirm-on-Sea"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text12",
+    "en": "Ships Compass"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text13",
+    "en": "Fixed Compass"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text2",
+    "en": "I witnessed Sinthia carrying it from the control room - on the night Magnus was murdered."
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text3",
+    "en": "You see, Miss Seafoam came to me with a compass she needed fixing..."
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text4",
+    "en": "The original needle was broken. Mr Gripp said he had a few he could try out as replacements."
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text5",
+    "en": "So - Gripp is only pretending to fix it?"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text6",
+    "en": "SERVICE RECORD"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text7",
+    "en": "Issue with compass:\nMomentarily Overwhelmed"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text8",
+    "en": "Compass fixed by:\nGodrik Gripp"
+  },
+  {
+    "term": "Clues/Text/BrokenCompass/Text9",
+    "en": "For customer:\nSinthia Seafoam"
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text0",
+    "en": "An ornate jacket displayed on a wooden mannequin in the control room."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text1",
+    "en": "We can't touch it, as it's kept locked behind glass."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text2",
+    "en": "There was a handheld radio in the right pocket."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text3",
+    "en": "Oh, how strange. It's never been worn."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text4",
+    "en": "I have my own jacket. This one stays behind glass.\nIt's... just the way it's meant to be."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text5",
+    "en": "I guess she'd rather keep it preserved."
+  },
+  {
+    "term": "Clues/Text/CaptainsJacket/Text6",
+    "en": "Both she and I hath mothers lost... and both a token keep."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text0",
+    "en": "An old ring-bound log book. It was locked in a hatch in the control panel."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text1",
+    "en": "Several cards are kept inside. Each one has a set of machine-printed coordinates and handwritten notes."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text10",
+    "en": "0"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text11",
+    "en": "1"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text12",
+    "en": "2"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text13",
+    "en": "?"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text14",
+    "en": "DEPTH"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text15",
+    "en": "3"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text16",
+    "en": "HEADING"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text17",
+    "en": "N"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text18",
+    "en": "E"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text19",
+    "en": "S"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text2",
+    "en": "So, at the end of every day you're supposed to print out one of these little cards..."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text20",
+    "en": "NOTES"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text21",
+    "en": "Captain Mortuga found dead. Details unknown. Crew is tumultuous. Captain Seafoam assumes command."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text22",
+    "en": "Sinthia\nSeafoam"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text23",
+    "en": "Captain Mortuga found dead.\nDetails unknown.\nCrew is tumultuous.\nCaptain Seafoam assumes command."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text24",
+    "en": "4"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text25",
+    "en": "NE"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text26",
+    "en": "James Dusk arrives on submarine (and a man named Dirk Dansom)"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text27",
+    "en": "Magnus\nMortuga"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text28",
+    "en": "5"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text29",
+    "en": "SW"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text3",
+    "en": "...with readings from the submarine's movements in the last twenty-four hours..."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text30",
+    "en": "W"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text31",
+    "en": "A girl named Sinthia Seafoam contacted the submarine by radio from a rowing boat"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text32",
+    "en": "Magnus Mortuga"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text33",
+    "en": "A woman named Madam Tadpole was found in the ocean"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text34",
+    "en": "SE"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text35",
+    "en": "Zephyr invites a girl named Symmetry Silkmoth onto the submarine"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text36",
+    "en": "Godrik Gripp rescued from hot air balloon accident"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text37",
+    "en": "Zacharias Zephyr sets up his equipment in the infirmary"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text38",
+    "en": "Final preparations before we take the submarine out for the first time"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text4",
+    "en": "...then the captain signs it and writes about anything noteworthy that happened."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text5",
+    "en": "On the latest card - the readings towards the end are all messed up."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text6",
+    "en": "...as if she seeks to speak, yet lacks the tongue to voice her troubled thought."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text7",
+    "en": "He doesn't have a signature - Mortuga. He writes his name differently every time."
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text8",
+    "en": "COORDINATES"
+  },
+  {
+    "term": "Clues/Text/CaptainsLog/Text9",
+    "en": "SPEED"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text0",
+    "en": "A small booklet found on the bookcase in the Dream Chamber."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text1",
+    "en": "It is what it says it is. A quarterly journal of listings and enquiries."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text10",
+    "en": "Desperately coveted by those who believe, and disdained by those who don't."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text11",
+    "en": "Hm, they say it allows humans to commune directly with God, while they're still alive."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text12",
+    "en": "She Who Lies Beyond The Veil, God, Other Dimensions, Aliens, The Afterlife..."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text13",
+    "en": "You know, it varies. But the sentiment is the same."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text14",
+    "en": "I wonder if it may not even be real. After all, there isn't even a photograph - that's just a drawing."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text15",
+    "en": "LILLIAN'S LOCKET"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text16",
+    "en": "SILVERSNAKE SKULL"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text17",
+    "en": "HIS GOLDEN PALM"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text18",
+    "en": "THE MERMAID'S TONGUE"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text19",
+    "en": "CARETAKERS\nCOLLECTIVE\n\nQUARTERLY JOURNAL\nLISTINGS & ENQUIRIES"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text2",
+    "en": "That face! M-mine eye but chanced upon it. Nothing more."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text20",
+    "en": "LILLIAN'S LOCKET\n\nLillian Lucian was a Witch of some infamy before her untimely end at the hands of a curse.\n\nSome say the locket protects from curses, others suggest it absorbs them, imbibing their power.\n\n9oz"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text21",
+    "en": "SILVERSNAKE SKULL\n\nThe disembodied skull of the mysterious Silkwirm Serpent. Notably, it has no eye sockets.\n\nUse discretion, as several high quality fakes are in circulation.\n\n17oz"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text22",
+    "en": "HIS GOLDEN PALM\n\nMade from an unknown material 90% similar to Gold.\n\nThe hand is said to be able to touch ghosts.\n\n23oz"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text23",
+    "en": "THE MERMAID'S TONGUE\n\nSaid to facilitate communication with\nShe Who Lies Beyond The Veil.\n\nRequires a special key to operate.\nBoth the key and the Mermaid's Tongue itself are rumored to be lost at sea.\n\nNAME YOUR PRICE"
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text3",
+    "en": "I didn't know she - I didn't know it had a name."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text4",
+    "en": "Page 2 information about the clue.\nIt can be one or two lines."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text5",
+    "en": "Information about the clue.\nIt can be one or two lines."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text6",
+    "en": "Well, I know it's a big sea serpent that my mom and her best friend fished outta the ocean."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text7",
+    "en": "Eventually some men came and took it away."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text8",
+    "en": "I've seen it - and so have you. It's attached to Dr Zephyr's left wrist."
+  },
+  {
+    "term": "Clues/Text/CaretakersJournal/Text9",
+    "en": "Likely the most contentious item ever to be listed in the Journal."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text0",
+    "en": "A rugged, leather-bound folder.\nIt was left on the bar of the Stonetop Inn."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text1",
+    "en": "So - Sinthia hired you to solve the murder, huh?"
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text10",
+    "en": "Murder Victim: Captain Magnus Mortuga (39)\nLocation: Illusion Theatre,  Mortuga Submarine\n\nMortuga had locked himself in the room. It was later forced open, and the body was discovered.\n\nMortuga was found alone, laying on his back,\nwith a single cut across his throat. No bladed weapon of any kind was found in the room.\n"
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text11",
+    "en": "The Illusion Theatre is mostly empty, save for an ancient stone cauldron with a thick metal lid.\n\n The purpose of this cauldron is unknown.\nHowever, I am informed that it has\n\"never been unlocked before.\"\n\nIt is now unlocked.\nIt is now open."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text12",
+    "en": "Signed,\nCaptain Seafoam\n\nCaptain of the Mortuga Submarine"
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text2",
+    "en": "Aha! I see you found my case file."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text3",
+    "en": "It seems our collective fate hangs on the outcome of your investigation..."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text4",
+    "en": "A single handwritten letter and two photographs."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text5",
+    "en": "Yeah. Nice. Just enough information to hook you, without giving too much away."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text6",
+    "en": "Sinthia had to ask my help when writing this up - she wanted to put Magnus's age, but she didn't know it."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text7",
+    "en": "The letter in fair Sinthia's hand... a plan devised by her and her alone."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text8",
+    "en": "I see Sinthia's proudly wielding the Seafoam 'S' in her signature, there."
+  },
+  {
+    "term": "Clues/Text/CaseFile/Text9",
+    "en": "for\nDetective\nGrimoire"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text0",
+    "en": "A cell phone with a lid that flips open. It was found in the pocket of a tuxedo in the bunk room."
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text1",
+    "en": "It has a flashlight function."
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text13",
+    "en": "This part:"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text14",
+    "en": "Home"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text15",
+    "en": "Welcome, Dirk"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text16",
+    "en": "Calls"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text17",
+    "en": "(Outgoing)\n202-555-178"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text18",
+    "en": "(Outgoing)\n216-618-0974"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text19",
+    "en": "(Outgoing)\n317-960-3316"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text2",
+    "en": "I never actually had my own cell phone - do they all have flashlights like this?"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text20",
+    "en": "(Outgoing)\n505-644-8680"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text21",
+    "en": "(Outgoing)\n505-644-4889"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text22",
+    "en": "(Incoming)\n317-960-3316"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text23",
+    "en": "Phonebook"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text24",
+    "en": "Accountant Polly\n582-555-055"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text25",
+    "en": "Agent (Marsha)\n505-555-868"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text26",
+    "en": "Big Reel Steven\n239-555-375"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text27",
+    "en": "Daisy\n269-555-872"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text28",
+    "en": "Janele\n617-555-604"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text29",
+    "en": "Lawyer Woodrow\n202-555-061"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text3",
+    "en": "A ZX-5. Nice piece of kit. Polycarbonate shell, tactile interface, unusually good battery life-"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text30",
+    "en": "Mom\n505-555-488"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text31",
+    "en": "Van De Peer\n317-555-331"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text32",
+    "en": "Wirman (Office)\n582-555-734"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text33",
+    "en": "Emails"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text34",
+    "en": "To:\nFrom:"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text35",
+    "en": "Dirk_007@DirkNet"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text36",
+    "en": "Big Reel Studios"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text37",
+    "en": "The offer's still on the table.\n500,000 with no multi-picture deal. Sci-fi, lasers, explosions. It's gonna be big. Call me.\n-Steve"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text38",
+    "en": "Jimmy B"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text39",
+    "en": "hi dirk my name is jimmy i am a big fan I have lots of ideas for movies you could do and you can use them for free but please put me in the credits okay thanks okay please write back"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text4",
+    "en": "I kinda wish Dirk hadn't brought that onto the submarine."
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text40",
+    "en": "Julie"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text41",
+    "en": "Hey Dansom, where did you run off to? They said you went on a work trip?? wtf thanks for inviting me"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text42",
+    "en": "Marsha Mimms"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text43",
+    "en": "Steve admitted he'd emailed you again. This is a reminder that you are NOT free to take his offer! All in good time."
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text44",
+    "en": "Messages"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text45",
+    "en": "To: Van De Peer"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text46",
+    "en": "He's still struggling. He keeps writing the first chapter over and over. I'll let you know if there's any progress.\n-D"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text47",
+    "en": "From: Van De Peer"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text48",
+    "en": "Remember, we need SEVERAL new characters, lots of action, and tell him to go BIG with the drama, romance & swordfights.\n-VDP"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text49",
+    "en": "He is writing something (?)\nBut I don't think it's going very well. He seems easily distracted.\n-D"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text5",
+    "en": "Feels like it breaks some unspoken rule - having contact with the outside world..."
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text6",
+    "en": "I can't stand these things. A procrastinator's worst nightmare. "
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text7",
+    "en": "......"
+  },
+  {
+    "term": "Clues/Text/CellPhone/Text8",
+    "en": "It turns on, but there's no signal and the battery could do with charging."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text0",
+    "en": "A typed document that was taped to the back of the captain's chair in the control room."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text1",
+    "en": "There are two handwritten signatures at the bottom of the last page."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text10",
+    "en": "This proves Party B is the rightful commander of this vessel and all its operations.\n \nSigned                                      Signed\nMAGNUS                                SINTHIA\nMORTUGA                            SEAFOAM\nParty A                                      Party B"
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text11",
+    "en": "Third Page"
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text12",
+    "en": "It is understood that Party A commissioned a Mr Donovan Drummond to construct the Mortuga Submarine by combining parts from two other vessels.\n\nParty A claimed to have paid for this transaction alone, and thus was the legal owner of the Mortuga Submarine - despite its name."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text13",
+    "en": "Second Page"
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text14",
+    "en": "However, one Sinthia Seafoam has now provided evidence of how exactly Mr Drummond was paid.\n\nIt transpires that Mr Drummond was paid with the deeds to the Stonetop Inn, which belonged solely to Party B at the time of the transaction."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text2",
+    "en": "The missing second page was discovered inside a glass bottle."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text3",
+    "en": "No... I don't like this at all... She shouldn't have signed it."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text4",
+    "en": "I saw her running from the bridge - all pages clasped in hand."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text5",
+    "en": "The wording. It's too vague, it could be about anything."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text6",
+    "en": "I wonder what compelled him to draw up a contract like this..."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text7",
+    "en": "COMMAND CONTRACT\n\nThis contract represents an agreement between the two individuals in contention over the ownership and command of the Mortuga submarine.\n\nFor their own safety and privacy, these two people shall only be referred to as Party A and Party B."
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text8",
+    "en": "First Page"
+  },
+  {
+    "term": "Clues/Text/CommandContract/Text9",
+    "en": "Previously, Party A has been considered the legal owner of the Mortuga submarine, and thus its rightful commander.\n\nHowever, a recent development has exposed that Party B is in fact the legal owner of this vessel."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Remove",
+    "en": "REMOVE"
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text0",
+    "en": "A wooden cane used by Godrik Gripp."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text1",
+    "en": "Why bother with the - the cane, and the whole persona?"
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text2",
+    "en": "To him , it may be a wooden stick of great thunderous importance."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text3",
+    "en": "I'm sure I saw a picture of this recently... but it looked different."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text4",
+    "en": "...the wood itself - it's mahogany, but it smells of salty ocean air..."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text5",
+    "en": "If you watch Gripp closely, he holds it tighter whenever he gets sad or nervous."
+  },
+  {
+    "term": "Clues/Text/CorneliusCane/Text6",
+    "en": "It may transpire that the true meaning of the cane is found in its unsinkability."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text0",
+    "en": "An ancient-looking stone cauldron. It was found in the Illusion Theatre, in front of Mortuga's body.\n"
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text1",
+    "en": "The glittering interior of the cauldron is marked with several deep scratches."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text10",
+    "en": "All I can say for sure, is that at one time, this cauldron spent several years underwater."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text11",
+    "en": "Before we left port on the submarine's maiden voyage, Magnus asked a favor of me;"
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text12",
+    "en": "He wished for me to venture into the Stonetop Inn, collect this cauldron, and bring it on board."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text2",
+    "en": "The exterior is spotted with algae and barnacles."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text3",
+    "en": "It's a strong image - the ancient cauldron, opened for the very first time..."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text4",
+    "en": "And nobody knew how to unlock it - except, presumably, Mortuga himself."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text5",
+    "en": "'Lay not thy hand upon its lid! Lest thou be bound to ceaseless sorrow!'"
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text6",
+    "en": "I'm not sure. They don't really look like anything made by an animal..."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text7",
+    "en": "Seems like he was keeping it secret."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text8",
+    "en": "The scratch marks... they don't really look like anything made by an animal."
+  },
+  {
+    "term": "Clues/Text/CurseCauldron/Text9",
+    "en": "It was found in the Illusion Theatre, in front of Mortuga's body.\n"
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text0",
+    "en": "A license card that's been cut in half and taped back together. It was found in the bilge."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text1",
+    "en": "Hey, wow. Uh, did Tadpole give you that?"
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text2",
+    "en": "And yet I feel like I recognise the handwriting..."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text3",
+    "en": "Ugh, they'd never let me in. I can barely even swim."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text4",
+    "en": "She probably did it to reduce drag, you know - like an aerodynamics thing."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text5",
+    "en": "Tanya Tap-dole... Ah. I see what you did there."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text6",
+    "en": "..."
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text7",
+    "en": "OCEAN RESCUE\nDIVERS ASSOCIATION\n\n\nORDA"
+  },
+  {
+    "term": "Clues/Text/DivingLicense/Text8",
+    "en": "Diver No. 0852437\nTANYA TAPDOLE\n\nSpecialist:\nFree Diving        Reduced Visibility\nDeep Diving        High Pressure\n\nTanya Tapdole\n\nOCEAN RESCUE DIVERS ASSOCIATION"
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text0",
+    "en": "A peculiar piece of equipment found in Dr Zephyr's Dream Chamber."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text1",
+    "en": "A large brass funnel is attached to the top of a pair of leather goggles. "
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text2",
+    "en": "Curiously, the goggles are fully opaque - you can't see anything while you're wearing them."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text3",
+    "en": "This pattern looks like a bit like a dreamcatcher."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text4",
+    "en": "In fact, I'm pretty sure he measured Mortuga's head to get the shape right."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text5",
+    "en": "I'm getting wind-battered mahogany... ice cold sea spray... and mostly-melted candlewax."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text6",
+    "en": "It is an energy filter."
+  },
+  {
+    "term": "Clues/Text/DreamHelmet/Text7",
+    "en": "To study the transmission, it is first necessary to change the format of the energy signature."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text0",
+    "en": "A framed photograph found in Symmetry and Sinthia's bunk room."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text1",
+    "en": "-is that Sinthia's mom?? That jacket is something else!"
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text2",
+    "en": "That man on the right - that's Don Drummond, the shipyard mechanic."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text3",
+    "en": "She was super ambitious, always making plans - my dad could barely keep up."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text4",
+    "en": "A submarine constructed by the harbormaster and the shipyard mechanic."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text5",
+    "en": "A sorry-sorrow'd tale has she, for never fully wrought."
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text6",
+    "en": "There it is - on the left hand side, in the big tank of water. I think it's the reason they built the submarine.\n"
+  },
+  {
+    "term": "Clues/Text/FamilyPhoto/Text7",
+    "en": "So Sylvia made a plan to go and live in a submarine, and take the Silversnake with her."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text0",
+    "en": "A framed painting of a woman, found in the captain's cabin."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text1",
+    "en": "There is a metal plaque on the base of the frame with the word 'HER' engraved on it."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text10",
+    "en": "wanted to turn around and go back to Silkwirm. Empty handed?? Never!!\n\nSo all the way there, he was sulky and moody. Even more so than usual, I mean. He can be such a baby sometimes.\n\nI didn't let it bother me, because (as I had known it would) the moment we saw the green light, his curiosity got the better"
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text11",
+    "en": "hauled it up. Took forever - it's super heavy, and I really didn't want any of it to get damaged.\n\nOnce it's on the deck, Magnus put his arms around it to turn the things. He can just about reach, but I told him not to do it like that. Might not be safe, since we don't know exactly what'll happen.\n\nSo I said we could do it together, one each. That worked just fine, but we"
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text2",
+    "en": "A few scattered pages from a diary are pinned to the back of the frame."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text3",
+    "en": "Let's make sure to ask everyone about this."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text4",
+    "en": "This Mortuga's girlfriend or something?"
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text5",
+    "en": "This painting used to be in my house. In my father's study. It hung there for at least a year."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text6",
+    "en": "I assume she's dead. This woman."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text7",
+    "en": "He seemed drawn to it - entranced - always held within its orbit, unable to drift away."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text8",
+    "en": "This here - that's the Stonetop emblem."
+  },
+  {
+    "term": "Clues/Text/FeliciaPainting/Text9",
+    "en": "and Mother finally let me have the map. Most of it anyway - the important bits are all still there.\n\nProblem: I spent all last night trying to decipher the actual coordinates. I couldn't do it! Magnus couldn't do it either, but he said we could pay someone to do it for us.\n\nSo, I've put him in charge of that while I make preparations on the ship. I need to"
+  },
+  {
+    "term": "Clues/Text/Figurehead/Text0",
+    "en": "An old wooden figurehead from a sailing ship.\nIt was tied to the back of the aft deck."
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text0",
+    "en": "Grimoire"
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text1",
+    "en": "W&W PROD"
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text2",
+    "en": "229 - 19T0"
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text3",
+    "en": "01 : 13 : 00"
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text4",
+    "en": "CAM-01"
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text5",
+    "en": "A vintage film projector. A film reel has been placed in the top."
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text6",
+    "en": "No. Not mine. Merely borrowed from Magnus Mortuga."
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text7",
+    "en": "...I heard that phrase spoken aloud when I was in the bilge with Mariana Moon."
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text8",
+    "en": "That voice... That's the voice I heard when I was in the bilge..."
+  },
+  {
+    "term": "Clues/Text/FilmProjector/Text9",
+    "en": "Hm. An apparition of Death. Intriguing."
+  },
+  {
+    "term": "Clues/Text/FogBall/Face",
+    "en": "FACE"
+  },
+  {
+    "term": "Clues/Text/FogBall/Fog",
+    "en": "FOG"
+  },
+  {
+    "term": "Clues/Text/FogBall/Text0",
+    "en": "A strange glass ball found in the Dream Chamber. Something is swirling around inside of it."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text1",
+    "en": "That belongs to Sym, I'm pretty sure."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text2",
+    "en": "Well… thou may’st use it... to speak with Gregory."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text3",
+    "en": "Whispering questions into the 'great unseen beyond', hoping without hope to get a response."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text4",
+    "en": "...if I'm not mistaken, this little part at the front is actually a microphone."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text5",
+    "en": "It is on loan - from Miss Silkmoth. Indeed, it is a divining orb - of a sort."
+  },
+  {
+    "term": "Clues/Text/FogBall/Text6",
+    "en": "-what's this weird little antenna thing?"
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text0",
+    "en": "A strange glass eye found in the Child's Room. "
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text1",
+    "en": "It smells musty and unpleasant."
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text2",
+    "en": "Um... in the Parlor, on the floor."
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text3",
+    "en": "What I do know, is that it belonged to Mortuga."
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text4",
+    "en": "Perhaps it came from the ocean - have you asked Madam Tadpole about it?"
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text5",
+    "en": "I imagine, at some point, Sinthia will assume use of the captain's cabin?"
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text6",
+    "en": "It's Magnus's key. It unlocks his cabin."
+  },
+  {
+    "term": "Clues/Text/GlassEyeball/Text7",
+    "en": "Eyeball Key"
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text0",
+    "en": "A heavy golden locket that Symmetry wears around her neck."
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text1",
+    "en": "Sym let you see her locket...?"
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text2",
+    "en": "Looks like gold to me."
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text3",
+    "en": "Uh  - it's some kind of family heirloom, I think?"
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text4",
+    "en": "'Lillian's Locket', in the flesh."
+  },
+  {
+    "term": "Clues/Text/GoldenLocket/Text5",
+    "en": "T'was my mother’s own, or so I'm told."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text0",
+    "en": "A small handheld radio hidden in the captain's cabin. It seems to be broken."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text1",
+    "en": "It's a two-way radio, so it could only talk to another one in the same set."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text2",
+    "en": "A second radio was found in the pocket of the captain's jacket in the control room."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text3",
+    "en": "Of course, I brought it with me - that's how I first contacted the submarine from the outside."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text4",
+    "en": "It might get a better signal up in the control room, or up on deck."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text5",
+    "en": "Do you know who it's supposed to be?"
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text6",
+    "en": "Some unseen entity is attempting to speak with us through the radio..."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text7",
+    "en": "How it blinks and flickers so! As if it sought to speak with kin!"
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text8",
+    "en": "It's a two-way radio anyway, so it would only talk to another one in the same set."
+  },
+  {
+    "term": "Clues/Text/HandheldRadio/Text9",
+    "en": "Handheld Radios"
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text0",
+    "en": "A letter in an envelope. Wirman was keeping it hidden inside his typewriter."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text1",
+    "en": "Wirman read that thing a hundred times over on the journey down here."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text2",
+    "en": "The stamp - that's Governor Fellow. The guy who owned Silkwirm-on-sea."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text3",
+    "en": "Hm. This 'Ibis' person claiming to have information on Mortuga..."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text4",
+    "en": "My guess is that's intended to incite curiosity in the recipient."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text5",
+    "en": "The handwriting. That's girl's handwriting."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text6",
+    "en": "Oh... I don't know anything about that."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text7",
+    "en": "J. D. Wirman\nCare of: Kristin Kale Publishing\nHillwood Boulevard\nSunlit City 91052"
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text8",
+    "en": "Dear James\n\nI've just finished reading your novel. Indeed, some congratulations are in order, as I've been informed it is turning a tidy profit for you.\n\nHowever, as a fellow writer and fellow resident of Silkwirm-on-Sea, I am sorely disappointed in your lack of integrity regarding the sociohistorical foundations of your story."
+  },
+  {
+    "term": "Clues/Text/HandwrittenLetter/Text9",
+    "en": "As it stands, your narrative is only scratching the surface of the deeper mythos surrounding the 'cursed helmsman' Magnus Mortuga.\n\nI know you want to go deeper, so I am here to help.\nInked on the back of this letter are co-ordinates detailing how, when and where to find The Mortuga Submarine - the mysterious underwater vessel in which Mortuga still resides. Good luck.\n\nT. W. Ibis"
+  },
+  {
+    "term": "Clues/Text/HexBottle/Asleep",
+    "en": "ASLEEP"
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text0",
+    "en": "A glass bottle with a strange object floating inside.\nIt was found in the Dream Chamber."
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text1",
+    "en": "A subtle floral smell is gently emanating from within the bottle."
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text2",
+    "en": "It is a glass container with a Hex inside."
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text3",
+    "en": "Whatever it is, he dumps it into the ocean every single night."
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text4",
+    "en": "Hush! Speaketh soft!"
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text5",
+    "en": "There's some kind of pattern... it almost looks pictoral..."
+  },
+  {
+    "term": "Clues/Text/HexBottle/Text6",
+    "en": "Valerian, skullcap and chamomile."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text0",
+    "en": "A paperback novel belonging to Sally.\nIt looks to be a nautical fantasy adventure."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text1",
+    "en": "It's almost like... the ocean in the book... it represents something... bigger, you know?"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text10",
+    "en": "We're talking about several themes carefully laid on top of each other-"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text11",
+    "en": "Kristin Kale Publishing\n\nJ. D. Wirman\n\nHEX OF THE HELMSMAN"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text12",
+    "en": "Something terrible awaits you in the depths...\n...will you face it?\n\nHe sees it in his dreams. He sees it when he closes his eyes. He cannot escape it. But what is it? Renowned Helmsman Markus Mordoom is a man with a singular purpose. He will not rest until he uncovers the truth of what's really hiding beneath the waves."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text13",
+    "en": "Hailing from a small fishing town named Silkwirm-on-sea, J. D. Wirman moved to the big city to write his first novel. And it's that novel that's already carving him out a place in the annals of history, as Wirman's mastery over the typewriter shines through in every beautifully crafted sentence. The only question I have is this: \nHow can he possibly follow this up?\n\n-Kristin Kale, Publisher"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text14",
+    "en": "HEX OF THE HELMSMAN\nJ. D. WIRMAN"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text15",
+    "en": "For T.W. Ibis\nFor imparting upon me what\nit is to love the art of writing"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text16",
+    "en": "CHAPTER 1\nLOST AT SEA\nMarkus Mordoom tightened his grip on the wheel, and stared out across the bleak horizon. On this morning, the familiar frigid air of the South Sea carried something more than saltspray as it whipped around his weathered face. On this morning, the familiar howling voice of the wind seemed to be in duet with a much grander voice; a voice that spoke in language that Mordoom could not understand. Not yet."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text17",
+    "en": "CHAPTER 1\nLOST AT SEA\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nu..."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text2",
+    "en": "So the main character's inspired by Magnus Mortuga...?"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text3",
+    "en": "I am but midway through!! Prithee, spoil it not!"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text4",
+    "en": "Nope. Doesn't say it anywhere. No 'based on', no 'inspired by'..."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text5",
+    "en": "There's a photograph of a well-dressed man on the inside cover."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text6",
+    "en": "See that photo on the inside cover? It's his rather more handsome father, Mayor Damian Dusk."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text7",
+    "en": "The 'Hex' referred to here is merely an abstracted form of curse that manifests, for the most part-\n"
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text8",
+    "en": "It's about a guy named Markus Mordoom looking for something called The Devil of the Deep."
+  },
+  {
+    "term": "Clues/Text/HexoftheHelmsman/Text9",
+    "en": "It's also a love story. Markus is in love with a woman named Belicia. She's his Captain."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text0",
+    "en": "A hand-drawn poster, taped to a pipe on the wall in the Illusion Theatre."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text1",
+    "en": "For some reason, it was displayed upside down."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text10",
+    "en": "INCONCEIVABLE!\n'I don't know what to believe anymore...'"
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text11",
+    "en": "BOOK TICKETS\nFORTUNA HALL     SILKWIRM-ON-SEA\nMONDAY-SATURDAY     STARTS 8PM"
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text2",
+    "en": "Cornelius tells me he spotted Miss Silkmoth drawing this while she was in the mess hall..."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text3",
+    "en": "Huh. Who's that little grim reaper guy in the drawing?"
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text4",
+    "en": "The central trick was Symmetry talking to herself in a mirror."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text5",
+    "en": "Baroness Fortuna... She's the theatre owner who adopted Sym."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text6",
+    "en": "I didn't hang it upside-down. I hung it right-side-up."
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text7",
+    "en": "TITLE\nHERE\n\n\n\n\nILLUSION\nTHEATRE"
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text8",
+    "en": "Baroness Fortuna Presents\nLADY OF THE LOOKING GLASS"
+  },
+  {
+    "term": "Clues/Text/IllusionistPoster/Text9",
+    "en": "UNFATHOMABLE!\n'Beyond anything I can imagine...'"
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text0",
+    "en": "An old document that was hidden under Sinthia's bed."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text1",
+    "en": "'Twas Sinthia who had it, when first she came aboard...."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text10",
+    "en": "The following individual is now registered as The Stonetop Inn's certified proprietor and landowner:\n\nSelena Stonetop\nFelicia Stonetop\nMagnus Mortuga\nDon Drummond"
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text11",
+    "en": "Dear Magnus,\n\nI've come to see you before I leave, but you're asleep. I don't want to wake you up, as I know you need to recover, after what happened. The mark she left on your shoulder hasn't faded - so I think it might be permanent. Luckily, I think it looks quite heroic."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text12",
+    "en": "I'm leaving my cabin key with you as well, so I can always keep an EYE on you. Haha. But no, you won't actually need to use it. Nobody will - I'm having the Dearest Selena decomissioned.\n\nIt's over at the Drummond shipyard and they're going to take it apart. I told Don he could strip it for parts if he wanted.\n"
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text13",
+    "en": "As for our cargo - the bell and the buoy are in my room, and I've returned The Mermaid's Tongue to its resting place. Please, try not to dwell on it.\n\nMagnus, I have to leave Silkwirm. Tonight.\nI'm giving you the Inn, it's in your name now.\n\nHopefully I'll see you again\n-Felicia\nx"
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text2",
+    "en": " I believe it belongs to Sinthia? And she gave it to Mortuga, shortly after she first arrived...?"
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text3",
+    "en": "I spent a year researching Silkwirm and never found anything this good."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text4",
+    "en": "It's a deed of ownership that's been signed by many different people."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text5",
+    "en": "Hmph. No it doesn't - that's exactly why I brought it with me, actually."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text6",
+    "en": "The Stonetop Inn... That's where Magnus lived - back before the submarine."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text7",
+    "en": "My father was a frequent patron, though. He, uh - he had a thing for the innkeeper..."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text8",
+    "en": "Back then it was under the care of a woman named Felicia..."
+  },
+  {
+    "term": "Clues/Text/InnDeeds/Text9",
+    "en": "This Document,\noriginally handwritten by Solomon Stonetop,\nmay be presented as proof to one's ownership of the property in Silkwirm-on-Sea known as\nThe Stonetop Inn."
+  },
+  {
+    "term": "Clues/Text/IronBell/Bell",
+    "en": "BELL"
+  },
+  {
+    "term": "Clues/Text/IronBell/Fragment",
+    "en": "FRAGMENT"
+  },
+  {
+    "term": "Clues/Text/IronBell/Text0",
+    "en": "A heavy iron bell hanging above Mortuga's desk in the captain's cabin."
+  },
+  {
+    "term": "Clues/Text/IronBell/Text1",
+    "en": "The bit sticking out the bottom looks a bit like a screwdriver. Don't you think?"
+  },
+  {
+    "term": "Clues/Text/IronBell/Text2",
+    "en": "That's no bell. It's got a fluted drive tip! For a fluted socket? With six flutes?"
+  },
+  {
+    "term": "Clues/Text/IronBell/Text3",
+    "en": "I could maybe get my arms around it, just about..."
+  },
+  {
+    "term": "Clues/Text/IronBell/Text4",
+    "en": "I don't suppose you know what this is? This little part sticking out the back?"
+  },
+  {
+    "term": "Clues/Text/IronBell/Text5",
+    "en": "It has the smell and feel of something that's been underwater in the ocean."
+  },
+  {
+    "term": "Clues/Text/IronBell/Text6",
+    "en": "I believe it is a bell - not in the musical sense, but rather more like a diving bell."
+  },
+  {
+    "term": "Clues/Text/IronBell/Text7",
+    "en": "A small metal fragment that was lodged into the Iron Bell."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text0",
+    "en": "A lifesize doll of Symmetry Silkmoth. It was found hidden in the Illusion Theatre."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text1",
+    "en": "This is the Lady of the Looking Glass herself."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text2",
+    "en": "It is a pullstring. You pull it."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text3",
+    "en": "Oh. The head comes off.\nI don't - I don't like that, it's - kinda morbid."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text4",
+    "en": "When the stunt is that dangerous, and the stunt guy refuses to do it - you use the dummy."
+  },
+  {
+    "term": "Clues/Text/LifesizeDoll/Text5",
+    "en": "There was a film projector hidden inside the body of the doll."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text0",
+    "en": "A large painting of some unknown being.\nIt's set in an ornate wooden frame."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text1",
+    "en": "The brass plaque displays a single word: 'HER'.\nUnusually, it has been set directly onto the painting."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text2",
+    "en": "There's something hiding in the water. Something big."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text3",
+    "en": "Stories alluding to such a being were the reason I traveled to Silkwirm in the first place."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text4",
+    "en": "I'm pretty sure it's out there. Maybe even right now."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text5",
+    "en": "It's just... unnerving. It's making some of the crew uncomfortable."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text6",
+    "en": "Her flicker-flame doth draw me in, and I am merest moth."
+  },
+  {
+    "term": "Clues/Text/MermaidPainting/Text7",
+    "en": "I wouldn't lose sleep over it if I were you."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text0",
+    "en": "A glass bottle messily sealed with wax. A sheet of paper is rolled up inside."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text1",
+    "en": "We broke open the bottle to reveal the paper that was rolled up inside."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text10",
+    "en": "For all his strength, he ultimately proved powerless against the lure of the unknown.\n\nOn this morning, the cauldron has been unlocked.\nOn this morning, it is wide open."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text11",
+    "en": "It is understood that Party A commissioned a Mr Donovan Drummond to construct the Mortuga Submarine by combining parts from two other vessels.\n\nParty A claimed to have paid for this transaction alone, and thus was the legal owner of the Mortuga Submarine - despite its name."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text12",
+    "en": "However, one Sinthia Seafoam has now provided evidence of how exactly Mr Drummond was paid.\n\nIt transpires that Mr Drummond was paid with the deeds to the Stonetop Inn, which belonged solely to Party B at the time of the transaction."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text2",
+    "en": "The bottle is partially coated in algae and barnacles."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text3",
+    "en": "I found it in the ocean, like everything else in here."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text4",
+    "en": "That's my bottle!"
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text5",
+    "en": "Uh... what."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text6",
+    "en": "Hey! There's a document in there! It's been typed!"
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text7",
+    "en": "That algae is still young... Meaning the bottle's been in the ocean - but not for all that long."
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text8",
+    "en": "CURSE IN THE\nCAULDRON"
+  },
+  {
+    "term": "Clues/Text/MessageinaBottle/Text9",
+    "en": "A small room within the bowels of the ship.\nHis lifeless body lies in the shadow of an ancient stone cauldron.\n\nThe cauldron's heavy iron lid has never been unlocked. It has never been opened."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text0",
+    "en": "A hand-made model town found in the captain's quarters."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text1",
+    "en": "A quaint little pretense of Silkwirm-on-sea, as beheld in the mind's eye of one Magnus Mortuga."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text2",
+    "en": "I believe this is supposed to be Silkwirm's Governor - a man named Faustus Fellow."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text3",
+    "en": "It basically only shows the buildings and people that were relevant to him."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text4",
+    "en": "That's my mom, standing in the harbor... and that's my dad, standing under the lighthouse."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text5",
+    "en": "Oh! That's my house! Right there. Yeah - the theatre, where I lived."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text6",
+    "en": "Hang on... is that my father?"
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text7",
+    "en": "The lighthouse opened up. There was a film reel hidden inside."
+  },
+  {
+    "term": "Clues/Text/ModelTown/Text8",
+    "en": "Let's see if we can find a way to watch that film..."
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text0",
+    "en": "A small glass bottle found smashed on the floor in the Illusion Theatre."
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text1",
+    "en": "The spilled purple liquid has a subtle botanical scent."
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text2",
+    "en": "The small paper label is marked with a simple picture of a moon."
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text3",
+    "en": "If it wasn't dropped by Mortuga... perhaps it was dropped by the culprit?"
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text4",
+    "en": "It's not my place to muse upon the things in Chamber Dream!"
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text5",
+    "en": "It's a... herbal compound of some kind. Valerian, skullcap, chamomile... and seawater."
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text6",
+    "en": "Hmm - I suppose it could be a sleep aid. Like a mild sedative?"
+  },
+  {
+    "term": "Clues/Text/MoonVial/Text7",
+    "en": "Of course, I do concede that I have many similar bottles here in my Dream chamber..."
+  },
+  {
+    "term": "Clues/Text/MourningEnvelope/Text0",
+    "en": "A black-edged mourning envelope found in the black box."
+  },
+  {
+    "term": "Clues/Text/MourningEnvelope/Text1",
+    "en": "It's been ripped open at the side, and is currently empty."
+  },
+  {
+    "term": "Clues/Text/MourningEnvelope/Text2",
+    "en": "Governor Faustus Fellow\nand Selena Stonetop\nGovernor's Manor\nFellow Estate, Ponder Hill\nSilkwirm-on-sea"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text0",
+    "en": "A movie magazine found in Symmetry and Sinthia's bunk room."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text1",
+    "en": "Uh - Julie was already a big name, so... you know, she got her name on the poster."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text10",
+    "en": "Hex Marks The Spot - Cinematiq Magazine sits down with the stars of Vincent Van De Peer's latest film."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text11",
+    "en": "Julié Janélé (Belicia Bonetop)"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text12",
+    "en": "CM: Julie, since we last saw you, you've won Best Actress twice and released an eponymous folk rock album. How do you find the time?"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text13",
+    "en": "JJ: I always say, I have the same twenty-four hours in the day as anyone else."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text14",
+    "en": "CM: So Julie, what attracted you to 'Hex of the Helmsman'?"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text15",
+    "en": "JJ: I've always loved the mystery and romance of the sea. And the script was a beautifully dark love story. But most of all, I just like working with Vincent. There's a feeling of security there, since he produces too."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text16",
+    "en": "CM: At this point in your career, you're clearly in high demand. We heard a rumor that the majority of the budget for this movie went on your salary."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text17",
+    "en": "JJ: (frowning) I very much doubt that's true. But yes, these days I'm the one holding the cards when I approach a contract situation. I'm a bit of a shrewd negotiator, to be honest. (laughs)"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text18",
+    "en": "CM: The film is an adaptation of a novel of the same name, by author J. D. Wirman."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text19",
+    "en": "JJ: I've been meaning to read it!"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text2",
+    "en": "O contraire - he spoke of it with sulk and scorn! Glad was he to see it gone!"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text20",
+    "en": "CM: Let's talk sequels."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text21",
+    "en": "JJ: Well - you just mentioned the novel. There's only one, isn't there? For now, anyway."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text22",
+    "en": "CM: But we heard you and Dirk both signed multi-picture deals."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text23",
+    "en": "JJ: Yeah, we did. I know Vincent is keen to make as many of these as he can."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text24",
+    "en": "CM: So you'll keep playing Belicia Bonetop?"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text25",
+    "en": "JJ: Sure! Unless the writers kill her off! (laughs)"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text26",
+    "en": "Dirk Damson (Markus Mordoom)"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text27",
+    "en": "CM: Dirk, how did you get in shape for the role?"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text28",
+    "en": "DD: Uh, well, the production paid for a personal trainer... and I'm not allowed to eat bread."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text29",
+    "en": "Hex of the Helmsman is out this weekend.\nCheck out our next issue for a full review."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text3",
+    "en": "Are there really only two characters...?"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text30",
+    "en": "JULIE JANÉLÉ\n\nHEX of the\nHELMSMAN\n\na VINCENT VAN PEER film"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text31",
+    "en": "WIT AND WHIMSY PICTURES presents\na VINCENT VAN DE PEER production\n\nstarring JULIÉ JANÉLÉ as BELICIA\nintroducing DIRK DANSOM as MARKUS\n\nbased on a book from KRISTIN KALE\noriginal novel written by J D WIRMAN\n\nscreenplay by KRISTIN KALE\ndirected by VINCENT VAN DE PEER"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text4",
+    "en": "Huh. They've given her the wrong type of necklace..."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text5",
+    "en": "If your story hinges on a specific necklace, then make it the only necklace in the story!"
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text6",
+    "en": "The magazine falls open onto an interview with the actors from an upcoming movie."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text7",
+    "en": "You know, this article's kind of unfair to Dirk - it barely mentions him."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text8",
+    "en": "..."
+  },
+  {
+    "term": "Clues/Text/MovieMagazine/Text9",
+    "en": "CINEMATIQ\n\nMovies, Culture, News and Reviews\n\nJulié Janélé\nOn Acting & Authenticity"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text0",
+    "en": "A single page from a newspaper, found in the Child's Room."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text1",
+    "en": "Now this is a throwback... I cut my teeth writing local interest stories like this."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text10",
+    "en": "The young illusionist (who goes by 'Symmetry Silkmoth' - because why not) begins the show with her signature act, in which she somehow holds parlance with her own reflection in a large antique mirror. The two Symmetrys (who seem to move independently of one another) speak upon their morbid anxieties and intrusive thoughts - which, it transpires, form the themes of the show at large. Even though I have my theories about how the trick is achieved, to a less cynical eye it would present a thoroughly convincing spectacle."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text11",
+    "en": "The mysterious Miss Silkmoth rounds off her performance with a surprisingly comedic set-piece in which she attempts to communicate with her 'Departed Uncle Gregory', who appears as an apparation within a crystal ball. However, it doesn't go to plan and the audience laughs as Symmetry is put 'on hold' in her disastrous attempt to telephone the afterlife.\nOverall, the show is a triumph; a brush with mysticism that stays with you long after the final bow."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text12",
+    "en": "GODRIK GRIPP'S\nNautical and Aeronautical Precision\nMeasurement and Navigation Instruments"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text13",
+    "en": "DRUMMOND SHIPYARD\nRigging, Reefing, Restoring, Repairs"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text14",
+    "en": "The Stonetop Inn\nALES - WINE -FOOD"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text15",
+    "en": "Daily Fishing Trips\nSpeak to Harbormaster Sylvia Seafoam\n"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text16",
+    "en": "The Silkwirm Spectator\nEditor Mr T. W. Ibis\n\nCATCH OF THE DAY\nMYSTERIOUS SEA SERPENT HAULED ASHORE"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text17",
+    "en": "3AM. The witching hour, and the moon is out. Dearest Selena creaks into port, its once-cheerful frame now seems burdened, heavy. It has a secret. A moment passes. What's this? Something is hauled up onto the slime-slick rocks beside the old Silkwirm harbor. A body. A creature. Its eyes are closed. No, wait - look again. It has no eyes. A serpent, of a sort. But it has arms. So, a dragon? No. That doesn't seem right. Serpent it is, then.\n\nFull story on pages 4 & 5"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text2",
+    "en": "My mom and her best friend. They were always going on little adventures together."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text3",
+    "en": "O, long-faded yesteryear - I'm shocked you knew that she was me!"
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text4",
+    "en": "This is where I first learned about Miss Silkmoth and her residence at the Fortuna Hall theatre."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text5",
+    "en": "This marks a pivotal moment in Silkwirm's history - the day the Silversnake was discovered."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text6",
+    "en": "Felicia Stonetop, that's her on the left, and Sylvia Seafoam on the right."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text7",
+    "en": "That's her best friend. They were always going on little adventures together."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text8",
+    "en": "I believe Mortuga kept it as a record of an event in Silkwirm's history."
+  },
+  {
+    "term": "Clues/Text/NewspaperPage/Text9",
+    "en": "LADY OF THE LOOKING GLASS\nENCHANTS AUDIENCE\nTheatre Review by James Dusk"
+  },
+  {
+    "term": "Clues/Text/OceanTreasure/Text0",
+    "en": "A pile of assorted ocean-themed treasure.\nIt was locked in a chest in the dome tank."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text0",
+    "en": "A rugged, bloodstained pocketbook.\nIt was hidden in the airlock."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text1",
+    "en": "Hands off. That's mine."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text10",
+    "en": "It's actually a shallow box with a number of objects kept inside."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text11",
+    "en": "The inside of the box smells of cigar smoke and alcohol."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text12",
+    "en": "TANYA\n\nProfessional Swimmer, currently traveling, looking for work. We'll have to think of an angle, but I think it'll work. She's tough. Doesn't complain. Could be a keeper.\n\n-"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text13",
+    "en": "MOON \n\nCaught her snooping, taking photos. Said she's on the trail of a Werewolf. She's a pain in the neck, but she's a natural storyteller. Might be able to put her to use.\n\n202-555-178"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text14",
+    "en": "FORTUNA\n\nHer theatre's seen better days, but still the best spot in town to set up. I tried to cut a deal, but she's being tightfisted. Might be a problem. Hopefully not, for her sake.\n\n311-555-930"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text2",
+    "en": "Not a book. Books don't rattle."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text3",
+    "en": "Wait, are those initials? M.M?"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text4",
+    "en": "Hey - hands off. That's mine."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text5",
+    "en": "...a book adorn'd by bloody-stain?"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text6",
+    "en": "Who does this belong to? Wilfred Winterbottom?"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text7",
+    "en": "That's quite some book... did you take it from a werewolf, perhaps?"
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text8",
+    "en": "Nope. Not a book. Listen.\nBooks don't rattle."
+  },
+  {
+    "term": "Clues/Text/Pocketbook/Text9",
+    "en": "Oh, a combination lock - let me try...\nYep. Got it."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text0",
+    "en": "A ragged square of thick sailcloth found hanging up on the wall in the Illusion Theatre."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text1",
+    "en": "Footprints have been marked in the centre of a circular imprint."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text2",
+    "en": "Someone has painted the words\n'THE STARGAZING GIRL'"
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text3",
+    "en": "Why would a submarine need a sail??"
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text4",
+    "en": "It's the cloth that Magnus used to cover the cauldron."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text5",
+    "en": "H-how should I know?"
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text6",
+    "en": "No, Sym didn't tell me the details."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text7",
+    "en": "She didn't want to, for some reason. She seemed to regret the whole thing."
+  },
+  {
+    "term": "Clues/Text/RaggedCloth/Text8",
+    "en": "THE\nSTARGAZING\nGIRL"
+  },
+  {
+    "term": "Clues/Text/RippedScroll/Text0",
+    "en": "A ripped scroll found in the black box."
+  },
+  {
+    "term": "Clues/Text/RippedScroll/Text1",
+    "en": "I know you wanted 'the coordinates', but I don't know them. So this is all you get - if you don't know how to make use of it, that's your problem, not mine.\n\nWe put it all back where we found it - with the exception of the key, which (as you're well aware) has been safely around my neck ever since."
+  },
+  {
+    "term": "Clues/Text/RippedScroll/Text2",
+    "en": "Remember, it destroyed my father within a few short years. He was a man of sturdy constitution, too. Or, he had been. Before we found it. Before she spoke to us.\n\nA wise man would simply put the entire thing out of his mind.\nSS"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text0",
+    "en": "An old scroll hidden in the engine room."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text1",
+    "en": "Oh sweet, a treasure map."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text10",
+    "en": "...if only it hadn't been torn in two, then I could be sure..."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text11",
+    "en": "SERVICE RECORD"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text12",
+    "en": "Map coordinates:\n28.685, -95.431"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text13",
+    "en": "(approx 2 miles from Silkwirm coast)"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text14",
+    "en": "Map interpreted by:\nGodrik Gripp"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text15",
+    "en": "For customer:\nMagnus Mortuga"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text16",
+    "en": "Cost:\nWaived"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text17",
+    "en": "MR GRIPP'S\nEMPORIUM\nSilkwirm-on-Sea"
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text2",
+    "en": "A treasure map? I was looking for something like this..."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text3",
+    "en": "...it comes to mind I saw this map upon the captain’s cabin-desk."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text4",
+    "en": "It's from my personal collection... I really hadn't intended for you to see it."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text5",
+    "en": "It unrolls to reveal a map. A red 'X' is marked somewhere in the ocean."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text6",
+    "en": "I prefer maps that show some sort of land."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text7",
+    "en": "Dude, there's a big red X. You gotta assume that's a treasure."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text8",
+    "en": "This weird little drawing... It looks kinda like that thing Mortuga kept up on the fore deck."
+  },
+  {
+    "term": "Clues/Text/SeaChart/Text9",
+    "en": "That drawing of the coral - it looks familiar..."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text0",
+    "en": "A wooden model ship in a glass bottle. It was on Mortuga's desk in the captain's cabin."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text1",
+    "en": "It may be broken - something can be heard rattling around when you shake it."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text10",
+    "en": "Much like his model town, it is specific to his life and his memories."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text11",
+    "en": "It's broken. Some part of its innards have come loose."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text2",
+    "en": "I'm pretty sure Magnus carved this himself."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text3",
+    "en": "Mortuga did have a ship - or, rather, he worked on board one..."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text4",
+    "en": "Mortuga worked as a sailor of sorts, back before the submarine."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text5",
+    "en": "I know this ship... I used to look out my bedroom window, and see it sitting in the harbor."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text6",
+    "en": "I know one way you could get it out of the bottle. Kschhh!!"
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text7",
+    "en": "It's broken. Some part of its innards have come loose. It rattles when you shake it."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text8",
+    "en": "Mortuga did have a ship - or, rather, he worked on board one."
+  },
+  {
+    "term": "Clues/Text/ShipinaBottle/Text9",
+    "en": "Now I'd have to assume this is the Stonetop family ship - the 'Dearest Selena'."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text0",
+    "en": "A ship's wheel found in the control room."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text1",
+    "en": "I got to steer a big wheel like this in my movie. Mine didn't have that red metal bit, though."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text2",
+    "en": "Also mine was up on the aft deck, not, you know, indoors in a control room."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text3",
+    "en": "The big wooden one's for steering left and right. The smaller one's for diving and surfacing."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text4",
+    "en": "Magnus used to let me steer. He even taught me how to do it."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text5",
+    "en": "The thicker wood is mahogany - very old mahogany."
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text6",
+    "en": "Somebody skimped on the repairs, huh?"
+  },
+  {
+    "term": "Clues/Text/ShipsWheel/Text7",
+    "en": "It looks in working order to me...?"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text0",
+    "en": "A square of parchment found in the cargo hold. It's been folded up and tied with string."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text1",
+    "en": "It unfolds to reveal a hand-drawn map, of sorts."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text10",
+    "en": "The South Sea"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text11",
+    "en": "Seafoam\nHarbor"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text12",
+    "en": "Town Hall"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text13",
+    "en": "The Silkwirm\nSpectator"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text14",
+    "en": "Mr Gripp's\nEmporium"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text15",
+    "en": "Drummond\nShipyard"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text16",
+    "en": "Lighthouse"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text17",
+    "en": "Solomon\nStonetop\n<size=22>innkeeper</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text18",
+    "en": "Selena\nStonetop\n<size=22>innkeeper</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text19",
+    "en": "Faustus\nFellow\n<size=22>governor</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text2",
+    "en": "The symbol on the top left, next to Governor's Manor, that's the Fellow emblem."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text20",
+    "en": "Fortuna\nFellow\n<size=22>theatre owner</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text21",
+    "en": "Felix\n<size=22>unknown</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text22",
+    "en": "Flint\n<size=22>unknown</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text23",
+    "en": "daughter\n<size=22>adopted?</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text24",
+    "en": "Damian\nDusk\n<size=22>mayor</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text25",
+    "en": "James\nDusk\n<size=22>journalist</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text26",
+    "en": "Felicia\nStonetop\n<size=22>sailor, innkeeper</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text27",
+    "en": "Magnus\nMortuga\n<size=22>sailor, innkeeper</size>"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text28",
+    "en": "?"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text3",
+    "en": "That's my father's emblem, on the top right - the one next to Town Hall."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text4",
+    "en": "Let's see... Magnus, Gripp, Wirman, Sinthia... oh - and Sym. Those five are from the town."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text5",
+    "en": "Cornelius, look - I told you all our hard work would put us on the map some day."
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text6",
+    "en": "SILKWIRM-ON-SEA"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text7",
+    "en": "Governor's\nManor"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text8",
+    "en": "Fortuna\nHall"
+  },
+  {
+    "term": "Clues/Text/SilkwirmMap/Text9",
+    "en": "The\nStonetop\nInn"
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text0",
+    "en": "An unidentified device found floating in the bilgewater."
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text1",
+    "en": "Ah! Um... Laser gun?"
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text2",
+    "en": "Doesn't appear to do anything, does it? Perhaps it's broken."
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text3",
+    "en": "It's an antenna."
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text4",
+    "en": "Seawater can really do a number on electronics, you gotta be careful."
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text5",
+    "en": "...I just assumed it was waterlogged - from the bilgewater."
+  },
+  {
+    "term": "Clues/Text/StrangeDevice/Text6",
+    "en": "That belongs to Dirk, I think."
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text0",
+    "en": "A strange blueprint found in the control room."
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text1",
+    "en": "The title reads 'THE Mortuga SUBMARINE'"
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text2",
+    "en": "The title reads 'THE SEAFOAM SUBMARINE'"
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text3",
+    "en": "I'm trying to get a handle on the exact form of the submarine."
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text4",
+    "en": "They say Mortuga bought an incomplete submarine, and then paid for it to be completed."
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text5",
+    "en": "No no - the yellowish parts - they're from an old drawing of a sailing ship."
+  },
+  {
+    "term": "Clues/Text/SubmarineBlueprint/Text6",
+    "en": "All told, Magnus was rather dismissive of the notion that the submarine should bear his moniker."
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text0",
+    "en": "A brown glass bottle containing three varieties of tablets."
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text1",
+    "en": "There is nothing printed on the label, but someone has drawn a simple picture of a sun."
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text2",
+    "en": "Some kind of vitamin supplement, I believe?"
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text3",
+    "en": "Vitamin D. All three types."
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text4",
+    "en": "I gotta take it while I'm down here - since I'm not getting natural light, you know..."
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text5",
+    "en": "Sun tablets...?"
+  },
+  {
+    "term": "Clues/Text/SunTablets/Text6",
+    "en": "Silkwirm's sun is scantly seen. Even in a summer sky."
+  },
+  {
+    "term": "Clues/Text/TheMermaidsTongue/Text0",
+    "en": "A strange leather mask known as The Mermaid's Tongue. It was found in the cabinet of curiosity."
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text0",
+    "en": "J. D. Wirman's typewriter."
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text1",
+    "en": "I mean, probably because it used to belong to his Dad."
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text2",
+    "en": "It's a mess - the keys are all in the wrong place..."
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text3",
+    "en": "I'm taking another swing at a story outline. For my next book."
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text4",
+    "en": "It's got a good example of the Fellow emblem, there on the back - see?"
+  },
+  {
+    "term": "Clues/Text/Typewriter/Text5",
+    "en": "Gifted to the\nSILKWIRM-ON-SEA\nTOWN HALL\nA Gesture of Unity from\nGovernor Faustus Fellow\nto Mayor Damian Dusk"
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text0",
+    "en": "It was hidden in Symmetry and Sinthia's bunk room."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text1",
+    "en": "Sinthia took it using the submarine's underwater imaging system."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text2",
+    "en": "I guess we can start by asking Sym and Sinthia about it."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text3",
+    "en": "I wish I hadn't done it. I put it in the safe so I wouldn't have to think about it."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text4",
+    "en": "The face from the aether... it must be..."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text5",
+    "en": "I've never seen her with my eyes. I've only ever heard her voice."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text6",
+    "en": "She's probably still out there..."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text7",
+    "en": "Doesn't look like any face I've ever seen."
+  },
+  {
+    "term": "Clues/Text/UnderwaterPhoto/Text8",
+    "en": "No, well... perhaps you ought to count yourself lucky."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text0",
+    "en": "It's chained to the deck of the Mortuga Submarine."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text1",
+    "en": "There's a faint green glow in its eyes."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text2",
+    "en": "A big green light shines out of his eyes sometimes."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text3",
+    "en": "Magnus wouldn't bring this inside the submarine... but he didn't seem to want to get rid of it either."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text4",
+    "en": "To me it sits right alongside that iron bell  in his office and that stone cauldron in the store room..."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text5",
+    "en": "Together they form Mortuga's collection of inexplicably cursed-looking nautical artifacts."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text6",
+    "en": "You know, for some time now I've heard stories of sailors seeing a green light in the ocean at night..."
+  },
+  {
+    "term": "Clues/Text/WoodenBuoy/Text7",
+    "en": "Problem is, several of the stories predate the Mortuga Submarine."
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text0",
+    "en": "Mariana Moon's wooden pipe."
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text1",
+    "en": "It's not a pipe at all! It's a secret dictaphone!"
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text2",
+    "en": "Tut at me all you like, but you can't deny the value of hard evidence."
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text3",
+    "en": "-is Ms. Moon some sort of covert operative?"
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text4",
+    "en": "I think she's just nosey."
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text5",
+    "en": "Looks like the tape can swap out...\nSo maybe there are other tapes."
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text6",
+    "en": "A long tobacco pipe belonging to Mariana Moon. It is secretly a dictaphone.\n\nFrom a distance, it looks like a normal brown tobacco pipe, like one that JRR Tolkein would have.\n\nUpon closer inspection, it has a few buttons concealed on it. I think the speaker/microphone would be in the well of the pipe - so you'd not normally be able to see the speaker holes. I think the primary 'button' to hold to record sound is on the mouthpiece - meaning you can innocently hold it in your mouth to secretly record what's being said in the room.\n"
+  },
+  {
+    "term": "Clues/Text/WoodenPipe/Text7",
+    "en": "Grimoire"
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text0",
+    "en": "Two handwritten letters found in the Cabinet of Curiosity."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text1",
+    "en": "The letters are written on note paper branded with the Stonetop Inn logo."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text10",
+    "en": "In pursuit of the answers I seek, I have entered into a peculiar agreement, and soon I too will be leaving town. In fact, I will be staying on board a submarine for a time."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text11",
+    "en": "And now, the reason for this letter; I would like to request that you accompany me on this venture."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text12",
+    "en": "You could bring your equipment and continue your studies on board - there is plenty of space, and the voyage may even afford you unique research opportunities."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text13",
+    "en": "If you are willing, return to Silkwirm as soon as possible. When you arrive, I shall already be housed on the submarine moored in the dock."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text14",
+    "en": "Important: Go to the Stonetop Inn and retrieve the large STONE CAULDRON from the cellar. Conceal it amongst your supplies and bring them all on board at the same time."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text15",
+    "en": "I will meet you on board. You can set up in what is currently the infirmary and I shall take the cauldron from you a little later on."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text2",
+    "en": "Dear Zacharias,"
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text3",
+    "en": "How is your research going?\nHave you made any new discoveries about dreams?"
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text4",
+    "en": "Silkwirm has been quiet recently."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text5",
+    "en": "I may be going on a trip soon - an ocean voyage. Felicia has been trying to get hold of a particular map. She says it will lead to something really strange and interesting. She says it is something that could 'change our lives'."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text6",
+    "en": "I am apprehensive about it.\nI think I like my life the way it is."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text7",
+    "en": "-Magnus"
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text8",
+    "en": "The voyage turned out to be ill-fated. Since returning, I have been quite ill. I am recovering, but am now afflicted with a peculiar recurring dream. I have drawn a picture."
+  },
+  {
+    "term": "Clues/Text/ZephyrsLetters/Text9",
+    "en": "Felicia sold the ship and left town. I believe she took the opportunity to do these things while I was bedbound so that I could not argue with her. I cannot fault her this strategy, for I would have demanded answers from her, had I been able."
+  }
+]

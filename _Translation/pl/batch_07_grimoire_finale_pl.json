@@ -1,0 +1,319 @@
+{
+  "_meta": {
+    "batch": "Dokonczenie watku Grimoire: 'Grimoire' (3, etykiety tematow), 'Grimoire 8 Gripp using Mermaids Tongue' (10), 'Grimoire 11 Town Square Dawn' (46, epilog).",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking)",
+    "important_discovery": "'Godrik' i 'Gripp' to TA SAMA POSTAC (pelne imie: Godrik Gripp). Gra przelacza sie z formalnego 'Gripp'/'Mr Gripp' na imie 'Godrik' w momentach gdy postac traci maske/zostaje przycisniety do muru (np. Grimoire 7 Parlor 3 ds157-159 - Gripp milczy, potem jako 'Godrik' mowi 'I guess this is it'; tu w Grimoire 8 pod wplywem Jezyka Syreny mowi bezladnym tekstem tez jako 'Godrik'). To NIE dwie rozne postacie - potwierdza to i uspójnia wczesniejszy wpis w GLOSSARY ('Godrik: srednia pewnosc plci' -> teraz pewne, to Gripp).",
+    "gibberish_preserved": "3 kwestie Godrika w 'Grimoire 8' to CELOWY bezsensowny ciag znakow (ds40, ds50, ds51) - efekt uzycia Jezyka Syreny/kontaktu z Syrena (ustalone wczesniej: prowadzi do szalenstwa). Zostawione BEZ ZMIAN, to nie tekst do tlumaczenia."
+  },
+  "categories": {
+    "Grimoire": {
+      "Conversation/Grimoire/Report": {
+        "en": "Report",
+        "pl": "Raport",
+        "speaker": "(etykieta tematu)"
+      },
+      "Conversation/Grimoire/The Mermaids Tongue": {
+        "en": "The Mermaid’s Tongue",
+        "pl": "Język Syreny",
+        "speaker": "(etykieta tematu)"
+      },
+      "Conversation/Grimoire/The Third Person": {
+        "en": "The Third Person",
+        "pl": "Trzecia Osoba",
+        "speaker": "(etykieta tematu)"
+      }
+    },
+    "Grimoire 8 Gripp using Mermaids Tongue": {
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds31": {
+        "en": "-are we too late?",
+        "pl": "-czy jesteśmy spóźnieni?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds40": {
+        "en": "oenqryn438ry93nyrnyrghfndgchweqptwn543rn98q3yt034ynqnrgyr cnr9nc",
+        "pl": "oenqryn438ry93nyrnyrghfndgchweqptwn543rn98q3yt034ynqnrgyr cnr9nc",
+        "speaker": "Godrik (=Gripp)"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds46": {
+        "en": "I - I don't-",
+        "pl": "Ja - ja nie-",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds47": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik (=Gripp)"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds48": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik (=Gripp)"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds49": {
+        "en": "Gripp?\nAre you - uh-",
+        "pl": "Gripp?\nCzy ty - eee-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds50": {
+        "en": "qerfwe8rnnx238rncvb7t987ncbvcoxzynxro39yr034yt9bqc4",
+        "pl": "qerfwe8rnnx238rncvb7t987ncbvcoxzynxro39yr034yt9bqc4",
+        "speaker": "Godrik (=Gripp)"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds51": {
+        "en": "werr9y32bc9r8132rxn3z",
+        "pl": "werr9y32bc9r8132rxn3z",
+        "speaker": "Godrik (=Gripp)"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds52": {
+        "en": "[i]What?[/i]",
+        "pl": "[i]Co?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 8 Gripp using Mermaids Tongue/Section ds53": {
+        "en": "Wait - where's he going?",
+        "pl": "Czekaj - dokąd on idzie?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Grimoire 11 Town Square Dawn": {
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds101": {
+        "en": "The Mermaid's Tongue is a [i]shameless shortcut[/i] - a [i]trap[/i] for the impatient and the dissolute.",
+        "pl": "Język Syreny to [i]bezwstydny skrót[/i] - [i]pułapka[/i] na niecierpliwych i zepsutych.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds102": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds103": {
+        "en": "But - you - you don't want to know what The Mermaid [i]said?[/i]",
+        "pl": "Ale - ty - nie chcesz wiedzieć, co Syrena [i]powiedziała?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds104": {
+        "en": "Oh I [h]want[/h] to know.",
+        "pl": "Och, [h]chcę[/h] wiedzieć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds105": {
+        "en": "It's [i]good[/i] that we don't know! It's [i]right![/i]",
+        "pl": "To [i]dobrze[/i], że nie wiemy! Tak [i]powinno[/i] być!",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds106": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds107": {
+        "en": "But as I stand before you now, I [h]can't[/h] know - you understand? That's just - that's -",
+        "pl": "Ale stojąc tu przed wami, [h]nie mogę[/h] wiedzieć - rozumiecie? To po prostu - to jest -",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds108": {
+        "en": "I don't know.",
+        "pl": "Nie wiem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds109": {
+        "en": "Maybe not...",
+        "pl": "Może nie...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds110": {
+        "en": "Seems very likely...",
+        "pl": "Wygląda na bardzo prawdopodobne...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds57": {
+        "en": "...is everyone okay?",
+        "pl": "...czy wszyscy cali?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds58": {
+        "en": "But - what about Gripp? Did he die or what??",
+        "pl": "Ale - a co z Grippem? Umarł czy jak??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds59": {
+        "en": "But he made his choice. I really don't think it would do us any good to worry about it.",
+        "pl": "Ale on dokonał wyboru. Naprawdę nie sądzę, żeby zamartwianie się tym cokolwiek nam dało.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds60": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds62": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds64": {
+        "en": "That's just the way it's meant to be.",
+        "pl": "Tak po prostu miało być.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds65": {
+        "en": "Sally, did you, uh - did you write down that address for us?",
+        "pl": "Sally, czy ty, eee - zapisałaś nam ten adres?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds66": {
+        "en": "Yeah, I'm almost done - just writing something on the back to help you out.",
+        "pl": "Tak, prawie skończyłam - dopisuję coś z tyłu, żeby wam pomóc.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds67": {
+        "en": "Oh - like instructions?",
+        "pl": "Och - jakby instrukcję?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds68": {
+        "en": "Uh... kinda, yeah.",
+        "pl": "Yy... niby tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds69": {
+        "en": "Ah [i]come on,[/i] you've got nowhere to be.",
+        "pl": "Ah, [i]daj spokój[/i], nie masz gdzie się spieszyć.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds70": {
+        "en": "You know, I really [i]must[/i] be off.",
+        "pl": "Wiecie, naprawdę [i]muszę[/i] już iść.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds73": {
+        "en": "You're quite right, nowhere is [i]precisely[/i] where I need to be and I'm rather in a hurry to get there.",
+        "pl": "Masz zupełną rację, donikąd to [i]dokładnie[/i] tam, gdzie muszę być, i raczej mi się spieszy, żeby tam dotrzeć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds74": {
+        "en": "Alright that was pretty good, I'll let that slide.",
+        "pl": "No dobra, to było całkiem niezłe, machnę na to ręką.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds75": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds76": {
+        "en": "Fit as a fiddle.",
+        "pl": "Zdrowa jak ryba.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds79": {
+        "en": "...and, uh - Tadpole and Zephyr stayed on the submarine?",
+        "pl": "...i, eee - Tadpole i Zephyr zostali na łodzi podwodnej?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds80": {
+        "en": "Oh, sure. Just had my human perspective [i]permanently and irrevocably shifted[/i], but hey, what's new.",
+        "pl": "Och, jasne. Tylko moje ludzkie postrzeganie świata zostało [i]trwale i nieodwracalnie zmienione[/i], ale hej, nic nowego.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds82": {
+        "en": "I guess so, huh?",
+        "pl": "Chyba tak, co?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds83": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds83 Choice 1": {
+        "en": "Seems very likely...",
+        "pl": "Wygląda na bardzo prawdopodobne...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds83 Choice 2": {
+        "en": "Maybe not...",
+        "pl": "Może nie...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds83 Choice 3": {
+        "en": "I don't know.",
+        "pl": "Nie wiem.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds83 Choice Question": {
+        "en": "What about Gripp? Did he die or what??",
+        "pl": "A co z Grippem? Umarł czy jak??",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds84": {
+        "en": "Are they gonna rename it?",
+        "pl": "Zmienią jej nazwę?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds85": {
+        "en": "Of course not - you gotta keep the Mortuga name - it's like his... his fingerprint on history!",
+        "pl": "Jasne, że nie - trzeba zachować nazwisko Mortuga - to jak jego... jego odcisk palca na historii!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds86": {
+        "en": "You [i]say[/i] that, but by all accounts he actually didn't [i]like[/i] the submarine very much.",
+        "pl": "[i]Mówisz[/i] tak, ale z tego, co wiadomo, on wcale nie [i]lubił[/i] tej łodzi podwodnej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds87": {
+        "en": "That's true, it wasn't his choice to [i]be there...[/i] he spent all his time trying to work out how to [i]leave...[/i]",
+        "pl": "To prawda, to nie był jego wybór, żeby tam [i]być...[/i] cały czas próbował wymyślić, jak [i]odejść...[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds88": {
+        "en": "Well, yes, alright, I concede that.",
+        "pl": "Cóż, tak, dobrze, przyznaję ci rację.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds89": {
+        "en": "Dude. That's real.",
+        "pl": "Stary. To jest prawda.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds90": {
+        "en": "I'd say his fingerprint is right here.",
+        "pl": "Powiedziałabym, że jego odcisk jest właśnie tutaj.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds91": {
+        "en": "But - what about [i]The Mermaid's Tongue?[/i]",
+        "pl": "Ale - a co z [i]Językiem Syreny?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds95": {
+        "en": "It's all of [i]you[/i] - It's Symmetry, it's Sinthia, Tadpole, Zephyr - everyone he was kind to, everyone he helped.",
+        "pl": "To [i]wy[/i] wszyscy - to Symmetry, to Sinthia, Tadpole, Zephyr - każdy, dla kogo był dobry, każdy, komu pomógł.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds96": {
+        "en": "Well, we still don't really know anything [i]about[/i] it, how it works, who made it-",
+        "pl": "Cóż, wciąż tak naprawdę nic nie wiemy [i]o[/i] nim, jak działa, kto go zrobił-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds97": {
+        "en": "What [i]about[/i] it?",
+        "pl": "A co z [i]nim?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 11 Town Square Dawn/Section ds99": {
+        "en": "[i]Good![/i]",
+        "pl": "[i]Dobrze![/i]",
+        "speaker": "Moon"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ds89 Dirk 'Dude. That's real.' -> 'Stary. To jest prawda.'",
+      "problem": "'That's real' w potocznym angielskim = 'to jest głębokie/autentyczne', nie dosłownie 'prawda'. Przetlumaczone uproszczone - do rozwazenia czy 'To jest mocne' albo 'To jest szczere' lepiej oddaje ton."
+    }
+  ]
+}

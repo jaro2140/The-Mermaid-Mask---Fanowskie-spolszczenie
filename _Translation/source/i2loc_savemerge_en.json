@@ -1,0 +1,26 @@
+[
+  {
+    "term": "SaveMerge/Conflict",
+    "en": "Your save data in the cloud and on your device are different. Please choose one to keep. The other will be discarded."
+  },
+  {
+    "term": "SaveMerge/Device",
+    "en": "Device: "
+  },
+  {
+    "term": "SaveMerge/GameCenterID",
+    "en": "Your GameCenter ID:"
+  },
+  {
+    "term": "SaveMerge/Keep",
+    "en": "Keep"
+  },
+  {
+    "term": "SaveMerge/Last Save",
+    "en": "Last Save: "
+  },
+  {
+    "term": "SaveMerge/Sure",
+    "en": "Are you sure?"
+  }
+]

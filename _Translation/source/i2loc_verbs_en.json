@@ -1,0 +1,82 @@
+[
+  {
+    "term": "Verbs/Cancel",
+    "en": "Cancel"
+  },
+  {
+    "term": "Verbs/Close",
+    "en": "CLOSE"
+  },
+  {
+    "term": "Verbs/End",
+    "en": "END"
+  },
+  {
+    "term": "Verbs/Look",
+    "en": "LOOK"
+  },
+  {
+    "term": "Verbs/Move",
+    "en": "Move"
+  },
+  {
+    "term": "Verbs/Next",
+    "en": "NEXT"
+  },
+  {
+    "term": "Verbs/Open",
+    "en": "OPEN"
+  },
+  {
+    "term": "Verbs/OpenAlt",
+    "en": "OPEN"
+  },
+  {
+    "term": "Verbs/Prev",
+    "en": "PREV"
+  },
+  {
+    "term": "Verbs/Pull",
+    "en": "Pull"
+  },
+  {
+    "term": "Verbs/PullAlt",
+    "en": "Pull"
+  },
+  {
+    "term": "Verbs/Push",
+    "en": "Push"
+  },
+  {
+    "term": "Verbs/Read",
+    "en": "READ"
+  },
+  {
+    "term": "Verbs/Shake",
+    "en": "SHAKE"
+  },
+  {
+    "term": "Verbs/Shut",
+    "en": "SHUT"
+  },
+  {
+    "term": "Verbs/ShutAlt",
+    "en": "SHUT"
+  },
+  {
+    "term": "Verbs/ShutAlt2",
+    "en": "SHUT"
+  },
+  {
+    "term": "Verbs/Start",
+    "en": "Start"
+  },
+  {
+    "term": "Verbs/Unlock",
+    "en": "Unlock"
+  },
+  {
+    "term": "Verbs/Use",
+    "en": "USE"
+  }
+]

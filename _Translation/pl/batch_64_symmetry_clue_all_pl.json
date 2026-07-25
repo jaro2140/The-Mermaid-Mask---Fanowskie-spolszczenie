@@ -1,0 +1,1859 @@
+{
+  "_meta": {
+    "batch": "Symmetry CLUE X (~53 sceny, 347 terminow) - reakcje Symmetry (iluzjonistka, archaiczny szekspirowski rejestr) na kazdy dowod w grze. Zachowano archaiczna polszczyzne (inwersje, 'zaiste/wszak/azaliz/iz/prithee->blagam') konsekwentnie z ustalonym rejestrem postaci (batch_27-31).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - pokrycie pelne.",
+    "character_voice": "Symmetry: kontynuacja archaicznego, szekspirowskiego rejestru (inwersja szyku, 'wszak/zaiste/azaliz/iz/tys/mine/thou'->polskie odpowiedniki archaizujace).",
+    "uwagi": "Dump tym razem czytany BEZ uzycia Python repr() (nauka z bledu batch_63) - stringi en skopiowane bezposrednio ze zrodla, bez ryzyka nadmiarowych cudzyslowow."
+  },
+  "categories": {
+    "Symmetry CLUE ActionFigure": {
+      "Conversation/Symmetry CLUE ActionFigure/Section ds0": {
+        "en": "An effigy of Dansom Dirk?",
+        "pl": "Wizerunek to Dansoma Dirka?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ActionFigure/Section ds6": {
+        "en": "Or doth it bear the form of former fallen captain?",
+        "pl": "Czy może formę nosi dawnego, poległego kapitana?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ActionFigure/Section ds7": {
+        "en": "Technically? Neither.",
+        "pl": "Technicznie? Ani jedno, ani drugie.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE BalloonBasket": {
+      "Conversation/Symmetry CLUE BalloonBasket/Section ds0": {
+        "en": "Ah, there lies the picture of the cane. Beperched-upon by little hat!",
+        "pl": "Ach, oto wizerunek laski. Uwieńczonej małym kapeluszem!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BalloonBasket/Section ds6": {
+        "en": "But wait; is it of-a-one with that in [i]current[/i] Godrik's grasp?",
+        "pl": "Lecz zaczekaj; czyż jedno to samo, co w dłoni [i]obecnego[/i] Godrika?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BalloonBasket/Section ds7": {
+        "en": "Tis quaint, indee-",
+        "pl": "Osobliwe to, zaiste-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BalloonBasket/Section ds8": {
+        "en": "[h]I[/h] used to be beperched-upon by little hat...",
+        "pl": "[h]Ja[/h] też kiedyś byłem uwieńczony małym kapeluszem...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE BlackBox": {
+      "Conversation/Symmetry CLUE BlackBox/Section ds0": {
+        "en": "I cannot turn mine eyes, what lies within!?",
+        "pl": "Nie mogę oderwać oczu, co kryje się w środku!?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BlackBox/Section ds6": {
+        "en": "Dusky box of dark allure...",
+        "pl": "Mroczna skrzynia ciemnego uroku...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BlackBox/Section ds7": {
+        "en": "We're still trying to work that out. Any guesses?",
+        "pl": "Wciąż próbujemy to rozgryźć. Masz jakieś przypuszczenia?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE BlackBox/Section ds8": {
+        "en": "Surely some solemn secret, dark and dreadful.",
+        "pl": "Z pewnością jakaś uroczysta tajemnica, mroczna i straszliwa.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BlackBox/Section ds9": {
+        "en": "Oh it [i]better[/i] be, after all this.",
+        "pl": "Och, [i]lepiej[/i] żeby tak było, po tym wszystkim.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE BlurryPhoto": {
+      "Conversation/Symmetry CLUE BlurryPhoto/Section ds0": {
+        "en": "A werewolf? Or some hell-born fiend?",
+        "pl": "Wilkołak? Czy jakiś demon zrodzony z piekła?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BlurryPhoto/Section ds7": {
+        "en": "- I think it's just a guy.",
+        "pl": "- Myślę, że to tylko facet.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE BlurryPhoto/Section ds8": {
+        "en": "But his eyes! They burn of wicked flame!",
+        "pl": "Lecz jego oczy! Płoną złowrogim płomieniem!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BlurryPhoto/Section ds9": {
+        "en": "Well, it's either [i]wicked flame[/i], or it's just red eye from using a flash in low light.",
+        "pl": "Cóż, to albo [i]złowrogi płomień,[/i] albo po prostu czerwone oczy od lampy błyskowej w słabym świetle.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE BrokenCompass": {
+      "Conversation/Symmetry CLUE BrokenCompass/Section ds0": {
+        "en": "The compass lies on deathbed dark, its many-pointed bones askew.",
+        "pl": "Kompas na mrocznym łożu śmierci leży, jego wieloramienne kości wykrzywione.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BrokenCompass/Section ds6": {
+        "en": "Hush! It now endures a surgeon's steady hand.",
+        "pl": "Cicho! Znosi teraz pewną dłoń chirurga.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE BrokenCompass/Section ds8": {
+        "en": "You'll pull through, little compass!",
+        "pl": "Wydobrzejesz, mały kompasie!",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE CaptainsJacket": {
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds6": {
+        "en": "Really? When did she [i]make[/i] this request?",
+        "pl": "Naprawdę? Kiedy o to [i]poprosiła?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds7": {
+        "en": "Both she and I hath mothers lost... and both a token keep.",
+        "pl": "Zarówno ona, jak i ja matki straciłyśmy... i obie pamiątkę zachowujemy.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds8": {
+        "en": "Unlike [i]you[/i], though, Sinthia's not [i]wearing[/i] hers.",
+        "pl": "Inaczej niż [i]ty,[/i] jednak, Sinthia swojej nie [i]nosi.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds9": {
+        "en": "Sinthia's already [i]got[/i] a cool jacket. One that actually fits her, too.",
+        "pl": "Sinthia [i]ma[/i] już fajną kurtkę. Taką, która na dodatek na nią pasuje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds10": {
+        "en": "And stitched it [i]I[/i] - at her request - with mine own hand!",
+        "pl": "A uszyłam ją [i]ja[/i] - na jej prośbę - własnoręcznie!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds14": {
+        "en": "...some long while ago?",
+        "pl": "...już dość dawno temu?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds15": {
+        "en": "Before the murder, huh?",
+        "pl": "Przed morderstwem, co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaptainsJacket/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE CaptainsLog": {
+      "Conversation/Symmetry CLUE CaptainsLog/Section ds0": {
+        "en": "The numbers spoken by the ship - they falter, flailing, weird and wild!",
+        "pl": "Liczby wypowiadane przez statek - chwieją się, miotają, dziwne i dzikie!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaptainsLog/Section ds6": {
+        "en": "...as if she seeks to speak, yet lacks the tongue to voice her troubled thought.",
+        "pl": "...jakby pragnęła przemówić, lecz brak jej języka, by wyrazić swą trwożną myśl.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE CaretakersJournal": {
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds6": {
+        "en": "Lillian's Locket...",
+        "pl": "Medalion Lilian...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds7": {
+        "en": "Looks familiar - don't you think?",
+        "pl": "Wygląda znajomo - nie sądzisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds9": {
+        "en": "Kindly close the book. I've no desire to look upon it longer.",
+        "pl": "Bądź łaskaw zamknąć księgę. Nie pragnę dłużej na to patrzeć.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds10": {
+        "en": "Oh. Sure, here you go.",
+        "pl": "Och. Jasne, proszę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds13": {
+        "en": "I didn't know she-",
+        "pl": "Nie wiedziałam, że ona-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds14": {
+        "en": "-I didn't know it had a name.",
+        "pl": "-nie wiedziałam, że to ma imię.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds15": {
+        "en": "[Gasp!]\nThat face!",
+        "pl": "[Sapnięcie!]\nTa twarz!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds16": {
+        "en": "You know what it is?",
+        "pl": "Wiesz, co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds17": {
+        "en": "Mine eye but chanced upon it. Nothing more.",
+        "pl": "Me oko jedynie na to natrafiło. Nic więcej.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaretakersJournal/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE CaseFile": {
+      "Conversation/Symmetry CLUE CaseFile/Section ds8": {
+        "en": "The letter in fair Sinthia's hand... a plan devised by her and her alone.",
+        "pl": "List w dłoni pięknej Sinthii... plan uknuty przez nią, i tylko przez nią.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds9": {
+        "en": "Why, to hire a sleuth to seek the truth!",
+        "pl": "Ależ, by wynająć detektywa, co prawdy poszuka!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds10": {
+        "en": "The plan [i]being[/i]...?",
+        "pl": "A plan [i]polegał[/i] na...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds12": {
+        "en": "That's us. Couple of sleuths, seeking the truth.",
+        "pl": "To my. Para detektywów, szukających prawdy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds13": {
+        "en": "I implore, unravel swift this tangled tale - and name the knave ere further harm befall!",
+        "pl": "Błagam, rozwikłajcie prędko tę splątaną opowieść - i wskażcie łotra, nim dalsza krzywda się stanie!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds15": {
+        "en": "Further harm befall [i]who[/i]?",
+        "pl": "Dalsza krzywda się stanie [i]komu?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CaseFile/Section ds16": {
+        "en": "With former captain slain... I fear'd the [i]new[/i] be target [i]two[/i]!",
+        "pl": "Gdy dawny kapitan zabity... obawiałam się, że [i]nowy[/i] też celem [i]będzie![/i]",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE CellPhone": {
+      "Conversation/Symmetry CLUE CellPhone/Section ds0": {
+        "en": "Employ'd it be... to speak with unseeable souls?",
+        "pl": "Użyto go... by mówić z duszami niewidzialnymi?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CellPhone/Section ds6": {
+        "en": "Assuming you can get signal.",
+        "pl": "Zakładając, że masz zasięg.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CellPhone/Section ds7": {
+        "en": "Who'd have thought that Dansom Dirk, of all our kin, is playing host to hidden ghost!",
+        "pl": "Któż by pomyślał, że Dansom Dirk, spośród nas wszystkich, gospodarzem jest ukrytego ducha!",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE CommandContract": {
+      "Conversation/Symmetry CLUE CommandContract/Section ds7": {
+        "en": "I saw her running from the bridge - all pages clasped in hand.",
+        "pl": "Widziałam, jak biegła z mostku - wszystkie strony w dłoni ściskając.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds8": {
+        "en": "In a harried-hurry-haste, she was [i]bedchamber[/i]-bound.",
+        "pl": "W pospiesznym, gnanym pośpiechu, do [i]sypialni[/i] zmierzała.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds9": {
+        "en": "Wait - [i]'All'[/i] pages clasped in hand?",
+        "pl": "Czekaj - [i]'wszystkie'[/i] strony w dłoni?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds10": {
+        "en": "Yeah?",
+        "pl": "Tak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds11": {
+        "en": "[i]'Both'[/i] pages - surely?",
+        "pl": "[i]'Obie'[/i] strony - chyba?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds13": {
+        "en": "But mere [h]semantics[/h], sir.",
+        "pl": "Ale to jedynie [h]semantyka,[/h] panie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds14": {
+        "en": "D'you remember when Sinthia first got hold of this?",
+        "pl": "Pamiętasz, kiedy Sinthia po raz pierwszy to zdobyła?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE CommandContract/Section ds15": {
+        "en": "Where was she taking it?",
+        "pl": "Dokąd to niosła?",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE CurseCauldron": {
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds0": {
+        "en": "This cauldron to Mortuga held [i]deep worth[/i], it seemed to me.",
+        "pl": "Ten kocioł dla Mortugi miał [i]głęboką wartość,[/i] tak mi się zdawało.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds6": {
+        "en": "When speaking of it's somber form, his words were most severe.",
+        "pl": "Gdy mówił o jego posępnym kształcie, słowa jego były nader surowe.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds7": {
+        "en": "What did he say about it?",
+        "pl": "Co o nim mówił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds8": {
+        "en": "[i]'Lay not thy hand upon its lid! Lest thou be bound to ceaseless sorrow![/i]'",
+        "pl": "[i]'Nie kładź dłoni swej na jego wieku! Bo skazany będziesz na wieczysty żal![/i]'",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds9": {
+        "en": "Eh.",
+        "pl": "Eh.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE CurseCauldron/Section ds10": {
+        "en": "-is that a [i]direct quote[/i]?",
+        "pl": "-czy to [i]dosłowny cytat?[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE DivingLicense": {
+      "Conversation/Symmetry CLUE DivingLicense/Section ds0": {
+        "en": "Dost thou require this card’s [h]consent[/h], when saving souls from drowning deep?",
+        "pl": "Czy potrzebujesz tej karty [h]zgody,[/h] by ratować dusze z topieli głębokiej?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DivingLicense/Section ds6": {
+        "en": "Well, no. Not really.",
+        "pl": "Cóż, nie. Niezupełnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE DivingLicense/Section ds7": {
+        "en": "Then what purpose doth it serve?",
+        "pl": "Więc jakiemuż celowi służy?",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE DreamHelmet": {
+      "Conversation/Symmetry CLUE DreamHelmet/Section ds0": {
+        "en": "D'you know how Zephyr's [i]Dream Helmet[/i] works?",
+        "pl": "Wiesz, jak działa [i]Hełm Snów[/i] Zephyra?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE DreamHelmet/Section ds6": {
+        "en": "H-his secrets are his own to keep.",
+        "pl": "J-jego sekrety jego własnością są.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DreamHelmet/Section ds7": {
+        "en": "I am bound to share them not!",
+        "pl": "Nie wolno mi ich zdradzić!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DreamHelmet/Section ds8": {
+        "en": "Okay, but - just for the record, you do [h]know[/h] his secrets?",
+        "pl": "Okej, ale - tak dla wiadomości, ty [h]znasz[/h] jego sekrety?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE DreamHelmet/Section ds9": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE DriftwoodCane": {
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds6": {
+        "en": "That little dapper hat he wears - I sewed myself from cotton cloth!",
+        "pl": "Ten mały elegancki kapelusz, co nosi - uszyłam sama z bawełnianej tkaniny!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds7": {
+        "en": "...and you thought he should have a hat just because [i]Gripp[/i] wears one?",
+        "pl": "...i pomyślałaś, że powinien mieć kapelusz, bo [i]Gripp[/i] taki nosi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds9": {
+        "en": "Nay, was naught but wood becarved - a simple stick with face adorn'd.",
+        "pl": "Nie, był jedynie drewnem rzeźbionym - prostym kijem, obliczem zdobionym.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds10": {
+        "en": "The cane didn't [i]always[/i] have a hat?",
+        "pl": "Laska nie [i]zawsze[/i] miała kapelusz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds13": {
+        "en": "And now he [i]truly[/i] looks the part, mirrored to his master’s garb.",
+        "pl": "A teraz [i]doprawdy[/i] wygląda jak trzeba, odbiciem szat swego pana.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE DriftwoodCane/Section ds14": {
+        "en": "No... I saw a picture of it. At least I think I did.",
+        "pl": "Nie... widziałam obraz tego. Przynajmniej tak sądzę.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE FamilyPhoto": {
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds6": {
+        "en": "A portrait of fair Sinthia’s... youth...",
+        "pl": "Portret pięknej Sinthii... młodości...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds7": {
+        "en": "A sorry-sorrow'd tale has she, for never fully wrought.",
+        "pl": "Smutną-żałosną opowieść ma ona, nigdy w pełni nieopowiedzianą.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds8": {
+        "en": "Mine eye is drawn against my will, to she that lingers far from frame...",
+        "pl": "Me oko wbrew mej woli przyciągane jest ku tej, co z dala od kadru trwa...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds9": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds10": {
+        "en": "The ship. In the background.",
+        "pl": "Statek. W tle.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds11": {
+        "en": "What about it?",
+        "pl": "A co z nim?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds12": {
+        "en": "Left to rust in stillborn state, a dream forever gone undreamt.",
+        "pl": "Pozostawiony rdzewieć w martwym stanie, sen na zawsze nieprześniony.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FamilyPhoto/Section ds14": {
+        "en": "Sym? What's wrong?",
+        "pl": "Sym? Co się stało?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE FeliciaPainting": {
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds0": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds6": {
+        "en": "The crosses, in the background.",
+        "pl": "Krzyże, w tle.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds7": {
+        "en": "I think they're just [i]ship masts[/i] - like she's standing by the harbor.",
+        "pl": "Myślę, że to po prostu [i]maszty statków[/i] - jakby stała przy porcie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds9": {
+        "en": "A yearning, stir'd along by grief, to seek, to find, a path, a bridge -  to cross that dark divide.",
+        "pl": "Tęsknota, żalem wzburzona, by szukać, znaleźć, ścieżkę, most -  by przekroczyć tę mroczną przepaść.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds10": {
+        "en": "Uh - grief?",
+        "pl": "Yy - żal?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds12": {
+        "en": "I assume she's dead, this woman.",
+        "pl": "Zakładam, że nie żyje, ta kobieta.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds13": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FeliciaPainting/Section ds14": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE Figurehead": {
+      "Conversation/Symmetry CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE FilmProjector": {
+      "Conversation/Symmetry CLUE FilmProjector/Section ds6": {
+        "en": "-is this yours?",
+        "pl": "-czy to twoje?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds7": {
+        "en": "No, not mine...",
+        "pl": "Nie, nie moje...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds8": {
+        "en": "Merely borrowed from Magnus Mortuga.",
+        "pl": "Jedynie pożyczone od Magnusa Mortugi.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds9": {
+        "en": "Mortuga owned a projector? What for? Projecting a - film, I guess?",
+        "pl": "Mortuga miał projektor? Po co? Żeby wyświetlać - film, jak sądzę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds10": {
+        "en": "Not [i]this[/i] film.",
+        "pl": "Nie [i]ten[/i] film.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds11": {
+        "en": "What did [i]you[/i] want it for?",
+        "pl": "A po co [i]ty[/i] go chciałaś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FilmProjector/Section ds13": {
+        "en": "Projecting this film.",
+        "pl": "By wyświetlić ten film.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE FogBall": {
+      "Conversation/Symmetry CLUE FogBall/Section ds0": {
+        "en": "As carved and crafted.",
+        "pl": "Rzeźbiona i wykonana.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds6": {
+        "en": "You wouldn't have. He - lives inside the ball.",
+        "pl": "Nie znałbyś go. On - mieszka wewnątrz kuli.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds7": {
+        "en": "[i]Your[/i] Fog Ball?",
+        "pl": "[i]Twoja[/i] Kula Mgły?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds8": {
+        "en": "O! My Fog Ball.",
+        "pl": "O! Moja Kula Mgły.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds9": {
+        "en": "You [i]made[/i] it? What for?",
+        "pl": "Ty ją [i]zrobiłaś?[/i] Po co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds10": {
+        "en": "Well… thou may’st use it... to speak with Gregory.",
+        "pl": "Cóż... możesz jej użyć... by mówić z Gregorym.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds12": {
+        "en": "Sorry - [i]Gregory?[/i] We never met a [i]Gregory.[/i] ",
+        "pl": "Przepraszam - [i]Gregory?[/i] Nigdy nie poznaliśmy żadnego [i]Gregory'ego.[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds13": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds14": {
+        "en": "And he's my uncle.",
+        "pl": "A jest on moim wujem.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds15": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds16": {
+        "en": "And he's dead.",
+        "pl": "I nie żyje.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds17": {
+        "en": "Oh!",
+        "pl": "Och!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds18": {
+        "en": "And fictitious.",
+        "pl": "I jest zmyślony.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE FogBall/Section ds19": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE GlassEyeball": {
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds6": {
+        "en": "Care to explain what [i]this[/i] is?",
+        "pl": "Zechcesz wyjaśnić, czym [i]to[/i] jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds7": {
+        "en": "Nay.",
+        "pl": "Nie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds8": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds9": {
+        "en": "Do you [h]know[/h] what it is?",
+        "pl": "Czy [h]wiesz,[/h] co to jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds10": {
+        "en": "Aye.",
+        "pl": "Tak.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds11": {
+        "en": "...I'm not sure if that was a pun or not.",
+        "pl": "...nie jestem pewna, czy to był kalambur.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds12": {
+        "en": "Where'd you [i]find[/i] it?",
+        "pl": "Gdzie to [i]znalazłaś?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds13": {
+        "en": "Um... in the Parlor, on the floor.",
+        "pl": "Um... w Salonie, na podłodze.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds16": {
+        "en": "So someone dropped it?",
+        "pl": "Więc ktoś to upuścił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE GlassEyeball/Section ds17": {
+        "en": "So it would seem.",
+        "pl": "Tak by się zdawało.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE GoldenLocket": {
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds0": {
+        "en": "I dearly hope-",
+        "pl": "Żarliwie pragnę-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds6": {
+        "en": "The question that bestirs my soul.",
+        "pl": "Pytanie, co porusza mą duszę.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds7": {
+        "en": "I dearly hope to ask her, and know the truth at last.",
+        "pl": "Żarliwie pragnę ją zapytać, i poznać prawdę wreszcie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds8": {
+        "en": "T'was my mother’s own... or so I'm told.",
+        "pl": "Był matki mej własny... a tak przynajmniej mi powiedziano.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds9": {
+        "en": "You don't know for sure?",
+        "pl": "Nie wiesz na pewno?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds10": {
+        "en": "I was too young. I don't remember.",
+        "pl": "Byłam zbyt młoda. Nie pamiętam.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds11": {
+        "en": "Do you... think you ever will?",
+        "pl": "Czy... myślisz, że kiedyś będziesz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE GoldenLocket/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE HandheldRadio": {
+      "Conversation/Symmetry CLUE HandheldRadio/Section ds0": {
+        "en": "How it blinks and flickers so!",
+        "pl": "Jakże mruga i migocze!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HandheldRadio/Section ds6": {
+        "en": "As if it sought to speak with kin!",
+        "pl": "Jakby pragnęło mówić z krewnymi!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HandheldRadio/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HandheldRadio/Section ds8": {
+        "en": "It's just broken - I think it's turning itself on and off.",
+        "pl": "Jest po prostu zepsute - myślę, że samo się włącza i wyłącza.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HandheldRadio/Section ds9": {
+        "en": "It's a radio, I'm not sure it [i]has[/i] 'kin'.",
+        "pl": "To radio, nie jestem pewna, czy [i]ma[/i] 'krewnych'.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE HandwrittenLetter": {
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds0": {
+        "en": "[i]She?[/i] ",
+        "pl": "[i]Ona?[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds6": {
+        "en": "The handwriting.\nThat's [i]girl's[/i] handwriting.",
+        "pl": "To pismo.\nTo pismo [i]dziewczyny.[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds8": {
+        "en": "Who penned this page?",
+        "pl": "Kto spisał tę stronę?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds10": {
+        "en": "What makes you think it's a woman?",
+        "pl": "Czemu myślisz, że to kobieta?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds12": {
+        "en": "We don't really know who they-",
+        "pl": "Tak naprawdę nie wiemy, kim oni-",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE HandwrittenLetter/Section ds13": {
+        "en": "-is she not aboard the [i]ship?[/i] ",
+        "pl": "-czyż nie jest ona na pokładzie [i]statku?[/i] ",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE HexBottle": {
+      "Conversation/Symmetry CLUE HexBottle/Section ds0": {
+        "en": "[i]Nay![/i] ",
+        "pl": "[i]Nie![/i] ",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HexBottle/Section ds6": {
+        "en": "[i]Hush! Speaketh soft![/i] ",
+        "pl": "[i]Cicho! Mów cicho![/i] ",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HexBottle/Section ds7": {
+        "en": "Hey, Sym - d'you know anything about this-",
+        "pl": "Hej, Sym - wiesz coś o tym-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HexBottle/Section ds9": {
+        "en": "Uh, okay.",
+        "pl": "Yy, okej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE HexBottle/Section ds11": {
+        "en": "[i]D'you know anything about this-[/i] ",
+        "pl": "[i]Wiesz coś o tym-[/i] ",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE HexoftheHelmsman": {
+      "Conversation/Symmetry CLUE HexoftheHelmsman/Section ds8": {
+        "en": "O! I'm reading this myself!",
+        "pl": "O! Ja sama to czytam!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HexoftheHelmsman/Section ds9": {
+        "en": "Oh, cool. Hey - did you like the bit when-",
+        "pl": "Och, super. Hej - podobał ci się fragment, kiedy-",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE HexoftheHelmsman/Section ds10": {
+        "en": "I am but midway through. Prithee, spoil it not!",
+        "pl": "Jestem dopiero w połowie. Błagam, nie zdradzaj!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE HexoftheHelmsman/Section ds11": {
+        "en": "Right. Sorry.",
+        "pl": "No tak. Przepraszam.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE IllusionistPoster": {
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds14": {
+        "en": "Upside-down...?",
+        "pl": "Do góry nogami...?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds15": {
+        "en": "Yeah. I thought maybe it was part of some kind of trick? or an illusion?",
+        "pl": "Tak. Pomyślałem, może to część jakiejś sztuczki? Czy iluzji?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds16": {
+        "en": "I didn't hang it upside-down. I hung it right-side-up.",
+        "pl": "Nie powiesiłam tego do góry nogami. Powiesiłam to jak trzeba.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds18": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds21": {
+        "en": "...really?",
+        "pl": "...naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds22": {
+        "en": "[i]You[/i] drew this, Sym?",
+        "pl": "[i]Ty[/i] to narysowałaś, Sym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds23": {
+        "en": "I did.",
+        "pl": "Tak.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds24": {
+        "en": "What [i]is[/i] it exactly?",
+        "pl": "Czym to dokładnie [i]jest?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds25": {
+        "en": "Imprudent plans, gone swift astray.",
+        "pl": "Nierozważne plany, co szybko zbłądziły.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds26": {
+        "en": "Plans for a new magic act?",
+        "pl": "Plany na nowy numer magiczny?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds27": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds28": {
+        "en": "Why'd you hang it upside-down?",
+        "pl": "Czemu powiesiłaś to do góry nogami?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds29": {
+        "en": "And you hung it up on the wall? in the Illusion Theatre?",
+        "pl": "I powiesiłaś to na ścianie? W Teatrze Iluzji?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IllusionistPoster/Section ds30": {
+        "en": "I - fully meant to take it down, but never had the chance...",
+        "pl": "Ja - zamierzałam to zdjąć, lecz nigdy nie miałam okazji...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE InnDeeds": {
+      "Conversation/Symmetry CLUE InnDeeds/Section ds0": {
+        "en": "Something in it holds great weight - for [i]her[/i], at least, it seems.",
+        "pl": "Coś w tym wielką wagę ma - dla [i]niej,[/i] przynajmniej, tak się zdaje.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE InnDeeds/Section ds6": {
+        "en": "'Twas Sinthia who had it, when first she came aboard....",
+        "pl": "To Sinthia to miała, gdy pierwszy raz na pokład wstąpiła...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE InnDeeds/Section ds7": {
+        "en": "With certain mind I cannot say.",
+        "pl": "Z pewnością umysłu rzec nie mogę.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE InnDeeds/Section ds8": {
+        "en": "But you don't know [i]what[/i] exactly?",
+        "pl": "Ale nie wiesz [i]co[/i] dokładnie?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE IronBell": {
+      "Conversation/Symmetry CLUE IronBell/Section ds0": {
+        "en": "To dwell beneath a heavy-iron-casted-thing...",
+        "pl": "By mieszkać pod ciężką, żelazną odlaną rzeczą...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IronBell/Section ds6": {
+        "en": "Ever-poised for rope to snap? Ever-set to fall?",
+        "pl": "Wciąż gotową, by lina pękła? Wciąż skłonną, by runąć?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE IronBell/Section ds7": {
+        "en": "Mortuga? He didn't [i]'dwell beneath'[/i] it. Not really.",
+        "pl": "Mortuga? On nie [i]'mieszkał pod'[/i] tym. Nie do końca.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE IronBell/Section ds8": {
+        "en": "I dunno, it's hanging [i]directly[/i] over his desk. That's a choice.",
+        "pl": "Nie wiem, wisi [i]bezpośrednio[/i] nad jego biurkiem. To wybór.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE IronBell/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE LifesizeDoll": {
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds0": {
+        "en": "Oh. Then - how does it work?",
+        "pl": "Och. Więc - jak to działa?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds6": {
+        "en": "Speaking of - Sym, can the [i]doll[/i] talk? Like - does it have a little speaker inside?",
+        "pl": "A skoro już o tym mowa - Sym, czy [i]lalka[/i] potrafi mówić? Znaczy - ma w środku mały głośnik?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds7": {
+        "en": "It [i]is[/i] a pullstring.",
+        "pl": "To [i]jest[/i] sznurek.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds9": {
+        "en": "You pull it.",
+        "pl": "Pociągasz za niego.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds10": {
+        "en": "I just thought - you know - there's a [i]string[/i] on the back. I thought it was like a [i]pullstring.[/i]",
+        "pl": "Po prostu pomyślałam - no wiesz - z tyłu jest [i]sznurek.[/i] Myślałam, że to jak [i]sznurek do pociągania.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds12": {
+        "en": "We found your doll.",
+        "pl": "Znaleźliśmy twoją lalkę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds14": {
+        "en": "She's not talking.",
+        "pl": "Nie mówi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds15": {
+        "en": "You didn't [i]ask[/i] her anything.",
+        "pl": "Niczego jej nie [i]zapytałeś.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds16": {
+        "en": "Alright, fine-",
+        "pl": "Dobrze, w porządku-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds18": {
+        "en": "Okay, [i]now,[/i] she's not talking.",
+        "pl": "Okej, [i]teraz[/i] nie mówi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds19": {
+        "en": "What's up with the doll?",
+        "pl": "Co z tą lalką?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds20": {
+        "en": "She is ever-silent.\nI speak for us both.",
+        "pl": "Ona jest wiecznie milcząca.\nJa mówię za nas obie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE LifesizeDoll/Section ds21": {
+        "en": "[Gasp!]",
+        "pl": "[Sapnięcie!]",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE MermaidPainting": {
+      "Conversation/Symmetry CLUE MermaidPainting/Section ds11": {
+        "en": "I find it hard to look away...",
+        "pl": "Trudno mi oderwać wzrok...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MermaidPainting/Section ds13": {
+        "en": "Her flicker-flame doth draw me in, and I am merest moth.",
+        "pl": "Jej migotliwy płomień przyciąga mnie, a jam jest jedynie ćmą.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MermaidPainting/Section ds14": {
+        "en": "No, not of the sea.\nShe's of an even darker place.",
+        "pl": "Nie, nie z morza.\nOna jest z miejsca jeszcze mroczniejszego.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MermaidPainting/Section ds15": {
+        "en": "What is it? Some kinda monster from the bottom of the ocean?",
+        "pl": "Co to jest? Jakiś potwór z dna oceanu?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE MessageinaBottle": {
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds9": {
+        "en": "What would you say [i]that[/i] is?",
+        "pl": "Co byś powiedziała, czym [i]to[/i] jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds11": {
+        "en": "Sealed within the glassy tomb?",
+        "pl": "Zapieczętowane w szklanym grobowcu?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds12": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds13": {
+        "en": "I thought it was a piece of [i]paper.[/i] Shows what I know.",
+        "pl": "Myślałam, że to kawałek [i]papieru.[/i] Widać, co ja wiem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds14": {
+        "en": "A mistake?\nA regret?",
+        "pl": "Pomyłka?\nŻal?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MessageinaBottle/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE ModelTown": {
+      "Conversation/Symmetry CLUE ModelTown/Section ds8": {
+        "en": "Oh! That's my house! Right there.",
+        "pl": "Och! To mój dom! Tuż tam.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ModelTown/Section ds10": {
+        "en": "A teeny-tiny-town of toys?",
+        "pl": "Malusieńkie miasteczko z zabawek?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ModelTown/Section ds11": {
+        "en": "Or fossil-formed of fr-",
+        "pl": "Czy skamieniałą formą pr-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ModelTown/Section ds12": {
+        "en": "Your [i]house?[/i]",
+        "pl": "Twój [i]dom?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE ModelTown/Section ds13": {
+        "en": "Yeah - the theatre, where I lived?",
+        "pl": "Tak - teatr, gdzie mieszkałam?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ModelTown/Section ds14": {
+        "en": "Cute.",
+        "pl": "Urocze.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE MoonVial": {
+      "Conversation/Symmetry CLUE MoonVial/Section ds8": {
+        "en": "What is it?",
+        "pl": "Co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MoonVial/Section ds15": {
+        "en": "I do not know, and dare not guess!",
+        "pl": "Nie wiem, i zgadywać się nie ośmielam!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MoonVial/Section ds17": {
+        "en": "It's not my place to muse upon the things in Chamber Dream!",
+        "pl": "Nie moim jest miejscem rozmyślać nad rzeczami z Komnaty Snów!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MoonVial/Section ds18": {
+        "en": "It's from the Dream Chamber?",
+        "pl": "To z Komnaty Snów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MoonVial/Section ds19": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MoonVial/Section ds20": {
+        "en": "Ahhh, [i]come on[/i] - one little guess.",
+        "pl": "Achh, [i]no weź[/i] - jedno małe przypuszczenie.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE MourningEnvelope": {
+      "Conversation/Symmetry CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE MovieMagazine": {
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds0": {
+        "en": "[i]Glad[/i] was he to see it gone!",
+        "pl": "[i]Rad[/i] był, gdy zniknęło z jego oczu!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds6": {
+        "en": "Kind of him to lend it to you.",
+        "pl": "Miło z jego strony, że ci to pożyczył.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds10": {
+        "en": "Yeah, I'd imagine it's kinda precious to him.",
+        "pl": "Tak, wyobrażam sobie, że to dla niego dość cenne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds11": {
+        "en": "O contraire - he spoke of it with sulk and scorn!",
+        "pl": "O, przeciwnie - mówił o tym z gniewem i pogardą!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds12": {
+        "en": "This is Dirk's, I'm guessing?",
+        "pl": "To Dirka, jak zgaduję?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE MovieMagazine/Section ds13": {
+        "en": "You guess correct.",
+        "pl": "Zgadujesz trafnie.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE NewspaperPage": {
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds6": {
+        "en": "There were other things I wished to learn. Things not found upon that stage.",
+        "pl": "Były inne rzeczy, które pragnęłam poznać. Rzeczy, których nie znaleźć na tej scenie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds9": {
+        "en": "O, long-faded yesteryear - I'm shocked you knew that [i]she[/i] was [i]me![/i] ",
+        "pl": "O, dawno wyblakłe lata minione - zdumiona jestem, że wiedzieliście, iż [i]ona[/i] była [i]mną![/i] ",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds10": {
+        "en": "I'm not sure you're old enough to say 'yesteryear' - in [i]any[/i] context.",
+        "pl": "Nie jestem pewien, czy jesteś dość stara, żeby mówić 'lata minione' - w [i]jakimkolwiek[/i] kontekście.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds11": {
+        "en": "From the review, it sounds like your old magic show was pretty good.",
+        "pl": "Z recenzji wynika, że twój dawny pokaz magii był całkiem niezły.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds12": {
+        "en": "I filled the house up every night.",
+        "pl": "Zapełniałam salę co wieczór.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds13": {
+        "en": "So why'd you give it up?",
+        "pl": "Więc czemu z tego zrezygnowałaś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE NewspaperPage/Section ds15": {
+        "en": "Sym, look - it's you!",
+        "pl": "Sym, spójrz - to ty!",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE OceanTreasure": {
+      "Conversation/Symmetry CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE Pocketbook": {
+      "Conversation/Symmetry CLUE Pocketbook/Section ds0": {
+        "en": "...a book adorn'd by bloody-stain?",
+        "pl": "...księga zdobiona krwawą plamą?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE Pocketbook/Section ds6": {
+        "en": "Might be. Might not.",
+        "pl": "Może tak. Może nie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE Pocketbook/Section ds7": {
+        "en": "It might not be a [i]book?[/i] ",
+        "pl": "Może nie być [i]księgą?[/i] ",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE Pocketbook/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE Pocketbook/Section ds9": {
+        "en": "No - ah, no, I... meant the bloodstain.",
+        "pl": "Nie - ach, nie, ja... miałem na myśli krwawą plamę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE RaggedCloth": {
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds0": {
+        "en": "What's this?",
+        "pl": "Co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds6": {
+        "en": "H-how should I know?",
+        "pl": "S-skąd miałabym wiedzieć?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds7": {
+        "en": "It was hung up on the wall in the Illusion Theatre.",
+        "pl": "Wisiało to na ścianie w Teatrze Iluzji.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds8": {
+        "en": "So?",
+        "pl": "I co z tego?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds9": {
+        "en": "We thought maybe you were [i]'The Stargazing Girl.'[/i] ",
+        "pl": "Pomyśleliśmy, że może byłaś [i]'Dziewczyną Patrzącą w Gwiazdy'.[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds10": {
+        "en": "I am Symmetry Silkmoth.",
+        "pl": "Jestem Symmetry Silkmoth.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds11": {
+        "en": "Yeah, I know - I'm not contesting that.",
+        "pl": "Tak, wiem - nie kwestionuję tego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds13": {
+        "en": "Never mind.",
+        "pl": "Nieważne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds14": {
+        "en": "So, we... uh-",
+        "pl": "Więc, my... yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE RaggedCloth/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE RippedScroll": {
+      "Conversation/Symmetry CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE SeaChart": {
+      "Conversation/Symmetry CLUE SeaChart/Section ds6": {
+        "en": "Well, now it's reappeared.",
+        "pl": "Cóż, teraz się znowu pojawiła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds8": {
+        "en": "When was this?",
+        "pl": "Kiedy to było?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds9": {
+        "en": "Soon after I arrived - just once, and then it vanished.",
+        "pl": "Wkrótce po mym przybyciu - raz jeden, po czym zniknęła.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds10": {
+        "en": "...it comes to mind I saw this map upon the captain’s cabin-desk.",
+        "pl": "...przypominam sobie, iż widziałam tę mapę na biurku w kajucie kapitańskiej.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds11": {
+        "en": "Ta-da!!",
+        "pl": "Ta-da!!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds13": {
+        "en": "A map that leadeth unto naught...?",
+        "pl": "Mapa, co wiedzie donikąd...?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds15": {
+        "en": "What d'you mean? It leads to that big red X.",
+        "pl": "Co masz na myśli? Prowadzi do tego wielkiego czerwonego X.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE SeaChart/Section ds16": {
+        "en": "Yeah, but it's a big red X in the middle of the ocean.",
+        "pl": "Tak, ale to wielkie czerwone X na środku oceanu.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE ShipinaBottle": {
+      "Conversation/Symmetry CLUE ShipinaBottle/Section ds0": {
+        "en": "Yet another weight upon his ever-troubl'd mind.",
+        "pl": "Jeszcze jeden ciężar na jego wiecznie strapionym umyśle.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipinaBottle/Section ds6": {
+        "en": "What are you talking about?",
+        "pl": "O czym ty mówisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE ShipinaBottle/Section ds9": {
+        "en": "Although, given that it's sealed in glass, I imagine it's now [i]very[/i] hard to fix...",
+        "pl": "Aczkolwiek, zważywszy, że zapieczętowany jest w szkle, wyobrażam sobie, że teraz [i]bardzo[/i] trudno go naprawić...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipinaBottle/Section ds10": {
+        "en": "It's broken. Some part of its [i]innards[/i] has come loose.",
+        "pl": "Jest zepsuty. Jakaś część jego [i]wnętrzności[/i] się obluzowała.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipinaBottle/Section ds15": {
+        "en": "D'you know anything about Mortuga's model ship?",
+        "pl": "Wiesz coś o statku-modelu Mortugi?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE ShipsWheel": {
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds0": {
+        "en": "I tried it once.",
+        "pl": "Próbowałam raz.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds6": {
+        "en": "Tried what?",
+        "pl": "Próbowałaś czego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds7": {
+        "en": "To turn the wheel. To steer the ship.",
+        "pl": "Obrócić koło. Sterować statkiem.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds8": {
+        "en": "Oh. How'd it go?",
+        "pl": "Och. I jak poszło?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds9": {
+        "en": "It did not. I was too weak.",
+        "pl": "Nie poszło. Byłam zbyt słaba.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE ShipsWheel/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE SilkwirmMap": {
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds0": {
+        "en": "Against all odds, I've been inscribed, upon this family tree.",
+        "pl": "Wbrew wszelkim przeciwnościom, wpisano mnie na to drzewo genealogiczne.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds6": {
+        "en": "Bound only by the bloodline of my matron's former kin.",
+        "pl": "Związana jedynie krwią rodu dawnej rodziny mej opiekunki.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds7": {
+        "en": "Your matron? That's... Fortuna Fellow?",
+        "pl": "Twojej opiekunki? To... Fortuna Fellow?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds8": {
+        "en": "No longer tied to Fellow-name, she styles herself as [i]‘Baroness’.[/i] ",
+        "pl": "Już nie związana z nazwiskiem Fellow, mianuje się [i]'Baronową'.[/i] ",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds9": {
+        "en": "Sym, look - you've got two half-brothers. Kinda.",
+        "pl": "Sym, spójrz - masz dwóch przyrodnich braci. Niby.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds10": {
+        "en": "Only in the faintest terms - but there they are. Flint and Felix.",
+        "pl": "Jedynie w najsłabszym sensie - lecz oto oni są. Flint i Felix.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds11": {
+        "en": "We've actually [i]met[/i] Felix. Would you believe that?",
+        "pl": "Tak naprawdę [i]poznaliśmy[/i] Felixa. Uwierzyłabyś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds12": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds13": {
+        "en": "Oh. Well. We did.",
+        "pl": "Och. Cóż. Poznaliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SilkwirmMap/Section ds14": {
+        "en": "Whatever [i]that's[/i] supposed to mean.",
+        "pl": "Cokolwiek [i]to[/i] miałoby znaczyć.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE StrangeDevice": {
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds0": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds6": {
+        "en": "A gun!",
+        "pl": "Broń!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds7": {
+        "en": "It's not a gun.",
+        "pl": "To nie broń.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds8": {
+        "en": "We don't really know.",
+        "pl": "Tak naprawdę nie wiemy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds9": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds10": {
+        "en": "The unknown!",
+        "pl": "Nieznane!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE StrangeDevice/Section ds11": {
+        "en": "What is it?",
+        "pl": "Co to jest?",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE SubmarineBlueprint": {
+      "Conversation/Symmetry CLUE SubmarineBlueprint/Section ds0": {
+        "en": "She tries her best to honor fate and call it by its newest name...",
+        "pl": "Stara się, jak może, uhonorować los i nazywać ją najnowszym imieniem...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SubmarineBlueprint/Section ds6": {
+        "en": "I will admit, in quiet hours, the former name returns.",
+        "pl": "Przyznam, że w cichych godzinach, dawne imię powraca.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SubmarineBlueprint/Section ds7": {
+        "en": "What's the [i]former[/i] name?",
+        "pl": "Jakie jest to [i]dawne[/i] imię?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SubmarineBlueprint/Section ds8": {
+        "en": "Need you only glance beneath a single-slip of paper.",
+        "pl": "Wystarczy jedynie zerknąć pod pojedynczy skrawek papieru.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SubmarineBlueprint/Section ds9": {
+        "en": "Sinthia?",
+        "pl": "Sinthia?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE SunTablets": {
+      "Conversation/Symmetry CLUE SunTablets/Section ds0": {
+        "en": "Why would someone bring-along a bottled form of sun...?",
+        "pl": "Czemuż ktoś zabrałby ze sobą butelkową postać słońca...?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds6": {
+        "en": "Sunlight's good for you - [i]Vitamin D[/i], I guess.",
+        "pl": "Światło słoneczne jest dla ciebie dobre - [i]Witamina D,[/i] jak sądzę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds7": {
+        "en": "What does it do?",
+        "pl": "Co to robi?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds8": {
+        "en": "All kinds of stuff.",
+        "pl": "Wszelkiego rodzaju rzeczy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds9": {
+        "en": "If you don't get enough, it makes you sad.",
+        "pl": "Jeśli nie dostaniesz go wystarczająco, robisz się smutny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds10": {
+        "en": "[i]Silkwirm's[/i] sun is scantly seen... Even in a [i]summer[/i] sky.",
+        "pl": "[i]Silkwirmowe[/i] słońce skąpo się spostrzega... Skoro nawet w [i]letnim[/i] niebie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds11": {
+        "en": "I swear, sometimes she just gets [i]lucky[/i] with the alliteration.",
+        "pl": "Przysięgam, czasem po prostu ma [i]szczęście[/i] z aliteracją.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds12": {
+        "en": "You know how people tend to be happier in summer and sadder in winter?",
+        "pl": "Wiesz, jak ludzie zwykle są szczęśliwsi latem, a smutniejsi zimą?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE SunTablets/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry CLUE TheMermaidsTongue": {
+      "Conversation/Symmetry CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE Typewriter": {
+      "Conversation/Symmetry CLUE Typewriter/Section ds0": {
+        "en": "Wirman likes [i]writing[/i] on it, I guess.",
+        "pl": "Wirman lubi na niej [i]pisać,[/i] jak sądzę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds7": {
+        "en": "I think it's just as likely to be the exact opposite.",
+        "pl": "Myślę, że równie prawdopodobne jest coś dokładnie odwrotnego.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds8": {
+        "en": "That he's here because he [i]doesn't[/i] want to write that book.",
+        "pl": "Że jest tutaj, bo [i]nie chce[/i] pisać tej książki.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds14": {
+        "en": "It's so [i]heavy[/i] - I can't imagine lugging this around everywhere.",
+        "pl": "Jest taka [i]ciężka[/i] - nie wyobrażam sobie taszczenia tego wszędzie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds16": {
+        "en": "-and, supposedly, that's the whole reason he's here? To write his next book?",
+        "pl": "-i, podobno, to cały powód, dla którego tu jest? Żeby napisać kolejną książkę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE Typewriter/Section ds18": {
+        "en": "That he's here to [i]hide[/i] from it.",
+        "pl": "Że jest tutaj, by się przed nią [i]ukryć.[/i]",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry CLUE UnderwaterPhoto": {
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds0": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds8": {
+        "en": "But now I feel like we should check under Sinthia's mattress.",
+        "pl": "Ale teraz czuję, że powinniśmy sprawdzić pod materacem Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds11": {
+        "en": "I've only ever heard her voice...",
+        "pl": "Zawsze jedynie słyszałam jej głos...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds12": {
+        "en": "There she is...",
+        "pl": "Oto ona...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds14": {
+        "en": "Who??",
+        "pl": "Kto??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds15": {
+        "en": "I don't know. I've never seen her with my eyes.",
+        "pl": "Nie wiem. Nigdy nie widziałam jej na własne oczy.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds16": {
+        "en": "What did she say?",
+        "pl": "Co powiedziała?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds17": {
+        "en": "I wish I knew.\nO, how I [i]wish[/i] I knew.",
+        "pl": "Chciałabym wiedzieć.\nO, jakże [i]chciałabym[/i] wiedzieć.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds20": {
+        "en": "When??",
+        "pl": "Kiedy??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds21": {
+        "en": "At night, when half-asleep.",
+        "pl": "W nocy, gdy w pół śnie.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds22": {
+        "en": "[i]Half[/i]-asleep? Or - [h]asleep?[/h] ",
+        "pl": "[i]W pół[/i] śnie? Czy - [h]we śnie?[/h] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds23": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds24": {
+        "en": "If you've never [i]seen[/i] her, how'd you recognise her from the photo?",
+        "pl": "Jeśli nigdy jej nie [i]widziałaś,[/i] jak rozpoznałaś ją na zdjęciu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds25": {
+        "en": "I cannot say...",
+        "pl": "Nie potrafię rzec...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds27": {
+        "en": "-may I ask where you found it?",
+        "pl": "-czy mogę spytać, gdzie to znaleźliście?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds28": {
+        "en": "Actually, it was in your bedroom.",
+        "pl": "Właściwie, było to w twojej sypialni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds29": {
+        "en": "O - [i]this[/i] is what Sinthia was hiding under her mattress?",
+        "pl": "O - [i]to[/i] jest to, co Sinthia ukrywała pod materacem?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE UnderwaterPhoto/Section ds31": {
+        "en": "No... we found it in a [i]safe.[/i]",
+        "pl": "Nie... znaleźliśmy to w [i]sejfie.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE WoodenBuoy": {
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds0": {
+        "en": "The fate awaiting guilty hearts once they are condemned!",
+        "pl": "Los czekający winne serca, gdy już zostaną skazane!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds6": {
+        "en": "Nay! Bound in chains upon the deck! And pulled along beside the ship!",
+        "pl": "Nie! Skute w łańcuchy na pokładzie! I ciągnięte wzdłuż burty statku!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds8": {
+        "en": "Oh. Jeez.",
+        "pl": "Och. Rety.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds9": {
+        "en": "What - you get turned into a [i]weird little wooden goblin head?[/i] ",
+        "pl": "Co - zmieniasz się w [i]dziwną, małą drewnianą głowę goblina?[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds12": {
+        "en": "She's not serious.",
+        "pl": "Ona nie mówi poważnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE WoodenBuoy/Section ds14": {
+        "en": "I don't think.",
+        "pl": "Chyba nie.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry CLUE WoodenPipe": {
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds0": {
+        "en": "...a tobacco pipe?",
+        "pl": "...fajka na tytoń?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds6": {
+        "en": "Yeah. Sure.",
+        "pl": "Tak. Jasne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds7": {
+        "en": "No, it's not.",
+        "pl": "Nie, nie jest.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds8": {
+        "en": "O! I know this game! One always tells the truth, and the other always lies!",
+        "pl": "O! Znam tę grę! Jedno zawsze mówi prawdę, a drugie zawsze kłamie!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds10": {
+        "en": "Uh, no, that's not what's happening.",
+        "pl": "Yy, nie, to nie o to chodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds11": {
+        "en": "Yes, it is.",
+        "pl": "Tak, o to chodzi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry CLUE WoodenPipe/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Conversation/Symmetry CLUE RaggedCloth/Section ds9",
+      "issue": "Tytul \"'The Stargazing Girl'\" ponownie przetlumaczony jako \"'Dziewczyna Patrzaca w Gwiazdy'\" - spojnie z batch_63 (Sinthia CLUE RaggedCloth/ds6), potwierdza konwencje nazwy przy nastepnym wystapieniu."
+    }
+  ]
+}

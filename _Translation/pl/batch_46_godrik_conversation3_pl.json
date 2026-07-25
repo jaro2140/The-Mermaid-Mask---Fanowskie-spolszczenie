@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "batch": "Godrik Conversation 3 (62 terminow) - kontynuacja finalowego wyznania (batch_44-45). Ta scena zawiera DWA rejestry tej samej postaci naraz: 'Godrik' (powazna narracja terazniejsza) oraz 'Gripp' (playful showman - w RETROSPEKTYWNYM dialogu odgrywanym/cytowanym z przeszlosci, ds224-237, gdzie Gripp i Mortuga otwieraja razem Czarna Skrzynke i znajduja naszyjnik Felicii). Takze pierwsze bezposrednie wystapienia mowcy 'Mortuga' (dotad tylko wspominany, teraz cytowany w dialogu wewnatrz retrospekcji).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 60/62 pokryte. Nieprzypisane (2): Request exitClueRequest3 Hint0/1 - standardowe 'Grimoire (domniemany)'.",
+    "character_voice": "Godrik: powazny rejestr z batch_44-45. Gripp (w retrospekcji ds224-237): powrot do playful/teatralnego rejestru showmana z batch_08-09 - swiadomy kontrast miedzy 'graną' postacia Grippa a szczera narracja Godrika w tej samej partii."
+  },
+  "categories": {
+    "Godrik Conversation 3": {
+      "Conversation/Godrik Conversation 3/Request exitClueRequest3Hint0": {
+        "en": "How did Mortuga smuggle The Mermaid's Tongue onto the submarine?",
+        "pl": "Jak Mortuga przemycił Język Syreny na łódź podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 3/Request exitClueRequest3Hint1": {
+        "en": "Which letter explains how Mortuga smuggled The Mermaid's Tongue onto the submarine?",
+        "pl": "Który list wyjaśnia, jak Mortuga przemycił Język Syreny na łódź podwodną?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Godrik Conversation 3/Section ds150": {
+        "en": "It all came to an end.",
+        "pl": "Wszystko dobiegło końca.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds152": {
+        "en": "Well, what are you waiting for? Go ahead, open it.",
+        "pl": "No, na co czekasz? Śmiało, otwórz to.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds153": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 3/Section ds154": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds162": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds163": {
+        "en": "Well, that's about the long and short of it-",
+        "pl": "Cóż, to mniej więcej wszystko w skrócie-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds164": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 3/Section ds165": {
+        "en": "You've left them with misconceptions.",
+        "pl": "Zostawiłeś ich z błędnymi wyobrażeniami.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds166": {
+        "en": "What do you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 3/Section ds167": {
+        "en": "Misconceptions...?",
+        "pl": "Błędnymi wyobrażeniami...?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 3/Section ds168": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds169": {
+        "en": "You can't leave it like that.",
+        "pl": "Nie możesz tego tak zostawić.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds170": {
+        "en": "Maybe one or two, yeah...",
+        "pl": "Może jednym czy dwoma, tak...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds190": {
+        "en": "So to begin with, it was just you three.",
+        "pl": "Więc na początku było was tylko troje.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds191": {
+        "en": "But it didn't stay like that for long...",
+        "pl": "Ale to nie trwało długo w tej formie...",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 3/Section ds193": {
+        "en": "You should tell them what you know. All of it.",
+        "pl": "Powinieneś im powiedzieć, co wiesz. Wszystko.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds194": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds196": {
+        "en": "Mortuga's actions... his decisions... all motivated by that same singular desire.",
+        "pl": "Działania Mortugi... jego decyzje... wszystkie motywowane tym samym, jedynym pragnieniem.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 3/Section ds202": {
+        "en": "It was all in effort to locate Felicia Stonetop.",
+        "pl": "Wszystko było próbą odnalezienia Felicii Stonetop.",
+        "speaker": "Moon"
+      },
+      "Conversation/Godrik Conversation 3/Section ds217": {
+        "en": "I arrived in Silkwirm and went into the Stonetop Inn, where I found the locked Cauldron.",
+        "pl": "Przybyłem do Silkwirm i wszedłem do Gospody Stonetop, gdzie znalazłem zamknięty Kocioł.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 3/Section ds218": {
+        "en": "I placed it among my possessions and ventured onto the submarine waiting in the harbor.",
+        "pl": "Umieściłem go wśród swoich rzeczy i wyruszyłem na łódź podwodną czekającą w porcie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 3/Section ds219": {
+        "en": "'Her'.",
+        "pl": "'Ona'.",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 3/Section ds220": {
+        "en": "Likewise, it transpires that Godrik's actions were [i]also[/i] motivated by a singular desire.",
+        "pl": "Podobnie, jak się okazuje, działania Godrika [i]również[/i] były motywowane jednym, jedynym pragnieniem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 3/Section ds221": {
+        "en": "To commune with The Mermaid.",
+        "pl": "By obcować z Syreną.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Godrik Conversation 3/Section ds222": {
+        "en": "'Her'.",
+        "pl": "'Ona'.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Godrik Conversation 3/Section ds223": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds224": {
+        "en": "[i]...I'll[/i] be the judge of that. There could be [i]anything[/i] in there. Listen-",
+        "pl": "[i]...ja[/i] to ocenię. Może tam być [i]cokolwiek.[/i] Słuchajcie-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds225": {
+        "en": "I'd [i]prefer[/i] you not to shake it like that.",
+        "pl": "[i]Wolałbym,[/i] żebyś tak tym nie potrząsał.",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds226": {
+        "en": "Besides, it doesn't open that way. It slides out at the side. Let me do it.",
+        "pl": "Poza tym, nie otwiera się w ten sposób. Wysuwa się z boku. Pozwól, że ja to zrobię.",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds227": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds228": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds229": {
+        "en": "What's all this... a scroll? An envelope?",
+        "pl": "Co to wszystko... zwój? Koperta?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds230": {
+        "en": "There's something inside...",
+        "pl": "Coś jest w środku...",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds231": {
+        "en": "Wait... what's [i]this?[/i]",
+        "pl": "Czekaj... co to [i]jest?[/i]",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds232": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds233": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds234": {
+        "en": "[i]Isn't it?[/i]",
+        "pl": "[i]Prawda?[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds235": {
+        "en": "We [i]both[/i] know what that is.",
+        "pl": "[i]Oboje[/i] wiemy, czym to jest.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds236": {
+        "en": "That's Felicia Stonetop's necklace, isn't it?",
+        "pl": "To naszyjnik Felicii Stonetop, prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds237": {
+        "en": "Oh but it does - I'm to believe the box may contain information on Captain Stonetop?",
+        "pl": "Ależ owszem - mam uwierzyć, że skrzynka może zawierać informacje o kapitan Stonetop?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Godrik Conversation 3/Section ds238": {
+        "en": "Even if it [i]does[/i] - it is [i]wholly unrelated[/i] our unfortunate voyage.",
+        "pl": "Nawet jeśli [i]tak jest[/i] - jest to [i]całkowicie niezwiązane[/i] z naszą nieszczęsną wyprawą.",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds25": {
+        "en": "Mortuga smuggled the Mermaid's Tongue onto the submarine before we left.",
+        "pl": "Mortuga przemycił Język Syreny na łódź podwodną, zanim wypłynęliśmy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds26": {
+        "en": "[i]Smuggled?[/i] How?",
+        "pl": "[i]Przemycił?[/i] Jak?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Godrik Conversation 3/Section ds27": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds28": {
+        "en": "...Mortuga sent me a letter - inviting me to join him on the submarine.",
+        "pl": "...Mortuga przysłał mi list - zapraszając mnie, żebym do niego dołączył na łodzi podwodnej.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 3/Section ds29": {
+        "en": "Gripp, did you [i]know[/i] he'd done that?",
+        "pl": "Gripp, [i]wiedziałeś[/i], że to zrobił?",
+        "speaker": "Sally"
+      },
+      "Conversation/Godrik Conversation 3/Section ds30": {
+        "en": "Mortuga told me he was going to bring somebody else on board-",
+        "pl": "Mortuga powiedział mi, że zabierze na pokład kogoś jeszcze-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds31": {
+        "en": "But I didn't want anyone to know what we were doing, or what we were looking for.",
+        "pl": "Ale nie chciałem, żeby ktokolwiek wiedział, co robimy albo czego szukamy.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds32": {
+        "en": "I followed Mortuga's instructions precisely.",
+        "pl": "Postąpiłem dokładnie według instrukcji Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Godrik Conversation 3/Section ds34": {
+        "en": "We departed. Zephyr thought he and Mortuga were the only two souls on the ship.",
+        "pl": "Wypłynęliśmy. Zephyr myślał, że on i Mortuga to jedyne dwie dusze na statku.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds35": {
+        "en": "That way I was free to move around the submarine in view of Zephyr-",
+        "pl": "Dzięki temu mogłem swobodnie poruszać się po łodzi podwodnej na oczach Zephyra-",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds40": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds42": {
+        "en": "And when they opened the Black Box and found the Mourning Envelope - found the [i]necklace key[/i]...",
+        "pl": "A kiedy otworzyli Czarną Skrzynkę i znaleźli Kopertę Żałobną - znaleźli [i]kluczyk z naszyjnika[/i]...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Godrik Conversation 3/Section ds46": {
+        "en": "Godrik, I really don't know why you're here, this doesn't concern you.",
+        "pl": "Godriku, naprawdę nie wiem, po co tu jesteś, to nie twoja sprawa.",
+        "speaker": "Mortuga"
+      },
+      "Conversation/Godrik Conversation 3/Section ds59": {
+        "en": "It didn't.",
+        "pl": "Nie było.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds84": {
+        "en": "He didn't want to leave it behind... but he didn't want me to know he had it.",
+        "pl": "Nie chciał tego zostawić... ale nie chciał, żebym wiedział, że to ma.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds85": {
+        "en": "-an old friend, a 'collector of occult curiosities' who might be helpful. ",
+        "pl": "-starego przyjaciela, 'kolekcjonera okultystycznych osobliwości', który mógłby się przydać. ",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds86": {
+        "en": "I told Mortuga not to mention me in the letter.",
+        "pl": "Powiedziałem Mortudze, żeby nie wspominał o mnie w liście.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds88": {
+        "en": "I stayed hidden for a week, before staging a balloon crash and pretending that Mortuga had rescued me from the ocean.",
+        "pl": "Ukrywałem się przez tydzień, zanim zainscenizowałem katastrofę balonu i udawałem, że Mortuga uratował mnie z oceanu.",
+        "speaker": "Godrik"
+      },
+      "Conversation/Godrik Conversation 3/Section ds89": {
+        "en": "-but he could dismiss me as a hapless traveller picked up along the way.\n",
+        "pl": "-ale mógł mnie zbyć jako nieszczęsnego podróżnika, podniesionego po drodze.\n",
+        "speaker": "Godrik"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Godrik Conversation 3/ds219, ds222 \"'Her'.\"",
+      "problem": "Jednoslowna kwestia 'Her' wypowiadana osobno przez Sinthie (ds219) i Symmetry (ds222) - niejasny dokladny kontekst/referent (moze to komentarz do sposobu, w jaki ktos mowi o lodzi podwodnej lub o Syrenie jako 'she/her' - angielska tradycja nazywania statkow rodzajem zenskim, ktora NIE ma odpowiednika w polskim, bo 'lodz podwodna' juz jest rodzaju zenskiego z definicji - gra slow moze byc nieprzekladalna). Przetlumaczono neutralnie jako '\"Ona\".' w obu miejscach - do sprawdzenia w grze z pelnym kontekstem/audio czy sens sie zgadza."
+    }
+  ]
+}

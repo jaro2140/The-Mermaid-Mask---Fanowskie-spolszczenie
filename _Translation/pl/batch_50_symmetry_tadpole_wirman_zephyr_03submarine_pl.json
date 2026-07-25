@@ -1,0 +1,415 @@
+{
+  "_meta": {
+    "batch": "Symmetry/Tadpole/Wirman/Zephyr scena '03 MORTUGA SUBMARINE' (17+25+16+21=79 terminow) - NAPRAWA LUKI: podczas przegladu pozostalych scen odkryto, ze te 4 postacie maja standardowa scene '03' (rozmowa o zyciu na lodzi podwodnej/kwaterze), ktora zostala pominieta mimo wczesniejszego oznaczenia tych lukow jako KOMPLETNE (batch_27-31 Symmetry, batch_32-35 Tadpole, batch_36-39 Wirman, batch_40-43 Zephyr wszystkie pomijaly scene 03). Pozostale 4 postacie (Dirk, Gripp, Moon, Sinthia) mialy swoje sceny 03 juz przetlumaczone w ramach wczesniejszych batchy.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 79/79 pokryte, brak mechaniki Request/Choice w tych 4 scenach.",
+    "character_voice": "Symmetry: archaiczny szekspirowski rejestr (kontynuacja batch_27-31). Tadpole: bezposredni/potoczny (batch_32-35). Wirman: formalny, zwracany 'pan' przez Grimoire/Sally (batch_36-39, jedyny wyjatek formalnego zwrotu). Zephyr: formalny/mistyczny, zwracany 'ty' (batch_40-43)."
+  },
+  "categories": {
+    "Symmetry 03 THE MORTUGA SUBMARINE": {
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds0": {
+        "en": "What are you toiling on?",
+        "pl": "Nad czym się trudzisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds6": {
+        "en": "What would happen then?",
+        "pl": "Co by się wtedy stało?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds8": {
+        "en": "But, O! The turtle finds me [i]scant sustenance[/i], and he too will perish, and we'll both be dead, forever and ever-",
+        "pl": "Lecz, O! Żółw uzna mnie za [i]skąpy posiłek,[/i] i on także zginie, i oboje będziemy martwi, na wieki wieków-",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds9": {
+        "en": "Surely, I'll be tossed into the sea, where I will promptly perish!",
+        "pl": "Zaiste, zostanę wrzucona w morze, gdzie rychło zginę!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds10": {
+        "en": "[i]Symmetry![/i]",
+        "pl": "[i]Symmetry![/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds11": {
+        "en": "I must remain of some [h]use, [/h] lest I should become use-[h]less.[/h]",
+        "pl": "Muszę pozostać jakiegoś [h]pożytku,[/h] bym się nie stała bez-[h]użyteczna.[/h]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds12": {
+        "en": "Thereupon my listless form becomes a meal for a passing sea turtle.",
+        "pl": "Wówczas moje omdlałe ciało stanie się posiłkiem dla przepływającego żółwia morskiego.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds13": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds14": {
+        "en": "Symmetry-",
+        "pl": "Symmetry-",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds15": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds29": {
+        "en": "...is this your bedroom?",
+        "pl": "...to twoja sypialnia?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds30": {
+        "en": "My chamber's shared with Sinthia fair!",
+        "pl": "Komnatę dzielę z piękną Sinthią!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds31": {
+        "en": "Oh.\nSo [i]this[/i] room is, uh - what exactly?",
+        "pl": "Ach.\nWięc [i]ten[/i] pokój to, yy - co dokładnie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds32": {
+        "en": "My place of toil...",
+        "pl": "Miejsce mego trudu...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds33": {
+        "en": "Ah!!\n[i]Many[/i]-a-thing!\nAll-a-[i]manner[/i] of things!",
+        "pl": "Ach!!\n[i]Wielu[/i]-rzeczy!\nWszelakiego-[i]rodzaju[/i] rzeczy!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds34": {
+        "en": "...keepin' busy, huh?",
+        "pl": "...trzymasz się w ruchu, co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry 03 THE MORTUGA SUBMARINE/Section ds35": {
+        "en": "Take a left down the hall.",
+        "pl": "Skręć w lewo w korytarzu.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Tadpole 03 MORTUGA SUBMARINE": {
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds0": {
+        "en": "Looks like you've made yourself pretty comfortable down here...",
+        "pl": "Wygląda na to, że urządziłaś się tu całkiem wygodnie...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds6": {
+        "en": "Magnus offered me one of the bunk rooms, but I turned him down.",
+        "pl": "Magnus zaproponował mi jedną z kajut sypialnych, ale odmówiłam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds7": {
+        "en": "And yeah, over time I turned the airlock into a [i]nice little home[/i] for myself.",
+        "pl": "I tak, z czasem zrobiłam ze śluzy swój [i]przytulny mały dom.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds9": {
+        "en": "Where did you [i]get[/i] all this stuff? The mirrors, the bottles...?",
+        "pl": "Skąd [i]masz[/i] to wszystko? Lustra, butelki...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds10": {
+        "en": "Shipwrecks... shipping containers... you name it.",
+        "pl": "Wraki statków... kontenery... co chcesz.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds11": {
+        "en": "You go swimming out in the [i]actual ocean?[/i]",
+        "pl": "Pływasz w [i]prawdziwym oceanie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds12": {
+        "en": "'Course.",
+        "pl": "No pewnie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds13": {
+        "en": "Isn't it [i]cold?[/i] And what about the [i]water pressure?[/i]",
+        "pl": "Czy to nie [i]zimne?[/i] A co z [i]ciśnieniem wody?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds14": {
+        "en": "Hahaha! What [i]about[/i] 'em?",
+        "pl": "Hahaha! A co [i]z tym?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds15": {
+        "en": "That's for other people to worry about.",
+        "pl": "Niech się tym martwią inni.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds17": {
+        "en": "So, how do you get out into the sea? Or, do you just go from up on deck?",
+        "pl": "Więc jak się wydostajesz do morza? Czy po prostu idziesz z górnego pokładu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds19": {
+        "en": "See that hole in the middle of the room? Leads down into  a [i]big ol'[/i] water tank, with a door that leads outside.",
+        "pl": "Widzisz tę dziurę na środku pokoju? Prowadzi w dół do [i]wielkiego, starego[/i] zbiornika z wodą, z drzwiami wychodzącymi na zewnątrz.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds20": {
+        "en": "Jeez. I'm impressed.",
+        "pl": "Rany. Jestem pod wrażeniem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds21": {
+        "en": "Like I said. This is where I belong.",
+        "pl": "Jak mówiłam. Tu jest moje miejsce.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds22": {
+        "en": "How long have you been living here?",
+        "pl": "Jak długo tu mieszkasz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds23": {
+        "en": "I stopped worrying about times and dates, it doesn't mean much down here.",
+        "pl": "Przestałam się przejmować czasem i datami, tu na dole to niewiele znaczy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds24": {
+        "en": "But I know I arrived after [i]Sym[/i]... and before [i]Dirk.[/i]",
+        "pl": "Ale wiem, że przybyłam po [i]Sym[/i]... a przed [i]Dirkiem.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds25": {
+        "en": "Do you get on with the other suspects?",
+        "pl": "Dogadujesz się z resztą podejrzanych?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds26": {
+        "en": "If it falls into the [i]ocean,[/i] I consider it fair game.",
+        "pl": "Jeśli wpadnie do [i]oceanu,[/i] uznaję to za uczciwy łup.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds27": {
+        "en": "I go out into the ocean every single day.",
+        "pl": "Wypływam do oceanu każdego dnia.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds28": {
+        "en": "Oh, sure. It's a nice group.",
+        "pl": "O, jasne. To fajna ekipa.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds29": {
+        "en": "I was closest with Magnus, though.",
+        "pl": "Chociaż najbliżej było mi z Magnusem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds31": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole 03 MORTUGA SUBMARINE/Section ds32": {
+        "en": "He was one of a kind.",
+        "pl": "Był niepowtarzalny.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Wirman 03 MORTUGA SUBMARINE": {
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds0": {
+        "en": "So, how d'you like living on the Mortuga Submarine? ",
+        "pl": "Więc, jak się panu podoba życie na Łodzi Podwodnej Mortuga? ",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds6": {
+        "en": "...it's also a lot [i]noisier[/i] than I thought it'd be.",
+        "pl": "...jest też o wiele [i]głośniej,[/i] niż myślałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds7": {
+        "en": "I couldn't have guessed Mortuga would basically be running a [i]bed and breakfast[/i] down here.",
+        "pl": "Nie mogłem się domyślić, że Mortuga będzie tu prowadził praktycznie [i]pensjonat.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds8": {
+        "en": "It was already busy when you arrived?",
+        "pl": "Było już tu tłoczno, kiedy pan przybył?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds9": {
+        "en": "Mhm. Before the arrival of Mariana Moon, Dirk and I were the last two to join the gang.",
+        "pl": "Mhm. Przed przybyciem Mariany Moon, Dirk i ja byliśmy ostatnią dwójką, która dołączyła do ekipy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds10": {
+        "en": "It's kinda surprising there was still a bunk room [h]free[/h], at that point.",
+        "pl": "To trochę zaskakujące, że w tamtym momencie była jeszcze [h]wolna[/h] kajuta sypialna.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds11": {
+        "en": "Well, I wouldn't look a gift horse in the mouth...",
+        "pl": "Cóż, darowanemu koniowi w zęby się nie zagląda...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds12": {
+        "en": "What's it like sharing a room with Dirk?",
+        "pl": "Jak to jest dzielić pokój z Dirkiem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds13": {
+        "en": "Oh, we get on like a [i]house on fire[/i]. Two peas in a pod, that's us.",
+        "pl": "O, dogadujemy się [i]znakomicie.[/i] Jak dwie krople wody, to my.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds15": {
+        "en": "What about everyone else?",
+        "pl": "A co z resztą?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds16": {
+        "en": "It's a [i]fascinating[/i] little microcosm, utterly discordant, and yet somehow... harmonious.",
+        "pl": "To [i]fascynujący[/i] mały mikrokosmos, całkowicie niezgodny, a jednak jakoś... harmonijny.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds18": {
+        "en": "-at least that's how it felt before the [i]captain[/i] was murdered.",
+        "pl": "-przynajmniej tak to wyglądało, zanim [i]kapitan[/i] został zamordowany.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds19": {
+        "en": "I will say - as a writer - it's a boon to be aboard this thing.",
+        "pl": "Powiem tak - jako pisarz - to błogosławieństwo być na pokładzie tej rzeczy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds20": {
+        "en": "The whole place is dripping with human narrative - stories practically [h]leaking[/h] out of the walls-",
+        "pl": "Całe to miejsce ocieka ludzką narracją - historie wręcz [h]sączą się[/h] ze ścian-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman 03 MORTUGA SUBMARINE/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr 03 MORTUGA SUBMARINE": {
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds6": {
+        "en": "How come there's a room like this in the submarine anyway?",
+        "pl": "Czemu w ogóle jest taki pokój na łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds7": {
+        "en": "When I arrived, it was but a simple [i]infirmary.[/i]",
+        "pl": "Kiedy przybyłem, była to jedynie zwykła [i]izba chorych.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds8": {
+        "en": "After I set up my equipment... we renamed it the [i]Dream Chamber.[/i]",
+        "pl": "Po tym jak rozstawiłem mój sprzęt... przemianowaliśmy ją na [i]Komnatę Snów.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds9": {
+        "en": "And how long have you been here?",
+        "pl": "A jak długo tu jesteś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds10": {
+        "en": "I was the first person to be invited on board.",
+        "pl": "Byłem pierwszą osobą zaproszoną na pokład.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds11": {
+        "en": "I joined Magnus here shortly before the submarine's maiden voyage.",
+        "pl": "Dołączyłem tu do Magnusa niedługo przed dziewiczym rejsem łodzi podwodnej.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds18": {
+        "en": "That's... all he [i]told[/i] you?\n-[i]Surely[/i] there was more to it.",
+        "pl": "To... wszystko, co ci [i]powiedział?[/i]\n-[i]Na pewno[/i] było w tym coś więcej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds19": {
+        "en": "So, presumably, you know [h]why[/h] Mortuga became a submarine Captain?",
+        "pl": "Więc, przypuszczalnie, wiesz, [h]czemu[/h] Mortuga został kapitanem łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds20": {
+        "en": "[i]Why...?[/i]",
+        "pl": "[i]Czemu...?[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds21": {
+        "en": "Yeah. Like - where was he going, what was he doing...?",
+        "pl": "Tak. No wiesz - dokąd zmierzał, co robił...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds22": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds23": {
+        "en": "He simply told me he'd acquired a submarine and would be living in it for an undisclosed amount of time.",
+        "pl": "Po prostu powiedział mi, że nabył łódź podwodną i będzie w niej mieszkał przez nieokreślony czas.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds25": {
+        "en": "I don't doubt it. He was a man of [i]secrets[/i] - every bit as much as I.",
+        "pl": "Nie wątpię w to. Był człowiekiem [i]tajemnic[/i] - w takim samym stopniu jak ja.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds26": {
+        "en": "So, when you started off, it was just the two of you - but now it's, what, eight people?",
+        "pl": "Więc, kiedy zaczynaliście, było was tylko dwóch - a teraz jest, co, ośmioro ludzi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds27": {
+        "en": "We were nine souls - now, eight.",
+        "pl": "Było nas dziewięć dusz - teraz osiem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds28": {
+        "en": "I'm not counting either of you.",
+        "pl": "Nie liczę żadnego z was dwojga.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds29": {
+        "en": "[i]Yeah I figured.[/i]",
+        "pl": "[i]Tak, tak myślałem.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds30": {
+        "en": "Why did Mortuga want so many people on the submarine?",
+        "pl": "Czemu Mortuga chciał mieć tylu ludzi na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds31": {
+        "en": "Only a [i]few[/i] of them were invited on board by Magnus like I was.",
+        "pl": "Tylko [i]nieliczni[/i] z nich zostali zaproszeni na pokład przez Magnusa, tak jak ja.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds32": {
+        "en": "The others... crossed paths with him merely by the winds of fortune.",
+        "pl": "Reszta... skrzyżowała z nim ścieżki jedynie za sprawą wiatrów losu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 03 MORTUGA SUBMARINE/Section ds34": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

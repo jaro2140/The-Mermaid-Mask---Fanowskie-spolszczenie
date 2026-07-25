@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "batch": "Moon 06 PIPE (4 terminy) - konczy caly luk Moon (271/271). Krotka scena prezentacji jej osobistej fajki-dyktafonu jako dowodu (NIE zwiazana z mechanika 'Pipe'/rura glosowa statku z batch_20 - to jej wlasny przedmiot, patrz notatka terminologiczna w batch_25).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 4/4 pokryte: Moon 3, Grimoire 1"
+  },
+  "categories": {
+    "Moon 06 PIPE": {
+      "Conversation/Moon 06 PIPE/Section ds0": {
+        "en": "You want a look at my pipe...?",
+        "pl": "Chcecie zobaczyć moją fajkę...?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 06 PIPE/Section ds6": {
+        "en": "If you don't mind.",
+        "pl": "Jeśli nie masz nic przeciwko.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 06 PIPE/Section ds7": {
+        "en": "By all means.",
+        "pl": "Ależ proszę bardzo.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 06 PIPE/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Moon"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

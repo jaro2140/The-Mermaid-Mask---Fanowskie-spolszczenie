@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "batch": "Conversation/Grimoire 1 Crime Scene - pierwsza scena dialogowa (28 terminow). Cel: ustanowic proces tlumaczenia dialogow z poprawnym rodzajem gramatycznym mowcy.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "Mowcy ustaleni przez _App/src/resolve_speakers.py (pole soulTalking w dialogueSections, sharedassets1.assets) - NIE zgadywani z tresci. Patrz _App/output/speaker_map.json i _Guidelines/GLOSSARY.md sekcja 'Postacie'.",
+    "characters_in_this_scene": {
+      "Grimoire": "on (M)",
+      "Sally": "ona (F)"
+    }
+  },
+  "categories": {
+    "Grimoire 1 Crime Scene": {
+      "Conversation/Grimoire 1 Crime Scene/Request exitClueRequest1Hint0": {
+        "en": "I noticed something...",
+        "pl": "Zauważyłem coś...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Request exitClueRequest1Hint1": {
+        "en": "I noticed something on the inside of the Cauldron...",
+        "pl": "Zauważyłem coś wewnątrz Kotła...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/RequestPrefix exitClueRequest1 0": {
+        "en": "I noticed...",
+        "pl": "Zauważyłem...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/RequestSuffix exitClueRequest1 0": {
+        "en": "...inside the cauldron.",
+        "pl": "...wewnątrz kotła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds40": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds46": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds48": {
+        "en": "[i]Mortuga had locked himself in the room. It was later forced open, and the body was discovered.[/i]",
+        "pl": "[i]Mortuga zamknął się w pokoju. Drzwi zostały później wyważone, a w środku znaleziono ciało.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds49": {
+        "en": "So Mortuga was alone in a locked room.",
+        "pl": "Czyli Mortuga był sam w zamkniętym pokoju.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds51": {
+        "en": "To quote from the case file;",
+        "pl": "Cytat z akt sprawy:",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds54": {
+        "en": "I think there [h]is[/h] a hiding place.",
+        "pl": "Myślę, że [h]jest[/h] tu kryjówka.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds55": {
+        "en": "A very [h]small[/h] locked room. There really isn't anywhere for a murderer to hide.",
+        "pl": "Bardzo [h]mały[/h], zamknięty pokój. Morderca naprawdę nie miałby się gdzie ukryć.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds57": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds58": {
+        "en": "This place gives me the creeps. That cauldron especially.",
+        "pl": "To miejsce przyprawia mnie o ciarki. Zwłaszcza ten kocioł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds59": {
+        "en": "I really don't think a person would fit in that cauldron.",
+        "pl": "Naprawdę nie sądzę, żeby człowiek zmieścił się w tym kotle.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds61": {
+        "en": "I keep staring into it like I'm going to see something... but it really does seem to be empty.",
+        "pl": "Ciągle się w niego wpatruję, jakbym miała coś zobaczyć... ale naprawdę wygląda na pusty.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds63": {
+        "en": "Right. I agree, I don't think it [h]was[/h] a person.",
+        "pl": "No właśnie. Zgadzam się, nie sądzę, żeby to [h]był[/h] człowiek.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds66": {
+        "en": "...then what?",
+        "pl": "...to co w takim razie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds67": {
+        "en": "...I don't know. But you have to wonder why it was kept locked in the first place.",
+        "pl": "...nie wiem. Ale warto się zastanowić, po co w ogóle trzymano go zamkniętego.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds68": {
+        "en": "Look, Mortuga died from a cut across his neck - not from some vague paranormal entity.",
+        "pl": "Słuchaj, Mortuga zginął od cięcia w szyję, a nie przez jakąś mglistą istotę paranormalną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds69": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds70": {
+        "en": "Did you get a good look at the inside of the cauldron? There was something I noticed...",
+        "pl": "Przyjrzałaś się dobrze wnętrzu kotła? Zauważyłem coś...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds71": {
+        "en": "I'm guessing there was something pretty bad in there.",
+        "pl": "Zgaduję, że było tam coś niedobrego.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds73": {
+        "en": "I'm not so sure...",
+        "pl": "Nie jestem pewien...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds74": {
+        "en": "And didn't they say it had [h]never[/h] been unlocked before?",
+        "pl": "A nie mówili czasem, że [h]nigdy[/h] wcześniej nie było otwierane?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds76": {
+        "en": "Those scratch marks...",
+        "pl": "Te zadrapania...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds81": {
+        "en": "Unless you're suggesting it was a vague paranormal entity with a knife?",
+        "pl": "Chyba że sugerujesz, że to była jakaś mglista istota paranormalna z nożem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds82": {
+        "en": "If that's true, there couldn't have been anyone in there.",
+        "pl": "Jeśli to prawda, to nikogo tam nie mogło być.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 1 Crime Scene/Section ds84": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Request exitClueRequest1Hint0/Hint1, RequestPrefix/Suffix exitClueRequest1 0",
+      "problem": "To mechanika 'zgloszenia tropu' (gracz sklada zdanie z fragmentu wskazujacego na konkretny dowod). Zalozylem ze mowi to Grimoire (grywalna postac/detektyw), ale te 4 terminy NIE maja wlasnego pola soulTalking w dialogueSections (nie sa w tej strukturze) - to zalozenie, nie potwierdzone wprost jak reszta linii. Do sprawdzenia w grze czy faktycznie Grimoire to mowi, i czy 'Zauważyłem... [nazwa dowodu] ...wewnątrz kotła' brzmi poprawnie gramatycznie z rzeczywista nazwa wstawianego dowodu (przypadek moze sie nie zgadzac w zaleznosci od rodzaju gramatycznego nazwy dowodu)."
+    },
+    {
+      "term": "Kocioł/Cauldron (nazwa dowodu)",
+      "problem": "Przetlumaczylem 'Cauldron'/'cauldron' jako 'Kocioł'/'kocioł' (male/duze pierwsza litera wg oryginalu). Nie mam jeszcze potwierdzenia czy to jest formalna nazwa dowodu w UI (jak np. wczesniej znalezione 'BlackBox'/'The Black Box' w devTexts) - jesli tak, warto dodac do GLOSSARY.md i uzywac konsekwentnie we wszystkich przyszlych wystapieniach (Examine, devTexts opis tego przedmiotu)."
+    }
+  ]
+}

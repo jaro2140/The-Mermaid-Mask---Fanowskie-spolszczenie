@@ -1,0 +1,90 @@
+[
+  {
+    "term": "Options/AUTOSAVE ON",
+    "en": "AUTOSAVE ON"
+  },
+  {
+    "term": "Options/Achievements",
+    "en": "Achievements"
+  },
+  {
+    "term": "Options/Ambience",
+    "en": "Ambience"
+  },
+  {
+    "term": "Options/Audio",
+    "en": "Audio"
+  },
+  {
+    "term": "Options/Clue Suggestions",
+    "en": "Clue Suggestions"
+  },
+  {
+    "term": "Options/Controls",
+    "en": "Controls"
+  },
+  {
+    "term": "Options/CurrentLanguage",
+    "en": "English"
+  },
+  {
+    "term": "Options/Cursor",
+    "en": "Cursor"
+  },
+  {
+    "term": "Options/Display",
+    "en": "Display"
+  },
+  {
+    "term": "Options/Full Screen",
+    "en": "Full Screen"
+  },
+  {
+    "term": "Options/Map Suggestions",
+    "en": "Map Suggestions"
+  },
+  {
+    "term": "Options/Music",
+    "en": "Music"
+  },
+  {
+    "term": "Options/Quit to Title Screen",
+    "en": "Quit to Title Screen"
+  },
+  {
+    "term": "Options/Resolution",
+    "en": "Resolution"
+  },
+  {
+    "term": "Options/SFX",
+    "en": "SFX"
+  },
+  {
+    "term": "Options/Setting Off",
+    "en": "OFF"
+  },
+  {
+    "term": "Options/Setting On",
+    "en": "ON"
+  },
+  {
+    "term": "Options/Suspicion Suggestions",
+    "en": "Suspicion Suggestions"
+  },
+  {
+    "term": "Options/Text Language",
+    "en": "Text Language"
+  },
+  {
+    "term": "Options/Voice",
+    "en": "Voice"
+  },
+  {
+    "term": "Options/Vsync",
+    "en": "Vsync"
+  },
+  {
+    "term": "Options/Windowed",
+    "en": "Windowed"
+  }
+]

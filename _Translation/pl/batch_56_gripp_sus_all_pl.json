@@ -1,0 +1,515 @@
+{
+  "_meta": {
+    "batch": "Gripp SUS X (9 scen, 96 terminow) - reakcje/obserwacje Grippa (showman, nie 'Godrik') na temat kazdego z 8 pozostalych podejrzanych + na siebie samego. Gripp SUS Gripp (13) potwierdza pelna nazwe jego dawnego sklepu ('Godman Gripp's Nautical and Aeronautical Precision Measurement and Navigation Instruments' - imie 'Godman' zamiast 'Godrik', prawdopodobnie literowka/wariant zrodlowy do sprawdzenia) i pasje do map, spojne z watkiem Godrika z batch_44-47.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 96/96 pokryte, brak mechaniki Request/Choice w tych 9 scenach.",
+    "character_voice": "Gripp: playful, teatralny rejestr showmana (batch_08-09, kontrast z powaznym 'Godrik' z batch_44-47)."
+  },
+  "categories": {
+    "Gripp SUS Dirk": {
+      "Conversation/Gripp SUS Dirk/Section ds6": {
+        "en": "I noticed [i]Dirk[/i] seems to be trying to tell Wirman what to write in his book...",
+        "pl": "Zauważyłem, że [i]Dirk[/i] zdaje się próbować mówić Wirmanowi, co ma pisać w swojej książce...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds7": {
+        "en": "Maybe he's in league with Wirman's publisher.",
+        "pl": "Może jest w zmowie z wydawcą Wirmana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds8": {
+        "en": "Dirk? That can't be right...",
+        "pl": "Dirk? To nie może być prawda...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds11": {
+        "en": "It's a movie production company.",
+        "pl": "To wytwórnia filmowa.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds12": {
+        "en": "Well! [h]Someone's[/h] well informed.",
+        "pl": "Cóż! [h]Ktoś[/h] jest dobrze poinformowany.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds13": {
+        "en": "Eh. Vincent once went location-scouting in the swamp where I worked as a gift shop sales clerk.",
+        "pl": "Eh. Vincent kiedyś szukał plenerów na mokradłach, gdzie pracowałam jako sprzedawczyni w sklepiku z pamiątkami.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds16": {
+        "en": "Hm.\n-is he just trying to make sure Wirman gets it [i]done...?[/i]",
+        "pl": "Hm.\n-czy on po prostu próbuje się upewnić, że Wirman to [i]skończy...?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds17": {
+        "en": "A... little of both, I'd wager?",
+        "pl": "Trochę... jednego i drugiego, zaryzykowałbym?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds18": {
+        "en": "Or... is he trying to get him to write it in a [i]certain way?[/i]",
+        "pl": "Czy... próbuje sprawić, żeby napisał to w [i]pewien konkretny sposób?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds19": {
+        "en": "Ah. Of course.",
+        "pl": "Ach. No jasne.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds20": {
+        "en": "It's owned by Vincent Van De Peer - he's a director and producer.",
+        "pl": "Jest własnością Vincenta Van De Peera - jest reżyserem i producentem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds21": {
+        "en": "...if I recall correctly, he told me he worked for something called - uh - [i]hm?[/i]",
+        "pl": "...jeśli dobrze pamiętam, powiedział mi, że pracuje dla czegoś, co nazywa się - yy - [i]hm?[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Dirk/Section ds22": {
+        "en": "Oh yes, thank you Cornelius - [i]'Wit and Whimsy'[/i] - that was it. But I'm not sure what it-",
+        "pl": "Ach tak, dziękuję Corneliusie - [i]'Wit and Whimsy'[/i] - to było to. Ale nie jestem pewien, co to-",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Gripp": {
+      "Conversation/Gripp SUS Gripp/Section ds0": {
+        "en": "Before this [i]thrilling little jaunt[/i] on the Mortuga Submarine, I'd lived in Silkwirm all my life.",
+        "pl": "Zanim ta [i]ekscytująca mała wycieczka[/i] na Łodzi Podwodnej Mortuga, mieszkałem w Silkwirm przez całe życie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds6": {
+        "en": "I worked for my father, and eventually inherited his business;",
+        "pl": "Pracowałem dla mojego ojca i ostatecznie odziedziczyłem jego biznes;",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds7": {
+        "en": "Snappy title.",
+        "pl": "Chwytliwy tytuł.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds8": {
+        "en": "I eventually trimmed the name down to just - [i]'Mr Gripp's Emporium'.[/i]",
+        "pl": "Ostatecznie skróciłem nazwę po prostu do - [i]'Emporium Pana Grippa'.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds9": {
+        "en": "Yes, running that business was my whole life for many years. ",
+        "pl": "Tak, prowadzenie tego biznesu było moim całym życiem przez wiele lat. ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds17": {
+        "en": "I especially relished in the task of deciphering and restoring old maps...",
+        "pl": "Szczególnie rozkoszowałem się zadaniem odczytywania i odnawiania starych map...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds18": {
+        "en": "And now... you live in the engine room of a submarine. Must be a big change.",
+        "pl": "A teraz... mieszkasz w maszynowni łodzi podwodnej. Musi to być wielka zmiana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds19": {
+        "en": "Yes and no...",
+        "pl": "Tak i nie...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds25": {
+        "en": "That was around the same time I hired young [i]Cornelius[/i] here, as a much needed second pair of hands.",
+        "pl": "To było mniej więcej wtedy, kiedy zatrudniłem młodego [i]Corneliusa[/i] tutaj, jako bardzo potrzebną drugą parę rąk.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds26": {
+        "en": "He's a stick.\nHe does [h]not[/h] have hands-",
+        "pl": "To patyk.\n[h]Nie[/h] ma rąk-",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds28": {
+        "en": "[i]'Godman Gripp's Nautical and Aeronautical Precision Measurement and Navigation Instruments'[/i]",
+        "pl": "[i]'Instrumenty Precyzyjnego Pomiaru i Nawigacji Morskiej oraz Lotniczej Godmana Grippa'[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds30": {
+        "en": "Slow, sometimes tedious work, but I was extremely [i]good[/i] at it-",
+        "pl": "Powolna, czasem żmudna praca, ale byłem w niej niezwykle [i]dobry-[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Gripp/Section ds31": {
+        "en": "...the more decrepid they were, the more I [i]enjoyed[/i] it.",
+        "pl": "...im bardziej były zniszczone, tym bardziej mnie to [i]cieszyło.[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Moon": {
+      "Conversation/Gripp SUS Moon/Section ds6": {
+        "en": "You know... there was something I [i]noticed[/i] - while giving Mariana a tour of the submarine.",
+        "pl": "Wiecie... było coś, co [i]zauważyłem[/i] - oprowadzając Marianę po łodzi podwodnej.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Moon/Section ds8": {
+        "en": "Well, she put it in her mouth - but she didn't [i]light[/i] it.",
+        "pl": "Cóż, włożyła ją do ust - ale jej nie [i]zapaliła.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Moon/Section ds10": {
+        "en": "Soon after we entered the bilge, she whipped out her tobacco pipe with a strange kind of [i]urgency...[/i]",
+        "pl": "Wkrótce po tym, jak weszliśmy do zęzy, wyciągnęła swoją fajkę tytoniową z dziwnym rodzajem [i]nagłości...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Moon/Section ds11": {
+        "en": "Did she [i]smoke[/i] it?",
+        "pl": "Czy ją [i]zapaliła?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Moon/Section ds12": {
+        "en": "Well, now you [i]mention[/i] it...",
+        "pl": "Cóż, teraz, kiedy o tym [i]wspominasz...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Moon/Section ds14": {
+        "en": "Yeah, probably not a good idea to smoke inside a [i]submarine[/i] anyway.",
+        "pl": "Tak, i tak pewnie niedobry pomysł, żeby palić wewnątrz [i]łodzi podwodnej.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Moon/Section ds15": {
+        "en": "Hmm, yes, and Mariana seems like such a [i]stickler[/i] for [i]health and safety[/i] regulations.",
+        "pl": "Hmm, tak, a Mariana wydaje się być taką [i]pedantką,[/i] jeśli chodzi o przepisy [i]bezpieczeństwa i higieny.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Moon/Section ds16": {
+        "en": "Hm? What's that Cornelius? You've [i]never[/i] seen her light it?",
+        "pl": "Hm? Co takiego, Corneliusie? [i]Nigdy[/i] nie widziałeś, żeby ją zapalała?",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Mortuga": {
+      "Conversation/Gripp SUS Mortuga/Section ds12": {
+        "en": "He lived and worked in the Inn opposite my emporium...",
+        "pl": "Mieszkał i pracował w gospodzie naprzeciwko mojego emporium...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds13": {
+        "en": "I'd see him when I offered my custom at the Inn, and in return he'd come by my shop.",
+        "pl": "Widywałem go, kiedy korzystałem z usług gospody, a w zamian on wpadał do mojego sklepu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds14": {
+        "en": "As a sailor, Mortuga [i]shared[/i] in my interest of nautical navigation. He even hired me for a job, once.",
+        "pl": "Jako żeglarz, Mortuga [i]dzielił[/i] moje zainteresowanie nawigacją morską. Raz nawet zatrudnił mnie do pracy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds15": {
+        "en": "Did he - tell you he was planning to go live on a submarine?",
+        "pl": "Czy - powiedział ci, że planuje zamieszkać na łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds16": {
+        "en": "...I don't think he told [h]anybody.[/h]",
+        "pl": "...nie sądzę, żeby powiedział [h]komukolwiek.[/h]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds17": {
+        "en": "The first time I laid eyes on his eponymous submarine was when it rescued me from my fallen balloon.",
+        "pl": "Pierwszy raz ujrzałem jego imienniczą łódź podwodną, kiedy uratowała mnie z rozbitego balonu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds18": {
+        "en": "I can't tell you how surprised I was to see Magnus Mortuga step out onto the fore deck.",
+        "pl": "Nie potrafię wyrazić, jak bardzo byłem zaskoczony, widząc Magnusa Mortugę wychodzącego na pokład dziobowy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds19": {
+        "en": "Although - he wasn't quite the same man I'd known before...",
+        "pl": "Chociaż - nie był już całkiem tym samym człowiekiem, którego znałem wcześniej...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds20": {
+        "en": "How d'you mean?",
+        "pl": "Jak to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds21": {
+        "en": "The light in his eyes... was dulled. Like he wasn't really there.",
+        "pl": "Blask w jego oczach... był przygaszony. Jakby naprawdę go tam nie było.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds22": {
+        "en": "Well, I never found out. But you know, perhaps the rumors were true after all...",
+        "pl": "Cóż, nigdy się nie dowiedziałem. Ale wiecie, może plotki jednak były prawdziwe...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds23": {
+        "en": "What'd happened to him?",
+        "pl": "Co mu się stało?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds24": {
+        "en": "Perhaps he [h]had[/h] disappeared into the sea.",
+        "pl": "Może [h]rzeczywiście[/h] zniknął w morzu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds28": {
+        "en": "After his disappearance, all I had were several largely unsatisfactory rumors-",
+        "pl": "Po jego zniknięciu miałem tylko kilka w większości niesatysfakcjonujących plotek-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Mortuga/Section ds29": {
+        "en": "They said he'd [i]'disappeared into the sea'[/i] - whatever that was supposed to mean.",
+        "pl": "Mówili, że [i]'zniknął w morzu'[/i] - cokolwiek to miało znaczyć.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Sinthia": {
+      "Conversation/Gripp SUS Sinthia/Section ds0": {
+        "en": "Young Sinthia seems quite convinced that she should be the new captain, in the wake of Mortuga's death.",
+        "pl": "Młoda Sinthia wydaje się dość przekonana, że powinna zostać nowym kapitanem, po śmierci Mortugi.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds6": {
+        "en": "Sounds like you don't agree.",
+        "pl": "Brzmi, jakbyś się nie zgadzał.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds7": {
+        "en": "Well, now, I didn't say [i]that,[/i] it's just-",
+        "pl": "Cóż, no, nie powiedziałem [i]tego,[/i] po prostu-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds8": {
+        "en": "You don't think she's up to the task?",
+        "pl": "Nie sądzisz, że jest do tego zdolna?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds9": {
+        "en": "On the [i]contrary,[/i] from what I've seen, Sinthia is a remarkably bright and capable young woman.",
+        "pl": "[i]Wręcz przeciwnie,[/i] z tego, co widziałem, Sinthia jest niezwykle bystrą i zdolną młodą kobietą.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds10": {
+        "en": "So much so, that I bemoan seeing her spend her best years hidden away down here in the dark.",
+        "pl": "Tak bardzo, że ubolewam, widząc, jak spędza swoje najlepsze lata ukryta tutaj, w ciemności.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds11": {
+        "en": "...it doesn't have to be [i]permanent[/i] - she could be captain for a little while, and then go do something else.",
+        "pl": "...to nie musi być [i]na stałe[/i] - mogłaby być kapitanem przez jakiś czas, a potem zająć się czymś innym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Sinthia/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Symmetry": {
+      "Conversation/Gripp SUS Symmetry/Section ds7": {
+        "en": "Yes, the problem seems to be that she considers herself a kind of [i]catalyst.[/i]",
+        "pl": "Tak, problem zdaje się polegać na tym, że uważa się za rodzaj [i]katalizatora.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds8": {
+        "en": "I will say, in the last day or so, Symmetry does seem [i]particularly[/i] sombre.",
+        "pl": "Powiem tak, przez ostatni dzień czy coś, Symmetry rzeczywiście wydaje się [i]szczególnie[/i] posępna.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds12": {
+        "en": "Ah, well - I believe she'd been working on some new [i]project...[/i]",
+        "pl": "Ach, cóż - wierzę, że pracowała nad jakimś nowym [i]projektem...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds13": {
+        "en": "...and - shortly before Mortuga died, Symmetry shared this project with him.",
+        "pl": "...i - niedługo przed śmiercią Mortugi, Symmetry podzieliła się z nim tym projektem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds15": {
+        "en": "What kind of project was it?",
+        "pl": "Jaki to był rodzaj projektu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds16": {
+        "en": "Oh yes, Cornelius tells me he saw Symmetry drawing something while in the mess hall...",
+        "pl": "Ach tak, Cornelius mówi mi, że widział, jak Symmetry coś rysowała w mesie...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds17": {
+        "en": "A - [i]poster?[/i] Apparently?",
+        "pl": "Jakiś - [i]plakat?[/i] Podobno?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds25": {
+        "en": "Because of Mortuga's death?",
+        "pl": "Przez śmierć Mortugi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds30": {
+        "en": "And then he dies! It's probably just bad timing.",
+        "pl": "A potem on umiera! To pewnie tylko zły moment.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds34": {
+        "en": "I really have no idea-\nHm? What's that?",
+        "pl": "Naprawdę nie mam pojęcia-\nHm? Co takiego?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds36": {
+        "en": "And...?",
+        "pl": "I...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Symmetry/Section ds39": {
+        "en": "[i]Does[/i] she? Why?",
+        "pl": "Czy [i]rzeczywiście?[/i] Czemu?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp SUS Tadpole": {
+      "Conversation/Gripp SUS Tadpole/Section ds7": {
+        "en": "Oh she doesn't - not anymore. It's [i]vestigial[/i], I think - left over from some previous endeavour.",
+        "pl": "Och, ona tego nie robi - już nie. To [i]szczątkowe,[/i] jak sądzę - pozostałość po jakimś wcześniejszym przedsięwzięciu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds9": {
+        "en": "...I'm [i]convinced[/i] 'Tadpole' is just branding - nobody names their child 'Tadpole', come on.",
+        "pl": "...jestem [i]przekonany,[/i] że 'Tadpole' to tylko marka - nikt nie nazywa swojego dziecka 'Kijanka', no weź.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds10": {
+        "en": "Why would she need [i]branding?[/i]",
+        "pl": "Po co miałaby jej potrzebować [i]marki?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds11": {
+        "en": "You're serious? She's [i]all[/i] branding... the name, the look, the identity as a [i]'Half Mermaid'[/i] - it's all theatrics.",
+        "pl": "Poważnie? Ona jest [i]cała[/i] marką... imię, wygląd, tożsamość [i]'Pół-Syreny'[/i] - to wszystko teatr.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds12": {
+        "en": "I just don't get why she'd [h]need[/h] to have a fake identity like that.",
+        "pl": "Po prostu nie rozumiem, czemu miałaby [h]potrzebować[/h] takiej fałszywej tożsamości.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds13": {
+        "en": "Weird, isn't it? Bringing your [i]old branding[/i] with you onto the submarine - [i]what would be the point?[/i]",
+        "pl": "Dziwne, prawda? Przywożenie swojej [i]starej marki[/i] ze sobą na łódź podwodną - [i]jaki byłby w tym sens?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Tadpole/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Wirman": {
+      "Conversation/Gripp SUS Wirman/Section ds9": {
+        "en": "And I will say, he doesn't seem to have lost the instinct to always be on the lookout for a [i]story...[/i]",
+        "pl": "I powiem tak, nie wydaje się, żeby stracił instynkt, by zawsze wypatrywać jakiejś [i]historii...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds16": {
+        "en": "-but I [i]believe...[/i] Wirman was invited onto the submarine by Mortuga himself.",
+        "pl": "-ale [i]wierzę...[/i] że Wirman został zaproszony na łódź podwodną przez samego Mortugę.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds19": {
+        "en": "It's very strange, I can't for the [i]life[/i] of me imagine why Mortuga would bring a [i]journalist[/i] on board.",
+        "pl": "To bardzo dziwne, za nic w [i]świecie[/i] nie potrafię sobie wyobrazić, czemu Mortuga miałby zabrać [i]dziennikarza[/i] na pokład.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds20": {
+        "en": "Uh, Wirman's an author. Not a journalist.",
+        "pl": "Yy, Wirman jest autorem. Nie dziennikarzem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds21": {
+        "en": "Ah, well, he [h]used[/h] to be a journalist. He wrote for the local newspaper.",
+        "pl": "Ach, cóż, [h]kiedyś[/h] był dziennikarzem. Pisał dla lokalnej gazety.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds23": {
+        "en": "Really? Why?",
+        "pl": "Naprawdę? Czemu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Wirman/Section ds24": {
+        "en": "I never got the details out of [i]either[/i] of them, so I can't confirm this-",
+        "pl": "Nigdy nie wyciągnąłem szczegółów od [i]żadnego[/i] z nich, więc nie mogę tego potwierdzić-",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp SUS Zephyr": {
+      "Conversation/Gripp SUS Zephyr/Section ds6": {
+        "en": "Eh... there's been [i]some[/i] speculation that his experiments may be dangerous - or even harmful.",
+        "pl": "Eh... było [i]trochę[/i] spekulacji, że jego eksperymenty mogą być niebezpieczne - a nawet szkodliwe.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds7": {
+        "en": "-although it's hard to be sure, since he seems so [i]reluctant[/i] to admit what they actually are.",
+        "pl": "-chociaż trudno mieć pewność, bo wydaje się tak [i]niechętny,[/i] żeby przyznać, czym one właściwie są.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds9": {
+        "en": "[h]You[/h] don't even know? I would've thought - you know, since you've [i]both[/i] been here for a while...?",
+        "pl": "[h]Ty[/h] nawet nie wiesz? Myślałbym - no wiesz, skoro [i]oboje[/i] jesteście tu już od jakiegoś czasu...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds10": {
+        "en": "Well yes, Zacharias was one of the only two souls aboard the submarine when I arrived-",
+        "pl": "Cóż tak, Zacharias był jedną z tylko dwóch dusz na pokładzie łodzi podwodnej, kiedy przybyłem-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds11": {
+        "en": "-but he never made me feel especially [i]welcome...[/i] and he [i]certainly[/i] wasn't keen on me poking around his 'Dream Chamber'.",
+        "pl": "-ale nigdy nie sprawił, żebym czuł się szczególnie [i]mile widziany...[/i] a [i]zdecydowanie[/i] nie podobało mu się, że węszę w jego 'Komnacie Snów'.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds14": {
+        "en": "In fact, he always seemed somewhat [i]wary[/i] of me - like my arrival was going to [i]scupper his plans[/i] in some way.",
+        "pl": "Właściwie, zawsze wydawał się wobec mnie nieco [i]czujny[/i] - jakby moje przybycie miało w jakiś sposób [i]pokrzyżować jego plany.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds15": {
+        "en": "...I guess Zephyr and Mortuga weren't expecting anyone else to show up.",
+        "pl": "...zgaduję, że Zephyr i Mortuga nie spodziewali się, że pojawi się ktoś jeszcze.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds17": {
+        "en": "What d'you make of ol' Dr Zephyr?",
+        "pl": "Co sądzisz o starym doktorze Zephyrze?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds18": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp SUS Zephyr/Section ds19": {
+        "en": "Not a fan?",
+        "pl": "Nie jesteś fanem?",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Gripp SUS Gripp/ds28 'Godman Gripp's...' vs Godrik Gripp",
+      "problem": "Pelna nazwa dawnego sklepu Grippa uzywa imienia 'Godman' zamiast ustalonego 'Godrik' (potwierdzonego w Gripp 02 YOURSELF/ds6 i Gripp 05 SUSPICION/ds176 z batch_08-09). Przetlumaczono doslownie jako 'Godmana Grippa' zachowujac ta sama niespojnosc co w zrodle - moze to literowka w oryginalnym tekscie gry (Godman/Godrik) - do sprawdzenia/potwierdzenia."
+    }
+  ]
+}

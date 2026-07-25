@@ -1,0 +1,155 @@
+{
+  "_meta": {
+    "batch": "Moon 04 STATEMENT (28 terminow) - kontynuacja luku Moon po batch_21-23 (69/271). Dalszy ciag baśniowej relacji Moon z nocy morderstwa - namiot w ladowni, odkrycie ciala, zamieszanie wsrod zalogi, przejecie dowodztwa przez Sinthie.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 28/28 pokryte: Moon 21, Grimoire 4, Sally 3",
+    "character_voice": "Moon: jak w batch_21-23, narracja czasem terazniejszym, poetycka.",
+    "terminology": "Miss Seafoam -> panna Seafoam (Sinthia), wzorem 'pan Gripp'/'pan Wirman' (Mr -> pan, Miss -> panna, wielka litera nazwiska bez zmian)."
+  },
+  "categories": {
+    "Moon 04 STATEMENT": {
+      "Conversation/Moon 04 STATEMENT/Section ds158": {
+        "en": "We enter the Bilge, but it's too dark to see anything.",
+        "pl": "Wchodzimy do Zęzy, ale jest zbyt ciemno, żeby cokolwiek zobaczyć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds159": {
+        "en": "After some time, Mr Gripp and the young Miss Seafoam appear in my doorway.",
+        "pl": "Po pewnym czasie, pan Gripp i młoda panna Seafoam pojawiają się w moich drzwiach.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds161": {
+        "en": "I have to put up my tent twice, as on the first attempt a sudden movement of the submarine undoes my progress.",
+        "pl": "Muszę rozstawiać namiot dwukrotnie, bo przy pierwszej próbie nagły ruch łodzi niweczy mój postęp.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds163": {
+        "en": "I thank Mr Gripp for the tour and return to my new lodgings in the cargo hold.",
+        "pl": "Dziękuję panu Grippowi za oprowadzenie i wracam do swojego nowego lokum w ładowni.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds166": {
+        "en": "...a young woman. And [i]then[/i], an older woman.",
+        "pl": "...młoda kobieta. A [i]potem[/i], starsza kobieta.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds167": {
+        "en": "Moments later, a voice is heard, echoing down from above.",
+        "pl": "Chwilę później słychać głos, dobiegający echem z góry.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds168": {
+        "en": "Mr Gripp - who is [i]clearly[/i] tiring of my company by this point - opens the vent in the ceiling to let in a little light.",
+        "pl": "Pan Gripp - który [i]wyraźnie[/i] jest już zmęczony moim towarzystwem - otwiera klapę wentylacyjną w suficie, żeby wpuścić trochę światła.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds171": {
+        "en": "I update him with what little information I have, and attempt to catch up with the others.",
+        "pl": "Uzupełniam go o te skąpe informacje, jakie mam, i próbuję dogonić resztę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds173": {
+        "en": "Laying on the floor is the body of Captain Magnus Mortuga.",
+        "pl": "Na podłodze leży ciało kapitana Magnusa Mortugi.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds178": {
+        "en": "Amongst the living, mutterings are breaking out - murder and mutiny, cauldrons and curses...",
+        "pl": "Wśród żywych wybuchają pomruki - o morderstwie i buncie, kotłach i klątwach...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds183": {
+        "en": "What happened next?",
+        "pl": "Co się stało dalej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds184": {
+        "en": "Mmm, the sound of a scream... and then a dull thud.",
+        "pl": "Mmm, dźwięk krzyku... a potem głuchy łomot.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds185": {
+        "en": "I can't remember exactly what was said... but I remember thinking it sounded a little like poetry.",
+        "pl": "Nie pamiętam dokładnie, co zostało powiedziane... ale pamiętam, że pomyślałam, że brzmiało to trochę jak poezja.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds186": {
+        "en": "Oh.\nUh... yeah, that sounds like a murder.",
+        "pl": "Och.\nYy... tak, to brzmi jak morderstwo.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds187": {
+        "en": "But [h]which[/h] murder...?",
+        "pl": "Ale [h]które[/h] morderstwo...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds188": {
+        "en": "Anyway, by this point I've used up all my - uh - my [i]patience[/i] - so I decide to take my leave.",
+        "pl": "W każdym razie, w tym momencie wyczerpałam już całą swoją - yy - swoją [i]cierpliwość[/i] - więc postanawiam się oddalić.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds189": {
+        "en": "We head back towards the Mess Hall - Mr Gripp and Miss Seafoam heading up the ladder before me.",
+        "pl": "Wracamy w stronę Mesy - pan Gripp i panna Seafoam wchodzą po drabinie przede mną.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds190": {
+        "en": "I spot Dr Zephyr emerging from the airlock-",
+        "pl": "Dostrzegam doktora Zephyra wyłaniającego się ze śluzy-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds191": {
+        "en": "[h]Whose[/h] voice??",
+        "pl": "[h]Czyj[/h] głos??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds192": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds193": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds194": {
+        "en": "It seems they've come to fetch me for some kind of [i]official submarine business.[/i]",
+        "pl": "Wygląda na to, że przyszli po mnie w jakiejś [i]oficjalnej sprawie łodzi.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds195": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds199": {
+        "en": "But with Zephyr finally in attendance, Tadpole calls for order - demanding justice for her slain Captain...",
+        "pl": "Ale gdy Zephyr w końcu się pojawia, Tadpole wzywa do porządku - domagając się sprawiedliwości dla swojego zamordowanego kapitana...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds200": {
+        "en": "But nobody really seems to know what to say.",
+        "pl": "Ale nikt tak naprawdę nie wydaje się wiedzieć, co powiedzieć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds201": {
+        "en": "The next morning, it's announced that Miss Seafoam has taken over as captain.",
+        "pl": "Następnego ranka ogłoszono, że panna Seafoam przejęła dowództwo jako kapitan.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds202": {
+        "en": "...and, well, here we are.",
+        "pl": "...i, cóż, oto jesteśmy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 04 STATEMENT/Section ds204": {
+        "en": "-he has a glass bottle in one hand... and what looks like an [i]old leather bag[/i] in the other.",
+        "pl": "-w jednej ręce trzyma szklaną butelkę... a w drugiej coś, co wygląda jak [i]stara skórzana torba.[/i]",
+        "speaker": "Moon"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

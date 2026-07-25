@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "batch": "Zephyr 01 INTRO (17 terminow) - poczatek luku ostatniej glownej postaci podejrzanej (pelne imie: Zacharias Zephyr, 'Doktor Snow'). Mortuga nie ma wlasnych numerowanych scen Conversation (jest ofiara, pojawia sie tylko w retrospekcjach innych postaci) - Zephyr konczy liste 8 podejrzanych.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 17/17 pokryte: Zephyr 9, Grimoire 5, Sally 3",
+    "character_voice": "Zephyr: formalny, ceremonialny, mistyczny mowca ('State your business', 'emissaries from the world above', 'beyond the veil') - mistyk-pustelnik, ale detektywi zwracaja sie do niego POTOCZNIE/'na ty' jak do wiekszosci postaci (w odroznieniu od Wirmana, ktory dostal formalne 'pan' z powodu jawnego zadania szacunku 'Sir?')."
+  },
+  "categories": {
+    "Zephyr 01 INTRO": {
+      "Conversation/Zephyr 01 INTRO/Section ds0": {
+        "en": "State your business.\nAnd speak only the truth.",
+        "pl": "Przedstawcie swoją sprawę.\nI mówcie tylko prawdę.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds10": {
+        "en": "Uh, no, sorry - she meant the [i]new[/i] captain. Captain Seafoam.",
+        "pl": "Yy, nie, przepraszam - miała na myśli [i]nową[/i] kapitan. Kapitan Seafoam.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds11": {
+        "en": "-Sinthia?",
+        "pl": "-Sinthia?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds12": {
+        "en": "She's asked us to investigate the murder of Magnus Mortuga. We have to talk to all the suspects.",
+        "pl": "Poprosiła nas o zbadanie morderstwa Magnusa Mortugi. Musimy porozmawiać ze wszystkimi podejrzanymi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds17": {
+        "en": "Speaking of - can I ask your name?",
+        "pl": "A propos - mogę spytać o twoje imię?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds18": {
+        "en": "Zacharias Zephyr.\nThe Dream Doctor.",
+        "pl": "Zacharias Zephyr.\nDoktor Snów.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds19": {
+        "en": "A [i]Dream Doctor?[/i] I... don't think I've met one of those before.",
+        "pl": "[i]Doktor Snów?[/i] Ja... chyba nigdy wcześniej takiego nie spotkałam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds25": {
+        "en": "That is correct, you have not.\nI [i]alone[/i] hold the title.",
+        "pl": "Zgadza się, nie spotkałaś.\n[i]Jedynie[/i] ja noszę ten tytuł.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds28": {
+        "en": "Unless you received a missive from... [i]beyond the veil?[/i]",
+        "pl": "Chyba że otrzymaliście wiadomość spoza... [i]zasłony?[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds29": {
+        "en": "Ah - [i]hello?[/i]\nSir?",
+        "pl": "Ach - [i]halo?[/i]\nPanie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds30": {
+        "en": "Two strangers... emissaries from the world above.",
+        "pl": "Dwoje nieznajomych... wysłannicy ze świata powyżej.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds32": {
+        "en": "Yeah, hi. I'm Detective Grimoire, and this is Sally.",
+        "pl": "Tak, cześć. Jestem detektyw Grimoire, a to Sally.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds34": {
+        "en": "I should have [h]forseen[/h] this. But now that I'm faced with it, it seems inevitable-",
+        "pl": "Powinienem był to [h]przewidzieć.[/h] Ale teraz, gdy stoję z tym twarzą w twarz, wydaje się to nieuniknione-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds36": {
+        "en": "Because you made it up?",
+        "pl": "Bo to zmyśliłeś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds37": {
+        "en": "That is correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds8": {
+        "en": "Uh - well, we're here on the request of the captain.",
+        "pl": "Yy - cóż, jesteśmy tu na prośbę kapitan.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr 01 INTRO/Section ds9": {
+        "en": "Impossible.\nThe captain is dead.",
+        "pl": "Niemożliwe.\nKapitan nie żyje.",
+        "speaker": "Zephyr"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

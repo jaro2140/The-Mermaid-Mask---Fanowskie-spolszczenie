@@ -1,0 +1,1503 @@
+{
+  "_meta": {
+    "batch": "Gripp CLUE X (~53 sceny, 277 terminow) - reakcje Grippa (showman) na kazdy dowod w grze. Kluczowa konfirmacja: HandwrittenLetter/ds0 wprost wspomina 'Ibis' (T.W. Ibis z batch_39, list z koordynatami lokalizacji lodzi Mortuga) - Gripp/Godrik NIE zna tej osoby, co jest zgodne z watkiem Wirmana. NewspaperPage/ds0 potwierdza pelna nazwe sklepu z poprawna pisownia 'Godrik Gripp' (w przeciwienstwie do 'Godman' z batch_56 Gripp SUS Gripp - prawdopodobnie literowka w tamtej partii zrodla).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - wiekszosc pokryta. Nieprzypisany (1): UnderwaterPhoto/ds12 (samo '...') - standardowe 'Grimoire (domniemany)'.",
+    "character_voice": "Gripp: kontynuacja playful, teatralnego rejestru showmana (batch_08-09, batch_56)."
+  },
+  "categories": {
+    "Gripp CLUE ActionFigure": {
+      "Conversation/Gripp CLUE ActionFigure/Section ds0": {
+        "en": "Hm. That's the [i]Captain[/i], is it? And her accessories are a [i]compass[/i] and a [i]map?[/i] ",
+        "pl": "Hm. To [i]Kapitan,[/i] tak? A jej akcesoria to [i]kompas[/i] i [i]mapa?[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ActionFigure/Section ds6": {
+        "en": "So they made her the navigator [i]and[/i] the captain.",
+        "pl": "Więc zrobili z niej nawigatora [i]i[/i] kapitana.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ActionFigure/Section ds7": {
+        "en": "[i]Typical navigator erasure.[/i] ",
+        "pl": "[i]Typowe wymazanie nawigatora.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ActionFigure/Section ds11": {
+        "en": "So?",
+        "pl": "No i?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE BalloonBasket": {
+      "Conversation/Gripp CLUE BalloonBasket/Section ds6": {
+        "en": "For most of its life, it was just - [i]ornamental[/i] - we put it out the front of the shop as a [i]billboard.[/i]",
+        "pl": "Przez większość swojego istnienia był po prostu - [i]ozdobny[/i] - wystawialiśmy go przed sklepem jako [i]billboard.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds8": {
+        "en": "Oh my God.",
+        "pl": "O mój Boże.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds9": {
+        "en": "-it's just my [i]shtick![/i] ",
+        "pl": "-to po prostu mój [i]numer![/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds10": {
+        "en": "I don't know what to tell you-",
+        "pl": "Nie wiem, co ci powiedzieć-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds11": {
+        "en": "But [i]why?[/i] What's the point?",
+        "pl": "Ale [i]czemu?[/i] Jaki w tym sens?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds12": {
+        "en": "Okay so - you're not really an aeronaut, but you [i]did[/i] own a hot air balloon? For some reason?",
+        "pl": "Okej, więc - tak naprawdę nie jesteś aeronautą, ale [i]jednak[/i] miałeś balon na ogrzane powietrze? Z jakiegoś powodu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds13": {
+        "en": "No wonder you crashed, if you were trying to fly an [i]ornamental billboard.[/i]",
+        "pl": "Nic dziwnego, że się rozbiłeś, skoro próbowałeś latać [i]ozdobnym billboardem.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds14": {
+        "en": "And then after you crashed it, you brought it [i]inside[/i] the submarine?",
+        "pl": "A potem, po rozbiciu, wniosłeś go [i]do środka[/i] łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds17": {
+        "en": "You'd rather I just let it sink into the ocean? Hm? Besides, it's useful;",
+        "pl": "Wolałabyś, żebym po prostu pozwolił mu zatonąć w oceanie? Hm? Poza tym jest przydatny;",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds18": {
+        "en": "And any time you wanted to check your [i]opening times[/i], they're right there.",
+        "pl": "I za każdym razem, kiedy chciałabyś sprawdzić swoje [i]godziny otwarcia,[/i] są tam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds19": {
+        "en": "Quite right!",
+        "pl": "Zupełna racja!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds20": {
+        "en": "Oh look, there you are - with the cane, as ever.",
+        "pl": "O, spójrz, jesteś tam - z laską, jak zawsze.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds21": {
+        "en": "Of course, Mr Gripp always has [i]Cornelius Cane[/i] by his side!",
+        "pl": "Oczywiście, pan Gripp zawsze ma [i]Corneliusa Cane[/i] u swego boku!",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BalloonBasket/Section ds22": {
+        "en": "Any time I want to re-read our [i]company mantra[/i], it's printed right there.",
+        "pl": "Za każdym razem, kiedy chcę odczytać ponownie naszą [i]mantrę firmową,[/i] jest tam wydrukowana.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE BlackBox": {
+      "Conversation/Gripp CLUE BlackBox/Section ds0": {
+        "en": "-did you open it?",
+        "pl": "-otworzyliście to?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds6": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds8": {
+        "en": "Have you tried pushing the diamond thingy?",
+        "pl": "Próbowaliście wcisnąć ten diamentowy element?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds9": {
+        "en": "That was the [i]first[/i] thing we tried.",
+        "pl": "To była [i]pierwsza[/i] rzecz, którą spróbowaliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds10": {
+        "en": "Not yet. We don't know how.",
+        "pl": "Jeszcze nie. Nie wiemy jak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds11": {
+        "en": "Perhaps you need a key?",
+        "pl": "Może potrzebujecie klucza?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BlackBox/Section ds12": {
+        "en": "Personally I think we just need a [i]crowbar.[/i] ",
+        "pl": "Osobiście myślę, że potrzebujemy po prostu [i]łomu.[/i] ",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE BlurryPhoto": {
+      "Conversation/Gripp CLUE BlurryPhoto/Section ds0": {
+        "en": "Aha! [i]This[/i] must be where Madam Tadpole got her stage name...",
+        "pl": "Aha! [i]Tutaj[/i] Madam Tadpole musiała wziąć swój sceniczny pseudonim...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BlurryPhoto/Section ds6": {
+        "en": "You [i]think?[/i] She's not called Madam [i]Mermaid Orb.[/i] ",
+        "pl": "[i]Naprawdę tak myślisz?[/i] Nie nazywa się Madam [i]Kula Syreny.[/i] ",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE BrokenCompass": {
+      "Conversation/Gripp CLUE BrokenCompass/Section ds0": {
+        "en": "You see, Miss Seafoam came to me with a compass she needed fixing.",
+        "pl": "Widzicie, panna Seafoam przyszła do mnie z kompasem, który trzeba było naprawić.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds7": {
+        "en": "What's with all the needles and cogs and stuff?",
+        "pl": "Co z tymi wszystkimi igłami i zębatkami i takimi tam?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds8": {
+        "en": "It looks like Gripp's halfway through [i]fixing[/i] it. That's what I figured, anyway.",
+        "pl": "Wygląda na to, że Gripp jest w połowie [i]naprawiania[/i] go. Tak w każdym razie pomyślałem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds9": {
+        "en": "Ah! Thank heavens, that's what I was hoping for.",
+        "pl": "Ach! Dzięki niebiosom, właśnie na to liczyłem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds10": {
+        "en": "Sorry, what...?",
+        "pl": "Przepraszam, co...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds11": {
+        "en": "Perhaps I should explain-",
+        "pl": "Może powinienem wyjaśnić-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds15": {
+        "en": "I... went to put the needle back on, but Sinthia [i]stopped[/i] me.",
+        "pl": "Ja... zamierzałem założyć igłę z powrotem, ale Sinthia mnie [i]powstrzymała.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds16": {
+        "en": "[i]'No,'[/i] she said.",
+        "pl": "[i]'Nie,'[/i] powiedziała.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds18": {
+        "en": "For some reason... she seemed to [i]need[/i] it to be true.",
+        "pl": "Z jakiegoś powodu... wydawało się, że [i]potrzebuje,[/i] żeby to była prawda.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds19": {
+        "en": "She needed the compass to be broken...?",
+        "pl": "Potrzebowała, żeby kompas był zepsuty...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds21": {
+        "en": "I told her I had various spare needles I could try out as replacements, and uh - here we are.",
+        "pl": "Powiedziałem jej, że mam różne zapasowe igły, które mógłbym wypróbować jako zamienniki, i, yy - i tak tu jesteśmy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds22": {
+        "en": "And you left it out so Sinthia would [i]see[/i] it? So she'd think you [h]were[/h] actually fixing it?",
+        "pl": "I zostawiłeś go na widoku, żeby Sinthia to [i]zobaczyła?[/i] Żeby myślała, że [h]naprawdę[/h] go naprawiasz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds23": {
+        "en": "That's the idea, yes - so, if you'd kindly put it back where you found it?",
+        "pl": "Taki był plan, tak - więc, czy moglibyście łaskawie odłożyć to tam, gdzie znaleźliście?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE BrokenCompass/Section ds27": {
+        "en": "[i]'The whole [h]thing[/h] is broken. You'll have to take a look at the insides. You'll have to replace the needle.'[/i] ",
+        "pl": "[i]'Cała [h]rzecz[/h] jest zepsuta. Będziesz musiał zajrzeć do środka. Będziesz musiał wymienić igłę.'[/i] ",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CaptainsJacket": {
+      "Conversation/Gripp CLUE CaptainsJacket/Section ds0": {
+        "en": "Ye-es! This was clearly made by someone who understands the value of [i]iconography![/i] ",
+        "pl": "Ta-ak! To zostało wyraźnie zrobione przez kogoś, kto rozumie wartość [i]ikonografii![/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaptainsJacket/Section ds6": {
+        "en": "You mean the 'S' emblems?",
+        "pl": "Masz na myśli godła z 'S'?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CaptainsJacket/Section ds7": {
+        "en": "The whole thing!",
+        "pl": "Całość!",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CaptainsLog": {
+      "Conversation/Gripp CLUE CaptainsLog/Section ds0": {
+        "en": "Mortuga's log? Let's find the entry about me, shall we?",
+        "pl": "Dziennik Mortugi? Znajdźmy wpis o mnie, dobrze?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaptainsLog/Section ds7": {
+        "en": "Ah - here it is, right after Zephyr's;",
+        "pl": "Ach - tutaj jest, zaraz po wpisie Zephyra;",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaptainsLog/Section ds8": {
+        "en": "[i]'Godrik Gripp rescued from hot air balloon accident.'[/i] ",
+        "pl": "[i]'Godrik Gripp uratowany z wypadku balonem na ogrzane powietrze.'[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaptainsLog/Section ds10": {
+        "en": "To refer to it as an [i]'accident'[/i] - a merciful gesture indeed...",
+        "pl": "Nazwanie tego [i]'wypadkiem'[/i] - to doprawdy litościwy gest...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CaretakersJournal": {
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds7": {
+        "en": "Hm? No... can't say I do...",
+        "pl": "Hm? Nie... nie mogę powiedzieć, żebym miał...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds9": {
+        "en": "Good heavens...",
+        "pl": "Dobre nieba...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds10": {
+        "en": "[i]'Rumored to be lost at sea... Requires a special key...'[/i]\nIs that right...",
+        "pl": "[i]'Podobno zaginiony na morzu... Wymaga specjalnego klucza...'[/i]\nCzy to prawda...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds11": {
+        "en": "Something catch your eye?",
+        "pl": "Coś przykuło twoją uwagę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds12": {
+        "en": "[i]The Mermaid's Tongue?[/i] Do you know anything about it?",
+        "pl": "[i]Język Syreny?[/i] Wiesz coś o nim?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds13": {
+        "en": "Based on this, I wonder if it may not even be [i]real[/i].",
+        "pl": "Sądząc po tym, zastanawiam się, czy może nawet nie być [i]prawdziwy.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaretakersJournal/Section ds20": {
+        "en": "After all, there isn't even a photograph - that's just a drawing.",
+        "pl": "W końcu nie ma nawet fotografii - to tylko rysunek.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CaseFile": {
+      "Conversation/Gripp CLUE CaseFile/Section ds0": {
+        "en": "[i]'No bladed weapon of any kind was found in the room.'[i] ",
+        "pl": "[i]'W pomieszczeniu nie znaleziono żadnej broni białej.'[i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaseFile/Section ds6": {
+        "en": "Not yet.",
+        "pl": "Jeszcze nie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CaseFile/Section ds7": {
+        "en": "...any idea where it might be? Or [i]what...?[/i] ",
+        "pl": "...masz pojęcie, gdzie mogłaby być? Albo [i]czym...?[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaseFile/Section ds10": {
+        "en": "Yes, I noticed that too.",
+        "pl": "Tak, ja też to zauważyłem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CaseFile/Section ds11": {
+        "en": "The missing murder weapon. Classic.",
+        "pl": "Brakujące narzędzie zbrodni. Klasyka.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE CellPhone": {
+      "Conversation/Gripp CLUE CellPhone/Section ds6": {
+        "en": "I don't really deal in anything post-[i]Industrial Revolution.[/i] Try Sinthia.",
+        "pl": "Nie zajmuję się właściwie niczym po [i]rewolucji przemysłowej.[/i] Spróbujcie z Sinthią.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CellPhone/Section ds10": {
+        "en": "Oh?",
+        "pl": "O?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CellPhone/Section ds11": {
+        "en": "[i]Teenage girl, cell phone...[/i] just - seems like a natural fit, wouldn't you say?",
+        "pl": "[i]Nastoletnia dziewczyna, telefon komórkowy...[/i] po prostu - wydaje się naturalnym połączeniem, nie sądzicie?",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CommandContract": {
+      "Conversation/Gripp CLUE CommandContract/Section ds0": {
+        "en": "No. I... don't like it.",
+        "pl": "Nie. Ja... tego nie lubię.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds6": {
+        "en": "But I stand by it - there's a chance Sinthia's got the wrong end of the stick. ",
+        "pl": "Ale obstaję przy tym - jest szansa, że Sinthia coś źle zrozumiała. ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds7": {
+        "en": "But if it's not about Sinthia and Mortuga, what [h]would[/h] it be about??",
+        "pl": "Ale jeśli to nie o Sinthii i Mortudze, to o czym [h]by[/h] to było??",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds9": {
+        "en": "[i]'two individuals in contention over the ownership... however, a recent development has exposed...'[/i] ",
+        "pl": "[i]'dwie osoby sporujące o własność... jednakże niedawne wydarzenia ujawniły...'[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds10": {
+        "en": "What's wrong with it?",
+        "pl": "Co z nim nie tak?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds11": {
+        "en": "The [i]wording[/i], it's too vague.\nIt could be about anything.",
+        "pl": "[i]Sformułowanie,[/i] jest zbyt niejasne.\nMogłoby dotyczyć czegokolwiek.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds12": {
+        "en": "I couldn't say.",
+        "pl": "Nie potrafię powiedzieć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds15": {
+        "en": "Hm?\nOh - [h]sorry[/h] Cornelius.",
+        "pl": "Hm?\nOch - [h]przepraszam[/h] Corneliusie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds16": {
+        "en": "He doesn't like it when I say [i]'wrong end of the stick'.[/i] ",
+        "pl": "Nie lubi, kiedy mówię [i]'coś źle zrozumiała'.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CommandContract/Section ds18": {
+        "en": "Perhaps she oughtn't be captain after all-",
+        "pl": "Może jednak nie powinna być kapitanem-",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE CurseCauldron": {
+      "Conversation/Gripp CLUE CurseCauldron/Section ds0": {
+        "en": "So what's the deal with this cauldron?",
+        "pl": "Więc o co chodzi z tym kotłem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds6": {
+        "en": "I've no idea.",
+        "pl": "Nie mam pojęcia.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds7": {
+        "en": "Really? I figured you've been here a while, surely Mortuga would've - mentioned it?",
+        "pl": "Naprawdę? Myślałem, że jesteś tu już od jakiegoś czasu, na pewno Mortuga by - o tym wspomniał?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds8": {
+        "en": "He never did. Seems like he was keeping it secret.",
+        "pl": "Nigdy tego nie zrobił. Wygląda na to, że trzymał to w tajemnicy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds9": {
+        "en": "From who??",
+        "pl": "Przed kim??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds10": {
+        "en": "...from everyone.",
+        "pl": "...przed wszystkimi.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds11": {
+        "en": "Why would it [i]need[/i] to be a secret?",
+        "pl": "Czemu miałoby [i]musieć[/i] być tajemnicą?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds12": {
+        "en": "It - wasn't really Mortuga's [i]modus operandi[/i] to be selfish like that.",
+        "pl": "To nie było naprawdę [i]modus operandi[/i] Mortugi, żeby być tak samolubnym.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds13": {
+        "en": "Maybe he just wanted it all for himself... whatever was [i]in[/i] there, I mean.",
+        "pl": "Może po prostu chciał to wszystko dla siebie... cokolwiek tam [i]było,[/i] mam na myśli.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds14": {
+        "en": "What, so keeping it secret was him being - [i]selfless?[/i] Somehow?",
+        "pl": "Co, więc trzymanie tego w tajemnicy było przejawem jego - [i]bezinteresowności?[/i] Jakoś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds16": {
+        "en": "Like if it was [i]dangerous?[/i] He kept it hidden as a way of keeping you all safe?",
+        "pl": "Jak, gdyby to było [i]niebezpieczne?[/i] Ukrywał to, żeby was wszystkich chronić?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds17": {
+        "en": "Quite honestly, it's more likely to be the exact opposite.",
+        "pl": "Szczerze mówiąc, bardziej prawdopodobne jest coś dokładnie odwrotnego.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE CurseCauldron/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE DivingLicense": {
+      "Conversation/Gripp CLUE DivingLicense/Section ds0": {
+        "en": "[i]Tanya Tapdole[/i]...\nAh. There you go.",
+        "pl": "[i]Tanya Tapdole...[/i]\nAch. Proszę bardzo.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE DivingLicense/Section ds6": {
+        "en": "Hm? Sorry?",
+        "pl": "Hm? Słucham?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE DivingLicense/Section ds7": {
+        "en": "Oh, I don't know, she probably did it to reduce [i]drag[/i], you know - like an [i]aerodynamics[/i] thing.",
+        "pl": "Och, nie wiem, pewnie zrobiła to, żeby zmniejszyć [i]opór,[/i] no wiesz - coś jak [i]aerodynamika.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE DivingLicense/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE DivingLicense/Section ds9": {
+        "en": "[i]He'll just have an entire conversation by himself, huh?[/i] ",
+        "pl": "[i]On po prostu przeprowadzi całą rozmowę sam ze sobą, co?[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE DivingLicense/Section ds10": {
+        "en": "Eh - [i]hydro[/i]-dynamics, I guess. If that's a thing.",
+        "pl": "Eh - [i]hydro[/i]dynamika, chyba. Jeśli to w ogóle istnieje.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE DreamHelmet": {
+      "Conversation/Gripp CLUE DreamHelmet/Section ds8": {
+        "en": "In fact, I'm pretty sure he measured [i]Mortuga's head[/i] to get the shape right.",
+        "pl": "Właściwie, jestem całkiem pewien, że zmierzył [i]głowę Mortugi,[/i] żeby uzyskać właściwy kształt.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE DreamHelmet/Section ds11": {
+        "en": "D'you know if Zephyr made this himself?",
+        "pl": "Wiesz, czy Zephyr zrobił to sam?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE DreamHelmet/Section ds12": {
+        "en": "He [i]must've[/i] done - he didn't have it when I first got here.",
+        "pl": "[i]Musiał[/i] to zrobić - nie miał tego, kiedy tu po raz pierwszy przybyłem.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE DriftwoodCane": {
+      "Conversation/Gripp CLUE DriftwoodCane/Section ds10": {
+        "en": "Why does he-\nWhy does [i]it[/i] have a bandage around the middle?",
+        "pl": "Czemu on-\nCzemu [i]to[/i] ma bandaż wokół środka?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE DriftwoodCane/Section ds11": {
+        "en": "Cornelius? Oh, he fell down the stairs - the [i]clumsy[/i] old thing.",
+        "pl": "Cornelius? Och, spadł ze schodów - ten [i]niezdarny[/i] staruszek.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE DriftwoodCane/Section ds12": {
+        "en": "On a [i]submarine[/i]? It's all just [i]ladders[/i], isn't it?",
+        "pl": "Na [i]łodzi podwodnej?[/i] Tu wszystko to tylko [i]drabiny,[/i] prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE DriftwoodCane/Section ds13": {
+        "en": "I [i]promise[/i] you, that's [i]not[/i] the issue I have with that statement.",
+        "pl": "[i]Obiecuję[/i] ci, że [i]nie[/i] to jest problem, który mam z tym stwierdzeniem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE FamilyPhoto": {
+      "Conversation/Gripp CLUE FamilyPhoto/Section ds0": {
+        "en": "Oh yes, I remember hearing about this...",
+        "pl": "O tak, pamiętam, że słyszałem o tym...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FamilyPhoto/Section ds6": {
+        "en": "A submarine constructed by the harbormaster and the shipyard mechanic - who I [i]believe[/i] was her husband.",
+        "pl": "Łódź podwodna skonstruowana przez kapitanat portu i mechaniczkę stoczni - który, jak [i]wierzę,[/i] był jej mężem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FamilyPhoto/Section ds7": {
+        "en": "Just - gossip from around town.",
+        "pl": "Po prostu - plotki z miasteczka.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FamilyPhoto/Section ds9": {
+        "en": "Where'd you hear about it?",
+        "pl": "Gdzie o tym słyszałeś?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE FeliciaPainting": {
+      "Conversation/Gripp CLUE FeliciaPainting/Section ds8": {
+        "en": "He seemed [i]drawn[/i] to it - [i]entranced[/i] - always held within its... orbit, unable to... drift away.",
+        "pl": "Wydawał się [i]przyciągnięty[/i] do niego - [i]zauroczony[/i] - zawsze utrzymywany w jego... orbicie, niezdolny... odpłynąć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FeliciaPainting/Section ds12": {
+        "en": "Undeniably [i]forlorn[/i], isn't it?",
+        "pl": "Niezaprzeczalnie [i]przygnębiające,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FeliciaPainting/Section ds13": {
+        "en": "What d'you think, haunted? It's probably haunted, right?",
+        "pl": "Co myślicie, nawiedzony? Pewnie jest nawiedzony, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE FeliciaPainting/Section ds14": {
+        "en": "If it [i]was[/i] haunted, then it was only because Mortuga [i]himself[/i] was its ghost-",
+        "pl": "Jeśli [i]był[/i] nawiedzony, to tylko dlatego, że sam Mortuga [i]był[/i] jego duchem-",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE Figurehead": {
+      "Conversation/Gripp CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE FilmProjector": {
+      "Conversation/Gripp CLUE FilmProjector/Section ds0": {
+        "en": "[i]Close your eyes, my love, and be still. For this is the end, and the beginning.[/i]",
+        "pl": "[i]Zamknij oczy, moja miłości, i znieruchom. Bo to jest koniec, i początek.[/i]",
+        "speaker": "Film"
+      },
+      "Conversation/Gripp CLUE FilmProjector/Section ds7": {
+        "en": "I heard that phrase spoken [i]aloud[/i] when I was in the bilge with Mariana Moon.",
+        "pl": "Słyszałem tę frazę wypowiedzianą [i]na głos,[/i] kiedy byłem w zęzie z Marianą Moon.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FilmProjector/Section ds8": {
+        "en": "-and this was around the time of the murder?",
+        "pl": "-i to było mniej więcej w czasie morderstwa?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE FilmProjector/Section ds9": {
+        "en": "Yes... I'd wager it was.",
+        "pl": "Tak... zaryzykowałbym, że tak.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FilmProjector/Section ds11": {
+        "en": "That [i]phrase...[/i]",
+        "pl": "Ta [i]fraza...[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE FogBall": {
+      "Conversation/Gripp CLUE FogBall/Section ds0": {
+        "en": "Aha - a [i]crystal ball[/i]. Oh, how [i]quaint![/i] ",
+        "pl": "Aha - [i]kryształowa kula.[/i] Ach, jakże [i]osobliwa![/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FogBall/Section ds6": {
+        "en": "Hm? What's that? What's it [i]for?[/i] ",
+        "pl": "Hm? Co to takiego? Do czego to [i]służy?[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FogBall/Section ds8": {
+        "en": "Ohh you know, the [i]usual-[/i] ",
+        "pl": "Ochh no wiecie, to [i]zwyczajne-[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE FogBall/Section ds11": {
+        "en": "Whispering questions into the [i]'great unseen beyond'[/i], hoping without hope to get a response.",
+        "pl": "Szeptanie pytań w [i]'wielkie niewidziane poza',[/i] mając nadzieję wbrew nadziei na odpowiedź.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE GlassEyeball": {
+      "Conversation/Gripp CLUE GlassEyeball/Section ds0": {
+        "en": "Where on earth did you find [i]this??[/i] ",
+        "pl": "Gdzie u licha to [i]znaleźliście??[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE GlassEyeball/Section ds6": {
+        "en": "It was just lying around. D'you know what it is?",
+        "pl": "Po prostu tam leżało. Wiesz, co to jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE GlassEyeball/Section ds7": {
+        "en": "What I [i]do[/i] know, is that it belonged to [i]Mortuga.[/i] ",
+        "pl": "Co [i]wiem,[/i] to że należało do [i]Mortugi.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE GlassEyeball/Section ds10": {
+        "en": "But you don't know what it was actually [i]for?[/i] ",
+        "pl": "Ale nie wiesz, do czego to właściwie [i]służyło?[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE GlassEyeball/Section ds11": {
+        "en": "I couldn’t say with any academic certainty.",
+        "pl": "Nie potrafię powiedzieć z żadną akademicką pewnością.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE GoldenLocket": {
+      "Conversation/Gripp CLUE GoldenLocket/Section ds0": {
+        "en": "[i]Bingo![/i] 'Lillian's Locket', in the flesh.",
+        "pl": "[i]Bingo![/i] 'Medalion Lilian', we własnej osobie.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE GoldenLocket/Section ds6": {
+        "en": "And Lillian is... [i]who?[/i] ",
+        "pl": "A Lilian to... [i]kto?[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE GoldenLocket/Section ds7": {
+        "en": "By all accounts, some kind of [i]sorceress.[/i] ",
+        "pl": "Z tego, co wiadomo, jakaś [i]czarodziejka.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE GoldenLocket/Section ds8": {
+        "en": "How come [i]you[/i] know about this?",
+        "pl": "Skąd [i]ty[/i] o tym wiesz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE GoldenLocket/Section ds9": {
+        "en": "Well, it's a [i]brass trinket[/i], and thus it's often placed within the jurisdiction of my expertise.",
+        "pl": "Cóż, to [i]mosiężny drobiazg,[/i] a więc często wpada w zakres mojej ekspertyzy.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE HandheldRadio": {
+      "Conversation/Gripp CLUE HandheldRadio/Section ds0": {
+        "en": "Could this be Sinthia's attempt to get our submarine up to code and finally install a radio?",
+        "pl": "Czy to może być próba Sinthii, żeby doprowadzić naszą łódź podwodną do normy i wreszcie zainstalować radio?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds6": {
+        "en": "Why [i]doesn't[/i] the ship have a radio?",
+        "pl": "Czemu statek [i]nie ma[/i] radia?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds8": {
+        "en": "One; Mortuga didn't like to use [i]technology[/i] if he could avoid it-",
+        "pl": "Po pierwsze; Mortuga nie lubił używać [i]technologii,[/i] jeśli mógł tego uniknąć-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds9": {
+        "en": "-and two; he didn't like to [i]communicate with the outside world[/i] if he could avoid it.",
+        "pl": "-a po drugie; nie lubił [i]komunikować się ze światem zewnętrznym,[/i] jeśli mógł tego uniknąć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds11": {
+        "en": "I'm not sure I agree with that second one.",
+        "pl": "Nie jestem pewna, czy zgadzam się z tym drugim.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds13": {
+        "en": "There's no way [i]all these people[/i] showed up on the submarine if Mortuga wasn't contacting the outside world.",
+        "pl": "Nie ma mowy, żeby [i]wszyscy ci ludzie[/i] pojawili się na łodzi podwodnej, gdyby Mortuga nie kontaktował się ze światem zewnętrznym.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE HandheldRadio/Section ds15": {
+        "en": "You know, there may be something [i]to[/i] that.",
+        "pl": "Wiecie, może być coś [i]w tym.[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE HandwrittenLetter": {
+      "Conversation/Gripp CLUE HandwrittenLetter/Section ds0": {
+        "en": "Hm. This 'Ibis' person claiming to have [i]information on Mortuga...[/i]",
+        "pl": "Hm. Ta osoba 'Ibis' twierdząca, że ma [i]informacje o Mortudze...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandwrittenLetter/Section ds6": {
+        "en": "No! Mortuga [i]never[/i] mentioned anyone by that name... not to [i]me[/i], anyway.",
+        "pl": "Nie! Mortuga [i]nigdy[/i] nie wspomniał o nikim o tym imieniu... przynajmniej nie [i]mnie.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandwrittenLetter/Section ds10": {
+        "en": "[i]'Inked on the back of this letter are co-ordinates detailing how, when and where to find The Mortuga Submarine...'[/i] ",
+        "pl": "[i]'Na odwrocie tego listu wypisane są atramentem współrzędne szczegółowo opisujące jak, kiedy i gdzie znaleźć Łódź Podwodną Mortuga...'[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HandwrittenLetter/Section ds11": {
+        "en": "You know who that is?",
+        "pl": "Wiesz, kim to jest?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE HexBottle": {
+      "Conversation/Gripp CLUE HexBottle/Section ds0": {
+        "en": "There's some kind of [i]pattern...[/i] it almost looks [i]pictoral.[/i]",
+        "pl": "Jest tu jakiś [i]wzór...[/i] wygląda niemal [i]obrazkowo.[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HexBottle/Section ds6": {
+        "en": "Mm, it might do - I imagine poor old [i]Zephyr's[/i] been trying his best to figure it out.",
+        "pl": "Mm, może i tak - wyobrażam sobie, że biedny stary [i]Zephyr[/i] robił, co mógł, żeby to rozgryźć.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HexBottle/Section ds10": {
+        "en": "Does it mean something?",
+        "pl": "Coś to znaczy?",
+        "speaker": "Sally"
+      }
+    },
+    "Gripp CLUE HexoftheHelmsman": {
+      "Conversation/Gripp CLUE HexoftheHelmsman/Section ds8": {
+        "en": "-then again, I suppose it is [i]largely[/i] imaginary and [i]mostly[/i] guesswork. I'd imagine that gets him off the hook.",
+        "pl": "-z drugiej strony, przypuszczam, że to [i]w dużej mierze[/i] wymysł i [i]przeważnie[/i] domysły. Wyobrażam sobie, że to go rozgrzesza.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HexoftheHelmsman/Section ds10": {
+        "en": "Let's see here...",
+        "pl": "Zobaczmy tutaj...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HexoftheHelmsman/Section ds11": {
+        "en": "[i]Nope.[/i] Doesn't say it [i]anywhere.[/i] No [i]'based on'[/i], no [i]'inspired by'[/i]...",
+        "pl": "[i]Nie.[/i] Nie ma tego [i]nigdzie.[/i] Ani [i]'na podstawie',[/i] ani [i]'zainspirowane przez'...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE HexoftheHelmsman/Section ds12": {
+        "en": "Inspired by what?",
+        "pl": "Zainspirowane przez co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE HexoftheHelmsman/Section ds13": {
+        "en": "[i]True events![/i] ",
+        "pl": "[i]Prawdziwe wydarzenia![/i] ",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE IllusionistPoster": {
+      "Conversation/Gripp CLUE IllusionistPoster/Section ds6": {
+        "en": "Ah - that's Symmetry, I assume...? And she's sitting on the cauldron... facing a window?",
+        "pl": "Ach - to Symmetry, jak sądzę...? I siedzi na kotle... zwrócona do okna?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IllusionistPoster/Section ds9": {
+        "en": "Cornelius tells me he spotted [i]Miss Silkmoth[/i] drawing this while she was in the mess hall...",
+        "pl": "Cornelius mówi mi, że dostrzegł, jak [i]panna Silkmoth[/i] to rysuje, kiedy była w mesie...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IllusionistPoster/Section ds10": {
+        "en": "What's it a drawing [i]of[/i], exactly?",
+        "pl": "[i]Czego[/i] to dokładnie jest rysunkiem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE IllusionistPoster/Section ds11": {
+        "en": "Mm, let's have a look, shall we?",
+        "pl": "Mm, zerknijmy, dobrze?",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE InnDeeds": {
+      "Conversation/Gripp CLUE InnDeeds/Section ds0": {
+        "en": "Ah, yes - I believe it belongs to [i]Sinthia?[/i] And she gave it to [i]Mortuga...[/i] shortly after she first arrived?",
+        "pl": "Ach, tak - wierzę, że należy do [i]Sinthii?[/i] I dała go [i]Mortudze...[/i] niedługo po tym, jak po raz pierwszy przybyła?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE InnDeeds/Section ds10": {
+        "en": "Gripp, what d'you know about this document?",
+        "pl": "Gripp, co wiesz o tym dokumencie?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE IronBell": {
+      "Conversation/Gripp CLUE IronBell/Section ds0": {
+        "en": "Hm...",
+        "pl": "Hm...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds6": {
+        "en": "I'm guessing you never dealt with anything like [i]this[/i] in your shop.",
+        "pl": "Zgaduję, że nigdy nie miałeś do czynienia z niczym takim jak [i]to[/i] w swoim sklepie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds7": {
+        "en": "No, no - it's too [i]big[/i], for one - and it's not exactly navigation... related...",
+        "pl": "Nie, nie - jest zbyt [i]duże,[/i] po pierwsze - i nie jest to dokładnie związane z... nawigacją...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds8": {
+        "en": "What's wrong?",
+        "pl": "Co jest nie tak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds10": {
+        "en": "I don't suppose you know what [i]this[/i] is? This little part sticking out the back?",
+        "pl": "Nie sądzę, żebyś wiedział, czym [i]to[/i] jest? Ta mała część wystająca z tyłu?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds11": {
+        "en": "No. I barely noticed it, to be honest.",
+        "pl": "Nie. Szczerze mówiąc, ledwo to zauważyłem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE IronBell/Section ds12": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE LifesizeDoll": {
+      "Conversation/Gripp CLUE LifesizeDoll/Section ds0": {
+        "en": "Ah, Miss Silkmoth's a [i]talented[/i] seamstress - and she carved and painted the head, too?",
+        "pl": "Ach, panna Silkmoth to [i]utalentowana[/i] krawcowa - i wyrzeźbiła i pomalowała też głowę?",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE MermaidPainting": {
+      "Conversation/Gripp CLUE MermaidPainting/Section ds6": {
+        "en": "I wouldn't lose sleep over it if I were you.",
+        "pl": "Na waszym miejscu nie traciłbym z tego powodu snu.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MermaidPainting/Section ds12": {
+        "en": "Ah, yes. Can't really [i]miss[/i] it, can you?",
+        "pl": "Ach, tak. Trudno tego [i]nie zauważyć,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MermaidPainting/Section ds13": {
+        "en": "It's creeping me out, but I [h]really[/h] want to know what it is.",
+        "pl": "To mnie przeraża, ale [h]naprawdę[/h] chcę wiedzieć, co to jest.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MermaidPainting/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE MessageinaBottle": {
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds0": {
+        "en": "Well, that's a [i]delightful little habit[/i], isn't it?",
+        "pl": "Cóż, to [i]zachwycający mały nawyk,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds8": {
+        "en": "Where did this bottle [i]come[/i] from?",
+        "pl": "Skąd [i]pochodzi[/i] ta butelka?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds9": {
+        "en": "I'm pretty sure Tadpole fished it out of the ocean.",
+        "pl": "Jestem całkiem pewna, że Tadpole wyłowiła ją z oceanu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds11": {
+        "en": "There's a little drawing, too - some kind of symbol?",
+        "pl": "Jest też mały rysunek - jakiś symbol?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds12": {
+        "en": "To me it looks like a [i]diagram.[/i] ",
+        "pl": "Dla mnie wygląda to jak [i]diagram.[/i] ",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds13": {
+        "en": "What d'you make of this?",
+        "pl": "Co o tym sądzisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds14": {
+        "en": "A... message in a bottle?",
+        "pl": "Wiadomość... w butelce?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MessageinaBottle/Section ds15": {
+        "en": "That's how she got [i]all[/i] the stuff in her room, I think.",
+        "pl": "Tak zdobyła [i]wszystkie[/i] te rzeczy w swoim pokoju, jak sądzę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE ModelTown": {
+      "Conversation/Gripp CLUE ModelTown/Section ds0": {
+        "en": "A quaint little pretense of Silkwirm-on-sea, as beheld in the mind's eye of one [i]Magnus Mortuga.[/i] ",
+        "pl": "Osobliwy, mały pozór Silkwirm nad Morzem, taki, jaki dostrzegło oko umysłu pewnego [i]Magnusa Mortugi.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ModelTown/Section ds11": {
+        "en": "Did you [i]know[/i] Mortuga had made this?",
+        "pl": "Czy [i]wiedziałeś,[/i] że Mortuga to zrobił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE ModelTown/Section ds12": {
+        "en": "I'd seen it once or twice, when he was first working on it...",
+        "pl": "Widziałem to raz czy dwa, kiedy dopiero nad tym pracował...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ModelTown/Section ds13": {
+        "en": "...but I always got the impression it was something he wished to keep to [i]himself[/i].",
+        "pl": "...ale zawsze miałem wrażenie, że to coś, co chciał zachować dla [i]siebie.[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE MoonVial": {
+      "Conversation/Gripp CLUE MoonVial/Section ds6": {
+        "en": "We think Mortuga might've dropped this when he was killed.",
+        "pl": "Myślimy, że Mortuga mógł to upuścić, kiedy został zabity.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds7": {
+        "en": "[h]You[/h] can think that all you like - personally, I think it came from somewhere else.",
+        "pl": "[h]Ty[/h] możesz sobie tak myśleć, ile chcesz - osobiście myślę, że pochodzi skądinąd.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds8": {
+        "en": "If it wasn't dropped by [i]Mortuga[/i]... perhaps it was dropped by the [i]culprit?[/i] ",
+        "pl": "Jeśli nie upuścił go [i]Mortuga...[/i] może upuścił go [i]sprawca?[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds9": {
+        "en": "Might've been neither.",
+        "pl": "Mógł to być żaden z nich.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds10": {
+        "en": "You're suggesting this bottle made its [h]own[/h] way into the crime scene?",
+        "pl": "Sugerujesz, że ta butelka dostała się na miejsce zbrodni [h]sama?[/h]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds11": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE MoonVial/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE MourningEnvelope": {
+      "Conversation/Gripp CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE MovieMagazine": {
+      "Conversation/Gripp CLUE MovieMagazine/Section ds0": {
+        "en": "Are there really only [i]two[/i] characters...?",
+        "pl": "Czy naprawdę są tylko [i]dwie[/i] postaci...?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE MovieMagazine/Section ds6": {
+        "en": "It's just the poster, I'm sure there are more in the actual film.",
+        "pl": "To tylko plakat, jestem pewien, że w samym filmie jest ich więcej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE MovieMagazine/Section ds7": {
+        "en": "If it sticks to the novel, there actually [i]might[/i] only be two characters.",
+        "pl": "Jeśli trzyma się powieści, [i]rzeczywiście[/i] mogą być tylko dwie postaci.",
+        "speaker": "Sally"
+      }
+    },
+    "Gripp CLUE NewspaperPage": {
+      "Conversation/Gripp CLUE NewspaperPage/Section ds0": {
+        "en": "[i]'Godrik Gripp's Nautical and Aeronautical Precision Measurement and Navigation Instruments.'[/i] Great name-",
+        "pl": "[i]'Instrumenty Precyzyjnego Pomiaru i Nawigacji Morskiej oraz Lotniczej Godrika Grippa.'[/i] Świetna nazwa-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds6": {
+        "en": "Yes, well, this was shortly before the [i]rebrand.[/i] ",
+        "pl": "Tak, cóż, to było niedługo przed [i]rebrandingiem.[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds7": {
+        "en": "Why'd you decide to rebrand the shop?",
+        "pl": "Czemu zdecydowałeś się zrebrandować sklep?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds9": {
+        "en": "Ah, you see - the news about the Silkwirm Serpent put the town in a particular sort of [i]mood-[/i] ",
+        "pl": "Ach, widzicie - wieści o Wężu z Silkwirm wprawiły miasteczko w szczególny rodzaj [i]nastroju-[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds10": {
+        "en": "-interest in all things [i]'nautical adventure'[/i] was on the rise, you know, they put up that [i]statue[/i], we'd get [i]tourists[/i], even...",
+        "pl": "-zainteresowanie wszystkim, co [i]'morska przygoda',[/i] rosło, no wiecie, postawili ten [i]posąg,[/i] mieliśmy nawet [i]turystów...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds11": {
+        "en": "So you capitalized on the zeitgeist?",
+        "pl": "Więc wykorzystałeś ducha czasu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE NewspaperPage/Section ds12": {
+        "en": "Look at [i]you[/i], using the vocabulary!",
+        "pl": "Spójrzcie na [i]ciebie,[/i] używasz słownictwa!",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE OceanTreasure": {
+      "Conversation/Gripp CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE Pocketbook": {
+      "Conversation/Gripp CLUE Pocketbook/Section ds0": {
+        "en": "Who does [i]this[/i] belong to? [i]Wilfred Winterbottom?[/i] ",
+        "pl": "Do kogo [i]to[/i] należy? [i]Wilfred Winterbottom?[/i] ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE Pocketbook/Section ds6": {
+        "en": "Who's [i]that?[/i] ",
+        "pl": "Kim [i]on[/i] jest? ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE Pocketbook/Section ds7": {
+        "en": "I just made him up.",
+        "pl": "Właśnie go zmyśliłem.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE Pocketbook/Section ds8": {
+        "en": "Oh.\nThen, no.",
+        "pl": "Och.\nW takim razie, nie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE RaggedCloth": {
+      "Conversation/Gripp CLUE RaggedCloth/Section ds0": {
+        "en": "This is from a ship's sail...?",
+        "pl": "To z żagla statku...?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE RaggedCloth/Section ds6": {
+        "en": "I [i]think[/i] so?",
+        "pl": "[i]Chyba[/i] tak?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE RaggedCloth/Section ds7": {
+        "en": "Did [i]you[/i] sell sails? in your shop?",
+        "pl": "Czy [i]ty[/i] sprzedawałeś żagle? W swoim sklepie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE RaggedCloth/Section ds8": {
+        "en": "No, ship parts like that fell within the remit of the [i]Drummond Shipyard[/i], a few doors down.",
+        "pl": "Nie, takie części statków wchodziły w zakres [i]Stoczni Drummonda,[/i] kilka drzwi dalej.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE RippedScroll": {
+      "Conversation/Gripp CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE SeaChart": {
+      "Conversation/Gripp CLUE SeaChart/Section ds0": {
+        "en": "Now, that's the [i]question[/i], isn't it?",
+        "pl": "No cóż, to jest właśnie [i]pytanie,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds6": {
+        "en": "You don't know?",
+        "pl": "Nie wiesz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds8": {
+        "en": "How much for [i]this[/i] one?",
+        "pl": "Ile za [i]tę?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds9": {
+        "en": "It's not for sale.",
+        "pl": "Nie jest na sprzedaż.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds10": {
+        "en": "Oh?\nToo rare? Too valuable?",
+        "pl": "O?\nZbyt rzadka? Zbyt cenna?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds11": {
+        "en": "It's from my [i]personal collection[/i]... I really hadn't intended for you to see it.",
+        "pl": "To z mojej [i]osobistej kolekcji...[/i] naprawdę nie zamierzałem, żebyście to zobaczyli.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds12": {
+        "en": "Well, we [i]did[/i] see it.",
+        "pl": "Cóż, [i]jednak[/i] to zobaczyliśmy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds13": {
+        "en": "What's it a map [i]to[/i], anyway? What's at the red X?",
+        "pl": "A [i]do czego[/i] w ogóle to mapa? Co jest przy czerwonym X?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SeaChart/Section ds20": {
+        "en": "Unfortunately not.",
+        "pl": "Niestety nie.",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE ShipinaBottle": {
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds0": {
+        "en": "Oh yes... Mortuga's little model ship.",
+        "pl": "O tak... mały statek-model Mortugi.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds6": {
+        "en": "He always kept it on his [i]desk.[/i] Although I'd wager it's more than just a [i]paperweight...[/i]",
+        "pl": "Zawsze trzymał go na swoim [i]biurku.[/i] Chociaż zaryzykowałbym, że to coś więcej niż tylko [i]przycisk do papieru...[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds7": {
+        "en": "-is it based on a [i]real[/i] ship?",
+        "pl": "-jest wzorowany na [i]prawdziwym[/i] statku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds8": {
+        "en": "It's likely, Mortuga did [i]have[/i] a ship - or, rather, he worked on [i]board[/i] one, I very much doubt he was the... owner...",
+        "pl": "Prawdopodobnie, Mortuga [i]rzeczywiście[/i] miał statek - a raczej, pracował na jego [i]pokładzie,[/i] mocno wątpię, żeby był... właścicielem...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds11": {
+        "en": "D'you know what [i]this[/i] is?",
+        "pl": "Wiesz, czym [i]to[/i] jest?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds12": {
+        "en": "Maybe something left over from when it was painted?",
+        "pl": "Może coś, co zostało po pomalowaniu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds13": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipinaBottle/Section ds14": {
+        "en": "Oh! I'm not sure.",
+        "pl": "Och! Nie jestem pewna.",
+        "speaker": "Sally"
+      }
+    },
+    "Gripp CLUE ShipsWheel": {
+      "Conversation/Gripp CLUE ShipsWheel/Section ds0": {
+        "en": "D'you know how the wheel got damaged?",
+        "pl": "Wiesz, jak koło zostało uszkodzone?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds6": {
+        "en": "It looks in working order to me...?",
+        "pl": "Dla mnie wygląda na sprawne...?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds7": {
+        "en": "No, look... some of the spokes are different.",
+        "pl": "Nie, spójrz... niektóre szprychy są inne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds8": {
+        "en": "Hm - you're [i]quite[/i] right.",
+        "pl": "Hm - masz [i]zupełną[/i] rację.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds9": {
+        "en": "It looks like they broke off and got replaced.",
+        "pl": "Wygląda na to, że się odłamały i zostały wymienione.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds10": {
+        "en": "Although it's not exactly at odds with the ship as a [i]whole,[/i] is it?",
+        "pl": "Chociaż to nie do końca kłóci się ze statkiem jako [i]całością,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds11": {
+        "en": "Look around you! She's a [i]ramshackle[/i] old thing. ",
+        "pl": "Rozejrzyjcie się! To [i]rozklekotana[/i] staruszka. ",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds12": {
+        "en": "Meaning...?",
+        "pl": "Czyli...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE ShipsWheel/Section ds13": {
+        "en": "Sturdy, yes, even [i]handsome[/i] in places... but undeniably a [i]patchwork[/i] of sorts.",
+        "pl": "Solidna, tak, nawet [i]okazała[/i] miejscami... ale niezaprzeczalnie swego rodzaju [i]łatanina.[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE SilkwirmMap": {
+      "Conversation/Gripp CLUE SilkwirmMap/Section ds0": {
+        "en": "Cornelius, look - I [i]told[/i] you all our hard work would 'put us on the map' some day.",
+        "pl": "Corneliusie, spójrz - [i]mówiłem[/i] ci, że cała nasza ciężka praca kiedyś nas 'wprowadzi na mapę'.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SilkwirmMap/Section ds6": {
+        "en": "How come your logo is a [i]hot air balloon?[/i] I thought you sold stuff for boats.",
+        "pl": "Czemu twoje logo to [i]balon na ogrzane powietrze?[/i] Myślałam, że sprzedajesz rzeczy do łodzi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE SilkwirmMap/Section ds7": {
+        "en": "[i]Ah-hem...[/i] officially we deal in the nautical [i]and[/i] aeronautical.",
+        "pl": "[i]Ach-hem...[/i] oficjalnie zajmujemy się sprawami morskimi [i]i[/i] lotniczymi.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SilkwirmMap/Section ds8": {
+        "en": "But in truth, the balloon motif was mostly just for fun - I'm not sure there [i]were[/i] ever any aeronauts in Silkwirm...",
+        "pl": "Ale prawdę mówiąc, motyw balonu był głównie dla zabawy - nie jestem pewien, czy w Silkwirm [i]w ogóle[/i] byli kiedyś jacyś aeronauci...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SilkwirmMap/Section ds13": {
+        "en": "[i]Remarkable![/i] There we are!",
+        "pl": "[i]Niezwykłe![/i] Właśnie tam!",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE StrangeDevice": {
+      "Conversation/Gripp CLUE StrangeDevice/Section ds0": {
+        "en": "D'you know what [i]this[/i] does?",
+        "pl": "Wiesz, co [i]to[/i] robi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE StrangeDevice/Section ds7": {
+        "en": "I only deal with the mechanical, the clockwork, and, at a [i]push[/i] - the hydraulic.",
+        "pl": "Zajmuję się jedynie mechaniką, mechanizmami zegarowymi i, w [i]ostateczności[/i] - hydrauliką.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE StrangeDevice/Section ds8": {
+        "en": "Doesn't appear to do [i]anything[/i], does it? Perhaps it's broken.",
+        "pl": "Nie wygląda na to, żeby [i]cokolwiek[/i] robiło, prawda? Może jest zepsute.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE StrangeDevice/Section ds9": {
+        "en": "Could you fix it?",
+        "pl": "Mógłbyś to naprawić?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE SubmarineBlueprint": {
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds0": {
+        "en": "They say... Mortuga bought an [i]incomplete[/i] submarine, and then paid for it to be completed.",
+        "pl": "Mówią... że Mortuga kupił [i]niedokończoną[/i] łódź podwodną, a potem zapłacił, żeby ją dokończono.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds6": {
+        "en": "Where'd he [i]buy[/i] it from?",
+        "pl": "Skąd ją [i]kupił?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds7": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds8": {
+        "en": "What's the deal with this [i]blueprint?[/i] It's kind of a [i]mess.[/i] ",
+        "pl": "O co chodzi z tym [i]planem?[/i] To trochę [i]bałagan.[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds9": {
+        "en": "So it only makes sense that the blueprint's as [i]ramshackle[/i] as the ship itself.",
+        "pl": "Więc ma sens, że plan jest tak [i]rozklekotany[/i] jak sam statek.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds10": {
+        "en": "How'd he [i]pay[/i] for it?",
+        "pl": "Jak za to [i]zapłacił?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE SubmarineBlueprint/Section ds11": {
+        "en": "[i]One[/i], the [i]shipyard[/i], I imagine, and [i]two[/i] - I have no idea! He never seemed to have any money...",
+        "pl": "[i]Po pierwsze,[/i] [i]stocznia,[/i] wyobrażam sobie, a [i]po drugie[/i] - nie mam pojęcia! Nigdy nie wydawał się mieć pieniędzy...",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE SunTablets": {
+      "Conversation/Gripp CLUE SunTablets/Section ds0": {
+        "en": "-is that a [i]sun?[/i]",
+        "pl": "-to [i]słońce?[/i]",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE SunTablets/Section ds6": {
+        "en": "Probably. Although it could be a [i]wheel.[/i] ",
+        "pl": "Prawdopodobnie. Chociaż może być [i]kołem.[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE SunTablets/Section ds7": {
+        "en": "Ah yes, [i]wheel[/i] tablets.",
+        "pl": "Ach tak, tabletki [i]koła.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Gripp CLUE TheMermaidsTongue": {
+      "Conversation/Gripp CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE Typewriter": {
+      "Conversation/Gripp CLUE Typewriter/Section ds13": {
+        "en": "Wirman still attempting to [i]wrestle[/i] his grand opus into existence, is he?",
+        "pl": "Wirman wciąż próbuje [i]wywalczyć[/i] swoje wielkie dzieło do istnienia, tak?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE Typewriter/Section ds14": {
+        "en": "I rather thought he'd be [i]done[/i] by now...",
+        "pl": "Raczej myślałem, że będzie już [i]skończone...[/i]",
+        "speaker": "Gripp"
+      }
+    },
+    "Gripp CLUE UnderwaterPhoto": {
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds6": {
+        "en": "Goodness me.",
+        "pl": "Mój Boże.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds7": {
+        "en": "What's it a photo of...?",
+        "pl": "Zdjęciem czego to jest...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds9": {
+        "en": "Well it's a [i]face[/i], I suppose we can agree on that.",
+        "pl": "Cóż, to [i]twarz,[/i] przypuszczam, że co do tego się zgadzamy.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds10": {
+        "en": "Doesn't look like any face [i]I've[/i] ever seen.",
+        "pl": "Nie wygląda jak żadna twarz, którą [i]ja[/i] kiedykolwiek widziałam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds11": {
+        "en": "No, well...\nPerhaps you ought to count yourself lucky.",
+        "pl": "Nie, cóż...\nMoże powinnaś uznać się za szczęściarę.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE UnderwaterPhoto/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Gripp CLUE WoodenBuoy": {
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds0": {
+        "en": "[i]Wonderful[/i], isn't it?",
+        "pl": "[i]Cudowna,[/i] prawda?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds6": {
+        "en": "...Cornelius thinks it might be his great [i]grandmother.[/i] For all I know, he may be right.",
+        "pl": "...Cornelius myśli, że to może być jego [i]prababcia.[/i] Z tego, co wiem, może mieć rację.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds7": {
+        "en": "It - belonged to Mortuga? I assume?",
+        "pl": "To - należało do Mortugi? Zakładam?",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds8": {
+        "en": "Yes - and to me it sits right alongside that [i]iron bell[/i] in his office and that [i]stone cauldron[/i] in the store room...",
+        "pl": "Tak - i dla mnie stoi to tuż obok tego [i]żelaznego dzwonu[/i] w jego biurze i tego [i]kamiennego kotła[/i] w magazynie...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds11": {
+        "en": "Together they form Mortuga's collection of [i]inexplicably cursed-looking[/i] nautical artifacts.",
+        "pl": "Razem tworzą kolekcję Mortugi [i]niewytłumaczalnie przeklęcie wyglądających[/i] morskich artefaktów.",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE WoodenBuoy/Section ds14": {
+        "en": "Maybe they [i]do[/i] form a set...",
+        "pl": "Może [i]rzeczywiście[/i] tworzą zestaw...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Gripp CLUE WoodenPipe": {
+      "Conversation/Gripp CLUE WoodenPipe/Section ds0": {
+        "en": "That's it! Mariana's pipe! She let you see it?",
+        "pl": "To to! Fajka Mariany! Pozwoliła wam to zobaczyć?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenPipe/Section ds6": {
+        "en": "She did.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Gripp CLUE WoodenPipe/Section ds7": {
+        "en": "And? Did you discover anything?",
+        "pl": "I? Odkryliście coś?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenPipe/Section ds8": {
+        "en": "We did.",
+        "pl": "Tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Gripp CLUE WoodenPipe/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Conversation/Gripp CLUE WoodenPipe/Section ds10": {
+        "en": "Well alright then! End of conversation, apparently!",
+        "pl": "No dobrze więc! Podobno koniec rozmowy!",
+        "speaker": "Gripp"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

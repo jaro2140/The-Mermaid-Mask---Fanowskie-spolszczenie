@@ -1,0 +1,874 @@
+{
+  "_meta": {
+    "batch": "Moon 05 SUSPICION (170 terminow) - najwieksza scena jak dotad w calej grze, konczy luk Moon do sceny 05 (239/271, zostaje jeszcze 06 PIPE, 4 terminy). Mysterium Czarnej Skrzynki: Mortuga zadzwonil do Moon (przez jej wlasny 'Moon Phone'), poprosil o przyniesienie tajemniczej skrzynki z Fellow Manor w zamian za dostep do lodzi. Watek 'dziwnego dzwieku' (Mortuga rozmawiajacy z kims niewidocznym przy otwieraniu skrzynki) pozostaje nierozwiazany w tej partii.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 139/170 pokryte (Moon 60, Grimoire 41, Sally 38). 31 nieprzypisanych to mechanika Request/RequestPrefix/RequestSuffix (19) + Choice sets ds13/ds17/ds78 (12) - oznaczone wzorem z batch_04/14/20.",
+    "character_voice": "Moon: mistyczna gawedziarka (patrz batch_21-24), tu w obronie/przesluchaniu - nadal poetycka, wymijajaca, ale bardziej defensywna.",
+    "new_terms": "'pipe dictaphone' (dyktafon Moon w ksztalcie fajki) -> 'fajka-dyktafon' - CELOWO INNE SLOWO niz 'rura glosowa' (rura) ustalona dla mechaniki 'Pipe' z batch_20, zeby nie mylic dwoch roznych przedmiotow o zblizonej angielskiej nazwie ('pipe' = fajka do palenia vs rura). 'Moon Phone' (wlasny telefon Moon, kalambur z jej nazwiskiem) - zostawiony bez tlumaczenia jak inne nazwy wlasne z jej imieniem. 'Fellow Manor' - nowa lokacja (dwor), zostawiona bez tlumaczenia jako nazwa wlasna."
+  },
+  "categories": {
+    "Moon 05 SUSPICION": {
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest0Hint0": {
+        "en": "Do we have evidence to suggest Mariana Moon actually has a handle on technology?",
+        "pl": "Czy mamy dowód na to, że Mariana Moon faktycznie radzi sobie z technologią?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest0Hint1": {
+        "en": "Does one of Mariana Moon's possessions suggest she actually has a handle on technology?",
+        "pl": "Czy któraś z rzeczy Mariany Moon sugeruje, że faktycznie radzi sobie z technologią?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest1Detail0": {
+        "en": "Which part suggests Mariana Moon had a telephone at some point in time?",
+        "pl": "Który fragment sugeruje, że Mariana Moon miała kiedyś telefon?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest1Hint0": {
+        "en": "Do we have evidence to suggest Mariana Moon had a telephone at some point in time?",
+        "pl": "Czy mamy dowód na to, że Mariana Moon miała kiedyś telefon?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest1Hint1": {
+        "en": "Do we have evidence to suggest Mariana Moon had a telephone and a phone number at some point in time?",
+        "pl": "Czy mamy dowód na to, że Mariana Moon miała kiedyś telefon i numer telefonu?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest2Hint0": {
+        "en": "How would somebody call Mariana's phone from the submarine?",
+        "pl": "Jak ktoś mógłby zadzwonić na telefon Mariany z łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest2Hint1": {
+        "en": "What device would somebody use to call Mariana's phone from the submarine?",
+        "pl": "Jakiego urządzenia ktoś użyłby, żeby zadzwonić na telefon Mariany z łodzi podwodnej?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest3Hint0": {
+        "en": "What was it that Mariana brought onto the submarine to give to Mortuga?",
+        "pl": "Co takiego Mariana przyniosła na łódź, żeby dać to Mortudze?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest3Hint1": {
+        "en": "What mysterious object did Mariana bring onto the submarine to give to Mortuga?",
+        "pl": "Jaki tajemniczy przedmiot Mariana przyniosła na łódź, żeby dać go Mortudze?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest4Hint0": {
+        "en": "Something to compare with the Black Box, that we can use to work out where the box came from...",
+        "pl": "Coś do porównania z Czarną Skrzynką, co pozwoli nam ustalić, skąd pochodzi skrzynka...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest4Hint1": {
+        "en": "A map to compare with the Black Box, that we can use to work out where the box came from...",
+        "pl": "Mapa do porównania z Czarną Skrzynką, która pozwoli nam ustalić, skąd pochodzi skrzynka...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest5Hint0": {
+        "en": "Do we have evidence to suggest how Mariana might've heard Mortuga while he was in his cabin?",
+        "pl": "Czy mamy dowód sugerujący, jak Mariana mogła usłyszeć Mortugę, kiedy był w swojej kajucie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitClueRequest5Hint1": {
+        "en": "What electrical device could explain how Mariana might've heard Mortuga while he was in his cabin?",
+        "pl": "Jakie urządzenie elektryczne mogłoby wyjaśnić, jak Mariana mogła usłyszeć Mortugę, kiedy był w swojej kajucie?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitSoulRequest6Hint0": {
+        "en": "Who was it that called Mariana and asked her to come to the submarine?",
+        "pl": "Kto to był, kto zadzwonił do Mariany i poprosił, żeby przyszła na łódź?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Request exitSoulRequest6Hint1": {
+        "en": "Who was it that called Mariana and asked her to come to his submarine?",
+        "pl": "Kto to był, kto zadzwonił do Mariany i poprosił, żeby przyszła na jego łódź?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/RequestPrefix exitClueRequest1 0": {
+        "en": "We found...",
+        "pl": "Znaleźliśmy...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/RequestSuffix exitClueRequest1 0": {
+        "en": "...which includes a phone number.",
+        "pl": "...który zawiera numer telefonu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/RequestSuffix exitClueRequest1 1": {
+        "en": "...which includes a home address.",
+        "pl": "...który zawiera adres domowy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/RequestSuffix exitClueRequest1 2": {
+        "en": "...which includes an ID number.",
+        "pl": "...który zawiera numer dowodu tożsamości.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds0": {
+        "en": "............",
+        "pl": "............",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds10": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds100": {
+        "en": "Then what-",
+        "pl": "To co-",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds101": {
+        "en": "He did ask me to go to Fellow Manor - but what he wanted was [h]information.[/h]",
+        "pl": "Poprosił mnie, żebym udała się do Fellow Manor - ale to, czego chciał, to [h]informacje.[/h]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds102": {
+        "en": "So what kind of information did he ask you to get?",
+        "pl": "Więc o jakie informacje cię poprosił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds103": {
+        "en": "Wait - why couldn't he go himself?",
+        "pl": "Czekaj - czemu nie mógł pojechać sam?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds104": {
+        "en": "An [h]excellent[/h] question - I'm still pondering that one myself.",
+        "pl": "[h]Doskonałe[/h] pytanie - sama wciąż się nad tym zastanawiam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds105": {
+        "en": "Can't tell you. Sorry.",
+        "pl": "Nie mogę wam powiedzieć. Przykro mi.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds106": {
+        "en": "But the information Mortuga wanted, whatever it was, was in the box?",
+        "pl": "Ale informacja, której chciał Mortuga, czymkolwiek była, znajdowała się w skrzynce?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds108": {
+        "en": "I believe so.",
+        "pl": "Tak sądzę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds109": {
+        "en": "How would you know?\nDid you open it?",
+        "pl": "Skąd byś wiedziała?\nOtworzyłaś ją?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds11": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds110": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds111": {
+        "en": "She [h]must've[/h] done.",
+        "pl": "[h]Musiała[/h] to zrobić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds112": {
+        "en": "And when you gave it to Mortuga, he must've opened it too - to check it had the information he wanted?",
+        "pl": "A kiedy dałaś ją Mortudze, on też musiał ją otworzyć - żeby sprawdzić, czy jest w niej informacja, której chciał?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds113": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds114": {
+        "en": "As I've said, I came on board the submarine via the foredeck, and Mortuga met me in the parlor.",
+        "pl": "Jak już mówiłam, weszłam na pokład przez pokład dziobowy, a Mortuga spotkał mnie w salonie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds115": {
+        "en": "He took the box, and told me to wait in the control room, while he went down the hall into his cabin.",
+        "pl": "Wziął skrzynkę i kazał mi czekać w sterowni, podczas gdy on poszedł korytarzem do swojej kajuty.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds116": {
+        "en": "So, I waited in the control room. I was the only one in there, but, uh...",
+        "pl": "Więc czekałam w sterowni. Byłam tam sama, ale, yy...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds118": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds119": {
+        "en": "I could [h]hear[/h] Mortuga opening the box.",
+        "pl": "[h]Słyszałam[/h], jak Mortuga otwiera skrzynkę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds120": {
+        "en": "How??",
+        "pl": "Jak??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds121": {
+        "en": "I've no idea. He was on the other side of the ship, but I could hear him quite clearly. ",
+        "pl": "Nie mam pojęcia. Był po drugiej stronie statku, ale słyszałam go całkiem wyraźnie. ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds123": {
+        "en": "I wonder...",
+        "pl": "Zastanawiam się...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds124": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds125": {
+        "en": "We found this radio hidden in Mortuga's cabin.",
+        "pl": "Znaleźliśmy to radio ukryte w kajucie Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds126": {
+        "en": "It's kinda busted - seems to be turning on and off by itself.",
+        "pl": "Jest trochę zepsute - wygląda na to, że włącza się i wyłącza samo z siebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds127": {
+        "en": "So the radio was picking up the audio of Mortuga opening the box, and transmitting it to the control room?",
+        "pl": "Więc radio wychwytywało dźwięk otwierania skrzynki przez Mortugę i przesyłało go do sterowni?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds128": {
+        "en": "When I heard the sound, I did initially think it was coming from the control panel...",
+        "pl": "Kiedy usłyszałam ten dźwięk, początkowo myślałam, że dochodzi z panelu sterowania...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds129": {
+        "en": "But as I mentioned, it doesn't have any kind of radio.",
+        "pl": "Ale jak wspomniałam, nie ma tam żadnego radia.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds13": {
+        "en": "She's not talking.",
+        "pl": "Ona nic nie mówi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds13 Choice 1": {
+        "en": "Somebody asked you to come onto the submarine.",
+        "pl": "Ktoś cię poprosił, żebyś przyszła na łódź podwodną.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds13 Choice 2": {
+        "en": "You found the submarine by complete accident.",
+        "pl": "Znalazłaś łódź podwodną kompletnym przypadkiem.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds13 Choice 3": {
+        "en": "You've actually been on the submarine for a long time.",
+        "pl": "Właściwie to jesteś na łodzi już od dawna.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds13 Choice Question": {
+        "en": "We'll just have to make an accusation...",
+        "pl": "Będziemy musieli po prostu postawić zarzut...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds130": {
+        "en": "So! It's still a mystery.",
+        "pl": "Więc! To wciąż tajemnica.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds131": {
+        "en": "Did you record the sound on your little pipe dictaphone?",
+        "pl": "Nagrałaś ten dźwięk na swoją małą fajkę-dyktafon?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds132": {
+        "en": "Of course.",
+        "pl": "Oczywiście.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds133": {
+        "en": "You [h]did?\n[/h]",
+        "pl": "[h]Naprawdę?\n[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds134": {
+        "en": "But - we listened through all the tracks on the tape - and didn't hear anything like that!",
+        "pl": "Ale - przesłuchaliśmy wszystkie ścieżki na taśmie - i nie słyszeliśmy nic takiego!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds135": {
+        "en": "Oh really?",
+        "pl": "Ach, naprawdę?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds136": {
+        "en": "I'm quite sure I made a recording of it.",
+        "pl": "Jestem raczej pewna, że to nagrałam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds137": {
+        "en": "Hang on, what kind of sound are we even talking about?",
+        "pl": "Czekaj, o jakim w ogóle dźwięku mówimy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds138": {
+        "en": "The sound of someone [h]opening a box?[/h]",
+        "pl": "O dźwięku kogoś [h]otwierającego skrzynkę?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds139": {
+        "en": "Mariana, how would you even know what you were hearing?",
+        "pl": "Mariano, skąd w ogóle wiedziałabyś, co słyszysz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds140": {
+        "en": "Oh, that's simple.",
+        "pl": "Ach, to proste.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds141": {
+        "en": "It's because he was talking to someone while he opened it.",
+        "pl": "To dlatego, że rozmawiał z kimś, kiedy ją otwierał.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds142": {
+        "en": "[h]What!?[/h]",
+        "pl": "[h]Co!?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds143": {
+        "en": "Who??",
+        "pl": "Z kim??",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds144": {
+        "en": "I don't know, I could only hear [i]Mortuga's[/i] voice. ",
+        "pl": "Nie wiem, słyszałam tylko głos [i]Mortugi.[/i] ",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds147": {
+        "en": "Hm... I don't really remember.",
+        "pl": "Hm... właściwie to nie pamiętam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds148": {
+        "en": "I suppose it's possible.",
+        "pl": "Przypuszczam, że to możliwe.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds149": {
+        "en": "What was he [h]saying??[/h]",
+        "pl": "Co [h]mówił??[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds150": {
+        "en": "Ugh.",
+        "pl": "Ugh.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds151": {
+        "en": "Was he talking to [h]himself??[/h]",
+        "pl": "Czy rozmawiał [h]sam ze sobą??[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds154": {
+        "en": "We need a clue to compare with the black box.",
+        "pl": "Potrzebujemy tropu do porównania z czarną skrzynką.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds156": {
+        "en": "Although it was quite a [i]thin[/i] sound - rather like it was coming through a telephone.",
+        "pl": "Chociaż to był dość [i]cienki[/i] dźwięk - raczej jakby dochodził przez telefon.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds157": {
+        "en": "But he was definitely having a conversation.",
+        "pl": "Ale zdecydowanie prowadził rozmowę.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds158": {
+        "en": "I...",
+        "pl": "Ja...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds159": {
+        "en": "My pleasure.",
+        "pl": "Cała przyjemność po mojej stronie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds16": {
+        "en": "Somebody asked you to come onto the submarine.",
+        "pl": "Ktoś cię poprosił, żebyś przyszła na łódź podwodną.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds161": {
+        "en": "But-",
+        "pl": "Ale-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds162": {
+        "en": "Thanks a [h]lot.[/h] This has been frustrating from start to finish.",
+        "pl": "Wielkie [h]dzięki.[/h] To było frustrujące od początku do końca.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds164": {
+        "en": "You've actually been on the submarine for a long time.",
+        "pl": "Właściwie to jesteś na łodzi już od dawna.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds165": {
+        "en": "You found the submarine by complete accident.",
+        "pl": "Znalazłaś łódź podwodną kompletnym przypadkiem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds166": {
+        "en": "They visited your house.",
+        "pl": "Odwiedzili cię w domu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds167": {
+        "en": "They sent you a letter.",
+        "pl": "Wysłali ci list.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds168": {
+        "en": "In return, Mortuga let you keep the black box.",
+        "pl": "W zamian Mortuga pozwolił ci zatrzymać czarną skrzynkę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds169": {
+        "en": "In return, Mortuga paid you a large amount of money.",
+        "pl": "W zamian Mortuga zapłacił ci dużą sumę pieniędzy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds17": {
+        "en": "And how, may I ask, would somebody [i]do[/i] such a thing?",
+        "pl": "A jak, jeśli mogę spytać, ktoś [i]zrobiłby[/i] coś takiego?",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds17 Choice 1": {
+        "en": "They called your phone.",
+        "pl": "Zadzwonili na twój telefon.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds17 Choice 2": {
+        "en": "They sent you a letter.",
+        "pl": "Wysłali ci list.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds17 Choice 3": {
+        "en": "They visited your house.",
+        "pl": "Odwiedzili cię w domu.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds17 Choice Question": {
+        "en": "How did somebody ask Mariana to come onto the submarine?",
+        "pl": "Jak ktoś poprosił Marianę, żeby przyszła na łódź podwodną?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds21": {
+        "en": "They called your phone.",
+        "pl": "Zadzwonili na twój telefon.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds22": {
+        "en": "A [h]phone,[/h] you say??",
+        "pl": "[h]Telefon,[/h] powiadasz??",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds23": {
+        "en": "Not me - oh no no - I'm no good with technology.",
+        "pl": "Nie ja - och nie, nie - nie radzę sobie z technologią.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds24": {
+        "en": "Huh. I'm not sure that's entirely true, is it?",
+        "pl": "Hę. Nie jestem pewien, czy to do końca prawda, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds25": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds26": {
+        "en": "It didn't escape our notice that your pipe is a fairly sophisticated dictaphone.",
+        "pl": "Nie umknęło naszej uwadze, że twoja fajka to całkiem wyrafinowany dyktafon.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds27": {
+        "en": "I'm pretty sure that counts as technology.",
+        "pl": "Jestem raczej pewien, że to się liczy jako technologia.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds28": {
+        "en": "A dictaphone, yes, but not a telephone.",
+        "pl": "Dyktafon, tak, ale nie telefon.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds31": {
+        "en": "But you [h]do[/h] have a phone.\nOr at least you did at one point.",
+        "pl": "Ale ty [h]masz[/h] telefon.\nAlbo przynajmniej miałaś kiedyś.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds32": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds33": {
+        "en": "For whatever reason, there's a photo of you in this pocketbook.",
+        "pl": "Z jakiegoś powodu w tym notesie jest twoje zdjęcie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds34": {
+        "en": "And beneath it - a phone number. I assume it's [h]your[/h] number?",
+        "pl": "A pod nim - numer telefonu. Zakładam, że to [h]twój[/h] numer?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds35": {
+        "en": "Of course it is.",
+        "pl": "Oczywiście, że tak.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds36": {
+        "en": "But-\nYou-",
+        "pl": "Ale-\nTy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds37": {
+        "en": "Ready...?\n[i]Moon Phone.[/i]",
+        "pl": "Gotowi...?\n[i]Moon Phone.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds38": {
+        "en": "Are you watching? I'm only going to show you this once...",
+        "pl": "Patrzycie? Pokażę wam to tylko raz...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds39": {
+        "en": "Nice, isn't it? Had it custom made.\n",
+        "pl": "Ładny, prawda? Zrobiony na zamówienie.\n",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds40": {
+        "en": "Can we look-",
+        "pl": "Możemy zobaczyć-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds41": {
+        "en": "No, you can't look at it.",
+        "pl": "Nie, nie możecie na niego popatrzeć.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds42": {
+        "en": "The battery's perished. I haven't used it in several days.",
+        "pl": "Bateria padła. Nie używałam go od kilku dni.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds44": {
+        "en": "But if your number is written down in the pocketbook...",
+        "pl": "Ale jeśli twój numer jest zapisany w notesie...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds45": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds46": {
+        "en": "Then anyone on this submarine [h]could've[/h] called you - back when you still had battery.",
+        "pl": "To ktokolwiek na tej łodzi [h]mógł[/h] do ciebie zadzwonić - zanim jeszcze padła bateria.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds47": {
+        "en": "They'd have the number, but how would they call me from the [h]submarine?[/h]",
+        "pl": "Mieliby numer, ale jak zadzwoniliby do mnie z [h]łodzi podwodnej?[/h]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds48": {
+        "en": "There's nothing resembling a phone [h]or[/h] a radio hooked up in the control room...",
+        "pl": "W sterowni nie ma niczego przypominającego telefon [h]ani[/h] podłączonego radia...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds49": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds50": {
+        "en": "Dirk wouldn't [h]need[/h] to use the ship's phone - much like you, he's got his own.",
+        "pl": "Dirk nie [h]musiałby[/h] korzystać z telefonu statku - podobnie jak ty, ma własny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds51": {
+        "en": "What's more - there were two outgoing calls to [h]your[/h] number.",
+        "pl": "Co więcej - były dwa wychodzące połączenia na [h]twój[/h] numer.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds52": {
+        "en": "Oh, dear me, [h]someone[/h] doesn't know how to clear their call record.",
+        "pl": "Ach, ojej, [h]ktoś[/h] nie wie, jak wyczyścić historię połączeń.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds53": {
+        "en": "So, you admit it was Dirk who called you?",
+        "pl": "Więc przyznajesz, że to Dirk do ciebie dzwonił?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds54": {
+        "en": "Absolutely not.",
+        "pl": "Absolutnie nie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds55": {
+        "en": "But - we just-",
+        "pl": "Ale - właśnie-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds56": {
+        "en": "It wasn't Dirk.",
+        "pl": "To nie był Dirk.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds57": {
+        "en": "",
+        "pl": "",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds58": {
+        "en": "I'm willing to bet it was Mortuga.",
+        "pl": "Gotów jestem się założyć, że to był Mortuga.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds59": {
+        "en": "Well, with this in mind, I think I can say why you're here on the submarine.",
+        "pl": "Cóż, mając to na uwadze, myślę, że mogę powiedzieć, czemu tu jesteś, na tej łodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds6": {
+        "en": "Mariana, you arrived on the submarine shortly before Mortuga was killed.",
+        "pl": "Mariano, przybyłaś na łódź niedługo przed zabiciem Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds60": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds61": {
+        "en": "Do you deny it?",
+        "pl": "Zaprzeczasz temu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds62": {
+        "en": "No.\nI just need to be careful what I say next.",
+        "pl": "Nie.\nMuszę tylko uważać na to, co powiem dalej.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds63": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds64": {
+        "en": "You brought something onto the submarine. What was it, Mariana?",
+        "pl": "Przyniosłaś coś na łódź. Co to było, Mariano?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds65": {
+        "en": "I can't say. I made a deal with Mortuga, and I intend to stick to it.",
+        "pl": "Nie mogę powiedzieć. Zawarłam umowę z Mortugą i zamierzam się jej trzymać.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds66": {
+        "en": "I can't talk about [i]any[/i] of this.",
+        "pl": "Nie mogę mówić o [i]żadnej[/i] z tych rzeczy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds68": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds69": {
+        "en": "We found this box in Mortuga's quarters. You don't happen to know how to open it, do you?",
+        "pl": "Znaleźliśmy tę skrzynkę w kwaterze Mortugi. Nie wiesz przypadkiem, jak ją otworzyć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds7": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds71": {
+        "en": "I can't say. Sorry.",
+        "pl": "Nie mogę powiedzieć. Przykro mi.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds72": {
+        "en": "Thus confirming that [h]this[/h] is what you brought on board for Mortuga.",
+        "pl": "Co potwierdza, że [h]to[/h] przyniosłaś na pokład dla Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds73": {
+        "en": "Otherwise you'd be free to talk about it.",
+        "pl": "W przeciwnym razie mogłabyś swobodnie o tym mówić.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds74": {
+        "en": "I-",
+        "pl": "Ja-",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds75": {
+        "en": "[i]Damn.[/i]",
+        "pl": "[i]Cholera.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds76": {
+        "en": "So... you're only on the submarine because Mortuga asked you to bring him this box?",
+        "pl": "Więc... jesteś na łodzi tylko dlatego, że Mortuga poprosił cię, żebyś przyniosła mu tę skrzynkę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds77": {
+        "en": "What did you get in return? Money?",
+        "pl": "Co dostałaś w zamian? Pieniądze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds78": {
+        "en": "The answer was right there in your question.",
+        "pl": "Odpowiedź była tuż tam, w twoim pytaniu.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds78 Choice 1": {
+        "en": "In return, Mortuga gave you access to the submarine.",
+        "pl": "W zamian Mortuga dał ci dostęp do łodzi podwodnej.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds78 Choice 2": {
+        "en": "In return, Mortuga paid you a large amount of money.",
+        "pl": "W zamian Mortuga zapłacił ci dużą sumę pieniędzy.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds78 Choice 3": {
+        "en": "In return, Mortuga let you keep the black box.",
+        "pl": "W zamian Mortuga pozwolił ci zatrzymać czarną skrzynkę.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds78 Choice Question": {
+        "en": "What did Mariana get in return?",
+        "pl": "Co Mariana dostała w zamian?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds8": {
+        "en": "-and yet you still haven't told us how or why you're here. I find that pretty suspicious.",
+        "pl": "-a mimo to wciąż nie powiedziałaś nam, jak ani czemu tu jesteś. Uważam to za dość podejrzane.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds81": {
+        "en": "In return, Mortuga gave you access to the submarine.",
+        "pl": "W zamian Mortuga dał ci dostęp do łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds82": {
+        "en": "Couldn't believe my luck.",
+        "pl": "Nie mogłam uwierzyć w swoje szczęście.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds83": {
+        "en": "I'd been looking for the Mortuga submarine for some time - unsuccessfully, of course.",
+        "pl": "Szukałam łodzi podwodnej Mortuga od jakiegoś czasu - bezskutecznie, rzecz jasna.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds84": {
+        "en": "For a lifelong purveyor of local legends and urban folkore... this place is the [h]holy grail.[/h]",
+        "pl": "Dla kogoś, kto całe życie zajmuje się lokalnymi legendami i miejskim folklorem... to miejsce to [h]święty graal.[/h]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds85": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds86": {
+        "en": "So, I'm guessing you won't tell us what's [h]in[/h] the box?",
+        "pl": "Więc zgaduję, że nie powiesz nam, co jest [h]w[/h] skrzynce?",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds87": {
+        "en": "Correct. I shan't be doing that.",
+        "pl": "Zgadza się. Tego nie zrobię.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds88": {
+        "en": "Or where it [h]came[/h] from?",
+        "pl": "Ani skąd [h]pochodzi?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds89": {
+        "en": "Or that, no.\nSo don't even ask.",
+        "pl": "Ani tego, nie.\nWięc nawet nie pytajcie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds9": {
+        "en": "Oh, it's [h]most[/h] suspicious. I quite agree.",
+        "pl": "Ach, to [h]wielce[/h] podejrzane. Całkowicie się zgadzam.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds90": {
+        "en": "Actually, just by looking at it, I think we could work out where the box came from.",
+        "pl": "Właściwie, patrząc tylko na nią, myślę, że moglibyśmy ustalić, skąd pochodzi ta skrzynka.",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds91": {
+        "en": "Something we can use to work out where it came from...",
+        "pl": "Coś, czego moglibyśmy użyć, żeby ustalić, skąd pochodzi...",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds92": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds95": {
+        "en": "That's what I get for diligently labelling my map, I see. Lovely.",
+        "pl": "To za to, że sumiennie podpisywałam swoją mapę, jak widzę. Cudownie.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds97": {
+        "en": "Wait, so - Mortuga called you up and asked you to get this box from Fellow Manor?",
+        "pl": "Czekaj, więc - Mortuga zadzwonił do ciebie i poprosił, żebyś odebrała tę skrzynkę z Fellow Manor?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds98": {
+        "en": "No no - he didn't mention the box.",
+        "pl": "Nie, nie - nie wspomniał o skrzynce.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 05 SUSPICION/Section ds99": {
+        "en": "What did he-",
+        "pl": "Co on-",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Moon 05 SUSPICION - tajemniczy dzwiek/rozmowca Mortugi",
+      "problem": "Watek 'dziwnego dzwieku' (Mortuga rozmawiajacy z kims niewidocznym przy otwieraniu skrzynki, slyszalny przez Moon przez radio w jego kajucie) pozostaje NIEROZWIAZANY w tej partii - nie wiadomo z kim rozmawial. Potencjalnie zwiazane z watkiem 'Pipe'/rury glosowej z innych scen, ale brak bezposredniego dowodu w tej scenie - do sledzenia w kolejnych partiach."
+    },
+    {
+      "term": "Moon 05 SUSPICION/ds131 'pipe dictaphone' vs mechanika 'Pipe'",
+      "problem": "Fajka-dyktafon Moon (osobisty przedmiot do nagrywania) to INNY obiekt niz 'Wooden Pipe'/rura glosowa statku (mechanika ujawniania trzeciej osoby z batch_20). Oba nazywaja sie po angielsku 'pipe', ale przetlumaczono je swiadomie roznymi slowami (fajka vs rura) zeby uniknac pomylenia w polskim tekscie - do pilnowania konsekwencji w kolejnych partiach, gdzie oba przedmioty moga sie pojawic."
+    }
+  ]
+}

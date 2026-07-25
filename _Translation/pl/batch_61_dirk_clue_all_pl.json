@@ -1,0 +1,1692 @@
+{
+  "_meta": {
+    "batch": "Dirk CLUE X (~50 scen, 313 terminow) - reakcje Dirka na kazdy dowod w grze. Nowe elementy: nazwa 'Queen Serena' (statek z powiesci/filmu Wirmana - fikcjonalizowana wersja Dearest Seleny), watek autora recenzji ksiazki o tym samym imieniu co ktos znajomy (nieukonczony w tej partii - urwany dialog).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - wiekszosc pokryta bezposrednio.",
+    "character_voice": "Dirk: kontynuacja luznego, wspolczesnego slangu (batch_16-20, batch_50, batch_55)."
+  },
+  "categories": {
+    "Dirk CLUE ActionFigure": {
+      "Conversation/Dirk CLUE ActionFigure/Section ds0": {
+        "en": "I am [h]officially[/h] living the dream, how many people can say they're an action figure?",
+        "pl": "[h]Oficjalnie[/h] żyję marzeniem, ilu ludzi może powiedzieć, że są figurką akcji?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds7": {
+        "en": "I'll admit it.\nI'm jealous.",
+        "pl": "Przyznam się.\nZazdroszczę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds8": {
+        "en": "You carry this thing around everywhere you go, Dirk?",
+        "pl": "Nosisz to ze sobą wszędzie, gdzie idziesz, Dirk?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds9": {
+        "en": "Of course - but I'm super duper careful to keep it in mint condition.",
+        "pl": "Jasne - ale bardzo, bardzo uważam, żeby utrzymać to w idealnym stanie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds10": {
+        "en": "[i]Mint[/i] condition...?\nI really wouldn't say-",
+        "pl": "[i]Idealnym[/i] stanie...?\nJa bym raczej nie powiedziała-",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds11": {
+        "en": "Huh... do you have the whole set? Looks like there are [i]two[/i] other figures in the series?",
+        "pl": "Huh... masz cały zestaw? Wygląda na to, że są [i]dwie[/i] inne figurki z serii?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds12": {
+        "en": "Yeah, you know, they told me if I leave it in the box it'll be worth way more in the future.",
+        "pl": "Tak, no wiesz, powiedzieli mi, że jeśli zostawię ją w pudełku, będzie warta o wiele więcej w przyszłości.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ActionFigure/Section ds13": {
+        "en": "Oh, no, they only gave me this one. My co-star Julie has the other two.",
+        "pl": "Ach nie, dali mi tylko tę jedną. Moja partnerka z planu, Julie, ma te dwie pozostałe.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE BalloonBasket": {
+      "Conversation/Dirk CLUE BalloonBasket/Section ds0": {
+        "en": "Apparently Gripp ended up on the submarine because he crashed his balloon over the ocean?",
+        "pl": "Podobno Gripp trafił na łódź podwodną, bo rozbił swój balon nad oceanem?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds6": {
+        "en": "I mean, it's a great story, but...",
+        "pl": "To znaczy, to świetna historia, ale...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds7": {
+        "en": "You don't think it's true?",
+        "pl": "Nie sądzisz, że to prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds8": {
+        "en": "Gripp's pretty smart, in fact, he might even be the smartest guy on the submarine.",
+        "pl": "Gripp jest całkiem bystry, właściwie, może być nawet najmądrzejszym gościem na łodzi podwodnej.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds9": {
+        "en": "...I just don't see him crashing his balloon like that.",
+        "pl": "...po prostu nie wyobrażam sobie, żeby rozbił balon w taki sposób.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds11": {
+        "en": "Maybe he just got caught in a storm.",
+        "pl": "Może po prostu złapał go sztorm.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE BalloonBasket/Section ds12": {
+        "en": "Oh yeah...  I didn't think about that.",
+        "pl": "A tak...  o tym nie pomyślałem.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE BlackBox": {
+      "Conversation/Dirk CLUE BlackBox/Section ds0": {
+        "en": "What's that?",
+        "pl": "Co to jest?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds6": {
+        "en": "You've never seen it before?",
+        "pl": "Nigdy tego wcześniej nie widziałeś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds7": {
+        "en": "Nope - is it Mortuga's?",
+        "pl": "Nie - to Mortugi?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds8": {
+        "en": "Good guess.",
+        "pl": "Dobrze zgadujesz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds9": {
+        "en": "Yeah, it has his vibes for sure.",
+        "pl": "Tak, na pewno ma jego klimat.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds10": {
+        "en": "Oh, let me guess - it's locked and you can't work out how to open it?",
+        "pl": "Och, niech zgadnę - jest zamknięta i nie możecie wykombinować, jak ją otworzyć?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds11": {
+        "en": "Right again.",
+        "pl": "Znowu trafiony.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds12": {
+        "en": "Ha - classic.",
+        "pl": "Ha - klasyka.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlackBox/Section ds13": {
+        "en": "-okay but, for real, you [h]gotta[/h] let me know when you get it open cos now I'm [h]super[/h] curious.",
+        "pl": "-okej, ale, na serio, [h]musicie[/h] mi powiedzieć, kiedy to otworzycie, bo teraz jestem [h]super[/h] ciekawy.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE BlurryPhoto": {
+      "Conversation/Dirk CLUE BlurryPhoto/Section ds0": {
+        "en": "Holy moly, look at that!",
+        "pl": "O rany, spójrzcie na to!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlurryPhoto/Section ds6": {
+        "en": "I know. That werewolf looking guy is really-",
+        "pl": "Wiem. Ten koleś wyglądający jak wilkołak jest naprawdę-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE BlurryPhoto/Section ds7": {
+        "en": "-is that Tadpole with [h]long hair?[/h]",
+        "pl": "-to Tadpole z [h]długimi włosami?[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE BlurryPhoto/Section ds8": {
+        "en": "Uh - yeah, maybe?",
+        "pl": "Yy - tak, może?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE BlurryPhoto/Section ds9": {
+        "en": "She never told me about that! It's a strong look.",
+        "pl": "Nigdy mi o tym nie mówiła! To mocny wygląd.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE BrokenCompass": {
+      "Conversation/Dirk CLUE BrokenCompass/Section ds10": {
+        "en": "Gripp must have [i]really[/i] steady hands, working with all those small parts, huh? I could never.",
+        "pl": "Gripp musi mieć [i]naprawdę[/i] pewną rękę, pracując z tymi wszystkimi małymi częściami, co? Ja bym nigdy nie potrafił.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE CaptainsJacket": {
+      "Conversation/Dirk CLUE CaptainsJacket/Section ds0": {
+        "en": "Oh, yeah, I've seen that in the control room.",
+        "pl": "O, tak, widziałem to w sterowni.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaptainsJacket/Section ds6": {
+        "en": "I thought maybe Sinthia was going to wear it? Like after she became captain?",
+        "pl": "Myślałem, że może Sinthia będzie to nosić? No wiesz, jak zostanie kapitanem?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaptainsJacket/Section ds7": {
+        "en": "I think it might be too big for her.",
+        "pl": "Myślę, że może być na nią za duże.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE CaptainsLog": {
+      "Conversation/Dirk CLUE CaptainsLog/Section ds6": {
+        "en": "Yeah... guess not.",
+        "pl": "Tak... chyba nie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds7": {
+        "en": "...Huh. That's kinda weird.",
+        "pl": "...Huh. To trochę dziwne.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds8": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds9": {
+        "en": "He doesn't have a signature - Mortuga. He writes his name differently every time.",
+        "pl": "Nie ma podpisu - Mortuga. Za każdym razem pisze swoje imię inaczej.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds10": {
+        "en": "Oh yeah.\nI wonder if it's on purpose.",
+        "pl": "A tak.\nCiekawe, czy to celowe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds12": {
+        "en": "Maybe he just never bothered to decide on one.",
+        "pl": "Może po prostu nigdy nie zawracał sobie głowy ustaleniem jednego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CaptainsLog/Section ds15": {
+        "en": "Right.\n-doesn't seem like he was a... [i]paperwork[/i] kinda guy.",
+        "pl": "No właśnie.\n-nie wygląda na to, żeby był typem od... [i]papierkowej roboty.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE CaretakersJournal": {
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds0": {
+        "en": "Where does Zephyr [h]find[/h] this stuff?",
+        "pl": "Gdzie Zephyr [h]znajduje[/h] takie rzeczy?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds6": {
+        "en": "I'm pretty sure they don't sell this magazine at my local newstand.",
+        "pl": "Jestem całkiem pewien, że nie sprzedają tego magazynu w moim lokalnym kiosku.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds7": {
+        "en": "...maybe on mail-order...",
+        "pl": "...może w sprzedaży wysyłkowej...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds8": {
+        "en": "...I think it's more of a black market thing.",
+        "pl": "...myślę, że to raczej coś z czarnego rynku.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds13": {
+        "en": "Huh. Some of the listings in here, the prices are in [h]ounces[/h]... and there's a symbol?",
+        "pl": "Huh. W niektórych ogłoszeniach tutaj ceny są w [h]uncjach...[/h] i jest jakiś symbol?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds14": {
+        "en": "It's the alchemical symbol for gold.",
+        "pl": "To alchemiczny symbol złota.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds15": {
+        "en": "For real?",
+        "pl": "Serio?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaretakersJournal/Section ds16": {
+        "en": "Man, is Zephyr like secretly [h]super rich?[/h]",
+        "pl": "Stary, czy Zephyr jest jakoś w tajemnicy [h]super bogaty?[/h]",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE CaseFile": {
+      "Conversation/Dirk CLUE CaseFile/Section ds0": {
+        "en": "So - Sinthia hired you to solve the murder, huh?",
+        "pl": "Więc - Sinthia was wynajęła, żeby rozwiązać morderstwo, tak?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds6": {
+        "en": "Pretty much.",
+        "pl": "Mniej więcej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds7": {
+        "en": "How much do you charge? Is it like a day rate, or - what?",
+        "pl": "Ile bierzecie? To jakaś stawka dzienna, czy - co?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds8": {
+        "en": "Oh, uh - it, uh - you know it - it depends.",
+        "pl": "Och, yy - to, yy - no wiesz - to zależy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds9": {
+        "en": "-just ballpark it, how much did you make from the last case you solved?",
+        "pl": "-po prostu w przybliżeniu, ile zarobiliście na ostatniej rozwiązanej sprawie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds10": {
+        "en": "[h]Good question.[/h] Grimoire, how much [h]did[/h] we make from the Tangle Tower case?",
+        "pl": "[h]Dobre pytanie.[/h] Grimoire, ile [h]zarobiliśmy[/h] na sprawie Tangle Tower?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds11": {
+        "en": "Uh, well - you know...",
+        "pl": "Yy, cóż - no wiesz...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds13": {
+        "en": "You never secured the payment, huh?",
+        "pl": "Nigdy nie zabezpieczyliście płatności, co?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CaseFile/Section ds17": {
+        "en": "[i]Extenuating[/i] circumstances, uh, being what they [i]were...[/i]",
+        "pl": "[i]Łagodzące[/i] okoliczności, yy, jakimi [i]były...[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE CellPhone": {
+      "Conversation/Dirk CLUE CellPhone/Section ds0": {
+        "en": "This is yours, Dirk?",
+        "pl": "To twoje, Dirk?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CellPhone/Section ds6": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CellPhone/Section ds7": {
+        "en": "We literally found it in the pocket of your tuxedo.",
+        "pl": "Dosłownie znaleźliśmy to w kieszeni twojego smokingu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CellPhone/Section ds8": {
+        "en": "How d'you know for sure it's [i]my[/i] tuxedo?",
+        "pl": "Skąd wiecie na pewno, że to [i]mój[/i] smoking?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CellPhone/Section ds9": {
+        "en": "Dirk. Show me one other living soul on this submarine that could even [h]conceivably[/h] own a tuxedo.",
+        "pl": "Dirk. Pokaż mi jedną inną żywą duszę na tej łodzi podwodnej, która [h]w ogóle mogłaby[/h] mieć smoking.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CellPhone/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE CommandContract": {
+      "Conversation/Dirk CLUE CommandContract/Section ds0": {
+        "en": "No... I don't like this at [h]all...[/h]",
+        "pl": "Nie... [h]zupełnie[/h] mi się to nie podoba...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds6": {
+        "en": "Why not?\nYou think she misread it?",
+        "pl": "Czemu nie?\nMyślisz, że źle to odczytała?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds8": {
+        "en": "No, it's not that-",
+        "pl": "Nie, nie o to chodzi-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds9": {
+        "en": "She shouldn't have signed it.",
+        "pl": "Nie powinna była tego podpisywać.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds10": {
+        "en": "Or what - Mortuga forced her to sign it?",
+        "pl": "Albo co - Mortuga zmusił ją, żeby to podpisała?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds13": {
+        "en": "I don't really see the problem. Sinthia wanted to be captain, and now she's captain.",
+        "pl": "Nie widzę tu problemu. Sinthia chciała być kapitanem, i teraz jest kapitanem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds15": {
+        "en": "Whoa, wait - [h]this[/h] is the contract Sinthia signed to become captain??",
+        "pl": "Whoa, czekajcie - [h]to[/h] jest kontrakt, który Sinthia podpisała, żeby zostać kapitanem??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds16": {
+        "en": "Seems that way.\nWhat's the problem?",
+        "pl": "Wygląda na to.\nO co chodzi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CommandContract/Section ds19": {
+        "en": "I guess.",
+        "pl": "Chyba tak.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE CurseCauldron": {
+      "Conversation/Dirk CLUE CurseCauldron/Section ds0": {
+        "en": "Man... Mortuga really was an odd duck, wasn't he?",
+        "pl": "Stary... Mortuga naprawdę był dziwakiem, co nie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds6": {
+        "en": "I mean, who [i]owns[/i] something like this?? What's it even [i]for?[/i]",
+        "pl": "To znaczy, kto [i]posiada[/i] coś takiego?? Do czego to w ogóle [i]służy?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds7": {
+        "en": "It used to be locked, so I think he kept something inside it.",
+        "pl": "Kiedyś było zamknięte, więc myślę, że trzymał tam coś w środku.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds8": {
+        "en": "Oh, what - and it got [h]stolen?[/h] The thing - whatever it was?",
+        "pl": "O, co - i to zostało [h]skradzione?[/h] Ta rzecz - czymkolwiek była?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds10": {
+        "en": "Maybe, yeah.",
+        "pl": "Może, tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds11": {
+        "en": "Whoa... I wonder where it is now??",
+        "pl": "Whoa... ciekawe, gdzie to teraz jest??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds13": {
+        "en": "Hard to say, since we don't know what we're looking for. But - [h]somewhere[/h] on the submarine, I guess.",
+        "pl": "Trudno powiedzieć, skoro nie wiemy, czego szukamy. Ale - [h]gdzieś[/h] na łodzi podwodnej, zgaduję.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds14": {
+        "en": "Not neccessarily, someone could've thrown it into the ocean!",
+        "pl": "Niekoniecznie, ktoś mógł to wyrzucić do oceanu!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE CurseCauldron/Section ds15": {
+        "en": "Oh, great.",
+        "pl": "O, świetnie.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE DivingLicense": {
+      "Conversation/Dirk CLUE DivingLicense/Section ds0": {
+        "en": "Hey, wow. Uh, did Tadpole give you that?",
+        "pl": "Hej, wow. Yy, Tadpole ci to dała?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds6": {
+        "en": "No, we found it in the bilge. You think it belongs to her?",
+        "pl": "Nie, znaleźliśmy to w zęzie. Myślisz, że to należy do niej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds8": {
+        "en": "Nah, it's [h]gotta[/h] be hers, you're right about the photo, though - her hair is brown, here...",
+        "pl": "Nie, to [h]musi[/h] być jej, chociaż masz rację co do zdjęcia - tutaj ma brązowe włosy...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds15": {
+        "en": "It would make sense...\nAlthough the woman in the photo looks a [i]little[/i] different.",
+        "pl": "Miałoby to sens...\nChociaż kobieta na zdjęciu wygląda [i]trochę[/i] inaczej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds20": {
+        "en": "[h]So what?[/h] It's a free country!",
+        "pl": "[h]No i co?[/h] To wolny kraj!",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE DivingLicense/Section ds22": {
+        "en": "I guess she dyes it green nowadays?",
+        "pl": "Zgaduję, że teraz farbuje je na zielono?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE DreamHelmet": {
+      "Conversation/Dirk CLUE DreamHelmet/Section ds0": {
+        "en": "Dr Z told me this is a [i]'Dream Helmet'?[/i]",
+        "pl": "Doktor Z powiedział mi, że to [i]'Hełm Snów'?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds6": {
+        "en": "Have you tried it out?",
+        "pl": "Wypróbowałeś go?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds7": {
+        "en": "Nope. I don't dream.",
+        "pl": "Nie. Nie śnię.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds8": {
+        "en": "[h]What?[/h] Yes you [i]do.[/i]",
+        "pl": "[h]Co?[/h] [i]Owszem,[/i] śnisz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds11": {
+        "en": "No time, bro, gotta optimize that sleep cycle, you know - [i]if you're dreaming, you're not resting.[/i]",
+        "pl": "Nie ma czasu, stary, trzeba zoptymalizować cykl snu, no wiesz - [i]jak śnisz, to nie odpoczywasz.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds12": {
+        "en": "You're insane.",
+        "pl": "Jesteś szalony.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE DreamHelmet/Section ds13": {
+        "en": "Ha - little bit.",
+        "pl": "Ha - trochę.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE DriftwoodCane": {
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds0": {
+        "en": "I don't get it.",
+        "pl": "Nie rozumiem tego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds6": {
+        "en": "What's not to get?\nIt's a cane with a face!",
+        "pl": "Co tu nie rozumieć?\nTo laska z twarzą!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds7": {
+        "en": "Okay, so - for real, Gripp's actually, like, [h]super[/h] smart.",
+        "pl": "Okej, więc - na serio, Gripp jest tak naprawdę, no wiesz, [h]super[/h] mądry.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds8": {
+        "en": "[i]W-why?[/i] Why bother with the - the cane, and the whole persona?",
+        "pl": "[i]C-czemu?[/i] Po co zawracać sobie głowę - laską i całą tą personą?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds11": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE DriftwoodCane/Section ds12": {
+        "en": "See - this is my point! He [h]hides[/h] it!",
+        "pl": "No właśnie - o to mi chodzi! On to [h]ukrywa![/h]",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE FamilyPhoto": {
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds6": {
+        "en": "-is that Sinthia's mom??",
+        "pl": "-to mama Sinthii??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds7": {
+        "en": "Yeah, I think so.",
+        "pl": "Tak, chyba tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds8": {
+        "en": "That jacket is something [h]else![/h]",
+        "pl": "Ta marynarka to coś [h]innego![/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds9": {
+        "en": "It... could do with a bit of [i]ageing[/i], though.",
+        "pl": "Choć... przydałoby jej się trochę [i]postarzenia.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds10": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds11": {
+        "en": "Well, it's pristine, but - stuff like that doesn't look so hot when it's brand new.",
+        "pl": "No, jest nieskazitelna, ale - takie rzeczy nie wyglądają zbyt dobrze, kiedy są nowiuteńkie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds12": {
+        "en": "On our [i]movie[/i], we had a guy who roughed up all the outfits, made them look [i]lived-in[/i], you know.",
+        "pl": "Przy naszym [i]filmie[/i] mieliśmy gościa, który przecierał wszystkie stroje, żeby wyglądały [i]znoszone,[/i] no wiesz.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds14": {
+        "en": "So this photo is the first time Sinthia's mom wore that jacket?",
+        "pl": "Więc na tym zdjęciu mama Sinthii nosi tę marynarkę po raz pierwszy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FamilyPhoto/Section ds15": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE FeliciaPainting": {
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds0": {
+        "en": "What a babe.",
+        "pl": "Co za laska.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds6": {
+        "en": "Uh... I don't think so, she-",
+        "pl": "Yy... nie sądzę, ona-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds7": {
+        "en": "This Mortuga's [i]girlfriend[/i] or something?",
+        "pl": "To [i]dziewczyna[/i] Mortugi czy coś?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds8": {
+        "en": "I mean... yeah.",
+        "pl": "To znaczy... tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds9": {
+        "en": "[h]Of course[/h] he'd land a girl like this. [h]Of course![/h]",
+        "pl": "[h]Oczywiście,[/h] że zdobyłby taką laskę. [h]Oczywiście![/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds10": {
+        "en": "...I dunno, wasn't he kind of a gloomy loner?",
+        "pl": "...nie wiem, czy nie był takim ponurym samotnikiem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds11": {
+        "en": "Hahaha - chicks eat that [h]up,[/h] man.",
+        "pl": "Hahaha - laski to [h]uwielbiają,[/h] stary.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FeliciaPainting/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE Figurehead": {
+      "Conversation/Dirk CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE FilmProjector": {
+      "Conversation/Dirk CLUE FilmProjector/Section ds0": {
+        "en": "Dirk, you're a [i]movie[/i] kinda guy - is this your projector?",
+        "pl": "Dirk, jesteś typem od [i]filmów[/i] - to twój projektor?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds6": {
+        "en": "Nope! Not mi-",
+        "pl": "Nie! To nie mo-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds7": {
+        "en": "The film reel?",
+        "pl": "Taśma filmowa?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds8": {
+        "en": "Yup. I thought I'd lost it! I guess I [i]did[/i], huh.",
+        "pl": "Ta. Myślałem, że ją zgubiłem! Zgaduję, że [i]jednak[/i] tak, co.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds10": {
+        "en": "What's on it?",
+        "pl": "Co na niej jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds11": {
+        "en": "Uhh, [h]that[/h] is, though.",
+        "pl": "Yy, ale [h]to[/h] jest to.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds12": {
+        "en": "Oh, it's just like, um - a bit of a scene... a [i]daily[/i], you know.",
+        "pl": "Och, to tylko, no, yy - fragment sceny... [i]dzienny materiał,[/i] no wiesz.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds13": {
+        "en": "No...?",
+        "pl": "Nie...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds14": {
+        "en": "Where'd you get it from?",
+        "pl": "Skąd to masz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds15": {
+        "en": "It was a gift from the studio - lil' souvenir.",
+        "pl": "To był prezent od wytwórni - mała pamiątka.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds16": {
+        "en": "Where did you lose it?",
+        "pl": "Gdzie to zgubiłeś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds17": {
+        "en": "I dunno, Mess Hall, probably? Where did you [i]find[/i] it?",
+        "pl": "Nie wiem, w Mesie, pewnie? Gdzie to [i]znaleźliście?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds18": {
+        "en": "It was in the hollowed out stomach of a do-",
+        "pl": "Było w wydrążonym brzuchu la-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds19": {
+        "en": "It was in a cabinet.\nNormal - cabinet.",
+        "pl": "Było w szafce.\nZwykłej - szafce.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds20": {
+        "en": "Oh! Okay. Cool.",
+        "pl": "O! Okej. Spoko.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FilmProjector/Section ds21": {
+        "en": "So, uh... can I have it back?",
+        "pl": "Więc, yy... mogę to odzyskać?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE FogBall": {
+      "Conversation/Dirk CLUE FogBall/Section ds0": {
+        "en": "-is that a [i]crystal ball?[/i]",
+        "pl": "-to [i]kryształowa kula?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds6": {
+        "en": "-I think it's made of glass.",
+        "pl": "-myślę, że jest zrobiona ze szkła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds7": {
+        "en": "Right - but - a crystal ball in the sense that it's a magic ball you look into and see your future or whatever?",
+        "pl": "No dobra - ale - kryształowa kula w sensie, że to magiczna kula, do której zaglądasz i widzisz swoją przyszłość czy coś?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds8": {
+        "en": "Oh.\nYeah, I guess.",
+        "pl": "Och.\nTak, chyba tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds9": {
+        "en": "Why don't [h]you[/h] look into it - you'll see yourself solving the murder - and then you'll know who did it.",
+        "pl": "Czemu [h]ty[/h] tam nie zajrzysz - zobaczysz siebie, jak rozwiązujesz morderstwo - i wtedy będziesz wiedział, kto to zrobił.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds10": {
+        "en": "It's genius.",
+        "pl": "To genialne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE FogBall/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE GlassEyeball": {
+      "Conversation/Dirk CLUE GlassEyeball/Section ds0": {
+        "en": "Someone lose an eye?",
+        "pl": "Ktoś stracił oko?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds6": {
+        "en": "It's not real.",
+        "pl": "Nie jest prawdziwe.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds11": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds12": {
+        "en": "Uh, s'got a weird smell.",
+        "pl": "Yy, ma dziwny zapach.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds13": {
+        "en": "So?",
+        "pl": "No i?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds14": {
+        "en": "So maybe try asking Mariana about it, she's got a [i]wicked[/i] sense of smell - like a [i]dog.[/i]",
+        "pl": "No to może spróbuj zapytać o to Marianę, ma [i]niesamowity[/i] węch - jak [i]pies.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE GlassEyeball/Section ds16": {
+        "en": "I'm serious!",
+        "pl": "Mówię poważnie!",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE GoldenLocket": {
+      "Conversation/Dirk CLUE GoldenLocket/Section ds0": {
+        "en": "Hey! It's Sym's necklace locket thing.",
+        "pl": "Hej! To ten naszyjnik-medalion Sym.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GoldenLocket/Section ds6": {
+        "en": "Any idea what she keeps in there?",
+        "pl": "Masz pojęcie, co ona tam trzyma?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GoldenLocket/Section ds9": {
+        "en": "It's not really my business.",
+        "pl": "To tak naprawdę nie moja sprawa.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE GoldenLocket/Section ds10": {
+        "en": "Unless you decide it's related to the [i]murder[/i]. Then you'd be all over it, I bet.",
+        "pl": "Chyba że uznasz, że jest związane z [i]morderstwem.[/i] Wtedy założę się, że wgryzłbyś się w to.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE GoldenLocket/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE GoldenLocket/Section ds12": {
+        "en": "Dang. Called out.",
+        "pl": "O rany. Przyłapany.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE HandheldRadio": {
+      "Conversation/Dirk CLUE HandheldRadio/Section ds6": {
+        "en": "...a radio? What's the range on that thing?",
+        "pl": "...radio? Jaki ma zasięg ta rzecz?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandheldRadio/Section ds7": {
+        "en": "No idea. I'm pretty sure it's broken anyway.",
+        "pl": "Nie mam pojęcia. Jestem całkiem pewien, że i tak jest zepsute.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE HandheldRadio/Section ds10": {
+        "en": "It might get a better signal up in the control room, or up on deck.",
+        "pl": "Może mieć lepszy sygnał w sterowni, albo na pokładzie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandheldRadio/Section ds11": {
+        "en": "Down here you get nothing - the walls are way too thick.",
+        "pl": "Tu na dole nic nie łapiesz - ściany są o wiele za grube.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandheldRadio/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE HandwrittenLetter": {
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds7": {
+        "en": "Oh, hey, you found Wirman's letter.",
+        "pl": "O, hej, znaleźliście list Wirmana.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds9": {
+        "en": "Have you read it?",
+        "pl": "Czytałeś go?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds10": {
+        "en": "Uh, no - generally speaking you [i]do not[/i] read another dude's fanmail.",
+        "pl": "Yy, nie - ogólnie rzecz biorąc [i]nie czyta się[/i] czyjejś poczty od fanów.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds11": {
+        "en": "What makes you think it's fanmail?",
+        "pl": "Czemu myślisz, że to poczta od fana?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds14": {
+        "en": "Wirman read that thing a [h]hundred[/h] times over on the journey down here.",
+        "pl": "Wirman przeczytał to ze [h]sto[/h] razy w drodze tutaj.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds15": {
+        "en": "I just figured... must be something nice, you know?",
+        "pl": "Po prostu pomyślałem... to musi być coś miłego, no wiesz?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HandwrittenLetter/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE HexBottle": {
+      "Conversation/Dirk CLUE HexBottle/Section ds0": {
+        "en": "Hey, so - remind me what a [i]Hex[/i] is again?",
+        "pl": "Hej, więc - przypomnij mi, czym jest [i]Hex?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds6": {
+        "en": "It's... not a made up word.\nA Hex is a magic spell - kinda like a curse.",
+        "pl": "To... nie zmyślone słowo.\nHex to magiczne zaklęcie - coś jak klątwa.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds7": {
+        "en": "Or it can mean [i]six[/i] - as in hexagon.",
+        "pl": "Albo może oznaczać [i]sześć[/i] - jak w heksagonie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds8": {
+        "en": "Ahh, gotcha... okay...",
+        "pl": "Ach, rozumiem... okej...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds10": {
+        "en": "I... I was hoping that would clear up what a [i]Hex Bottle[/i] was, but no dice.",
+        "pl": "Ja... miałem nadzieję, że to wyjaśni, czym jest [i]Butelka Hexa,[/i] ale nic z tego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds13": {
+        "en": "Didn't you [h]just[/h] make a movie called [i]'Hex of the Helmsman'[/i]??",
+        "pl": "Czy nie nakręciłeś [h]właśnie[/h] filmu pod tytułem [i]'Klątwa Sternika'?![/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexBottle/Section ds14": {
+        "en": "Right, right, but - look - I'm bad with learning what the made up words mean.",
+        "pl": "No tak, tak, ale - słuchaj - jestem słaby w zapamiętywaniu, co znaczą zmyślone słowa.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE HexoftheHelmsman": {
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds0": {
+        "en": "Whoa, this is a first [h]edish!![/h]\nWho's [h]is[/h] this?",
+        "pl": "Whoa, to pierwsze [h]wydanie!![/h]\nCzyje [h]to[/h] jest?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds6": {
+        "en": "It's mine.",
+        "pl": "Moje.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds7": {
+        "en": "You gonna get Wirmo to sign it?",
+        "pl": "Dasz to podpisać Wirmowi?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds8": {
+        "en": "No... I hadn't planned on it.",
+        "pl": "Nie... nie miałam takiego planu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds9": {
+        "en": "He'd do it if you asked! I bet he'd even do a little [i]doodle[/i] on the inside cover.",
+        "pl": "Zrobiłby to, gdybyś poprosiła! Założę się, że narysowałby nawet mały [i]bazgroł[/i] na wewnętrznej okładce.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds10": {
+        "en": "...okay maybe I do want that.",
+        "pl": "...okej, może jednak tego chcę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds11": {
+        "en": "I assume you've read it, Dirk?",
+        "pl": "Zakładam, że to czytałeś, Dirk?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds12": {
+        "en": "Of course, dude - first thing I did when I landed the part in the movie.",
+        "pl": "Jasne, stary - pierwsza rzecz, którą zrobiłem, kiedy dostałem tę rolę w filmie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds13": {
+        "en": "What did you think?",
+        "pl": "Co myślisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds14": {
+        "en": "Loved it. I'd never thought about the sea so much in my whole life.",
+        "pl": "Uwielbiałem. Nigdy w życiu tyle nie myślałem o morzu.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE HexoftheHelmsman/Section ds15": {
+        "en": "It's almost like... the ocean in the book... it represents something... bigger, you know?",
+        "pl": "To prawie jakby... ocean w tej książce... reprezentował coś... większego, no wiesz?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE IllusionistPoster": {
+      "Conversation/Dirk CLUE IllusionistPoster/Section ds0": {
+        "en": "Huh. Who's that little grim reaper guy in the drawing?",
+        "pl": "Huh. Kim jest ten mały koleś-kostucha na rysunku?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE IllusionistPoster/Section ds6": {
+        "en": "I'm not sure. You recognise it?",
+        "pl": "Nie jestem pewna. Rozpoznajesz go?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE IllusionistPoster/Section ds7": {
+        "en": "It does seem kinda familiar, for - some reason?",
+        "pl": "Wygląda jakoś znajomo, z jakiegoś... powodu?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE InnDeeds": {
+      "Conversation/Dirk CLUE InnDeeds/Section ds0": {
+        "en": "That is one [h]old[/h] document.",
+        "pl": "To jest jeden [h]stary[/h] dokument.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds6": {
+        "en": "I'd be surprised if it hasn't expired by now...",
+        "pl": "Byłbym zaskoczony, gdyby do tej pory nie stracił ważności...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds7": {
+        "en": "Expired?",
+        "pl": "Stracił ważność?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds8": {
+        "en": "Yeah, things like this normally have an agreed upon-",
+        "pl": "Tak, takie rzeczy zazwyczaj mają uzgodniony-",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds9": {
+        "en": "Oh, no - there's no date.",
+        "pl": "A nie - nie ma daty.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds10": {
+        "en": "Huh. I guess it runs in perpetuity.",
+        "pl": "Huh. Zgaduję, że obowiązuje wieczyście.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds11": {
+        "en": "What about if you ripped it in half?",
+        "pl": "A co, gdybyś podarł go na pół?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds13": {
+        "en": "Ha, you know what - I found that doesn't actually do jack?",
+        "pl": "Ha, wiesz co - okazało się, że to wcale nic nie daje?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds14": {
+        "en": "No, I know - it works in the movies, but in real life, voiding a contract is a more [i]complex procedure.[/i]",
+        "pl": "Nie, wiem - w filmach to działa, ale w prawdziwym życiu unieważnienie kontraktu to bardziej [i]skomplikowana procedura.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE InnDeeds/Section ds15": {
+        "en": "Well that's no fun.",
+        "pl": "No to niezbyt zabawne.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE IronBell": {
+      "Conversation/Dirk CLUE IronBell/Section ds0": {
+        "en": "What does it [h]do??[/h]",
+        "pl": "Co to [h]robi??[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE IronBell/Section ds6": {
+        "en": "I thought it was a bell.",
+        "pl": "Myślałam, że to dzwon.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE IronBell/Section ds7": {
+        "en": "Only it doesn't actually ring, so... not really a bell, but-",
+        "pl": "Tylko że tak naprawdę nie dzwoni, więc... nie do końca dzwon, ale-",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE IronBell/Section ds8": {
+        "en": "Nah I think it's some kinda... [i]mechanism.[/i]",
+        "pl": "Nie, myślę, że to jakiś... [i]mechanizm.[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE IronBell/Section ds9": {
+        "en": "The bit sticking out the bottom looks a bit like a screwdriver. Don't you think?",
+        "pl": "Ta część wystająca z dołu wygląda trochę jak śrubokręt. Nie sądzicie?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE IronBell/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Dirk CLUE LifesizeDoll": {
+      "Conversation/Dirk CLUE LifesizeDoll/Section ds0": {
+        "en": "Hey, I didn't know Sym had a stunt dummy.",
+        "pl": "Hej, nie wiedziałem, że Sym ma manekina kaskaderskiego.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE LifesizeDoll/Section ds6": {
+        "en": "It's not a stunt-",
+        "pl": "To nie manekin kaskader-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE LifesizeDoll/Section ds7": {
+        "en": "She planning to do a scene where she falls off a cliff into a crocodile-infested river?",
+        "pl": "Planuje nakręcić scenę, w której spada z klifu do rzeki pełnej krokodyli?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE LifesizeDoll/Section ds8": {
+        "en": "When the stunt is that dangerous, and the stunt guy refuses to do it - you use the dummy.",
+        "pl": "Kiedy kaskaderka jest tak niebezpieczna, a kaskader odmawia jej zrobienia - używasz manekina.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE LifesizeDoll/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE MermaidPainting": {
+      "Conversation/Dirk CLUE MermaidPainting/Section ds8": {
+        "en": "[h]'HER.'[/h]\nHa. Deliberately vague title. Love it.",
+        "pl": "[h]'JEJ.'[/h]\nHa. Celowo mglisty tytuł. Uwielbiam.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE MessageinaBottle": {
+      "Conversation/Dirk CLUE MessageinaBottle/Section ds0": {
+        "en": "That's my bottle!",
+        "pl": "To moja butelka!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MessageinaBottle/Section ds6": {
+        "en": "What?\nUh - really?",
+        "pl": "Co?\nYy - naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE MessageinaBottle/Section ds7": {
+        "en": "Yeah, that's one of my non-alcoholic beers.",
+        "pl": "Tak, to jedno z moich bezalkoholowych piw.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MessageinaBottle/Section ds8": {
+        "en": "Course, someone's waxed up the top and put a whole bunch of green stuff on the bottom...",
+        "pl": "Jasne, ktoś zalał wierzch woskiem i wsadził na dno całą masę zielonych rzeczy...",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE ModelTown": {
+      "Conversation/Dirk CLUE ModelTown/Section ds0": {
+        "en": "Hey, that's pretty cute.",
+        "pl": "Hej, to całkiem urocze.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ModelTown/Section ds8": {
+        "en": "Do you recognise any of the buildings?",
+        "pl": "Rozpoznajesz jakieś z tych budynków?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE ModelTown/Section ds9": {
+        "en": "Oh - is it supposed to be something specific??",
+        "pl": "O - to ma przedstawiać coś konkretnego??",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ModelTown/Section ds10": {
+        "en": "I thought it was just, like, you know - [i]toytown[/i] or whatever.",
+        "pl": "Myślałem, że to po prostu, no wiesz - jakieś [i]miasteczko-zabawka[/i] czy coś.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ModelTown/Section ds12": {
+        "en": "Never mind.",
+        "pl": "Nieważne.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE MoonVial": {
+      "Conversation/Dirk CLUE MoonVial/Section ds0": {
+        "en": "Someone drop their perfume...?",
+        "pl": "Ktoś zgubił swoje perfumy...?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MoonVial/Section ds10": {
+        "en": "...bummer, that stuff can get [i]expensive.[/i]",
+        "pl": "...szkoda, to coś może być [i]drogie.[/i]",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE MourningEnvelope": {
+      "Conversation/Dirk CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE MovieMagazine": {
+      "Conversation/Dirk CLUE MovieMagazine/Section ds0": {
+        "en": "Lookin' good, Julie.",
+        "pl": "Wyglądasz dobrze, Julie.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds6": {
+        "en": "I assume this is yours, Dirk.",
+        "pl": "Zakładam, że to twoje, Dirk.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds7": {
+        "en": "Yeah - I let the kids borrow it, since there weren't a lot of other magazines on board...",
+        "pl": "Tak - pożyczyłem to dzieciakom, bo nie było wielu innych magazynów na pokładzie...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds8": {
+        "en": "I noticed on the back - there's an advert for your movie.",
+        "pl": "Zauważyłem z tyłu - jest reklama twojego filmu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds9": {
+        "en": "Yup. That's me on the left, all dolled up as Markus Mordoom, the [i]titular[/i] helmsman.",
+        "pl": "Ta. To ja po lewej, wystrojony za Markusa Mordooma, [i]tytułowego[/i] sternika.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds10": {
+        "en": "Right, you're the title character, but, there's uh - only one name at the top.",
+        "pl": "No tak, jesteś tytułową postacią, ale, jest, yy - tylko jedno imię na górze.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds11": {
+        "en": "Oh... you noticed?",
+        "pl": "O... zauważyłaś?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds12": {
+        "en": "Uh - Julie was already a big name, so... you know, she got her name on the poster.",
+        "pl": "Yy - Julie była już wielką nazwą, więc... no wiesz, jej imię trafiło na plakat.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds13": {
+        "en": "Seems unfair.",
+        "pl": "Wydaje się niesprawiedliwe.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds14": {
+        "en": "...well, I'm sure when they make the sequel, Dirk's name will be front and centre.",
+        "pl": "...cóż, jestem pewien, że kiedy zrobią kontynuację, imię Dirka będzie na samym środku.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds15": {
+        "en": "R-right.",
+        "pl": "N-no tak.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds16": {
+        "en": "-you're featured in the interview, though!",
+        "pl": "-ale jesteś w wywiadzie!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds17": {
+        "en": "Uh, right at the... end.",
+        "pl": "Yy, na samym... końcu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds18": {
+        "en": "And they spelled your name wrong.",
+        "pl": "I źle napisali twoje imię.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE MovieMagazine/Section ds20": {
+        "en": "Are we done looking at the magazine?",
+        "pl": "Skończyliśmy oglądać ten magazyn?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE NewspaperPage": {
+      "Conversation/Dirk CLUE NewspaperPage/Section ds0": {
+        "en": "Hey, the guy who wrote this review has the same name as...",
+        "pl": "Hej, koleś, który napisał tę recenzję, ma takie samo imię jak...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE NewspaperPage/Section ds6": {
+        "en": "As - who?",
+        "pl": "Jak - kto?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE NewspaperPage/Section ds12": {
+        "en": "I'm - I'm not sure if I'm allowed to say.",
+        "pl": "Ja - nie jestem pewien, czy mogę powiedzieć.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE NewspaperPage/Section ds16": {
+        "en": "...as, um...",
+        "pl": "...jak, yy...",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE OceanTreasure": {
+      "Conversation/Dirk CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE Pocketbook": {
+      "Conversation/Dirk CLUE Pocketbook/Section ds0": {
+        "en": "Oh, a combination lock - let me try...",
+        "pl": "O, zamek szyfrowy - dajcie spróbować...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds8": {
+        "en": "Yep. Got it.",
+        "pl": "Ta. Mam.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds9": {
+        "en": "How did you know the code?",
+        "pl": "Skąd znałeś kod?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds10": {
+        "en": "Easy. It was her birthday.",
+        "pl": "Łatwe. To były jej urodziny.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds11": {
+        "en": "Huh!",
+        "pl": "Huh!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds14": {
+        "en": "It belongs to Madam Tadpole, but it's locked.",
+        "pl": "To należy do Madam Tadpole, ale jest zamknięte.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE Pocketbook/Section ds15": {
+        "en": "What's that?",
+        "pl": "Co to jest?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE RaggedCloth": {
+      "Conversation/Dirk CLUE RaggedCloth/Section ds0": {
+        "en": "What's the deal with those holes along the sides?",
+        "pl": "O co chodzi z tymi dziurami po bokach?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE RaggedCloth/Section ds6": {
+        "en": "They're from when it was a sail.",
+        "pl": "Są z czasów, kiedy to był żagiel.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE RaggedCloth/Section ds12": {
+        "en": "Why would a submarine need a sail??",
+        "pl": "Po co łodzi podwodnej potrzebny żagiel??",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE RippedScroll": {
+      "Conversation/Dirk CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE SeaChart": {
+      "Conversation/Dirk CLUE SeaChart/Section ds8": {
+        "en": "Dude, there's a big red X. You gotta assume that's a treasure.",
+        "pl": "Stary, jest wielki czerwony X. Musicie założyć, że to skarb.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SeaChart/Section ds10": {
+        "en": "A big chest of gold doubloons, you think?",
+        "pl": "Wielka skrzynia złotych dublonów, myślisz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE SeaChart/Section ds13": {
+        "en": "Oh, sweet, treasure map.",
+        "pl": "O, super, mapa skarbów.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SeaChart/Section ds14": {
+        "en": "-It doesn't specifically [h]say[/h] it's a treasure map.",
+        "pl": "-Nie [h]mówi[/h] konkretnie, że to mapa skarbów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE SeaChart/Section ds15": {
+        "en": "Oh man, that would be [i]awesome...[/i]",
+        "pl": "O stary, to byłoby [i]niesamowite...[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SeaChart/Section ds17": {
+        "en": "Although, thinking about it, d'you think anywhere still takes doubloons?",
+        "pl": "Chociaż, jak się nad tym zastanowić, myślicie, że ktokolwiek jeszcze przyjmuje dublony?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE ShipinaBottle": {
+      "Conversation/Dirk CLUE ShipinaBottle/Section ds0": {
+        "en": "Hey - is that the [i]Queen Serena?[/i]",
+        "pl": "Hej - to [i]Queen Serena?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ShipinaBottle/Section ds6": {
+        "en": "-is [h]that[/h] what the ship's called?",
+        "pl": "-czy [h]tak[/h] nazywa się ten statek?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE ShipinaBottle/Section ds7": {
+        "en": "No - that's the name of the ship in the [h]novel.[/h] And in Dirk's movie, too. I'm guessing.",
+        "pl": "Nie - tak nazywa się statek w [h]powieści.[/h] I w filmie Dirka też, jak zgaduję.",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE ShipsWheel": {
+      "Conversation/Dirk CLUE ShipsWheel/Section ds0": {
+        "en": "I got to steer a big wheel like this in my movie.",
+        "pl": "W moim filmie mogłem sterować takim wielkim kołem.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ShipsWheel/Section ds6": {
+        "en": "Mine didn't have that red metal bit, though.",
+        "pl": "Moje nie miało jednak tej czerwonej metalowej części.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE ShipsWheel/Section ds8": {
+        "en": "Also mine was up on the aft deck, not, you know, indoors in a control room.",
+        "pl": "Poza tym moje było na pokładzie rufowym, nie, no wiesz, w środku, w sterowni.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE SilkwirmMap": {
+      "Conversation/Dirk CLUE SilkwirmMap/Section ds0": {
+        "en": "It's a map - of Silkwirm?",
+        "pl": "To mapa - Silkwirm?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SilkwirmMap/Section ds6": {
+        "en": "I don't know much about the town, you'd be better off asking someone else.",
+        "pl": "Nie wiem wiele o miasteczku, lepiej zapytajcie kogoś innego.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE StrangeDevice": {
+      "Conversation/Dirk CLUE StrangeDevice/Section ds0": {
+        "en": "Ah!",
+        "pl": "Ach!",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds6": {
+        "en": "You know what this is, Dirk?",
+        "pl": "Wiesz, co to jest, Dirk?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds7": {
+        "en": "Um... [i]laser gun?[/i]",
+        "pl": "Yy... [i]pistolet laserowy?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds9": {
+        "en": "A laser gun.",
+        "pl": "Pistolet laserowy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds11": {
+        "en": "Well, whatever it is, I think it's broken.",
+        "pl": "Cóż, czymkolwiek jest, myślę, że jest zepsute.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds12": {
+        "en": "Wait, [h]really?[/h]",
+        "pl": "Czekaj, [h]naprawdę?[/h]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE StrangeDevice/Section ds14": {
+        "en": "I mean - [i]oh... what a shame.[/i]",
+        "pl": "To znaczy - [i]och... co za szkoda.[/i]",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE SubmarineBlueprint": {
+      "Conversation/Dirk CLUE SubmarineBlueprint/Section ds0": {
+        "en": "I'm glad Sinthia took my advice.",
+        "pl": "Cieszę się, że Sinthia posłuchała mojej rady.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SubmarineBlueprint/Section ds7": {
+        "en": "What advice?",
+        "pl": "Jakiej rady?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE SubmarineBlueprint/Section ds8": {
+        "en": "She was looking super tense, so I told her to pick up a hobby. Arts and crafts is a good choice.",
+        "pl": "Wyglądała na super spiętą, więc powiedziałem jej, żeby znalazła sobie hobby. Rękodzieło to dobry wybór.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE SunTablets": {
+      "Conversation/Dirk CLUE SunTablets/Section ds0": {
+        "en": "Oh, you found my tablets?",
+        "pl": "O, znaleźliście moje tabletki?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds6": {
+        "en": "What are they?",
+        "pl": "Czym są?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds9": {
+        "en": "Vitamin D. All three types.",
+        "pl": "Witamina D. Wszystkie trzy rodzaje.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds10": {
+        "en": "That's the one you get from sunlight?",
+        "pl": "To ta, którą dostaje się od światła słonecznego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds11": {
+        "en": "Yeah. ",
+        "pl": "Tak. ",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds14": {
+        "en": "How come you left them in the mess hall?",
+        "pl": "Czemu zostawiłeś je w mesie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds17": {
+        "en": "I figured the others might benefit from them...",
+        "pl": "Pomyślałem, że innym też się przydadzą...",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds18": {
+        "en": "Not sure I had any takers, though.",
+        "pl": "Chociaż nie jestem pewien, czy ktoś skorzystał.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE SunTablets/Section ds23": {
+        "en": "I [h]gotta[/h] take it while I'm down here - since I'm not getting natural light, you know...",
+        "pl": "[h]Muszę[/h] je brać, póki tu jestem na dole - skoro nie mam naturalnego światła, no wiesz...",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE TheMermaidsTongue": {
+      "Conversation/Dirk CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE Typewriter": {
+      "Conversation/Dirk CLUE Typewriter/Section ds0": {
+        "en": "Wirmo's typewriter - he lugged it all the way here.",
+        "pl": "Maszyna do pisania Wirma - przywlókł ją aż tutaj.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Typewriter/Section ds6": {
+        "en": "I tried to tell him about modern alternatives, but he wouldn't hear it.",
+        "pl": "Próbowałem mu opowiedzieć o nowoczesnych alternatywach, ale nie chciał słuchać.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Typewriter/Section ds7": {
+        "en": "Why d'you think he insists on using it?",
+        "pl": "Czemu, twoim zdaniem, upiera się, żeby jej używać?",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE Typewriter/Section ds8": {
+        "en": "Other than the fact that he's a big ol' poser?",
+        "pl": "Poza tym, że jest wielkim pozerem?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE Typewriter/Section ds9": {
+        "en": "I mean, probably because it used to belong to his Dad.",
+        "pl": "To znaczy, pewnie dlatego, że kiedyś należała do jego taty.",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE UnderwaterPhoto": {
+      "Conversation/Dirk CLUE UnderwaterPhoto/Section ds0": {
+        "en": "Um - I don't -",
+        "pl": "Yy - ja nie -",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE UnderwaterPhoto/Section ds7": {
+        "en": "I don't know what that is - it's making me nervous, though.",
+        "pl": "Nie wiem, co to jest - ale to mnie denerwuje.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE UnderwaterPhoto/Section ds9": {
+        "en": "Can we talk about something else?",
+        "pl": "Możemy porozmawiać o czymś innym?",
+        "speaker": "Dirk"
+      }
+    },
+    "Dirk CLUE WoodenBuoy": {
+      "Conversation/Dirk CLUE WoodenBuoy/Section ds0": {
+        "en": "I've seen this chained up on the fore deck, it's kind of intimidating, huh?",
+        "pl": "Widziałem to przykute na pokładzie dziobowym, trochę onieśmielające, co?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE WoodenBuoy/Section ds7": {
+        "en": "It's a buoy.",
+        "pl": "To boja.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE WoodenBuoy/Section ds8": {
+        "en": "For real?",
+        "pl": "Serio?",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE WoodenBuoy/Section ds9": {
+        "en": "Huh. It has long hair, so I always figured it was a girl.",
+        "pl": "Huh. Ma długie włosy, więc zawsze myślałem, że to dziewczyna.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE WoodenBuoy/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Dirk CLUE WoodenPipe": {
+      "Conversation/Dirk CLUE WoodenPipe/Section ds0": {
+        "en": "Mariana's pipe? ",
+        "pl": "Fajka Mariany? ",
+        "speaker": "Dirk"
+      },
+      "Conversation/Dirk CLUE WoodenPipe/Section ds6": {
+        "en": "Maybe she ran out of pipeweed.",
+        "pl": "Może skończył jej się tytoń fajkowy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE WoodenPipe/Section ds7": {
+        "en": "[i]Pipeweed[/i] - listen to yourself.",
+        "pl": "[i]Tytoń fajkowy[/i] - posłuchaj siebie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE WoodenPipe/Section ds8": {
+        "en": "What?? It's another word for tobacco!",
+        "pl": "Co?? To po prostu inne słowo na tytoń!",
+        "speaker": "Sally"
+      },
+      "Conversation/Dirk CLUE WoodenPipe/Section ds9": {
+        "en": "[i]Honestly...[/i]",
+        "pl": "[i]Doprawdy...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Dirk CLUE WoodenPipe/Section ds10": {
+        "en": "Huh. I've never actually seen her [h]smoke[/h] that thing...",
+        "pl": "Huh. Właściwie nigdy nie widziałem, żeby [h]paliła[/h] to coś...",
+        "speaker": "Dirk"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Dirk CLUE NewspaperPage - urwany dialog o autorze recenzji",
+      "problem": "Dialog o tym, ze autor recenzji ma takie samo imie jak ktos znajomy, urywa sie bez odpowiedzi (ds16 konczy sie '...jak, yy...' bez dokonczenia) - podobnie jak w zrodle (brak dalszych kluczy w tej scenie). Watek pozostaje niewyjasniony - mozliwe ze to nawiazanie do watku T. W. Ibisa (batch_39) lub Mayor Damian Dusk/ojca Wirmana (batch_60) - do sledzenia."
+    },
+    {
+      "term": "Dirk CLUE ShipinaBottle - 'Queen Serena'",
+      "problem": "Nowa nazwa fikcyjnego statku z powiesci/filmu Wirmana ('Queen Serena') - fikcjonalizowana wersja prawdziwego statku 'Dearest Selena'. Zostawiono bez tlumaczenia jak inne nazwy wlasne statkow w projekcie - do potwierdzenia spojnosci przy tlumaczeniu kolejnych partii dotyczacych ksiazki Wirmana."
+    }
+  ]
+}

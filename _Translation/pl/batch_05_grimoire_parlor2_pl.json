@@ -1,0 +1,522 @@
+{
+  "_meta": {
+    "batch": "Conversation/Grimoire 6 Parlor 2 (97 terminow) - duza scena zbiorowa, wyjasnienie czym jest Jezyk Syreny i mit o Syrenie.",
+    "date": "2026-07-23",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking). Choice/Request bez soulTalking - przypisane Grimoire (domniemany/opcja wyboru) analogicznie do poprzednich batchy.",
+    "new_glossary_terms": {
+      "The Mermaid": "Syrena (mityczna istota, tytulowa) - wielka litera jako wlasna nazwa/tytul",
+      "She Who Lies Beyond The Veil": "Ta, Ktora Lezy Poza Zaslona - mityczny epitet Syreny",
+      "Ocean Map": "Mapa Oceanu - nazwa dowodu",
+      "Wooden Buoy": "Drewniana Boja - nazwa dowodu",
+      "Cabinet of Curiosity": "Gabinet Osobliwosci (utarty polski termin na 'cabinet of curiosities') - mebel/lokacja nalezaca do Zephyra",
+      "Aft Deck": "Pokład Rufowy (analogicznie do Fore Deck -> Pokład Dziobowy z batch_04)",
+      "Dearest Selena": "NIE tlumaczone - wlasna nazwa statku (jak 'Mortuga Submarine'), No-Touch Zone",
+      "Selena Stonetop / Felicia Stonetop": "wlasne imiona, nieodmieniane nazwiska, imiona odmieniane (Seleny/Felicii) - potwierdzone przez usera"
+    },
+    "note_unknown_gender_culprit": "Kilka linii w oryginale uzywa zaimka 'they' celowo ukrywajacego plec sprawcy (twist fabularny - tozsamosc mordercy nieujawniona). Polski nie ma dobrego odpowiednika singularnego 'they', wiec zamiast zgadywac plec, uzylem rzeczownika 'sprawca' (gramatycznie meski, ale funkcjonujacy neutralnie/rodzajowo w polskim jako okreslenie roli) konsekwentnie zamiast zaimka - unika zdradzenia plci przed czasem."
+  },
+  "categories": {
+    "Grimoire 6 Parlor 2": {
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest1Detail0": {
+        "en": "Which part has information about what The Mermaid's Tongue does?",
+        "pl": "Która część zawiera informacje o tym, do czego służy Język Syreny?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest1Hint0": {
+        "en": "Some information about what The Mermaid's Tongue does...",
+        "pl": "Informacje o tym, do czego służy Język Syreny...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest1Hint1": {
+        "en": "Some information about what The Mermaid's Tongue does, printed in that 'Journal'...",
+        "pl": "Informacje o tym, do czego służy Język Syreny, wydrukowane w tym 'Dzienniku'...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest3Hint0": {
+        "en": "Evidence to show The Mermaid's Tongue has, historically, always been kept in the cauldron...",
+        "pl": "Dowód na to, że Język Syreny od zawsze, historycznie, był przechowywany w kotle...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest3Hint1": {
+        "en": "An old drawing or diagram that shows The Mermaid's Tongue has, historically, always been kept in the cauldron...",
+        "pl": "Stary rysunek lub diagram pokazujący, że Język Syreny od zawsze, historycznie, był przechowywany w kotle...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest4Hint0": {
+        "en": "An image of The Mermaid. There are two I can think of...",
+        "pl": "Wizerunek Syreny. Przychodzą mi do głowy dwa...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Request exitClueRequest4Hint1": {
+        "en": "An image of The Mermaid. One was a painting... the other was a kind of photograph...",
+        "pl": "Wizerunek Syreny. Jeden to obraz... drugi to coś w rodzaju fotografii...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/RequestSuffix exitClueRequest3 0": {
+        "en": "shows The Mermaid's Tongue in the cauldron.",
+        "pl": "pokazuje Język Syreny w kotle.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds100": {
+        "en": "Captain Felicia Stonetop and her helmsman, Magnus Mortuga.",
+        "pl": "Kapitan Felicia Stonetop i jej sternik, Magnus Mortuga.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds102": {
+        "en": "...and that's what Mortuga kept in the cauldron?",
+        "pl": "...i to właśnie Mortuga trzymał w kotle?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds103": {
+        "en": "But it was [i]empty[/i]. It's been empty since we discovered the murder.",
+        "pl": "Ale był [i]pusty[/i]. Jest pusty odkąd odkryliśmy morderstwo.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds105": {
+        "en": "Well - [i]we[/i] found it in Dr Zephyr's Cabinet of Curiosity.",
+        "pl": "Cóż - [i]my[/i] znaleźliśmy go w Gabinecie Osobliwości doktora Zephyra.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds106": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds107": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds108": {
+        "en": "How do you know...?",
+        "pl": "Skąd wiecie...?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds109": {
+        "en": "That's because it's a fake.",
+        "pl": "Bo to podróbka.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds110": {
+        "en": "That's because it's not complete.",
+        "pl": "Bo jest niekompletny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds111": {
+        "en": "[i]Kinda[/i] just looks like some [i]grody old leather mask...[/i]",
+        "pl": "[i]Wygląda[/i] jak jakaś [i]obskurna, stara skórzana maska...[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds111 Choice 1": {
+        "en": "That's because it's not complete.",
+        "pl": "Bo jest niekompletny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds111 Choice 2": {
+        "en": "That's because it's a fake.",
+        "pl": "Bo to podróbka.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds111 Choice 3": {
+        "en": "That's because it is.",
+        "pl": "Bo taka właśnie jest.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds111 Choice Question": {
+        "en": "It just looks like an old leather mask...?",
+        "pl": "Wygląda po prostu jak stara skórzana maska...?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds112": {
+        "en": "Wait - [i]'facilitate communication'?[/i] What does that actually mean-",
+        "pl": "Chwila - [i]'ułatwia komunikację'?[/i] Co to właściwie znaczy-",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds113": {
+        "en": "[i]'The Mermaid's Tongue - said to facilitate communication with She Who Lies Beyond The Veil'.[/i]",
+        "pl": "[i]'Język Syreny - podobno ułatwia komunikację z Tą, Która Leży Poza Zasłoną'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds114": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds115": {
+        "en": "But what [i]is[/i] it? What does it [i]do?[/i]",
+        "pl": "Ale czym to [i]jest[/i]? Co to [i]robi?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds117": {
+        "en": "Nobody knows.",
+        "pl": "Nikt nie wie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds118": {
+        "en": "It's a translator.",
+        "pl": "To tłumacz.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds119": {
+        "en": "...and depicted in this bottle.",
+        "pl": "...i przedstawiony w tej butelce.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds120": {
+        "en": "Right - the same voyage captured on this film reel...",
+        "pl": "Zgadza się - ta sama podróż uwieczniona na tej taśmie filmowej...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds121": {
+        "en": "They went off into the ocean on a ship named the Dearest Selena...",
+        "pl": "Wypłynęli na ocean na statku o nazwie Dearest Selena...",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds122": {
+        "en": "The [i]good[/i] news is - we've got the real thing.",
+        "pl": "[i]Dobra[/i] wiadomość jest taka - mamy prawdziwy egzemplarz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds123": {
+        "en": "It turns out the Ocean Map shows what it's [i]supposed[/i] to look like.",
+        "pl": "Okazuje się, że Mapa Oceanu pokazuje, jak [i]powinien[/i] wyglądać.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds125": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds126": {
+        "en": "[i]Oh [h]sure[/h], just help yourself to the stuff in my personal treasure chest, [h]I[/h] don't mind-[/i]",
+        "pl": "[i]Ooo, [h]jasne[/h], częstujcie się rzeczami z mojej prywatnej skrzyni skarbów, [h]mnie[/h] to nie przeszkadza-[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds127": {
+        "en": "It is. And it's [i]hard[/i], like crystal. I'm pretty sure it explains the scratch marks in the cauldron.",
+        "pl": "Tak. I jest [i]twardy[/i], jak kryształ. Jestem prawie pewna, że to wyjaśnia zadrapania w kotle.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds128": {
+        "en": "But why [h]did[/h] Mortuga keep it locked in the cauldron?",
+        "pl": "Ale czemu Mortuga [h]w ogóle[/h] trzymał go zamkniętego w kotle?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds128 Choice 1": {
+        "en": "Because he wanted to keep it hidden from everyone.",
+        "pl": "Bo chciał ukryć go przed wszystkimi.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds128 Choice 2": {
+        "en": "Because direct sunlight would have destroyed it.",
+        "pl": "Bo bezpośrednie światło słoneczne by go zniszczyło.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds128 Choice 3": {
+        "en": "Because he wasn't able to unlock the cauldron.",
+        "pl": "Bo nie potrafił otworzyć kotła.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds128 Choice Question": {
+        "en": "Why did Mortuga keep it locked in the cauldron?",
+        "pl": "Czemu Mortuga trzymał go zamkniętego w kotle?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds129": {
+        "en": "Because he wanted to keep it hidden from everyone.",
+        "pl": "Bo chciał ukryć go przed wszystkimi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds130": {
+        "en": "When he saw my poster, he told me we had to keep the cauldron covered up.",
+        "pl": "Kiedy zobaczył mój plakat, powiedział mi, że musimy trzymać kocioł zakryty.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds131": {
+        "en": "Even before he ever found it - it's just where it's always been kept.",
+        "pl": "Jeszcze zanim go w ogóle znalazł - po prostu zawsze tam był przechowywany.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds132": {
+        "en": "There it is - see? [i]In[/i] the Cauldron, [i]beneath[/i] the Iron Bell, [i]beneath[/i] the Wooden Buoy.",
+        "pl": "Proszę bardzo - widzisz? [i]W[/i] Kotle, [i]pod[/i] Żelaznym Dzwonem, [i]pod[/i] Drewnianą Boją.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds133": {
+        "en": "But, that was a long time ago...",
+        "pl": "Ale to było dawno temu...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds134": {
+        "en": "She described it as a 'demon' - with a single horn and glowing eyes...",
+        "pl": "Opisała to jako 'demona' - z jednym rogiem i świecącymi oczami...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds135": {
+        "en": "So the culprit [i]knew[/i] about the Mermaid's Tongue... knew what it [i]was[/i]... knew how to [i]use[/i] it...",
+        "pl": "Czyli sprawca [i]wiedział[/i] o Języku Syreny... wiedział, czym [i]jest[/i]... wiedział, jak go [i]użyć[/i]...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds136": {
+        "en": "Because they were the third person on the Dearest Selena voyage.",
+        "pl": "Bo sprawca był trzecią osobą podczas rejsu Dearest Seleny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds138": {
+        "en": "That antenna - is that [i]coral?[/i] It looks sharp...",
+        "pl": "Ta antena - czy to [i]koral?[/i] Wygląda ostro...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds139": {
+        "en": "The Mermaid's Tongue being on board was a [i]secret[/i] Mortuga was keeping.",
+        "pl": "To, że Język Syreny był na pokładzie, było [i]sekretem[/i], który ukrywał Mortuga.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds140": {
+        "en": "Because direct sunlight would have destroyed it.",
+        "pl": "Bo bezpośrednie światło słoneczne by go zniszczyło.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds141": {
+        "en": "The cauldron was covered by the sailcloth, and locked in the store room - and Mortuga wanted to [i]keep[/i] it that way.",
+        "pl": "Kocioł był przykryty żaglowym płótnem i zamknięty w magazynie - a Mortuga chciał, żeby tak [i]zostało[/i].",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds142": {
+        "en": "It's true...",
+        "pl": "To prawda...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds143": {
+        "en": "Why the [i]cauldron[/i], though?",
+        "pl": "Ale czemu akurat [i]kocioł[/i]?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds144": {
+        "en": "",
+        "pl": "",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds145": {
+        "en": "Right. We figure they'd just taken it from the cauldron - after killing Mortuga.",
+        "pl": "Zgadza się. Sądzimy, że sprawca po prostu wziął go z kotła - po zabiciu Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds146": {
+        "en": "But Mortuga never really told us about [i]any[/i] of this. How did the [i]culprit[/i] know about it??",
+        "pl": "Ale Mortuga nigdy nam o [i]niczym[/i] takim nie mówił. Skąd [i]sprawca[/i] mógł o tym wiedzieć??",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds146 Choice 1": {
+        "en": "Because they were the creator of The Mermaid's Tongue.",
+        "pl": "Bo sprawca był twórcą Języka Syreny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds146 Choice 2": {
+        "en": "Because they forced Mortuga to tell them all about it.",
+        "pl": "Bo sprawca zmusił Mortugę, żeby wyjawił mu wszystko.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds146 Choice 3": {
+        "en": "Because they were the third person on the Dearest Selena voyage.",
+        "pl": "Bo sprawca był trzecią osobą podczas rejsu Dearest Seleny.",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds146 Choice Question": {
+        "en": "How did the culprit know all about The Mermaid's Tongue?",
+        "pl": "Skąd sprawca wiedział wszystko o Języku Syreny?",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds147": {
+        "en": "Because they were the creator of The Mermaid's Tongue.",
+        "pl": "Bo sprawca był twórcą Języka Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds148": {
+        "en": "[i]'Requires a special key to operate'.[/i] Huh.",
+        "pl": "[i]'Wymaga specjalnego klucza do obsługi'.[/i] Hm.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds149": {
+        "en": "I dunno guys, I'm - I'm not sure if I'm buying into this thing.",
+        "pl": "Nie wiem, ludzie, ja - nie jestem pewien, czy w to wszystko wierzę.",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds150": {
+        "en": "But how does it work?",
+        "pl": "Ale jak to działa?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds151": {
+        "en": "A key...? What kind of key?",
+        "pl": "Klucz...? Jaki klucz?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds152": {
+        "en": "Thus the name - [h]Tongue[/h] - referring not to an appendage, but to the language spoken by The Mermaid.",
+        "pl": "Stąd ta nazwa - [h]Język[/h] - nie chodzi o organ w ustach, lecz o mowę, jaką posługuje się Syrena.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds153": {
+        "en": "Anyone gonna tell me who The Mermaid [i]is[/i], or...?",
+        "pl": "Ktoś mi w końcu powie, kim [i]jest[/i] Syrena, czy...?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds154": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds155": {
+        "en": "So there's a [i]painting[/i]... painted by Selena Stonetop, we think.",
+        "pl": "Więc jest [i]obraz[/i]... namalowany przez Selenę Stonetop, tak sądzimy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds156": {
+        "en": "And a [i]photograph[/i] - taken with the submarine's underwater imaging system.",
+        "pl": "I [i]fotografia[/i] - zrobiona systemem obrazowania podwodnego łodzi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds157": {
+        "en": "And, uh - why would you need a translator to talk to her? She's not [i]local,[/i] or what?",
+        "pl": "I, eee - po co komu tłumacz, żeby z nią rozmawiać? Nie jest [i]stąd,[/i] czy jak?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds158": {
+        "en": "She speaks a language none of us could understand.",
+        "pl": "Mówi językiem, którego żadne z nas by nie zrozumiało.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds159": {
+        "en": "It is said, that attempting to commune with her [i]without[/i] harnessing The Mermaid's Tongue - would drive one [i]mad.[/i]",
+        "pl": "Podobno próba porozumienia się z nią [i]bez[/i] użycia Języka Syreny doprowadza do [i]szaleństwa.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds161": {
+        "en": "That's because it is.",
+        "pl": "Bo taka właśnie jest.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds162": {
+        "en": "Because he wasn't able to unlock the cauldron.",
+        "pl": "Bo nie potrafił otworzyć kotła.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds163": {
+        "en": "Because they forced Mortuga to tell them all about it.",
+        "pl": "Bo sprawca zmusił Mortugę, żeby wyjawił mu wszystko.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds164": {
+        "en": "Quite right-",
+        "pl": "Zgadza się-",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds165": {
+        "en": "It is a [i]powerful and priceless artifact-[/i]",
+        "pl": "To [i]potężny i bezcenny artefakt-[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds166": {
+        "en": "...and came back with The Mermaid's Tongue.",
+        "pl": "...i wrócił z Językiem Syreny.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds167": {
+        "en": "-if this 'Mermaid's Tongue' came out of the [i]cauldron[/i], where's it [i]been[/i] this whole time?",
+        "pl": "-jeśli ten 'Język Syreny' wyszedł z [i]kotła[/i], to gdzie [i]był[/i] przez cały ten czas?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds168": {
+        "en": "When worn over one's head, The Mermaid's Tongue allows you to [i]commune[/i] with The Mermaid.",
+        "pl": "Założony na głowę, Język Syreny pozwala [i]porozumieć się[/i] z Syreną.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds169": {
+        "en": "Hm. How nice.",
+        "pl": "Hm. Jak miło.",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds170": {
+        "en": "Nice. [i]Convenient.[/i]",
+        "pl": "Miło. [i]Wygodnie.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds171": {
+        "en": "Oh it's [i]powerful[/i] alright. Look what it's doing to all of [i]you.[/i]",
+        "pl": "Och, na pewno jest [i]potężny[/i]. Spójrzcie, co robi z wami [i]wszystkimi.[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds172": {
+        "en": "So, this image here - it's a photograph of a [i]drawing[/i] - a [i]cropped[/i] photograph, too.",
+        "pl": "Więc ten obraz tutaj to fotografia [i]rysunku[/i] - w dodatku [i]przycięta[/i].",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds173": {
+        "en": "...how do you know the Mermaid's Tongue was still in the cauldron at the time of the murder?",
+        "pl": "...skąd wiecie, że Język Syreny wciąż był w kotle w chwili morderstwa?",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds174": {
+        "en": "Well, Tadpole told us about someone she saw on the Aft Deck shortly after the murder.",
+        "pl": "Cóż, Tadpole opowiedziała nam o kimś, kogo widziała na Pokładzie Rufowym zaraz po morderstwie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds177": {
+        "en": "Hm. The culprit - wearing the Mermaid's Tongue.",
+        "pl": "Hm. Sprawca - noszący Język Syreny.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds178": {
+        "en": "Definitely.",
+        "pl": "Zdecydowanie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds179": {
+        "en": "Wouldn't it have been less conspicuous if he'd just kept it in a - a [i]wooden crate[/i] or something?",
+        "pl": "Czy nie byłoby mniej podejrzane, gdyby po prostu trzymał to w - w jakiejś [i]drewnianej skrzyni[/i] czy czymś?",
+        "speaker": "Gripp"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds180": {
+        "en": "Keeping the Mermaid's Tongue in the Cauldron wasn't something Mortuga came up with himself.",
+        "pl": "Trzymanie Języka Syreny w Kotle nie było pomysłem samego Mortugi.",
+        "speaker": "Sally"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds182": {
+        "en": "[i]Did[/i] you...\n[i]Fascinating.[/i]",
+        "pl": "[i]Serio[/i]?...\n[i]Fascynujące.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds183": {
+        "en": "Mmmnnn...",
+        "pl": "Mmmnnn...",
+        "speaker": "Sinthia"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds98": {
+        "en": "The Mermaid's [i]What?[/i]",
+        "pl": "Język [i]czego?[/i]",
+        "speaker": "Dirk"
+      },
+      "Conversation/Grimoire 6 Parlor 2/Section ds99": {
+        "en": "It's a kind of [i]ancient artifact[/i] - Mortuga found it on a sea voyage, years ago.",
+        "pl": "To rodzaj [i]starożytnego artefaktu[/i] - Mortuga znalazł go podczas morskiej wyprawy, lata temu.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ds182 'Did you...\\n[i]Fascinating.[/i]' -> 'Serio?...\\n[i]Fascynujące.[/i]'",
+      "problem": "Fragment urwany bez pelnego kontekstu poprzedzajacej linii (nie widac na co Tadpole reaguje 'Did you...'). Przetlumaczylem ogolnikowo jako reakcje zdziwienia - do sprawdzenia w grze czy pasuje do faktycznego kontekstu."
+    },
+    {
+      "term": "ds98 'The Mermaid's [i]What?[/i]' -> 'Język [i]czego?[/i]'",
+      "problem": "Zart oparty na przerwaniu w polowie frazy 'The Mermaid's [Tongue]' zastapionym przez 'What?'. Po polsku szyk 'Jezyk Syreny' ma odwrotna kolejnosc, wiec efekt komiczny przesuwa sie na dopytywanie o 'Syreny' zamiast 'Tongue' - sens (niedowierzanie Dirka) zachowany, ale mechanika zartu jest inna niz w oryginale."
+    },
+    {
+      "term": "sprawca zamiast zaimka 'they' (wielokrotnie w tej partii)",
+      "problem": "Patrz note_unknown_gender_culprit w _meta - celowa technika unikania zdradzenia plci mordercy. Do sprawdzenia czy brzmi naturalnie we wszystkich przypadkach czy w ktoryms miejscu lepiej pasowaloby inne rozwiazanie."
+    }
+  ]
+}

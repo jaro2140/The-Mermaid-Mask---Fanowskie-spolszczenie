@@ -1,0 +1,916 @@
+{
+  "_meta": {
+    "batch": "Symmetry SUS X (9 scen, 176 terminow) - reakcje Symmetry na kazdego z 8 pozostalych podejrzanych + na siebie samą, w jej charakterystycznym archaicznym stylu szekspirowskim. Kazda scena zaczyna sie od trzyliniowego 'epitetu' postaci (Imie/Numer/Przydomek w stylu tarota, np. 'Dirk Dansom. Number eight. The Shiny Penny.') i mechaniki wyboru interpretacji przydomka.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - wiekszosc pokryta. Nieprzypisane: 9x Choice set (po scenie, 4 kazdy) - standardowe 'Grimoire (domniemany)'/'Grimoire (opcja wyboru)'/'(naglowek wyboru)'.",
+    "character_voice": "Symmetry: kontynuacja archaicznego, szekspirowskiego rejestru (batch_27-31, batch_50) - inwersja szyku zdania, 'zaiste/wszak/niestety/o' itp.",
+    "note": "James Wirman (Symmetry SUS Wirman/ds9) - NOWE potwierdzenie imienia Wirmana ('James'), dotad znanego tylko jako 'J. D. Wirman' - zgodne z inicjalem J. Do dopisania w GLOSSARY."
+  },
+  "categories": {
+    "Symmetry SUS Dirk": {
+      "Conversation/Symmetry SUS Dirk/Section ds10": {
+        "en": "Dirk Dansom.\nNumber eight.\nThe Shiny Penny.",
+        "pl": "Dirk Dansom.\nNumer osiem.\nBłyszczący Grosz.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds10 Choice 1": {
+        "en": "Capitalist greed?",
+        "pl": "Kapitalistyczna chciwość?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds10 Choice 2": {
+        "en": "Being easily distracted?",
+        "pl": "Łatwość rozproszenia uwagi?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds10 Choice 3": {
+        "en": "A fresh start?",
+        "pl": "Nowy początek?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds10 Choice Question": {
+        "en": "Dirk Dansom, The Shiny Penny...",
+        "pl": "Dirk Dansom, Błyszczący Grosz...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds11": {
+        "en": "Capitalist greed?",
+        "pl": "Kapitalistyczna chciwość?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds12": {
+        "en": "A fresh start?",
+        "pl": "Nowy początek?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds13": {
+        "en": "Being easily distracted?",
+        "pl": "Łatwość rozproszenia uwagi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds26": {
+        "en": "An actor, or a mage in guise? Who sways men's souls with artful feignéd truth?",
+        "pl": "Aktor, czy mag w przebraniu? Co dusze ludzkie kołysze kunsztowną, zmyśloną prawdą?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds28": {
+        "en": "You, uh - think Dirk might be swaying [h]our[/h] souls?",
+        "pl": "Ty, yy - myślisz, że Dirk może kołysać [h]nasze[/h] dusze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds29": {
+        "en": "Skyward [i]source?[/i]",
+        "pl": "Niebiańskie [i]źródło?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds31": {
+        "en": "Alone, he's oft espied! Atop our ship, and stood enrob'd in warmer light.",
+        "pl": "Samotny, często bywa dostrzeżony! Na szczycie naszego statku, spowity w cieplejsze światło.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds33": {
+        "en": "Dirk goes up on [i]deck[/i] a lot, huh.",
+        "pl": "Dirk często chodzi na [i]pokład,[/i] co.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds34": {
+        "en": "And by [i]himself?[/i] I wonder...",
+        "pl": "I [i]sam?[/i] Ciekawe...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds35": {
+        "en": "The sun, I'm guessing.\n",
+        "pl": "Słońce, jak sądzę.\n",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds40": {
+        "en": "Fret not; as dwell he in this deep-sea womb, his strength's divorc'd from skyward source!",
+        "pl": "Nie trwóż się; póki mieszka w tym głębinowym łonie, jego siła oddzielona jest od niebiańskiego źródła!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds41": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds42": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds43": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Dirk/Section ds44": {
+        "en": "How d'you know he likes the [i]sun[/i] so much?",
+        "pl": "Skąd wiesz, że tak bardzo lubi [i]słońce?[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry SUS Gripp": {
+      "Conversation/Symmetry SUS Gripp/Section ds9": {
+        "en": "Godrik Gripp.\nNumber two.\nThe Broken Compass.",
+        "pl": "Godrik Gripp.\nNumer dwa.\nZłamany Kompas.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds9 Choice 1": {
+        "en": "Making immoral choices?",
+        "pl": "Podejmowanie niemoralnych wyborów?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds9 Choice 2": {
+        "en": "The dismissal of guidance?",
+        "pl": "Odrzucenie przewodnictwa?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds9 Choice 3": {
+        "en": "Feeling lost, or trapped?",
+        "pl": "Poczucie zagubienia albo uwięzienia?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds9 Choice Question": {
+        "en": "Godrik Gripp, The Broken Compass...",
+        "pl": "Godrik Gripp, Złamany Kompas...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds10": {
+        "en": "Making immoral choices?",
+        "pl": "Podejmowanie niemoralnych wyborów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds11": {
+        "en": "Feeling lost, or trapped?",
+        "pl": "Poczucie zagubienia albo uwięzienia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds12": {
+        "en": "The dismissal of guidance?",
+        "pl": "Odrzucenie przewodnictwa?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds18": {
+        "en": "'Spite all his whims and wayward ways... his heart beats hopeful, kind and keen.",
+        "pl": "Wbrew wszystkim jego zachciankom i zbłąkanym drogom... jego serce bije pełne nadziei, dobroci i zapału.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds19": {
+        "en": "When first we met, when first I came, he had [i]not yet[/i] his cane beclaimed.",
+        "pl": "Gdy po raz pierwszy się spotkaliśmy, gdy po raz pierwszy przybyłam, [i]jeszcze nie[/i] posiadał swej laski.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds21": {
+        "en": "So - where'd he [i]get[/i] it from? The cane?",
+        "pl": "Więc - skąd ją [i]wziął?[/i] Tę laskę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds22": {
+        "en": "[i]Wrought[/i] it he, by his own hand. Composed of cast-off scrap and scrounge!",
+        "pl": "[i]Wykuł[/i] ją własną ręką. Złożoną z porzuconego złomu i zbieractwa!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds25": {
+        "en": "Really...",
+        "pl": "Naprawdę...",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds26": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds27": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds28": {
+        "en": "Did Gripp live down in the engine room - even back then?",
+        "pl": "Czy Gripp mieszkał w maszynowni - już wtedy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds29": {
+        "en": "Verily! He seeks it out, that engine's heart - for clank and clamor calm his core.",
+        "pl": "Zaiste! Poszukuje go, tego serca silnika - bo brzęk i zgiełk koją jego wnętrze.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds30": {
+        "en": "He likes how [i]noisy[/i] it is? What's wrong with him?",
+        "pl": "Lubi, jak jest [i]głośno?[/i] Co z nim nie tak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Gripp/Section ds36": {
+        "en": "His [i]whims[/i] - like how he talks to a wooden stick?",
+        "pl": "Jego [i]zachcianki[/i] - jak to, że rozmawia z drewnianym patykiem?",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry SUS Moon": {
+      "Conversation/Symmetry SUS Moon/Section ds9": {
+        "en": "Mariana Moon.\nNumber nine.\nThe Half-Hidden Moon.",
+        "pl": "Mariana Moon.\nNumer dziewięć.\nWpół Ukryty Księżyc.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds9 Choice 1": {
+        "en": "Disingenuousness?",
+        "pl": "Nieszczerość?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds9 Choice 2": {
+        "en": "Being incomplete?",
+        "pl": "Niepełność?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds9 Choice 3": {
+        "en": "Reclusiveness?",
+        "pl": "Odosobnienie?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds9 Choice Question": {
+        "en": "Mariana Moon, The Half-Hidden Moon...",
+        "pl": "Mariana Moon, Wpół Ukryty Księżyc...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds10": {
+        "en": "Disingenuousness?",
+        "pl": "Nieszczerość?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds11": {
+        "en": "Reclusiveness?",
+        "pl": "Odosobnienie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds12": {
+        "en": "Being incomplete?",
+        "pl": "Niepełność?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds14": {
+        "en": "Must be! I've seen her open it up and [i]peer concernedly[/i] at its internals.",
+        "pl": "Musi tak być! Widziałam, jak go otwiera i [i]zatroskana zagląda[/i] do jego wnętrza.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds20": {
+        "en": "Mariana's [i]moon necklace?[/i] That's a [i]locket?[/i]",
+        "pl": "[i]Naszyjnik z księżycem[/i] Mariany? To [i]medalion?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds22": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds27": {
+        "en": "Still-estranged, this Moon and I, but she and me [i]befind[/i] ourselves in newfound kinship joined!",
+        "pl": "Wciąż obce sobie, ta Moon i ja, lecz ona i ja [i]odnajdujemy[/i] się złączone nowo odkrytym pokrewieństwem!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds28": {
+        "en": "The kinship of [i]wearing-a-big-yellow-locket-around-your-neck!![/i]",
+        "pl": "Pokrewieństwem [i]noszenia-wielkiego-żółtego-medalionu-na-szyi!![/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds30": {
+        "en": "What kinda kinship would [i]that[/i] be?",
+        "pl": "Cóż to za pokrewieństwo miałoby [i]być?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Moon/Section ds32": {
+        "en": "We may need to workshop the name.",
+        "pl": "Może musimy jeszcze popracować nad nazwą.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry SUS Mortuga": {
+      "Conversation/Symmetry SUS Mortuga/Section ds9": {
+        "en": "Magnus Mortuga.\nNumber one.\nThe Turning Wheel.",
+        "pl": "Magnus Mortuga.\nNumer jeden.\nObracające się Koło.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds9 Choice 1": {
+        "en": "A change of fate?",
+        "pl": "Zmiana losu?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds9 Choice 2": {
+        "en": "Meeting your destiny?",
+        "pl": "Spotkanie swojego przeznaczenia?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds9 Choice 3": {
+        "en": "Taking control?",
+        "pl": "Przejęcie kontroli?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds9 Choice Question": {
+        "en": "Magnus Mortuga, The Turning Wheel...",
+        "pl": "Magnus Mortuga, Obracające się Koło...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds10": {
+        "en": "A change of fate?",
+        "pl": "Zmiana losu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds11": {
+        "en": "Taking control?",
+        "pl": "Przejęcie kontroli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds12": {
+        "en": "Meeting your destiny?",
+        "pl": "Spotkanie swojego przeznaczenia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds15": {
+        "en": "Sleep, a scant solace - bedev'led by a dream dug-deep in folds of ever-furrowed brow.",
+        "pl": "Sen, skąpa pociecha - dręczony snem zagrzebanym głęboko w fałdach wiecznie zmarszczonego czoła.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds21": {
+        "en": "His broad form stood, once ox-strong and stout, now more malediction than man.",
+        "pl": "Jego szeroka postać stała, niegdyś silna jak wół i krzepka, teraz bardziej przekleństwem niż człowiekiem.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds22": {
+        "en": "Doom'd to dwell, down in the dark, the once-light of a life once-lived, now too lum'nous to look-upon.",
+        "pl": "Skazany, by trwać w mroku, niegdysiejsze światło niegdyś przeżytego życia, teraz zbyt jaskrawe, by nań patrzeć.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Mortuga/Section ds23": {
+        "en": "Like jagg'd face of coastal cliff, cut coarse by storms and swells of life long spent.",
+        "pl": "Niczym poszarpane oblicze nadmorskiego klifu, wyrzeźbione ostro przez burze i fale dawno przeżytego życia.",
+        "speaker": "Symmetry"
+      }
+    },
+    "Symmetry SUS Sinthia": {
+      "Conversation/Symmetry SUS Sinthia/Section ds9": {
+        "en": "Sinthia Seafoam.\nNumber six.\nThe Leaden Crown.",
+        "pl": "Sinthia Seafoam.\nNumer sześć.\nOłowiana Korona.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds9 Choice 1": {
+        "en": "Taking responsibiity?",
+        "pl": "Wzięcie odpowiedzialności?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds9 Choice 2": {
+        "en": "A heavy burden?",
+        "pl": "Ciężkie brzemię?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds9 Choice 3": {
+        "en": "A poisoned chalice?",
+        "pl": "Zatruty kielich?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds9 Choice Question": {
+        "en": "Sinthia Seafoam, The Leaden Crown...",
+        "pl": "Sinthia Seafoam, Ołowiana Korona...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds10": {
+        "en": "Taking responsibiity?",
+        "pl": "Wzięcie odpowiedzialności?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds11": {
+        "en": "A poisoned chalice?",
+        "pl": "Zatruty kielich?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds12": {
+        "en": "A heavy burden?",
+        "pl": "Ciężkie brzemię?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds15": {
+        "en": "To helm this vessel next by rightful claim, for she, in [i]law and title[/i], holds its name.",
+        "pl": "By sterować tym statkiem dalej z prawowitym roszczeniem, bo ona, [i]prawem i tytułem,[/i] nosi jego imię.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds18": {
+        "en": "-is that so...",
+        "pl": "-czyżby...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds22": {
+        "en": "She ist bloom'd from deepest Silken soil, whilst I; mere wand’ring weed by wild wind blown.",
+        "pl": "Ona wykwitła z najgłębszej jedwabnej gleby, podczas gdy ja; jeno błądzący chwast, wiatrem dzikim wiany.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds24": {
+        "en": "Fair Sinthia, O true'st friend - my steadfast fealty's won.",
+        "pl": "Piękna Sinthia, o najprawdziwsza przyjaciółko - zdobyłaś moją niezłomną wierność.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds25": {
+        "en": "You really never ran into each other in the town?",
+        "pl": "Naprawdę nigdy się na siebie nie natknęłyście w miasteczku?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds29": {
+        "en": "Ah. Of course.",
+        "pl": "Ach. No jasne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds30": {
+        "en": "You're both from Silkwirm... and you're the same age... do you know her from before?",
+        "pl": "Obie jesteście z Silkwirm... i jesteście w tym samym wieku... znałaś ją wcześniej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds32": {
+        "en": "Though kindred bred 'neath sullen skies, ne’er we met outwith this sunken silver shell!",
+        "pl": "Choć zrodzone pod tym samym posępnym niebem, nigdy się nie spotkałyśmy poza tą zatopioną srebrną skorupą!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds37": {
+        "en": "Hm. You make a friend, and then she ends up as the new Captain. ",
+        "pl": "Hm. Zdobywasz przyjaciółkę, a ona zostaje nową kapitan. ",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds39": {
+        "en": "Twas no sudden thing - full [i]well[/i] she plotted thus, her course of fate;",
+        "pl": "To nie była nagła rzecz - w pełni [i]świadomie[/i] uknuła tak swój bieg losu;",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Sinthia/Section ds40": {
+        "en": "Must've been - you know - a nice unexpected bonus.",
+        "pl": "Musiało to być - no wiesz - miłym, niespodziewanym bonusem.",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry SUS Symmetry": {
+      "Conversation/Symmetry SUS Symmetry/Section ds9": {
+        "en": "Symmetry Silkmoth.\nNumber four.\nThe Unblinking Eye.",
+        "pl": "Symmetry Silkmoth.\nNumer cztery.\nNiemrugające Oko.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds9 Choice 1": {
+        "en": "Fear?",
+        "pl": "Strach?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds9 Choice 2": {
+        "en": "Resolve?",
+        "pl": "Determinacja?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds9 Choice 3": {
+        "en": "Obsession?",
+        "pl": "Obsesja?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds9 Choice Question": {
+        "en": "Symmetry Silkmoth, The Unblinking Eye...",
+        "pl": "Symmetry Silkmoth, Niemrugające Oko...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds10": {
+        "en": "Fear?",
+        "pl": "Strach?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds11": {
+        "en": "Obsession?",
+        "pl": "Obsesja?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds12": {
+        "en": "Resolve?",
+        "pl": "Determinacja?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds16": {
+        "en": "Enrapt - enthralled; of clothen dolls, of effigies, of twins.",
+        "pl": "Zachwycona - urzeczona; szmacianymi lalkami, podobiznami, bliźniętami.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds18": {
+        "en": "Alas! By flesh and frame and bone and blood; I set but little store.",
+        "pl": "Niestety! Ciałem i postacią, i kością, i krwią; niewiele sobie cenię.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds19": {
+        "en": "You look kinda pale - are you getting enough to eat?",
+        "pl": "Wyglądasz na trochę bladą - jesz wystarczająco dużo?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds20": {
+        "en": "Yeah that's what I thought.",
+        "pl": "Tak, tak myślałam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds21": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds23": {
+        "en": "Of what, if aught, doth lay beyond, this fleeting form of flesh !",
+        "pl": "Cóż to, jeśli cokolwiek, leży poza tą ulotną formą ciała!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds24": {
+        "en": "Uh - so what [h]do[/h] you set store by?",
+        "pl": "Yy - więc co sobie [h]cenisz?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds25": {
+        "en": "Of glass and gleam, of mirrored eyes, of phantoms falsely cast.",
+        "pl": "Szkłem i blaskiem, lustrzanymi oczami, fałszywie rzuconymi widmami.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds26": {
+        "en": "Oh. Like - what are my interests?",
+        "pl": "Ach. Czyli - jakie są moje zainteresowania?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds27": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds28": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds29": {
+        "en": "Fine. Mirrors, okay.",
+        "pl": "Dobra. Lustra, okej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds30": {
+        "en": "Okay. Sure.",
+        "pl": "Okej. Jasne.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds31": {
+        "en": "[Squeak!]",
+        "pl": "[Pisk!]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds32": {
+        "en": "Hmm...\nOh!",
+        "pl": "Hmm...\nOch!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Symmetry/Section ds33": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry SUS Tadpole": {
+      "Conversation/Symmetry SUS Tadpole/Section ds9": {
+        "en": "Madam Tadpole.\nNumber five.\nThe Still Waters.",
+        "pl": "Madam Tadpole.\nNumer pięć.\nSpokojne Wody.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds9 Choice 1": {
+        "en": "Hiding a dangerous secret?",
+        "pl": "Ukrywanie niebezpiecznej tajemnicy?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds9 Choice 2": {
+        "en": "Tranquility?",
+        "pl": "Spokój?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds9 Choice 3": {
+        "en": "Resistant to change?",
+        "pl": "Opór przed zmianą?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds9 Choice Question": {
+        "en": "Madam Tadpole, The Still Waters...",
+        "pl": "Madam Tadpole, Spokojne Wody...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds10": {
+        "en": "Hiding a dangerous secret?",
+        "pl": "Ukrywanie niebezpiecznej tajemnicy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds11": {
+        "en": "Resistant to change?",
+        "pl": "Opór przed zmianą?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds12": {
+        "en": "Tranquility?",
+        "pl": "Spokój?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds15": {
+        "en": "I ponder - could somesuch thing be mine to know?",
+        "pl": "Zastanawiam się - czy coś takiego mogłabym poznać?",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds20": {
+        "en": "Likened to the orchard-oak; sturdy-stout and tower'ng tall.",
+        "pl": "Podobna do sadowego dębu; krzepka, krzepka i wznosząca się wysoko.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds21": {
+        "en": "Maybe I should cut my hair short and dye it green. Maybe [i]that'll[/i] do it.",
+        "pl": "Może powinnam ściąć włosy na krótko i ufarbować je na zielono. Może [i]to[/i] pomoże.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds24": {
+        "en": "I don't see why not.",
+        "pl": "Nie widzę powodu, czemu nie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds25": {
+        "en": "But bears she a [i]quietsome grace![/i] Like windless night on sailstill sea.",
+        "pl": "Lecz nosi w sobie [i]cichy wdzięk![/i] Niczym bezwietrzna noc na bezżaglowym morzu.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Tadpole/Section ds26": {
+        "en": "What's that?",
+        "pl": "Co to znaczy?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Symmetry SUS Wirman": {
+      "Conversation/Symmetry SUS Wirman/Section ds9": {
+        "en": "James Wirman.\nNumber seven.\nThe Empty Inkwell.",
+        "pl": "James Wirman.\nNumer siedem.\nPusty Kałamarz.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds9 Choice 1": {
+        "en": "Amorality?",
+        "pl": "Amoralność?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds9 Choice 2": {
+        "en": "Apathy?",
+        "pl": "Apatia?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds9 Choice 3": {
+        "en": "Evidence of hard work?",
+        "pl": "Dowód ciężkiej pracy?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds9 Choice Question": {
+        "en": "James Wirman, The Empty Inkwell...",
+        "pl": "James Wirman, Pusty Kałamarz...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds10": {
+        "en": "Amorality?",
+        "pl": "Amoralność?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds11": {
+        "en": "Evidence of hard work?",
+        "pl": "Dowód ciężkiej pracy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds12": {
+        "en": "Apathy?",
+        "pl": "Apatia?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds14": {
+        "en": "He'd dreamt our ship some [i]boist'rous[/i] boat, where tension flow'd, and tempers boil!",
+        "pl": "Śnił, że nasz statek to jakaś [i]burzliwa[/i] łódź, gdzie napięcie płynie, a temperamenty się gotują!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds18": {
+        "en": "-something [i]did[/i] happen. The [i]captain[/i] was murdered.",
+        "pl": "-coś [i]jednak[/i] się stało. [i]Kapitan[/i] został zamordowany.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds19": {
+        "en": "Still, he yearned for [i]storm[/i] to swell - for keel to list, for sail to [i]sway[/i]...",
+        "pl": "A jednak tęsknił, by [i]burza[/i] narosła - by stępka przechyliła się, by żagiel się [i]zakołysał...[/i]",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds20": {
+        "en": "And crime-dark scene beconsequently came the fresh'st [i]focus[/i] for his ever-pond'rous gaze!",
+        "pl": "I mroczna scena zbrodni stała się w rezultacie najświeższym [i]przedmiotem[/i] jego wiecznie rozważnego spojrzenia!",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds21": {
+        "en": "Alas, upon inspection show'd, our home fell plenty-short.",
+        "pl": "Niestety, po zbadaniu okazało się, że nasz dom nie sprostał w wielu miarach.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds22": {
+        "en": "He was waiting for something to... happen?",
+        "pl": "Czekał, aż coś... się wydarzy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Wirman/Section ds23": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Symmetry SUS Zephyr": {
+      "Conversation/Symmetry SUS Zephyr/Section ds9": {
+        "en": "Zacharias Zephyr.\nNumber three.\nThe Entangled Dream.",
+        "pl": "Zacharias Zephyr.\nNumer trzy.\nZaplątany Sen.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds9 Choice 1": {
+        "en": "Deceiving yourself?",
+        "pl": "Oszukiwanie samego siebie?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds9 Choice 2": {
+        "en": "Losing your way?",
+        "pl": "Zagubienie drogi?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds9 Choice 3": {
+        "en": "Overambition?",
+        "pl": "Nadmierna ambicja?",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds9 Choice Question": {
+        "en": "Dr Zephyr, The Entangled Dream...",
+        "pl": "Dr Zephyr, Zaplątany Sen...",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds10": {
+        "en": "Deceiving yourself?",
+        "pl": "Oszukiwanie samego siebie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds11": {
+        "en": "Overambition?",
+        "pl": "Nadmierna ambicja?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds12": {
+        "en": "Losing your way?",
+        "pl": "Zagubienie drogi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds15": {
+        "en": "His life's long hope to pierce the veil and breach! Breach! Those black'st bounds.",
+        "pl": "Jego życia długa nadzieja, by przebić zasłonę i przełamać! Przełamać! Te najczarniejsze granice.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds16": {
+        "en": "A time bespent, in Chamber Dream, enchain’d to lofty quest.",
+        "pl": "Czas przeżyty w Komnacie Snów, przykuty do wzniosłego poszukiwania.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds18": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds20": {
+        "en": "She means herself.",
+        "pl": "Ma na myśli samą siebie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds21": {
+        "en": "[i]I'm following!![/i]",
+        "pl": "[i]Nadążam!![/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds22": {
+        "en": "Then lo, a shock - Dismissed! Bespurned! Rejected! My lonesome purpose, lost.",
+        "pl": "Wtedy oto, wstrząs - Odprawiona! Wzgardzona! Odrzucona! Mój samotny cel, utracony.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds23": {
+        "en": "Why'd he do [i]that?[/i]",
+        "pl": "Czemu to [i]zrobił?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Symmetry SUS Zephyr/Section ds24": {
+        "en": "Solitary once; no more - for help is found in frightened form of fair and freckle'd face.",
+        "pl": "Samotna niegdyś; już nie - bo pomoc odnajduje w wystraszonej postaci pięknej, piegowatej twarzy.",
+        "speaker": "Symmetry"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Symmetry SUS Wirman/ds9 'James Wirman'",
+      "problem": "Pierwsze bezposrednie ujawnienie imienia Wirmana jako 'James' (dotad znany tylko jako inicjaly 'J. D. Wirman') - dopisano do GLOSSARY jako potwierdzenie, ale do sprawdzenia czy gdziekolwiek indziej w grze pojawia sie pelne imie i czy jest spojne (np. czy 'D.' to drugie imie czy nazwisko po mezu itp.)."
+    }
+  ]
+}

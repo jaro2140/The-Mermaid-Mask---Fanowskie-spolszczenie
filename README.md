@@ -10,11 +10,11 @@ developerskich.
 
 | Obszar | Status |
 | --- | --- |
-| Teksty (menu, opcje) | W trakcie |
-| Teksty (dialogi, śledztwo) | W trakcie |
-| Czcionki (polskie znaki) | W trakcie |
+| Teksty (menu, opcje) | Gotowe |
+| Teksty (dialogi, śledztwo) | W trakcie (~5800 / ~14000 jednostek, ~41%) - wszyscy główni podejrzani i zagadka morderstwa przetłumaczeni w całości; w toku pozostałe kategorie dialogów oraz opisy przedmiotów |
+| Czcionki (polskie znaki) | Gotowe, potwierdzone w grze |
 | Instalator | W trakcie |
-| Testy w grze | W trakcie |
+| Testy w grze | Częściowe (baza techniczna potwierdzona, nowa treść czeka na testy) |
 
 
 ## Screeshots

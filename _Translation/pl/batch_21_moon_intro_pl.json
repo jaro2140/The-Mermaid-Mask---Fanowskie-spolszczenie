@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "batch": "Moon 01 INTRO (14 terminow) - poczatek luku postaci Moon (pelne imie potwierdzone: Mariana Moon). Kolejna postac wybrana alfabetycznie po zakonczeniu luku Dirka (Dirk->Moon->Symmetry->Tadpole->Wirman->Zephyr).",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 14/14 pokryte: Moon 7, Grimoire 5, Sally 2",
+    "character_voice": "Moon: mistyczna, poetycka, mowi zagadkowymi metaforami o naturze (ksiezyc, wiatr, jezioro) - calkowicie inny rejestr niz Dirk (potoczny) czy Sinthia (teatralna nastolatka). Unika bezposrednich odpowiedzi, mowi jakby w transie/z dystansem do rzeczywistosci."
+  },
+  "categories": {
+    "Moon 01 INTRO": {
+      "Conversation/Moon 01 INTRO/Section ds0": {
+        "en": "Ah, weary travellers - take a seat by the fire, shake out your boots.",
+        "pl": "Ach, znużeni podróżni - siądźcie przy ognisku, otrząśnijcie buty.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds10": {
+        "en": "We're detectives.\nI'm Grimoire, and this is Sally.",
+        "pl": "Jesteśmy detektywami.\nJa jestem Grimoire, a to Sally.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 01 INTRO/Section ds12": {
+        "en": "We're here investigating the murder of Magnus Mortuga - your previous captain.",
+        "pl": "Jesteśmy tu, żeby zbadać morderstwo Magnusa Mortugi - waszego poprzedniego kapitana.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 01 INTRO/Section ds13": {
+        "en": "[h]My[/h] captain is the moonlight as it shimmers across the lake...",
+        "pl": "[h]Moim[/h] kapitanem jest światło księżyca migoczące na tafli jeziora...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds15": {
+        "en": "Aha.\n-and what do you do?",
+        "pl": "Aha.\n-a czym się zajmujesz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 01 INTRO/Section ds16": {
+        "en": "My name is Moon.\nMariana Moon.",
+        "pl": "Nazywam się Moon.\nMariana Moon.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds17": {
+        "en": "I do not [h]do.[/h]\nI simply am.",
+        "pl": "Ja nie [h]zajmuję się[/h] niczym.\nJa po prostu jestem.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds29": {
+        "en": "[h]My[/h] captain? Never.",
+        "pl": "[h]Mój[/h] kapitan? Nigdy.",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds30": {
+        "en": "[i]Who [h]is[/h] this woman??[/i]",
+        "pl": "[i]Kim [h]jest[/h] ta kobieta??[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 01 INTRO/Section ds34": {
+        "en": "[h]My[/h] captain is the [i]wind[/i] as it whispers through the valley...",
+        "pl": "[h]Moim[/h] kapitanem jest [i]wiatr[/i] szepczący przez dolinę...",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds35": {
+        "en": "[i]No idea.\nI kind of like her, though?[/i]",
+        "pl": "[i]Nie mam pojęcia.\nChoć chyba ją trochę lubię?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Moon 01 INTRO/Section ds7": {
+        "en": "Uh - we're not... weary travellers.",
+        "pl": "Yy - nie jesteśmy... znużonymi podróżnymi.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Moon 01 INTRO/Section ds8": {
+        "en": "Then, why d'you both look so [i]haggard and trailworn?[/i]",
+        "pl": "W takim razie, czemu oboje wyglądacie tak [i]wymizerowani i utrudzeni drogą?[/i]",
+        "speaker": "Moon"
+      },
+      "Conversation/Moon 01 INTRO/Section ds9": {
+        "en": "Ouch. There goes [i]my[/i] self-esteem for the rest of the day.",
+        "pl": "Ał. No i po [i]mojej[/i] samoocenie na resztę dnia.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

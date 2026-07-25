@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "batch": "Symmetry 06 LOCKET (3 terminy) - konczy caly luk Symmetry (292/292). Krotka scena prezentacji jej medalionu jako dowodu.",
+    "date": "2026-07-24",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - 3/3 pokryte: Symmetry 2, Sally 1"
+  },
+  "categories": {
+    "Symmetry 06 LOCKET": {
+      "Conversation/Symmetry 06 LOCKET/Section ds0": {
+        "en": "Please be careful.",
+        "pl": "Proszę, bądźcie ostrożni.",
+        "speaker": "Symmetry"
+      },
+      "Conversation/Symmetry 06 LOCKET/Section ds8": {
+        "en": "Sym, could we take a closer look at your locket?",
+        "pl": "Sym, czy moglibyśmy przyjrzeć się bliżej twojemu medalionowi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Symmetry 06 LOCKET/Section ds9": {
+        "en": "I suppose so...",
+        "pl": "Przypuszczam, że tak...",
+        "speaker": "Symmetry"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}
