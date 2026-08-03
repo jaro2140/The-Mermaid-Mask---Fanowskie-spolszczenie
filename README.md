@@ -19,7 +19,7 @@ Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
 | Teksty (menu, opcje, UI) | **Gotowe (100%)** |
 | Teksty (dialogi, śledztwo, zagadki, dowody) | **Gotowe (100%)** |
 | Opisy dowodów w bazie danych gry (`devTexts`) | **Gotowe (100%)** |
-| Czcionki (polskie znaki) | **W trakcie** |
+| Czcionki (polskie znaki) | **Gotowe — poprawka v44** |
 | Patch/instalator | **Gotowy** |
 | Testy w grze | **W trakcie** |
 
@@ -40,7 +40,7 @@ Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
 ## Instalacja
 
 Wymagana legalnie posiadana kopia gry (Steam/GOG, SteamOS/Steam Deck lub Windows).
-1. Pobierz najnowszą paczkę z [Releases](../../releases) - **jeden ZIP**, gotowy do użycia** (zawiera już instalator i spatchowane pliki razem).
+1. Pobierz najnowszą paczkę z [Releases](../../releases) — **jeden ZIP, gotowy do użycia** (zawiera instalator i spatchowane pliki razem).
 2. Rozpakuj ZIP **w dowolnym miejscu** (pulpit, pobrane, gdziekolwiek).
 3. Uruchom instalator z rozpakowanego folderu:
    - **Linux / SteamOS / Steam Deck**: `cd linux && ./install-pl.sh`

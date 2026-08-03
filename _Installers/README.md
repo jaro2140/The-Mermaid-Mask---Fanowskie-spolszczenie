@@ -1,7 +1,18 @@
-# _Installers
+# The Mermaid Mask — polskie tłumaczenie
 
-Samodzielny pakiet instalacyjny - pobierz, rozpakuj gdziekolwiek, uruchom
-skrypt dla swojego systemu (`linux/` lub `windows/`). Robi kopię zapasową
-oryginalnych plików przed instalacją.
+Ten folder jest kompletnym, samodzielnym instalatorem. Rozpakuj ZIP w dowolnym
+miejscu i uruchom skrypt dla swojego systemu:
 
-Instrukcje użycia: [README główne](../README.md).
+- **Linux / SteamOS / Steam Deck:** `cd linux && ./install-pl.sh`
+- **Windows:** przejdź do folderu `windows` i uruchom
+  `powershell -ExecutionPolicy Bypass -File install-pl.ps1`
+
+Instalator automatycznie wyszuka grę i przed podmianą plików utworzy ich kopię
+zapasową. Jeśli nie znajdzie gry, podaj jej folder jako argument skryptu albo
+ustaw `GAME_PATH` w pliku `game-path.env` utworzonym z
+`game-path.env.example`.
+
+Po instalacji wybierz w grze: **Opcje → Język tekstu → Polski**.
+
+Oryginalne pliki można przywrócić skryptem `restore-original.sh` albo
+`restore-original.ps1` z folderu właściwego dla systemu.
