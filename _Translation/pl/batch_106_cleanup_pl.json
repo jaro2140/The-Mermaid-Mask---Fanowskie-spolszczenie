@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "batch": "Sprzatanie koncowe - dokonczenie kategorii I2Loc pominietych we wczesniejszym spisie: brakujaca mikro-scena Conversation/Gripp 06 CANE (2 linie, przeoczona wczesniej mimo ze luk Grippa oznaczono jako kompletny), Demo (9 - UI ekranu demo), Chapter (8 - etykiety numerow rozdzialow), Chapters (8 - WLASCIWE TYTULY rozdzialow gry, w tym zabawne, korespondujace ze soba tytuly 2 i 4 o Czarnej Skrzynce), SaveMerge (6 - UI konfliktu zapisu w chmurze), Casefile (2 - etykiety UI), Mouse (1). Kategoria Fonts (26, mapowania Material/FontAsset) i Extra/AlphaNum (1, techniczny zestaw znakow) CELOWO pominiete - nie sa tekstem do tlumaczenia (patrz build_patch.py, ktory technicznie zachowuje 26 mapowan Font/Material).",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "note": "Odkryto podczas koncowej weryfikacji pokrycia calej kategorii I2Loc (12035 terminow) - porownanie zrodla z suma wszystkich dotychczasowych batchy ujawnilo te male, pominiete grupy. Po tym batchu kategoria I2Loc jest w pelni kompletna (12035-26 Fonts-1 AlphaNum = 12008/12008 przetlumaczonych)."
+  },
+  "categories": {
+    "Cleanup": {
+      "Conversation/Gripp 06 CANE/Section ds0": {
+        "en": "You wish to [i]converse[/i] with Cornelius?",
+        "pl": "Chcecie [i]porozmawiać[/i] z Corneliusem?"
+      },
+      "Conversation/Gripp 06 CANE/Section ds6": {
+        "en": "-he'll be [i]thrilled.[/i]",
+        "pl": "-będzie [i]zachwycony[/i]."
+      },
+      "Demo/Back to Title Screen": {
+        "en": "Back to Title Screen",
+        "pl": "Powrót do Ekranu Tytułowego"
+      },
+      "Demo/Open Steam Page": {
+        "en": "Open Steam Page",
+        "pl": "Otwórz Stronę Steam"
+      },
+      "Demo/Thanks for playing!": {
+        "en": "Thank you for playing",
+        "pl": "Dziękujemy za grę"
+      },
+      "Demo/The Mermaid Mask is available now!": {
+        "en": "The Mermaid Mask is available now!",
+        "pl": "The Mermaid Mask jest już dostępna!"
+      },
+      "Demo/Title": {
+        "en": "The Mermaid Mask Demo",
+        "pl": "The Mermaid Mask - Demo"
+      },
+      "Demo/View the Art Galllery": {
+        "en": "View the \nArt Galllery",
+        "pl": "Zobacz\nGalerię Sztuki"
+      },
+      "Demo/Visit store page": {
+        "en": "Visit store page",
+        "pl": "Odwiedź stronę sklepu"
+      },
+      "Demo/Wishlist": {
+        "en": "Wishlist",
+        "pl": "Lista życzeń"
+      },
+      "Demo/Wishlist on Steam": {
+        "en": "<sprite=0 tint=1>Wishlist on Steam",
+        "pl": "<sprite=0 tint=1>Dodaj do listy życzeń na Steam"
+      },
+      "Chapter/CONTINUE": {
+        "en": "Continue",
+        "pl": "Kontynuuj"
+      },
+      "Chapter/Chapter Five": {
+        "en": "chapter five",
+        "pl": "rozdział piąty"
+      },
+      "Chapter/Chapter Four": {
+        "en": "chapter four",
+        "pl": "rozdział czwarty"
+      },
+      "Chapter/Chapter One": {
+        "en": "chapter one",
+        "pl": "rozdział pierwszy"
+      },
+      "Chapter/Chapter Seven": {
+        "en": "chapter seven",
+        "pl": "rozdział siódmy"
+      },
+      "Chapter/Chapter Six": {
+        "en": "chapter six",
+        "pl": "rozdział szósty"
+      },
+      "Chapter/Chapter Three": {
+        "en": "chapter three",
+        "pl": "rozdział trzeci"
+      },
+      "Chapter/Chapter Two": {
+        "en": "chapter two",
+        "pl": "rozdział drugi"
+      },
+      "Chapters/Chapter 0": {
+        "en": "The Beginning",
+        "pl": "Początek"
+      },
+      "Chapters/Chapter 1": {
+        "en": "The Curse in the Cauldron",
+        "pl": "Klątwa w Kotle"
+      },
+      "Chapters/Chapter 2": {
+        "en": "The Box that Would Not Open",
+        "pl": "Skrzynka, Która Nie Chciała Się Otworzyć"
+      },
+      "Chapters/Chapter 3": {
+        "en": "Secrets of the Mortuga Submarine",
+        "pl": "Sekrety Łodzi Podwodnej Mortuga"
+      },
+      "Chapters/Chapter 4": {
+        "en": "The Box that was Actually Really Easy to Open",
+        "pl": "Skrzynka, Którą Tak Naprawdę Było Bardzo Łatwo Otworzyć"
+      },
+      "Chapters/Chapter 5": {
+        "en": "The Unveiling of the Illusion Theatre",
+        "pl": "Odsłonięcie Teatru Iluzji"
+      },
+      "Chapters/Chapter 6": {
+        "en": "The Murder of Magnus Mortuga",
+        "pl": "Morderstwo Magnusa Mortugi"
+      },
+      "Chapters/Chapter 7": {
+        "en": "The Wayward Navigator",
+        "pl": "Zbłąkany Nawigator"
+      },
+      "SaveMerge/Conflict": {
+        "en": "Your save data in the cloud and on your device are different. Please choose one to keep. The other will be discarded.",
+        "pl": "Twoje dane zapisu w chmurze i na urządzeniu różnią się. Wybierz, które zachować. Pozostałe zostaną odrzucone."
+      },
+      "SaveMerge/Device": {
+        "en": "Device: ",
+        "pl": "Urządzenie: "
+      },
+      "SaveMerge/GameCenterID": {
+        "en": "Your GameCenter ID:",
+        "pl": "Twój identyfikator GameCenter:"
+      },
+      "SaveMerge/Keep": {
+        "en": "Keep",
+        "pl": "Zachowaj"
+      },
+      "SaveMerge/Last Save": {
+        "en": "Last Save: ",
+        "pl": "Ostatni zapis: "
+      },
+      "SaveMerge/Sure": {
+        "en": "Are you sure?",
+        "pl": "Czy na pewno?"
+      },
+      "Casefile/Clues Presented": {
+        "en": "Clues Presented",
+        "pl": "Przedstawione Dowody"
+      },
+      "Casefile/Suspects Presented": {
+        "en": "Suspects Presented",
+        "pl": "Przedstawieni Podejrzani"
+      },
+      "Mouse": {
+        "en": "Mouse",
+        "pl": "Mysz"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Chapters/Chapter 2 i Chapter 4",
+      "en": "'The Box that Would Not Open' / 'The Box that was Actually Really Easy to Open'",
+      "propozycja": "Skrzynka, Która Nie Chciała Się Otworzyć / Skrzynka, Którą Tak Naprawdę Było Bardzo Łatwo Otworzyć",
+      "problem": "Zamierzony żart/callback miedzy tytulami dwoch rozdzialow (Czarna Skrzynka najpierw wydaje sie nie do otwarcia, potem okazuje sie latwa) - zachowano dlugosc i humor tytulu, do sprawdzenia czy dobrze miesci sie w UI wyboru rozdzialu w grze."
+    }
+  ]
+}

@@ -1,9 +1,14 @@
 # Windows Installers
 
-Miejsce na instalator Windows, np. skrypt PowerShell:
+Skrypty PowerShell instalujące polskie tłumaczenie The Mermaid Mask.
 
-- `install-pl.ps1`
-- `restore-original.ps1`
-- `verify-install.ps1`
+```powershell
+cd windows
+powershell -ExecutionPolicy Bypass -File install-pl.ps1
+```
 
-Przenieś tu logikę z wariantu Linux po ustaleniu konkretnych plików gry.
+Jeśli automatyczne wykrycie gry nie zadziała, podaj ścieżkę:
+`install-pl.ps1 -GamePath "C:\ścieżka\do\gry"`.
+
+Przywrócenie oryginału: `restore-original.ps1`. Weryfikacja instalacji:
+`verify-install.ps1`.

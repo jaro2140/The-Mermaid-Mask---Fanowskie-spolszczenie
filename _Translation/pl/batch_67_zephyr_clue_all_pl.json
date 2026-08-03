@@ -1,0 +1,1723 @@
+{
+  "_meta": {
+    "batch": "Zephyr CLUE X (~53 sceny, 321 terminow) - reakcje Zephyra (Doktor Snow, formalny/mistyczny rejestr) na kazdy dowod w grze. OSTATNIA postac w kategorii 'CLUE X' - po tym batchu kategoria jest KOMPLETNA dla wszystkich 8 glownych podejrzanych (Moon, Dirk, Gripp, Sinthia, Symmetry, Tadpole, Wirman, Zephyr).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - pokrycie pelne.",
+    "character_voice": "Zephyr: kontynuacja formalnego, mistyczno-ceremonialnego rejestru (batch_40-43)."
+  },
+  "categories": {
+    "Zephyr CLUE ActionFigure": {
+      "Conversation/Zephyr CLUE ActionFigure/Section ds6": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds7": {
+        "en": "Makes it more valuable - to a collector.",
+        "pl": "To czyni to cenniejszym - dla kolekcjonera.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds13": {
+        "en": "Why is it still encased in polypropylene?",
+        "pl": "Czemu wciąż jest zamknięta w polipropylenie?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds17": {
+        "en": "Surely you get it - [i]you're[/i] a kind of collector, aren't you?",
+        "pl": "Z pewnością to rozumiesz - [i]ty[/i] też jesteś swego rodzaju kolekcjonerem, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds18": {
+        "en": "I collect only [i]one-of-a-kind[/i] items, and [h]only[/h] those with significant provenance.",
+        "pl": "Kolekcjonuję jedynie [i]unikatowe[/i] przedmioty, i [h]jedynie[/h] te o znaczącej proweniencji.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds21": {
+        "en": "[i]Technically[/i], this [i]does[/i] have significant provenance.",
+        "pl": "[i]Technicznie[/i] rzecz biorąc, to [i]ma[/i] znaczącą proweniencję.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds22": {
+        "en": "Since it's owned by Dirk - and he's the actor who plays the character.",
+        "pl": "Ponieważ należy do Dirka - a on jest aktorem, który gra tę postać.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE ActionFigure/Section ds23": {
+        "en": "Oh yeah.",
+        "pl": "O tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE BalloonBasket": {
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds6": {
+        "en": "I remember the first time I laid [i]eyes[/i] on Godrik Gripp, he was dragging [i]this[/i] through the parlor.",
+        "pl": "Pamiętam, kiedy po raz pierwszy me [i]oczy[/i] spoczęły na Godriku Grippie, ciągnął [i]to[/i] przez salon.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds7": {
+        "en": "Man and basket both, [i]soaked to the core[/i] - having just been pulled from the ocean.",
+        "pl": "Zarówno mężczyzna, jak i kosz, [i]przemoczeni do szpiku[/i] - dopiero co wyłowieni z oceanu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds8": {
+        "en": "I wonder why he bothered to bring the basket into the submarine?",
+        "pl": "Zastanawiam się, czemu zadał sobie trud, żeby wnieść kosz na łódź podwodną?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds9": {
+        "en": "...maybe he wanted to fix up his balloon and try flying it again.",
+        "pl": "...może chciał naprawić swój balon i spróbować znów nim polatać.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds11": {
+        "en": "If that [h]was[/h] his intention, he showed no signs of acting upon it.",
+        "pl": "Jeśli to [h]było[/h] jego zamiarem, nie wykazał żadnych oznak, by to zrealizować.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds13": {
+        "en": "This is after he crashed his hot air balloon?",
+        "pl": "To po tym, jak rozbił swój balon na ogrzane powietrze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE BalloonBasket/Section ds14": {
+        "en": "Apparently so.",
+        "pl": "Podobno tak.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE BlackBox": {
+      "Conversation/Zephyr CLUE BlackBox/Section ds0": {
+        "en": "I am unfamiliar with this...",
+        "pl": "Nie znam tego...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BlackBox/Section ds6": {
+        "en": "Where was it located?",
+        "pl": "Gdzie się znajdowało?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BlackBox/Section ds7": {
+        "en": "It was in the captain's quarters.",
+        "pl": "Było w kwaterze kapitańskiej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE BlackBox/Section ds8": {
+        "en": "Ah. Then it is no mystery... for I have never set foot in that room.",
+        "pl": "Ach. Więc to nie tajemnica... gdyż nigdy nie postawiłem stopy w tym pomieszczeniu.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE BlurryPhoto": {
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds0": {
+        "en": "A photograph of a divine moon ritual. ",
+        "pl": "Fotografia boskiego rytuału księżycowego. ",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds6": {
+        "en": "The man holds the orb aloft, and the being within is imbued with rays of mystic light, granting eternal moon wisdom.",
+        "pl": "Mężczyzna unosi kulę w górze, a istota w środku przesiąka promieniami mistycznego światła, obdarowując wieczystą mądrością księżyca.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds8": {
+        "en": "Eternal moon wisdom, huh?",
+        "pl": "Wieczysta mądrość księżyca, co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds9": {
+        "en": "I have that. I skipped the ritual, though - I was just born with it.",
+        "pl": "Ja to mam. Pominęłam jednak rytuał - po prostu się z tym urodziłam.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds10": {
+        "en": "Also I can shoot moon lasers out of my eyes.",
+        "pl": "Poza tym potrafię strzelać księżycowymi laserami z oczu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds11": {
+        "en": "Impressive.",
+        "pl": "Imponujące.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BlurryPhoto/Section ds12": {
+        "en": "Now you're just being ridiculous.",
+        "pl": "Teraz to już jesteś po prostu śmieszna.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE BrokenCompass": {
+      "Conversation/Zephyr CLUE BrokenCompass/Section ds0": {
+        "en": "The ship's compass...",
+        "pl": "Kompas statku...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BrokenCompass/Section ds6": {
+        "en": "I witnessed Sinthia carrying this from the control room the night Magnus was murdered.",
+        "pl": "Byłem świadkiem, jak Sinthia niosła to z centrali dowodzenia tej nocy, kiedy Magnus został zamordowany.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BrokenCompass/Section ds7": {
+        "en": "Yeah, I think it broke. She was taking it to get fixed.",
+        "pl": "Tak, wydaje mi się, że się zepsuł. Niosła go do naprawy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE BrokenCompass/Section ds8": {
+        "en": "Odd, it's never broken before...",
+        "pl": "Dziwne, nigdy wcześniej się nie zepsuł...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE BrokenCompass/Section ds9": {
+        "en": "[i]There must be a connection...[/i]",
+        "pl": "[i]Musi być jakiś związek...[/i]",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE CaptainsJacket": {
+      "Conversation/Zephyr CLUE CaptainsJacket/Section ds0": {
+        "en": "It's a fine garment, is it not?",
+        "pl": "To wytworny strój, czyż nie?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaptainsJacket/Section ds6": {
+        "en": "Has it been in the control room the whole time?",
+        "pl": "Był w centrali dowodzenia cały ten czas?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CaptainsJacket/Section ds7": {
+        "en": "From the moment I first entered the submarine.",
+        "pl": "Od chwili, gdy pierwszy raz wszedłem na łódź podwodną.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaptainsJacket/Section ds8": {
+        "en": "But it [h]doesn't[/h] belong to Mortuga?",
+        "pl": "Ale [h]nie należy[/h] do Mortugi?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CaptainsJacket/Section ds9": {
+        "en": "It does not.",
+        "pl": "Nie należy.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE CaptainsLog": {
+      "Conversation/Zephyr CLUE CaptainsLog/Section ds6": {
+        "en": "Magnus was fairly averse to [i]recordkeeping.[/i]",
+        "pl": "Magnus był dość niechętny [i]prowadzeniu zapisków.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaptainsLog/Section ds7": {
+        "en": "However - standard protocol would be for the captain to keep a record of every single [h]day.[/h]",
+        "pl": "Jednakże - standardowy protokół nakazywałby kapitanowi prowadzić zapis co [h]dnia.[/h]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaptainsLog/Section ds8": {
+        "en": "He can't have been [h]that[/h] against it - if he bothered to write in the captain's log.",
+        "pl": "Nie mógł być [h]aż tak[/h] przeciwny temu - skoro zadał sobie trud pisania w dzienniku kapitana.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CaptainsLog/Section ds9": {
+        "en": "Whereas Magnus only filed a handful of these log cards in his entire tenure.",
+        "pl": "Podczas gdy Magnus złożył zaledwie garstkę tych kart podczas całej swojej kadencji.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE CaretakersJournal": {
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds0": {
+        "en": "What [i]is[/i] this, anyway?",
+        "pl": "Co to w ogóle [i]jest?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds6": {
+        "en": "It is what it [i]says[/i] it is, a quarterly journal of listings and enquiries.",
+        "pl": "Jest tym, czym [i]twierdzi,[/i] że jest - kwartalnym dziennikiem ofert i zapytań.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds15": {
+        "en": "I noticed the prices are listed as ounces - and that's [i]gold[/i], I'm pretty sure.",
+        "pl": "Zauważyłam, że ceny są podane w uncjach - a to [i]złoto,[/i] jestem prawie pewna.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds16": {
+        "en": "These numbers are merely a way to ascribe a universal value.",
+        "pl": "Te liczby to jedynie sposób na przypisanie uniwersalnej wartości.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds18": {
+        "en": "Most transactions take the form of a [i]trade[/i], exchanging items of equivalent worth.",
+        "pl": "Większość transakcji przybiera formę [i]wymiany,[/i] zamiany przedmiotów o równoważnej wartości.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds21": {
+        "en": "What about that last one?\n[i]'The Mermaid's Tongue'?[/i]",
+        "pl": "A co z tą ostatnią?\n[i]'Język Syreny'?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds22": {
+        "en": "Wait, so - are these things that people [h]have[/h] and they want to [h]sell?[/h] Or is it stuff people want to [h]buy?[/h]",
+        "pl": "Czekaj, więc - to rzeczy, które ludzie [h]mają[/h] i chcą [h]sprzedać?[/h] Czy rzeczy, które ludzie chcą [h]kupić?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds23": {
+        "en": "Both.",
+        "pl": "Jedno i drugie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds24": {
+        "en": "Likely, the most contentious item ever to be listed in the Journal.",
+        "pl": "Prawdopodobnie najbardziej sporny przedmiot, jaki kiedykolwiek wpisano do Dziennika.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds26": {
+        "en": "[i]Desperately[/i] coveted by those who believe, and disdained by those who don't.",
+        "pl": "[i]Rozpaczliwie[/i] pożądany przez tych, którzy wierzą, i lekceważony przez tych, którzy nie wierzą.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds27": {
+        "en": "Those who believe [h]what?[/h]",
+        "pl": "Ci, którzy wierzą w [h]co?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CaretakersJournal/Section ds28": {
+        "en": "That such a thing could even [i]exist.[/i]",
+        "pl": "Że coś takiego mogłoby w ogóle [i]istnieć.[/i]",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE CaseFile": {
+      "Conversation/Zephyr CLUE CaseFile/Section ds10": {
+        "en": "It seems our collective fate hangs on the outcome of your investigation...",
+        "pl": "Zdaje się, że nasz wspólny los zawisł od wyniku waszego śledztwa...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaseFile/Section ds22": {
+        "en": "I guess...",
+        "pl": "Chyba tak...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CaseFile/Section ds23": {
+        "en": "This is a good thing, it is [i]high time[/i] for a shifting of the tides.",
+        "pl": "To dobra rzecz, [i]najwyższy czas[/i] na zmianę biegu wydarzeń.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaseFile/Section ds24": {
+        "en": "There are too many souls aboard this ship. Many of them seeking things they shall [i]not find.[/i]",
+        "pl": "Zbyt wiele dusz jest na pokładzie tego statku. Wiele z nich szuka rzeczy, których [i]nie znajdą.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CaseFile/Section ds26": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE CellPhone": {
+      "Conversation/Zephyr CLUE CellPhone/Section ds0": {
+        "en": "I have no interest in such a device...",
+        "pl": "Nie mam zainteresowania takim urządzeniem...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CellPhone/Section ds6": {
+        "en": "It is merely the debris of an exoteric society, it holds no energy.",
+        "pl": "To jedynie odpadek egzoterycznego społeczeństwa, nie niesie żadnej energii.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CellPhone/Section ds7": {
+        "en": "Sure it does. Says right there - battery, 23%.",
+        "pl": "Jasne, że niesie. Jest tu napisane - bateria, 23%.",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE CommandContract": {
+      "Conversation/Zephyr CLUE CommandContract/Section ds7": {
+        "en": "It rather seems that Sinthia is using the contract as a [i]talisman.[/i]",
+        "pl": "Wygląda raczej na to, że Sinthia używa kontraktu jako [i]talizmanu.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CommandContract/Section ds8": {
+        "en": "A talisman? Like - as protection?",
+        "pl": "Talizmanu? Jak - jako ochrona?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CommandContract/Section ds9": {
+        "en": "Correct. The contract is a [i]shield[/i] behind which Sinthia hides.",
+        "pl": "Zgadza się. Kontrakt to [i]tarcza,[/i] za którą Sinthia się chowa.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CommandContract/Section ds11": {
+        "en": "I did notice - she taped it to the back of the chair in the control room, so it's like you can't go in there unless you acknowledge it.",
+        "pl": "Zauważyłam - przykleiła go do tyłu fotela w centrali dowodzenia, więc jakbyś nie mógł tam wejść, jeśli tego nie zauważysz.",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE CurseCauldron": {
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds10": {
+        "en": "Before we left port on the submarine's maiden voyage, Magnus asked a favor of me;",
+        "pl": "Zanim opuściliśmy port w dziewiczy rejs łodzi podwodnej, Magnus poprosił mnie o przysługę;",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds11": {
+        "en": "He wished for me to venture into the Stonetop Inn, collect this cauldron, and bring it on board.",
+        "pl": "Pragnął, bym udał się do Gospody Stonetop, zabrał ten kocioł, i przyniósł go na pokład.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds12": {
+        "en": "Why couldn't he do it himself? He'd've been [i]strong[/i] enough, surely.",
+        "pl": "Czemu nie mógł zrobić tego sam? Z pewnością byłby dość [i]silny.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds14": {
+        "en": "I was already preparing to bring a large amount of heavy equipment on board-",
+        "pl": "Przygotowywałem się już, by przynieść na pokład dużą ilość ciężkiego sprzętu-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds15": {
+        "en": "-I suppose Magnus considered it logical to fold the cauldron into that set.",
+        "pl": "-przypuszczam, że Magnus uznał za logiczne, by włączyć kocioł do tego zestawu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds17": {
+        "en": "Was it shut? And locked?",
+        "pl": "Był zamknięty? I zablokowany?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds18": {
+        "en": "Shut, locked, and covered - with the sailcloth.",
+        "pl": "Zamknięty, zablokowany, i przykryty - żaglowym płótnem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds26": {
+        "en": "I'm not sure exactly.",
+        "pl": "Nie jestem dokładnie pewien.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE CurseCauldron/Section ds27": {
+        "en": "Magnus never told me what he kept inside it, if [i]that's[/i] what you're asking.",
+        "pl": "Magnus nigdy nie powiedział mi, co w nim trzymał, jeśli [i]o to[/i] pytasz.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE DivingLicense": {
+      "Conversation/Zephyr CLUE DivingLicense/Section ds7": {
+        "en": "An epitaph to human desperation - a totem of [i]yearning[/i] for a time long past.",
+        "pl": "Epitafium dla ludzkiej desperacji - totem [i]tęsknoty[/i] za czasem dawno minionym.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DivingLicense/Section ds9": {
+        "en": "If you say so!",
+        "pl": "Jeśli tak mówisz!",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE DreamHelmet": {
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds0": {
+        "en": "How come the goggles are blacked out?",
+        "pl": "Czemu gogle są zaczernione?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds6": {
+        "en": "It is a weighted sleeping mask.",
+        "pl": "To obciążona maska do spania.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds7": {
+        "en": "To induce REM sleep?",
+        "pl": "Żeby wywołać sen REM?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds8": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds9": {
+        "en": "What's rem sleep?",
+        "pl": "Co to sen REM?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds10": {
+        "en": "That's the kind of sleep where you dream.",
+        "pl": "To rodzaj snu, w którym śnisz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds11": {
+        "en": "Aha.",
+        "pl": "Aha.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds12": {
+        "en": "So - what's the big funnel on top?",
+        "pl": "Więc - co to za wielki lejek na górze?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds13": {
+        "en": "It is an energy filter.",
+        "pl": "To filtr energii.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds14": {
+        "en": "So it filters the dreams as they come out of your head?",
+        "pl": "Więc filtruje sny, kiedy wychodzą z twojej głowy?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds15": {
+        "en": "The opposite.",
+        "pl": "Odwrotnie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds16": {
+        "en": "It filters the dreams on their way [h]into[/h] your head?",
+        "pl": "Filtruje sny, kiedy [h]wchodzą[/h] do twojej głowy?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds17": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds18": {
+        "en": "Oh yeah, [i]dreams are transmissions from another dimension[/i]. I forgot.",
+        "pl": "O tak, [i]sny to transmisje z innego wymiaru.[/i] Zapomniałem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds19": {
+        "en": "But what's the point of filtering them? What does it [h]do?[/h]",
+        "pl": "Ale jaki jest sens ich filtrowania? Co to [h]robi?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds20": {
+        "en": "To study the transmission it is first necessary to change the [i]format[/i] of the energy signature.",
+        "pl": "Aby badać transmisję, trzeba najpierw zmienić [i]format[/i] sygnatury energii.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds21": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds23": {
+        "en": "Oh, like when you change a WAV to an MP3?",
+        "pl": "Och, jak wtedy, kiedy zmieniasz WAV na MP3?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DreamHelmet/Section ds25": {
+        "en": "This is a syntax with which I am... not familiar.",
+        "pl": "To składnia, z którą jestem... niezaznajomiony.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE DriftwoodCane": {
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds0": {
+        "en": "Godrik Gripp's [i]hand-carved talisman.[/i]",
+        "pl": "[i]Ręcznie rzeźbiony talizman[/i] Godrika Grippa.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds6": {
+        "en": "Nonetheless, I conclude that it is imbued with energy - and its primary function is to be an anchor.",
+        "pl": "Niemniej jednak wnioskuję, że jest przesiąknięty energią - a jego główną funkcją jest bycie kotwicą.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds7": {
+        "en": "You think [i]everything's[/i] a talisman.",
+        "pl": "Myślisz, że [i]wszystko[/i] jest talizmanem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds8": {
+        "en": "I thought it was just a part of the branding for his shop.",
+        "pl": "Myślałam, że to po prostu część brandingu jego sklepu.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds9": {
+        "en": "It way [i]well[/i] be.",
+        "pl": "Może [i]też[/i] tak być.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds10": {
+        "en": "Ah, it's not [i]heavy[/i] enough to be an anchor. I'm pretty sure it would float.",
+        "pl": "Ach, nie jest wystarczająco [i]ciężka,[/i] żeby być kotwicą. Jestem prawie pewien, że by pływała.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds11": {
+        "en": "It [h]would[/h] float... what an enchanting thought.",
+        "pl": "[h]Pływałaby[/h]... jakże urzekająca myśl.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds12": {
+        "en": "He means an [i]emotional[/i] anchor.",
+        "pl": "Ma na myśli kotwicę [i]emocjonalną.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds13": {
+        "en": "Uh-oh. You've given him an idea...",
+        "pl": "O nie. Dałaś mu pomysł...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds14": {
+        "en": "It may transpire that the [i]true[/i] meaning of the cane is found in its [i]unsinkability.[/i]",
+        "pl": "Może się okazać, że [i]prawdziwe[/i] znaczenie laski leży w jej [i]niezatapialności.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds15": {
+        "en": "Like some kind of life preserver?",
+        "pl": "Jak jakieś koło ratunkowe?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds16": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds20": {
+        "en": "Oh.\n[i]Right.[/i]",
+        "pl": "Och.\n[i]No tak.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE DriftwoodCane/Section ds21": {
+        "en": "So... it's a - reminder not to sink. Not to drown.",
+        "pl": "Więc... to - przypomnienie, żeby nie zatonąć. Żeby nie utonąć.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE FamilyPhoto": {
+      "Conversation/Zephyr CLUE FamilyPhoto/Section ds16": {
+        "en": "This seems to be a personal item of Sinthia's.",
+        "pl": "To zdaje się być osobistym przedmiotem Sinthii.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FamilyPhoto/Section ds17": {
+        "en": "As such... it is not my place to make comment.",
+        "pl": "Jako takie... nie moja rzecz to komentować.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE FeliciaPainting": {
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds0": {
+        "en": "I believe this is a painting of Magnus's old boss and landlord.",
+        "pl": "Wierzę, że to obraz dawnej szefowej i właścicielki mieszkania Magnusa.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds6": {
+        "en": "And you met her?",
+        "pl": "I poznałeś ją?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds7": {
+        "en": "I laid eyes on her briefly, when I first visited Silkwirm.",
+        "pl": "Rzuciłem na nią okiem przelotnie, kiedy pierwszy raz odwiedziłem Silkwirm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds8": {
+        "en": "What happened to her?",
+        "pl": "Co się z nią stało?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds9": {
+        "en": "I couldn't say.",
+        "pl": "Nie potrafię powiedzieć.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds10": {
+        "en": "-is [h]that[/h] who she is??",
+        "pl": "-czy [h]to[/h] jest ona??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds11": {
+        "en": "Felicia, her name was.",
+        "pl": "Felicia, tak miała na imię.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds12": {
+        "en": "Mortuga never told you?",
+        "pl": "Mortuga nigdy ci nie powiedział?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds13": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds14": {
+        "en": "Maybe he didn't know either.",
+        "pl": "Może on też nie wiedział.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FeliciaPainting/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE Figurehead": {
+      "Conversation/Zephyr CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE FilmProjector": {
+      "Conversation/Zephyr CLUE FilmProjector/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FilmProjector/Section ds7": {
+        "en": "Hm. An apparition of Death. Intriguing.",
+        "pl": "Hm. Zjawa Śmierci. Intrygujące.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FilmProjector/Section ds8": {
+        "en": "But - it's a [i]woman.[/i]",
+        "pl": "Ale - to [i]kobieta.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FilmProjector/Section ds9": {
+        "en": "[i]Wow.[/i] Death could be a woman. You don't know.",
+        "pl": "[i]Wow.[/i] Śmierć mogłaby być kobietą. Nie wiesz tego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE FilmProjector/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE FogBall": {
+      "Conversation/Zephyr CLUE FogBall/Section ds0": {
+        "en": "Where d'you get [h]this[/h] from?",
+        "pl": "Skąd masz [h]to?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds6": {
+        "en": "It is on loan - from Miss Silkmoth.",
+        "pl": "Jest wypożyczone - od panny Silkmoth.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds7": {
+        "en": "So it's for some kind of magic trick?",
+        "pl": "Więc to do jakiejś sztuczki magicznej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds8": {
+        "en": "I thought it was a crystal ball... like a [i]fortune teller[/i] would use.",
+        "pl": "Myślałem, że to kula kryształowa... jakiej używałaby [i]wróżka.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds9": {
+        "en": "Indeed, it is a divining orb - of a sort.",
+        "pl": "Rzeczywiście, to kula wróżebna - swego rodzaju.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds10": {
+        "en": "[i]Right.[/i] But I'm sure whatever [h]you're[/h] using it for is totally rational and sensible-",
+        "pl": "[i]No tak.[/i] Ale jestem pewien, że cokolwiek, do czego [h]ty[/h] jej używasz, jest całkowicie racjonalne i rozsądne-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds11": {
+        "en": "However, I am not using it to see into the future, for such a pursuit is naught but folly and nonsense.",
+        "pl": "Jednakże nie używam jej, by zajrzeć w przyszłość, gdyż takie dążenie to nic innego jak głupota i nonsens.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds12": {
+        "en": "Do not [i]question[/i] the orb!",
+        "pl": "Nie [i]kwestionuj[/i] kuli!",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE FogBall/Section ds13": {
+        "en": "I'm [i]always[/i] telling him that.",
+        "pl": "[i]Zawsze[/i] mu to powtarzam.",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE GlassEyeball": {
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds0": {
+        "en": "That belonged to Magnus Mortuga, but I suppose it should pass along to Sinthia.",
+        "pl": "To należało do Magnusa Mortugi, ale przypuszczam, że powinno przejść na Sinthię.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds6": {
+        "en": "Sinthia doesn't get all of Mortuga's stuff, just because she took over as captain, surely?",
+        "pl": "Sinthia chyba nie dostaje wszystkich rzeczy Mortugi tylko dlatego, że przejęła dowództwo jako kapitan?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds7": {
+        "en": "Of course not. However, I imagine, at some point, Sinthia may [i]wish[/i] to unlock the captain's cabin.",
+        "pl": "Oczywiście, że nie. Jednakże wyobrażam sobie, że w pewnym momencie Sinthia może [i]zapragnąć[/i] otworzyć kajutę kapitańską.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds8": {
+        "en": "She'd need a glass eyeball to do that?",
+        "pl": "Potrzebowałaby do tego szklanej gałki ocznej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds9": {
+        "en": "Naturally.",
+        "pl": "Naturalnie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE GlassEyeball/Section ds11": {
+        "en": "While it holds the [i]pretense[/i] of being an eyeball... in truth, it is a [h]key.[/h]",
+        "pl": "Choć utrzymuje [i]pozory[/i] bycia gałką oczną... w rzeczywistości jest to [h]klucz.[/h]",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE GoldenLocket": {
+      "Conversation/Zephyr CLUE GoldenLocket/Section ds0": {
+        "en": "Now [h]this[/h] is a talisman, surely.",
+        "pl": "Teraz [h]to[/h] jest z pewnością talizman.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE GoldenLocket/Section ds6": {
+        "en": "On the surface it [i]appears[/i] so.",
+        "pl": "Na pierwszy rzut oka tak [i]się wydaje.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE GoldenLocket/Section ds7": {
+        "en": "However in this instance, I think the concept has been inverted.",
+        "pl": "Jednakże w tym przypadku, myślę, że koncepcja została odwrócona.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE GoldenLocket/Section ds8": {
+        "en": "A [h]reverse[/h] talisman.",
+        "pl": "[h]Odwrócony[/h] talizman.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE GoldenLocket/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE HandheldRadio": {
+      "Conversation/Zephyr CLUE HandheldRadio/Section ds0": {
+        "en": "[i]Fascinating.[/i]",
+        "pl": "[i]Fascynujące.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandheldRadio/Section ds6": {
+        "en": "Some unseen entity... is attempting to [i]speak[/i] with us through the radio.",
+        "pl": "Jakaś niewidzialna istota... próbuje [i]mówić[/i] do nas przez radio.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandheldRadio/Section ds7": {
+        "en": "I think it's just broken.",
+        "pl": "Myślę, że jest po prostu zepsute.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HandheldRadio/Section ds8": {
+        "en": "Of course it's broken.",
+        "pl": "Oczywiście, że jest zepsute.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandheldRadio/Section ds11": {
+        "en": "That's precisely what opens it up to ethereal transmission!",
+        "pl": "To właśnie otwiera je na eteryczną transmisję!",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE HandwrittenLetter": {
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds0": {
+        "en": "That's odd... this doesn't look like Magnus's [i]handwriting[/i] at all.",
+        "pl": "To dziwne... to zupełnie nie wygląda na [i]pismo[/i] Magnusa.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds6": {
+        "en": "It's not written by Mortuga.\nIt's from a guy named [i]'Ibis'.[/i]",
+        "pl": "To nie zostało napisane przez Mortugę.\nJest od faceta o imieniu [i]'Ibis'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds7": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds8": {
+        "en": "I saw the diagrams pertaining to the location of the Mortuga submarine - and I assumed Magnus must've [i]written[/i] it.",
+        "pl": "Widziałem diagramy dotyczące lokalizacji łodzi podwodnej Mortuga - i założyłem, że Magnus musiał to [i]napisać.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds9": {
+        "en": "For who else would [i]know[/i] such things?",
+        "pl": "Bo kto inny mógłby [i]wiedzieć[/i] takie rzeczy?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HandwrittenLetter/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE HexBottle": {
+      "Conversation/Zephyr CLUE HexBottle/Section ds0": {
+        "en": "[i]Okay, I'll bite.[/i]\nWhat's a Hex bottle?",
+        "pl": "[i]Dobra, dam się złapać.[/i]\nCzym jest Butelka Hexa?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds6": {
+        "en": "It is a glass container with a Hex inside.",
+        "pl": "To szklany pojemnik z Hexem w środku.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds8": {
+        "en": "I've been forthcoming thus far. [i]Unusually[/i] so, for a man of my nature.\n",
+        "pl": "Byłem dotąd otwarty. [i]Niezwykle[/i] jak na człowieka mojej natury.\n",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds9": {
+        "en": "A hex like a magic spell?",
+        "pl": "Hex, jak zaklęcie magiczne?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds13": {
+        "en": "What if we can prove it's got something to do with the murder? Or the crime scene?",
+        "pl": "A co, jeśli możemy udowodnić, że to ma coś wspólnego z morderstwem? Albo z miejscem zbrodni?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds16": {
+        "en": "However certain things I shall be keeping to myself-",
+        "pl": "Jednakże pewne rzeczy zachowam dla siebie-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds18": {
+        "en": "Ah, well, then you'd have [i]forced my hand[/i], wouldn't you?",
+        "pl": "Ach, cóż, wtedy [i]zmusilibyście mnie[/i] do działania, prawda?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HexBottle/Section ds20": {
+        "en": "-especially if it has no [i]bearing[/i] on your investigation.\n",
+        "pl": "-zwłaszcza jeśli nie ma to żadnego [i]znaczenia[/i] dla waszego śledztwa.\n",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE HexoftheHelmsman": {
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds0": {
+        "en": "A bit of light [i]reading[/i], hm?",
+        "pl": "Trochę lekkiej [i]lektury,[/i] hm?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds6": {
+        "en": "It's a book about - a [h]Hex.[/h]",
+        "pl": "To książka o - [h]Klątwie.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds7": {
+        "en": "So I see... a charming [i]pulp adventure[/i], by the looks of it.",
+        "pl": "Jak widzę... urocza [i]tania powieść przygodowa,[/i] jak się zdaje.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds8": {
+        "en": "-is it the same kind of Hex that's in your Hex bottle?",
+        "pl": "-czy to ten sam rodzaj Hexa, co w twojej Butelce Hexa?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds9": {
+        "en": "Hm, let's see...",
+        "pl": "Hm, zobaczmy...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds13": {
+        "en": "No, they're quite different.\n",
+        "pl": "Nie, są zupełnie różne.\n",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds15": {
+        "en": "The 'Hex' referred to here is merely an abstract form of curse that manifests, for the [i]most[/i] part-\n",
+        "pl": "'Hex', o którym tu mowa, to jedynie abstrakcyjna forma klątwy, która się objawia, w [i]przeważającej[/i] mierze-\n",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds16": {
+        "en": "Sorry - did you just read the entire book?",
+        "pl": "Przepraszam - właśnie przeczytałeś całą książkę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds17": {
+        "en": "Of course not.",
+        "pl": "Oczywiście, że nie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds18": {
+        "en": "Just chapters one through five.",
+        "pl": "Tylko rozdziały od pierwszego do piątego.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE HexoftheHelmsman/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE IllusionistPoster": {
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds12": {
+        "en": "As good as they were, it was not Miss Silkmoth's [i]parlor tricks[/i] that interested me.",
+        "pl": "Choć były dobre, to nie [i]sztuczki salonowe[/i] panny Silkmoth mnie interesowały.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds13": {
+        "en": "Rather, I was interested in the [i]base mindset[/i] they were a symptom of.",
+        "pl": "Raczej interesowało mnie [i]podstawowe nastawienie,[/i] którego były objawem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds14": {
+        "en": "...in particular, her ruminations upon the great unknowns of life and death.",
+        "pl": "...w szczególności, jej rozmyślania nad wielkimi niewiadomymi życia i śmierci.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds15": {
+        "en": "There are clues to it, right here. Look at the choice of words;",
+        "pl": "Są tego tropy, tuż tutaj. Spójrzcie na dobór słów;",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds16": {
+        "en": "And on the reverse, you need only look at the chosen [i]subject[/i] matter for her newest work.",
+        "pl": "A na odwrocie, wystarczy spojrzeć na wybrany [i]temat[/i] jej najnowszego dzieła.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds17": {
+        "en": "It's a grim reaper.",
+        "pl": "To ponury żniwiarz.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE IllusionistPoster/Section ds19": {
+        "en": "[i]Unfathomable.\nInconceivable.\n[/i]",
+        "pl": "[i]Niepojęte.\nNiewyobrażalne.\n[/i]",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE InnDeeds": {
+      "Conversation/Zephyr CLUE InnDeeds/Section ds0": {
+        "en": "I stayed at the Stonetop Inn myself. Back then it was under the care of a woman named Felicia...",
+        "pl": "Sam mieszkałem w Gospodzie Stonetop. W tamtym czasie była pod opieką kobiety imieniem Felicia...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE InnDeeds/Section ds6": {
+        "en": "I find this strange, for he was not a member of the Stonetop family.",
+        "pl": "Uważam to za dziwne, gdyż nie był członkiem rodziny Stonetop.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE InnDeeds/Section ds7": {
+        "en": "...but it seems to have passed on to Magnus some time later.",
+        "pl": "...ale wygląda na to, że przeszła później na Magnusa.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE IronBell": {
+      "Conversation/Zephyr CLUE IronBell/Section ds0": {
+        "en": "Magnus and I installed this in the captain's cabin shortly after we left port for the first time.",
+        "pl": "Magnus i ja zainstalowaliśmy to w kajucie kapitańskiej wkrótce po tym, jak po raz pierwszy opuściliśmy port.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds6": {
+        "en": "Did Mortuga [h]tell[/h] you why he wanted a big iron bell hanging over his desk?",
+        "pl": "Czy Mortuga [h]powiedział[/h] ci, czemu chciał, żeby wielki żelazny dzwon wisiał nad jego biurkiem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds7": {
+        "en": "It is [i]exceptionally[/i] heavy.",
+        "pl": "Jest [i]wyjątkowo[/i] ciężki.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds8": {
+        "en": "He merely said it was an object of great importance, and that he'd like to keep it close by.",
+        "pl": "Powiedział jedynie, że to przedmiot wielkiej wagi, i że chciałby mieć go blisko.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds9": {
+        "en": "D'you have any idea what it [h]is?[/h]",
+        "pl": "Masz pojęcie, czym to [h]jest?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds10": {
+        "en": "Hm. You referred to it as a [i]bell[/i], Detective?",
+        "pl": "Hm. Nazwałaś to [i]dzwonem,[/i] Detektywie?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds11": {
+        "en": "Yeah, just going by the shape. But it doesn't ring, so, we're not sure.",
+        "pl": "Tak, sądząc po kształcie. Ale nie dzwoni, więc, nie jesteśmy pewni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds12": {
+        "en": "You may be more correct than you know.",
+        "pl": "Możecie mieć rację bardziej, niż wam się wydaje.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds13": {
+        "en": "Personally, I believe it [h]is[/h] a bell - not in the musical sense, but rather - a [i]diving bell.[/i]",
+        "pl": "Osobiście wierzę, że to [h]jest[/h] dzwon - nie w sensie muzycznym, lecz raczej - [i]dzwon nurkowy.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds14": {
+        "en": "Which is to say it's designed to be lowered to the ocean floor.",
+        "pl": "Czyli został zaprojektowany, by opuszczać go na dno oceanu.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds15": {
+        "en": "With a [i]person[/i] inside?",
+        "pl": "Z [i]osobą[/i] w środku?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds16": {
+        "en": "I doubt it, it's not really big enough...",
+        "pl": "Wątpię, nie jest wystarczająco duży...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE IronBell/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE LifesizeDoll": {
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds0": {
+        "en": "An effigy... of Miss Silkmoth.",
+        "pl": "Kukła... panny Silkmoth.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds6": {
+        "en": "It's a doll she used to use in her magic tricks.",
+        "pl": "To lalka, której kiedyś używała w swoich sztuczkach magicznych.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds7": {
+        "en": "I'm still not quite sure why she brought it onto the [i]submarine[/i], though.",
+        "pl": "Wciąż jednak nie jestem pewien, czemu przywiozła to na [i]łódź podwodną.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds8": {
+        "en": "It's possible that it's bound to her - and thus leaving it behind was not possible.",
+        "pl": "Możliwe, że jest z nią związana - a więc pozostawienie jej nie było możliwe.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds9": {
+        "en": "[i]Bound?[/i]",
+        "pl": "[i]Związana?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds10": {
+        "en": "Through magic. Once bound, an effigy shares its fate with the person in question.",
+        "pl": "Poprzez magię. Raz związana, kukła dzieli los z osobą, o którą chodzi.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds11": {
+        "en": "Permanently?",
+        "pl": "Na stałe?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds12": {
+        "en": "Not necessarily.",
+        "pl": "Niekoniecznie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds13": {
+        "en": "If a [i]rupture[/i] were to form between the two, they may become separated once more.",
+        "pl": "Gdyby powstało [i]pęknięcie[/i] między nimi, mogłyby ponownie się rozdzielić.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE LifesizeDoll/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE MermaidPainting": {
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds0": {
+        "en": "I believe this to be a depiction of a being known as [i]The Mermaid...[/i]",
+        "pl": "Wierzę, że to przedstawienie istoty znanej jako [i]Syrena...[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds6": {
+        "en": "It doesn't look much like a mermaid.",
+        "pl": "Niewiele przypomina syrenę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds7": {
+        "en": "It doesn't look much like [i]anything[/i], really. Except for the fact it's got a face.",
+        "pl": "Właściwie niewiele przypomina [i]cokolwiek.[/i] Poza tym, że ma twarz.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds8": {
+        "en": "However I've nothing to compare it with, as it's the only depiction I [i]know[/i] of.",
+        "pl": "Jednakże nie mam z czym tego porównać, gdyż to jedyne przedstawienie, o jakim [i]wiem.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds9": {
+        "en": "At least I... [i]think[/i] that's a face.",
+        "pl": "Przynajmniej... [i]myślę,[/i] że to twarz.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds10": {
+        "en": "Stories alluding to such a being were the reason I traveled to Silkwirm in the first place.",
+        "pl": "Opowieści nawiązujące do takiej istoty były powodem, dla którego pierwotnie udałem się do Silkwirm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds11": {
+        "en": "However, I was disappointed to discover that nobody in town seemed to know what I was talking about.",
+        "pl": "Jednakże byłem rozczarowany, gdy odkryłem, że nikt w miasteczku nie wydawał się wiedzieć, o czym mówię.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MermaidPainting/Section ds12": {
+        "en": "It seems to be a secret held by only a very select few.\n",
+        "pl": "Zdaje się być tajemnicą, którą zna jedynie garstka wybranych.\n",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE MessageinaBottle": {
+      "Conversation/Zephyr CLUE MessageinaBottle/Section ds0": {
+        "en": "It's an incantation sealed in a glass bottle.",
+        "pl": "To zaklęcie zapieczętowane w szklanej butelce.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MessageinaBottle/Section ds6": {
+        "en": "Traditionally, you might bury such a thing under the floorboards of your house - to protect from black magic.\n",
+        "pl": "Tradycyjnie, taką rzecz zakopywano pod deskami podłogi domu - by chronić przed czarną magią.\n",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MessageinaBottle/Section ds7": {
+        "en": "What about if you threw it into the ocean? Would [i]that[/i] do anything?",
+        "pl": "A co, gdyby wrzucić to do oceanu? Czy [i]to[/i] by coś zdziałało?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE MessageinaBottle/Section ds9": {
+        "en": "Likely it would have no effect. The ocean is simply too large to be held to account in this way.",
+        "pl": "Prawdopodobnie nie miałoby to żadnego skutku. Ocean jest po prostu zbyt wielki, by dało się go w ten sposób ograniczyć.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE ModelTown": {
+      "Conversation/Zephyr CLUE ModelTown/Section ds6": {
+        "en": "Magnus built this himself, from the scant materials we happened to have on board.",
+        "pl": "Magnus zbudował to sam, ze skąpych materiałów, jakie akurat mieliśmy na pokładzie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds7": {
+        "en": "So, he made it while he was living on the submarine?",
+        "pl": "Więc zrobił to, kiedy mieszkał na łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds8": {
+        "en": "Yes, but I believe it's a vignette of a particular time in his past - back when he was living in Silkwirm.",
+        "pl": "Tak, ale wierzę, że to migawka konkretnego okresu z jego przeszłości - z czasów, kiedy mieszkał w Silkwirm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds9": {
+        "en": "But - [h]you[/h] knew Mortuga back then, didn't you?",
+        "pl": "Ale - [h]ty[/h] znałeś wtedy Mortugę, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds11": {
+        "en": "It's specific to the town and its history-",
+        "pl": "Jest specyficzne dla miasteczka i jego historii-",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds12": {
+        "en": "How come there's not a model of [i]you[/i] in there?",
+        "pl": "Czemu nie ma tam modelu [i]ciebie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ModelTown/Section ds13": {
+        "en": "-as an outsider, I would have no place in it.",
+        "pl": "-jako obcy, nie miałbym w tym miejsca.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE MoonVial": {
+      "Conversation/Zephyr CLUE MoonVial/Section ds0": {
+        "en": "Dr Zephyr - is this yours?",
+        "pl": "Dr Zephyr - to twoje?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds7": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds8": {
+        "en": "I don't immediately [i]recognise[/i] it...",
+        "pl": "Nie [i]rozpoznaję[/i] tego od razu...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds9": {
+        "en": "Of course, I do concede that I have many similar bottles here in my Dream Chamber...",
+        "pl": "Oczywiście, przyznaję, że mam wiele podobnych butelek tutaj, w mojej Komnacie Snów...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds10": {
+        "en": "So... it's wholly possible that it originated in my collection.",
+        "pl": "Więc... całkiem możliwe, że pochodzi z mojej kolekcji.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds11": {
+        "en": "Nice answer. [i]Totally[/i] noncommittal.",
+        "pl": "Ładna odpowiedź. [i]Całkowicie[/i] wymijająca.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds12": {
+        "en": "You sure? It really looks like something that'd [i]belong[/i] to you.",
+        "pl": "Jesteś pewien? Naprawdę wygląda na coś, co mogłoby [i]należeć[/i] do ciebie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE MoonVial/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE MourningEnvelope": {
+      "Conversation/Zephyr CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE MovieMagazine": {
+      "Conversation/Zephyr CLUE MovieMagazine/Section ds10": {
+        "en": "This magazine emanates a peculiar energy.",
+        "pl": "To czasopismo emanuje osobliwą energią.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE MovieMagazine/Section ds11": {
+        "en": "Jealousy, frustration... even greed.",
+        "pl": "Zazdrość, frustracja... nawet chciwość.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE NewspaperPage": {
+      "Conversation/Zephyr CLUE NewspaperPage/Section ds0": {
+        "en": "This is where I first learned about Miss Silkmoth and her residence at the Fortuna Hall theatre.",
+        "pl": "Stąd po raz pierwszy dowiedziałem się o pannie Silkmoth i jej rezydencji w teatrze Fortuna Hall.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE NewspaperPage/Section ds6": {
+        "en": "This was after you'd started living in the submarine?",
+        "pl": "To było już po tym, jak zamieszkałeś na łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE NewspaperPage/Section ds7": {
+        "en": "Correct.",
+        "pl": "Zgadza się.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE NewspaperPage/Section ds8": {
+        "en": "So, Mortuga had the newspaper on board with him?",
+        "pl": "Więc Mortuga miał tę gazetę ze sobą na pokładzie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE NewspaperPage/Section ds9": {
+        "en": "Only this solitary page.",
+        "pl": "Jedynie tę pojedynczą stronę.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE OceanTreasure": {
+      "Conversation/Zephyr CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE Pocketbook": {
+      "Conversation/Zephyr CLUE Pocketbook/Section ds0": {
+        "en": "It seems I'm not the only curiosity collector on board...",
+        "pl": "Zdaje się, że nie jestem jedynym kolekcjonerem osobliwości na pokładzie...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE Pocketbook/Section ds6": {
+        "en": "This book - if it is indeed a book - has clearly got a story to tell.",
+        "pl": "Ta książka - jeśli to rzeczywiście książka - wyraźnie ma opowieść do przekazania.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE RaggedCloth": {
+      "Conversation/Zephyr CLUE RaggedCloth/Section ds0": {
+        "en": "It's the cloth that Magnus used to cover the cauldron.",
+        "pl": "To płótno, którym Magnus przykrywał kocioł.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE RaggedCloth/Section ds6": {
+        "en": "Why would he need to keep it covered?",
+        "pl": "Czemu musiałby trzymać go przykrytego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE RaggedCloth/Section ds8": {
+        "en": "Either to keep it away from prying eyes...",
+        "pl": "Albo żeby chronić go przed ciekawskimi oczami...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE RaggedCloth/Section ds9": {
+        "en": "Or, perhaps...",
+        "pl": "Albo, może...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE RaggedCloth/Section ds10": {
+        "en": "He concealed it for his [h]own[/h] benefit.",
+        "pl": "Ukrył go dla [h]własnej[/h] korzyści.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE RippedScroll": {
+      "Conversation/Zephyr CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE SeaChart": {
+      "Conversation/Zephyr CLUE SeaChart/Section ds0": {
+        "en": "If only it hadn't been torn in two, then I could be sure...",
+        "pl": "Gdyby tylko nie została rozdarta na dwoje, mógłbym być pewien...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SeaChart/Section ds6": {
+        "en": "Of what?",
+        "pl": "Czego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE SeaChart/Section ds7": {
+        "en": "The branch of red coral - at the base of the map.",
+        "pl": "Gałąź czerwonego koralowca - u podstawy mapy.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SeaChart/Section ds8": {
+        "en": "I'm wondering if that's the treasure you'd find if you travelled to the 'X' marked in the centre.",
+        "pl": "Zastanawiam się, czy to skarb, który znaleźlibyście, gdybyście udali się do 'X' zaznaczonego pośrodku.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE ShipinaBottle": {
+      "Conversation/Zephyr CLUE ShipinaBottle/Section ds0": {
+        "en": "Did Mortuga make this himself?",
+        "pl": "Czy Mortuga zrobił to sam?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE ShipinaBottle/Section ds6": {
+        "en": "Of course. Much like his [i]model town,[/i] it is specific to his life and his memories.",
+        "pl": "Oczywiście. Podobnie jak jego [i]makieta miasteczka,[/i] jest to specyficzne dla jego życia i wspomnień.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ShipinaBottle/Section ds7": {
+        "en": "So he made the model ship [i]and[/i] the model town at around the same time?",
+        "pl": "Więc zrobił model statku [i]i[/i] makietę miasteczka mniej więcej w tym samym czasie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ShipinaBottle/Section ds8": {
+        "en": "I believe so.",
+        "pl": "Wierzę, że tak.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ShipinaBottle/Section ds10": {
+        "en": "Interesting.",
+        "pl": "Interesujące.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE ShipsWheel": {
+      "Conversation/Zephyr CLUE ShipsWheel/Section ds6": {
+        "en": "Has the wheel [i]always[/i] looked like that?",
+        "pl": "Koło [i]zawsze[/i] tak wyglądało?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ShipsWheel/Section ds7": {
+        "en": "Like what?",
+        "pl": "Jak?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE ShipsWheel/Section ds8": {
+        "en": "With one side broken off - and replaced with a different material.",
+        "pl": "Z jedną stroną odłamaną - i zastąpioną innym materiałem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE ShipsWheel/Section ds10": {
+        "en": "It's never been my job to steer the ship, so I've never really taken any notice.",
+        "pl": "Nigdy nie było moim zadaniem sterować statkiem, więc nigdy naprawdę nie zwracałem na to uwagi.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE SilkwirmMap": {
+      "Conversation/Zephyr CLUE SilkwirmMap/Section ds0": {
+        "en": "Somebody's been trying to piece together Silkwirm's [i]history[/i], by the looks of it...",
+        "pl": "Ktoś próbował poskładać w całość [i]historię[/i] Silkwirm, jak widać...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SilkwirmMap/Section ds6": {
+        "en": "We noticed Mortuga's on there, but his name's not connected to anyone else.",
+        "pl": "Zauważyliśmy, że Mortuga tam jest, ale jego imię nie jest połączone z nikim innym.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE SilkwirmMap/Section ds8": {
+        "en": "Did he ever talk about his family? Or where he came from?",
+        "pl": "Czy kiedykolwiek mówił o swojej rodzinie? Albo skąd pochodził?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE SilkwirmMap/Section ds9": {
+        "en": "He never spoke of his heritage, no.",
+        "pl": "Nigdy nie mówił o swoim pochodzeniu, nie.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE StrangeDevice": {
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds0": {
+        "en": "A shrink ray, I assume?",
+        "pl": "Promień kurczący, jak zakładam?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds6": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds7": {
+        "en": "It actually [h]does[/h] look like a shrink ray...",
+        "pl": "To rzeczywiście [h]wygląda[/h] jak promień kurczący...",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds8": {
+        "en": "Alright, Grimoire, I'll be the guinea pig - zap me.",
+        "pl": "Dobra, Grimoire, będę świnką doświadczalną - strzel we mnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds9": {
+        "en": "Of course, it could be an [i]enlightenment[/i] ray... perhaps you ought to zap [i]me,[/i] instead.",
+        "pl": "Oczywiście, mógłby to być promień [i]oświecenia...[/i] może zamiast tego powinniście strzelić we [i]mnie.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE StrangeDevice/Section ds10": {
+        "en": "No-one's getting zapped!!",
+        "pl": "Nikt nie będzie w nikogo strzelał!!",
+        "speaker": "Grimoire"
+      }
+    },
+    "Zephyr CLUE SubmarineBlueprint": {
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds6": {
+        "en": "You know Magnus never [i]liked[/i] the name 'Mortuga Submarine'.",
+        "pl": "Wiecie, że Magnus nigdy nie [i]lubił[/i] nazwy 'Łódź Podwodna Mortuga'.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds7": {
+        "en": "Surely - he was the one who [h]chose[/h] that name?",
+        "pl": "Ale przecież - to on [h]wybrał[/h] tę nazwę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds8": {
+        "en": "I believe it was something that just [i]happened[/i] - he didn't have a willing [i]hand[/i] in it.",
+        "pl": "Wierzę, że to było coś, co po prostu się [i]wydarzyło[/i] - nie miał w tym chętnego [i]udziału.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds9": {
+        "en": "All told, Magnus was rather dismissive of the notion that the submarine should [i]bear[/i] his moniker.",
+        "pl": "Ogólnie rzecz biorąc, Magnus raczej lekceważył pomysł, że łódź podwodna powinna [i]nosić[/i] jego przydomek.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds10": {
+        "en": "He was dismissive of [i]that[/i] notion, too.",
+        "pl": "Lekceważył też [i]ten[/i] pomysł.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds11": {
+        "en": "But - it was [h]his[/h] submarine!",
+        "pl": "Ale - to była [h]jego[/h] łódź podwodna!",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE SubmarineBlueprint/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE SunTablets": {
+      "Conversation/Zephyr CLUE SunTablets/Section ds0": {
+        "en": "Bottled sunlight?",
+        "pl": "Butelkowane światło słoneczne?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SunTablets/Section ds6": {
+        "en": "It appears somebody's looking to protect themselves from [i]vampires.[/i]",
+        "pl": "Wygląda na to, że ktoś stara się chronić przed [i]wampirami.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SunTablets/Section ds10": {
+        "en": "There's no [i]vampire[/i] on board...\n-is there?",
+        "pl": "Nie ma [i]wampira[/i] na pokładzie...\n-prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE SunTablets/Section ds11": {
+        "en": "Of course not.",
+        "pl": "Oczywiście, że nie.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE SunTablets/Section ds12": {
+        "en": "What about [i]Mortuga?[/i]",
+        "pl": "A co z [i]Mortugą?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE SunTablets/Section ds13": {
+        "en": "Hm. I'll admit, it [h]was[/h] a rumor, for a time...",
+        "pl": "Hm. Przyznam, że przez pewien czas [h]krążyła[/h] taka plotka...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE TheMermaidsTongue": {
+      "Conversation/Zephyr CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE Typewriter": {
+      "Conversation/Zephyr CLUE Typewriter/Section ds0": {
+        "en": "The keys on this typewriter...",
+        "pl": "Klawisze tej maszyny do pisania...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE Typewriter/Section ds6": {
+        "en": "They appear to be a set of arcane runes...",
+        "pl": "Zdają się być zbiorem tajemnych run...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE Typewriter/Section ds7": {
+        "en": "Has Mr Wirman been dipping his toe in the Black Arts?",
+        "pl": "Czy pan Wirman zanurzał stopę w Czarnych Sztukach?",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE UnderwaterPhoto": {
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds6": {
+        "en": "Tell me - where did you find this?",
+        "pl": "Powiedzcie mi - gdzie to znaleźliście?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds7": {
+        "en": "It was locked in a safe.",
+        "pl": "Było zamknięte w sejfie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds8": {
+        "en": "[i]Was[/i] it now...",
+        "pl": "[i]Doprawdy...[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds9": {
+        "en": "-would you mind it I took it off your hands?",
+        "pl": "-czy mielibyście coś przeciwko, gdybym zdjął wam to z rąk?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds10": {
+        "en": "It's not ours to give.",
+        "pl": "To nie nasze, żeby dawać.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds11": {
+        "en": "No, no, of course, of course...",
+        "pl": "Nie, nie, oczywiście, oczywiście...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds19": {
+        "en": "[i]The face from the aether.\nIt... must be.[/i]",
+        "pl": "[i]Twarz z eteru.\nMusi... nią być.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE UnderwaterPhoto/Section ds20": {
+        "en": "What's that?",
+        "pl": "Co to takiego?",
+        "speaker": "Sally"
+      }
+    },
+    "Zephyr CLUE WoodenBuoy": {
+      "Conversation/Zephyr CLUE WoodenBuoy/Section ds0": {
+        "en": "How long has this been chained to the fore deck? Do you know?",
+        "pl": "Jak długo to jest przykute do dziobowego pokładu? Wiesz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE WoodenBuoy/Section ds6": {
+        "en": "Since the conception of the submarine, as far as I know.",
+        "pl": "Od poczęcia łodzi podwodnej, o ile wiem.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE WoodenBuoy/Section ds7": {
+        "en": "-the conception of its [i]current incarnation,[/i] I should say.",
+        "pl": "-poczęcia jej [i]obecnego wcielenia,[/i] powinienem powiedzieć.",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE WoodenBuoy/Section ds8": {
+        "en": "The wider history of the vessel reaches back a good deal further, of course.",
+        "pl": "Szersza historia statku sięga oczywiście znacznie dalej wstecz.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Zephyr CLUE WoodenPipe": {
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds0": {
+        "en": "Mariana Moon's tobacco pipe?",
+        "pl": "Fajka na tytoń Mariany Moon?",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds6": {
+        "en": "Uh - yes... and no.",
+        "pl": "Yy - tak... i nie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds7": {
+        "en": "It's actually a dictaphone. Like a little tape recorder.",
+        "pl": "To właściwie dyktafon. Coś jak mały magnetofon.",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds8": {
+        "en": "Curious...",
+        "pl": "Ciekawe...",
+        "speaker": "Zephyr"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds9": {
+        "en": "I think she's just nosey.",
+        "pl": "Myślę, że po prostu jest wścibska.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds10": {
+        "en": "Who knows. Maybe!",
+        "pl": "Kto wie. Może!",
+        "speaker": "Sally"
+      },
+      "Conversation/Zephyr CLUE WoodenPipe/Section ds11": {
+        "en": "...is Ms. Moon some sort of covert operative?",
+        "pl": "...czy pani Moon to jakiś tajny agent?",
+        "speaker": "Zephyr"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

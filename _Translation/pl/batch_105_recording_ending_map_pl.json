@@ -1,0 +1,511 @@
+{
+  "_meta": {
+    "batch": "Recording (70) + Ending (12) + Map (11) = 93 terminow - OSTATNIE 3 kategorie I2Loc przed 100% (poza devTexts). Recording to nagrania odtwarzane w Projektorze Filmowym (flashback Magnusa i Felicii przed feralnym rejsem, tajemniczy fragment 'Devil of the Deep', ORAZ WAZNY CROSSOVER z Tangle Tower: Lord Remington instruuje 'Faustusa' by udal sie do Silkwirm i zapytal o Solomona Stonetopa) oraz nagrania z fajki-dyktafonu Moon (PipeTape1/2: flashback mlodej Tanyi/Tadpole, rozmowa o 'zabiciu go' (prawdopodobnie o postaci Markusa Mordooma, nie prawdziwe morderstwo), narracja przedstawienia 'Dziewczyna Patrzaca w Gwiazdy', telefon Mortugi zlecajacy komus zbadanie Felicii Stonetop, oraz nagranie otwarcia Czarnej Skrzynki). Ending to bonusowa scena po napisach (Sinthia+Sym odwiedzaja adres zostawiony przez Sally) + 3 podpisy epilogu. Map to etykiety listy kontrolnej i lokalizacji na mapie.",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_recording_en.json, i2loc_ending_en.json, i2loc_map_en.json)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "speaker_resolution": "Recording nie ma pokrycia w speaker_map.json. Linie oznaczone '(nagranie)' dla odroznienia od biezacych kwestii dialogowych postaci - to odtwarzane wczesniej zarejestrowane audio, nie live dialog."
+  },
+  "categories": {
+    "Recording_FilmProjectorFilm AftDeck": {
+      "Recording/FilmProjectorFilm AftDeck/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "narrator"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds1": {
+        "en": "You really want to turn back? After you got the map sussed out and everything?",
+        "pl": "Naprawdę chcesz zawrócić? Po tym, jak rozgryzłaś tę mapę i w ogóle?",
+        "speaker": "Magnus (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "narrator"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds2": {
+        "en": "...there's no wind. It's an ill-omen.",
+        "pl": "...nie ma wiatru. To zły omen.",
+        "speaker": "Magnus (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds3": {
+        "en": "Oh my god Magnus, you're so dramatic! All I need to you do to is steer, alright? I'll handle the scary stuff.",
+        "pl": "Mój Boże, Magnus, jesteś taki dramatyczny! Wszystko, co musisz zrobić, to sterować, dobra? Ja zajmę się tym, co straszne.",
+        "speaker": "Felicia (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds4": {
+        "en": "Felicia-",
+        "pl": "Felicia-",
+        "speaker": "Magnus (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds5": {
+        "en": "You can't change my mind, sorry! I spent too long planning this. Anyway, we'll be there in a few hours.",
+        "pl": "Nie zmienisz mojego zdania, przykro mi! Zbyt długo to planowałam. Zresztą, będziemy tam za kilka godzin.",
+        "speaker": "Felicia (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds6": {
+        "en": "...be where, exactly?",
+        "pl": "...będziemy gdzie, dokładnie?",
+        "speaker": "Magnus (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds7": {
+        "en": "Right... I didn't really explain it yet, huh?",
+        "pl": "No tak... właściwie jeszcze tego nie wyjaśniłam, co?",
+        "speaker": "Felicia (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds8": {
+        "en": "I've asked several times. You always wriggle out of it.",
+        "pl": "Pytałem już kilka razy. Zawsze się z tego wywijasz.",
+        "speaker": "Magnus (nagranie)"
+      },
+      "Recording/FilmProjectorFilm AftDeck/Section ds9": {
+        "en": "Well, I've got nowhere to wriggle now, do I?",
+        "pl": "Cóż, teraz nie mam się już gdzie wywinąć, prawda?",
+        "speaker": "Felicia (nagranie)"
+      }
+    },
+    "Recording_FilmProjectorFilm DevilOfTheDeep": {
+      "Recording/FilmProjectorFilm DevilOfTheDeep/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "narrator"
+      },
+      "Recording/FilmProjectorFilm DevilOfTheDeep/Section ds1": {
+        "en": "Close your eyes, my love. And be still.",
+        "pl": "Zamknij oczy, moja miłości. I znieruchom.",
+        "speaker": "Syrena (nagranie)"
+      },
+      "Recording/FilmProjectorFilm DevilOfTheDeep/Section ds2": {
+        "en": "For this is the end and the beginning.",
+        "pl": "Bo to jest koniec i początek.",
+        "speaker": "Syrena (nagranie)"
+      },
+      "Recording/FilmProjectorFilm DevilOfTheDeep/Section ds3": {
+        "en": "[Whoosh]",
+        "pl": "[Świst]",
+        "speaker": "narrator"
+      }
+    },
+    "Recording_FilmProjectorFilm LordRemmington": {
+      "Recording/FilmProjectorFilm LordRemmington/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "narrator"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds1": {
+        "en": "The rain is incessant - but it's oddly localised - like a local biome.",
+        "pl": "Deszcz jest nieustający - ale dziwnie zlokalizowany - jak lokalny biom.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds10": {
+        "en": "Ask for a man named Solomon Stonetop.",
+        "pl": "Zapytaj o człowieka imieniem Solomon Stonetop.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds2": {
+        "en": "The fluid, what I [i]believe[/i] to be amniotic fluid, is being diluted. I'm curious to see what happens.",
+        "pl": "Płyn, który, jak [i]sądzę[/i], jest płynem owodniowym, jest rozcieńczany. Jestem ciekaw, co się stanie.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds3": {
+        "en": "We... believe it was [i]born[/i] here. Long ago. How long I cannot say.",
+        "pl": "My... wierzymy, że zostało tu [i]zrodzone[/i]. Dawno temu. Jak dawno, nie potrafię powiedzieć.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds4": {
+        "en": "We... found traces of its pilgrimage to the South.",
+        "pl": "My... znaleźliśmy ślady jego pielgrzymki na Południe.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds5": {
+        "en": "It's barren for some miles, until of course, you near the coast.",
+        "pl": "Jest jałowo przez kilka mil, dopóki, oczywiście, nie zbliżysz się do wybrzeża.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds6": {
+        "en": "Follow the line and you'd come to a small settlement known as [i]Silkwirm.[/i]",
+        "pl": "Podążaj tą linią, a dotrzesz do małej osady znanej jako [i]Silkwirm.[/i]",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds7": {
+        "en": "It... may be endangered, or it may hold a position of insight. I'm not sure.",
+        "pl": "Może... być zagrożone, albo może zajmować pozycję wglądu. Nie jestem pewien.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds8": {
+        "en": "I'd like to suggest one of you travel there and find out.",
+        "pl": "Chciałbym zasugerować, żeby jedno z was tam pojechało i się dowiedziało.",
+        "speaker": "Lord Remington (nagranie)"
+      },
+      "Recording/FilmProjectorFilm LordRemmington/Section ds9": {
+        "en": "Faustus, I thought perhaps this might interest [i]you,[/i] in particular.",
+        "pl": "Faustusie, pomyślałem, że może to zainteresować akurat [i]ciebie[/i].",
+        "speaker": "Lord Remington (nagranie)"
+      }
+    },
+    "Recording_PipeTape1 1": {
+      "Recording/PipeTape1 1/Section ds0": {
+        "en": "Come on, give it up. Just let me take it-\n",
+        "pl": "Dawaj, poddaj się. Po prostu pozwól mi to wziąć-\n",
+        "speaker": "nieznany mężczyzna (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds1": {
+        "en": "I'm sorry, Tanya. I cannot.",
+        "pl": "Przykro mi, Tanya. Nie mogę.",
+        "speaker": "nieznany mężczyzna (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds2": {
+        "en": "But why d'you even need-",
+        "pl": "Ale po co ci w ogóle-",
+        "speaker": "Tanya/Tadpole (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds3": {
+        "en": "I've told you before.",
+        "pl": "Już ci mówiłem.",
+        "speaker": "nieznany mężczyzna (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds4": {
+        "en": "No, you [i]haven't[/i]. All you've ever told me is that you're-",
+        "pl": "Nie, wcale [i]nie[/i]. Jedyne, co mi kiedykolwiek powiedziałeś, to że jesteś-",
+        "speaker": "Tanya/Tadpole (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds5": {
+        "en": "I'd like to request that you return to your room.",
+        "pl": "Chciałbym prosić, żebyś wróciła do swojego pokoju.",
+        "speaker": "nieznany mężczyzna (nagranie)"
+      },
+      "Recording/PipeTape1 1/Section ds6": {
+        "en": "I have something I must attend to.",
+        "pl": "Mam coś, czym muszę się zająć.",
+        "speaker": "nieznany mężczyzna (nagranie)"
+      }
+    },
+    "Recording_PipeTape1 2": {
+      "Recording/PipeTape1 2/Section ds0": {
+        "en": "Hey. Listen - why don't we just kill him?",
+        "pl": "Hej. Słuchaj - czemu po prostu go nie zabijemy?",
+        "speaker": "niezidentyfikowany głos (nagranie)"
+      },
+      "Recording/PipeTape1 2/Section ds2": {
+        "en": "That helps both of us!",
+        "pl": "To pomoże nam obojgu!",
+        "speaker": "niezidentyfikowany głos (nagranie)"
+      },
+      "Recording/PipeTape1 2/Section ds3": {
+        "en": "If he dies, we're both free, right?",
+        "pl": "Jeśli on umrze, oboje będziemy wolni, prawda?",
+        "speaker": "niezidentyfikowany głos (nagranie)"
+      },
+      "Recording/PipeTape1 2/Section ds4": {
+        "en": "Come on, I know you don't have any better ideas.",
+        "pl": "Dawaj, wiem, że nie masz lepszych pomysłów.",
+        "speaker": "niezidentyfikowany głos (nagranie)"
+      }
+    },
+    "Recording_PipeTape1 3": {
+      "Recording/PipeTape1 3/Section ds0": {
+        "en": "The Star-Gazing Girl stares into the ink-black void.",
+        "pl": "Dziewczyna Patrząca w Gwiazdy wpatruje się w atramentowoczarną pustkę.",
+        "speaker": "Symmetry (narracja przedstawienia)"
+      },
+      "Recording/PipeTape1 3/Section ds1": {
+        "en": "Upon her trembling lips, a question born.",
+        "pl": "Na jej drżących ustach rodzi się pytanie.",
+        "speaker": "Symmetry (narracja przedstawienia)"
+      },
+      "Recording/PipeTape1 3/Section ds2": {
+        "en": "A forbidden query of what may be and what may not be.",
+        "pl": "Zakazane pytanie o to, co może być, a co być nie może.",
+        "speaker": "Symmetry (narracja przedstawienia)"
+      },
+      "Recording/PipeTape1 3/Section ds3": {
+        "en": "The void, unyielding to the girl's plight, stares back. It speaks;",
+        "pl": "Pustka, nieugięta wobec rozterki dziewczyny, patrzy w odpowiedzi. Przemawia;",
+        "speaker": "Symmetry (narracja przedstawienia)"
+      },
+      "Recording/PipeTape1 3/Section ds4": {
+        "en": "Close your eyes, my love. And be still. For this is the end and the beginning.",
+        "pl": "Zamknij oczy, moja miłości. I znieruchom. Bo to jest koniec i początek.",
+        "speaker": "Syrena (w przedstawieniu)"
+      },
+      "Recording/PipeTape1 3/Section ds5": {
+        "en": "[Whoosh]",
+        "pl": "[Świst]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape1 3/Section ds6": {
+        "en": "[Scream]",
+        "pl": "[Krzyk]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape1 3/Section ds7": {
+        "en": "[Thud]",
+        "pl": "[Łomot]",
+        "speaker": "narrator"
+      }
+    },
+    "Recording_PipeTape1 4": {
+      "Recording/PipeTape1 4/Section ds0": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      }
+    },
+    "Recording_PipeTape2 1": {
+      "Recording/PipeTape2 1/Section ds0": {
+        "en": "[Phone Ringing]",
+        "pl": "[Dzwonek telefonu]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 1/Section ds1": {
+        "en": "[Beep]",
+        "pl": "[Sygnał]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 1/Section ds2": {
+        "en": "Hello? Who's this?",
+        "pl": "Halo? Kto mówi?",
+        "speaker": "nieznany rozmówca (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds3": {
+        "en": "My name is Magnus Mortuga.",
+        "pl": "Nazywam się Magnus Mortuga.",
+        "speaker": "Mortuga (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds4": {
+        "en": "Oh yeah? Just happen to have my number, do you? Listen buddy-",
+        "pl": "O tak? Po prostu akurat masz mój numer, co? Słuchaj koleś-",
+        "speaker": "nieznany rozmówca (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds5": {
+        "en": "I'm not lying to you. You and I share a mutual acquaintance, and she has informed me of your skillset.",
+        "pl": "Nie okłamuję cię. Mamy wspólną znajomą, i to ona poinformowała mnie o twoich umiejętnościach.",
+        "speaker": "Mortuga (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds6": {
+        "en": "I wish to hire you - and I believe I have something I can offer in payment.",
+        "pl": "Chcę cię zatrudnić - i wierzę, że mam coś, co mogę zaoferować w zamian.",
+        "speaker": "Mortuga (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds7": {
+        "en": "I'm listening. What are you after?",
+        "pl": "Słucham. Czego szukasz?",
+        "speaker": "nieznany rozmówca (nagranie)"
+      },
+      "Recording/PipeTape2 1/Section ds8": {
+        "en": "I'm in need of information. Information about a woman named Felicia Stonetop.",
+        "pl": "Potrzebuję informacji. Informacji o kobiecie imieniem Felicia Stonetop.",
+        "speaker": "Mortuga (nagranie)"
+      }
+    },
+    "Recording_PipeTape2 2": {
+      "Recording/PipeTape2 2/Section ds0": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      }
+    },
+    "Recording_PipeTape2 3": {
+      "Recording/PipeTape2 3/Section ds0": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      }
+    },
+    "Recording_PipeTape2 4": {
+      "Recording/PipeTape2 4/Section ds0": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds1": {
+        "en": "-I really don't know why you're here, this doesn't concern you-",
+        "pl": "-naprawdę nie wiem, po co tu jesteś, to nie twoja sprawa-",
+        "speaker": "Mortuga (nagranie)"
+      },
+      "Recording/PipeTape2 4/Section ds10": {
+        "en": "There's something inside...",
+        "pl": "Coś tam w środku jest...",
+        "speaker": "Gripp (niepewne, nagranie)"
+      },
+      "Recording/PipeTape2 4/Section ds11": {
+        "en": "Wait... what's this?",
+        "pl": "Czekaj... co to jest?",
+        "speaker": "Gripp (niepewne, nagranie)"
+      },
+      "Recording/PipeTape2 4/Section ds12": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds2": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds3": {
+        "en": "-even if it does - it is wholly unrelated our unfortunate voyage-",
+        "pl": "-nawet jeśli jest, jest to całkowicie niezwiązane z naszym nieszczęsnym rejsem-",
+        "speaker": "Mortuga (nagranie)"
+      },
+      "Recording/PipeTape2 4/Section ds4": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds5": {
+        "en": "[Rattling sound]",
+        "pl": "[Odgłos grzechotania]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds6": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds7": {
+        "en": "-it doesn't open that way. It slides out at the side. Let me do it.",
+        "pl": "-to się tak nie otwiera. Wysuwa się z boku. Pozwól, że ja to zrobię.",
+        "speaker": "Gripp (niepewne, nagranie)"
+      },
+      "Recording/PipeTape2 4/Section ds8": {
+        "en": "[Drawer slide open]",
+        "pl": "[Odgłos wysuwanej szuflady]",
+        "speaker": "narrator"
+      },
+      "Recording/PipeTape2 4/Section ds9": {
+        "en": "[Static]",
+        "pl": "[Szum]",
+        "speaker": "narrator"
+      }
+    },
+    "Ending": {
+      "Ending/Line1": {
+        "en": "<color=#FFFFBF>Sinthia:</color> You're sure this is the address Sally wrote down...?",
+        "pl": "<color=#FFFFBF>Sinthia:</color> Jesteś pewna, że to adres, który zapisała Sally...?"
+      },
+      "Ending/Line2": {
+        "en": "<color=#FFFFBF>Sym:</color> Yeah. It must be. ",
+        "pl": "<color=#FFFFBF>Sym:</color> Tak. Musi być."
+      },
+      "Ending/Line3": {
+        "en": "<color=#FFFFBF>Sym:</color> She wrote something on the back, too.",
+        "pl": "<color=#FFFFBF>Sym:</color> Napisała też coś z tyłu."
+      },
+      "Ending/Line4": {
+        "en": "<color=#FFFFBF>Sinthia:</color> Oh yeah, what was that – instructions?",
+        "pl": "<color=#FFFFBF>Sinthia:</color> A tak, co to było - instrukcje?"
+      },
+      "Ending/Line5": {
+        "en": "<color=#FFFFBF>Sym:</color> ...it's a little poem. You should read it.",
+        "pl": "<color=#FFFFBF>Sym:</color> ...to mały wierszyk. Powinnaś go przeczytać."
+      },
+      "Ending/Line6": {
+        "en": "<color=#FFFFBF>Sinthia:</color> Me? You're the poet.",
+        "pl": "<color=#FFFFBF>Sinthia:</color> Ja? To ty jesteś poetką."
+      },
+      "Ending/Line7": {
+        "en": "<color=#FFFFBF>Sym:</color> No. You read it.",
+        "pl": "<color=#FFFFBF>Sym:</color> Nie. Ty go przeczytaj."
+      },
+      "Ending/Line8": {
+        "en": "<color=#FFFFBF>Sinthia:</color> ...okay.",
+        "pl": "<color=#FFFFBF>Sinthia:</color> ...dobrze."
+      },
+      "Ending/Line9": {
+        "en": "…",
+        "pl": "…"
+      },
+      "Ending/PhotoMoon": {
+        "en": "Mariana Moon, avoiding all questions about where she was headed, simply disappeared over the horizon.",
+        "pl": "Mariana Moon, unikając wszelkich pytań o to, dokąd się kieruje, po prostu zniknęła za horyzontem."
+      },
+      "Ending/PhotoTadpoleZephyr": {
+        "en": "Madam Tadpole became captain of the Mortuga Submarine. Dr Zephyr stayed on board to continue his research - newly inspired by what he'd witnessed.",
+        "pl": "Madam Tadpole została kapitanem Łodzi Podwodnej Mortuga. Doktor Zephyr pozostał na pokładzie, żeby kontynuować swoje badania - na nowo zainspirowany tym, czego był świadkiem."
+      },
+      "Ending/PhotoWirmanDirk": {
+        "en": "Wirman announced he wasn't going to write the sequel to his novel. Dirk was subsequently released from his contract with Wit & Whimsy.",
+        "pl": "Wirman ogłosił, że nie napisze kontynuacji swojej powieści. Dirk został w rezultacie zwolniony ze swojego kontraktu z Wit & Whimsy."
+      }
+    },
+    "Map": {
+      "Map/Checklist/Aft Deck": {
+        "en": "Aft\nDeck",
+        "pl": "Pokład\nRufowy"
+      },
+      "Map/Checklist/Airlock Grotto": {
+        "en": "Airlock\nGrotto",
+        "pl": "Grota\nŚluzowa"
+      },
+      "Map/Checklist/Captains Jacket": {
+        "en": "Captain’s\nJacket",
+        "pl": "Płaszcz\nKapitański"
+      },
+      "Map/Checklist/Dome Tank": {
+        "en": "Dome\nTank",
+        "pl": "Zbiornik\nKopułowy"
+      },
+      "Map/Checklist/Hex Bottle": {
+        "en": "Hex\nBottle",
+        "pl": "Butelka\nHexa"
+      },
+      "Map/Checklist/Iron Bell": {
+        "en": "Iron\nBell",
+        "pl": "Żelazny\nDzwon"
+      },
+      "Map/Checklist/The Black Box": {
+        "en": "The Black\nBox",
+        "pl": "Czarna\nSkrzynka"
+      },
+      "Map/Checklist/Title": {
+        "en": "Checklist",
+        "pl": "Lista Kontrolna"
+      },
+      "Map/Checklist/Zephyrs Bookcase": {
+        "en": "Zephyr’s\nBookcase",
+        "pl": "Biblioteczka\nZephyra"
+      },
+      "Map/Location/SilkwirmOnSea": {
+        "en": "The Town of\nSilkwirm-on-Sea",
+        "pl": "Miasteczko\nSilkwirm nad Morzem"
+      },
+      "Map/Location/Submarine": {
+        "en": "The Mortuga Submarine",
+        "pl": "Łódź Podwodna Mortuga"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Recording/FilmProjectorFilm LordRemmington (cala scena)",
+      "en": "Lord Remington scientific monologue addressing 'Faustus', mentioning a creature 'born' near Silkwirm, ending with 'Ask for a man named Solomon Stonetop.'",
+      "propozycja": "przetlumaczone doslownie, imiona/tytuly bez zmian",
+      "problem": "WAZNY CROSSOVER z gra Tangle Tower (ten sam Lord Remington wymieniony w ArtGallery jako postac z Tangle Tower/Secret of the Swamp). Ten stary film sugeruje, ze GUBERNATOR FAUSTUS FELLOW zostal osobiscie wyslany przez Lorda Remingtona, by zbadac tajemnicze stworzenie (najpewniej Srebrnego Weza/Weza z Silkwirm) w poblizu Silkwirm, i to WLASNIE STAD Faustus poznal Solomona Stonetopa - mozliwe wyjasnienie, jak rodziny Fellow i Stonetop w ogole sie poznaly/powiazaly. Nowy, znaczacy fragment lore, nieujawniony dotad w zadnym innym przetlumaczonym materiale - do przemyslenia razem z watkiem 'extended Fellow family' z ArtGallery (batch_100)."
+    },
+    {
+      "term": "Recording/PipeTape1 1 (cala scena)",
+      "en": "'Come on, give it up... I'm sorry, Tanya, I cannot... I'd like to request you return to your room, I have something I must attend to.'",
+      "propozycja": "przypisano mowce jako 'nieznany mezczyzna', niepewne",
+      "problem": "Flashback z udzialem mlodej Tanyi/Tadpole i tajemniczego, wymijajacego mezczyzny, ktory odmawia jej wyjasnien i odsyla ja do pokoju. Tozsamosc mezczyzny nieznana - mogl to byc Waylan Wolfe (jej dawny szef w wedrownym widowisku) albo ktos inny. Nowy watek, wymaga dalszego kontekstu."
+    },
+    {
+      "term": "Recording/PipeTape2 1 (cala scena)",
+      "en": "Phone call: 'My name is Magnus Mortuga... I wish to hire you... information about a woman named Felicia Stonetop.'",
+      "propozycja": "mowca odbierajacy telefon oznaczony jako 'nieznany rozmowca'",
+      "problem": "Mortuga dzwoni do kogos (polecanego przez 'wspolna znajoma') i zleca zbadanie Felicii Stonetop. Bardzo prawdopodobne, ze to WAYLAN WOLFE (jego notes-Pocketbook zawiera notatki dokladnie o takim sledztwie wg Tanyi/Moon/Fortuny, patrz ArtGallery/batch_96) - ale nie potwierdzone wprost w tym nagraniu. Nie zmieniono GLOSSARY, tylko odnotowano jako prawdopodobne polaczenie."
+    },
+    {
+      "term": "Recording/PipeTape2 4 (cala scena)",
+      "en": "'-I really don't know why you're here, this doesn't concern you-... it doesn't open that way, it slides out at the side, let me do it... There's something inside...'",
+      "propozycja": "drugi mowca oznaczony jako 'Gripp (niepewne)'",
+      "problem": "To najprawdopodobniej NAGRANIE MOMENTU OTWARCIA CZARNEJ SKRZYNKI - potwierdza mechanizm szuflady (zgodne z BlackBox/Text6) i pasuje do ustalonego faktu 'Was with Mortuga when he opened the Black Box and discovered the Necklace Key' (Puzzles/SuspectBoard1, dotad przypisywane roboczo Grippowi). Drugi glos (mechanicznie biegly, wie jak otworzyc szuflade) pasuje do Grippa, ale nie jest to jednoznacznie potwierdzone w tym nagraniu - imie nie pada."
+    },
+    {
+      "term": "Recording/PipeTape1 2 (cala scena)",
+      "en": "'Hey. Listen - why don't we just kill him? ...If he dies, we're both free, right?'",
+      "propozycja": "przetlumaczone doslownie, bez przypisania konkretnej tozsamosci",
+      "problem": "Niepokojaco brzmiaca rozmowa o 'zabiciu go' - NAJPRAWDOPODOBNIEJ dotyczy zabicia fikcyjnej postaci Markusa Mordooma w ksiazce/filmie (zgodne z ustalonym faktem w Souls/Dirk: 'He suggested killing off the fictional character of Markus Mordoom'), NIE prawdziwego planu morderstwa Mortugi. Zachowano niejednoznacznosc zrodla (nie dodano wyjasniajacego kontekstu w tlumaczeniu), zeby nie zdradzic/nie zmienic zamierzonej dwuznacznosci tropu."
+    }
+  ]
+}

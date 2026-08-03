@@ -1,0 +1,1888 @@
+{
+  "_meta": {
+    "batch": "Wirman CLUE X (~53 sceny, 354 terminy) - reakcje Wirmana (formalny, cyniczny pisarz) na kazdy dowod w grze. HandwrittenLetter/ds11 - CZWARTE pojawienie sie tajemniczego 'T. W. Ibisa' (list adresowany do 'James' - prawdziwe imie Wirmana - Grimoire zauwaza podpis Ibisa, Wirman odpowiada wymijajaco sarkazmem, nie zaprzecza ani nie potwierdza). ModelTown/ds15 i SilkwirmMap/ds17 - PELNE POTWIERDZENIE 'Damian Dusk' jako ojca Wirmana (burmistrz), zgodne z odkryciem z batch_60 (Moon CLUE HexoftheHelmsman) - rozwiazuje watek 'Wirman zmienil imie' (prawdziwe nazwisko to Dusk, nie Wirman).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - MoonVial/ds10-11 nieprzypisane w zrodle ([???]), ale tresc i ton (kontynuacja zartu 'Brzytwa Ockhama, moja droga' + samoironiczny komentarz o pisarskiej potrzebie komplikacji) jednoznacznie wskazuje na Wirmana - przypisano bezposrednio 'Wirman', nie fallback.",
+    "character_voice": "Wirman: kontynuacja formalnego, cynicznego, pisarskiego rejestru (batch_36-39)."
+  },
+  "categories": {
+    "Wirman CLUE ActionFigure": {
+      "Conversation/Wirman CLUE ActionFigure/Section ds0": {
+        "en": "I noticed on the back of the box it says [i]'Series 2 Coming Soon.'[/i]",
+        "pl": "Zauważyłam, że z tyłu pudełka jest napisane [i]'Seria 2 już wkrótce'.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds6": {
+        "en": "[h]Thank you![/h] That's what [h]I[/h] said.",
+        "pl": "[h]Dziękuję![/h] Właśnie to [h]ja[/h] powiedziałem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds7": {
+        "en": "Kinda [i]presumptious,[/i] isn't it? Considering you haven't even written the book yet.",
+        "pl": "Trochę [i]zarozumiałe,[/i] nie sądzisz? Zważywszy, że nawet jeszcze nie napisałeś książki.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds8": {
+        "en": "I raised a fuss about it at the time - my objections fell on deaf ears, as usual.",
+        "pl": "Zrobiłem wtedy z tego aferę - moje sprzeciwy trafiły w próżnię, jak zwykle.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds9": {
+        "en": "Why are they so keen to make a second movie, anyway?",
+        "pl": "Czemu w ogóle tak im zależy na drugim filmie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds12": {
+        "en": "What else?\n[i]Money.[/i]",
+        "pl": "A co by innego?\n[i]Pieniądze.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ActionFigure/Section ds18": {
+        "en": "[i]'Look out for Hex of the Helmsman 2, Only in Theatres.'[/i]",
+        "pl": "[i]'Wypatrujcie Klątwy Sternika 2, tylko w kinach'.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Wirman CLUE BalloonBasket": {
+      "Conversation/Wirman CLUE BalloonBasket/Section ds0": {
+        "en": "[i]'Chart the unchartable, plot the unplottable, and measure the unmeasurable.'[/i]",
+        "pl": "[i]'Zmapuj niemapowalne, wykreśl niewykreślalne, i zmierz niemierzalne'.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds6": {
+        "en": "Nice tagline.",
+        "pl": "Ładne hasło reklamowe.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds7": {
+        "en": "I... think it's a little much - for a shop that sells [i]compasses?[/i]",
+        "pl": "Ja... myślę, że to trochę przesada - jak na sklep, który sprzedaje [i]kompasy?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds8": {
+        "en": "...it - it's not about the compasses. The thing he's really selling is [h]wanderlust.[/h]",
+        "pl": "...to - to nie chodzi o kompasy. To, co on naprawdę sprzedaje, to [h]żądza podróży.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds11": {
+        "en": "The desire to explore the world and experience the unknown.",
+        "pl": "Pragnienie eksplorowania świata i doświadczania nieznanego.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds12": {
+        "en": "[i]Wander-what?[/i]",
+        "pl": "[i]Żądza-co?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds13": {
+        "en": "[h]Ding![/h] Points for Sally.",
+        "pl": "[h]Ding![/h] Punkty dla Sally.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BalloonBasket/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE BlackBox": {
+      "Conversation/Wirman CLUE BlackBox/Section ds0": {
+        "en": "Oh, a locked box, what is inside? [i]Ohhh, I must find out at once-[/i]",
+        "pl": "Och, zamknięte pudełko, co w środku? [i]Ochh, muszę się dowiedzieć natychmiast-[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds7": {
+        "en": "Half the time, with things like this, the writer hasn't even worked out what's inside-",
+        "pl": "W połowie przypadków, przy takich rzeczach, autor nawet nie wymyślił, co jest w środku-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds8": {
+        "en": "Uh... you're not impressed?",
+        "pl": "Yy... nie jesteś pod wrażeniem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds9": {
+        "en": "-they just want the reader to speculate - keeps 'em invested.",
+        "pl": "-chcą po prostu, żeby czytelnik spekulował - to utrzymuje jego zaangażowanie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds10": {
+        "en": "Okay, but this is real. It's not somebody's fiction.",
+        "pl": "Okej, ale to jest prawdziwe. To nie czyjaś fikcja.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds11": {
+        "en": "How can you be sure?",
+        "pl": "Skąd możesz być pewna?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds12": {
+        "en": "I bet there's [i]nothing[/i] inside! Look, I'll shake it -",
+        "pl": "Założę się, że w środku [i]nic[/i] nie ma! Patrzcie, potrząsnę tym -",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds14": {
+        "en": "There's something in there!",
+        "pl": "Coś tam jest!",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds15": {
+        "en": "[i]Multiple[/i] things, sounds like.",
+        "pl": "Brzmi jak [i]kilka[/i] rzeczy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE BlackBox/Section ds21": {
+        "en": "Maybe someone planted the box to distract you, knowing you'd get all curious?",
+        "pl": "Może ktoś podrzucił to pudełko, żeby was rozproszyć, wiedząc, że zrobicie się ciekawscy?",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE BlurryPhoto": {
+      "Conversation/Wirman CLUE BlurryPhoto/Section ds0": {
+        "en": "What's this? A little painting?",
+        "pl": "Co to jest? Mały obrazek?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlurryPhoto/Section ds6": {
+        "en": "It's a photo.",
+        "pl": "To zdjęcie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BlurryPhoto/Section ds7": {
+        "en": "A [i]photo.[/i] Of a mermaid floating in a crystalline orb? Hm? Held aloft by a muscular demon werewolf?",
+        "pl": "[i]Zdjęcie.[/i] Syreny unoszącej się w kryształowej kuli? Hm? Trzymanej w górze przez umięśnionego demonicznego wilkołaka?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BlurryPhoto/Section ds8": {
+        "en": "-yeahh?",
+        "pl": "-noo?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BlurryPhoto/Section ds9": {
+        "en": "If you say so...",
+        "pl": "Jeśli tak mówisz...",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE BrokenCompass": {
+      "Conversation/Wirman CLUE BrokenCompass/Section ds0": {
+        "en": "I [i]feel[/i] like this sometimes.",
+        "pl": "Czasem [i]czuję[/i] się tak jak on.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds6": {
+        "en": "What d'you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds7": {
+        "en": "Uh - cogs falling out... too many needles, all pointing in different directions-",
+        "pl": "Yy - wypadające zębatki... za dużo igieł, wszystkie wskazujące różne kierunki-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds8": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds9": {
+        "en": "Well, maybe you're just part-way through being fixed.",
+        "pl": "Cóż, może jesteś po prostu w trakcie naprawy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds10": {
+        "en": "Sometimes you gotta make a mess in order to tidy up, you know?",
+        "pl": "Czasem trzeba narobić bałaganu, żeby móc posprzątać, wiesz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds12": {
+        "en": "You know what, that's rather [i]eloquent.[/i] Bravo.",
+        "pl": "Wiesz co, to było całkiem [i]elokwentne.[/i] Brawo.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds13": {
+        "en": "Grimoire, did you hear? I said something [i]eloquent.[/i]",
+        "pl": "Grimoire, słyszałeś? Powiedziałam coś [i]elokwentnego.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds14": {
+        "en": "...hm?\nOh, sorry, I... wasn't listening.\n",
+        "pl": "...hm?\nOch, przepraszam, ja... nie słuchałem.\n",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE BrokenCompass/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Wirman CLUE CaptainsJacket": {
+      "Conversation/Wirman CLUE CaptainsJacket/Section ds7": {
+        "en": "But, nope. He never wore it. Never even looked at it.",
+        "pl": "Ale, nie. Nigdy jej nie nosił. Nawet na nią nie spojrzał.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaptainsJacket/Section ds9": {
+        "en": "It's gaudy, sure, but when I first saw it I thought;",
+        "pl": "Jest krzykliwa, jasne, ale kiedy zobaczyłem ją po raz pierwszy, pomyślałem;",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaptainsJacket/Section ds13": {
+        "en": "[i]'Ah - good! Mortuga will be a man of Melodrama and Romance! Just what I'm looking for.'[/i]",
+        "pl": "[i]'Ach - dobrze! Mortuga będzie człowiekiem Melodramatu i Romansu! Właśnie tego szukałem'.[/i]",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CaptainsLog": {
+      "Conversation/Wirman CLUE CaptainsLog/Section ds0": {
+        "en": "I'm sure Sinthia's intending to fix it, although she might-",
+        "pl": "Jestem pewien, że Sinthia zamierza to naprawić, chociaż może-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaptainsLog/Section ds7": {
+        "en": "The machine that spits these out must be broken...",
+        "pl": "Maszyna, która to wypluwa, musi być zepsuta...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaptainsLog/Section ds8": {
+        "en": "Why d'you say it's broken?",
+        "pl": "Czemu mówisz, że jest zepsuta?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CaptainsLog/Section ds9": {
+        "en": "On the latest card - the readings towards the end are all messed up.",
+        "pl": "Na najnowszej karcie - odczyty pod koniec są całkowicie pomieszane.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaptainsLog/Section ds10": {
+        "en": "Looks like a misaligned printer head - bane of my [i]existence[/i], those things.",
+        "pl": "Wygląda na przesuniętą głowicę drukującą - te rzeczy to zmora mojego [i]życia.[/i]",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CaretakersJournal": {
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds0": {
+        "en": "[i]Fascinating[/i] piece of ephemera, this.",
+        "pl": "[i]Fascynujący[/i] kawałek efemerydy, ten.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds6": {
+        "en": "Do you recognise any of the objects?",
+        "pl": "Rozpoznajesz któryś z tych przedmiotów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds8": {
+        "en": "Yeah, the golden hand. I've seen it - and so have you.",
+        "pl": "Tak, złotą dłoń. Widziałem ją - i ty też.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds9": {
+        "en": "What? [i]Where?[/i]",
+        "pl": "Co? [i]Gdzie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds10": {
+        "en": "It's attached to Dr Zephyr's left wrist.",
+        "pl": "Jest przyczepiona do lewego nadgarstka Dra Zephyra.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds11": {
+        "en": "Zephyr's prosthetic hand is [i]solid gold??[/i]",
+        "pl": "Protetyczna dłoń Zephyra to [i]lite złoto??[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds12": {
+        "en": "Not quite. Says here it's made of 'an unknown material [i]90% similar[/i] to Gold.'",
+        "pl": "Niezupełnie. Tu jest napisane, że jest zrobiona z 'nieznanego materiału [i]w 90% podobnego[/i] do złota'.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaretakersJournal/Section ds13": {
+        "en": "Now, it also says it's able to [i]'touch ghosts'[/i] - so best take it with a grain of salt.",
+        "pl": "Poza tym jest też napisane, że jest w stanie [i]'dotykać duchów'[/i] - więc najlepiej podejść do tego z przymrużeniem oka.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CaseFile": {
+      "Conversation/Wirman CLUE CaseFile/Section ds0": {
+        "en": "Let's have a look-",
+        "pl": "Zobaczmy-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaseFile/Section ds6": {
+        "en": "[i]Murder victim, locked himself in the room, body discovered, no weapon found, cauldron opened for the first time...[/i]",
+        "pl": "[i]Ofiara morderstwa, zamknął się w pomieszczeniu, znaleziono ciało, nie znaleziono broni, kocioł otwarty po raz pierwszy...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaseFile/Section ds7": {
+        "en": "Yeah. Nice. Just enough information to hook you, without giving too much away.",
+        "pl": "Tak. Ładnie. Dokładnie tyle informacji, żeby zaciekawić, bez zdradzania zbyt wiele.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CaseFile/Section ds8": {
+        "en": "Sinthia knows what she's doing.",
+        "pl": "Sinthia wie, co robi.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CellPhone": {
+      "Conversation/Wirman CLUE CellPhone/Section ds0": {
+        "en": "Ugh, I can't [i]stand[/i] these things. A procrastinator's worst nightmare. ",
+        "pl": "Ugh, nie [i]znoszę[/i] tych rzeczy. Najgorszy koszmar prokrastynatora. ",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CellPhone/Section ds6": {
+        "en": "It's why I use the old typewriter - no distractions.",
+        "pl": "Dlatego używam starej maszyny do pisania - żadnych rozpraszaczy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CellPhone/Section ds7": {
+        "en": "Does Dirk spend a lot of time on his cell phone?",
+        "pl": "Czy Dirk spędza dużo czasu na telefonie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CellPhone/Section ds8": {
+        "en": "Not in here - he goes up on deck to do it.",
+        "pl": "Nie tutaj - wychodzi na pokład, żeby to robić.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CellPhone/Section ds9": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE CellPhone/Section ds10": {
+        "en": "Eh, who knows? It's not my business.",
+        "pl": "Eh, kto wie? To nie mój interes.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CommandContract": {
+      "Conversation/Wirman CLUE CommandContract/Section ds0": {
+        "en": "Yeah, he clearly used my typewriter to make it.\n",
+        "pl": "Tak, wyraźnie użył mojej maszyny do pisania, żeby to zrobić.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds6": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds7": {
+        "en": "Did you give him permission?",
+        "pl": "Dałeś mu pozwolenie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds10": {
+        "en": "So, I noticed Mortuga's contract has been - [i]typed.[/i]",
+        "pl": "Więc, zauważyłem, że kontrakt Mortugi został - [i]napisany na maszynie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds11": {
+        "en": "So how did he know how to use it?",
+        "pl": "Więc skąd wiedział, jak jej użyć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds17": {
+        "en": "It's a [h]typewriter[/h].",
+        "pl": "To [h]maszyna do pisania.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CommandContract/Section ds20": {
+        "en": "Mortuga might've been... you know, [i]outdoorsy[/i], but he wasn't an idiot.",
+        "pl": "Mortuga może i był... no wiesz, [i]typem na świeżym powietrzu,[/i] ale nie był idiotą.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE CurseCauldron": {
+      "Conversation/Wirman CLUE CurseCauldron/Section ds0": {
+        "en": "It's a [h]strong[/h] image - the ancient cauldron, opened for the very first time...",
+        "pl": "To [h]mocny[/h] obraz - starożytny kocioł, otwarty po raz pierwszy w historii...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds6": {
+        "en": "It can't be the [h]very[/h] first time - someone must've opened it before.",
+        "pl": "Nie może to być [h]dosłownie[/h] pierwszy raz - ktoś musiał go otworzyć wcześniej.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds7": {
+        "en": "Eh - semantics.",
+        "pl": "Eh - semantyka.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds8": {
+        "en": "Soo what d'you think was inside?",
+        "pl": "Więęc co myślisz, co było w środku?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds9": {
+        "en": "Does it matter?",
+        "pl": "Czy to ma znaczenie?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds10": {
+        "en": "I'm - pretty sure it [i]does.[/i] It might explain how or why Mortuga died.",
+        "pl": "Jestem - dość pewien, że [i]tak.[/i] Może to wyjaśnić, jak lub czemu Mortuga zginął.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds11": {
+        "en": "True. The, uh - murder weapon, maybe?",
+        "pl": "Prawda. To, yy - narzędzie zbrodni, może?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds14": {
+        "en": "Like a knife?",
+        "pl": "Jak nóż?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds15": {
+        "en": "Sure, why not. It would explain the scratches on the inside, after all.",
+        "pl": "Jasne, czemu nie. W końcu wyjaśniałoby to zadrapania w środku.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE CurseCauldron/Section ds16": {
+        "en": "I guess...",
+        "pl": "Chyba tak...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE DivingLicense": {
+      "Conversation/Wirman CLUE DivingLicense/Section ds0": {
+        "en": "Huh. Weird.",
+        "pl": "Hę. Dziwne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DivingLicense/Section ds6": {
+        "en": "Have you seen this before?",
+        "pl": "Widziałeś to wcześniej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE DivingLicense/Section ds7": {
+        "en": "No, never.",
+        "pl": "Nie, nigdy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DivingLicense/Section ds8": {
+        "en": "And yet I feel like I recognise the handwriting...\n",
+        "pl": "A jednak mam wrażenie, że rozpoznaję to pismo...\n",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE DreamHelmet": {
+      "Conversation/Wirman CLUE DreamHelmet/Section ds0": {
+        "en": "Hmm, Dr Zephyr's got quite the imagination, doesn't he?",
+        "pl": "Hmm, Dr Zephyr ma niezłą wyobraźnię, prawda?",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE DriftwoodCane": {
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds0": {
+        "en": "Ahh, yes, Godrik's little mascot... sidekick... thing.",
+        "pl": "Achh, tak, mała maskotka Godrika... towarzysz... coś tam.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds7": {
+        "en": "It's a wooden stick.",
+        "pl": "To drewniany kij.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds8": {
+        "en": "With a face.",
+        "pl": "Z twarzą.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds9": {
+        "en": "To [i]you.[/i]",
+        "pl": "Dla [i]was.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds10": {
+        "en": "To him , it may be a wooden stick of [h]great thunderous importance.[/h]",
+        "pl": "Dla niego, może to być drewniany kij o [h]wielkiej, gromowładnej wadze.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds12": {
+        "en": "You never found yourself attached to an inaminate object? Something that gained special meaning?",
+        "pl": "Nigdy nie przywiązaliście się do jakiegoś nieożywionego przedmiotu? Czegoś, co nabrało specjalnego znaczenia?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds13": {
+        "en": "Well, I did use to have this hat...",
+        "pl": "Cóż, miałem kiedyś ten kapelusz...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE DriftwoodCane/Section ds14": {
+        "en": "There we go. We're all guilty of it.",
+        "pl": "No właśnie. Wszyscy jesteśmy temu winni.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE FamilyPhoto": {
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds0": {
+        "en": "That man, on the right - that's Don Drummond, the shipyard mechanic.",
+        "pl": "Ten mężczyzna, po prawej - to Don Drummond, mechanik stoczni.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds6": {
+        "en": "You know him?",
+        "pl": "Znasz go?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds7": {
+        "en": "I interviewed him once, working on a piece for the newspaper...",
+        "pl": "Przeprowadziłem z nim wywiad, kiedyś, pracując nad artykułem do gazety...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds8": {
+        "en": "Or - I tried to. He was a tough nut to crack.",
+        "pl": "Albo - próbowałem. Był twardym orzechem do zgryzienia.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds9": {
+        "en": "He looks kinda grouchy...",
+        "pl": "Wygląda dość zrzędliwie...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE FamilyPhoto/Section ds10": {
+        "en": "Well, he [h]was[/h] a lighthouse keeper. Comes with the territory, I guess.",
+        "pl": "Cóż, [h]był[/h] latarnikiem. To chyba wchodzi w zakres obowiązków.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE FeliciaPainting": {
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds7": {
+        "en": "I couldn't believe it when I saw this in Mortuga's cabin...",
+        "pl": "Nie mogłem uwierzyć, kiedy zobaczyłem to w kajucie Mortugi...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds8": {
+        "en": "Had you seen it before?",
+        "pl": "Widziałeś to wcześniej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds9": {
+        "en": "Yeah. This painting used to be in my house.",
+        "pl": "Tak. Ten obraz kiedyś wisiał w moim domu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds10": {
+        "en": "[h]What?[/h]",
+        "pl": "[h]Co?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds11": {
+        "en": "In my father's study. It hung there for at least a year.",
+        "pl": "W gabinecie mojego ojca. Wisiał tam przez co najmniej rok.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds12": {
+        "en": "Why? Where'd [h]he[/h] get it from??",
+        "pl": "Czemu? Skąd [h]on[/h] to miał??",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds13": {
+        "en": "I believe he bought it from the town's Governor - a man named Fellow.",
+        "pl": "Wierzę, że kupił to od Gubernatora miasteczka - mężczyzny nazwiskiem Fellow.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds15": {
+        "en": "So how'd [h]Mortuga[/h] end up with it?",
+        "pl": "Więc jak to trafiło do [h]Mortugi?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE FeliciaPainting/Section ds16": {
+        "en": "I couldn't say.",
+        "pl": "Nie potrafię powiedzieć.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE Figurehead": {
+      "Conversation/Wirman CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE FilmProjector": {
+      "Conversation/Wirman CLUE FilmProjector/Section ds0": {
+        "en": "Where did you find [i]that?[/i]",
+        "pl": "Gdzie to [i]znaleźliście?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FilmProjector/Section ds6": {
+        "en": "The crime scene. In a cabinet, hidden off to the side.",
+        "pl": "Miejsce zbrodni. W szafce, ukryte z boku.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE FilmProjector/Section ds7": {
+        "en": "Oh, of [i]course[/i] there's a hidden cabinet! Oh it's just too good.",
+        "pl": "Och, [i]oczywiście,[/i] że jest ukryta szafka! Och, to jest po prostu za dobre.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FilmProjector/Section ds8": {
+        "en": "I don't know if it has anything to do with the murder, though...",
+        "pl": "Chociaż nie wiem, czy to ma cokolwiek wspólnego z morderstwem...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE FilmProjector/Section ds9": {
+        "en": "Eh - details.",
+        "pl": "Eh - szczegóły.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE FogBall": {
+      "Conversation/Wirman CLUE FogBall/Section ds0": {
+        "en": "What's this dime store trinket?",
+        "pl": "Co to za tandetny drobiazg z bazaru?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FogBall/Section ds6": {
+        "en": "It's called a Fog Ball.",
+        "pl": "Nazywa się Kula Mgły.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE FogBall/Section ds7": {
+        "en": "Hm, [i]is[/i] it now?",
+        "pl": "Hm, [i]naprawdę?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FogBall/Section ds8": {
+        "en": "It was in Zephyr's lab - it could be a [i]priceless curiosity.[/i]",
+        "pl": "Było to w laboratorium Zephyra - to może być [i]bezcenna osobliwość.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE FogBall/Section ds9": {
+        "en": "Oh yeah? A priceless curiosity - that takes [i]Double A batteries?[/i]",
+        "pl": "O tak? Bezcenna osobliwość - która działa na [i]baterie AA?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE FogBall/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE GlassEyeball": {
+      "Conversation/Wirman CLUE GlassEyeball/Section ds0": {
+        "en": "What's this? World's smallest piggy bank?",
+        "pl": "Co to jest? Najmniejsza skarbonka świata?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE GlassEyeball/Section ds6": {
+        "en": "What? It's not a [i]piggy bank[/i] - is it?",
+        "pl": "Co? To chyba nie jest [i]skarbonka?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE GlassEyeball/Section ds7": {
+        "en": "Well, it's got a slot, and there's something in there.",
+        "pl": "Cóż, ma szczelinę, i coś w środku.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE GlassEyeball/Section ds10": {
+        "en": "I thought maybe it was a penny.",
+        "pl": "Pomyślałem, że może to grosik.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE GoldenLocket": {
+      "Conversation/Wirman CLUE GoldenLocket/Section ds0": {
+        "en": "Symmetry's locket...",
+        "pl": "Medalion Symmetry...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE GoldenLocket/Section ds6": {
+        "en": "A mystical heirloom from her [i]tragically departed mother[/i], no doubt.",
+        "pl": "Mistyczna pamiątka rodzinna po jej [i]tragicznie zmarłej matce,[/i] bez wątpienia.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE GoldenLocket/Section ds7": {
+        "en": "Did she tell you that?",
+        "pl": "Powiedziała ci to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE GoldenLocket/Section ds8": {
+        "en": "Oh no - complete guess. But that's just how these things go, isn't it?",
+        "pl": "Och nie - czysta zgadywanka. Ale tak to zwykle bywa, prawda?",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE HandheldRadio": {
+      "Conversation/Wirman CLUE HandheldRadio/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandheldRadio/Section ds6": {
+        "en": "It's broken.",
+        "pl": "Jest zepsute.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandheldRadio/Section ds7": {
+        "en": "Or - possessed by an evil spirit. One of the two.",
+        "pl": "Albo - opętane przez złego ducha. Jedno z dwojga.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE HandwrittenLetter": {
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds0": {
+        "en": "It's mine. As you're [h]well[/h] aware - seeing as how you just fished it out of the back of my typewriter.",
+        "pl": "To moje. Jak [h]dobrze[/h] wiecie - skoro dopiero co wyłowiliście to z tyłu mojej maszyny do pisania.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds7": {
+        "en": "That's right, I was watching. I don't [h]disappear[/h] when you stop talking to me, you know.",
+        "pl": "Zgadza się, patrzyłem. Nie [h]znikam,[/h] kiedy przestajecie do mnie mówić, wiecie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds8": {
+        "en": "The envelope's addressed to [h]you[/h]... but it says 'Dear [h]James[/h]' at the top of the letter.",
+        "pl": "Koperta jest zaadresowana do [h]ciebie...[/h] ale na górze listu jest napisane 'Drogi [h]Jamesie'.[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds9": {
+        "en": "Congratulations - you've sussed out what the [i]J[/i] in my name stands for.",
+        "pl": "Gratulacje - rozgryzłaś, co oznacza [i]J[/i] w moim imieniu.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds10": {
+        "en": "If that's the height of your investigative prowess, we're all in trouble.",
+        "pl": "Jeśli to szczyt waszych zdolności detektywistycznych, mamy poważny problem.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds11": {
+        "en": "It's signed by someone named [i]T. W. Ibis...[/i]",
+        "pl": "Jest podpisany przez kogoś o imieniu [i]T. W. Ibis...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds12": {
+        "en": "Another astute observation.",
+        "pl": "Kolejna bystra obserwacja.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds13": {
+        "en": "You know, of all the detectives I've met, you two really are the most recent.",
+        "pl": "Wiecie, ze wszystkich detektywów, jakich poznałem, wy dwoje jesteście naprawdę najnowsi.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds14": {
+        "en": "Grimoire, he's being mean to us.",
+        "pl": "Grimoire, on jest dla nas złośliwy.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HandwrittenLetter/Section ds15": {
+        "en": "I noticed.",
+        "pl": "Zauważyłem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE HexBottle": {
+      "Conversation/Wirman CLUE HexBottle/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds7": {
+        "en": "Uh, yes? Something you wanted to ask?",
+        "pl": "Yy, tak? Coś, o co chcieliście zapytać?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds8": {
+        "en": "Zephyr called this a [i]Hex Bottle.[/i]",
+        "pl": "Zephyr nazwał to [i]Butelką Hexa.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds9": {
+        "en": "We thought you might know what it is, since... [i]you know...[/i]",
+        "pl": "Pomyśleliśmy, że może wiesz, czym to jest, skoro... [i]no wiesz...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds10": {
+        "en": "I wrote a book called [i]'Hex of the Helmsman?'[/i]",
+        "pl": "Napisałem książkę pod tytułem [i]'Klątwa Sternika'?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds11": {
+        "en": "Well. Yeah.",
+        "pl": "No. Tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds12": {
+        "en": "Wow.",
+        "pl": "Wow.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexBottle/Section ds13": {
+        "en": "Yeah, no, I've got nothing. Done. Next.",
+        "pl": "Tak, nie, nic nie mam. Koniec. Następny.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE HexoftheHelmsman": {
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds0": {
+        "en": "I - I'd [i]really[/i] rather not reduce it to a single sentence-",
+        "pl": "Ja - [i]naprawdę[/i] wolałbym nie sprowadzać tego do jednego zdania-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds6": {
+        "en": "It's about a guy named Markus Mordoom looking for something called [i]The Devil of the Deep.[/i]",
+        "pl": "Jest o facecie o imieniu Markus Mordoom, który szuka czegoś, co nazywa się [i]Diabeł Głębin.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds8": {
+        "en": "Does he find it?",
+        "pl": "Znajduje to?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds9": {
+        "en": "Yeah, kind of. It gets a little abstract towards the end.",
+        "pl": "Tak, niby. Pod koniec robi się trochę abstrakcyjnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds11": {
+        "en": "It's also a love story. Markus is in love with a woman named Belicia. She's his Captain.",
+        "pl": "To też jest historia miłosna. Markus jest zakochany w kobiecie imieniem Belicia. Jest jego Kapitanem.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds13": {
+        "en": "I just think it'd be better if you took the [i]time-[/i]",
+        "pl": "Po prostu myślę, że byłoby lepiej, gdybyście poświęcili [i]czas-[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds14": {
+        "en": "So what, it's just Markus Mordoom, on his ship, and that's it?",
+        "pl": "Więc co, to tylko Markus Mordoom, na swoim statku, i tyle?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds15": {
+        "en": "I don't see her on the cover...",
+        "pl": "Nie widzę jej na okładce...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds16": {
+        "en": "Really, all the nuance is lost if we just-",
+        "pl": "Naprawdę, cały niuans ginie, jeśli po prostu-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds17": {
+        "en": "No, she's there. Kinda. Like I said, it gets abstract.",
+        "pl": "Nie, jest tam. Niby. Jak mówiłam, robi się abstrakcyjnie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds18": {
+        "en": "I'll... take your word for it.",
+        "pl": "Ja... uwierzę ci na słowo.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds19": {
+        "en": "Hmph - if you'd like to [i]read[/i] it I have a spare copy you can-",
+        "pl": "Hmph - jeśli chcielibyście to [i]przeczytać,[/i] mam zapasowy egzemplarz, który możecie-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds20": {
+        "en": "Nah, that's okay. No time.",
+        "pl": "Nie, w porządku. Nie mam czasu.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds23": {
+        "en": "So - [i]you've[/i] read it, Sally, but Grimoire hasn't?",
+        "pl": "Więc - [i]ty[/i] to czytałaś, Sally, ale Grimoire nie?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds24": {
+        "en": "Nope. What's it about?",
+        "pl": "Nie. O czym to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds25": {
+        "en": "We're talking about [i]several themes[/i] carefully laid on top of each other-",
+        "pl": "Mówimy o [i]kilku wątkach[/i] starannie nałożonych na siebie-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE HexoftheHelmsman/Section ds30": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE IllusionistPoster": {
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds0": {
+        "en": "Great pull quotes - that's some [i]strong[/i] marketing for a small-town theatre...",
+        "pl": "Świetne cytaty reklamowe - to całkiem [i]mocny[/i] marketing jak na teatr z małego miasteczka...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds7": {
+        "en": "Did you ever see the show?",
+        "pl": "Widziałeś kiedyś ten pokaz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds8": {
+        "en": "Yeah, I did - as part of my old newspaper job.",
+        "pl": "Tak, widziałem - w ramach mojej dawnej pracy w gazecie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds10": {
+        "en": "Why's it called Lady of the Looking Glass?",
+        "pl": "Czemu nazywa się to Dama Zwierciadła?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds11": {
+        "en": "The central trick was Symmetry talking to herself in a mirror. Only sometimes the reflection didn't move with her.",
+        "pl": "Główną sztuczką było to, że Symmetry rozmawiała ze sobą w lustrze. Tyle że czasem odbicie się z nią nie poruszało.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds12": {
+        "en": "How did she do it?",
+        "pl": "Jak to robiła?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds13": {
+        "en": "My guess is the mirror can switch between being [i]reflective[/i] and being see-through glass.\n",
+        "pl": "Zgaduję, że lustro potrafi przełączać się między byciem [i]odbijającym[/i] a przezroczystym szkłem.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds15": {
+        "en": "You know - looking through to a [i]second[/i] Symmetry on the other side.",
+        "pl": "No wiecie - patrząc na [i]drugą[/i] Symmetry po drugiej stronie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds16": {
+        "en": "An identical twin, maybe?",
+        "pl": "Bliźniaczka, może?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds17": {
+        "en": "Ehhh, probably just a very good dummy.",
+        "pl": "Ehh, pewnie po prostu bardzo dobra atrapa.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IllusionistPoster/Section ds18": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE InnDeeds": {
+      "Conversation/Wirman CLUE InnDeeds/Section ds0": {
+        "en": "The Stonetop Inn's been in the town a [i]long[/i] time...",
+        "pl": "Gospoda Stonetop jest w miasteczku [i]od dawna...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds7": {
+        "en": "Did you ever go in?",
+        "pl": "Byłeś kiedyś w środku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds8": {
+        "en": "It was a little [i]bawdry[/i] for my tastes - but that's sailors for you.",
+        "pl": "Była trochę zbyt [i]sprośna[/i] jak na mój gust - ale takie już są marynarze.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds9": {
+        "en": "My father was a [h]frequent[/h] patron, though. He, uh - he had a thing for the innkeeper...",
+        "pl": "Mój ojciec był jednak [h]częstym[/h] bywalcem. On, yy - miał słabość do karczmarki...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds10": {
+        "en": "Did you ever see Mortuga in there?",
+        "pl": "Widziałeś kiedyś tam Mortugę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds11": {
+        "en": "It's possible, but I don't remember it... he probably looked different back then, anyway.",
+        "pl": "To możliwe, ale nie pamiętam tego... zresztą pewnie wyglądał wtedy inaczej.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds12": {
+        "en": "The deeds seem to say that [i]'Don Drummond'[/i] was the most recent owner.",
+        "pl": "Akt zdaje się mówić, że [i]'Don Drummond'[/i] był ostatnim właścicielem.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds13": {
+        "en": "Mm, I noticed...",
+        "pl": "Mm, zauważyłem...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds14": {
+        "en": "Well... I don't think there are any Stonetops [h]left.[/h]",
+        "pl": "No cóż... nie sądzę, żeby [h]zostali[/h] jacyś Stonetopowie.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds15": {
+        "en": "We were in the Inn earlier today - it's been abandoned, just like everything else.",
+        "pl": "Byliśmy dziś wcześniej w Gospodzie - jest opuszczona, tak jak wszystko inne.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE InnDeeds/Section ds17": {
+        "en": "It's hard to imagine the Stonetops selling the Inn, it's been their family home for generations.",
+        "pl": "Trudno wyobrazić sobie, żeby Stonetopowie sprzedali Gospodę, to ich rodzinny dom od pokoleń.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE IronBell": {
+      "Conversation/Wirman CLUE IronBell/Section ds0": {
+        "en": "Ugh. I wanna know what this is. It's gotta be [h]something.[/h]",
+        "pl": "Ugh. Chcę wiedzieć, czym to jest. Musi być [h]czymś.[/h]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds6": {
+        "en": "We're not sure either.",
+        "pl": "My też nie jesteśmy pewni.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds7": {
+        "en": "Did you see the carvings around the outside? It-it's a little story in four parts.",
+        "pl": "Widzieliście te rzeźbienia dookoła? To-to mała historia w czterech częściach.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds8": {
+        "en": "There's an egg, then it hatches, then there's a baby, then it goes into the water.",
+        "pl": "Jest jajko, potem się wykluwa, potem jest dziecko, potem wchodzi do wody.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds9": {
+        "en": "Into the ocean, I think.",
+        "pl": "Do oceanu, jak sądzę.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds11": {
+        "en": "I'm not sure it's a baby, either.",
+        "pl": "Nie jestem też pewna, czy to dziecko.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE IronBell/Section ds12": {
+        "en": "Hm...",
+        "pl": "Hm...",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE LifesizeDoll": {
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds0": {
+        "en": "Huh. I didn't know she was still using it.",
+        "pl": "Hę. Nie wiedziałem, że wciąż jej używa.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds6": {
+        "en": "Sym?",
+        "pl": "Sym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds7": {
+        "en": "Yeah - I figured she would've gotten rid of it by now.",
+        "pl": "Tak - myślałem, że już by się jej pozbyła.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds8": {
+        "en": "What did she [h]used[/h] to use it for?",
+        "pl": "Do czego [h]dawniej[/h] jej używała?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds9": {
+        "en": "This... is the [i]Lady of the Looking Glass[/i] herself.",
+        "pl": "To... jest sama [i]Dama Zwierciadła.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE LifesizeDoll/Section ds10": {
+        "en": "It's a body double. Kinda like having a twin - but you don't have to pay it anything.",
+        "pl": "To sobowtór. Trochę jak posiadanie bliźniaczki - tylko nie trzeba jej niczego płacić.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE MermaidPainting": {
+      "Conversation/Wirman CLUE MermaidPainting/Section ds0": {
+        "en": "Have you ever seen this painting before? - Before the [i]submarine[/i], I mean.",
+        "pl": "Widziałeś ten obraz wcześniej? - Przed [i]łodzią podwodną,[/i] mam na myśli.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MermaidPainting/Section ds7": {
+        "en": "Yeah - it used to hang in the Stonetop Inn. For a little while, at least.",
+        "pl": "Tak - kiedyś wisiał w Gospodzie Stonetop. Przynajmniej przez jakiś czas.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MermaidPainting/Section ds8": {
+        "en": "Really? Seems like it would scare away all the customers...",
+        "pl": "Naprawdę? Wydaje się, że odstraszyłby wszystkich klientów...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MermaidPainting/Section ds9": {
+        "en": "Nah, old sailor types [i]love[/i] stuff like this. It's a - conversation piece, isn't it?",
+        "pl": "Nie, starzy marynarze [i]uwielbiają[/i] takie rzeczy. To - temat do rozmowy, prawda?",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE MessageinaBottle": {
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds0": {
+        "en": "Uh... what-",
+        "pl": "Yy... co-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds6": {
+        "en": "Do you know what this is?",
+        "pl": "Wiesz, co to jest?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds7": {
+        "en": "Well, it's a [i]bottle[/i], isn't it?\nWh-where did you find it?\n",
+        "pl": "Cóż, to [i]butelka,[/i] prawda?\nGd-gdzie to znaleźliście?\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds11": {
+        "en": "Madam Tadpole's room. She like to collect stuff she finds in the ocean.",
+        "pl": "Pokój Madam Tadpole. Lubi zbierać rzeczy, które znajduje w oceanie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds12": {
+        "en": "Mm, [i]does she now![/i]\nWhat fun, what fun...",
+        "pl": "Mm, [i]doprawdy!?[/i]\nCóż za zabawa, cóż za zabawa...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds13": {
+        "en": "Mr Wirman?\nDo you know what this bottle is?",
+        "pl": "Panie Wirman?\nWiesz, czym jest ta butelka?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MessageinaBottle/Section ds16": {
+        "en": "Uh - no!\nN-no idea.\n",
+        "pl": "Yy - nie!\nN-nie mam pojęcia.\n",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE ModelTown": {
+      "Conversation/Wirman CLUE ModelTown/Section ds0": {
+        "en": "This is supposed to be [i]Silkwirm[/i], is it?",
+        "pl": "To ma być [i]Silkwirm,[/i] tak?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds6": {
+        "en": "-is it not accurate?",
+        "pl": "-czy to nie jest dokładne?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds7": {
+        "en": "Far from it...",
+        "pl": "Daleko mu do tego...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds8": {
+        "en": "I don't think it's [h]trying[/h] to be accurate - it's more about Mortuga's specific-",
+        "pl": "Nie sądzę, żeby [h]próbował[/h] być dokładny - chodzi bardziej o konkretną-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds9": {
+        "en": "Hang on... is that my [i]father?[/i]",
+        "pl": "Czekaj... czy to mój [i]ojciec?[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds10": {
+        "en": "Which one?",
+        "pl": "Który?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds11": {
+        "en": "This guy.",
+        "pl": "Ten facet.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds12": {
+        "en": "Huh. I'll make a note of it.",
+        "pl": "Hę. Zanotuję to.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds13": {
+        "en": "Damian.",
+        "pl": "Damian.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds14": {
+        "en": "Damian Wirman?",
+        "pl": "Damian Wirman?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds15": {
+        "en": "No - Damian [i]Dusk.[/i]",
+        "pl": "Nie - Damian [i]Dusk.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds17": {
+        "en": "Uh - what was your father's name?",
+        "pl": "Yy - jak miał na imię twój ojciec?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ModelTown/Section ds18": {
+        "en": "He's got the right look, and he's standing outside the building that [h]would[/h] be the town hall, if it wasn't just a wooden cube...",
+        "pl": "Wygląda odpowiednio, i stoi przed budynkiem, który [h]byłby[/h] ratuszem, gdyby nie był po prostu drewnianą kostką...",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE MoonVial": {
+      "Conversation/Wirman CLUE MoonVial/Section ds0": {
+        "en": "Picture of a moon.",
+        "pl": "Obraz księżyca.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds6": {
+        "en": "Tried asking Mariana Moon?",
+        "pl": "Próbowaliście zapytać Mariany Moon?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds7": {
+        "en": "Wow. Never would've thought of that.",
+        "pl": "Wow. Nigdy bym o tym nie pomyślała.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds8": {
+        "en": "Occam's Razor, my dear.",
+        "pl": "Brzytwa Ockhama, moja droga.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds9": {
+        "en": "Uh - who? I don't think we've met him yet.",
+        "pl": "Yy - kogo? Chyba jeszcze go nie poznaliśmy.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds10": {
+        "en": "Ehh - it's a [i]logic principle.[/i] Basically, the... simplest explanation is most likely to be correct.",
+        "pl": "Ehh - to [i]zasada logiczna.[/i] Zasadniczo... najprostsze wyjaśnienie jest najbardziej prawdopodobne.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MoonVial/Section ds11": {
+        "en": "If that were [i]always[/i] true...\nI think I'd be out of a job.",
+        "pl": "Gdyby to było [i]zawsze[/i] prawdą...\nMyślę, że straciłbym pracę.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE MourningEnvelope": {
+      "Conversation/Wirman CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE MovieMagazine": {
+      "Conversation/Wirman CLUE MovieMagazine/Section ds6": {
+        "en": "So, these are the two main characters in the movie?",
+        "pl": "Więc to są dwie główne postaci w filmie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds7": {
+        "en": "The helmsman Markus Mordoom and his captain, Belicia Bonetop.",
+        "pl": "Sternik Markus Mordoom i jego kapitan, Belicia Bonetop.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds8": {
+        "en": "[i]Ostensibly,[/i] yes...",
+        "pl": "[i]Rzekomo,[/i] tak...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds9": {
+        "en": "You're not happy with how they look? Compared to your book?",
+        "pl": "Nie jesteś zadowolony z tego, jak wyglądają? W porównaniu do twojej książki?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds10": {
+        "en": "Ehh, they made Markus too handsome - and too bulky.",
+        "pl": "Ehh, zrobili Markusa zbyt przystojnym - i zbyt masywnym.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds11": {
+        "en": "Sure, he'd have muscle, but at the same time he's supposed to be wiry - [i]fibrous[/i] - like an old piece of rope.",
+        "pl": "Jasne, miałby mięśnie, ale jednocześnie ma być żylasty - [i]włóknisty[/i] - jak stary kawałek liny.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds12": {
+        "en": "Meanwhile, Belicia's supposed to be more [i]ethereal[/i] - like she might evaporate if you tried to reach out and touch her.",
+        "pl": "Tymczasem Belicia ma być bardziej [i]eteryczna[/i] - jakby mogła wyparować, gdybyś spróbował ją dotknąć.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds14": {
+        "en": "[i]If your story hinges on a specific necklace, then make it the only necklace in the story[/i] - this is [h]basic[/h] stuff, people!!",
+        "pl": "[i]Jeśli twoja historia opiera się na konkretnym naszyjniku, to zrób go jedynym naszyjnikiem w historii[/i] - to [h]podstawy,[/h] ludzie!!",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds15": {
+        "en": "- and - [h]and[/h] - for some reason they gave them [i]both[/i] necklaces, when it's [i]Belicia's[/i] necklace that the story hinges on.",
+        "pl": "- i - [h]i[/h] - z jakiegoś powodu dali naszyjniki [i]obojgu,[/i] kiedy to naszyjnik [i]Belicii[/i] jest tym, na którym opiera się historia.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE MovieMagazine/Section ds17": {
+        "en": "Oh. well. You can't have everything-",
+        "pl": "Och. cóż. Nie można mieć wszystkiego-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE NewspaperPage": {
+      "Conversation/Wirman CLUE NewspaperPage/Section ds0": {
+        "en": "Now [i]this[/i] is a throwback...",
+        "pl": "No, [i]to[/i] jest powrót do przeszłości...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds6": {
+        "en": "I cut my teeth writing local interest stories like this.",
+        "pl": "Zdobywałem szlify, pisząc takie lokalne historie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds7": {
+        "en": "[h]You[/h] wrote this? The review of Sym's old magic show?",
+        "pl": "[h]Ty[/h] to napisałeś? Recenzję dawnego pokazu magii Sym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds8": {
+        "en": "I did.",
+        "pl": "Tak.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds9": {
+        "en": "But it says [i]'Theatre Review by James Dusk.'[/i]",
+        "pl": "Ale jest napisane [i]'Recenzja teatralna, James Dusk'.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds10": {
+        "en": "Wait-",
+        "pl": "Czekaj-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds11": {
+        "en": "-aand she finally works out what the [i]J. D.[/i] stands for in [i]J. D. Wirman.[/i]",
+        "pl": "-i wreszcie rozgryzła, co oznacza [i]J. D.[/i] w [i]J. D. Wirman.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds12": {
+        "en": "[h]Sorry[/h] - your name is [i]James Dusk[/i] and you - [i]changed[/i] it??",
+        "pl": "[h]Przepraszam[/h] - masz na imię [i]James Dusk[/i] i - [i]zmieniłeś[/i] je??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE NewspaperPage/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Wirman CLUE OceanTreasure": {
+      "Conversation/Wirman CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE Pocketbook": {
+      "Conversation/Wirman CLUE Pocketbook/Section ds0": {
+        "en": "What's that? A book?\n",
+        "pl": "Co to jest? Książka?\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds6": {
+        "en": "I think so.",
+        "pl": "Chyba tak.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds7": {
+        "en": "Let's see...",
+        "pl": "Zobaczmy...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds8": {
+        "en": "Nope. Not a book.",
+        "pl": "Nie. Nie książka.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds9": {
+        "en": "Why not?",
+        "pl": "Czemu nie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds10": {
+        "en": "Listen.",
+        "pl": "Słuchajcie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Pocketbook/Section ds12": {
+        "en": "Books don't rattle.",
+        "pl": "Książki nie grzechoczą.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE RaggedCloth": {
+      "Conversation/Wirman CLUE RaggedCloth/Section ds0": {
+        "en": "[i]The Star-Gazing Girl...[/i]",
+        "pl": "[i]Dziewczyna Patrząca w Gwiazdy...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE RaggedCloth/Section ds6": {
+        "en": "Sounds like a good [i]title[/i] for something.",
+        "pl": "Brzmi jak dobry [i]tytuł[/i] dla czegoś.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE RaggedCloth/Section ds7": {
+        "en": "Like a book? Or a film?",
+        "pl": "Jak dla książki? Czy filmu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE RaggedCloth/Section ds8": {
+        "en": "A one-woman play, surely.",
+        "pl": "Monodram, z pewnością.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE RippedScroll": {
+      "Conversation/Wirman CLUE RippedScroll/Section ds6": {
+        "en": "",
+        "pl": "",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE SeaChart": {
+      "Conversation/Wirman CLUE SeaChart/Section ds13": {
+        "en": "Uh, so - I was really banking on Mortuga having some kind of [i]exciting secret mission...[/i]",
+        "pl": "Yy, więc - naprawdę liczyłem na to, że Mortuga ma jakąś [i]ekscytującą tajną misję...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds14": {
+        "en": "Something that justified the whole [i]submarine[/i] thing - you know?",
+        "pl": "Coś, co uzasadniałoby całą tę sprawę z [i]łodzią podwodną[/i] - no wiecie?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds15": {
+        "en": "A treasure map? I was [h]looking[/h] for something like this...",
+        "pl": "Mapa skarbów? [h]Szukałem[/h] czegoś takiego...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds20": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds22": {
+        "en": "But he didn't?",
+        "pl": "Ale nie miał?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds23": {
+        "en": "No - in fact he was weirdly [i]aimless...[/i]",
+        "pl": "Nie - właściwie był dziwnie [i]bezcelowy...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds24": {
+        "en": "...like he didn't even want to [i]be[/i] here.",
+        "pl": "...jakby nawet nie chciał [i]tu być.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SeaChart/Section ds25": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE ShipinaBottle": {
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds0": {
+        "en": "Charming, isn't it?",
+        "pl": "Urocze, prawda?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds6": {
+        "en": "-is it based on a real ship?",
+        "pl": "-czy jest wzorowany na prawdziwym statku?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds7": {
+        "en": "I'd assume so, Mortuga did work as a sailor of sorts, back before the submarine.",
+        "pl": "Zakładałbym, że tak, Mortuga pracował jako swego rodzaju marynarz, jeszcze przed łodzią podwodną.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds8": {
+        "en": "It looks like the little Mortuga's standing by the wheel. So that'd make him the helmsman?",
+        "pl": "Wygląda na to, że mały Mortuga stoi przy kole. Więc byłby sternikiem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds9": {
+        "en": "Yeah. That's right.\n",
+        "pl": "Tak. Zgadza się.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds11": {
+        "en": "He had his own ship?",
+        "pl": "Miał własny statek?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds12": {
+        "en": "Oh no, it was a Stonetop ship he worked on. The same people that owned the Inn.",
+        "pl": "Och nie, to był statek Stonetopów, na którym pracował. Ci sami ludzie, którzy byli właścicielami Gospody.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipinaBottle/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE ShipsWheel": {
+      "Conversation/Wirman CLUE ShipsWheel/Section ds0": {
+        "en": "Hm. I noticed the wheel is thematically consistent with the submarine at large.",
+        "pl": "Hm. Zauważyłem, że koło jest tematycznie spójne z całą łodzią podwodną.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipsWheel/Section ds6": {
+        "en": "How so?",
+        "pl": "Jak to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE ShipsWheel/Section ds7": {
+        "en": "Well it's, uh - cobbled together from other component parts.",
+        "pl": "Cóż, jest, yy - sklecone z innych części składowych.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipsWheel/Section ds8": {
+        "en": "You know, parts that were, by themselves, broken or otherwise disused.",
+        "pl": "No wiecie, części, które same w sobie były zepsute albo nieużywane.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE ShipsWheel/Section ds9": {
+        "en": "Huh.",
+        "pl": "Hę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Wirman CLUE SilkwirmMap": {
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds6": {
+        "en": "Okay, let's see...",
+        "pl": "Okej, zobaczmy...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds7": {
+        "en": "The symbol on the top left, next to [i]Governor's Manor,[/i] that's the Fellow emblem.",
+        "pl": "Symbol w lewym górnym rogu, obok [i]Rezydencji Gubernatora,[/i] to godło Fellowów.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds9": {
+        "en": "Oh, you knew that already?",
+        "pl": "Och, już to wiedzieliście?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds10": {
+        "en": "Kinda, but - keep going.",
+        "pl": "Trochę, ale - mów dalej.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds15": {
+        "en": "Hmmm, oh - that's my father's emblem, on the top right - the one next to [i]Town Hall.[/i]",
+        "pl": "Hmmm, och - to godło mojego ojca, w prawym górnym rogu - to obok [i]Ratusza.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds17": {
+        "en": "D, for Dusk. Mayor Dusk.",
+        "pl": "D, jak Dusk. Burmistrz Dusk.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds18": {
+        "en": "Your dad was the mayor and you grew up in the Town Hall? Must've been nice.",
+        "pl": "Twój tata był burmistrzem i dorastałeś w Ratuszu? Musiało być miło.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds19": {
+        "en": "Yeah. Sure.\n",
+        "pl": "Tak. Jasne.\n",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds21": {
+        "en": "Hang on-",
+        "pl": "Czekaj-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds22": {
+        "en": "Your dad is listed on the back here, on the family tree...",
+        "pl": "Twój tata jest wypisany tutaj z tyłu, na drzewie genealogicznym...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds23": {
+        "en": "-and there's a line between him and Felicia Stonetop, see?",
+        "pl": "-i jest linia między nim a Felicią Stonetop, widzisz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds25": {
+        "en": "Hmph - it's a [i]stretch[/i] to call this a family tree.",
+        "pl": "Hmph - to [i]naciągane,[/i] żeby nazywać to drzewem genealogicznym.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SilkwirmMap/Section ds26": {
+        "en": "More like a tree of [i]speculative conjecture.[/i]",
+        "pl": "Bardziej drzewo [i]spekulatywnych domysłów.[/i]",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE StrangeDevice": {
+      "Conversation/Wirman CLUE StrangeDevice/Section ds0": {
+        "en": "That belongs to Dirk, I think.",
+        "pl": "To należy do Dirka, jak sądzę.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds6": {
+        "en": "We found it in the bilge, floating in the water.",
+        "pl": "Znaleźliśmy to w zęzie, unoszące się na wodzie.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds7": {
+        "en": "Well, that explains the [i]smell...[/i]",
+        "pl": "Cóż, to wyjaśnia [i]zapach...[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds8": {
+        "en": "What is it?",
+        "pl": "Co to jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds9": {
+        "en": "I assumed it was a movie prop. You know - a sci-fi thing?",
+        "pl": "Założyłem, że to rekwizyt filmowy. No wiecie - coś w stylu sci-fi?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds10": {
+        "en": "Has Dirk ever [i]done[/i] a movie like that?",
+        "pl": "Czy Dirk kiedykolwiek [i]zagrał[/i] w takim filmie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds11": {
+        "en": "Not to my knowledge.",
+        "pl": "Nic mi o tym nie wiadomo.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds12": {
+        "en": "But then, why-",
+        "pl": "Ale w takim razie, czemu-",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE StrangeDevice/Section ds13": {
+        "en": "No idea! You'd better ask him, hadn't you?",
+        "pl": "Nie mam pojęcia! Lepiej go zapytajcie, prawda?",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE SubmarineBlueprint": {
+      "Conversation/Wirman CLUE SubmarineBlueprint/Section ds0": {
+        "en": "The blue part's from an original blueprint of a submarine...",
+        "pl": "Niebieska część pochodzi z oryginalnego planu łodzi podwodnej...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SubmarineBlueprint/Section ds6": {
+        "en": "...and the yellow-ish parts are from a technical drawing of a ship - still a blueprint of sorts, but a bit older.",
+        "pl": "...a żółtawe części pochodzą z technicznego rysunku statku - wciąż swego rodzaju plan, ale trochę starszy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SubmarineBlueprint/Section ds7": {
+        "en": "We used to keep records like this in the town hall...",
+        "pl": "Trzymaliśmy kiedyś takie dokumenty w ratuszu...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SubmarineBlueprint/Section ds8": {
+        "en": "Where did Sinthia get them from?",
+        "pl": "Skąd Sinthia je wzięła?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE SubmarineBlueprint/Section ds10": {
+        "en": "I don't know. Maybe she took them from Mortuga's desk.",
+        "pl": "Nie wiem. Może wzięła je z biurka Mortugi.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE SunTablets": {
+      "Conversation/Wirman CLUE SunTablets/Section ds0": {
+        "en": "Ugh. How I wish I'd remembered to bring painkillers...",
+        "pl": "Ugh. Jakże żałuję, że nie pamiętałem, żeby zabrać środki przeciwbólowe...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SunTablets/Section ds6": {
+        "en": "Are any of [i]these[/i] painkillers?",
+        "pl": "Czy którekolwiek z [i]tych[/i] to środki przeciwbólowe?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE SunTablets/Section ds7": {
+        "en": "Unfortunately no, they're just supplements.",
+        "pl": "Niestety nie, to tylko suplementy.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE SunTablets/Section ds8": {
+        "en": "-and nice harmless organic ones, too - they wouldn't even take the edge off a headache.",
+        "pl": "-i to miłe, nieszkodliwe, organiczne - nawet by nie złagodziły bólu głowy.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE TheMermaidsTongue": {
+      "Conversation/Wirman CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE Typewriter": {
+      "Conversation/Wirman CLUE Typewriter/Section ds7": {
+        "en": "How come the keys are all messed up on your typewriter?",
+        "pl": "Czemu wszystkie klawisze w twojej maszynie do pisania są pomieszane?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds8": {
+        "en": "It's old! Sometimes they fall off. I guess I don't always put them back in the right place.",
+        "pl": "Jest stara! Czasem odpadają. Chyba nie zawsze wkładam je z powrotem we właściwe miejsce.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds12": {
+        "en": "And uh... what've you typed on that page?",
+        "pl": "A yy... co napisałeś na tej stronie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds13": {
+        "en": "I'm... taking another swing at a story outline. For my next book.",
+        "pl": "Ja... próbuję jeszcze raz ze szkicem fabuły. Do mojej następnej książki.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds14": {
+        "en": "I can't make it out, it's some kind of weird grid...",
+        "pl": "Nie umiem tego rozczytać, to jakaś dziwna siatka...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds15": {
+        "en": "[i]Cross-writing.[/i] Look it up, people used to do it all the time.",
+        "pl": "[i]Pismo krzyżowe.[/i] Poszukajcie, ludzie kiedyś robili to cały czas.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds19": {
+        "en": "What about these brass panels on the back?",
+        "pl": "A co z tymi mosiężnymi panelami z tyłu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds20": {
+        "en": "This one's my Father's emblem. Mayor [i]Dusk[/i] - that's why it looks like a 'D'.",
+        "pl": "Ten to godło mojego Ojca. Burmistrz [i]Dusk[/i] - dlatego wygląda jak 'D'.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE Typewriter/Section ds22": {
+        "en": "-and this is the Governor's emblem. Governor [i]Fellow[/i] - so that one's an 'F'.",
+        "pl": "-a to jest godło Gubernatora. Gubernator [i]Fellow[/i] - więc to jest 'F'.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE UnderwaterPhoto": {
+      "Conversation/Wirman CLUE UnderwaterPhoto/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE UnderwaterPhoto/Section ds6": {
+        "en": "[i]Look[/i] buddy, I got enough going on, alright?",
+        "pl": "[i]Słuchaj[/i] koleżko, mam wystarczająco dużo na głowie, dobra?",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE UnderwaterPhoto/Section ds7": {
+        "en": "I don't think I have the capacity to worry about this.",
+        "pl": "Nie sądzę, żebym miał teraz siły martwić się tym.",
+        "speaker": "Wirman"
+      }
+    },
+    "Wirman CLUE WoodenBuoy": {
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds0": {
+        "en": "I [i]tried[/i] asking Mortuga what this was...",
+        "pl": "[i]Próbowałem[/i] zapytać Mortugę, czym to jest...",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds6": {
+        "en": "No luck?",
+        "pl": "Bez powodzenia?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds7": {
+        "en": "He just said it was something he'd [i]'picked up on his travels.'[/i]",
+        "pl": "Powiedział tylko, że to coś, co [i]'znalazł podczas swoich podróży'.[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds8": {
+        "en": "Picked up [h]where?[/h] Floating somewhere in the middle of the ocean?",
+        "pl": "Znalazł [h]gdzie?[/h] Unoszące się gdzieś na środku oceanu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds9": {
+        "en": "Uh, yeah. I assume so.",
+        "pl": "Yy, tak. Zakładam, że tak.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenBuoy/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Wirman CLUE WoodenPipe": {
+      "Conversation/Wirman CLUE WoodenPipe/Section ds0": {
+        "en": "[h]You[/h] look like someone who might smoke...",
+        "pl": "[h]Ty[/h] wyglądasz na kogoś, kto mógłby palić...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds6": {
+        "en": "Grimoire, don't say that.",
+        "pl": "Grimoire, nie mów tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds7": {
+        "en": "Hey, no, he's right. Look at me.",
+        "pl": "Hej, nie, on ma rację. Spójrzcie na mnie.",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds10": {
+        "en": "[i]Mariana Moon[/i] on the other hand doesn't [i]touch[/i] the stuff, seeing as how her only pipe... is actually a [i]dictaphone.\n[/i]",
+        "pl": "[i]Mariana Moon[/i] za to nawet nie [i]tyka[/i] tego świństwa, zważywszy że jej jedyna fajka... to tak naprawdę [i]dyktafon.\n[/i]",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds13": {
+        "en": "You already knew?",
+        "pl": "Już wiedziałeś?",
+        "speaker": "Sally"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds14": {
+        "en": "Oh, you can literally hear the tape [i]spinning[/i] when she's recording-",
+        "pl": "Och, dosłownie słychać, jak taśma się [i]kręci,[/i] kiedy nagrywa-",
+        "speaker": "Wirman"
+      },
+      "Conversation/Wirman CLUE WoodenPipe/Section ds17": {
+        "en": "It's not as subtle as she likes to think.",
+        "pl": "To nie jest tak subtelne, jak jej się wydaje.",
+        "speaker": "Wirman"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

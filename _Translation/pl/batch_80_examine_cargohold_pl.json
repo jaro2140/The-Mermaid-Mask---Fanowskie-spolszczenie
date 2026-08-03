@@ -1,0 +1,481 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja CargoHold/Ladownia (85 terminow, ~18 mikroscen) - obszar nalezacy do postaci okreslanej w zrodle jako 'Mariana' (namiot, fajka, dyktafon) - prawdopodobnie NPC/pasazerka niebedaca jednym z 8 glownych podejrzanych, ale watek nie jest jednoznacznie potwierdzony w tym batchu.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Postac 'Mariana' (wlascicielka namiotu/fajki/dyktafonu) uzyta jako etykieta mowcy dla jej bezposrednich kwestii (Tent1/ds1-2) - tozsamosc niepotwierdzona, patrz VERIFICATION_QUEUE."
+  },
+  "categories": {
+    "Exam_Area_CargoHold_BG": {
+      "Examine/Exam_Area_CargoHold_BG/Section ds0": {
+        "en": "It's the cargo hold.",
+        "pl": "To ładownia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_BG/Section ds3": {
+        "en": "It's made entirely out of wood...",
+        "pl": "Jest cała zrobiona z drewna...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_BG/Section ds4": {
+        "en": "And?",
+        "pl": "I?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_BG/Section ds5": {
+        "en": "[i]And[/i] - we're in a submarine.",
+        "pl": "[i]I[/i] - jesteśmy na łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_BG/Section ds6": {
+        "en": "Aren't we?",
+        "pl": "Czyż nie?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CargoHold_LockedBox1": {
+      "Examine/Exam_Area_CargoHold_LockedBox1/Section ds0": {
+        "en": "It's a pin board.",
+        "pl": "To tablica korkowa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox1/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox1/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox1/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CargoHold_LockedBox2": {
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds1": {
+        "en": "What's this?",
+        "pl": "Co to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds3": {
+        "en": "Nothing happened.",
+        "pl": "Nic się nie stało.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds4": {
+        "en": "...what were you expecting?",
+        "pl": "...czego się spodziewałaś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds5": {
+        "en": "Normally when we complete a puzzle... something unlocks and we get a new clue.",
+        "pl": "Zazwyczaj, gdy rozwiążemy zagadkę... coś się odblokowuje i dostajemy nowy trop.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds6": {
+        "en": "Yeah, we've been conditioned to expect it.",
+        "pl": "Tak, nauczono nas tego oczekiwać.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds7": {
+        "en": "If it's a clue you want...",
+        "pl": "Jeśli chodzi ci o trop...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds8": {
+        "en": "Take a look on the back of the pin board.",
+        "pl": "Spójrz na tył tablicy korkowej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBox2/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_LockedBoxAlreadySolved": {
+      "Examine/Exam_Area_CargoHold_LockedBoxAlreadySolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_CargoHold_LockedBoxNotMet": {
+      "Examine/Exam_Area_CargoHold_LockedBoxNotMet/Section ds3": {
+        "en": "A pin board...?",
+        "pl": "Tablica korkowa...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBoxNotMet/Section ds4": {
+        "en": "I assume it belongs to that woman over there.",
+        "pl": "Zakładam, że należy do tej kobiety tam.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_LockedBoxNotMet/Section ds5": {
+        "en": "Right.\nWe'd better talk to her first.",
+        "pl": "No tak.\nLepiej najpierw z nią porozmawiajmy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_Map": {
+      "Examine/Exam_Area_CargoHold_Map/Section ds0": {
+        "en": "There's something in the pouch I think we should take a look at.",
+        "pl": "Jest coś w tej torbie, na co powinniśmy spojrzeć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Map/Section ds1": {
+        "en": "It's a big traveller's backpack.",
+        "pl": "To duży plecak podróżnika.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Map/Section ds2": {
+        "en": "[sniff]\nSmells like... soil.",
+        "pl": "[wącha]\nPachnie jak... ziemia.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Map/Section ds3": {
+        "en": "When you're done smelling it...",
+        "pl": "Kiedy skończysz to wąchać...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Map/Section ds4": {
+        "en": "[sniff]\n...and grass.",
+        "pl": "[wącha]\n...i trawa.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_Pipe": {
+      "Examine/Exam_Area_CargoHold_Pipe/Section ds0": {
+        "en": "Let's take a look at Mariana's pipe...",
+        "pl": "Spójrzmy na fajkę Mariany...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CargoHold_Tent1": {
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds0": {
+        "en": "Yeah.\nA tent.",
+        "pl": "Tak.\nNamiot.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds0 Choice 1": {
+        "en": "Look inside",
+        "pl": "Zajrzyj do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds1": {
+        "en": "Hooold on there, [i]bucko.[/i]",
+        "pl": "Zaczeeekaj no tam, [i]koleżko.[/i]",
+        "speaker": "Mariana"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds2": {
+        "en": "That's [i]private.[/i] Alright?",
+        "pl": "To [i]prywatne.[/i] Jasne?",
+        "speaker": "Mariana"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds4": {
+        "en": "I [i]enjoy[/i] that she called you bucko.",
+        "pl": "[i]Podoba[/i] mi się, że nazwała cię koleżką.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds5": {
+        "en": "It's a tent.",
+        "pl": "To namiot.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent1/Section ds6": {
+        "en": "It's a piece of fabric draped over a rope.",
+        "pl": "To kawałek materiału zarzucony na linę.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_Tent2": {
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds0": {
+        "en": "A what?",
+        "pl": "Co takiego?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds0 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds1": {
+        "en": "It's Mariana's tent - and she's not here to stop us looking inside.",
+        "pl": "To namiot Mariany - a jej tu nie ma, żeby powstrzymać nas przed zajrzeniem do środka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds2": {
+        "en": "So... is there anything in there?",
+        "pl": "Więc... coś tam jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds3": {
+        "en": "Yep. A mushroom puzzle box.",
+        "pl": "Ano. Skrzynka-zagadka w kształcie grzyba.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent2/Section ds4": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_Tent3": {
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds0": {
+        "en": "What's in there?",
+        "pl": "Co tam jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds1": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds2": {
+        "en": "It opened!",
+        "pl": "Otworzyło się!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds3": {
+        "en": "Uh - it's a little plastic thing.",
+        "pl": "Yy - to jakaś mała plastikowa rzecz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds4": {
+        "en": "Oh, wait - I know what this is...",
+        "pl": "Och, czekaj - wiem, co to jest...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds5": {
+        "en": "It's a tape for Mariana's [i]dictaphone.[/i]",
+        "pl": "To taśma do [i]dyktafonu[/i] Mariany.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_Tent3/Section ds6": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CargoHold_Tent4": {
+      "Examine/Exam_Area_CargoHold_Tent4/Section ds5": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_CargoHold_barrels": {
+      "Examine/Exam_Area_CargoHold_barrels/Section ds0": {
+        "en": "I can [i]barely[/i] move these barrels... ",
+        "pl": "Ledwo mogę [i]ruszyć[/i] te beczki... ",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_barrels/Section ds1": {
+        "en": "Actually, I think they're empty.",
+        "pl": "Właściwie chyba są puste.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_barrels/Section ds2": {
+        "en": "Oh.\nWell-",
+        "pl": "Och.\nNo cóż-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_barrels/Section ds3": {
+        "en": "[i]Wood is heavy.[/i]",
+        "pl": "[i]Drewno jest ciężkie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_barrels/Section ds4": {
+        "en": "[i]Ohh,[/i] they must be full of something heavy.",
+        "pl": "[i]Ooo,[/i] muszą być pełne czegoś ciężkiego.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_boxes": {
+      "Examine/Exam_Area_CargoHold_boxes/Section ds0": {
+        "en": "I... don't know.\nI can't get them open.",
+        "pl": "Ja... nie wiem.\nNie mogę ich otworzyć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_boxes/Section ds1": {
+        "en": "What's in these old wooden crates?",
+        "pl": "Co jest w tych starych drewnianych skrzyniach?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_boxes/Section ds3": {
+        "en": "What did I tell you?",
+        "pl": "A nie mówiłam?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_boxes/Section ds6": {
+        "en": "[i]Always.\nBring.\nThe crowbar.[/i]",
+        "pl": "[i]Zawsze.\nBierz.\nŁom.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_coalsoil": {
+      "Examine/Exam_Area_CargoHold_coalsoil/Section ds0": {
+        "en": "I thought it was coal.\nYou know - for the furnace.",
+        "pl": "Myślałem, że to węgiel.\nNo wiesz - do pieca.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_coalsoil/Section ds1": {
+        "en": "...is that soil?\n",
+        "pl": "...czy to ziemia?\n",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_furnace": {
+      "Examine/Exam_Area_CargoHold_furnace/Section ds1": {
+        "en": "No. It's a furnace.\nFor [i]heating the submarine.[/i]",
+        "pl": "Nie. To piec.\nDo [i]ogrzewania łodzi podwodnej.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_furnace/Section ds11": {
+        "en": "It's a pizza oven.",
+        "pl": "To piec do pizzy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_furnace/Section ds12": {
+        "en": "But you [h]could[/h] put a pizza in there.",
+        "pl": "Ale [h]mogłabyś[/h] włożyć tam pizzę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_furnace/Section ds17": {
+        "en": "Right.",
+        "pl": "No tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_lantern": {
+      "Examine/Exam_Area_CargoHold_lantern/Section ds0": {
+        "en": "A submarine can't burn down.\nIt's underwater!",
+        "pl": "Łódź podwodna nie może się spalić.\nJest pod wodą!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_lantern/Section ds1": {
+        "en": "That's a fire hazard.\nThis whole room is a fire hazard...",
+        "pl": "To zagrożenie pożarowe.\nCały ten pokój to zagrożenie pożarowe...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_lantern/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_laundry": {
+      "Examine/Exam_Area_CargoHold_laundry/Section ds0": {
+        "en": "Assuming you want your clothes to smell like the cargo hold of a submarine.",
+        "pl": "Zakładając, że chcesz, żeby twoje ubrania pachniały jak ładownia łodzi podwodnej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_laundry/Section ds1": {
+        "en": "This is actually a pretty good place to hang laundry...",
+        "pl": "To właściwie całkiem dobre miejsce do wieszania prania...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_mirror": {
+      "Examine/Exam_Area_CargoHold_mirror/Section ds0": {
+        "en": "It could do with a polish...",
+        "pl": "Przydałoby mu się wypolerowanie...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_mirror/Section ds1": {
+        "en": "It's a little mirror.",
+        "pl": "To małe lusterko.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_mirror/Section ds2": {
+        "en": "[i]You[/i] could do with a polish.",
+        "pl": "[i]Tobie[/i] przydałoby się wypolerowanie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_tea": {
+      "Examine/Exam_Area_CargoHold_tea/Section ds0": {
+        "en": "It's unfiltered, too.\nAnd there's no milk.",
+        "pl": "Jest też niefiltrowana.\nI nie ma mleka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_tea/Section ds1": {
+        "en": "I assumed it was tea, but actually it smells like coffee.",
+        "pl": "Zakładałem, że to herbata, ale właściwie pachnie jak kawa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_tea/Section ds4": {
+        "en": "Hardcore.",
+        "pl": "Twardo.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CargoHold_twigs": {
+      "Examine/Exam_Area_CargoHold_twigs/Section ds0": {
+        "en": "Ooh - maybe it's a dowsing rod.\nYou know, for finding water!",
+        "pl": "Ooo - może to różdżka radiestezyjna.\nNo wiesz, do szukania wody!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_twigs/Section ds1": {
+        "en": "There's a twig on the floor.",
+        "pl": "Na podłodze leży gałązka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_twigs/Section ds2": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CargoHold_twigs/Section ds4": {
+        "en": "I-",
+        "pl": "Ja-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CargoHold_twigs/Section ds5": {
+        "en": "Sure.",
+        "pl": "Jasne.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Examine/Exam_Area_CargoHold (cala lokacja)",
+      "issue": "Postac 'Mariana' (wlascicielka namiotu, fajki, dyktafonu) nie jest jednym z 8 glownych podejrzanych ani znanym NPC z wczesniejszych batchy - moze byc pasazerka/NPC drugoplanowa. Do potwierdzenia w grze, czy pojawia sie gdzie indziej i jaka jest jej rola w fabule."
+    }
+  ]
+}

@@ -1,0 +1,1529 @@
+{
+  "_meta": {
+    "batch": "Puzzles - Part Names (152) + Connectors (170) + HUD (54) = 376 terminow - mechanika 'Compare'/'MindGame'/'Locked Box' (mad-lib: gracz laczy dwie 'czesci' (Part Names) czasownikiem/fraza-lacznikiem (Connectors), tworzac zdanie dedukcyjne; tylko jedna kombinacja jest poprawna) oraz instrukcje/pytania HUD dla kazdej z ~30 mini-zagadek w grze.",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_puzzles_en.json, kategoria Puzzles/Part Names + Puzzles/Connectors + Puzzles/HUD)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "known_limitation": "UWAGA TECHNICZNA: mechanika 'Connectors' laczy dowolna 'czesc' (Part Name, o zroznicowanym rodzaju gramatycznym: m/z/n/l.mnoga) z tym samym czasownikiem/fraza w 'slot 1' - angielski jest pod tym wzgledem bezrodzajowy, polski NIE. Tam, gdzie polski czas terazniejszy/rzeczownik w narzedniku pozwalal na pelna niezmiennoscia rodzajowa, uzyto go (np. 'jest odpowiednikiem'). Tam, gdzie zrodlo uzywa czasu przeszlego (glownie grupy TestMindGame*) i rodzaj czesci jest niejednolity w obrebie jednej zagadki, przyjeto DOMYSLNY rodzaj meski liczby pojedynczej jako spojna, udokumentowana konwencje calej kategorii - moze to brzmiec niegramatycznie przy niektorych kombinacjach czesc+lacznik (np. gdy poprawna 'czesc' jest rodzaju zenskiego/nijakiego/liczby mnogiej). Wymaga weryfikacji w grze pod katem czytelnosci - pelna poprawnosc gramatyczna dla WSZYSTKICH kombinacji nie jest osiagalna bez zmian w silniku (brak warunkowej gramatyki w plaskim tlumaczeniu stringow)."
+  },
+  "categories": {
+    "PartNames": {
+      "Puzzles/Part Names/CompareBellCauldron part 1": {
+        "en": "The Iron Bell",
+        "pl": "Żelazny Dzwon"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 10": {
+        "en": "the scratches",
+        "pl": "zadrapania"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 11": {
+        "en": "the shape on the lid",
+        "pl": "kształt na pokrywie"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 2": {
+        "en": "The mechanism parts",
+        "pl": "Części mechanizmu"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 3": {
+        "en": "The darker part",
+        "pl": "Ciemniejsza część"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 4": {
+        "en": "The hanging part",
+        "pl": "Zwisająca część"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 5": {
+        "en": "The thing wedged in the side",
+        "pl": "Rzecz wciśnięta z boku"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 6": {
+        "en": "The images",
+        "pl": "Obrazki"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 7": {
+        "en": "The moon",
+        "pl": "Księżyc"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 8": {
+        "en": "the Cauldron",
+        "pl": "kocioł"
+      },
+      "Puzzles/Part Names/CompareBellCauldron part 9": {
+        "en": "the lid",
+        "pl": "pokrywa"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 1": {
+        "en": "This 'F' emblem",
+        "pl": "To godło 'F'"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 10": {
+        "en": "this 'F' emblem",
+        "pl": "to godło 'F'"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 11": {
+        "en": "this diamond-shaped latch",
+        "pl": "ten zatrzask w kształcie diamentu"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 12": {
+        "en": "these hinges",
+        "pl": "te zawiasy"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 13": {
+        "en": "these handles",
+        "pl": "te uchwyty"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 2": {
+        "en": "This 'D' emblem",
+        "pl": "To godło 'D'"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 3": {
+        "en": "This Fortuna Hall logo",
+        "pl": "To logo Fortuna Hall"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 4": {
+        "en": "This Silkwirm Spectator logo",
+        "pl": "To logo Silkwirm Spectator"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 5": {
+        "en": "This Stonetop emblem",
+        "pl": "To godło Stonetop"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 6": {
+        "en": "This Gripp's Emporium logo",
+        "pl": "To logo Emporium Grippa"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 7": {
+        "en": "This Seafoam Emblem",
+        "pl": "To godło Seafoam"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 8": {
+        "en": "This lighthouse logo",
+        "pl": "To logo latarni"
+      },
+      "Puzzles/Part Names/CompareMoon1 part 9": {
+        "en": "This family tree",
+        "pl": "To drzewo genealogiczne"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 1": {
+        "en": "Mortuga's signature on the contract",
+        "pl": "Podpis Mortugi na kontrakcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 10": {
+        "en": "Mortuga's signature on this card",
+        "pl": "podpis Mortugi na tej karcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 2": {
+        "en": "Sinthia's signature on the contract",
+        "pl": "Podpis Sinthii na kontrakcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 3": {
+        "en": "The title of the contract",
+        "pl": "Tytuł kontraktu"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 4": {
+        "en": "The first page of the contract",
+        "pl": "Pierwsza strona kontraktu"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 5": {
+        "en": "The second page of the contract",
+        "pl": "Druga strona kontraktu"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 6": {
+        "en": "Mortuga's signature on this card",
+        "pl": "podpis Mortugi na tej karcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 7": {
+        "en": "the handwritten notes on this card",
+        "pl": "odręczne notatki na tej karcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 8": {
+        "en": "the coordinates on this card",
+        "pl": "współrzędne na tej karcie"
+      },
+      "Puzzles/Part Names/CompareSinthia1 part 9": {
+        "en": "Sinthia's signature on this card",
+        "pl": "podpis Sinthii na tej karcie"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 1": {
+        "en": "The scratch on the cover",
+        "pl": "Zadrapanie na okładce"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 10": {
+        "en": "the ticket",
+        "pl": "bilet"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 11": {
+        "en": "the back of the photo",
+        "pl": "tył zdjęcia"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 2": {
+        "en": "The bloodstain",
+        "pl": "Plama krwi"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 3": {
+        "en": "The front cover",
+        "pl": "Przednia okładka"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 4": {
+        "en": "The spine",
+        "pl": "Grzbiet"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 5": {
+        "en": "The back cover",
+        "pl": "Tylna okładka"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 6": {
+        "en": "The padlock",
+        "pl": "Kłódka"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 7": {
+        "en": "the 'WW' initials",
+        "pl": "inicjały 'WW'"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 8": {
+        "en": "the photograph",
+        "pl": "fotografia"
+      },
+      "Puzzles/Part Names/CompareTadpole2 part 9": {
+        "en": "the handwritten caption",
+        "pl": "odręczny podpis"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 1": {
+        "en": "The 'Curse in the Cauldron' title",
+        "pl": "Tytuł 'Klątwa w Kotle'"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 10": {
+        "en": "the barcode",
+        "pl": "kod kreskowy"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 2": {
+        "en": "The typed paragraph",
+        "pl": "Napisany na maszynie akapit"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 3": {
+        "en": "The crime scene diagram",
+        "pl": "Diagram miejsca zbrodni"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 4": {
+        "en": "The wax seal on the bottle",
+        "pl": "Pieczęć woskowa na butelce"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 5": {
+        "en": "the 'Hex of the Helmsman' title",
+        "pl": "tytuł 'Klątwa Sternika'"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 6": {
+        "en": "Wirman's name",
+        "pl": "nazwisko Wirmana"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 7": {
+        "en": "the publisher's name",
+        "pl": "nazwa wydawcy"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 8": {
+        "en": "the cover illustration",
+        "pl": "ilustracja na okładce"
+      },
+      "Puzzles/Part Names/CompareWirman1 part 9": {
+        "en": "the blurb",
+        "pl": "opis"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 1": {
+        "en": "This antenna",
+        "pl": "Ta antena"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 2": {
+        "en": "This funnel",
+        "pl": "Ten lejek"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 3": {
+        "en": "This filter",
+        "pl": "Ten filtr"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 4": {
+        "en": "This pair of goggles",
+        "pl": "Te gogle"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 5": {
+        "en": "this antenna",
+        "pl": "ta antena"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 6": {
+        "en": "this glass ball",
+        "pl": "ta szklana kula"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 7": {
+        "en": "this metal part",
+        "pl": "ta metalowa część"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 8": {
+        "en": "this wooden base",
+        "pl": "ta drewniana podstawa"
+      },
+      "Puzzles/Part Names/CompareZephyr2 part 9": {
+        "en": "this battery",
+        "pl": "ta bateria"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 1": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 2": {
+        "en": "Markus Mordoom",
+        "pl": "Markus Mordoom"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 3": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 4": {
+        "en": "Kristin Kale Publishing",
+        "pl": "Kristin Kale Publishing"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 5": {
+        "en": "Wit & Whimsy Productions",
+        "pl": "Wit & Whimsy Productions"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 6": {
+        "en": "Vincent Van De Peer",
+        "pl": "Vincent Van De Peer"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 7": {
+        "en": "J. D. Wirman",
+        "pl": "J. D. Wirman"
+      },
+      "Puzzles/Part Names/TestMindGameDirk1 part 8": {
+        "en": "Julié Janélé",
+        "pl": "Julié Janélé"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 1": {
+        "en": "The Movie Producer",
+        "pl": "Producent Filmowy"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 2": {
+        "en": "J. D. Wirman",
+        "pl": "J. D. Wirman"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 3": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 4": {
+        "en": "Sinthia Seafoam",
+        "pl": "Sinthia Seafoam"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 5": {
+        "en": "Everyone on the Submarine",
+        "pl": "Wszyscy na Łodzi Podwodnej"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 6": {
+        "en": "The Book Publisher",
+        "pl": "Wydawca Książki"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 7": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameDirk2 part 8": {
+        "en": "Julié Janélé",
+        "pl": "Julié Janélé"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 1": {
+        "en": "The Eyeball Key",
+        "pl": "Kluczyk w Kształcie Oka"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 2": {
+        "en": "The Vent Under The Cauldron",
+        "pl": "Kratka Wentylacyjna Pod Kotłem"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 3": {
+        "en": "The Sail Cloth",
+        "pl": "Żaglowe Płótno"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 4": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 5": {
+        "en": "The Cauldron",
+        "pl": "Kocioł"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 6": {
+        "en": "Mortuga's Blood",
+        "pl": "Krew Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 7": {
+        "en": "The Bulkhead Door",
+        "pl": "Drzwi Grodziowe"
+      },
+      "Puzzles/Part Names/TestMindGameEyeballKeyVent part 8": {
+        "en": "The Moon Vial",
+        "pl": "Fiolka Moon"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 1": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 2": {
+        "en": "The Cauldron",
+        "pl": "Kocioł"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 3": {
+        "en": "Captain Seafoam",
+        "pl": "Kapitan Seafoam"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 4": {
+        "en": "The Mortuga Submarine",
+        "pl": "Łódź Podwodna Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 5": {
+        "en": "The Illusion Theatre",
+        "pl": "Teatr Iluzji"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 6": {
+        "en": "A weapon",
+        "pl": "Broń"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 7": {
+        "en": "The Wooden Buoy",
+        "pl": "Drewniana Boja"
+      },
+      "Puzzles/Part Names/TestMindGameGrimoire1 part 8": {
+        "en": "The Bulkhead Door",
+        "pl": "Drzwi Grodziowe"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 1": {
+        "en": "Mariana Moon",
+        "pl": "Mariana Moon"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 2": {
+        "en": "The Submarine",
+        "pl": "Łódź Podwodna"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 3": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 4": {
+        "en": "Madam Tadpole",
+        "pl": "Madam Tadpole"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 5": {
+        "en": "A Cell Phone",
+        "pl": "Telefon Komórkowy"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 6": {
+        "en": "Silkwirm-on-Sea",
+        "pl": "Silkwirm nad Morzem"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 7": {
+        "en": "A Wooden Pipe",
+        "pl": "Drewniana Rura"
+      },
+      "Puzzles/Part Names/TestMindGameMariana1 part 8": {
+        "en": "The Actual Moon",
+        "pl": "Prawdziwy Księżyc"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 1": {
+        "en": "A Metal Thing",
+        "pl": "Metalowa Rzecz"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 2": {
+        "en": "The Iron Bell",
+        "pl": "Żelazny Dzwon"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 3": {
+        "en": "The Culprit",
+        "pl": "Sprawca"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 4": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 5": {
+        "en": "The Cauldron",
+        "pl": "Kocioł"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 6": {
+        "en": "A Rope",
+        "pl": "Lina"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 7": {
+        "en": "A Sharp Stick",
+        "pl": "Ostry Patyk"
+      },
+      "Puzzles/Part Names/TestMindGameMurderMethod part 8": {
+        "en": "A Knife",
+        "pl": "Nóż"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 1": {
+        "en": "Sinthia Seafoam",
+        "pl": "Sinthia Seafoam"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 2": {
+        "en": "Mortuga's Murder",
+        "pl": "Morderstwo Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 3": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 4": {
+        "en": "The Submarine's Construction",
+        "pl": "Budowa Łodzi Podwodnej"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 5": {
+        "en": "The Submarine",
+        "pl": "Łódź Podwodna"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 6": {
+        "en": "Sinthia's Murder",
+        "pl": "Morderstwo Sinthii"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 7": {
+        "en": "Mortuga's Birthday",
+        "pl": "Urodziny Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameSinthia1 part 8": {
+        "en": "Sinthia's Imagination",
+        "pl": "Wyobraźnia Sinthii"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 1": {
+        "en": "The Doll",
+        "pl": "Lalka"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 2": {
+        "en": "Symmetry",
+        "pl": "Symmetry"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 3": {
+        "en": "The Fog Ball",
+        "pl": "Kula Mgły"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 4": {
+        "en": "Lady of the Looking Glass",
+        "pl": "Dama Zwierciadła"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 5": {
+        "en": "Sinthia",
+        "pl": "Sinthia"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 6": {
+        "en": "The Cauldron",
+        "pl": "Kocioł"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 7": {
+        "en": "The Golden Locket",
+        "pl": "Złoty Medalion"
+      },
+      "Puzzles/Part Names/TestMindGameSymmetry1 part 8": {
+        "en": "Mortuga",
+        "pl": "Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 1": {
+        "en": "The Ship in a Bottle",
+        "pl": "Statek w Butelce"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 2": {
+        "en": "A Model of Someone Else",
+        "pl": "Model Kogoś Innego"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 3": {
+        "en": "The Model of Magnus Mortuga",
+        "pl": "Model Magnusa Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 4": {
+        "en": "The Model of Felicia Stonetop",
+        "pl": "Model Felicii Stonetop"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 5": {
+        "en": "The Model of Selena Stonetop",
+        "pl": "Model Seleny Stonetop"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 6": {
+        "en": "The Moon Vial Dropper",
+        "pl": "Zakraplacz Fiolki Moon"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 7": {
+        "en": "The Bottle Cap",
+        "pl": "Korek Butelki"
+      },
+      "Puzzles/Part Names/TestMindGameThirdPerson3 part 8": {
+        "en": "The Sail",
+        "pl": "Żagiel"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 1": {
+        "en": "J. D. Wirman",
+        "pl": "J. D. Wirman"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 2": {
+        "en": "Mortuga's real life story",
+        "pl": "Prawdziwa historia życia Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 3": {
+        "en": "Mortuga's love interest",
+        "pl": "Obiekt uczuć Mortugi"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 4": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 5": {
+        "en": "Mordoom's catchphrase",
+        "pl": "Powiedzonko Mordooma"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 6": {
+        "en": "Mordoom's hair care routine",
+        "pl": "Rutyna pielęgnacji włosów Mordooma"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 7": {
+        "en": "Markus Mordoom",
+        "pl": "Markus Mordoom"
+      },
+      "Puzzles/Part Names/TestMindGameWirman1 part 8": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 1": {
+        "en": "The Hex Bottle",
+        "pl": "Butelka Hexa"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 2": {
+        "en": "A Sea Creature",
+        "pl": "Morskie Stworzenie"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 3": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 4": {
+        "en": "Dr Zephyr",
+        "pl": "Doktor Zephyr"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 5": {
+        "en": "A Mouse",
+        "pl": "Mysz"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 6": {
+        "en": "The Moon Vial",
+        "pl": "Fiolka Moon"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 7": {
+        "en": "An Eyeball",
+        "pl": "Gałka Oczna"
+      },
+      "Puzzles/Part Names/TestMindGameZephyr1 part 8": {
+        "en": "The Fog Ball",
+        "pl": "Kula Mgły"
+      }
+    },
+    "Connectors": {
+      "Puzzles/Connectors/CompareBellCauldron connector 1 1": {
+        "en": "slots into",
+        "pl": "wsuwa się w"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 1 2": {
+        "en": "pushes down",
+        "pl": "wciska"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 1 3": {
+        "en": "pierces",
+        "pl": "przebija"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 1 4": {
+        "en": "lifts up",
+        "pl": "podnosi"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 1 5": {
+        "en": "wraps around",
+        "pl": "owija się wokół"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 2 1": {
+        "en": "to lock or unlock the cauldron",
+        "pl": "żeby zablokować lub odblokować kocioł"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 2 2": {
+        "en": "to dismantle the Iron Bell",
+        "pl": "żeby rozmontować Żelazny Dzwon"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 2 3": {
+        "en": "to destroy the Cauldron",
+        "pl": "żeby zniszczyć Kocioł"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 2 4": {
+        "en": "to be used as a motor",
+        "pl": "żeby być używanym jako silnik"
+      },
+      "Puzzles/Connectors/CompareBellCauldron connector 2 5": {
+        "en": "to emit a sound",
+        "pl": "żeby wydać dźwięk"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 1 1": {
+        "en": "is the same as",
+        "pl": "jest tym samym co"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 1 2": {
+        "en": "is nothing to do with",
+        "pl": "nie ma nic wspólnego z"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 1 3": {
+        "en": "is the mirror image of",
+        "pl": "jest lustrzanym odbiciem"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 1 4": {
+        "en": "was the inspiration for",
+        "pl": "było inspiracją dla"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 1 5": {
+        "en": "is the secret to",
+        "pl": "jest sekretem do"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 2 1": {
+        "en": "suggesting the box is from Fellow Manor",
+        "pl": "co sugeruje, że skrzynka pochodzi z Dworu Fellow"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 2 2": {
+        "en": "suggesting the box is from Silkwirm-on-sea",
+        "pl": "co sugeruje, że skrzynka pochodzi z Silkwirm nad Morzem"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 2 3": {
+        "en": "suggesting the box belongs to Baroness Fortuna",
+        "pl": "co sugeruje, że skrzynka należy do Baronowej Fortuny"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 2 4": {
+        "en": "suggesting the box belongs to Mariana Moon",
+        "pl": "co sugeruje, że skrzynka należy do Mariany Moon"
+      },
+      "Puzzles/Connectors/CompareMoon1 connector 2 5": {
+        "en": "suggesting the box is from the Silkwirm Spectator",
+        "pl": "co sugeruje, że skrzynka pochodzi z redakcji Silkwirm Spectator"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 1 1": {
+        "en": "is an exact match of",
+        "pl": "jest dokładnym odpowiednikiem"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 1 2": {
+        "en": "is a mirror image of",
+        "pl": "jest lustrzanym odbiciem"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 1 3": {
+        "en": "is fairly similar to",
+        "pl": "przypomina"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 1 4": {
+        "en": "doesn't look anything like",
+        "pl": "zupełnie nie przypomina"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 1 5": {
+        "en": "is a longer version of",
+        "pl": "jest dłuższą wersją"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 2 1": {
+        "en": "but it doesn't match any of the other cards",
+        "pl": "ale to nie pasuje do żadnej z pozostałych kart"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 2 2": {
+        "en": "because Sinthia wrote it from memory",
+        "pl": "ponieważ Sinthia napisała to z pamięci"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 2 3": {
+        "en": "and it matches all the other cards as well",
+        "pl": "i to pasuje też do wszystkich pozostałych kart"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 2 4": {
+        "en": "because it was written by Mortuga",
+        "pl": "ponieważ napisał to Mortuga"
+      },
+      "Puzzles/Connectors/CompareSinthia1 connector 2 5": {
+        "en": "because the same pen was used for both",
+        "pl": "ponieważ do obu użyto tego samego długopisu"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 1 1": {
+        "en": "is an engraving of",
+        "pl": "jest grawerunkiem"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 1 2": {
+        "en": "is a counterfeit of",
+        "pl": "jest podróbką"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 1 3": {
+        "en": "is a transcript of",
+        "pl": "jest zapisem"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 1 4": {
+        "en": "is a photograph of",
+        "pl": "jest fotografią"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 1 5": {
+        "en": "is a painting of",
+        "pl": "jest obrazem"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 2 1": {
+        "en": "because it was made by Waylan Wolfe",
+        "pl": "bo zrobił to Waylan Wolfe"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 2 2": {
+        "en": "because it was made by Magnus Mortuga",
+        "pl": "bo zrobił to Magnus Mortuga"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 2 3": {
+        "en": "because it was made by Mariana Moon",
+        "pl": "bo zrobiła to Mariana Moon"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 2 4": {
+        "en": "because it was made by Wit & Whimsy",
+        "pl": "bo stworzono to w Wit & Whimsy"
+      },
+      "Puzzles/Connectors/CompareTadpole2 connector 2 5": {
+        "en": "because it was made by Madam Tadpole",
+        "pl": "bo zrobiła to Madam Tadpole"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 1 1": {
+        "en": "is drawn in the same style as",
+        "pl": "przypomina stylem"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 1 2": {
+        "en": "is a set of instructions for",
+        "pl": "to instrukcja do"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 1 3": {
+        "en": "rhymes with",
+        "pl": "rymuje się z"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 1 4": {
+        "en": "is the real meaning behind",
+        "pl": "to prawdziwe znaczenie"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 1 5": {
+        "en": "sounds a bit like",
+        "pl": "brzmi trochę jak"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 2 1": {
+        "en": "because it's a plan for the next book",
+        "pl": "bo to plan na następną książkę"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 2 2": {
+        "en": "because it matches the movie logo",
+        "pl": "bo pasuje do logo filmu"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 2 3": {
+        "en": "because it was created years ago",
+        "pl": "bo powstało to wiele lat temu"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 2 4": {
+        "en": "because it's actually a secret code",
+        "pl": "bo to w rzeczywistości tajny kod"
+      },
+      "Puzzles/Connectors/CompareWirman1 connector 2 5": {
+        "en": "because Wirman made a mistake",
+        "pl": "bo Wirman popełnił błąd"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 1 1": {
+        "en": "wirelessly transmits to",
+        "pl": "bezprzewodowo przesyła do"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 1 2": {
+        "en": "is plugged into",
+        "pl": "łączy się z"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 1 3": {
+        "en": "wirelessly receives from",
+        "pl": "bezprzewodowo odbiera z"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 1 4": {
+        "en": "points in the direction of",
+        "pl": "wskazuje kierunek na"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 1 5": {
+        "en": "vibrates when it gets near",
+        "pl": "wibruje, gdy się zbliża"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 2 1": {
+        "en": "and the Fog Ball receives the dream energy",
+        "pl": "a Kula Mgły odbiera energię snu"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 2 2": {
+        "en": "and the Fog Ball transmits the dream energy",
+        "pl": "a Kula Mgły przesyła energię snu"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 2 3": {
+        "en": "and the Fog Ball receives the radio signal",
+        "pl": "a Kula Mgły odbiera sygnał radiowy"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 2 4": {
+        "en": "and the Fog Ball transmits the radio signal",
+        "pl": "a Kula Mgły przesyła sygnał radiowy"
+      },
+      "Puzzles/Connectors/CompareZephyr2 connector 2 5": {
+        "en": "and the Fog Ball violently explodes",
+        "pl": "a Kula Mgły gwałtownie eksploduje"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 1 1": {
+        "en": "was the original inspiration for",
+        "pl": "był pierwotną inspiracją dla"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 1 2": {
+        "en": "was an employee of",
+        "pl": "był pracownikiem"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 1 3": {
+        "en": "was murdered by",
+        "pl": "został zamordowany przez"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 1 4": {
+        "en": "was fired by",
+        "pl": "został zwolniony przez"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 1 5": {
+        "en": "was married to",
+        "pl": "był w związku małżeńskim z"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 2 1": {
+        "en": "who Dirk plays in the movie adaptation",
+        "pl": "którego Dirk gra w filmowej adaptacji"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 2 2": {
+        "en": "who paid Dirk a lot of money",
+        "pl": "który zapłacił Dirkowi dużo pieniędzy"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 2 3": {
+        "en": "who wanted to murder Mortuga",
+        "pl": "który chciał zamordować Mortugę"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 2 4": {
+        "en": "who wanted to murder Dirk",
+        "pl": "który chciał zamordować Dirka"
+      },
+      "Puzzles/Connectors/TestMindGameDirk1 connector 2 5": {
+        "en": "who is secretly on board the submarine",
+        "pl": "który potajemnie przebywa na pokładzie łodzi podwodnej"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 1 1": {
+        "en": "asked Dirk to spy on",
+        "pl": "poprosił Dirka, żeby szpiegował"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 1 2": {
+        "en": "needed Wirman to meet",
+        "pl": "potrzebował, żeby Wirman spotkał się z"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 1 3": {
+        "en": "told Dirk to kill",
+        "pl": "kazał Dirkowi zabić"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 1 4": {
+        "en": "asked Wirman to talk to",
+        "pl": "poprosił Wirmana, żeby porozmawiał z"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 1 5": {
+        "en": "wanted Dirk to replace",
+        "pl": "chciał, żeby Dirk zastąpił"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 2 1": {
+        "en": "and report back",
+        "pl": "i zdał relację"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 2 2": {
+        "en": "to become friends with them",
+        "pl": "żeby się z nimi zaprzyjaźnić"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 2 3": {
+        "en": "and try to murder them",
+        "pl": "i spróbował ich zamordować"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 2 4": {
+        "en": "to make a lot of money",
+        "pl": "żeby zarobić dużo pieniędzy"
+      },
+      "Puzzles/Connectors/TestMindGameDirk2 connector 2 5": {
+        "en": "to cheer them up",
+        "pl": "żeby ich pocieszyć"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 1": {
+        "en": "fell through",
+        "pl": "wpadł przez"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 2": {
+        "en": "landed inside",
+        "pl": "wylądował wewnątrz"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 3": {
+        "en": "was placed on top of",
+        "pl": "został umieszczony na"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 4": {
+        "en": "knocked over",
+        "pl": "przewrócił"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 1 5": {
+        "en": "got stuck in",
+        "pl": "utknął w"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 1": {
+        "en": "and landed in the Bilge",
+        "pl": "i wylądował w Zęzie"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 2": {
+        "en": "and stayed in the Illusion Theatre",
+        "pl": "i został w Teatrze Iluzji"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 3": {
+        "en": "and landed in the Captain's Cabin",
+        "pl": "i wylądował w Gabinecie Kapitana"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 4": {
+        "en": "and was lost forever",
+        "pl": "i przepadł na zawsze"
+      },
+      "Puzzles/Connectors/TestMindGameEyeballKeyVent connector 2 5": {
+        "en": "and landed in the Airlock",
+        "pl": "i wylądował w Śluzie"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 1": {
+        "en": "unlocked",
+        "pl": "odblokował"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 2": {
+        "en": "removed",
+        "pl": "usunął"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 3": {
+        "en": "killed",
+        "pl": "zabił"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 4": {
+        "en": "locked",
+        "pl": "zablokował"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 1 5": {
+        "en": "replaced",
+        "pl": "zastąpił"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 1": {
+        "en": "and was killed by what was inside",
+        "pl": "i zginął od tego, co było w środku"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 2": {
+        "en": "in order to frame somebody else",
+        "pl": "żeby wrobić kogoś innego"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 3": {
+        "en": "and hid something inside",
+        "pl": "i schował coś w środku"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 4": {
+        "en": "and killed the person inside",
+        "pl": "i zabił osobę w środku"
+      },
+      "Puzzles/Connectors/TestMindGameGrimoire1 connector 2 5": {
+        "en": "because someone told him to",
+        "pl": "bo ktoś mu kazał"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 1 1": {
+        "en": "brought something onto",
+        "pl": "przyniósł coś na"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 1 2": {
+        "en": "brought somebody onto",
+        "pl": "przyprowadził kogoś na"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 1 3": {
+        "en": "took something away from",
+        "pl": "zabrał coś z"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 1 4": {
+        "en": "took somebody away from",
+        "pl": "zabrał kogoś z"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 1 5": {
+        "en": "killed somebody from",
+        "pl": "zabił kogoś z"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 2 1": {
+        "en": "to give to Mortuga",
+        "pl": "żeby dać to Mortudze"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 2 2": {
+        "en": "in order to kill Mortuga",
+        "pl": "żeby zabić Mortugę"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 2 3": {
+        "en": "to frame someone",
+        "pl": "żeby kogoś wrobić"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 2 4": {
+        "en": "as a joke",
+        "pl": "dla żartu"
+      },
+      "Puzzles/Connectors/TestMindGameMariana1 connector 2 5": {
+        "en": "to pay off a debt",
+        "pl": "żeby spłacić dług"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 1 1": {
+        "en": "was wedged into",
+        "pl": "został wciśnięty w"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 1 2": {
+        "en": "was designed to fit into",
+        "pl": "został zaprojektowany, żeby pasować do"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 1 3": {
+        "en": "was glued onto",
+        "pl": "został przyklejony do"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 1 4": {
+        "en": "was removed from",
+        "pl": "został usunięty z"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 1 5": {
+        "en": "was screwed into",
+        "pl": "został wkręcony w"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 2 1": {
+        "en": "to kill Mortuga when it rotated around",
+        "pl": "żeby zabić Mortugę, gdy się obróci"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 2 2": {
+        "en": "to trap Mortuga in the Illusion Theatre",
+        "pl": "żeby uwięzić Mortugę w Teatrze Iluzji"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 2 3": {
+        "en": "to kill Mortuga when it fell down",
+        "pl": "żeby zabić Mortugę, gdy spadnie"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 2 4": {
+        "en": "to keep Mortuga out of the Illusion Theatre",
+        "pl": "żeby nie wpuścić Mortugi do Teatru Iluzji"
+      },
+      "Puzzles/Connectors/TestMindGameMurderMethod connector 2 5": {
+        "en": "to kill Mortuga when it shot forward",
+        "pl": "żeby zabić Mortugę, gdy wystrzeli do przodu"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 1 1": {
+        "en": "signed the contract after",
+        "pl": "podpisał kontrakt po"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 1 2": {
+        "en": "signed the contract before",
+        "pl": "podpisał kontrakt przed"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 1 3": {
+        "en": "signed the contract inside",
+        "pl": "podpisał kontrakt w"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 1 4": {
+        "en": "showed the contract to",
+        "pl": "pokazał kontrakt"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 1 5": {
+        "en": "signed the contract with",
+        "pl": "podpisał kontrakt z"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 2 1": {
+        "en": "and forged Mortuga's signature",
+        "pl": "i sfałszował podpis Mortugi"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 2 2": {
+        "en": "because nobody else wanted to",
+        "pl": "bo nikt inny nie chciał"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 2 3": {
+        "en": "to avoid paying taxes",
+        "pl": "żeby uniknąć płacenia podatków"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 2 4": {
+        "en": "and asked Mortuga to sign it",
+        "pl": "i poprosił Mortugę, żeby go podpisał"
+      },
+      "Puzzles/Connectors/TestMindGameSinthia1 connector 2 5": {
+        "en": "to trick Sinthia into signing it",
+        "pl": "żeby oszukać Sinthię i skłonić ją do podpisania"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 1": {
+        "en": "could still work as a double for",
+        "pl": "wciąż mógłby udawać sobowtóra"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 2": {
+        "en": "could permanently replace",
+        "pl": "mógłby na stałe zastąpić"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 3": {
+        "en": "could be balanced on top of",
+        "pl": "mógłby zostać zrównoważony na szczycie"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 4": {
+        "en": "could still fit inside",
+        "pl": "wciąż mógłby się zmieścić w"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 1 5": {
+        "en": "could reflect an image of",
+        "pl": "mógłby odbijać obraz"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 1": {
+        "en": "if it was facing away from the audience",
+        "pl": "gdyby był odwrócony tyłem do widowni"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 2": {
+        "en": "if it was placed upside-down",
+        "pl": "gdyby został ustawiony do góry nogami"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 3": {
+        "en": "if the audience had never met Symmetry",
+        "pl": "gdyby widownia nigdy nie poznała Symmetry"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 4": {
+        "en": "if the trick was done in the dark",
+        "pl": "gdyby sztuczkę wykonano w ciemności"
+      },
+      "Puzzles/Connectors/TestMindGameSymmetry1 connector 2 5": {
+        "en": "if the audience was really far away",
+        "pl": "gdyby widownia była naprawdę daleko"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 1": {
+        "en": "rattles when you shake it, because",
+        "pl": "grzechocze, gdy się nim potrząsa, ponieważ"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 2": {
+        "en": "is very fragile, because",
+        "pl": "jest bardzo kruchy, ponieważ"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 3": {
+        "en": "feels cold to the touch, because",
+        "pl": "jest zimny w dotyku, ponieważ"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 4": {
+        "en": "is very heavy, because",
+        "pl": "jest bardzo ciężki, ponieważ"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 1 5": {
+        "en": "gives off a strange smell, because",
+        "pl": "wydziela dziwny zapach, ponieważ"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 1": {
+        "en": "is hidden inside the ship",
+        "pl": "jest ukryty wewnątrz statku"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 2": {
+        "en": "has been removed from the bottle",
+        "pl": "został wyjęty z butelki"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 3": {
+        "en": "has been painted onto the bottle",
+        "pl": "został namalowany na butelce"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 4": {
+        "en": "is stuck to the outside of the ship",
+        "pl": "jest przyklejony do zewnętrznej części statku"
+      },
+      "Puzzles/Connectors/TestMindGameThirdPerson3 connector 2 5": {
+        "en": "has been stolen from the ship",
+        "pl": "został skradziony ze statku"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 1 1": {
+        "en": "needed to steal",
+        "pl": "musiał ukraść"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 1 2": {
+        "en": "originally created",
+        "pl": "pierwotnie stworzył"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 1 3": {
+        "en": "needed to kill",
+        "pl": "musiał zabić"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 1 4": {
+        "en": "wanted to reveal",
+        "pl": "chciał ujawnić"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 1 5": {
+        "en": "started a rumor about",
+        "pl": "zaczął plotkę o"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 2 1": {
+        "en": "to use as the plot for his next book",
+        "pl": "żeby wykorzystać jako fabułę swojej następnej książki"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 2 2": {
+        "en": "for a newspaper article",
+        "pl": "do artykułu prasowego"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 2 3": {
+        "en": "to use as evidence in a court case",
+        "pl": "żeby wykorzystać jako dowód w sprawie sądowej"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 2 4": {
+        "en": "as a political statement",
+        "pl": "jako oświadczenie polityczne"
+      },
+      "Puzzles/Connectors/TestMindGameWirman1 connector 2 5": {
+        "en": "to use as the script in a movie",
+        "pl": "żeby wykorzystać jako scenariusz filmu"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 1 1": {
+        "en": "contains",
+        "pl": "zawiera"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 1 2": {
+        "en": "is actually just",
+        "pl": "to tak naprawdę tylko"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 1 3": {
+        "en": "was fed to",
+        "pl": "został podany"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 1 4": {
+        "en": "is larger than",
+        "pl": "przewyższa rozmiarem"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 1 5": {
+        "en": "is related to",
+        "pl": "ma związek z"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 2 1": {
+        "en": "and it's asleep",
+        "pl": "i to śpi"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 2 2": {
+        "en": "but it was stolen",
+        "pl": "ale to zostało skradzione"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 2 3": {
+        "en": "but it's fake",
+        "pl": "ale to podróbka"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 2 4": {
+        "en": "but it's dead",
+        "pl": "ale to nieżywe"
+      },
+      "Puzzles/Connectors/TestMindGameZephyr1 connector 2 5": {
+        "en": "and it can talk",
+        "pl": "i to potrafi mówić"
+      }
+    },
+    "HUD": {
+      "Puzzles/HUD/AttachGame_CrimeSceneBlood 1": {
+        "en": "A phenomenon that's evidence of the submarine suddenly tilting...",
+        "pl": "Zjawisko, które jest dowodem na to, że łódź podwodna nagle się przechyliła..."
+      },
+      "Puzzles/HUD/AttachGame_CrimeSceneSymHide 1": {
+        "en": "Where was the real Sym during her new magic trick?",
+        "pl": "Gdzie była prawdziwa Sym podczas swojej nowej sztuczki magicznej?"
+      },
+      "Puzzles/HUD/AttachGame_MermaidsTongue 1": {
+        "en": "Let's put the Mermaid's Tongue back together...",
+        "pl": "Złóżmy Język Syreny z powrotem w całość..."
+      },
+      "Puzzles/HUD/AttachGame_OceanMapRippedScroll 1": {
+        "en": "Two parts that make up a complete image of The Mermaid's Tongue...",
+        "pl": "Dwie części, które tworzą pełny obraz Języka Syreny..."
+      },
+      "Puzzles/HUD/CompareBellCauldron 1": {
+        "en": "What's the connection between the Iron Bell and the Stone Cauldron...?",
+        "pl": "Jaki jest związek między Żelaznym Dzwonem a Kamiennym Kotłem...?"
+      },
+      "Puzzles/HUD/CompareMoon1 1": {
+        "en": "Does the map tell us anything about the black box...?",
+        "pl": "Czy mapa mówi nam cokolwiek o czarnej skrzynce...?"
+      },
+      "Puzzles/HUD/CompareMoon1 2": {
+        "en": "Do the map and the box have any matching iconography?",
+        "pl": "Czy mapa i skrzynka mają jakąś pasującą do siebie ikonografię?"
+      },
+      "Puzzles/HUD/CompareSinthia1 1": {
+        "en": "what's the connection between the contract and the captain's log...?",
+        "pl": "jaki jest związek między kontraktem a dziennikiem pokładowym...?"
+      },
+      "Puzzles/HUD/CompareSinthia1 2": {
+        "en": "...is there something strange about the signatures in the captain's log?",
+        "pl": "...czy jest coś dziwnego w podpisach w dzienniku pokładowym?"
+      },
+      "Puzzles/HUD/CompareTadpole2 1": {
+        "en": "How do we know who owned the pocketbook...?",
+        "pl": "Skąd wiemy, do kogo należał notes kieszonkowy...?"
+      },
+      "Puzzles/HUD/CompareWirman1 1": {
+        "en": "Do these clues have something in common...?",
+        "pl": "Czy te dowody mają coś wspólnego...?"
+      },
+      "Puzzles/HUD/CompareWirman1 2": {
+        "en": "...is there some feature that both clues have?",
+        "pl": "...czy jest jakaś cecha, którą mają oba dowody?"
+      },
+      "Puzzles/HUD/CompareWirman1 3": {
+        "en": "There's something curious about the titles...",
+        "pl": "Jest coś dziwnego w tych tytułach..."
+      },
+      "Puzzles/HUD/CompareZephyr2 1": {
+        "en": "What's the connection between these two clues?",
+        "pl": "Jaki jest związek między tymi dwoma dowodami?"
+      },
+      "Puzzles/HUD/GrippShop 1": {
+        "en": "Welcome to Mr Gripp's Emporium!",
+        "pl": "Witajcie w Emporium Pana Grippa!"
+      },
+      "Puzzles/HUD/LockedBoxDirk 1": {
+        "en": "Drag the tiles into the correct slots.",
+        "pl": "Przeciągnij kafelki na właściwe miejsca."
+      },
+      "Puzzles/HUD/LockedBoxGripp 1": {
+        "en": "Drag the correct compass into each of the four slots.",
+        "pl": "Przeciągnij właściwy kompas do każdego z czterech gniazd."
+      },
+      "Puzzles/HUD/LockedBoxMariana 1": {
+        "en": "Drag the pieces of paper into the correct positions.",
+        "pl": "Przeciągnij kawałki papieru na właściwe pozycje."
+      },
+      "Puzzles/HUD/LockedBoxMortuga 1": {
+        "en": "Swap the positions of the sails. Tap on the boats to rotate them.",
+        "pl": "Zamień miejscami żagle. Stuknij łódki, żeby je obrócić."
+      },
+      "Puzzles/HUD/LockedBoxSinthia 1": {
+        "en": "Interact with parts of the safe until they're in the correct arrangement.",
+        "pl": "Manipuluj częściami sejfu, aż znajdą się we właściwym układzie."
+      },
+      "Puzzles/HUD/LockedBoxSymmetry 1": {
+        "en": "Drag the six cards and four glass lenses into the correct arrangement.",
+        "pl": "Przeciągnij sześć kart i cztery szklane soczewki na właściwy układ."
+      },
+      "Puzzles/HUD/LockedBoxTadpole 1": {
+        "en": "Drag the diving helmet to rotate it. Tap on the dials to rotate them.",
+        "pl": "Przeciągnij hełm do nurkowania, żeby go obrócić. Stuknij pokrętła, żeby je obrócić."
+      },
+      "Puzzles/HUD/LockedBoxWirman 1": {
+        "en": "Rotate the three inner dials and the three outer rings into the correct arrangement.",
+        "pl": "Obróć trzy wewnętrzne pokrętła i trzy zewnętrzne pierścienie na właściwy układ."
+      },
+      "Puzzles/HUD/LockedBoxZephyr 1": {
+        "en": "Drag the bottle caps and swap them onto the correct droppers.",
+        "pl": "Przeciągnij korki od butelek i zamień je miejscami na właściwych zakraplaczach."
+      },
+      "Puzzles/HUD/MarianaStatementBoard 1": {
+        "en": "Welcome to Mr Gripp's Emporium!",
+        "pl": "Witajcie w Emporium Pana Grippa!"
+      },
+      "Puzzles/HUD/PuzzleBellCauldron 1": {
+        "en": "Swap the tiles into the correct slots.",
+        "pl": "Zamień kafelki na właściwe miejsca."
+      },
+      "Puzzles/HUD/PuzzleBilge 1": {
+        "en": "Rotate the two outer metal dials and the two inner glass orbs.",
+        "pl": "Obróć dwa zewnętrzne metalowe pokrętła i dwie wewnętrzne szklane kule."
+      },
+      "Puzzles/HUD/PuzzleDollCabinetDoor 1": {
+        "en": "Swap the tiles into the correct slots.",
+        "pl": "Zamień kafelki na właściwe miejsca."
+      },
+      "Puzzles/HUD/PuzzleFeliciaPainting 1": {
+        "en": "Search the entire painting for anything that seems strange.",
+        "pl": "Przeszukaj cały obraz w poszukiwaniu czegoś, co wygląda dziwnie."
+      },
+      "Puzzles/HUD/PuzzleFlagKeys 1": {
+        "en": "Move the flags and pirates into the correct keyholes. Tap the pirates to rotate them.",
+        "pl": "Przesuń flagi i piratów do właściwych dziurek od klucza. Stuknij piratów, żeby ich obrócić."
+      },
+      "Puzzles/HUD/PuzzleHexagonPanel 1": {
+        "en": "Drag the nine metal pieces into the correct positions.",
+        "pl": "Przeciągnij dziewięć metalowych elementów na właściwe pozycje."
+      },
+      "Puzzles/HUD/PuzzleLifesizeDoll 1": {
+        "en": "Swap the tiles into the correct slots.",
+        "pl": "Zamień kafelki na właściwe miejsca."
+      },
+      "Puzzles/HUD/PuzzleMarianaTent 1": {
+        "en": "Rotate the sun around the board. Select the correct number combination.",
+        "pl": "Obróć słońce wokół planszy. Wybierz właściwą kombinację cyfr."
+      },
+      "Puzzles/HUD/PuzzleMessHall 1": {
+        "en": "Rotate the four dials into the correct arrangement.",
+        "pl": "Obróć cztery pokrętła na właściwy układ."
+      },
+      "Puzzles/HUD/PuzzleMessHall 2": {
+        "en": "Rotate the four dials to place the various shapes in the correct windows.",
+        "pl": "Obróć cztery pokrętła, żeby umieścić poszczególne kształty we właściwych okienkach."
+      },
+      "Puzzles/HUD/PuzzleMessHall 3": {
+        "en": "Rotate the four dials to make the shapes in each window match up to the number.",
+        "pl": "Obróć cztery pokrętła, żeby dopasować kształty w każdym okienku do numeru."
+      },
+      "Puzzles/HUD/PuzzleSkullSets 1": {
+        "en": "Swap the positions of the set labels and the skulls. Tap to rotate the skulls.",
+        "pl": "Zamień miejscami etykiety zestawów i czaszki. Stuknij, żeby obrócić czaszki."
+      },
+      "Puzzles/HUD/PuzzleSwitchboard 1": {
+        "en": "Swap the six coloured plugs into the correct sockets.",
+        "pl": "Zamień sześć kolorowych wtyczek na właściwe gniazda."
+      },
+      "Puzzles/HUD/SuspectBoard1 1": {
+        "en": "Swap the info cards into the correct slots. Click the cards to flip them.",
+        "pl": "Zamień karty informacyjne na właściwe miejsca. Kliknij karty, żeby je odwrócić."
+      },
+      "Puzzles/HUD/SuspectBoard2 1": {
+        "en": "You should tell them what you know. All of it.",
+        "pl": "Powinieneś im powiedzieć, co wiesz. Wszystko."
+      },
+      "Puzzles/HUD/TestMindGameDirk1 1": {
+        "en": "Why would Dirk want to research Magnus Mortuga?",
+        "pl": "Dlaczego Dirk miałby chcieć badać Magnusa Mortugę?"
+      },
+      "Puzzles/HUD/TestMindGameDirk2 1": {
+        "en": "Why is Dirk really here on the submarine...?",
+        "pl": "Dlaczego Dirk naprawdę tu jest, na łodzi podwodnej...?"
+      },
+      "Puzzles/HUD/TestMindGameDirk2 2": {
+        "en": "Did somebody give Dirk some sort of mission...?",
+        "pl": "Czy ktoś dał Dirkowi jakąś misję...?"
+      },
+      "Puzzles/HUD/TestMindGameDirk2 3": {
+        "en": "Was Dirk told to keep an eye on someone...?",
+        "pl": "Czy ktoś kazał Dirkowi mieć na kogoś oko...?"
+      },
+      "Puzzles/HUD/TestMindGameEyeballKeyVent 1": {
+        "en": "How did the culprit get hold of the eyeball key...?",
+        "pl": "Jak sprawca wszedł w posiadanie kluczyka w kształcie oka...?"
+      },
+      "Puzzles/HUD/TestMindGameGrimoire1 1": {
+        "en": "What happened to Magnus Mortuga...?",
+        "pl": "Co się stało z Magnusem Mortugą...?"
+      },
+      "Puzzles/HUD/TestMindGameMariana1 1": {
+        "en": "Why did Mariana come to the submarine, at the request of Mortuga?",
+        "pl": "Dlaczego Mariana przybyła na łódź podwodną na prośbę Mortugi?"
+      },
+      "Puzzles/HUD/TestMindGameMurderMethod 1": {
+        "en": "How did the Iron Bell kill Mortuga...?",
+        "pl": "Jak Żelazny Dzwon zabił Mortugę...?"
+      },
+      "Puzzles/HUD/TestMindGameSinthia1 1": {
+        "en": "What is Sinthia not telling us about the signing of the contract?",
+        "pl": "Czego Sinthia nam nie mówi w sprawie podpisania kontraktu?"
+      },
+      "Puzzles/HUD/TestMindGameSinthia1 2": {
+        "en": "When did Sinthia sign the contract? And what about Mortuga?",
+        "pl": "Kiedy Sinthia podpisała kontrakt? A co z Mortugą?"
+      },
+      "Puzzles/HUD/TestMindGameSymmetry1 1": {
+        "en": "Could Symmetry still use her doll in an illusion?",
+        "pl": "Czy Symmetry mogłaby wciąż użyć swojej lalki w iluzji?"
+      },
+      "Puzzles/HUD/TestMindGameThirdPerson3 1": {
+        "en": "The ship in a bottle...",
+        "pl": "Statek w butelce..."
+      },
+      "Puzzles/HUD/TestMindGameWirman1 1": {
+        "en": "Why would Wirman be interested in meeting Mortuga?",
+        "pl": "Dlaczego Wirman miałby być zainteresowany spotkaniem z Mortugą?"
+      },
+      "Puzzles/HUD/TestMindGameZephyr1 1": {
+        "en": "What's the deal with the Hex Bottle?",
+        "pl": "O co chodzi z Butelką Hexa?"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Puzzles/Connectors (cala kategoria)",
+      "en": "n/a - mechanika mad-lib",
+      "propozycja": "patrz known_limitation w _meta",
+      "problem": "Systemowe ograniczenie gramatyczne opisane w _meta.known_limitation - rodzaj meski jako domyslny dla wszystkich niejednorodnych grup TestMindGame*. Zalecane przetestowanie w grze kazdej z ~15 mini-zagadek 'Compare'/'MindGame' pod katem gramatycznej naturalnosci poprawnej odpowiedzi (najwazniejsze: czy POPRAWNA kombinacja brzmi dobrze - bledne dystraktory maja mniejsze znaczenie)."
+    }
+  ]
+}

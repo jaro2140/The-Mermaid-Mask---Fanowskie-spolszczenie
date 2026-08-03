@@ -1,0 +1,354 @@
+{
+  "_meta": {
+    "batch": "ArtGallery - czesc 2: Views (75 terminow, 21 lokacji) - komentarze deweloperskie artystow (Adam Vian, Catherine Unger, Kindra Dantone) o projektowaniu kazdej lokacji na lodzi podwodnej. Nieobowiazkowa tresc 'making-of', odblokowywana stopniowo w Galerii Sztuki.",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_artgallery_en.json, ArtGallery/Views)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "note": "Nazwy wlasne innych gier studia SFB Games (Tangle Tower, Crow Country, Secret of the Swamp) oraz nazwiska tworcow (Adam, Catherine, Kindra, Amber-aktorka glosowa Sally) pozostawione bez zmian."
+  },
+  "categories": {
+    "AftDeck": {
+      "ArtGallery/Views/AftDeck info 1": {
+        "en": "The benefit of a submarine made of two former vessels means some areas work as a time capsule, giving you window into the past - great for environmental storytelling.\n\nSomething big and violent happened on the Dearest Selena ship and we used the blood-red sky to add to that uneasy feeling.\n\n-Catherine",
+        "pl": "Zaletą łodzi podwodnej zbudowanej z dwóch dawnych okrętów jest to, że niektóre obszary działają jak kapsuła czasu, dając wgląd w przeszłość - świetne do opowiadania historii przez otoczenie.\n\nNa pokładzie Dearest Seleny wydarzyło się coś wielkiego i brutalnego, a my użyliśmy krwistoczerwonego nieba, żeby wzmocnić to niepokojące uczucie.\n\n-Catherine"
+      },
+      "ArtGallery/Views/AftDeck info 2": {
+        "en": "A submarine that is part metal and part wooden ship is a bit too fantastical to be believable.\n\nTo remedy this, I imagined the wooden parts acting like a skin over a metal interior; eroded, decaying and peeling away from being underwater too long.\n\n-Catherine",
+        "pl": "Łódź podwodna, która jest częściowo metalowa, a częściowo drewnianym żaglowcem, jest trochę zbyt fantastyczna, żeby była wiarygodna.\n\nŻeby temu zaradzić, wyobraziłam sobie drewniane części jako coś w rodzaju skóry na metalowym wnętrzu; nadżarte, gnijące i łuszczące się od zbyt długiego przebywania pod wodą.\n\n-Catherine"
+      },
+      "ArtGallery/Views/AftDeck info 3": {
+        "en": "This is an important story location, but players aren't given much to do other than to collect the Figurehead clue.\n\nOriginally, your discoveries here prompted a discussion between Grimoire and Sally, but several of those were cut from the scope, as I generally found it more interesting to save all those revelations and conclusions for the ending.\n\n-Adam",
+        "pl": "To ważna lokacja fabularna, ale gracze nie mają tu wiele do zrobienia poza zebraniem dowodu Galion.\n\nPierwotnie odkrycia w tym miejscu wywoływały dyskusję między Grimoire'em a Sally, ale kilka z nich wycięliśmy z zakresu gry, bo generalnie uznałem, że ciekawiej jest zachować wszystkie te rewelacje i wnioski na zakończenie.\n\n-Adam"
+      }
+    },
+    "Airlock": {
+      "ArtGallery/Views/Airlock info 1": {
+        "en": "After travelling for much of her life, Madam Tadpole wants to settle down. Despite it being an airlock, she's made the room feel homely.\n\nThe decorations were salvaged from the sea, so everything is slightly broken or tarnished. The images on the wall were from a shipwreck, photographs of long lost souls.\n\n-Catherine",
+        "pl": "Po podróżowaniu przez większość swojego życia, Madam Tadpole chce się ustatkować. Mimo że to śluza, sprawiła, że pomieszczenie wydaje się przytulne.\n\nDekoracje zostały wyłowione z morza, więc wszystko jest lekko zniszczone albo zmatowiałe. Zdjęcia na ścianie pochodzą z wraku statku - fotografie dawno zaginionych dusz.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Airlock info 2": {
+        "en": "I wanted this room to create the illusion that you are underwater, so I added elements like a coral reef 'shelf', a light feature that looks like suspended jellyfish, and pillows that look like sea anemones.\n\nIt's a bright, pastel-coloured respite from the rest of the game, which is often gloomy.\n\n-Catherine",
+        "pl": "Chciałam, żeby to pomieszczenie stwarzało iluzję bycia pod wodą, więc dodałam elementy takie jak 'półka' w kształcie rafy koralowej, oprawę oświetleniową przypominającą zawieszone meduzy oraz poduszki wyglądające jak ukwiały.\n\nTo jasny, pastelowy wytchnienie od reszty gry, która często jest ponura.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Airlock info 3": {
+        "en": "It's interesting how ocean-themed colour palettes can be the obvious dark greens and blues, but they can also be the soft, light pastels of seashells and pearls.\n\n-Adam",
+        "pl": "Ciekawe, jak morska paleta kolorów może oznaczać oczywiste, ciemne zielenie i błękity, ale równie dobrze może to być miękkie, jasne pastele muszli i pereł.\n\n-Adam"
+      }
+    },
+    "Bilge": {
+      "ArtGallery/Views/Bilge info 1": {
+        "en": "This environment is a bit of an outlier, as it's fully dark when you first try to explore it. Despite this, there was a surprising amount of thought put into designing it - as it hides many secrets.\n\nAt one point I made the water pumps look like creepy faces that emerge from the darkness as players explored the room by torchlight.\n\n-Catherine",
+        "pl": "To otoczenie trochę odstaje od reszty, bo jest całkowicie ciemne, gdy próbujecie je po raz pierwszy zbadać. Mimo to włożono w jego projekt zaskakująco dużo przemyśleń - bo skrywa wiele sekretów.\n\nW pewnym momencie sprawiłam, że pompy wodne wyglądały jak niepokojące twarze wyłaniające się z ciemności, gdy gracze badali pomieszczenie światłem latarki.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Bilge info 2": {
+        "en": "Using the Cell Phone's flashlight to illuminate this room is the most 'Adventure Game Item Puzzle' moment we've ever had in a Detective Grimoire game - normally we try to stray away from that kind of thing.\n\nIt provided a fun back-and-forth between Grimoire and Sally, though.\n\n-Adam",
+        "pl": "Użycie latarki z telefonu komórkowego do oświetlenia tego pomieszczenia to najbardziej klasyczny moment 'zagadki przedmiotowej z gry przygodowej', jaki kiedykolwiek mieliśmy w grze z serii Detective Grimoire - zwykle staramy się trzymać z dala od tego typu rozwiązań.\n\nZapewniło to jednak zabawną wymianę zdań między Grimoire'em a Sally.\n\n-Adam"
+      },
+      "ArtGallery/Views/Bilge info 3": {
+        "en": "Eventually, the vent is opened and the room is partially illuminated from above.\n\nThis ends up having a fairly important mechanical function in the story.\n\n-Adam",
+        "pl": "Ostatecznie kratka wentylacyjna zostaje otwarta, a pomieszczenie jest częściowo oświetlone z góry.\n\nOkazuje się to mieć dość ważną mechaniczną funkcję w fabule.\n\n-Adam"
+      }
+    },
+    "CabinetOfCuriosity": {
+      "ArtGallery/Views/CabinetOfCuriosity info 1": {
+        "en": "A secret room in the Dream Chamber, packed with even more with curious items.\n\nSince the shelves of items were the focus of this location, I couldn’t get away with drawing vague objects like I did in the Dream Chamber. I spent some time researching and thinking of what those items could be.\n\n-Catherine",
+        "pl": "Tajne pomieszczenie w Komnacie Snów, wypełnione jeszcze większą liczbą osobliwych przedmiotów.\n\nPonieważ to właśnie półki z przedmiotami były centralnym punktem tej lokacji, nie mogłam ujść na sucho, rysując niewyraźne obiekty tak jak w Komnacie Snów. Poświęciłam trochę czasu na research i przemyślenie, czym te przedmioty mogłyby być.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CabinetOfCuriosity info 2": {
+        "en": "Much like the Dream Chamber, I had to balance the artwork so that some objects felt less important than others.\n\nMy trick for this is to colour unimportant objects closer to the background, use dark gradients to hide some away, and if possible - add lighting to draw your eye to the objects of importance.\n\n-Catherine",
+        "pl": "Podobnie jak w Komnacie Snów, musiałam wyważyć grafikę tak, żeby niektóre przedmioty wydawały się mniej istotne od innych.\n\nMoja sztuczka polega na tym, żeby kolorować nieistotne przedmioty bliżej tła, używać ciemnych gradientów, żeby część z nich ukryć, i jeśli to możliwe - dodać oświetlenie, żeby przyciągnąć wzrok do ważnych przedmiotów.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CabinetOfCuriosity info 3": {
+        "en": "This room is full of things that have the potential to be clue objects - but by this point in the game, Grimoire and Sally have plenty of clues and they're becoming rather blasé about seeing yet more treasure chests and crystal balls.\n\nThe exception, of course, being the thing in the central cabinet.\n\n-Adam",
+        "pl": "To pomieszczenie jest pełne rzeczy, które potencjalnie mogłyby być przedmiotami-dowodami - ale na tym etapie gry Grimoire i Sally mają już mnóstwo dowodów i robią się dość obojętni na widok kolejnych skrzyń ze skarbami czy kryształowych kul.\n\nWyjątkiem jest oczywiście rzecz w centralnej gablocie.\n\n-Adam"
+      }
+    },
+    "CaptainsCabin": {
+      "ArtGallery/Views/CaptainsCabin info 1": {
+        "en": "This room was Mortuga’s space, so it needed to feel like it was missing something - the empty chair staring right at you felt appropriate.\n\nThe area is covered in old rags and cobwebs, untouched and forgotten.\n\n-Catherine",
+        "pl": "To pomieszczenie było przestrzenią Mortugi, więc musiało sprawiać wrażenie, że czegoś w nim brakuje - puste krzesło wpatrujące się prosto w ciebie wydawało się odpowiednie.\n\nCała przestrzeń pokryta jest starymi szmatami i pajęczynami, nietknięta i zapomniana.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CaptainsCabin info 2": {
+        "en": "We later added the Iron Bell to the room which loomed over the captain's desk in an almost metaphorical way.\n\nThe wood carvings on the wall also act as a metaphor - a huge, open-mouthed creature, almost engulfing the Captain into the sea.\n\n-Catherine",
+        "pl": "Później dodaliśmy do pomieszczenia Żelazny Dzwon, który wisiał nad biurkiem kapitana niemal w metaforyczny sposób.\n\nDrewniane rzeźby na ścianie również pełnią funkcję metafory - ogromne stworzenie z otwartą paszczą, niemal pochłaniające Kapitana ku morzu.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CaptainsCabin info 3": {
+        "en": "I wonder if people who have recently played Tangle Tower were stopped in their tracks when they saw that empty birdcage hanging from the ceiling...\n\n-Adam",
+        "pl": "Zastanawiam się, czy ludzie, którzy niedawno grali w Tangle Tower, zatrzymali się w miejscu, widząc tę pustą klatkę na ptaki zwisającą z sufitu...\n\n-Adam"
+      }
+    },
+    "CaptainsQuarters": {
+      "ArtGallery/Views/CaptainsQuarters info 1": {
+        "en": "Unused since Mortuga's death, this secret room feels slightly haunted. There are blown out candles and a eerie blue glow coming from a single tiny window that makes the area feel more private.\n\nEventually, I framed the room with a tight corridor to make players feel like they were peering into something they were not meant to see.\n\n-Catherine",
+        "pl": "Nieużywane od śmierci Mortugi, to tajne pomieszczenie wydaje się lekko nawiedzone. Są tu zdmuchnięte świece i niepokojący niebieski blask sączący się z jednego, malutkiego okienka, przez co przestrzeń wydaje się bardziej prywatna.\n\nOstatecznie obramowałam pomieszczenie ciasnym korytarzem, żeby gracze czuli się, jakby zaglądali w coś, czego nie powinni oglądać.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CaptainsQuarters info 2": {
+        "en": "There are a few moments where light plays a key role in this little room, and the mood changes several times throughout the game depending on what part of the story you're experiencing.\n\n-Catherine",
+        "pl": "Jest kilka momentów, w których światło odgrywa kluczową rolę w tym małym pomieszczeniu, a nastrój zmienia się kilkukrotnie w trakcie gry, w zależności od tego, w jakiej części fabuły akurat jesteście.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CaptainsQuarters info 3": {
+        "en": "Originally, the Film Projector was found in the Model Town's lighthouse - projecting onto the curtain drawn across the door.\n\nI still prefer it this way around, but sometimes you have to make undesirable compromises for logistical reasons.\n\n-Adam",
+        "pl": "Pierwotnie Projektor Filmowy znajdował się w latarni morskiej makiety miasteczka - wyświetlał obraz na zasłonie zaciągniętej w poprzek drzwi.\n\nWciąż wolę tę wersję, ale czasem trzeba iść na niepożądane kompromisy z powodów logistycznych.\n\n-Adam"
+      }
+    },
+    "CargoHold": {
+      "ArtGallery/Views/CargoHold info 1": {
+        "en": "Mariana Moon has created a cosy campsite nestled amongst the cargo crates in the belly of the ship.\n\nShe covered the ground in coal and twigs to replicate the feeling of being outside on a forest floor.\n\n-Catherine",
+        "pl": "Mariana Moon stworzyła przytulne obozowisko wtulone między skrzynie ładunkowe w brzuchu statku.\n\nPokryła podłoże węglem i gałązkami, żeby odtworzyć uczucie przebywania na zewnątrz, na leśnej ściółce.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CargoHold info 2": {
+        "en": "No campsite is complete without a campfire, but of course the logistics of having one on the floor of a submarine (that is partly made of wood) is not a good idea.\n\nAs a substitute I used an industrial-style cast iron furnace as a more believable alternative; emanating light, heat and sparks.\n\n-Catherine",
+        "pl": "Żadne obozowisko nie jest kompletne bez ogniska, ale logistyka posiadania go na podłodze łodzi podwodnej (częściowo zrobionej z drewna) to oczywiście kiepski pomysł.\n\nJako substytut użyłam żeliwnego pieca w przemysłowym stylu jako bardziej wiarygodnej alternatywy; emanującego światłem, ciepłem i iskrami.\n\n-Catherine"
+      },
+      "ArtGallery/Views/CargoHold info 3": {
+        "en": "Observant players will have noticed that this room originally belonged to the Dearest Selena, not the Seafoam Submarine.\n\nMakes you wonder what's in all those storage crates.\n\n-Adam",
+        "pl": "Spostrzegawczy gracze zauważą, że to pomieszczenie pierwotnie należało do Dearest Seleny, nie do Łodzi Podwodnej Seafoam.\n\nAż zastanawia, co jest we wszystkich tych skrzyniach magazynowych.\n\n-Adam"
+      }
+    },
+    "ChildsRoom": {
+      "ArtGallery/Views/ChildsRoom info 1": {
+        "en": "This bedroom was intended for a young Sinthia and has remained unchanged for years.\n\nDue to the damp nature of the submarine, the wallpaper is peeling away, making the room seem old and haunted. All the toys and decor are sea-themed, including a 'rocking seahorse' and a 'doll’s submarine'.\n\n-Catherine",
+        "pl": "Ta sypialnia była przeznaczona dla młodej Sinthii i nie zmieniła się od lat.\n\nZ powodu wilgotnego charakteru łodzi podwodnej tapeta się łuszczy, przez co pomieszczenie wygląda na stare i nawiedzone. Wszystkie zabawki i dekoracje mają morski motyw, w tym 'konik na biegunach w kształcie hipokampa' i 'łódź podwodna dla lalek'.\n\n-Catherine"
+      },
+      "ArtGallery/Views/ChildsRoom info 2": {
+        "en": "Sym is an illusionist by trade, so we imagined her practising her tricks in here.\n\nThere is a freestanding walking stick to sell the idea and I also used a fallen lamp to create an eerie stage-like feel to the room.\n\nHer suitcase was aptly inspired by 20th century magician travelling cases.\n\n-Catherine",
+        "pl": "Sym z zawodu jest iluzjonistką, więc wyobrażaliśmy sobie, że ćwiczy tu swoje sztuczki.\n\nJest tu samodzielnie stojąca laska, żeby to uwiarygodnić, a ja użyłam też przewróconej lampy, żeby stworzyć niepokojący, sceniczny klimat pomieszczenia.\n\nJej walizka trafnie inspirowana była podróżnymi kuframi magików z XX wieku.\n\n-Catherine"
+      },
+      "ArtGallery/Views/ChildsRoom info 3": {
+        "en": "The Seafoam Submarine was conceived when Sinthia was quite young, so this room was to be her playroom, possibly her bedroom. However, it never ended up being used for that purpose.\n\nThe 'painting' at the back was used to provide an immediate example of Sym's illusionist trickery, before she's properly revealed to the player.\n\n-Adam",
+        "pl": "Łódź Podwodna Seafoam została pomyślana, gdy Sinthia była jeszcze całkiem młoda, więc to pomieszczenie miało być jej pokojem zabaw, może nawet sypialnią. Nigdy jednak nie zostało wykorzystane w tym celu.\n\n'Obraz' w głębi posłużył jako natychmiastowy przykład iluzjonistycznych sztuczek Sym, zanim zostanie ona graczowi właściwie przedstawiona.\n\n-Adam"
+      }
+    },
+    "ControlRoom": {
+      "ArtGallery/Views/ControlRoom info 1": {
+        "en": "We wanted the Control Room to feel a bit like a superhero’s lair.\n\nWe were keen to avoid the submarine looking too overtly steampunk (to avoid it looking too much like Captain Nemo’s Nautilus) but in this case we allowed ourselves to lean into the aesthetic a little.\n\n-Catherine",
+        "pl": "Chcieliśmy, żeby Sterownia sprawiała wrażenie trochę jak kryjówka superbohatera.\n\nBardzo zależało nam, żeby łódź podwodna nie wyglądała zbyt jawnie steampunkowo (żeby uniknąć zbytniego podobieństwa do Nautilusa Kapitana Nemo), ale w tym przypadku pozwoliliśmy sobie trochę bardziej wejść w tę estetykę.\n\n-Catherine"
+      },
+      "ArtGallery/Views/ControlRoom info 2": {
+        "en": "This room had a few dependencies, which meant it took a while to finish. The Control Panel and the Captain’s Jacket needed to be defined before they were drawn into the image.\n\nThe submarine design itself also needed to be finalised so we knew what shape the viewing deck window would be.\n\n-Catherine",
+        "pl": "To pomieszczenie miało kilka zależności, przez co jego ukończenie trochę trwało. Panel Sterowania i Płaszcz Kapitański musiały zostać zdefiniowane, zanim zostały narysowane na obrazie.\n\nSam projekt łodzi podwodnej też musiał zostać sfinalizowany, żebyśmy wiedzieli, jaki kształt będzie miało okno pokładu widokowego.\n\n-Catherine"
+      },
+      "ArtGallery/Views/ControlRoom info 3": {
+        "en": "The end result is a realy impressive example of adventure game background design - particularly in terms of fitting a whole bunch of stuff onto the screen.\n\nYou could originally look through the periscope, but I took it out when I was searching for things to cut from the game's scope.\n\n-Adam",
+        "pl": "Efekt końcowy to naprawdę imponujący przykład projektowania tła w grze przygodowej - zwłaszcza jeśli chodzi o zmieszczenie całej masy rzeczy na jednym ekranie.\n\nPierwotnie można było patrzeć przez peryskop, ale usunąłem to, kiedy szukałem rzeczy do wycięcia z zakresu gry.\n\n-Adam"
+      },
+      "ArtGallery/Views/ControlRoom info 4": {
+        "en": "This room was one of the rare moments where I made a 3D model to help Catherine with the illustration.\n\nSomething about the perspective of that little staircase was just really difficult to visualise without blocking it out in 3D.\n\n-Adam",
+        "pl": "To pomieszczenie było jednym z rzadkich przypadków, w których zrobiłem model 3D, żeby pomóc Catherine z ilustracją.\n\nCoś w perspektywie tych małych schodków było po prostu naprawdę trudne do zwizualizowania bez wstępnego zablokowania tego w 3D.\n\n-Adam"
+      }
+    },
+    "DirkWirman": {
+      "ArtGallery/Views/DirkWirman info 1": {
+        "en": "There are two bunk rooms in the game and we needed them to feel distinct from each other.\n\nIn this case we wanted the room to mirror the roommate’s personalities. Wirman's side is shoved in a corner, badly presented and messy. He’s too consumed with writing his book to keep things tidy.\n\n-Catherine",
+        "pl": "W grze są dwie kajuty sypialne i musiały się od siebie wyraźnie różnić.\n\nW tym przypadku chcieliśmy, żeby pomieszczenie odzwierciedlało osobowości współlokatorów. Strona Wirmana jest wepchnięta w kąt, źle zaprezentowana i w bałaganie. Jest zbyt pochłonięty pisaniem swojej książki, żeby dbać o porządek.\n\n-Catherine"
+      },
+      "ArtGallery/Views/DirkWirman info 2": {
+        "en": "In stark contrast is Dirk’s neat, tidy and expensive side of the room.\n\nHis bunk looms over Wirman’s like he’s on a pedestal, whilst Wirman works away behind the scenes.\n\nAdam found the hanging tuxedo humorous, because why would you ever need one in a submarine. Celebrities always need a tux right?\n\n-Catherine",
+        "pl": "W ostrym kontraście stoi zadbana, schludna i droga strona pokoju Dirka.\n\nJego prycza góruje nad pryczą Wirmana, jakby stał na piedestale, podczas gdy Wirman pracuje gdzieś w tle.\n\nAdam uznał wiszący smoking za zabawny, bo po co komu smoking na łodzi podwodnej. Celebryci zawsze potrzebują smokingu, prawda?\n\n-Catherine"
+      },
+      "ArtGallery/Views/DirkWirman info 3": {
+        "en": "This room has some of my favourite Grimoire and Sally examine dialogue.\n\nIf you missed them, next time try clicking on the punching bag, the dumbbell, or the pile of books.\n\nI also love the way Amber (as Sally) says 'you never know when you might have to go to a fancy party' in response to the tuxedo.\n\n-Adam",
+        "pl": "To pomieszczenie zawiera jedne z moich ulubionych kwestii Grimoire'a i Sally przy oglądaniu przedmiotów.\n\nJeśli je przegapiliście, spróbujcie następnym razem kliknąć worek treningowy, hantlę albo stos książek.\n\nUwielbiam też, jak Amber (jako Sally) mówi 'nigdy nie wiadomo, kiedy będziesz musiała pójść na elegancką imprezę' w reakcji na smoking.\n\n-Adam"
+      }
+    },
+    "DomeTank": {
+      "ArtGallery/Views/DomeTank info 1": {
+        "en": "To sell this room as a functioning airlock we needed to add practical features like a door, a water pump and a ladder to get in and out.\n\nIn the final artwork, the ladder leans back and becomes horizontal at one point. We decided to not change it, despite it not making much sense. Call it artistic licence. \n\n-Catherine",
+        "pl": "Żeby uwiarygodnić to pomieszczenie jako działającą śluzę, musieliśmy dodać praktyczne elementy, takie jak drzwi, pompa wodna i drabina, żeby można było wejść i wyjść.\n\nNa finalnej grafice drabina odchyla się do tyłu i w pewnym momencie staje się pozioma. Zdecydowaliśmy się tego nie zmieniać, mimo że nie ma to większego sensu. Nazwijmy to licencją artystyczną.\n\n-Catherine"
+      },
+      "ArtGallery/Views/DomeTank info 2": {
+        "en": "The secondary purpose of this space was as a hiding place for Tadpole’s valuables.\n\nWe wanted the room to look like the familiar image of sunken treasure at the bottom of the ocean.\n\nThis classic, predictable image of ocean treasure was a good way to hide something very important in plain sight.\n\n-Catherine",
+        "pl": "Drugorzędnym przeznaczeniem tej przestrzeni była kryjówka dla kosztowności Tadpole.\n\nChcieliśmy, żeby pomieszczenie wyglądało jak znajomy obraz zatopionego skarbu na dnie oceanu.\n\nTen klasyczny, przewidywalny obraz oceanicznego skarbu był dobrym sposobem, żeby ukryć coś bardzo ważnego na widoku.\n\n-Catherine"
+      },
+      "ArtGallery/Views/DomeTank info 3": {
+        "en": "For a long time, this room was called 'The Ocean's Eye' - because it looks out into the ocean, and because I wanted rooms with cool, memorable names.\n\nWhen I realised I had never established that it had any kind of name at all, I sheepishly changed it to the rather more mundane 'Dome Tank'.\n\n-Adam",
+        "pl": "Przez długi czas to pomieszczenie nazywało się 'Oko Oceanu' - bo wychodzi widokiem na ocean, i bo chciałem, żeby pomieszczenia miały fajne, zapadające w pamięć nazwy.\n\nKiedy zdałem sobie sprawę, że nigdzie nie ustaliłem, że w ogóle ma jakąkolwiek nazwę, nieśmiało zmieniłem ją na dużo bardziej przyziemny 'Zbiornik Kopułowy'.\n\n-Adam"
+      }
+    },
+    "DreamChamber": {
+      "ArtGallery/Views/DreamChamber info 1": {
+        "en": "This room took a long time to draw as it needed to be densely packed with trinkets, oddities and posters - to reflect Zephyr's eccentric obsession for collecting curios.\n\nThe level of detail meant I needed to carefully use composition and colour to make sure the clues and puzzles stood out.\n\n-Catherine",
+        "pl": "Narysowanie tego pomieszczenia zajęło dużo czasu, bo musiało być gęsto wypełnione drobiazgami, osobliwościami i plakatami - żeby odzwierciedlić ekscentryczną obsesję Zephyra na punkcie kolekcjonowania osobliwości.\n\nPoziom detali oznaczał, że musiałam ostrożnie posługiwać się kompozycją i kolorem, żeby dowody i zagadki się wyróżniały.\n\n-Catherine"
+      },
+      "ArtGallery/Views/DreamChamber info 2": {
+        "en": "This room is a combination of a victorian operating theatre, a gothic science lab and a curiosity shop.\n\nThe stained glass ceiling was inspired by a dream catcher, with the idea that even the room itself would have its dreams captured.\n\n-Catherine",
+        "pl": "To pomieszczenie jest połączeniem wiktoriańskiej sali operacyjnej, gotyckiego laboratorium naukowego i sklepu z osobliwościami.\n\nWitrażowy sufit inspirowany był łapaczem snów, z myślą, że nawet samo pomieszczenie miałoby schwytane własne sny.\n\n-Catherine"
+      },
+      "ArtGallery/Views/DreamChamber info 3": {
+        "en": "To me, this room is somewhat reminiscent of Remington's office from Secret of the Swamp, and Fifi's library from Tangle Tower.\n\nGrimoire and Sally always seem to find themselves in places like this.\n\n-Adam",
+        "pl": "Dla mnie to pomieszczenie trochę przypomina biuro Remingtona z Secret of the Swamp oraz bibliotekę Fifi z Tangle Tower.\n\nGrimoire i Sally zawsze zdają się trafiać do takich miejsc.\n\n-Adam"
+      }
+    },
+    "EngineRoom": {
+      "ArtGallery/Views/EngineRoom info 1": {
+        "en": "We liked the idea that Gripp’s shop would look like he set it up straight out of the balloon’s crash site, tangled up in the pipes with his basket still swinging mid-air.\n\nThe logo on the balloon itself conveniently acts as a huge sign looming over the shop.\n\n-Catherine",
+        "pl": "Podobał nam się pomysł, że sklep Grippa wygląda, jakby urządził go od razu na miejscu katastrofy balonu, zaplątany w rurach, z koszem wciąż kołyszącym się w powietrzu.\n\nLogo na samym balonie wygodnie pełni funkcję ogromnego szyldu górującego nad sklepem.\n\n-Catherine"
+      },
+      "ArtGallery/Views/EngineRoom info 2": {
+        "en": "Gripp has used the engine room in inventive ways. The compasses are displayed on spinning cogs that rotate them like shop items in a video game.\n\nA big star painted on the giant rotating cog in the background making the shop look like a 'special offer' advert. He’s even created his own customers out of cardboard.\n\n-Catherine",
+        "pl": "Gripp wykorzystał Maszynownię na pomysłowe sposoby. Kompasy są wystawione na obracających się kołach zębatych, które prezentują je jak towary w grze wideo.\n\nWielka gwiazda namalowana na ogromnym, obracającym się kole zębatym w tle sprawia, że sklep wygląda jak reklama 'specjalnej oferty'. Stworzył nawet własnych klientów z tektury.\n\n-Catherine"
+      },
+      "ArtGallery/Views/EngineRoom info 3": {
+        "en": "I have to assume Gripp sleeps curled up in his basket at night, because I'm not seeing any evidence to the contrary.\n\nSeveral people in this game don't have obvious beds or bedrooms. We had a similar problem with Tangle Tower.\n\n-Adam",
+        "pl": "Muszę założyć, że Gripp sypia nocą zwinięty w kłębek w swoim koszu, bo nie widzę żadnych dowodów na coś przeciwnego.\n\nKilka postaci w tej grze nie ma oczywistych łóżek ani sypialni. Mieliśmy podobny problem w Tangle Tower.\n\n-Adam"
+      }
+    },
+    "ForeDeck": {
+      "ArtGallery/Views/ForeDeck info 1": {
+        "en": "This is the first time you set foot on the Mortuga submarine and we wanted it to feel unwelcoming and foreboding.\n\nThe buoy’s chain leads the player’s eye towards a dark, uninviting open door.\n\nThe puddles of water were a good opportunity for creepy reflections.\n\n-Catherine",
+        "pl": "To pierwszy raz, kiedy stawiacie stopę na łodzi podwodnej Mortuga, i chcieliśmy, żeby wydawała się nieprzyjazna i złowieszcza.\n\nŁańcuch boi prowadzi wzrok gracza w stronę ciemnych, nieprzyjaznych, otwartych drzwi.\n\nKałuże wody były dobrą okazją do niepokojących odbić.\n\n-Catherine"
+      },
+      "ArtGallery/Views/ForeDeck info 2": {
+        "en": "Originally the Seafoam name was crossed out with red paint, but Adam and I agreed it was too cliché for a murder mystery. The yellow does a good job at feeling aggressive without being too macabre.\n\n-Catherine\n\n(Plus the yellow paint will help confused players find the doorway!\n-Adam)",
+        "pl": "Pierwotnie nazwa Seafoam była przekreślona czerwoną farbą, ale z Adamem zgodziliśmy się, że to zbyt oklepane dla kryminalnej zagadki morderstwa. Żółty dobrze radzi sobie z poczuciem agresji, nie będąc przy tym zbyt makabrycznym.\n\n-Catherine\n\n(Poza tym żółta farba pomoże zdezorientowanym graczom znaleźć drzwi!\n-Adam)"
+      },
+      "ArtGallery/Views/ForeDeck info 3": {
+        "en": "Originally I'd planned a 'Harbor' area between the Town Square and the Fore Deck, where you'd fully see the submarine sitting in the water.\n\nCatherine convinced me that we didn't need it. She was right!\n\n-Adam",
+        "pl": "Pierwotnie zaplanowałem obszar 'Portu' między Rynkiem a Pokładem Dziobowym, gdzie można by w pełni zobaczyć łódź podwodną siedzącą w wodzie.\n\nCatherine przekonała mnie, że tego nie potrzebujemy. Miała rację!\n\n-Adam"
+      }
+    },
+    "IllusionTheatre": {
+      "ArtGallery/Views/IllusionTheatre info 1": {
+        "en": "The most important location in the game - the crime scene.\n\nAdam already had a clear vision for this space and created a 3D mock-up.\n\nAlong with the cauldron, he was keen on the porthole also being in the centre of the room like it was watching - almost like the sea itself was a witness to the murder.\n\n-Catherine",
+        "pl": "Najważniejsza lokacja w grze - miejsce zbrodni.\n\nAdam miał już jasną wizję tej przestrzeni i stworzył makietę 3D.\n\nOprócz kotła, bardzo zależało mu, żeby w centrum pomieszczenia znajdował się też iluminator, jakby patrzył - niemal jakby samo morze było świadkiem morderstwa.\n\n-Catherine"
+      },
+      "ArtGallery/Views/IllusionTheatre info 2": {
+        "en": "It was here we decided, for dramatic effect, that the cauldron would emanate an eerie, otherworldly, green light.\n\nThis green light is a recurring theme throughout the game and we wanted it to feature heavily here.\n\n-Catherine",
+        "pl": "To właśnie tutaj zdecydowaliśmy, dla dramatycznego efektu, że kocioł będzie emanował niepokojącym, nieziemskim, zielonym światłem.\n\nTo zielone światło to powracający motyw w całej grze i chcieliśmy, żeby był tu mocno obecny.\n\n-Catherine"
+      },
+      "ArtGallery/Views/IllusionTheatre info 3": {
+        "en": "The Illusion Theatre takes the form of a locked room with no way for anyone to witness the crime.\n\nUnless of course, they were out in the ocean, looking in through the window...\n\n-Adam",
+        "pl": "Teatr Iluzji przybiera formę zamkniętego pokoju, w którym nikt nie mógł być świadkiem zbrodni.\n\nChyba że, oczywiście, ktoś był w oceanie, patrząc przez okno...\n\n-Adam"
+      },
+      "ArtGallery/Views/IllusionTheatre info 4": {
+        "en": "This is a 3D model I made to explain my vision to Catherine.\n\nIt was a particular combination of ideas; the dead end of a utilitarian submarine corridor, the world's smallest magic show, and a window looking out into the mysterious void of the ocean.\n\n-Adam",
+        "pl": "To model 3D, który zrobiłem, żeby wyjaśnić moją wizję Catherine.\n\nByło to szczególne połączenie pomysłów: ślepy zaułek utylitarnego korytarza łodzi podwodnej, najmniejszy pokaz magiczny na świecie oraz okno wychodzące na tajemniczą pustkę oceanu.\n\n-Adam"
+      }
+    },
+    "MessHall": {
+      "ArtGallery/Views/MessHall info 1": {
+        "en": "One of the few communal areas of the submarine, we wanted this room to feel like a cosy old tavern.\n\nThe industrial aesthetic and shape of this submarine room made it a fun challenge. Coral is hanging from the ceiling, as we always try and bring ocean imagery into the submarine wherever possible.\n\n-Catherine",
+        "pl": "Jedno z niewielu wspólnych pomieszczeń łodzi podwodnej - chcieliśmy, żeby przypominało przytulną, starą karczmę.\n\nPrzemysłowa estetyka i kształt tego pomieszczenia na łodzi podwodnej stanowiły zabawne wyzwanie. Z sufitu zwisa koral, bo zawsze staramy się wprowadzać oceaniczną symbolikę do łodzi podwodnej, gdziekolwiek to możliwe.\n\n-Catherine"
+      },
+      "ArtGallery/Views/MessHall info 2": {
+        "en": "The original submarine’s purpose was to ferry the Silkwirm Sea Serpent, so I experimented with the visual of the serpent, which might have been used as a decorative theme.\n\nI imagined that the current crew would have built the Mess Hall on top of this dramatic feature, hanging kitchen pots from it and building shelves onto it.\n\n-Catherine",
+        "pl": "Pierwotnym przeznaczeniem łodzi podwodnej był transport Węża Morskiego z Silkwirm, więc eksperymentowałam z wizualną stroną węża, który mógłby zostać wykorzystany jako motyw dekoracyjny.\n\nWyobrażałam sobie, że obecna załoga zbudowała Mesę wprost na tym dramatycznym elemencie, wieszając na nim garnki kuchenne i montując do niego półki.\n\n-Catherine"
+      },
+      "ArtGallery/Views/MessHall info 3": {
+        "en": "A big central room where all the characters can gather at once is something we didn't really have in Tangle Tower.\n\nIn this game we've got two of them! - and the characters do actually gather in both of them!\n\n-Adam",
+        "pl": "Duże, centralne pomieszczenie, w którym wszystkie postacie mogą zebrać się naraz, to coś, czego tak naprawdę nie mieliśmy w Tangle Tower.\n\nW tej grze mamy ich dwa! - i postacie rzeczywiście zbierają się w obu!\n\n-Adam"
+      },
+      "ArtGallery/Views/MessHall info 4": {
+        "en": "Catherine drew this layout image for the crowd scene in the Mess Hall.\n\nI love how the composition fits in all the different characters - it feels like a Renaissance painting.\n\n-Adam",
+        "pl": "Catherine narysowała ten obraz układu dla sceny tłumu w Mesie.\n\nUwielbiam, jak kompozycja mieści wszystkie różne postacie - przypomina to renesansowy obraz.\n\n-Adam"
+      }
+    },
+    "Parlor": {
+      "ArtGallery/Views/Parlor info 1": {
+        "en": "After seeing the Fore Deck, we wanted surprise players here by creating an opulent mansion style room that would contrast to the submarine’s cold metallic exterior.\n\nOrnate paintings decorate the curved walls, including a huge ominous Mermaid painting setting up the themes of the game.\n\n-Catherine",
+        "pl": "Po zobaczeniu Pokładu Dziobowego, chcieliśmy zaskoczyć tu graczy, tworząc wystawne pomieszczenie w stylu rezydencji, które kontrastowałoby z zimnym, metalowym zewnętrzem łodzi podwodnej.\n\nZdobione obrazy dekorują zakrzywione ściany, w tym ogromny, złowieszczy obraz Syreny, wprowadzający motywy przewodnie gry.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Parlor info 2": {
+        "en": "I tried to concept a fireplace that you could believably find aboard a submarine, and it started to look more like some sort of furnace.\n\nDespite there being a fire in the middle of the room, we didn’t want the space to feel too cosy, so we opted for the pink-coloured flame to keep the room feeling unfamiliar.\n\n-Catherine",
+        "pl": "Próbowałam zaprojektować kominek, który mógłby wiarygodnie znajdować się na pokładzie łodzi podwodnej, i zaczął przypominać bardziej rodzaj pieca.\n\nMimo że w środku pomieszczenia płonie ogień, nie chcieliśmy, żeby przestrzeń wydawała się zbyt przytulna, więc zdecydowaliśmy się na różowy płomień, żeby pomieszczenie wciąż wydawało się obce.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Parlor info 3": {
+        "en": "Most submarines don't have an opulent parlor, so we might have to admit this was somewhat influenced by the Nautilus from Twenty Thousand Leagues Under the Sea.\n\nIt also functions very nicely as the kind of room in which the suspects might eventually gather to be accused by a detective...\n\n-Adam",
+        "pl": "Większość łodzi podwodnych nie ma wystawnego salonu, więc musimy chyba przyznać, że było to po części inspirowane Nautilusem z 'Dwudziestu tysięcy mil podmorskiej żeglugi'.\n\nBardzo dobrze sprawdza się też jako rodzaj pomieszczenia, w którym podejrzani mogliby ostatecznie zebrać się, by zostać oskarżeni przez detektywa...\n\n-Adam"
+      },
+      "ArtGallery/Views/Parlor info 4": {
+        "en": "Catherine also drew this layout for the late-game crowd scene in the Parlor.\n\nIt's always fun seeing all the suspects in the same room together.\n\n-Adam",
+        "pl": "Catherine narysowała też ten układ dla sceny tłumu w Salonie pod koniec gry.\n\nZawsze jest fajnie widzieć wszystkich podejrzanych razem w tym samym pomieszczeniu.\n\n-Adam"
+      }
+    },
+    "StonetopInn": {
+      "ArtGallery/Views/StonetopInn info 1": {
+        "en": "The first scene in the game. The original idea was to have players think they might already be on board a ship, so the space is very wooden for this reason.\n\nThe abandoned inn has wooden slats on the windows, which we used to create dramatic lighting when the green light of the submarine appears.\n\n-Catherine",
+        "pl": "Pierwsza scena w grze. Pierwotnym pomysłem było sprawienie, żeby gracze myśleli, że być może są już na pokładzie statku, dlatego ta przestrzeń jest tak bardzo drewniana.\n\nOpuszczona gospoda ma drewniane listwy na oknach, których użyliśmy, żeby stworzyć dramatyczne oświetlenie, gdy pojawia się zielone światło łodzi podwodnej.\n\n-Catherine"
+      },
+      "ArtGallery/Views/StonetopInn info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Views/StonetopInn info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "Submarine": {
+      "ArtGallery/Views/Submarine info 1": {
+        "en": "One of my big tasks was the design the Mortuga Submarine itself.\n\nIt's a cross between an old sailing ship and a metal submarine. It also needed to believably house most of the locations within the game.\n\nThe front of the submarine needed a large viewing deck which would later inform the look of the Control Room.\n\n-Catherine",
+        "pl": "Jednym z moich wielkich zadań było zaprojektowanie samej Łodzi Podwodnej Mortuga.\n\nTo skrzyżowanie starego żaglowca i metalowej łodzi podwodnej. Musiała też wiarygodnie pomieścić większość lokacji w grze.\n\nPrzód łodzi podwodnej potrzebował dużego pokładu widokowego, który później wpłynął na wygląd Sterowni.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Submarine info 10": {
+        "en": "Submarine 3D Model",
+        "pl": "Model 3D Łodzi Podwodnej"
+      },
+      "ArtGallery/Views/Submarine info 2": {
+        "en": "During my research, I found an image of a submarine that looked like a shark, which inspired me to characterise the submarine with a face - like it was a sea creature.\n\nAt one point I collaged together various fish images to try and create interesting silhouettes that felt familiar but also alien.\n\n-Catherine",
+        "pl": "Podczas researchu znalazłam zdjęcie łodzi podwodnej, która wyglądała jak rekin, co zainspirowało mnie, żeby nadać łodzi podwodnej twarz - jakby była morskim stworzeniem.\n\nW pewnym momencie skleiłam razem różne obrazki ryb, próbując stworzyć interesujące sylwetki, które byłyby zarazem znajome i obce.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Submarine info 3": {
+        "en": "I remember seeing fishing boats on a trip to Vietnam that had eyes painted on the front of every boat. One of the reasons for this was to scare away sea monsters.\n\nI loved this idea and added a similar feature to the back of the submarine.\n\n-Catherine",
+        "pl": "Pamiętam, jak podczas podróży do Wietnamu widziałam łodzie rybackie z namalowanymi oczami z przodu każdej łódki. Jednym z powodów było odstraszanie morskich potworów.\n\nUwielbiałam ten pomysł i dodałam podobny element z tyłu łodzi podwodnej.\n\n-Catherine"
+      },
+      "ArtGallery/Views/Submarine info 4": {
+        "en": "Here, Catherine arrives at the final design for the Mortuga Submarine.\n\nOne of the last major changes we made was to the scope of the wooden sailing ship - the Dearest Selena. We realised it needed to be much smaller and simpler (with only one sail, rather than several) as it could apparently be crewed by only two people.\n\n-Adam",
+        "pl": "Tutaj Catherine dochodzi do ostatecznego projektu Łodzi Podwodnej Mortuga.\n\nJedną z ostatnich większych zmian, jakie wprowadziliśmy, był rozmiar drewnianego żaglowca - Dearest Seleny. Zdaliśmy sobie sprawę, że musi być dużo mniejsza i prostsza (z jednym żaglem, a nie kilkoma), skoro najwyraźniej mogła być obsługiwana zaledwie przez dwie osoby.\n\n-Adam"
+      },
+      "ArtGallery/Views/Submarine info 5": {
+        "en": "Submarine Design",
+        "pl": "Projekt Łodzi Podwodnej"
+      },
+      "ArtGallery/Views/Submarine info 6": {
+        "en": "I used the rudimentary modelling skills I'd learned from making Crow Country to make this basic reference model for the shape of the Mortuga Submarine.\n\nThe submarine is fairly complex, and I didn't want Kindra to have to do too much guesswork when interpreting the illustrations.\n\n-Adam",
+        "pl": "Użyłem podstawowych umiejętności modelowania, których nauczyłem się przy tworzeniu Crow Country, żeby zrobić ten prosty model referencyjny kształtu Łodzi Podwodnej Mortuga.\n\nŁódź podwodna jest dość skomplikowana i nie chciałem, żeby Kindra musiała zbyt dużo zgadywać przy interpretowaniu ilustracji.\n\n-Adam"
+      },
+      "ArtGallery/Views/Submarine info 7": {
+        "en": "Catherine then used this reference model to make paint-overs from a few different angles, in order to give Kindra more information about the colours, patterns and textures.\n\n-Adam",
+        "pl": "Catherine wykorzystała potem ten model referencyjny, żeby stworzyć malowane nakładki z kilku różnych kątów, aby dać Kindrze więcej informacji o kolorach, wzorach i teksturach.\n\n-Adam"
+      },
+      "ArtGallery/Views/Submarine info 8": {
+        "en": "This was one of my favorite and final major pieces to have worked on, especially given the challenge of having to “smash” together multiple different types of ships, styles, and materials into one cohesive whole.\n\nIt was quite an interesting puzzle to solve!\n\n-Kindra",
+        "pl": "To była jedna z moich ulubionych i ostatnich dużych prac, nad którymi pracowałam, zwłaszcza biorąc pod uwagę wyzwanie 'zderzenia' ze sobą wielu różnych typów statków, stylów i materiałów w jedną spójną całość.\n\nTo była całkiem interesująca zagadka do rozwiązania!\n\n-Kindra"
+      },
+      "ArtGallery/Views/Submarine info 9": {
+        "en": "The composition and texture of this piece was really rewarding to work on!\n\nIt was so exciting to see some of the previous clues I had worked on either refer to - or literally be a part of - this piece.\n\n-Kindra",
+        "pl": "Praca nad kompozycją i teksturą tej grafiki była naprawdę satysfakcjonująca!\n\nByło tak ekscytujące widzieć, jak niektóre z wcześniejszych dowodów, nad którymi pracowałam, albo się do niej odnoszą - albo dosłownie są jej częścią.\n\n-Kindra"
+      }
+    },
+    "SymSinthia": {
+      "ArtGallery/Views/SymSinthia info 1": {
+        "en": "The second bunk room in the submarine, but instead of being split like Dirk and Wirman's room, it’s a harmonious meeting of two very good friends.\n\nSym and Sinthia have a shared longing for daylight and have tried to replicate this by sticking yellow paper over the porthole to simulate the sun.\n\n-Catherine",
+        "pl": "Druga kajuta sypialna na łodzi podwodnej, ale zamiast być podzielona jak pokój Dirka i Wirmana, jest harmonijnym spotkaniem dwóch bardzo dobrych przyjaciółek.\n\nSym i Sinthia mają wspólną tęsknotę za światłem dziennym i próbowały to odtworzyć, przyklejając żółty papier na iluminatorze, żeby symulować słońce.\n\n-Catherine"
+      },
+      "ArtGallery/Views/SymSinthia info 2": {
+        "en": "We wanted the room to look like a postcard-perfect countryside scene. They’ve used pots and pans to decorate the room with various plants.\n\nThe idyllic miniature house in the centre of the room used to belong to Sym and Sinthia’s pet, Tremblemouse, who didn’t make it into the final game.\n\n-Catherine",
+        "pl": "Chcieliśmy, żeby pomieszczenie wyglądało jak scena z pocztówki, idealna wiejska sielanka. Wykorzystały garnki i patelnie, żeby udekorować pokój różnymi roślinami.\n\nSielankowy, miniaturowy domek w centrum pomieszczenia należał kiedyś do zwierzątka Sym i Sinthii, Drżącej Myszy, która nie trafiła do finalnej wersji gry.\n\n-Catherine"
+      },
+      "ArtGallery/Views/SymSinthia info 3": {
+        "en": "Bedrooms are a great way to show how a character is feeling, and this room was used to show Sym and Sinthia's yearning to live amongst sunlight and nature.\n\nEven when the pet mouse was removed from the game, we kept the  little wooden house as it importantly represented the kind of home Sym and Sinthia wanted to have.\n\n-Adam",
+        "pl": "Sypialnie to świetny sposób, żeby pokazać, jak dana postać się czuje, a to pomieszczenie posłużyło, by pokazać tęsknotę Sym i Sinthii za życiem wśród słońca i natury.\n\nNawet gdy zwierzątko-mysz zostało usunięte z gry, zachowaliśmy mały drewniany domek, bo w ważny sposób reprezentował rodzaj domu, jaki Sym i Sinthia chciały mieć.\n\n-Adam"
+      }
+    },
+    "TownSquare": {
+      "ArtGallery/Views/TownSquare info 1": {
+        "en": "The biggest story in this abandoned fishing town is the discovery of a sea serpent, which we represented with a statue in the town square.\n\nIt felt more impactful to show a close up of the fisherman’s foot holding down the serpent, driving home the narrative of the serpent being the town’s conquest.\n\n-Catherine",
+        "pl": "Największą historią tego opuszczonego miasteczka rybackiego jest odkrycie węża morskiego, które przedstawiliśmy w postaci pomnika na rynku.\n\nPokazanie zbliżenia na stopę rybaka przygniatającą węża wydawało się bardziej wymowne, podkreślając narrację o wężu jako zdobyczy miasteczka.\n\n-Catherine"
+      },
+      "ArtGallery/Views/TownSquare info 2": {
+        "en": "Silkwirm-on-sea is named after the silkworm, the larva of a silkmoth, which carry symbolism of transformation and death.\n\nI was drawn to the concept of the silkworm as the mortal shell that perishes and the silkmoth as the ethereal ghost that transcends.\n\n-Adam",
+        "pl": "Silkwirm nad Morzem nazwano na cześć jedwabnika, larwy ćmy jedwabnicy (silkmoth), niosącej symbolikę przemiany i śmierci.\n\nPociągała mnie koncepcja jedwabnika jako śmiertelnej powłoki, która ginie, oraz ćmy jedwabnicy jako eterycznego ducha, który ją transcenduje.\n\n-Adam"
+      },
+      "ArtGallery/Views/TownSquare info 3": {
+        "en": "The idea I had in my head was that Silkwirm-on-sea was a town that was dead.\n\nLaying at its feet was the monolith of the submarine - acting as the town's grave, with its departed denizens buried within.\n\nYou can tell what kind of mood I was in when I was coming up with this stuff, huh.\n\n-Adam",
+        "pl": "Pomysł, jaki miałem w głowie, był taki, że Silkwirm nad Morzem to miasteczko, które było martwe.\n\nU jego stóp leżał monolit łodzi podwodnej - pełniący funkcję grobu miasteczka, z jego zmarłymi mieszkańcami pogrzebanymi w środku.\n\nMożna poznać, w jakim byłem nastroju, kiedy wymyślałem te rzeczy, co nie.\n\n-Adam"
+      },
+      "ArtGallery/Views/TownSquare info 4": {
+        "en": "Some of these buildings are an early insight into the suspects you have yet to meet, so it felt important to design them properly.\n\nI created concept art for the whole high street, even the shop branding. One of these designs was the emblem for the Stonetop family, which would appear on the inn and in several other places throughout the game.\n\n-Catherine",
+        "pl": "Niektóre z tych budynków to wczesny wgląd w podejrzanych, których jeszcze nie poznaliście, więc ważne było, żeby zaprojektować je porządnie.\n\nStworzyłam grafiki koncepcyjne dla całej głównej ulicy, nawet dla brandingu sklepów. Jednym z tych projektów było godło rodziny Stonetop, które pojawia się na gospodzie i w kilku innych miejscach w całej grze.\n\n-Catherine"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,809 @@
+{
+  "_meta": {
+    "batch": "ArtGallery - czesc 3 (ostatnia): Clues (168 terminow, 56 dowodow x 3 komentarze deweloperskie) - KOMPLETUJE cala kategorie ArtGallery (303/303). Duza czesc tresci to POWTARZALNE bloki (o wezu morskim/Silkwirm, o nazwisku Stonetop/Tangle Tower, o plakacie filmowym, o wypalonej dziurze na mapie, o Zdjeciu Rodzinnym Sinthii) - deweloperzy najwyrazniej uzyli tych samych akapitow jako wypelniaczy dla wielu dowodow. Przetlumaczono raz i uzyto konsekwentnie wszedzie tam, gdzie zrodlo jest identyczne.",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_artgallery_en.json, ArtGallery/Clues)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "note": "Nazwiska tworcow (Catherine, Adam, Kindra) oraz aktorow glosowych (Edwyn-Grimoire, Amber-Sally) bez zmian. Kursywa <i>...</i> zachowana tam, gdzie wystepowala w zrodle."
+  },
+  "categories": {
+    "ActionFigure": {
+      "ArtGallery/Clues/ActionFigure info 1": {
+        "en": "Dirk carries this action figure around with him, so the box isn’t in mint condition.\n\nWe wanted to capture the nostalgic look of cheesy 90’s toys and their single-coloured plastic accessories. We even experimented with the idea of the paintwork on the face being inaccurate.\n\n-Catherine",
+        "pl": "Dirk nosi tę figurkę akcji wszędzie ze sobą, więc pudełko nie jest w idealnym stanie.\n\nChcieliśmy uchwycić nostalgiczny wygląd kiczowatych zabawek z lat 90. i ich jednokolorowych plastikowych akcesoriów. Eksperymentowaliśmy nawet z pomysłem, żeby malowanie twarzy było niedokładne.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/ActionFigure info 2": {
+        "en": "(Gasp)\nI removed it from its original packaging! It's no longer a collectable!\n\n-Adam",
+        "pl": "(Ach!)\nWyjąłem to z oryginalnego opakowania! To już nie jest przedmiot kolekcjonerski!\n\n-Adam"
+      },
+      "ArtGallery/Clues/ActionFigure info 3": {
+        "en": "I'm a big action figure guy, so I fought to keep this clue in the game, even though it only serves a very brief mechanical purpose.\n\nSometimes you just want to put a thing in your game.\n\n-Adam",
+        "pl": "Bardzo lubię figurki akcji, więc walczyłem o to, żeby zachować ten dowód w grze, mimo że pełni tylko bardzo krótką funkcję mechaniczną.\n\nCzasem po prostu chce się umieścić coś w swojej grze.\n\n-Adam"
+      }
+    },
+    "BalloonBasket": {
+      "ArtGallery/Clues/BalloonBasket info 1": {
+        "en": "Originally, the balloon basket contained a plush characterisation of Gripp.\n\nI spent a little time designing a cartoon version of him, but in the end we dropped the idea.\n\n-Catherine",
+        "pl": "Pierwotnie kosz od balonu zawierał pluszową charakteryzację Grippa.\n\nSpędziłam trochę czasu, projektując jego kreskówkową wersję, ale ostatecznie porzuciliśmy ten pomysł.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/BalloonBasket info 2": {
+        "en": "These drawings are back from when 'Mr Gripp' was a full-on cartoon character that Godrik Gripp was merely dressed up as.\n\nWe eventually decided this was a few too many steps, so we simplified it.\n\n-Adam",
+        "pl": "Te rysunki pochodzą z czasów, gdy 'Pan Gripp' był w pełni kreskówkową postacią, za którą Godrik Gripp jedynie się przebierał.\n\nOstatecznie uznaliśmy, że to o krok za dużo, więc uprościliśmy to rozwiązanie.\n\n-Adam"
+      },
+      "ArtGallery/Clues/BalloonBasket info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "BlackBox": {
+      "ArtGallery/Clues/BlackBox info 1": {
+        "en": "It was important for this box to look foreboding, so I experimented with coffin shapes, skull imagery, heavy padlocks and gothic flourishes.\n\nAll of those ideas felt a little on-the-nose and we ended up settling on a simpler design with no keyhole. This looked more mysterious and sinister.\n\n-Catherine",
+        "pl": "Ważne było, żeby ta skrzynka wyglądała złowieszczo, więc eksperymentowałam z kształtami trumien, wizerunkami czaszek, ciężkimi kłódkami i gotyckimi zdobieniami.\n\nWszystkie te pomysły wydawały się trochę zbyt dosłowne i ostatecznie zdecydowaliśmy się na prostszy projekt bez dziurki od klucza. Wyglądało to bardziej tajemniczo i złowrogo.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/BlackBox info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/BlackBox info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "BlurryPhoto": {
+      "ArtGallery/Clues/BlurryPhoto info 1": {
+        "en": "We wanted Wolfe to look like he 'could' potentially be a werewolf, so we presented him as a shadowy silhouette to maintain the mystery.\n\n-Catherine",
+        "pl": "Chcieliśmy, żeby Wolfe wyglądał tak, jakby 'mógł' potencjalnie być wilkołakiem, więc przedstawiliśmy go jako mroczną sylwetkę, żeby zachować tajemnicę.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/BlurryPhoto info 2": {
+        "en": "Two early development images for the Moon Photo. The scene depicted is a combination of Wolfe's 'strongman' act and Tadpole's 'mermaid' act.\n\nMuch about Wolfe and Tadpole's relationship ended up as unsaid. I wonder if players will be making their own conclusions...\n\n-Adam",
+        "pl": "Dwa wczesne obrazy rozwojowe dla Zdjęcia Księżycowego. Przedstawiona scena to połączenie numeru 'silacza' Wolfe'a i numeru 'syreny' Tadpole.\n\nWiele na temat relacji Wolfe'a i Tadpole zostało niedopowiedziane. Zastanawiam się, czy gracze wyciągną własne wnioski...\n\n-Adam"
+      },
+      "ArtGallery/Clues/BlurryPhoto info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "BrokenCompass": {
+      "ArtGallery/Clues/BrokenCompass info 1": {
+        "en": "The compass needles hide a key part of the game's mystery. Keen-eyed players may spot the secret early, but the intention was to reveal the truth closer to the end of the game.\n\nIt was a challenge to visually balance the needles so that the secret didn’t stand out too obviously.\n\n-Catherine",
+        "pl": "Igły kompasu skrywają kluczową część zagadki tej gry. Spostrzegawczy gracze mogą wypatrzeć ten sekret wcześnie, ale zamierzeniem było ujawnienie prawdy bliżej końca gry.\n\nWyważenie wizualne igieł tak, żeby sekret nie rzucał się w oczy zbyt wyraźnie, było wyzwaniem.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/BrokenCompass info 2": {
+        "en": "This is an important clue, so I took a hand in its design.\n\nIt was necessary to create just enough visual noise so we could hide something in plain sight.\n\nThe process puts me in mind of designing Penny's birdcage from Tangle Tower, which was similarly used for a late-game reveal.\n\n-Adam",
+        "pl": "To ważny dowód, więc miałem swój udział w jego projekcie.\n\nTrzeba było stworzyć w sam raz tyle wizualnego szumu, żebyśmy mogli ukryć coś na widoku.\n\nTen proces przypomina mi projektowanie klatki dla ptaków Penny z Tangle Tower, która podobnie posłużyła do ujawnienia czegoś pod koniec gry.\n\n-Adam"
+      },
+      "ArtGallery/Clues/BrokenCompass info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "CaptainsJacket": {
+      "ArtGallery/Clues/CaptainsJacket info 1": {
+        "en": "This regal Captain’s Jacket needed pockets bulky enough to hide something substantial in them.\n\nThere are several embroidered details on it including the Seafoam emblem and a pattern at the bottom depicting a whale’s tail diving down into ocean waves.\n\n-Catherine",
+        "pl": "Ten królewski Płaszcz Kapitański potrzebował na tyle pojemnych kieszeni, żeby ukryć w nich coś sporego.\n\nJest na nim kilka haftowanych detali, w tym godło Seafoam oraz wzór na dole przedstawiający ogon wieloryba nurkujący w morskie fale.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaptainsJacket info 2": {
+        "en": "This thing is a triumph - one of Kindra's very best 3D models. It looks so much like its hand-painted concept art!!\n\n-Adam",
+        "pl": "Ta rzecz to triumf - jeden z absolutnie najlepszych modeli 3D Kindry. Wygląda tak bardzo jak ręcznie malowana grafika koncepcyjna!!\n\n-Adam"
+      },
+      "ArtGallery/Clues/CaptainsJacket info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CaptainsLog": {
+      "ArtGallery/Clues/CaptainsLog info 1": {
+        "en": "A well used nautical log book, dog-eared and stained.\n\nAll the graphics and logos in the game required some design work and the Captain’s Log logo was no exception, despite its simplicity.\n\n-Catherine",
+        "pl": "Dobrze zużyty dziennik pokładowy, z zagiętymi rogami i plamami.\n\nWszystkie grafiki i logotypy w grze wymagały pracy projektowej, i logo Dziennika Kapitana nie było wyjątkiem, mimo swojej prostoty.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaptainsLog info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaptainsLog info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CaretakersJournal": {
+      "ArtGallery/Clues/CaretakersJournal info 1": {
+        "en": "A catalogue containing various oddities for sale. One of the last clues we finished working on as we had to wait for the Mermaid’s Tongue design to be completed before we could include it.\n\nIt was fun developing the graphic design on the front which was based on the idea of a 'cabinet of curiosity'.\n\n-Catherine",
+        "pl": "Katalog zawierający różne osobliwości na sprzedaż. Jeden z ostatnich dowodów, nad którymi skończyliśmy pracować, bo musieliśmy poczekać, aż projekt Języka Syreny zostanie ukończony, zanim mogliśmy go uwzględnić.\n\nDobrą zabawą było opracowywanie projektu graficznego na okładce, opartego na idei 'gabinetu osobliwości'.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaretakersJournal info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaretakersJournal info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CaseFile": {
+      "ArtGallery/Clues/CaseFile info 1": {
+        "en": "The Case File is the first clue you find - and is also a recurring clue in the Detective Grimoire games.\n\nThis time around I wanted the Case File to have classic pirate vibes with a worn out leather cover and browned parchment pages.\n\n-Catherine",
+        "pl": "Akta Sprawy to pierwszy dowód, jaki znajdujecie - i jest to też powracający dowód w grach z serii Detective Grimoire.\n\nTym razem chciałam, żeby Akta Sprawy miały klasyczny piracki klimat, ze zniszczoną skórzaną okładką i pobrązowiałymi stronami z pergaminu.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CaseFile info 2": {
+        "en": "The composition of how all the information is laid out in this piece was really interesting to put together - especially as the first clue the player gets as an introduction to the case!\n\nMaking the folder and papers look used and well-worn was a fun aspect of the texturing process for this clue.\n\n-Kindra",
+        "pl": "Kompozycja tego, jak wszystkie informacje są rozmieszczone w tej grafice, była naprawdę interesująca do złożenia - zwłaszcza że to pierwszy dowód, jaki gracz dostaje jako wprowadzenie do sprawy!\n\nSprawienie, żeby teczka i papiery wyglądały na używane i sfatygowane, było przyjemnym aspektem procesu teksturowania tego dowodu.\n\n-Kindra"
+      },
+      "ArtGallery/Clues/CaseFile info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CellPhone": {
+      "ArtGallery/Clues/CellPhone info 1": {
+        "en": "We looked at a lot of older phones for reference as we wanted to capture the chunky aesthetic of 90’s technology.\n\nStill, it's one of the more modern objects you’ll find in a Grimoire game.\n\n-Catherine",
+        "pl": "Przyglądaliśmy się wielu starszym telefonom jako punktom odniesienia, bo chcieliśmy uchwycić masywną estetykę technologii lat 90.\n\nMimo to jest to jeden z bardziej nowoczesnych przedmiotów, jakie można znaleźć w grze z serii Grimoire.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CellPhone info 2": {
+        "en": "We normally try to avoid real-world technology in the Detective Grimoire world, but this Cell Phone was an exception.\n\nReading through all the messages provided a good interactive experience for the player.\n\nDid you notice how it's not a touch-screen, except for when it is, during the initial puzzle? Yeah...\n\n-Adam",
+        "pl": "Zwykle staramy się unikać technologii z prawdziwego świata w uniwersum Detective Grimoire, ale ten Telefon Komórkowy był wyjątkiem.\n\nCzytanie wszystkich wiadomości zapewniało graczowi dobre, interaktywne doświadczenie.\n\nZauważyliście, że to nie jest ekran dotykowy, poza tym, że jednak jest, podczas początkowej zagadki? No tak...\n\n-Adam"
+      },
+      "ArtGallery/Clues/CellPhone info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CommandContract": {
+      "ArtGallery/Clues/CommandContract info 1": {
+        "en": "There are a lot of paper clues in this game and I wanted to make sure each one felt unique and rewarding to find.\n\nAdding narrative context helped a lot. In this case, Sinthia has naively taped this important document onto the back of her chair.\n\n-Catherine",
+        "pl": "W tej grze jest mnóstwo papierowych dowodów i chciałam się upewnić, że każdy z nich wydaje się unikalny i satysfakcjonujący do znalezienia.\n\nBardzo pomogło dodanie kontekstu fabularnego. W tym przypadku Sinthia naiwnie przykleiła ten ważny dokument taśmą do tyłu swojego fotela.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CommandContract info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CommandContract info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "CorneliusCane": {
+      "ArtGallery/Clues/CorneliusCane info 1": {
+        "en": "The cane is made from a piece of the the ship’s wheel, so I had to design these clues together.\n\nHe's like a miniature version of Mr Gripp, and we loved the idea of him spinning around to show different facial expressions. This made its way into Gripp’s character animations.\n\n-Catherine",
+        "pl": "Laska jest zrobiona z kawałka koła sterowego, więc musiałam zaprojektować te dowody razem.\n\nJest jak miniaturowa wersja Pana Grippa, i uwielbialiśmy pomysł, żeby obracał się, pokazując różne wyrazy twarzy. To rozwiązanie trafiło potem do animacji postaci Grippa.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CorneliusCane info 2": {
+        "en": "Before Cornelius Cane was called Cornelius Cane, he was called <i>Driftwood Cane</i>.\n\nAnd before <i>Driftwood Cane</i> was called Driftwood Cane, <i>Godrik Gripp</i> was called Driftwood Cane.\n\nI could go on. This game was in development for a while.\n\n-Adam",
+        "pl": "Zanim Cornelius Cane nazywał się Cornelius Cane, nazywał się <i>Driftwood Cane</i>.\n\nA zanim <i>Driftwood Cane</i> nazywał się Driftwood Cane, <i>Godrik Gripp</i> nazywał się Driftwood Cane.\n\nMógłbym tak dalej. Ta gra była w produkcji przez dłuższy czas.\n\n-Adam"
+      },
+      "ArtGallery/Clues/CorneliusCane info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "CurseCauldron": {
+      "ArtGallery/Clues/CurseCauldron info 1": {
+        "en": "The Cauldron is central to the murder, so it needed to be sinister and foreboding. Interior scratch marks made it look like something tried to escape from within.\n\nIts shape is based on explosive sea mines and spiny sea urchins.\n\nThe otherworldly, iridescent colours on the inside were inspired by abalone shells.\n\n-Catherine",
+        "pl": "Kocioł jest centralnym elementem morderstwa, więc musiał wyglądać złowrogo i złowieszczo. Ślady zadrapań w środku sprawiały wrażenie, jakby coś próbowało się z niego wydostać.\n\nJego kształt oparty jest na wybuchowych minach morskich i kolczastych jeżowcach.\n\nNieziemskie, mieniące się kolory wewnątrz inspirowane były muszlami uchowców.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CurseCauldron info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/CurseCauldron info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "DivingLicense": {
+      "ArtGallery/Clues/DivingLicense info 1": {
+        "en": "We referenced real-life diving licenses for this clue, and made fake company logos to match.\n\nIt’s a card that’s been sitting in a pocket or wallet for a long time, so it’s scratched and details have rubbed away.\n\n-Catherine",
+        "pl": "Przy tym dowodzie odwoływałyśmy się do prawdziwych licencji nurkowych i stworzyłyśmy pasujące, fikcyjne logotypy firmowe.\n\nTo karta, która długo leżała w kieszeni albo portfelu, więc jest porysowana, a szczegóły się zatarły.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/DivingLicense info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/DivingLicense info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "DreamHelmet": {
+      "ArtGallery/Clues/DreamHelmet info 1": {
+        "en": "Zephyr’s state-of-the-art dreamcatcher, one of his many nonsensical inventions. The funnel shape mirrors the cap of the Hex Bottle as they are similar technologies.\n\nWe originally had a golden thread acting as a wire that dreams could be channeled through, but this eventually became an antenna.\n\n-Catherine",
+        "pl": "Najnowocześniejszy łapacz snów Zephyra, jeden z jego wielu bezsensownych wynalazków. Kształt lejka odzwierciedla nakrętkę Butelki Hexa, bo to podobne technologie.\n\nPierwotnie mieliśmy złotą nić pełniącą funkcję przewodu, przez który mogłyby płynąć sny, ale ostatecznie stała się anteną.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/DreamHelmet info 2": {
+        "en": "The Dream Helmet ends up being a red herring of sorts, even in its own contained story - as Grimoire and Sally prove that it doesn't seem to do anything at all.\n\n-Adam",
+        "pl": "Hełm Snów okazuje się być swego rodzaju czerwonym śledziem, nawet we własnej, zamkniętej historii - bo Grimoire i Sally dowodzą, że w ogóle nic nie robi.\n\n-Adam"
+      },
+      "ArtGallery/Clues/DreamHelmet info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "FamilyPhoto": {
+      "ArtGallery/Clues/FamilyPhoto info 1": {
+        "en": "In this old photo of Sinthia’s family you get to see her mother wearing the Captain’s Jacket.\n\nThis was also the first drawing I did of Sinthia's stepfather, Donovan Drummond, but it became the final character design.\n\n-Catherine",
+        "pl": "Na tym starym zdjęciu rodziny Sinthii możecie zobaczyć jej matkę noszącą Płaszcz Kapitański.\n\nTo był też mój pierwszy rysunek ojczyma Sinthii, Donovana Drummonda, który stał się finalnym projektem tej postaci.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FamilyPhoto info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/FamilyPhoto info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "FeliciaPainting": {
+      "ArtGallery/Clues/FeliciaPainting info 1": {
+        "en": "Another great way to show characters from the past is through paintings.\n\nA new dimension to this game was having 3D clues, which meant we had to design the backs of objects. It became a great way to hide extra secrets and pieces of storytelling.\n\n-Catherine",
+        "pl": "Kolejnym świetnym sposobem na pokazanie postaci z przeszłości są obrazy.\n\nNowym wymiarem tej gry było posiadanie trójwymiarowych dowodów, co oznaczało, że musieliśmy projektować także tył przedmiotów. To stało się świetnym sposobem, żeby ukryć dodatkowe sekrety i fragmenty narracji.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FeliciaPainting info 2": {
+        "en": "Some plans for the Felicia painting, referencing several generations of Stonetop women.\n\n-Adam",
+        "pl": "Kilka planów dla obrazu Felicii, nawiązujących do kilku pokoleń kobiet z rodu Stonetop.\n\n-Adam"
+      },
+      "ArtGallery/Clues/FeliciaPainting info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "Figurehead": {
+      "ArtGallery/Clues/Figurehead info 1": {
+        "en": "A mysterious wooden figurehead that looks like it's been ripped off the front of a ship.\n\nThis is one of the few times you get to see what Selena Stonetop looks like. She’s been out in the elements and has been eroded over time.\n\n-Catherine",
+        "pl": "Tajemniczy drewniany galion, który wygląda, jakby został wyrwany z przodu statku.\n\nTo jedna z niewielu okazji, żeby zobaczyć, jak wygląda Selena Stonetop. Była wystawiona na działanie żywiołów i z czasem uległa erozji.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/Figurehead info 2": {
+        "en": "Although it’s just one small section of a larger piece, it was exciting to focus in on this specific element.\n\nGetting just the right balance of shapes, features, and texture that shows the character of this piece while also conveying the rot and wear was a fun challenge!\n\n-Kindra",
+        "pl": "Choć to tylko mały fragment większej całości, skupienie się na tym konkretnym elemencie było ekscytujące.\n\nZnalezienie odpowiedniej równowagi kształtów, rysów i faktury, które pokazują charakter tej grafiki, jednocześnie oddając zniszczenie i zużycie, było przyjemnym wyzwaniem!\n\n-Kindra"
+      },
+      "ArtGallery/Clues/Figurehead info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "FilmProjector": {
+      "ArtGallery/Clues/FilmProjector info 1": {
+        "en": "An invention unique to the Grimoire world, this projector was originally stored within the model town's lighthouse, which meant it had to be cylindrical in shape.\n\nI based its aesthetic on technology from the 1970s and 1980’s.\n\n-Catherine",
+        "pl": "Wynalazek unikalny dla świata Grimoire'a - ten projektor pierwotnie był przechowywany w latarni morskiej makiety miasteczka, co oznaczało, że musiał mieć cylindryczny kształt.\n\nJego estetykę oparłam na technologii z lat 70. i 80.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FilmProjector info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FilmProjector info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "FilmReel": {
+      "ArtGallery/Clues/FilmReel info 1": {
+        "en": "Dirk’s mysterious film reel. I had a fun time designing the logo for the imaginary movie production company 'Wit & Whimsy'.\n\n-Catherine\n\nThis clue was cut from the game - sort of. We removed the 'Do Not Open' film can, and the reel itself is now just found in the projector.\n\n-Adam",
+        "pl": "Tajemnicza szpula filmowa Dirka. Świetnie się bawiłam, projektując logo fikcyjnej wytwórni filmowej 'Wit & Whimsy'.\n\n-Catherine\n\nTen dowód został wycięty z gry - w pewnym sensie. Usunęliśmy puszkę filmową z napisem 'Nie otwierać', a sama szpula znajduje się teraz po prostu w projektorze.\n\n-Adam"
+      },
+      "ArtGallery/Clues/FilmReel info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/FilmReel info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "FogBall": {
+      "ArtGallery/Clues/FogBall info 1": {
+        "en": "Another strange Zephyr invention. I looked at vintage radios as inspiration for the base, and experimented with different sorts of connection plugs, including a palmistry hand.\n\nThe distinctive green colour of the crystal ball was chosen to contrast with the pink colours of the Dream Chamber.\n\n-Catherine",
+        "pl": "Kolejny dziwny wynalazek Zephyra. Szukałam inspiracji dla podstawy w zabytkowych radiach i eksperymentowałam z różnymi rodzajami wtyczek, w tym z dłonią do chiromancji.\n\nCharakterystyczny zielony kolor kryształowej kuli został wybrany, żeby kontrastować z różowymi kolorami Komnaty Snów.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FogBall info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/FogBall info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "GlassEyeball": {
+      "ArtGallery/Clues/GlassEyeball info 1": {
+        "en": "This glass eye has a key hidden inside it.\n\nI had to think about how a key would sit inside a round shape and also how the mechanism would work to reveal it. \n\n-Catherine",
+        "pl": "To szklane oko ma w środku ukryty klucz.\n\nMusiałam przemyśleć, jak klucz mógłby mieścić się wewnątrz okrągłego kształtu, a także jak działałby mechanizm, żeby go ujawnić.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/GlassEyeball info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/GlassEyeball info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "GoldenLocket": {
+      "ArtGallery/Clues/GoldenLocket info 1": {
+        "en": "Sym wears this locket all the time, so it looks a little tarnished and old.\n\nWe designed the inside to have a ripped photo of Sym’s mother, alongside a tragic attempt to redraw the missing face. It’s always interesting to imagine the drawing style of a character, especially when they were young.\n\n-Catherine",
+        "pl": "Sym nosi ten medalion cały czas, więc wygląda na trochę zmatowiały i stary.\n\nZaprojektowałyśmy wnętrze tak, żeby zawierało rozdarte zdjęcie matki Sym, obok tragicznej próby odrysowania brakującej twarzy. Zawsze interesujące jest wyobrażenie sobie stylu rysunku danej postaci, zwłaszcza gdy była młoda.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/GoldenLocket info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/GoldenLocket info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "HandheldRadio": {
+      "ArtGallery/Clues/HandheldRadio info 1": {
+        "en": "I tried out several handheld radio designs, before settling on the one that felt most in line with the submarine’s steampunk style tech.\n\nThe costumes were made by a young Sinthia, so I wanted them to look crudely crafted by a child who had very few materials to hand.\n\n-Catherine",
+        "pl": "Wypróbowałam kilka projektów krótkofalówki, zanim zdecydowałam się na taki, który najbardziej pasował do steampunkowej technologii łodzi podwodnej.\n\nObudowy zostały zrobione przez młodą Sinthię, więc chciałam, żeby wyglądały na niezdarnie skonstruowane przez dziecko, które miało pod ręką bardzo mało materiałów.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HandheldRadio info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HandheldRadio info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "HandwrittenLetter": {
+      "ArtGallery/Clues/HandwrittenLetter info 1": {
+        "en": "I liked the idea of this letter being written on very thin paper, so you can see the writing on the other side.\n\nWe faked this see-through effect by adding faded backwards writing onto the actual texture. This also works as a signal to the player that there is more writing on the other side.\n\n-Catherine",
+        "pl": "Podobał mi się pomysł, żeby ten list był napisany na bardzo cienkim papierze, tak żeby było widać pismo z drugiej strony.\n\nStworzyłyśmy ten efekt prześwitywania, dodając wyblakłe, odwrócone pismo bezpośrednio na teksturze. Działa to też jako sygnał dla gracza, że po drugiej stronie jest więcej tekstu.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HandwrittenLetter info 2": {
+        "en": "It's so simple, but so graceful - this translucent paper effect is one of my favourite things we did with 3D in the entire game.\n\n-Adam",
+        "pl": "To takie proste, a zarazem takie eleganckie - ten efekt prześwitującego papieru to jedna z moich ulubionych rzeczy, jakie zrobiliśmy z użyciem 3D w całej grze.\n\n-Adam"
+      },
+      "ArtGallery/Clues/HandwrittenLetter info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "HexBottle": {
+      "ArtGallery/Clues/HexBottle info 1": {
+        "en": "At first the bottle cap was a creepy skull, but it felt much more 'Zephyr' when we modelled it to mirror the Dream Helmet.\n\nIt proved tricky to visualise a cephlapod creature, squashed into a bottle, showing visions on its skin.\n\n-Catherine",
+        "pl": "Na początku nakrętka butelki była niepokojącą czaszką, ale wydawała się dużo bardziej 'zephyrowa', kiedy zamodelowałyśmy ją tak, by odzwierciedlała Hełm Snów.\n\nTrudno było zwizualizować stworzenie przypominające głowonoga, upchnięte w butelce, pokazujące wizje na swojej skórze.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HexBottle info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HexBottle info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "HexoftheHelmsman": {
+      "ArtGallery/Clues/HexoftheHelmsman info 1": {
+        "en": "Designing a book cover that replicated retro novels from the 80’s was a very fun brief.\n\nI was thinking of musty old books you would find in the library with worn corners, pages falling out and wrinkled covers. On the front you’ll see very early representations of Mordoom and the Devil of the Deep.\n\n-Catherine",
+        "pl": "Zaprojektowanie okładki książki, która odtwarzała retro powieści z lat 80., było bardzo przyjemnym zadaniem.\n\nMyślałam o zatęchłych, starych książkach, jakie można znaleźć w bibliotece, z wytartymi rogami, wypadającymi stronami i pomarszczonymi okładkami. Na przodzie zobaczycie bardzo wczesne wersje Mordooma i Diabła Głębin.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/HexoftheHelmsman info 2": {
+        "en": "An early drawing I did for the book cover, and some for photographs that would appear on the inside - Publisher Kristin Kale and Author J. D. Wirman.\n\nAfter we took away Wirman's jawline, we decided the dashing photograph of him on the inside cover would secretly be of his rather-more-handsome father, Damian Dusk.\n\n-Adam",
+        "pl": "Wczesny rysunek, który zrobiłem do okładki książki, oraz kilka do fotografii, które miały pojawić się w środku - Wydawczyni Kristin Kale i Autor J. D. Wirman.\n\nGdy odebraliśmy Wirmanowi jego linię szczęki, zdecydowaliśmy, że to eleganckie zdjęcie na wewnętrznej okładce będzie w sekrecie przedstawiać jego znacznie przystojniejszego ojca, Damiana Duska.\n\n-Adam"
+      },
+      "ArtGallery/Clues/HexoftheHelmsman info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "IllusionistPoster": {
+      "ArtGallery/Clues/IllusionistPoster info 1": {
+        "en": "Based off mysterious and surreal illusionist posters from the early 20th century.\n\nThere was an earlier iteration of this poster where Sym’s reflection stared back out at the audience, but Adam rightly highlighted that it would be more creepy for the reflection to stare directly at the real Sym.\n\n-Catherine",
+        "pl": "Oparty na tajemniczych i surrealistycznych plakatach iluzjonistów z początku XX wieku.\n\nByła wcześniejsza wersja tego plakatu, w której odbicie Sym patrzyło prosto na widownię, ale Adam słusznie zauważył, że dużo bardziej niepokojące byłoby, gdyby odbicie patrzyło prosto na prawdziwą Sym.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/IllusionistPoster info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/IllusionistPoster info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "InnDeeds": {
+      "ArtGallery/Clues/InnDeeds info 1": {
+        "en": "The Inn Deeds show several examples of character's signatures, which all had to be designed to feel unique and recognisable.\n\nI also used this clue as a opportunity to nail down the design for the Stonetop Inn. This design would later make its way into the Town Square background.\n\n-Catherine",
+        "pl": "Akt Własności Gospody pokazuje kilka przykładów podpisów postaci, z których każdy musiał zostać zaprojektowany tak, żeby był unikalny i rozpoznawalny.\n\nWykorzystałam ten dowód też jako okazję, żeby ostatecznie ustalić projekt Gospody Stonetop. Ten projekt trafił później do tła Rynku.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/InnDeeds info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/InnDeeds info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "IronBell": {
+      "ArtGallery/Clues/IronBell info 1": {
+        "en": "The Iron Bell is actually based on 18th century diving bells. Its hanging 'hammer' worked great for the hidden mechanism within the bell as well as being a fun red herring.\n\nWe used the bell as an opportunity to deliver some extra lore by presenting hieroglyph-style story panels on the sides.\n\n-Catherine",
+        "pl": "Żelazny Dzwon jest właściwie oparty na osiemnastowiecznych dzwonach nurkowych. Jego zwisający 'młotek' świetnie sprawdził się jako ukryty mechanizm wewnątrz dzwonu, a przy okazji był zabawnym czerwonym śledziem.\n\nWykorzystaliśmy dzwon jako okazję, żeby przekazać dodatkowe informacje o lore, prezentując na bokach panele fabularne w stylu hieroglifów.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/IronBell info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/IronBell info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "LifesizeDoll": {
+      "ArtGallery/Clues/LifesizeDoll info 1": {
+        "en": "This doll was made by Symmetry, so I imagined the head to be hand-carved from wood instead of manufactured plastic.\n\nIt’s also based off a younger version of herself, so I made it look subtly different to her in height and appearance.\n\n-Catherine",
+        "pl": "Ta lalka została zrobiona przez Symmetry, więc wyobraziłam sobie, że głowa jest ręcznie wyrzeźbiona z drewna, a nie fabrycznie wyprodukowana z plastiku.\n\nOparta jest też na młodszej wersji jej samej, więc sprawiłam, żeby subtelnie różniła się od niej wzrostem i wyglądem.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/LifesizeDoll info 2": {
+        "en": "In earlier versions of the story, this doll had more to do with the murder itself.\n\nBefore we landed on the Sym doll, there was a doll of Mortuga that was involved somehow... although I can't remember how exactly.\n\n-Adam",
+        "pl": "We wcześniejszych wersjach fabuły ta lalka miała więcej wspólnego z samym morderstwem.\n\nZanim zdecydowaliśmy się na lalkę Sym, była lalka Mortugi, która w jakiś sposób była w to zamieszana... choć nie pamiętam dokładnie, jak.\n\n-Adam"
+      },
+      "ArtGallery/Clues/LifesizeDoll info 3": {
+        "en": "Some drawings of the Lifesize Doll's various functions.\n\n-Adam",
+        "pl": "Kilka rysunków różnych funkcji Lalki Naturalnej Wielkości.\n\n-Adam"
+      }
+    },
+    "MermaidPainting": {
+      "ArtGallery/Clues/MermaidPainting info 1": {
+        "en": "We wanted the creature in this painting to be vague, so that players couldn’t quite work out what it was.\n\nThis is one of the first objects you see on board the submarine, like the Buoy, we wanted it to be creepy.\n\n-Catherine",
+        "pl": "Chciałyśmy, żeby stworzenie na tym obrazie było niewyraźne, tak żeby gracze nie mogli do końca rozpoznać, czym jest.\n\nTo jeden z pierwszych przedmiotów, jakie widzicie na pokładzie łodzi podwodnej - podobnie jak Boja, chciałyśmy, żeby był niepokojący.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MermaidPainting info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MermaidPainting info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "MessageinaBottle": {
+      "ArtGallery/Clues/MessageinaBottle info 1": {
+        "en": "At one point we played with the idea that the glass bottle would be one of Dirk’s non-alcoholic beverages.\n(<i>This made it into the script! -Adam</i>)\n\nI used a wax seal for a lid, because it felt more unique and gothic compared to a typical cork.\n\n-Catherine",
+        "pl": "W pewnym momencie bawiłyśmy się pomysłem, żeby szklana butelka była jednym z bezalkoholowych napojów Dirka.\n(<i>To trafiło do scenariusza! -Adam</i>)\n\nUżyłam pieczęci woskowej zamiast korka, bo wydawało się to bardziej unikalne i gotyckie niż typowy korek.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MessageinaBottle info 2": {
+        "en": "You know, I have to apologise, as there really isn't a great story reason for why Wirman seals his story page in a bottle and throws it out into the ocean...\n\n...I figured it was a 'Tell-Tale Heart' situation, where he was wracked by guilt and desperate to be rid of it - but there wasn't really time to get into it.\n\n-Adam",
+        "pl": "Wiecie, muszę przeprosić, bo tak naprawdę nie ma jakiegoś świetnego fabularnego powodu, dla którego Wirman zapieczętowuje swoją stronę fabuły w butelce i wyrzuca ją do oceanu...\n\n...pomyślałem, że to sytuacja w stylu 'Serca-Oskarżyciela', gdzie dręczy go poczucie winy i desperacko chce się tego pozbyć - ale tak naprawdę nie było czasu, żeby się w to zagłębić.\n\n-Adam"
+      },
+      "ArtGallery/Clues/MessageinaBottle info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "ModelTown": {
+      "ArtGallery/Clues/ModelTown info 1": {
+        "en": "As I simplified the Silkwirm buildings down to their most basic shapes, the challenge was to make sure they were still recognisable.\n\nIt was a lot of fun doing same with the characters when I designed their 'meeple' counterparts.\n\n-Catherine",
+        "pl": "Gdy upraszczałam budynki Silkwirm do ich najbardziej podstawowych kształtów, wyzwaniem było upewnienie się, że wciąż są rozpoznawalne.\n\nŚwietną zabawą było zrobienie tego samego z postaciami, gdy projektowałam ich odpowiedniki w formie 'pionków'.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/ModelTown info 2": {
+        "en": "I made this plan for the model town. I wanted to make sure the layout agreed with what the player had experienced so far - namely, the Town Square area.\n\n-Adam",
+        "pl": "Zrobiłem ten plan makiety miasteczka. Chciałem się upewnić, że układ zgadza się z tym, czego gracz doświadczył do tej pory - a konkretnie z obszarem Rynku.\n\n-Adam"
+      },
+      "ArtGallery/Clues/ModelTown info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "MoonVial": {
+      "ArtGallery/Clues/MoonVial info 1": {
+        "en": "Drawing smashed bottles is trickier than I thought it would be. Most drawings ended up looking like a pile of nondescript glass - and it was important that people could figure out what the original shape was.\n\n-Catherine",
+        "pl": "Rysowanie rozbitych butelek jest trudniejsze, niż myślałam. Większość rysunków kończyła jako stos nijakiego szkła - a ważne było, żeby ludzie mogli rozpoznać, jaki był oryginalny kształt.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MoonVial info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MoonVial info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "MourningEnvelope": {
+      "ArtGallery/Clues/MourningEnvelope info 1": {
+        "en": "This is based on Victorian-era mourning envelopes, which were used to communicate news of someones death.\n\nWe knew we needed the embossed shape of the 'necklace key' on the envelope, so we took this opportunity to design it. At one point I had the Wooden Buoy’s face feature on the key's design, to suggest they were linked.\n\n-Catherine",
+        "pl": "Oparte na wiktoriańskich kopertach żałobnych, używanych do przekazywania wiadomości o czyjejś śmierci.\n\nWiedziałyśmy, że potrzebujemy wytłoczonego kształtu 'kluczyka z naszyjnika' na kopercie, więc wykorzystałyśmy tę okazję, żeby go zaprojektować. W pewnym momencie umieściłam twarz Drewnianej Boi w projekcie kluczyka, żeby zasugerować, że są powiązane.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MourningEnvelope info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/MourningEnvelope info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "MovieMagazine": {
+      "ArtGallery/Clues/MovieMagazine info 1": {
+        "en": "Dirk brings a lot of 90’s era clues into the Grimoire universe.  This clue was particularly nostalgic for me to work on as it was based on pop-culture magazines I would buy as a teenager.\n\nJulie's poses were inspired by photoshoots of a particular famous actress.\n\n-Catherine",
+        "pl": "Dirk wprowadza do uniwersum Grimoire'a mnóstwo dowodów z epoki lat 90. Praca nad tym dowodem była dla mnie szczególnie nostalgiczna, bo opierał się na magazynach popkulturowych, które kupowałam jako nastolatka.\n\nPozy Julie inspirowane były sesjami zdjęciowymi pewnej konkretnej, sławnej aktorki.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MovieMagazine info 2": {
+        "en": "It was fun drawing the Hollywood version of Magnus Mortuga / Markus Mordoom for this blockbuster poster.\n\nAdam would usually create the final artwork for any photos, then I would add the final rendering effects afterwards, to help set the art into the clue style.\n\n-Catherine",
+        "pl": "Rysowanie hollywoodzkiej wersji Magnusa Mortugi / Markusa Mordooma na potrzeby tego kinowego hitu było zabawne.\n\nAdam zwykle tworzył finalną grafikę dla wszystkich zdjęć, a potem ja dodawałam ostateczne efekty renderowania, żeby dopasować grafikę do stylu dowodów.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/MovieMagazine info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "NewspaperPage": {
+      "ArtGallery/Clues/NewspaperPage info 1": {
+        "en": "Sometimes the paper clues required more design work than the other kinds of clues.\n\nIn this case, every single element on both sides of this single page needed to be considered, from the newspaper logo to the various company adverts.\n\n-Catherine",
+        "pl": "Czasem papierowe dowody wymagały więcej pracy projektowej niż inne rodzaje dowodów.\n\nW tym przypadku każdy pojedynczy element po obu stronach tej jednej strony musiał zostać przemyślany, od logo gazety po różne reklamy firm.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/NewspaperPage info 2": {
+        "en": "Layout for Sym's magic show:\n\nAct 1, Lady of the Looking Glass: Sym has a conversation with her reflection.\n\nAct 2, My Departed Uncle Gregory: Sym attempts to telephone her deceased uncle but is put on hold.\n\nAct 3, Ascension of the Silkmoth: Sym emerges from a bandage cocoon in this escapology finale.\n\n-Adam",
+        "pl": "Układ pokazu magicznego Sym:\n\nAkt 1, Dama Zwierciadła: Sym prowadzi rozmowę z własnym odbiciem.\n\nAkt 2, Mój Zmarły Wuj Gregory: Sym próbuje zatelefonować do swojego zmarłego wuja, ale zostaje 'zawieszona na linii'.\n\nAkt 3, Wniebowstąpienie Ćmy Jedwabnicy: Sym wyłania się z kokonu bandaży w tym escapologicznym finale.\n\n-Adam"
+      },
+      "ArtGallery/Clues/NewspaperPage info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "OceanTreasure": {
+      "ArtGallery/Clues/OceanTreasure info 1": {
+        "en": "A deceptively generic-looking pile of pirate treasure, which later turns out to be a hiding place for some significant objects.\n\nThe gems eventually become part of the story and I wanted them to feel slightly alien and otherworldly. The coral, another important object, was added later in development.\n\n-Catherine",
+        "pl": "Zwodniczo generycznie wyglądający stos pirackiego skarbu, który później okazuje się kryjówką dla kilku istotnych przedmiotów.\n\nKlejnoty ostatecznie stają się częścią fabuły i chciałam, żeby wydawały się lekko obce i nieziemskie. Koral, kolejny ważny przedmiot, został dodany później, w trakcie produkcji.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/OceanTreasure info 2": {
+        "en": "Taking lots of small unique pieces and arranging them into a composition greater than the sum of its parts is always an enjoyable challenge!\n\nWe also had to keep in mind that some of the pieces would be used for another clue, so we had to make sure they worked for both contexts.\n\n-Kindra",
+        "pl": "Wzięcie mnóstwa małych, unikalnych elementów i ułożenie ich w kompozycję większą niż suma jej części to zawsze przyjemne wyzwanie!\n\nMusiałyśmy też pamiętać, że niektóre elementy zostaną wykorzystane w innym dowodzie, więc musiałyśmy się upewnić, że sprawdzają się w obu kontekstach.\n\n-Kindra"
+      },
+      "ArtGallery/Clues/OceanTreasure info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "Pocketbook": {
+      "ArtGallery/Clues/Pocketbook info 1": {
+        "en": "Wolfe’s pocketbook was another chance to reinforce the 'werewolf' rumour surrounding him. I covered the book in scratches, stitches and a bloodstain - a little on-the-nose, but appropriate for a red herring clue.\n\nThe player never meets Wolfe, so we wanted to illustrate the other sides of his personality with the objects found inside.\n\n-Catherine",
+        "pl": "Notes kieszonkowy Wolfe'a był kolejną okazją, żeby wzmocnić krążącą wokół niego plotkę o 'wilkołaku'. Pokryłam notes zadrapaniami, szwami i plamą krwi - trochę zbyt dosłownie, ale odpowiednio dla dowodu-czerwonego śledzia.\n\nGracz nigdy nie spotyka Wolfe'a, więc chciałyśmy zilustrować inne strony jego osobowości za pomocą przedmiotów znalezionych w środku.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/Pocketbook info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/Pocketbook info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "RaggedCloth": {
+      "ArtGallery/Clues/RaggedCloth info 1": {
+        "en": "Sym used this cloth for her new magic show. She had limited resources on the submarine, so I imagined her finding an old sail and repurposing it.\n\nI created a paper model to help me figure out the placements for each graphical element, so that it worked folded up and when covering the cauldron.\n\n-Catherine",
+        "pl": "Sym użyła tego płótna do swojego nowego pokazu magicznego. Miała ograniczone zasoby na łodzi podwodnej, więc wyobraziłam sobie, że znalazła stary żagiel i wykorzystała go ponownie.\n\nStworzyłam papierowy model, żeby pomóc sobie ustalić rozmieszczenie każdego elementu graficznego, tak żeby działał zarówno złożony, jak i podczas zakrywania kotła.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/RaggedCloth info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/RaggedCloth info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "RippedScroll": {
+      "ArtGallery/Clues/RippedScroll info 1": {
+        "en": "I'd already done a lot of the work for this clue when designing the Ocean Map.\n\nI added some damp and degradation to this side of the scroll as it had been poorly preserved compared to its other half.\n\n-Catherine",
+        "pl": "Wykonałam już dużo pracy nad tym dowodem, projektując Mapę Oceanu.\n\nDodałam trochę wilgoci i zniszczenia do tej strony zwoju, bo została gorzej zachowana w porównaniu do swojej drugiej połowy.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/RippedScroll info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/RippedScroll info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "RustyFilmReel": {
+      "ArtGallery/Clues/RustyFilmReel info 1": {
+        "en": "We researched water-damaged film to create this degraded film reel.\n\nThe Remington logo already had an existing design that appears on a statue in Tangle Tower.\n\n-Catherine",
+        "pl": "Przeprowadziłyśmy research nad filmami uszkodzonymi przez wodę, żeby stworzyć tę zniszczoną szpulę filmową.\n\nLogo Remingtona miało już gotowy projekt, który pojawia się na posągu w Tangle Tower.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/RustyFilmReel info 2": {
+        "en": "This was originally a clue in its own right, but now it just gets added to the Film Projector clue.\n\nAs for the film itself, it depicts Lord Remington standing in what will become the lake beneath Tangle Tower.\n\n-Adam",
+        "pl": "Pierwotnie był to osobny, samodzielny dowód, ale teraz jest po prostu dodawany do dowodu Projektor Filmowy.\n\nJeśli chodzi o sam film, przedstawia on Lorda Remingtona stojącego w miejscu, które stanie się jeziorem pod Tangle Tower.\n\n-Adam"
+      },
+      "ArtGallery/Clues/RustyFilmReel info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "SeaChart": {
+      "ArtGallery/Clues/SeaChart info 1": {
+        "en": "A vague map with cryptic symbols that show an abstract location.\n\nThis clue was to be ripped into two pieces, so I included Fellow-branded scroll rods, so the pieces could be linked together.\n\nOriginally I wanted the scroll to have an ornate case, but it was too distracting.\n\n-Catherine",
+        "pl": "Niewyraźna mapa z zagadkowymi symbolami, pokazująca abstrakcyjną lokalizację.\n\nTen dowód miał zostać rozdarty na dwie części, więc dodałam drążki zwoju oznaczone marką Fellow, żeby części można było ze sobą połączyć.\n\nPierwotnie chciałam, żeby zwój miał zdobione etui, ale było to zbyt rozpraszające.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SeaChart info 2": {
+        "en": "Originally the map had a burned hole in the middle where the 'X' would have been, to create an even more alluring mystery.\n\nEventually... I realised this is functionally no different from just having the 'X'.\n\n-Adam",
+        "pl": "Pierwotnie mapa miała wypaloną dziurę pośrodku, w miejscu gdzie miało być 'X', żeby stworzyć jeszcze bardziej kuszącą tajemnicę.\n\nOstatecznie... zdałem sobie sprawę, że funkcjonalnie nie różni się to od zwykłego 'X'.\n\n-Adam"
+      },
+      "ArtGallery/Clues/SeaChart info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "ShipinaBottle": {
+      "ArtGallery/Clues/ShipinaBottle info 1": {
+        "en": "A small wooden model version of the Dearest Selena, inside a sealed bottle.\n\nI went for a rectangular bottle for this clue to make it feel different from the other bottle clues - it was a coincidence that it was the perfect shape to house the model ship.\n\n-Catherine",
+        "pl": "Mały, drewniany model Dearest Seleny wewnątrz zapieczętowanej butelki.\n\nWybrałam prostokątną butelkę dla tego dowodu, żeby odróżniała się od innych dowodów-butelek - to zbieg okoliczności, że okazała się idealnym kształtem, by pomieścić model statku.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/ShipinaBottle info 2": {
+        "en": "For a nautical adventure story like this one, a ship-in-a-bottle seems like a natural fit.\n\nI'm glad we found something interesting to do with it, given how it conceals a secret within its little wooden cabin.\n\n-Adam",
+        "pl": "Dla morskiej opowieści przygodowej takiej jak ta, statek w butelce wydaje się naturalnym wyborem.\n\nCieszę się, że znaleźliśmy dla niego coś interesującego, biorąc pod uwagę, że ukrywa sekret wewnątrz swojej małej, drewnianej kajuty.\n\n-Adam"
+      },
+      "ArtGallery/Clues/ShipinaBottle info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "ShipsWheel": {
+      "ArtGallery/Clues/ShipsWheel info 1": {
+        "en": "We wanted the Ship's Wheel to mirror the 'Frankenstein' nature of the Mortuga Submarine, by being made of parts from the Seafoam Submarine and the Dearest Selena ship.\n\nI designed this clue alongside Cornelius Cane, as players would eventually discover the two are linked.\n\n-Catherine",
+        "pl": "Chciałyśmy, żeby Koło Sterowe odzwierciedlało 'frankensteinowską' naturę Łodzi Podwodnej Mortuga, będąc zrobione z części Łodzi Podwodnej Seafoam i statku Dearest Selena.\n\nZaprojektowałam ten dowód razem z Corneliusem Cane, bo gracze ostatecznie odkryją, że te dwie rzeczy są powiązane.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/ShipsWheel info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/ShipsWheel info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "SilkwirmMap": {
+      "ArtGallery/Clues/SilkwirmMap info 1": {
+        "en": "As this was a map made by Mariana Moon, I first explored using sticks as scroll rods.\n\nWe eventually ditched these in order to prioritise the map itself, so that it was still readable within the size limitations of the clue screen.\n\n-Catherine",
+        "pl": "Ponieważ ta mapa została zrobiona przez Marianę Moon, na początku eksplorowałam pomysł użycia patyków jako drążków zwoju.\n\nOstatecznie z nich zrezygnowałyśmy, żeby dać priorytet samej mapie, tak żeby wciąż była czytelna w granicach rozmiaru ekranu dowodu.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SilkwirmMap info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/SilkwirmMap info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "StrangeDevice": {
+      "ArtGallery/Clues/StrangeDevice info 1": {
+        "en": "A custom-built electronic gadget that connects to Dirk’s cell phone, but coincidentally also looks like a ray gun.\n\nThis clue required a lot of balancing due to this dual nature - and since the device had to fit around the cell phone, both clues needed to be designed in tangent.\n\n-Catherine",
+        "pl": "Niestandardowo zbudowany, elektroniczny gadżet, który podłącza się do telefonu komórkowego Dirka, ale przypadkiem wygląda też jak pistolet laserowy.\n\nTen dowód wymagał dużo wyważenia z powodu tej podwójnej natury - a ponieważ urządzenie musiało pasować do telefonu, oba dowody musiały być projektowane równolegle.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/StrangeDevice info 2": {
+        "en": "This turns Dirk's normal cell phone into a heavy-duty satellite phone, capable of getting network signal in the middle of the ocean.\n\nI wonder if players have worked out exactly why it was dumped in the bilge... did I remember to write that into the script? I think perhaps I hinted at it...\n\n-Adam",
+        "pl": "To zamienia zwykły telefon komórkowy Dirka w wytrzymały telefon satelitarny, zdolny do łapania sygnału sieci na środku oceanu.\n\nZastanawiam się, czy gracze rozgryźli dokładnie, dlaczego wyrzucono go do Zęzy... czy pamiętałem, żeby zapisać to w scenariuszu? Chyba może coś zasugerowałem...\n\n-Adam"
+      },
+      "ArtGallery/Clues/StrangeDevice info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "SubmarineBlueprint": {
+      "ArtGallery/Clues/SubmarineBlueprint info 1": {
+        "en": "In the game, Sinthia crafted this with her own scissors and tape, but creating this clue was a design process for us too.\n\nI initially drew the ship and submarine as separate designs and then collaged pieces together to nail down the final design of the Mortuga Submarine.\n\n-Catherine",
+        "pl": "W grze Sinthia stworzyła to własnymi nożyczkami i taśmą, ale stworzenie tego dowodu było procesem projektowym też dla nas.\n\nPoczątkowo narysowałam statek i łódź podwodną jako osobne projekty, a potem skleiłam fragmenty razem, żeby ostatecznie ustalić finalny projekt Łodzi Podwodnej Mortuga.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SubmarineBlueprint info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SubmarineBlueprint info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "SunTablets": {
+      "ArtGallery/Clues/SunTablets info 1": {
+        "en": "Originally these tablets had a garlic symbol on the label, so they could act as a red herring in relation to circulating rumours about Mortuga being a vampire.\n\nWe later changed the symbol to a sun to represent Vitamin D tablets.\n\n-Catherine",
+        "pl": "Pierwotnie te tabletki miały na etykiecie symbol czosnku, żeby mogły działać jako czerwony śledź w związku z krążącymi plotkami o tym, że Mortuga jest wampirem.\n\nPóźniej zmieniłyśmy symbol na słońce, żeby reprezentować tabletki z witaminą D.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SunTablets info 2": {
+        "en": "Here we wanted to seed the idea of the themes of Silkwirm-on-sea by showing a lot of sea serpent imagery.\n\n-Catherine",
+        "pl": "Tutaj chcieliśmy zasiać ideę motywów przewodnich Silkwirm nad Morzem, pokazując dużo wizerunków węża morskiego.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/SunTablets info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "TheMermaidsTongue": {
+      "ArtGallery/Clues/TheMermaidsTongue info 1": {
+        "en": "After a lot of development, we eventually ran with the version that looked like a Saxon helmet made of flesh.\n\nThe mouth rotates when it creates sound, so I designed it to look like the inside of cassette tape reel. This motif then became a subtle visual language throughout several clues in the game.\n\n-Catherine",
+        "pl": "Po wielu etapach produkcji ostatecznie zdecydowałyśmy się na wersję, która wyglądała jak saksoński hełm zrobiony z ciała.\n\nUsta obracają się, kiedy wydają dźwięk, więc zaprojektowałam je tak, żeby wyglądały jak wnętrze szpuli taśmy kasetowej. Ten motyw stał się potem subtelnym językiem wizualnym przewijającym się przez kilka dowodów w grze.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/TheMermaidsTongue info 2": {
+        "en": "The Mermaid's Tongue might be an alluring prospect, but choosing to use it displays a dangerous hubris.\n\nThe only two people in the story who were confirmed to have used it were Felicia Stonetop and Godrik Gripp.\n\n...although it seems that Selena Stonetop (or perhaps her father) may have also used it, long ago.\n\n-Adam",
+        "pl": "Język Syreny może być kuszącą perspektywą, ale zdecydowanie się na jego użycie świadczy o niebezpiecznej pysze.\n\nJedynymi dwiema osobami w fabule, co do których potwierdzono, że go użyły, są Felicia Stonetop i Godrik Gripp.\n\n...choć wygląda na to, że Selena Stonetop (albo być może jej ojciec) również mogła go użyć, dawno temu.\n\n-Adam"
+      },
+      "ArtGallery/Clues/TheMermaidsTongue info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "Tremblemouse": {
+      "ArtGallery/Clues/Tremblemouse info 1": {
+        "en": "A clue that eventually got cut, this cute little mouse belonged to Sym and Sinthia.\n\nOriginally, his table was made of a cotton reel with a beer mat on top, and his seat was an eraser.\n\n-Catherine",
+        "pl": "Dowód, który ostatecznie został wycięty - ta urocza, mała myszka należała do Sym i Sinthii.\n\nPierwotnie jej stolik był zrobiony ze szpulki nici z podstawką pod piwo na wierzchu, a jej siedzenie było gumką do mazania.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/Tremblemouse info 2": {
+        "en": "This little guy with his cheese was such a charming little character to work on!  Although he was ultimately cut from the game, it was nice to craft a sense of his space and general vibes.\n\nWe had the idea that he would be animated, so we had to keep that in mind as we were modelling.\n\n-Kindra",
+        "pl": "Ten mały koleś ze swoim serem był tak uroczą, małą postacią do pracy! Choć ostatecznie został wycięty z gry, miło było stworzyć poczucie jego przestrzeni i ogólnego klimatu.\n\nMieliśmy pomysł, że będzie animowany, więc musiałyśmy mieć to na uwadze podczas modelowania.\n\n-Kindra"
+      },
+      "ArtGallery/Clues/Tremblemouse info 3": {
+        "en": "I'm sorry! Basically, there were too many clues and I had to get rid of some. (Even <i>now</i>, there are too many clues.)\n\nTremblemouse was intended to illustrate Sym and Sinthia's desire to live in a cosy countryside cottage - which they were doing vicariously through this mouse.\n\n-Adam",
+        "pl": "Przepraszam! Zasadniczo było zbyt wiele dowodów i musiałem się części z nich pozbyć. (Nawet <i>teraz</i> jest ich zbyt wiele.)\n\nDrżąca Mysz miała ilustrować pragnienie Sym i Sinthii, żeby żyć w przytulnym, wiejskim domku - co realizowały zastępczo właśnie przez tę myszkę.\n\n-Adam"
+      }
+    },
+    "Typewriter": {
+      "ArtGallery/Clues/Typewriter info 1": {
+        "en": "This is Wirman’s typewriter, so it had to look as messy and unkempt as he was.\n\nWe wanted the typewriter to look like it had been over-used, so we experimented with irregular key heights and letters on keys being upside-down or rubbed off entirely.\n\n-Catherine",
+        "pl": "To maszyna do pisania Wirmana, więc musiała wyglądać na tak niechlujną i zaniedbaną jak on.\n\nChciałyśmy, żeby maszyna wyglądała na nadużywaną, więc eksperymentowałyśmy z nierówną wysokością klawiszy oraz literami na klawiszach, które były do góry nogami albo całkowicie starte.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/Typewriter info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/Typewriter info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "UnderwaterPhoto": {
+      "ArtGallery/Clues/UnderwaterPhoto info 1": {
+        "en": "An image of a large face captured by the submarine’s underwater imaging system.\n\n-Catherine",
+        "pl": "Obraz wielkiej twarzy uchwyconej przez system obrazowania podwodnego łodzi podwodnej.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/UnderwaterPhoto info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/UnderwaterPhoto info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    },
+    "WoodenBuoy": {
+      "ArtGallery/Clues/WoodenBuoy info 1": {
+        "en": "To make the Buoy as creepy as possible, we fashioned hair out of lank strands of seaweed and facial features that have been crudely dug out to look like it's screaming.\n\n-Catherine",
+        "pl": "Żeby Boja była jak najbardziej niepokojąca, zrobiłyśmy jej włosy z obwisłych pasm wodorostów oraz rysy twarzy niezdarnie wyryte tak, żeby wyglądało, jakby krzyczała.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/WoodenBuoy info 2": {
+        "en": "I didn't instruct Edwyn (playing Grimoire) or Amber (playing Sally) how to pronounce 'buoy' when it popped up in the script.\n\nI ended up getting 'boy' from Edwyn and 'boo-ee' from Amber, so I eventually added a little moment where they argue about it.\n\n-Adam",
+        "pl": "Nie instruowałem Edwyna (grającego Grimoire'a) ani Amber (grającej Sally), jak wymawiać słowo 'buoy' [boja], gdy pojawiło się w scenariuszu.\n\nOstatecznie usłyszałem 'boy' od Edwyna i 'boo-ee' od Amber, więc w końcu dodałem mały moment, w którym się o to kłócą.\n\n-Adam"
+      },
+      "ArtGallery/Clues/WoodenBuoy info 3": {
+        "en": "I liked the idea of starting the game in a seemingly inconsequential location, but have it gain meaning as you play through the story.\n\nAlthough, for people who have played Tangle Tower, the 'Stonetop' name may ring a bell immediately.\n\n-Adam",
+        "pl": "Podobał mi się pomysł rozpoczęcia gry w pozornie mało istotnej lokacji, która zyskuje znaczenie w miarę przechodzenia fabuły.\n\nChoć dla osób, które grały w Tangle Tower, nazwisko 'Stonetop' może od razu zabrzmieć znajomo.\n\n-Adam"
+      }
+    },
+    "WoodenPipe": {
+      "ArtGallery/Clues/WoodenPipe info 1": {
+        "en": "A pipe that's also an audio recorder is another classic Grimoire-world invention.\n\nThe mouthpiece serves as a discrete recording button, the 90’s inspired tape pods insert into the chamber and the buttons are camouflaged into the stem.\n\nWe wanted players to believe that Mariana could pass this off as normal pipe the whole time.\n\n-Catherine",
+        "pl": "Fajka, która jest zarazem dyktafonem, to kolejny klasyczny wynalazek ze świata Grimoire'a.\n\nUstnik pełni funkcję dyskretnego przycisku nagrywania, inspirowane latami 90. kasetki wsuwają się do komory, a przyciski są zamaskowane w trzonku.\n\nChcieliśmy, żeby gracze uwierzyli, że Mariana przez cały czas mogła uchodzić z tym za zwykłą fajkę.\n\n-Catherine"
+      },
+      "ArtGallery/Clues/WoodenPipe info 2": {
+        "en": "The final character art for the Family Photo.\n\nSinthia's pose mirrors that of her adventurous mother, but the wrench in her hand mirrors that of her mechanic stepfather.\n\nI wanted to put young Sinthia in a bright t-shirt with a sun image on it.\n\n-Adam",
+        "pl": "Finalna grafika postaci do Zdjęcia Rodzinnego.\n\nPoza Sinthii odzwierciedla pozę jej pełnej przygód matki, ale klucz francuski w jej dłoni odzwierciedla ten należący do jej ojczyma-mechanika.\n\nChciałem ubrać młodą Sinthię w jasny t-shirt z wizerunkiem słońca.\n\n-Adam"
+      },
+      "ArtGallery/Clues/WoodenPipe info 3": {
+        "en": "It took a while to develop all the necessary elements for the movie poster - the two actors, the two characters, the movie logo, and so on.\n\n-Adam",
+        "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ArtGallery/Clues/TheMermaidsTongue info 2",
+      "en": "The only two people in the story who were confirmed to have used it were Felicia Stonetop and Godrik Gripp. ...although it seems that Selena Stonetop (or perhaps her father) may have also used it, long ago.",
+      "propozycja": "przetlumaczone doslownie",
+      "problem": "WAZNE - to bezposrednio od dewelopera (Adam) POTWIERDZA, ze Selena Stonetop (lub jej ojciec) UZYLA/UZYL Jezyka Syreny 'dawno temu' - osobno od historii Felicii/Godrika/Mortugi. To silnie wspiera hipoteze z batch_96 (VERIFICATION_QUEUE #55) ze podarty zwoj podpisany 'SS' to relacja Seleny Stonetop z JEJ WLASNEGO, wczesniejszego doswiadczenia z Jezykiem Syreny - rownolegle pokolenie do historii Felicii. Nadal nie 100% pewne (developer mowi 'seems'/'may have'), ale to najsilniejsza dotad poszlaka - GLOSSARY zaktualizowane z ostroznym sformulowaniem, nie jako fakt ostateczny."
+    },
+    {
+      "term": "ArtGallery/Clues/NewspaperPage info 2",
+      "en": "Act 3, Ascension of the Silkmoth: Sym emerges from a bandage cocoon in this escapology finale.",
+      "propozycja": "'Wniebowstąpienie Ćmy Jedwabnicy'",
+      "problem": "Nowo odkryty, TRZECI akt pokazu magicznego Symmetry (obok 'Dama Zwierciadła' i 'Mój Zmarły Wuj Gregory') - nie napotkany dotad w zadnym przetlumaczonym dialogu/dowodzie. Dodano do GLOSSARY jako nowa nazwa wlasna."
+    }
+  ]
+}

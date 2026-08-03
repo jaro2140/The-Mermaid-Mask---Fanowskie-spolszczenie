@@ -1,0 +1,256 @@
+{
+  "_meta": {
+    "batch": "Examine - Puzzle misc (43 terminy) - koncowe fragmenty mechanik zagadek: aktywacja Zelaznego Dzwonu nad Kotlem (BellCauldron), zawartosc Czarnej Skrzynki (BlackBox: koperta zalobna, szpula filmowa, zwoj), oraz ujawnienie projektora ukrytego w lalce Symmetry (LifesizeDoll).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Puz_BellCauldron CantReach": {
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds1": {
+        "en": "[i]Ahh - I can't quite reach both handles at the same time.[/i]",
+        "pl": "[i]Ach - nie mogę dosięgnąć obu uchwytów naraz.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds2": {
+        "en": "[i]Maybe if my arms were-[/i]",
+        "pl": "[i]Może gdybym miał dłuższe ręce-[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds3": {
+        "en": "Because there's two of us.\nWe can take one handle each.",
+        "pl": "Bo jest nas dwoje.\nMożemy wziąć po jednym uchwycie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds4": {
+        "en": "Oh. Right.",
+        "pl": "Och. No tak.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds5": {
+        "en": "You know, you don't [h]have[/h] to stand there with your face pressed into it.",
+        "pl": "Wiesz, nie [h]musisz[/h] stać z twarzą wciśniętą w to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds6": {
+        "en": "[i]Why not?[/i]",
+        "pl": "[i]Czemu nie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron CantReach/Section ds7": {
+        "en": "[i]-a little longer-[/i]",
+        "pl": "[i]-jeszcze chwilę-[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BellCauldron Fragment": {
+      "Examine/Exam_Puz_BellCauldron Fragment/Section ds12": {
+        "en": "What [h]is[/h] that, anyway?",
+        "pl": "Co to [h]właściwie[/h] jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BellCauldron Fragment/Section ds13": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BellCauldron Initial": {
+      "Examine/Exam_Puz_BellCauldron Initial/Section ds0": {
+        "en": "So when the Iron Bell is placed over the cauldron, it can be used to lock or unlock the lid...",
+        "pl": "Więc kiedy Żelazny Dzwon zostanie umieszczony nad kotłem, można go użyć, żeby zablokować albo odblokować pokrywę...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron Initial/Section ds5": {
+        "en": "It [i]could[/i] - if we can work out how to activate it.",
+        "pl": "[i]Mógłby[/i] - jeśli uda nam się rozgryźć, jak go aktywować.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Puz_BellCauldron Solved bg": {
+      "Examine/Exam_Puz_BellCauldron Solved bg/Section ds10": {
+        "en": "But there's something in [i]particular[/i] I think we should take a look at.",
+        "pl": "Ale jest coś [i]konkretnego,[/i] czemu myślę, że powinniśmy się przyjrzeć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BellCauldron Solved bg/Section ds3": {
+        "en": "The top part spun around - that [i]mechanism[/i] - it was really fast.",
+        "pl": "Górna część się obróciła - ten [i]mechanizm[/i] - był naprawdę szybki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BellCauldron Solved bg/Section ds5": {
+        "en": "So that's how you unlock the cauldron...",
+        "pl": "Więc tak się odblokowuje kocioł...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BellCauldron Solved fragment": {
+      "Examine/Exam_Puz_BellCauldron Solved fragment/Section ds10": {
+        "en": "I wonder...",
+        "pl": "Zastanawiam się...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BellCauldron Solved fragment/Section ds11": {
+        "en": "That little metal part isn't supposed to be there, huh.",
+        "pl": "Ta mała metalowa część nie powinna tam być, co nie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BlackBox_CompletePuzzle": {
+      "Examine/Exam_Puz_BlackBox_CompletePuzzle/Section ds0": {
+        "en": "That's everything. (bypass this, eventually)",
+        "pl": "To wszystko. (pomiń to, ostatecznie)",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Puz_BlackBox_Envelope 1": {
+      "Examine/Exam_Puz_BlackBox_Envelope 1/Section ds0": {
+        "en": "It's an envelope...",
+        "pl": "To koperta...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BlackBox_Envelope 2": {
+      "Examine/Exam_Puz_BlackBox_Envelope 2/Section ds0": {
+        "en": "It's empty.",
+        "pl": "Jest pusta.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_Envelope 2/Section ds10": {
+        "en": "It's used to send news of someone's death.",
+        "pl": "Używa się jej do przekazywania wiadomości o czyjejś śmierci.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_Envelope 2/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_Envelope 2/Section ds8": {
+        "en": "Those black edges...",
+        "pl": "Te czarne obwódki...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_Envelope 2/Section ds9": {
+        "en": "Yeah. It's a mourning envelope.",
+        "pl": "Tak. To koperta żałobna.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BlackBox_Sound": {
+      "Examine/Exam_Puz_BlackBox_Sound/Section ds10": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_Sound/Section ds11": {
+        "en": "Hmm.",
+        "pl": "Hmm.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_Sound/Section ds12": {
+        "en": "[i]It slides out at the side.\nLet me do it.[/i]",
+        "pl": "[i]Wysuwa się z boku.\nDaj, ja to zrobię.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_Sound/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Puz_BlackBox_exit": {
+      "Examine/Exam_Puz_BlackBox_exit/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_exit/Section ds5": {
+        "en": "There's no way to open it.",
+        "pl": "Nie ma sposobu, żeby to otworzyć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_exit/Section ds6": {
+        "en": "Seems that way.",
+        "pl": "Na to wygląda.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_exit/Section ds7": {
+        "en": "Maybe there [h]is[/h] a way to open it after all.",
+        "pl": "Może jednak [h]jest[/h] jakiś sposób, żeby to otworzyć.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_BlackBox_reel": {
+      "Examine/Exam_Puz_BlackBox_reel/Section ds0": {
+        "en": "It's a film reel...",
+        "pl": "To szpula filmowa...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Puz_BlackBox_scroll 1": {
+      "Examine/Exam_Puz_BlackBox_scroll 1/Section ds0": {
+        "en": "It's a scroll...",
+        "pl": "To zwój...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Puz_BlackBox_scroll 2": {
+      "Examine/Exam_Puz_BlackBox_scroll 2/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_scroll 2/Section ds10": {
+        "en": "All in good time.",
+        "pl": "Wszystko w swoim czasie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_BlackBox_scroll 2/Section ds8": {
+        "en": "Yeah. I know.",
+        "pl": "Tak. Wiem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_BlackBox_scroll 2/Section ds9": {
+        "en": "Should we put it back together?",
+        "pl": "Powinniśmy złożyć to z powrotem?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_LifesizeDoll Projector 1": {
+      "Examine/Exam_Puz_LifesizeDoll Projector 1/Section ds12": {
+        "en": "No...",
+        "pl": "Nie...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_LifesizeDoll Projector 1/Section ds13": {
+        "en": "...is that a camera??",
+        "pl": "...czy to kamera??",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_LifesizeDoll Projector 1/Section ds14": {
+        "en": "I think it's a projector.",
+        "pl": "Chyba to projektor.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Puz_LifesizeDoll Projector 1/Section ds17": {
+        "en": "I think it's a projector.",
+        "pl": "Chyba to projektor.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Puz_LifesizeDoll Projector 2": {
+      "Examine/Exam_Puz_LifesizeDoll Projector 2/Section ds13": {
+        "en": "Sorry - [i]why[/i] was there a projector hidden inside the doll?",
+        "pl": "Przepraszam - [i]czemu[/i] w lalce był ukryty projektor?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Puz_LifesizeDoll Projector 2/Section ds16": {
+        "en": "Uh, safekeeping?",
+        "pl": "Yy, dla bezpieczeństwa?",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

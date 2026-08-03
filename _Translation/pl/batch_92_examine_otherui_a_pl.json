@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "batch": "Examine - OTHER_UI czesc A (59 terminow) - pierwsza z trzech partii koncowego bloku 'inne UI' kategorii Examine. Zawiera potwierdzenia systemowe (Are you sure/Delete Save/DeviceOffline), 'odblokowania' tematow do zbadania (BodyTopicUnlock dla Grippa/Moon/Symmetry), oraz scene podsluchiwania w Mesie.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci.",
+    "uwagi_WAZNE": "POTWIERDZONA TOZSAMOSC 'MARIANY' z batch_80 (CargoHold)! BodyTopicUnlock_Moon jednoznacznie mowi 'I wonder if Mariana would let us take a closer look at that pipe of hers?' w kontekscie odblokowania tematu 'Moon' - MARIANA TO PRAWDZIWE/ROBOCZE IMIE MOON. Rozwiazuje niepewnosc oflagowana w VERIFICATION_QUEUE #51 - do aktualizacji przy nastepnej okazji."
+  },
+  "categories": {
+    "Are you sure": {
+      "Examine/Are you sure/Section ds0": {
+        "en": "Are you sure?",
+        "pl": "Czy na pewno?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Are you sure/Section ds0 Choice 1": {
+        "en": "Cancel",
+        "pl": "Anuluj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Are you sure/Section ds0 Choice 2": {
+        "en": "Yes",
+        "pl": "Tak",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Are you sure/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "BodyTopicUnlock_Gripp": {
+      "Examine/BodyTopicUnlock_Gripp/Section ds0": {
+        "en": "I wonder if Gripp would let us take a closer look at that cane of his?",
+        "pl": "Zastanawiam się, czy Gripp pozwoliłby nam przyjrzeć się bliżej tej jego lasce?",
+        "speaker": "Grimoire"
+      },
+      "Examine/BodyTopicUnlock_Gripp/Section ds1": {
+        "en": "Can't hurt to ask.",
+        "pl": "Zapytać nie zaszkodzi.",
+        "speaker": "Sally"
+      },
+      "Examine/BodyTopicUnlock_Gripp/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Gripp/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Gripp/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "BodyTopicUnlock_Moon": {
+      "Examine/BodyTopicUnlock_Moon/Section ds0": {
+        "en": "I wonder if Mariana would let us take a closer look at that pipe of hers?",
+        "pl": "Zastanawiam się, czy Mariana pozwoliłaby nam przyjrzeć się bliżej tej jej fajce?",
+        "speaker": "Grimoire"
+      },
+      "Examine/BodyTopicUnlock_Moon/Section ds1": {
+        "en": "It can't hurt to ask!",
+        "pl": "Zapytać nie zaszkodzi!",
+        "speaker": "Sally"
+      },
+      "Examine/BodyTopicUnlock_Moon/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Moon/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Moon/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "BodyTopicUnlock_Symmetry": {
+      "Examine/BodyTopicUnlock_Symmetry/Section ds0": {
+        "en": "I wonder if Sym would let us take a closer look at that locket of hers?",
+        "pl": "Zastanawiam się, czy Sym pozwoliłaby nam przyjrzeć się bliżej temu jej medalionowi?",
+        "speaker": "Grimoire"
+      },
+      "Examine/BodyTopicUnlock_Symmetry/Section ds1": {
+        "en": "Can't hurt to ask.",
+        "pl": "Zapytać nie zaszkodzi.",
+        "speaker": "Sally"
+      },
+      "Examine/BodyTopicUnlock_Symmetry/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Symmetry/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/BodyTopicUnlock_Symmetry/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "CaseFile Cane 1": {
+      "Examine/CaseFile Cane 1/Section ds0": {
+        "en": "Remove [i]what?[/i]",
+        "pl": "Zdjąć [i]co?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/CaseFile Cane 1/Section ds1": {
+        "en": "The bandage around the middle!",
+        "pl": "Bandaż w środkowej części!",
+        "speaker": "Grimoire"
+      },
+      "Examine/CaseFile Cane 1/Section ds3": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Examine/CaseFile Cane 1/Section ds4": {
+        "en": "I'm just curious.",
+        "pl": "Jestem po prostu ciekawa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/CaseFile Cane 1/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "CheckFeliciaPainting": {
+      "Examine/CheckFeliciaPainting/Section ds1": {
+        "en": "Let's go look at that painting again...",
+        "pl": "Chodźmy jeszcze raz spojrzeć na ten obraz...",
+        "speaker": "Grimoire"
+      },
+      "Examine/CheckFeliciaPainting/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CheckFeliciaPainting/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CheckFeliciaPainting/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "CheckSinthiaMattress": {
+      "Examine/CheckSinthiaMattress/Section ds1": {
+        "en": "I guess we should go look under Sinthia's mattress...",
+        "pl": "Chyba powinniśmy zajrzeć pod materac Sinthii...",
+        "speaker": "Grimoire"
+      },
+      "Examine/CheckSinthiaMattress/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CheckSinthiaMattress/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CheckSinthiaMattress/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "CompletedChecklist": {
+      "Examine/CompletedChecklist/Section ds4": {
+        "en": "...is that everything?",
+        "pl": "...czy to wszystko?",
+        "speaker": "Sally"
+      },
+      "Examine/CompletedChecklist/Section ds6": {
+        "en": "There's [i]one[/i] more room we need to revisit.",
+        "pl": "Jest [i]jeszcze jeden[/i] pokój, do którego musimy wrócić.",
+        "speaker": "Grimoire"
+      },
+      "Examine/CompletedChecklist/Section ds6 Choice 1": {
+        "en": "Go to Illusion Theatre",
+        "pl": "Idź do Teatru Iluzji",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CompletedChecklist/Section ds6 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/CompletedChecklist/Section ds6 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/CompletedChecklist/Section ds7": {
+        "en": "Nearly.",
+        "pl": "Prawie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "CorneliusCane Remove": {
+      "Examine/CorneliusCane Remove/Section ds0": {
+        "en": "Remove [i]what?[/i]",
+        "pl": "Zdjąć [i]co?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/CorneliusCane Remove/Section ds1": {
+        "en": "The bandage around the middle!",
+        "pl": "Bandaż w środkowej części!",
+        "speaker": "Grimoire"
+      },
+      "Examine/CorneliusCane Remove/Section ds3": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Examine/CorneliusCane Remove/Section ds4": {
+        "en": "I'm just curious.",
+        "pl": "Jestem po prostu ciekawa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/CorneliusCane Remove/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Delete Save": {
+      "Examine/Delete Save/Section ds0": {
+        "en": "Do you want to delete this save?",
+        "pl": "Czy chcesz usunąć ten zapis?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Delete Save/Section ds0 Choice 1": {
+        "en": "No",
+        "pl": "Nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Delete Save/Section ds0 Choice 2": {
+        "en": "Yes",
+        "pl": "Tak",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Delete Save/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Delete Save/Section ds2": {
+        "en": "Are you sure?",
+        "pl": "Czy na pewno?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Delete Save/Section ds2 Choice 1": {
+        "en": "Delete save",
+        "pl": "Usuń zapis",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Delete Save/Section ds2 Choice 2": {
+        "en": "Don't delete",
+        "pl": "Nie usuwaj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Delete Save/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "DeviceOffline": {
+      "Examine/DeviceOffline/Section ds0": {
+        "en": "This device is currently offline. Any existing cloud saves will not be available.",
+        "pl": "To urządzenie jest obecnie offline. Istniejące zapisy w chmurze nie będą dostępne.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "EnteringMessHallEavesdrop": {
+      "Examine/EnteringMessHallEavesdrop/Section ds1": {
+        "en": "Everyone's in here...",
+        "pl": "Wszyscy są tutaj...",
+        "speaker": "Sally"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds10": {
+        "en": "Maybe we can listen in on what they're each talking about.",
+        "pl": "Może uda nam się podsłuchać, o czym każde z nich rozmawia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds5": {
+        "en": "...let's stay back here...",
+        "pl": "...zostańmy tutaj z tyłu...",
+        "speaker": "Sally"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds6": {
+        "en": "Eavesdropping?",
+        "pl": "Podsłuchujesz?",
+        "speaker": "Grimoire"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds7": {
+        "en": "I never used that word.",
+        "pl": "Nigdy nie użyłem tego słowa.",
+        "speaker": "Sally"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds8": {
+        "en": "But yeah.",
+        "pl": "Ale tak.",
+        "speaker": "Sally"
+      },
+      "Examine/EnteringMessHallEavesdrop/Section ds9": {
+        "en": "I don't think they've spotted us.",
+        "pl": "Chyba nas nie zauważyli.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

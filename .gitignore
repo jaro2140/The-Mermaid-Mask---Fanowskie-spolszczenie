@@ -14,12 +14,15 @@ dist/
 build/
 backup/
 
-# Gotowe payloady patchy - publikuj przez Releases, nie przez git
+# Gotowy ZIP release (payload spakowany razem z instalatorem _Installers/) -
+# publikuj przez GitHub Releases, nie przez git
 _Patches/*
 !_Patches/README.md
-!_Patches/payload/
-_Patches/payload/*
-!_Patches/payload/.gitkeep
+
+# Payload patcha wewnatrz _Installers/ (duze pliki binarne gry) - publikowany
+# jako czesc ZIP-a z Releases, nie commitowany do gita
+_Installers/payload/*
+!_Installers/payload/.gitkeep
 
 # Tymczasowe pliki instalatorów
 _Installers/**/backup/

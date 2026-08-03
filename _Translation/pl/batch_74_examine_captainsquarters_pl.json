@@ -1,0 +1,771 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja CaptainsQuarters/Kajuta Kapitana (136 terminow, ~30 mikroscen) - sypialnia Mortugi, dostepna przez rozbudowana sekwencje fabularna (alarm cisnienia, ucieczka Grippa, model miasteczka z ukryta latarnia, Czarna Skrzynka niemozliwa do otwarcia w tym miejscu gry).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Fragmenty w [i] w scenie SubmarineInDanger (ds7/ds9) to zniekstalcone/urwane kwestie w chaosie alarmu - przypisane kontekstowo do Sally/Grimoire kontynuujacych swoje zdania."
+  },
+  "categories": {
+    "Exam_Area_CaptainsQuarters_Alarm": {
+      "Examine/Exam_Area_CaptainsQuarters_Alarm/Section ds0": {
+        "en": "We have to get to the Control Room!!",
+        "pl": "Musimy dostać się do Centrali Dowodzenia!!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Alarm/Section ds0 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Alarm/Section ds0 Choice 2": {
+        "en": "Wait a moment",
+        "pl": "Poczekaj chwilę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Alarm/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BG": {
+      "Examine/Exam_Area_CaptainsQuarters_BG/Section ds0": {
+        "en": "So this was Mortuga's bedroom.",
+        "pl": "Więc to była sypialnia Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BG/Section ds1": {
+        "en": "Technically, if it's the [h]Captain's[/h] Quarters, whoever is currently Captain would get this room.",
+        "pl": "Technicznie rzecz biorąc, skoro to Kajuta [h]Kapitana[/h], to ten pokój należałby do tego, kto obecnie jest kapitanem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BG/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxEnd": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxEnd/Section ds0": {
+        "en": "Well.\nThat was disappointing.",
+        "pl": "Cóż.\nTo było rozczarowujące.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxEnd/Section ds1": {
+        "en": "Yeah...",
+        "pl": "Tak...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds0": {
+        "en": "There [i]must[/i] be a way to get this open...",
+        "pl": "[i]Musi[/i] być jakiś sposób, żeby to otworzyć...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds1": {
+        "en": "...I wonder if there was something we missed in [i]Mariana's[/i] room? You know - the Cargo Hold?",
+        "pl": "...zastanawiam się, czy czegoś nie przegapiliśmy w pokoju [i]Mariany[/i]? No wiesz - w Ładowni?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds1 Choice 1": {
+        "en": "Go to Cargo Hold",
+        "pl": "Idź do Ładowni",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds1 Choice 2": {
+        "en": "Black Box",
+        "pl": "Czarna Skrzynka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds1 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxGoLookInCargoHold/Section ds4": {
+        "en": "We'll just have to hope we stumble across the answer somewhere else.",
+        "pl": "Będziemy musieli mieć nadzieję, że natkniemy się na odpowiedź gdzie indziej.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxListentoTape": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxListentoTape/Section ds5": {
+        "en": "You know, we should [i]probably[/i] listen to that new tape we found...",
+        "pl": "Wiesz, [i]chyba[/i] powinniśmy odsłuchać tę nową taśmę, którą znaleźliśmy...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxListentoTape/Section ds6": {
+        "en": "The pipe dictaphone tape?",
+        "pl": "Taśmę z dyktafonu-fajki?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxListentoTape/Section ds7": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxSolvable1": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxSolvable1/Section ds1": {
+        "en": "Maybe there [h]is[/h] a way to open it after all...",
+        "pl": "Może jednak [h]jest[/h] jakiś sposób, żeby to otworzyć...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxSolvable1/Section ds1 Choice 1": {
+        "en": "Open it",
+        "pl": "Otwórz to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxSolvable1/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxSolvable1/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxSolvable2": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxSolvable2/Section ds1": {
+        "en": "We finally got it open.",
+        "pl": "W końcu udało nam się to otworzyć.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxStart1": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds0": {
+        "en": "Some kind of box.",
+        "pl": "Jakaś skrzynka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds1": {
+        "en": "Can you get it open?",
+        "pl": "Możesz to otworzyć?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds1 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart1/Section ds2": {
+        "en": "What's that on the bed...?",
+        "pl": "Co to jest na łóżku...?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_BlackBoxStart2": {
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds0": {
+        "en": "There's no way to open it.",
+        "pl": "Nie ma sposobu, żeby to otworzyć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds1": {
+        "en": "Seems that way...",
+        "pl": "Na to wygląda...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds1 Choice 1": {
+        "en": "Try anyway",
+        "pl": "Spróbuj mimo to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds1 Choice 2": {
+        "en": "Black Box",
+        "pl": "Czarna Skrzynka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds1 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_BlackBoxStart2/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_CurtainMoved": {
+      "Examine/Exam_Area_CaptainsQuarters_CurtainMoved/Section ds3": {
+        "en": "Should we put the curtain back?",
+        "pl": "Powinniśmy odłożyć zasłonę na miejsce?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainMoved/Section ds3 Choice 1": {
+        "en": "Move curtain",
+        "pl": "Odsuń zasłonę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainMoved/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainMoved/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_CurtainNormal": {
+      "Examine/Exam_Area_CaptainsQuarters_CurtainNormal/Section ds0": {
+        "en": "There's an old curtain hanging up here.",
+        "pl": "Wisi tu stara zasłona.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainNormal/Section ds3": {
+        "en": "Wanna take a look behind it?",
+        "pl": "Chcesz zerknąć za nią?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainNormal/Section ds3 Choice 1": {
+        "en": "Move curtain",
+        "pl": "Odsuń zasłonę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainNormal/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_CurtainNormal/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1": {
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds1": {
+        "en": "...but this door's made of thick metal.",
+        "pl": "...ale te drzwi są zrobione z grubego metalu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds1 Choice 1": {
+        "en": "Look through window",
+        "pl": "Spójrz przez okno",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds1 Choice 2": {
+        "en": "Replace curtain",
+        "pl": "Zawieś zasłonę z powrotem",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds1 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved1/Section ds4": {
+        "en": "Most of the room is made of wood...",
+        "pl": "Większość tego pokoju jest zrobiona z drewna...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2": {
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2/Section ds4": {
+        "en": "I guess now we can get outside...",
+        "pl": "Chyba teraz możemy wyjść na zewnątrz...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2/Section ds4 Choice 1": {
+        "en": "Go outside",
+        "pl": "Wyjdź na zewnątrz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2/Section ds4 Choice 2": {
+        "en": "Look through window",
+        "pl": "Spójrz przez okno",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2/Section ds4 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_DoorwithCurtainMoved2/Section ds4 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_FixedCompass": {
+      "Examine/Exam_Area_CaptainsQuarters_FixedCompass/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_FixedCompass/Section ds1": {
+        "en": "He fixed it.",
+        "pl": "Naprawił to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_FixedCompass/Section ds3": {
+        "en": "It's - the compass.",
+        "pl": "To - kompas.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Gripp": {
+      "Examine/Exam_Area_CaptainsQuarters_Gripp/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Gripp/Section ds1": {
+        "en": "He's wearing it.",
+        "pl": "On to nosi.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_GrippOutside": {
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds0": {
+        "en": "What's he gonna do - should we [i]follow[/i] him? I don't-",
+        "pl": "Co on zamierza zrobić - powinniśmy go [i]śledzić[/i]? Ja nie-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds1": {
+        "en": "Can you see him through the window?",
+        "pl": "Widzisz go przez okno?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds1 Choice 1": {
+        "en": "Look through window",
+        "pl": "Spójrz przez okno",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds1 Choice 2": {
+        "en": "Wait a moment",
+        "pl": "Poczekaj chwilę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds3": {
+        "en": "Wait - what's that on the floor...?",
+        "pl": "Czekaj - co to jest na podłodze...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_GrippOutside/Section ds5": {
+        "en": "He's locked the door...",
+        "pl": "Zamknął drzwi na klucz...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Jacket": {
+      "Examine/Exam_Area_CaptainsQuarters_Jacket/Section ds0": {
+        "en": "It's an old jacket.\nIt's made of tarpaulin - or something similar.",
+        "pl": "To stara kurtka.\nZrobiona z brezentu - albo czegoś podobnego.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Jacket/Section ds1": {
+        "en": "For going out in the rain.",
+        "pl": "Do wychodzenia w deszcz.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_ModelTown 1": {
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 1/Section ds0": {
+        "en": "It's a model town...",
+        "pl": "To model miasteczka...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 1/Section ds1": {
+        "en": "What [h]is[/h] that?",
+        "pl": "Co to właściwie [h]jest[/h]?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_ModelTown 2": {
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds0": {
+        "en": "Hey, there's a panel at the front... and it slides out.",
+        "pl": "Hej, z przodu jest panel... i wysuwa się.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds1": {
+        "en": "I guess that's the ocean. You can put the little model boats on it.",
+        "pl": "Chyba to ocean. Można na nim ustawiać małe modele łódek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds2": {
+        "en": "Huh...",
+        "pl": "Huh...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds2 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds2 Choice 2": {
+        "en": "Model Town",
+        "pl": "Model Miasteczka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds2 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 2/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_ModelTown 3": {
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 3/Section ds0": {
+        "en": "The little lighthouse... it opened up. And there's something in there...",
+        "pl": "Mała latarnia morska... otworzyła się. I coś tam jest...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 3/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_ModelTown 4": {
+      "Examine/Exam_Area_CaptainsQuarters_ModelTown 4/Section ds2": {
+        "en": "It's a model town...",
+        "pl": "To model miasteczka...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_SubmarineInDanger": {
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds0": {
+        "en": "This is bad - the pressure change, it's too sudden-",
+        "pl": "To źle - zmiana ciśnienia, jest zbyt nagła-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds10": {
+        "en": "The submarine's not-",
+        "pl": "Łódź podwodna nie-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds3": {
+        "en": "Let's go!",
+        "pl": "Chodźmy!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds4": {
+        "en": "It must be coming from the Control Room!",
+        "pl": "To musi dochodzić z Centrali Dowodzenia!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds5": {
+        "en": "The radios!",
+        "pl": "Radia!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds6": {
+        "en": "Wait - what's that?",
+        "pl": "Czekaj - co to?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds7": {
+        "en": "[i]-what do we do-[/i]",
+        "pl": "[i]-co robimy-[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_SubmarineInDanger/Section ds9": {
+        "en": "[i]-the pressure's too much, it was too fast-[/i]",
+        "pl": "[i]-ciśnienie jest za duże, było za szybko-[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_TalktoGripp": {
+      "Examine/Exam_Area_CaptainsQuarters_TalktoGripp/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Window_BG": {
+      "Examine/Exam_Area_CaptainsQuarters_Window_BG/Section ds0": {
+        "en": "The door is firmly locked.",
+        "pl": "Drzwi są solidnie zamknięte.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_BG/Section ds1": {
+        "en": "For once, I'm glad to hear it.",
+        "pl": "Tym razem cieszę się, że to słyszę.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Window_Caution": {
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds0": {
+        "en": "[i]Caution - pressure seal.[/i]",
+        "pl": "[i]Uwaga - uszczelka ciśnieniowa.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds10": {
+        "en": "And what would happen if it had the wrong pressure? The door would burst open?",
+        "pl": "A co by się stało, gdyby ciśnienie było złe? Drzwi by się wyważyły?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds11": {
+        "en": "Oh, I imagine the glass would break, at least.",
+        "pl": "Och, wyobrażam sobie, że przynajmniej szkło by pękło.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds13": {
+        "en": "The submarine must be pressurised on the inside to offset the external water pressure...",
+        "pl": "Łódź podwodna musi być ciśnieniowana od wewnątrz, żeby zrównoważyć zewnętrzne ciśnienie wody...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds7": {
+        "en": "I mean - that's a good thing, right?",
+        "pl": "To znaczy - to dobrze, prawda?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Caution/Section ds8": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Window_Window": {
+      "Examine/Exam_Area_CaptainsQuarters_Window_Window/Section ds0": {
+        "en": "I can see an old wooden deck...\nIt looks a bit like a pirate ship.",
+        "pl": "Widzę stary drewniany pokład...\nWygląda trochę jak statek piracki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_Window_Window/Section ds11": {
+        "en": "Yeah, I bet.",
+        "pl": "Tak, założę się.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_Window_unlocked": {
+      "Examine/Exam_Area_CaptainsQuarters_Window_unlocked/Section ds0": {
+        "en": "I guess now we can get outside...",
+        "pl": "Chyba teraz możemy wyjść na zewnątrz...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_barrel": {
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds0": {
+        "en": "It's a barrel.",
+        "pl": "To beczka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds1": {
+        "en": "A barrel of laughs?",
+        "pl": "Beczka śmiechu?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds2": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds3": {
+        "en": "A barrel of fun?",
+        "pl": "Beczka zabawy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds4": {
+        "en": "[i]No.[/i]",
+        "pl": "[i]Nie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_barrel/Section ds5": {
+        "en": "It's a barrel of seriousness.",
+        "pl": "To beczka powagi.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_books": {
+      "Examine/Exam_Area_CaptainsQuarters_books/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_box": {
+      "Examine/Exam_Area_CaptainsQuarters_box/Section ds0": {
+        "en": "An empty box.",
+        "pl": "Pusta skrzynka.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_candles": {
+      "Examine/Exam_Area_CaptainsQuarters_candles/Section ds0": {
+        "en": "Candles.\nThey're caked in dust.",
+        "pl": "Świece.\nOblepione kurzem.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_ceiling": {
+      "Examine/Exam_Area_CaptainsQuarters_ceiling/Section ds0": {
+        "en": "It's all wood.",
+        "pl": "Wszystko z drewna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ceiling/Section ds1": {
+        "en": "Yeah. I don't think we're in the submarine anymore.",
+        "pl": "Tak. Chyba nie jesteśmy już na łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_ceiling/Section ds2": {
+        "en": "It's all... made of wood.",
+        "pl": "Wszystko jest... zrobione z drewna.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_chair": {
+      "Examine/Exam_Area_CaptainsQuarters_chair/Section ds0": {
+        "en": "What's that hanging on the back the chair? Socks?",
+        "pl": "Co wisi na oparciu tego krzesła? Skarpetki?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_chair/Section ds1": {
+        "en": "Bandages.",
+        "pl": "Bandaże.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_chair/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_cushions": {
+      "Examine/Exam_Area_CaptainsQuarters_cushions/Section ds0": {
+        "en": "Cushions.",
+        "pl": "Poduszki.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_drawers": {
+      "Examine/Exam_Area_CaptainsQuarters_drawers/Section ds1": {
+        "en": "I can't get the drawers open.",
+        "pl": "Nie mogę otworzyć tych szuflad.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_drawers/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_drawers/Section ds3": {
+        "en": "Locked?",
+        "pl": "Zamknięte?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_drawers/Section ds4": {
+        "en": "No, I don't think so.",
+        "pl": "Nie, chyba nie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_drawers/Section ds5": {
+        "en": "I think the wood just rotted.",
+        "pl": "Myślę, że drewno po prostu zgniło.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_dressingtable": {
+      "Examine/Exam_Area_CaptainsQuarters_dressingtable/Section ds0": {
+        "en": "It's a dressing table...",
+        "pl": "To toaletka...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_dressingtable/Section ds1": {
+        "en": "Go on. Say it.",
+        "pl": "Dawaj. Powiedz to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_dressingtable/Section ds2": {
+        "en": "Like... a [i]woman[/i] would have in her bedroom?",
+        "pl": "Taka, jaką miałaby w sypialni... [i]kobieta[/i]?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_dressingtable/Section ds3": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_dressingtable/Section ds4": {
+        "en": "Uhh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_drink": {
+      "Examine/Exam_Area_CaptainsQuarters_drink/Section ds0": {
+        "en": "A wine bottle.",
+        "pl": "Butelka wina.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_drink/Section ds1": {
+        "en": "The wine is long gone.",
+        "pl": "Wino dawno wyparowało.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_lantern": {
+      "Examine/Exam_Area_CaptainsQuarters_lantern/Section ds0": {
+        "en": "A lantern.",
+        "pl": "Latarnia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_lantern/Section ds1": {
+        "en": "It's been a while since it was lit...",
+        "pl": "Minęło trochę czasu, odkąd była zapalona...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_umbrella": {
+      "Examine/Exam_Area_CaptainsQuarters_umbrella/Section ds0": {
+        "en": "It's an umbrella.",
+        "pl": "To parasol.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsQuarters_umbrella/Section ds1": {
+        "en": "It's falling apart... it looks ancient.",
+        "pl": "Rozpada się... wygląda na starożytny.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsQuarters_window": {
+      "Examine/Exam_Area_CaptainsQuarters_window/Section ds0": {
+        "en": "A little window.",
+        "pl": "Małe okienko.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

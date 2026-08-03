@@ -1,0 +1,871 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja DreamChamber/Komnata Snow (154 terminy, ~28 mikroscen) - laboratorium Zephyra. Zawiera scene HexBottle 3 z tajemnicza postacia mowiaca archaicznym rejestrem, ktora pomaga wydobyc wspomnienie z Hexa - zidentyfikowana jako Symmetry (archaiczny szekspirowski styl, zaimek 'she', watek pasuje do jej postaci).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci/rejestru jezykowego (np. archaiczny styl w HexBottle 3 = Symmetry). Do weryfikacji w grze przy watpliwosciach.",
+    "uwagi": "Tytuly ksiazek Zephyra (book 1-6) przetlumaczone z zachowaniem gry slownej 'oneirology' (nauka o snach, batch book 2 - Grimoire probuje wymowic trudne slowo)."
+  },
+  "categories": {
+    "Exam_Area_DreamChamber_BG": {
+      "Examine/Exam_Area_DreamChamber_BG/Section ds0": {
+        "en": "The [i]Dream Chamber??[/i]",
+        "pl": "[i]Komnata Snów??[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_BG/Section ds1": {
+        "en": "Looks more like an apothecary.",
+        "pl": "Wygląda bardziej jak apteka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_BG/Section ds2": {
+        "en": "A [i]what?[/i]",
+        "pl": "[i]Co?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_BG/Section ds3": {
+        "en": "An old-timey potion shop.",
+        "pl": "Staromodny sklep z miksturami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_BG/Section ds8": {
+        "en": "Thank you.",
+        "pl": "Dziękuję.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_DreamHelmet 1": {
+      "Examine/Exam_Area_DreamChamber_DreamHelmet 1/Section ds0": {
+        "en": "It's a weird metal helmet.",
+        "pl": "To dziwny metalowy hełm.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_DreamHelmet 1/Section ds1": {
+        "en": "It is the [i]Dream Helmet.[/i]",
+        "pl": "To [i]Hełm Snów.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_DreamHelmet 1/Section ds2": {
+        "en": "Of [i]course[/i] it is.",
+        "pl": "[i]Oczywiście,[/i] że tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_DreamHelmet 2": {
+      "Examine/Exam_Area_DreamChamber_DreamHelmet 2/Section ds4": {
+        "en": "[i]The Dream Helmet.[/i]",
+        "pl": "[i]Hełm Snów.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_FogBall 1": {
+      "Examine/Exam_Area_DreamChamber_FogBall 1/Section ds0": {
+        "en": "It's a weird crystal orb.",
+        "pl": "To dziwna kryształowa kula.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_FogBall 1/Section ds1": {
+        "en": "It is the [i]Fog Ball.[/i]",
+        "pl": "To [i]Kula Mgły.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_FogBall 1/Section ds2": {
+        "en": "If you say so.",
+        "pl": "Jeśli tak mówisz.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_FogBall 2": {
+      "Examine/Exam_Area_DreamChamber_FogBall 2/Section ds3": {
+        "en": "It is the [i]Fog Ball.[/i]",
+        "pl": "To [i]Kula Mgły.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_HexBottle 1": {
+      "Examine/Exam_Area_DreamChamber_HexBottle 1/Section ds0": {
+        "en": "It's a weird glass bottle.",
+        "pl": "To dziwna szklana butelka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 1/Section ds1": {
+        "en": "It is the [i]Hex Bottle.[/i]",
+        "pl": "To [i]Butelka Hexa.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 1/Section ds2": {
+        "en": "- I knew that.",
+        "pl": "- wiedziałem o tym.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_HexBottle 2": {
+      "Examine/Exam_Area_DreamChamber_HexBottle 2/Section ds0": {
+        "en": "Maybe we can get Hex to think about something else...",
+        "pl": "Może uda nam się skłonić Hexa, żeby pomyślał o czymś innym...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 2/Section ds1": {
+        "en": "[i]He is nocturnal, you will leave him be.[/i]",
+        "pl": "[i]Jest nocnym stworzeniem, zostawicie go w spokoju.[/i]",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 2/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_HexBottle 3": {
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds4": {
+        "en": "Hello? Uh - Hex?",
+        "pl": "Halo? Yy - Hex?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds26": {
+        "en": "...is he still asleep?",
+        "pl": "...wciąż śpi?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds28": {
+        "en": "Hello.",
+        "pl": "Witajcie.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds29": {
+        "en": "Ah!",
+        "pl": "Ach!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds30": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds31": {
+        "en": "Sorry. You startled me.",
+        "pl": "Przepraszam. Przestraszyliście mnie.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds32": {
+        "en": "Hex is my friend. I may be of help.",
+        "pl": "Hex jest moim przyjacielem. Mogę wam pomóc.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds34": {
+        "en": "His thoughts and memories are wrought visible upon his skin.",
+        "pl": "Jego myśli i wspomnienia stają się widoczne na jego skórze.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds35": {
+        "en": "Surely, you wish for him to think upon the last time he saw Magnus Mortuga?",
+        "pl": "Z pewnością pragniecie, by przypomniał sobie ostatni raz, gdy widział Magnusa Mortugę?",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds36": {
+        "en": "Uh, yeah - sounds good.",
+        "pl": "Yy, tak - brzmi nieźle.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds37": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds38": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds39": {
+        "en": "What's she doing? She's just tapping the glass-",
+        "pl": "Co ona robi? Po prostu stuka w szkło-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds40": {
+        "en": "Shhh!",
+        "pl": "Ciii!",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds41": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds42": {
+        "en": "It is done.",
+        "pl": "Zrobione.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds43": {
+        "en": "Thanks!",
+        "pl": "Dzięki!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds44": {
+        "en": "I was never here.",
+        "pl": "Nigdy mnie tu nie było.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds45": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds46": {
+        "en": "Wait - where'd she go?",
+        "pl": "Czekaj - gdzie ona poszła?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexBottle 3/Section ds47": {
+        "en": "Never mind that, take a look at this...",
+        "pl": "Nieważne, spójrz na to...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_HexBottle 4": {
+      "Examine/Exam_Area_DreamChamber_HexBottle 4/Section ds21": {
+        "en": "[i]The Hex Bottle.[/i]",
+        "pl": "[i]Butelka Hexa.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_HexBottle 5": {
+      "Examine/Exam_Area_DreamChamber_HexBottle 5/Section ds4": {
+        "en": "We got the Hex Bottle Mortuga Memory.",
+        "pl": "Zdobyliśmy Wspomnienie Mortugi z Butelki Hexa.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_HexIdea": {
+      "Examine/Exam_Area_DreamChamber_HexIdea/Section ds0": {
+        "en": "So Hex actually shows his thoughts on his skin??",
+        "pl": "Więc Hex naprawdę pokazuje swoje myśli na skórze??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexIdea/Section ds3": {
+        "en": "Yeah, it's incredible...",
+        "pl": "Tak, to niesamowite...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_HexIdea/Section ds5": {
+        "en": "Hey, what if we got him to think about something else??",
+        "pl": "Hej, a co jeśli skłonimy go, żeby pomyślał o czymś innym??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_HexIdea/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_BG": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_BG/Section ds0": {
+        "en": "It's Zephyr's bookshelf.",
+        "pl": "To biblioteczka Zephyra.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_Hole1": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds0": {
+        "en": "[i]I think I can see a face in there.[/i]",
+        "pl": "[i]Myślę, że widzę tam twarz.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds1": {
+        "en": "That's probably just Pareidolia.",
+        "pl": "To prawdopodobnie tylko pareidolia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds6": {
+        "en": "Who?",
+        "pl": "Kto?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds7": {
+        "en": "The human habit of seeing faces where there... [i]aren't...[/i]",
+        "pl": "Ludzki nawyk dostrzegania twarzy tam, gdzie ich... [i]nie ma...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole1/Section ds9": {
+        "en": "Ok no, I just saw it too.",
+        "pl": "Okej nie, ja też to właśnie zobaczyłem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_Hole2": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds1": {
+        "en": "Maybe there's a switch or something on the other side?",
+        "pl": "Może jest jakiś przełącznik czy coś po drugiej stronie?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds7": {
+        "en": "Why don't [h]you??[/h]",
+        "pl": "Czemu [h]ty[/h] tego nie zrobisz??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds9": {
+        "en": "Because I absolutely do not want to.",
+        "pl": "Bo absolutnie nie chcę.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds10 Choice 1": {
+        "en": "Reach in",
+        "pl": "Sięgnij do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds10 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds10 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds11": {
+        "en": "Here goes...",
+        "pl": "No to jedziemy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds12": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds13": {
+        "en": "Got it.",
+        "pl": "Mam.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Hole2/Section ds14": {
+        "en": "Why don't you reach in?",
+        "pl": "Czemu ty tego nie zrobisz?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_Journal 1": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 1/Section ds1": {
+        "en": "Looks more like a magazine...",
+        "pl": "Wygląda bardziej jak czasopismo...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 1/Section ds6": {
+        "en": "This one's not really a book.",
+        "pl": "To tak naprawdę nie jest książka.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_Journal 2": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 2/Section ds1": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 2/Section ds6": {
+        "en": "The Caretaker's Journal? We already looked at it.",
+        "pl": "Dziennik Opiekuna? Już go widzieliśmy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 2/Section ds7": {
+        "en": "...what if I wanted to look at it again?",
+        "pl": "...a co, jeśli chciałbym spojrzeć na niego jeszcze raz?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_Journal 2/Section ds8": {
+        "en": "Did you?",
+        "pl": "Chciałeś?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 1": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 1/Section ds0": {
+        "en": "[i]Prophecy from Parapsychology[/i],\nby Halcyon Hardwick.",
+        "pl": "[i]Przepowiednia z Parapsychologii,[/i]\nautorstwa Halcyona Hardwicka.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 2": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 2/Section ds0": {
+        "en": "[i]The Seven Secrets of[/i] oh, on - uh...",
+        "pl": "[i]Siedem Sekretów[/i] och, on- yy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 2/Section ds2": {
+        "en": "[i]On-eir...[/i]",
+        "pl": "[i]On-ejr...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 2/Section ds3": {
+        "en": "[i]Oneirology?[/i]",
+        "pl": "[i]Oniryki?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 2/Section ds4": {
+        "en": "[i]The Seven Secrets of Oneirology[/i], by Edward Edmonton.",
+        "pl": "[i]Siedem Sekretów Oniryki,[/i] autorstwa Edwarda Edmontona.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 3": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 3/Section ds0": {
+        "en": "[i]It Is Speaking,\nIf You Are Listening[/i],\nby Carl Cavendish.",
+        "pl": "[i]To Przemawia,\nJeśli Słuchasz,[/i]\nautorstwa Carla Cavendisha.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 4": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 4/Section ds0": {
+        "en": "[i]Divine Exolinguistics[/i],\nby Mary Morala.",
+        "pl": "[i]Boska Egzolingwistyka,[/i]\nautorstwa Mary Moroli.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 5": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 5/Section ds0": {
+        "en": "[i]A Ghost Rises Before Me[/i],\nby Josef Jenkins.",
+        "pl": "[i]Duch Powstaje Przede Mną,[/i]\nautorstwa Josefa Jenkinsa.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 6": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 6/Section ds0": {
+        "en": "[i]The Magician of the Soul[/i],\nby Annabelle August.",
+        "pl": "[i]Magik Duszy,[/i]\nautorstwa Annabelle August.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_book 7": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 7/Section ds0": {
+        "en": "There might be [i]something[/i] we could try...",
+        "pl": "Może być [i]coś,[/i] co moglibyśmy spróbować...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_book 7/Section ds2": {
+        "en": "But - I don't think it's anything to do with the books themselves.",
+        "pl": "Ale - nie sądzę, żeby to miało cokolwiek wspólnego z samymi książkami.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_ZephyrBooks_cloth": {
+      "Examine/Exam_Area_DreamChamber_ZephyrBooks_cloth/Section ds0": {
+        "en": "A dusty old cloth.",
+        "pl": "Zakurzona, stara szmatka.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DreamChamber_bed": {
+      "Examine/Exam_Area_DreamChamber_bed/Section ds0": {
+        "en": "Tired?",
+        "pl": "Zmęczona?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bed/Section ds1": {
+        "en": "I worry if I slept in that thing I'd get transformed into a monster or something.",
+        "pl": "Martwię się, że gdybym spała w tym czymś, zmieniłabym się w potwora czy coś.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_bed/Section ds2": {
+        "en": "[h]I[/h] worry that sleeping at a fourty-five degree angle would be bad for my back.",
+        "pl": "[h]Ja[/h] martwię się, że spanie pod kątem czterdziestu pięciu stopni byłoby złe dla moich pleców.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bed/Section ds3": {
+        "en": "You... are old.",
+        "pl": "Ty... jesteś stary.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_bgbooks": {
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds0": {
+        "en": "Old books.",
+        "pl": "Stare książki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds1": {
+        "en": "They [h]smell[/h] weird.",
+        "pl": "Dziwnie [h]pachną.[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds2": {
+        "en": "That's what old books smell like.",
+        "pl": "Tak właśnie pachną stare książki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds3": {
+        "en": "Do you not own any old books??",
+        "pl": "Nie masz żadnych starych książek??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds4": {
+        "en": "No!!",
+        "pl": "Nie!!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_bgbooks/Section ds5": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_bigjars": {
+      "Examine/Exam_Area_DreamChamber_bigjars/Section ds0": {
+        "en": "Big glass bell jars.\nWith [i]creepy things[/i] inside.",
+        "pl": "Wielkie szklane słoje kloszowe.\nZ [i]przerażającymi rzeczami[/i] w środku.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bigjars/Section ds1": {
+        "en": "If I had a penny for every time we go somewhere and there's big glass bell jars with creepy things inside...",
+        "pl": "Gdybym dostawała grosz za każdym razem, kiedy gdzieś idziemy i są tam wielkie szklane słoje z przerażającymi rzeczami w środku...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_booksbehind": {
+      "Examine/Exam_Area_DreamChamber_booksbehind/Section ds0": {
+        "en": "These books are kept behind glass...",
+        "pl": "Te książki są trzymane za szkłem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbehind/Section ds3": {
+        "en": "I guess they're extra rare.",
+        "pl": "Zgaduję, że są wyjątkowo rzadkie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbehind/Section ds5": {
+        "en": "Or extra [i]dangerous.[/i]",
+        "pl": "Albo wyjątkowo [i]niebezpieczne.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbehind/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_booksbottles 1": {
+      "Examine/Exam_Area_DreamChamber_booksbottles 1/Section ds0": {
+        "en": "Let's take a closer look at that bookshelf.",
+        "pl": "Przyjrzyjmy się bliżej tej biblioteczce.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 1/Section ds0 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 1/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 1/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 1/Section ds3": {
+        "en": "The glass moved...",
+        "pl": "Szkło się poruszyło...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_booksbottles 2": {
+      "Examine/Exam_Area_DreamChamber_booksbottles 2/Section ds0": {
+        "en": "Let's take another look at this bookshelf...",
+        "pl": "Spójrzmy jeszcze raz na tę biblioteczkę...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 2/Section ds0 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 2/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_booksbottles 2/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_DreamChamber_bottlesEnd": {
+      "Examine/Exam_Area_DreamChamber_bottlesEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesEnd/Section ds3": {
+        "en": "...is anything going to happen?",
+        "pl": "...czy coś się wydarzy?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_bottlesStart": {
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds0": {
+        "en": "...I'll meet you in the middle at [h]poisoned perfume.[/h]",
+        "pl": "...spotkajmy się w połowie drogi na [h]zatrutych perfumach.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds0 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds4": {
+        "en": "A set of small glass bottles...",
+        "pl": "Zestaw małych szklanych buteleczek...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds5": {
+        "en": "Might just be perfume.",
+        "pl": "Może to po prostu perfumy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_bottlesStart/Section ds6": {
+        "en": "Poison?",
+        "pl": "Trucizna?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_cabinet l": {
+      "Examine/Exam_Area_DreamChamber_cabinet l/Section ds0": {
+        "en": "It's a little bedside cabinet.",
+        "pl": "To mała szafka nocna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet l/Section ds1": {
+        "en": "The kind of place you'd keep a glass of water. And a book.",
+        "pl": "Takie miejsce, gdzie trzymałbyś szklankę wody. I książkę.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet l/Section ds2": {
+        "en": "And a magical glowing orb.",
+        "pl": "I magiczną, świecącą kulę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_cabinet r": {
+      "Examine/Exam_Area_DreamChamber_cabinet r/Section ds0": {
+        "en": "I'll just take a look in this cabinet...",
+        "pl": "Zerknę tylko do tej szafki...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet r/Section ds1": {
+        "en": "Watch out for spiders!",
+        "pl": "Uważaj na pająki!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet r/Section ds2": {
+        "en": "Yeah I don't think there are any spiders.",
+        "pl": "No nie sądzę, żeby były tam jakieś pająki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet r/Section ds3": {
+        "en": "We're on a submarine? Remember?",
+        "pl": "Jesteśmy na łodzi podwodnej? Pamiętasz?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_cabinet r/Section ds4": {
+        "en": "I [h]do[/h] seem to need constant reminding.",
+        "pl": "Wygląda na to, że [h]rzeczywiście[/h] muszę być stale przypominana.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_ceilingdome": {
+      "Examine/Exam_Area_DreamChamber_ceilingdome/Section ds0": {
+        "en": "It's a big dome.",
+        "pl": "To wielka kopuła.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_ceilingdome/Section ds1": {
+        "en": "All the light coming from the top gets filtered through the pink glass...",
+        "pl": "Całe światło z góry jest filtrowane przez różowe szkło...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_ceilingdome/Section ds4": {
+        "en": "...it gives the whole room a really weird vibe.",
+        "pl": "...to nadaje całemu pomieszczeniu naprawdę dziwny klimat.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_chainlight": {
+      "Examine/Exam_Area_DreamChamber_chainlight/Section ds1": {
+        "en": "I wonder how it gets electricity...",
+        "pl": "Zastanawiam się, skąd bierze prąd...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_chainlight/Section ds2": {
+        "en": "I would recommend that you [h]don't[/h] wonder about that.",
+        "pl": "Poleciłbym, żebyś [h]nie[/h] zastanawiała się nad tym.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_floorwire": {
+      "Examine/Exam_Area_DreamChamber_floorwire/Section ds0": {
+        "en": "Don't trip on that wire, Sally.",
+        "pl": "Nie potknij się o ten kabel, Sally.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_floorwire/Section ds1": {
+        "en": "[i]Wasn't gonna.[/i]",
+        "pl": "[i]Nie zamierzałam.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_fullscreen": {
+      "Examine/Exam_Area_DreamChamber_fullscreen/Section ds0": {
+        "en": "[i]That guy is staring at us.[/i]",
+        "pl": "[i]Ten facet się na nas gapi.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_fullscreen/Section ds1": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_fullscreen/Section ds2": {
+        "en": "[i]I think we'd better talk to him before we touch any of his stuff.[/i]",
+        "pl": "[i]Chyba lepiej z nim porozmawiajmy, zanim dotkniemy jego rzeczy.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_fullscreen/Section ds3": {
+        "en": "Fine.",
+        "pl": "Dobrze.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_fullscreen/Section ds4": {
+        "en": "He sure is.",
+        "pl": "Zdecydowanie tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_posters": {
+      "Examine/Exam_Area_DreamChamber_posters/Section ds0": {
+        "en": "Sacred Geometry.",
+        "pl": "Święta Geometria.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_posters/Section ds1": {
+        "en": "What's on those wall charts?",
+        "pl": "Co jest na tych wykresach ściennych?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_posters/Section ds2": {
+        "en": "-is that a heavy metal band?",
+        "pl": "-czy to zespół heavymetalowy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_posters/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_posters/Section ds5": {
+        "en": "I mean - [h]probably[/h]",
+        "pl": "No - [h]prawdopodobnie[/h]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_scroll cabinet": {
+      "Examine/Exam_Area_DreamChamber_scroll cabinet/Section ds0": {
+        "en": "The cabinet's full of scrolls.\nBut, uh...",
+        "pl": "Szafka jest pełna zwojów.\nAle, yy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_scroll cabinet/Section ds1": {
+        "en": "Can't think of an excuse not to read them?",
+        "pl": "Nie możesz wymyślić wymówki, żeby ich nie czytać?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_scroll cabinet/Section ds2": {
+        "en": "They're too...\n[i]Fragile?[/i] Maybe?",
+        "pl": "Są zbyt...\n[i]Kruche?[/i] Może?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_scroll cabinet/Section ds3": {
+        "en": "Hell, just say they're blank.\nNo-one'll know.",
+        "pl": "A niech to, po prostu powiedz, że są puste.\nNikt się nie dowie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DreamChamber_secretdoor": {
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds0": {
+        "en": "My secret door quota is [h]well[/h] on the way to being met.",
+        "pl": "Mój limit tajemnych drzwi jest [h]zdecydowanie[/h] bliski wypełnienia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds0 Choice 1": {
+        "en": "Go inside",
+        "pl": "Wejdź do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds3": {
+        "en": "The bookcase moved! It was a secret door!",
+        "pl": "Regał się poruszył! To były tajemne drzwi!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DreamChamber_secretdoor/Section ds4": {
+        "en": "Sally, you must be thrilled.",
+        "pl": "Sally, musisz być zachwycona.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DreamChamber_shelves": {
+      "Examine/Exam_Area_DreamChamber_shelves/Section ds1": {
+        "en": "...I can't see anything important on these shelves.",
+        "pl": "...nie widzę niczego ważnego na tych półkach.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DreamChamber_shelves/Section ds2": {
+        "en": "Good.\nBecause I couldn't reach the stuff at the top if I wanted to.",
+        "pl": "Dobrze.\nBo i tak nie sięgnęłabym do rzeczy na górze, nawet gdybym chciała.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Examine/Exam_Area_DreamChamber_HexBottle 3 (cala scena)",
+      "issue": "Tajemnicza postac pomagajaca wydobyc wspomnienie z Hexa (archaiczny rejestr, zaimek zenski) przypisana jako Symmetry na podstawie stylu jezykowego i plci - brak jakiegokolwiek potwierdzenia w metadata zrodla (kategoria Examine nie ma speaker_map). Do weryfikacji w grze."
+    }
+  ]
+}

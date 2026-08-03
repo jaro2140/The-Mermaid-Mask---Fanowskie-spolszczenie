@@ -1,0 +1,430 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja EngineRoom/Maszynownia (75 terminow, ~19 mikroscen) - obszar Grippa z jego balonem/koszem, kartonowymi klientami, kolekcja kompasow oraz skrzynia z tajemniczym zwojem (mapa?). Silnik lodzi rowniez tutaj.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Gripp rozpoznany jednoznacznie jako mowca w scenach dotyczacych jego kosza/kolekcji (charakterystyczny showmanski styl - 'Please! Peruse at your leisure.')."
+  },
+  "categories": {
+    "Exam_Area_EngineRoom_BG": {
+      "Examine/Exam_Area_EngineRoom_BG/Section ds0": {
+        "en": "Yup. It's an engine room.",
+        "pl": "No tak. To maszynownia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_BG/Section ds1": {
+        "en": "Noisy, dangerous, confusing...",
+        "pl": "Hałaśliwa, niebezpieczna, myląca...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_BG/Section ds2": {
+        "en": "I thought you were talking about me...",
+        "pl": "Myślałem, że mówisz o mnie...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_BasketNoPermission": {
+      "Examine/Exam_Area_EngineRoom_BasketNoPermission/Section ds1": {
+        "en": "Do you think there's anything in there?",
+        "pl": "Myślisz, że coś tam jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_BasketNoPermission/Section ds3": {
+        "en": "It's a basket for a hot air balloon.",
+        "pl": "To kosz balonu na ogrzane powietrze.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_BasketNoPermission/Section ds4": {
+        "en": "I can [h]see[/h] what's in there.\nIt's a human man.",
+        "pl": "[h]Widzę[/h], co tam jest.\nTo mężczyzna, człowiek.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_BasketNoPermission/Section ds5": {
+        "en": "Right. Let's talk to him first.",
+        "pl": "No tak. Porozmawiajmy z nim najpierw.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_BrokenCompass": {
+      "Examine/Exam_Area_EngineRoom_BrokenCompass/Section ds1": {
+        "en": "It's a big compass.",
+        "pl": "To duży kompas.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_EngineRoom_Cane": {
+      "Examine/Exam_Area_EngineRoom_Cane/Section ds0": {
+        "en": "Let's take a look at Gripp's cane.",
+        "pl": "Spójrzmy na laskę Grippa.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_Initial": {
+      "Examine/Exam_Area_EngineRoom_Initial/Section ds0": {
+        "en": "Hello?\n...is anyone there?",
+        "pl": "Halo?\n...jest tam kto?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_Initial/Section ds1": {
+        "en": "[i]I think there's someone in that basket...[/i]",
+        "pl": "[i]Chyba ktoś jest w tym koszu...[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_LockedBoxAlreadySolved": {
+      "Examine/Exam_Area_EngineRoom_LockedBoxAlreadySolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_EngineRoom_LockedBoxEnd": {
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds1": {
+        "en": "Pure conjecture.",
+        "pl": "Czysta spekulacja.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds15": {
+        "en": "Yeah it did, I heard it.",
+        "pl": "Tak, na pewno, słyszałam to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds16": {
+        "en": "Sounded like a box opening.",
+        "pl": "Zabrzmiało jak otwierające się pudełko.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds3": {
+        "en": "Did something unlock?",
+        "pl": "Coś się odblokowało?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxEnd/Section ds4": {
+        "en": "Nope!",
+        "pl": "Nie!",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_LockedBoxStart": {
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds0": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds0 Choice 1": {
+        "en": "Peruse",
+        "pl": "Przejrzyj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds0 Choice 2": {
+        "en": "Do not peruse",
+        "pl": "Nie przeglądaj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds3": {
+        "en": "Please! Peruse at your leisure.",
+        "pl": "Proszę! Przeglądajcie do woli.",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_LockedBoxStart/Section ds5": {
+        "en": "A selection of some of my more [h]unusual[/h] compasses.",
+        "pl": "Wybór niektórych moich bardziej [h]niezwykłych[/h] kompasów.",
+        "speaker": "Gripp"
+      }
+    },
+    "Exam_Area_EngineRoom_MapBoxAlreadySolved": {
+      "Examine/Exam_Area_EngineRoom_MapBoxAlreadySolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_EngineRoom_MapBoxClosed": {
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds1": {
+        "en": "Why? -is it locked?",
+        "pl": "Czemu? -jest zamknięte?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds11": {
+        "en": "What about this box down here?",
+        "pl": "A co z tym pudełkiem tutaj?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds12": {
+        "en": "No need to touch that, thank you!",
+        "pl": "Nie ma potrzeby tego dotykać, dziękuję!",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds14": {
+        "en": "Ah - yes. It's locked.",
+        "pl": "Ach - tak. Jest zamknięte.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds15": {
+        "en": "Leave it alone!",
+        "pl": "Zostawcie to w spokoju!",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxClosed/Section ds16": {
+        "en": "[i]Interesting...[/i]",
+        "pl": "[i]Interesujące...[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_MapBoxOpen": {
+      "Examine/Exam_Area_EngineRoom_MapBoxOpen/Section ds1": {
+        "en": "Too late. Sorry.",
+        "pl": "Za późno. Przepraszam.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxOpen/Section ds11": {
+        "en": "It's open!",
+        "pl": "Jest otwarte!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxOpen/Section ds12": {
+        "en": "That is [h]not[/h] for sale.\nPlease, don't touch it.",
+        "pl": "To [h]nie[/h] jest na sprzedaż.\nProszę, nie dotykajcie tego.",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_MapBoxOpen/Section ds13": {
+        "en": "What is that, some kind of scroll?",
+        "pl": "Co to jest, jakiś zwój?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_basket1": {
+      "Examine/Exam_Area_EngineRoom_basket1/Section ds1": {
+        "en": "No!",
+        "pl": "Nie!",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_basket1/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_basket1/Section ds3": {
+        "en": "Gripp, can we take a look in the basket?",
+        "pl": "Gripp, możemy zajrzeć do kosza?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_basket1/Section ds4": {
+        "en": "Yes!",
+        "pl": "Tak!",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_EngineRoom_basket1/Section ds5": {
+        "en": "Will you be getting [h]out[/h] of the basket?",
+        "pl": "Wyjdziesz [h]z[/h] kosza?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_basket2": {
+      "Examine/Exam_Area_EngineRoom_basket2/Section ds1": {
+        "en": "Mr Gripp's balloon basket.",
+        "pl": "Kosz balonowy Pana Grippa.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_EngineRoom_canvas": {
+      "Examine/Exam_Area_EngineRoom_canvas/Section ds0": {
+        "en": "I think so.\nAnd it's branded with a logo.",
+        "pl": "Chyba tak.\nI jest oznaczony logo.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_canvas/Section ds1": {
+        "en": "...is that the [h]balloon[/h] part of a hot air balloon?",
+        "pl": "...czy to ta [h]balonowa[/h] część balonu na ogrzane powietrze?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_canvas/Section ds2": {
+        "en": "[i]'Mr Gripp's Emporium'[/i]",
+        "pl": "[i]'Emporium Pana Grippa'[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_cog": {
+      "Examine/Exam_Area_EngineRoom_cog/Section ds1": {
+        "en": "[h]Grimoire.[/h]\nWhat did I tell you when we first met?",
+        "pl": "[h]Grimoire.[/h]\nCo ci powiedziałam, gdy się poznaliśmy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_cog/Section ds2": {
+        "en": "[i]That if I ever get stuck in a giant cog, you wouldn't pull me out.[/i]",
+        "pl": "[i]Że jeśli kiedykolwiek utknę w wielkim trybie, nie wyciągniesz mnie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_cog/Section ds4": {
+        "en": "A giant cog!",
+        "pl": "Wielki tryb!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_cog/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_cog/Section ds6": {
+        "en": "Maybe - maybe I should touch it?",
+        "pl": "Może - może powinnam go dotknąć?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_EngineRoom_customers1": {
+      "Examine/Exam_Area_EngineRoom_customers1/Section ds0": {
+        "en": "Who are these guys?",
+        "pl": "Kim są ci faceci?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_customers1/Section ds1": {
+        "en": "Just some of my satisfied customers.",
+        "pl": "Tylko kilku moich zadowolonych klientów.",
+        "speaker": "Gripp"
+      }
+    },
+    "Exam_Area_EngineRoom_customers2": {
+      "Examine/Exam_Area_EngineRoom_customers2/Section ds0": {
+        "en": "Gripp's cardboard customers.",
+        "pl": "Kartonowi klienci Grippa.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_EngineRoom_lamps": {
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds0": {
+        "en": "How many mystery writers does it take to change a lightbulb?",
+        "pl": "Ilu pisarzy kryminałów trzeba, żeby wymienić żarówkę?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds3": {
+        "en": "Two.",
+        "pl": "Dwóch.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds4": {
+        "en": "Nice.",
+        "pl": "Niezłe.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds5": {
+        "en": "One to hold the bulb...",
+        "pl": "Jeden, żeby trzymać żarówkę...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_lamps/Section ds6": {
+        "en": "...and the other to give it an unexpected twist.",
+        "pl": "...a drugi, żeby dać jej nieoczekiwany zwrot akcji.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_machine": {
+      "Examine/Exam_Area_EngineRoom_machine/Section ds0": {
+        "en": "Greasy, rattling, spewing hot steam...",
+        "pl": "Tłusty, grzechoczący, buchający gorącą parą...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_machine/Section ds1": {
+        "en": "Yup. It's an engine.",
+        "pl": "No tak. To silnik.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_machine/Section ds2": {
+        "en": "I thought you were talking about me.",
+        "pl": "Myślałam, że mówisz o mnie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_salesign": {
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds0": {
+        "en": "[i]'Sale on now'[/i]",
+        "pl": "[i]'Wyprzedaż w toku'[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds1": {
+        "en": "Can I buy something with my wages?",
+        "pl": "Mogę kupić coś za moją pensję?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds2": {
+        "en": "We don't get paid until we solve the mystery.",
+        "pl": "Nie dostaniemy zapłaty, dopóki nie rozwiążemy tej zagadki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds3": {
+        "en": "What if we don't solve it?\nDo I still get paid?",
+        "pl": "A co, jeśli jej nie rozwiążemy?\nWciąż dostanę zapłatę?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_salesign/Section ds5": {
+        "en": "Grimoire?",
+        "pl": "Grimoire?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_wheel": {
+      "Examine/Exam_Area_EngineRoom_wheel/Section ds0": {
+        "en": "If I turn [h]this[/h] wheel, you have to turn the other one.",
+        "pl": "Jeśli obrócę [h]to[/h] koło, ty musisz obrócić to drugie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_wheel/Section ds1": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_wheel/Section ds2": {
+        "en": "Because one good turn deserves another.",
+        "pl": "Bo jeden dobry obrót zasługuje na drugi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_wheel/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_EngineRoom_wiggle": {
+      "Examine/Exam_Area_EngineRoom_wiggle/Section ds0": {
+        "en": "What's this bit?",
+        "pl": "Co to za część?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_EngineRoom_wiggle/Section ds1": {
+        "en": "It wiggles.",
+        "pl": "Wierci się.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_wiggle/Section ds4": {
+        "en": "Oh, that's the wiggler.",
+        "pl": "Och, to ten wiercipięta.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_EngineRoom_wiggle/Section ds5": {
+        "en": "What does it it do?",
+        "pl": "A co on robi?",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

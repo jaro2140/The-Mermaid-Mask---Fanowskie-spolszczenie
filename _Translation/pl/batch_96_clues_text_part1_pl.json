@@ -1,0 +1,1235 @@
+{
+  "_meta": {
+    "batch": "Clues/Text - 31 mniejszych przedmiotow (226 terminow z 634 w calej kategorii Clues/Text) - opisy/tresci dokumentow dowodow + towarzyszace linie reakcji postaci. Priorytetowo GoldenLocket i CaretakersJournal (nowy watek: 4 mityczne relikwie Silkwirm + tozsamosc 'Lillian', matki Symmetry). Pozostale wieksze grupy (CellPhone, CaptainsLog, MovieMagazine, SilkwirmMap, ActionFigure, HexoftheHelmsman, NewspaperPage, SeaChart, ZephyrsLetters, CommandContract, Pocketbook, BrokenCompass, InnDeeds, CaseFile, CurseCauldron, MessageinaBottle, FeliciaPainting, IllusionistPoster, ShipinaBottle, FilmProjector, HandheldRadio, HandwrittenLetter, IronBell - razem 408 terminow) zostaja na kolejne partie.",
+    "date": "2026-08-02",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_clues_en.json, kategoria Clues/Text)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "speaker_resolution": "Clues/Text NIE ma pokrycia w speaker_map.json (jak Examine) - kazdy 'Text0' to zawsze narrator/opis-po-znalezieniu (tag 'narrator'), kolejne linie to reakcje postaci przypisane kontekstowo wg charakterystycznego rejestru (archaizmy=Symmetry, formalno-mistyczny=Zephyr, wspolczesny/lużny=Dirk, techniczny slang nurkowy=Tadpole, playful=Gripp). Niepewne przypisania oznaczone '(niepewne)' w polu speaker."
+  },
+  "categories": {
+    "GoldenLocket": {
+      "Clues/Text/GoldenLocket/Text0": {
+        "en": "A heavy golden locket that Symmetry wears around her neck.",
+        "pl": "Ciężki złoty medalion, który Symmetry nosi na szyi.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/GoldenLocket/Text1": {
+        "en": "Sym let you see her locket...?",
+        "pl": "Sym pozwoliła ci zobaczyć swój medalion...?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/GoldenLocket/Text2": {
+        "en": "Looks like gold to me.",
+        "pl": "Dla mnie wygląda jak złoto.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/GoldenLocket/Text3": {
+        "en": "Uh  - it's some kind of family heirloom, I think?",
+        "pl": "Yy... to chyba jakaś rodzinna pamiątka?",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/GoldenLocket/Text4": {
+        "en": "'Lillian's Locket', in the flesh.",
+        "pl": "'Medalion Lillian' we własnej osobie.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/GoldenLocket/Text5": {
+        "en": "T'was my mother’s own, or so I'm told.",
+        "pl": "Był on matki mej, a przynajmniej tak mi rzeczono.",
+        "speaker": "Symmetry"
+      }
+    },
+    "CaretakersJournal": {
+      "Clues/Text/CaretakersJournal/Text0": {
+        "en": "A small booklet found on the bookcase in the Dream Chamber.",
+        "pl": "Mały zeszycik znaleziony na półce z książkami w Komnacie Snów.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text1": {
+        "en": "It is what it says it is. A quarterly journal of listings and enquiries.",
+        "pl": "Jest dokładnie tym, czym się wydaje. Kwartalnym dziennikiem ofert i zapytań.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CaretakersJournal/Text10": {
+        "en": "Desperately coveted by those who believe, and disdained by those who don't.",
+        "pl": "Rozpaczliwie pożądany przez wierzących, gardzony przez niewierzących.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/CaretakersJournal/Text11": {
+        "en": "Hm, they say it allows humans to commune directly with God, while they're still alive.",
+        "pl": "Hm, podobno pozwala ludziom obcować bezpośrednio z Bogiem, jeszcze za życia.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/CaretakersJournal/Text12": {
+        "en": "She Who Lies Beyond The Veil, God, Other Dimensions, Aliens, The Afterlife...",
+        "pl": "Ta, Która Leży Poza Zasłoną, Bóg, Inne Wymiary, Kosmici, Zaświaty...",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/CaretakersJournal/Text13": {
+        "en": "You know, it varies. But the sentiment is the same.",
+        "pl": "Wiesz, to zależy. Ale sens pozostaje ten sam.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/CaretakersJournal/Text14": {
+        "en": "I wonder if it may not even be real. After all, there isn't even a photograph - that's just a drawing.",
+        "pl": "Zastanawiam się, czy to w ogóle prawdziwe. W końcu nie ma nawet zdjęcia - to tylko rysunek.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CaretakersJournal/Text15": {
+        "en": "LILLIAN'S LOCKET",
+        "pl": "MEDALION LILLIAN",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text16": {
+        "en": "SILVERSNAKE SKULL",
+        "pl": "CZASZKA SREBRNEGO WĘŻA",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text17": {
+        "en": "HIS GOLDEN PALM",
+        "pl": "JEGO ZŁOTA DŁOŃ",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text18": {
+        "en": "THE MERMAID'S TONGUE",
+        "pl": "JĘZYK SYRENY",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text19": {
+        "en": "CARETAKERS\nCOLLECTIVE\n\nQUARTERLY JOURNAL\nLISTINGS & ENQUIRIES",
+        "pl": "KOLEKTYW\nDOZORCÓW\n\nKWARTALNY DZIENNIK\nOFERT I ZAPYTAŃ",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text2": {
+        "en": "That face! M-mine eye but chanced upon it. Nothing more.",
+        "pl": "Ta twarz! Me oko ledwie na nią spojrzało. Nic ponadto.",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/CaretakersJournal/Text20": {
+        "en": "LILLIAN'S LOCKET\n\nLillian Lucian was a Witch of some infamy before her untimely end at the hands of a curse.\n\nSome say the locket protects from curses, others suggest it absorbs them, imbibing their power.\n\n9oz",
+        "pl": "MEDALION LILLIAN\n\nLillian Lucian była Czarownicą o pewnej złej sławie, zanim spotkał ją przedwczesny koniec z rąk klątwy.\n\nJedni mówią, że medalion chroni przed klątwami, inni sugerują, że je pochłania, wchłaniając ich moc.\n\n9 oz",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text21": {
+        "en": "SILVERSNAKE SKULL\n\nThe disembodied skull of the mysterious Silkwirm Serpent. Notably, it has no eye sockets.\n\nUse discretion, as several high quality fakes are in circulation.\n\n17oz",
+        "pl": "CZASZKA SREBRNEGO WĘŻA\n\nOderwana czaszka tajemniczego Węża z Silkwirm. Co ciekawe, nie ma oczodołów.\n\nZachowaj ostrożność - w obiegu krąży kilka wysokiej jakości podróbek.\n\n17 oz",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text22": {
+        "en": "HIS GOLDEN PALM\n\nMade from an unknown material 90% similar to Gold.\n\nThe hand is said to be able to touch ghosts.\n\n23oz",
+        "pl": "JEGO ZŁOTA DŁOŃ\n\nWykonana z nieznanego materiału w 90% podobnego do złota.\n\nPodobno ta dłoń potrafi dotykać duchów.\n\n23 oz",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text23": {
+        "en": "THE MERMAID'S TONGUE\n\nSaid to facilitate communication with\nShe Who Lies Beyond The Veil.\n\nRequires a special key to operate.\nBoth the key and the Mermaid's Tongue itself are rumored to be lost at sea.\n\nNAME YOUR PRICE",
+        "pl": "JĘZYK SYRENY\n\nPodobno ułatwia komunikację z\nTą, Która Leży Poza Zasłoną.\n\nDo działania wymaga specjalnego kluczyka.\nMówi się, że zarówno kluczyk, jak i sam Język Syreny, zaginęły na morzu.\n\nPODAJ SWOJĄ CENĘ",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaretakersJournal/Text3": {
+        "en": "I didn't know she - I didn't know it had a name.",
+        "pl": "Nie wiedziałam, że ona... nie wiedziałam, że to ma imię.",
+        "speaker": "Sinthia (niepewne)"
+      },
+      "Clues/Text/CaretakersJournal/Text4": {
+        "en": "Page 2 information about the clue.\nIt can be one or two lines.",
+        "pl": "Informacje na stronie 2 o dowodzie.\nMoże to być jedna lub dwie linijki.",
+        "speaker": "narrator (placeholder deweloperski?)"
+      },
+      "Clues/Text/CaretakersJournal/Text5": {
+        "en": "Information about the clue.\nIt can be one or two lines.",
+        "pl": "Informacje o dowodzie.\nMoże to być jedna lub dwie linijki.",
+        "speaker": "narrator (placeholder deweloperski?)"
+      },
+      "Clues/Text/CaretakersJournal/Text6": {
+        "en": "Well, I know it's a big sea serpent that my mom and her best friend fished outta the ocean.",
+        "pl": "Cóż, wiem tylko, że to wielki wąż morski, którego moja mama i jej najlepsza przyjaciółka wyłowiły z oceanu.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/CaretakersJournal/Text7": {
+        "en": "Eventually some men came and took it away.",
+        "pl": "W końcu przyszli jacyś mężczyźni i go zabrali.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/CaretakersJournal/Text8": {
+        "en": "I've seen it - and so have you. It's attached to Dr Zephyr's left wrist.",
+        "pl": "Widziałem to - ty też. Jest przyczepione do lewego nadgarstka Doktora Zephyra.",
+        "speaker": "Grimoire (niepewne)"
+      },
+      "Clues/Text/CaretakersJournal/Text9": {
+        "en": "Likely the most contentious item ever to be listed in the Journal.",
+        "pl": "Prawdopodobnie najbardziej kontrowersyjny przedmiot, jaki kiedykolwiek trafił do tego dziennika.",
+        "speaker": "Grimoire"
+      }
+    },
+    "DivingLicense": {
+      "Clues/Text/DivingLicense/Text0": {
+        "en": "A license card that's been cut in half and taped back together. It was found in the bilge.",
+        "pl": "Karta licencyjna przecięta na pół i skleiona taśmą z powrotem. Znaleziona w Zęzie.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/DivingLicense/Text1": {
+        "en": "Hey, wow. Uh, did Tadpole give you that?",
+        "pl": "Hej, wow. Yy, to Tadpole ci to dała?",
+        "speaker": "Dirk (niepewne)"
+      },
+      "Clues/Text/DivingLicense/Text2": {
+        "en": "And yet I feel like I recognise the handwriting...",
+        "pl": "A jednak wydaje mi się, że rozpoznaję to pismo...",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/DivingLicense/Text3": {
+        "en": "Ugh, they'd never let me in. I can barely even swim.",
+        "pl": "Uh, nigdy by mnie tam nie wpuścili. Ledwo umiem pływać.",
+        "speaker": "Dirk (niepewne)"
+      },
+      "Clues/Text/DivingLicense/Text4": {
+        "en": "She probably did it to reduce drag, you know - like an aerodynamics thing.",
+        "pl": "Pewnie zrobiła to, żeby zmniejszyć opór - taka sprawa aerodynamiczna.",
+        "speaker": "Sinthia (niepewne)"
+      },
+      "Clues/Text/DivingLicense/Text5": {
+        "en": "Tanya Tap-dole... Ah. I see what you did there.",
+        "pl": "Tanya Tap-dole... Ach. Widzę, co tu zrobiono.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/DivingLicense/Text6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Clues/Text/DivingLicense/Text7": {
+        "en": "OCEAN RESCUE\nDIVERS ASSOCIATION\n\n\nORDA",
+        "pl": "STOWARZYSZENIE NURKÓW\nRATOWNICTWA OCEANICZNEGO\n\n\nSNRO",
+        "speaker": "narrator"
+      },
+      "Clues/Text/DivingLicense/Text8": {
+        "en": "Diver No. 0852437\nTANYA TAPDOLE\n\nSpecialist:\nFree Diving        Reduced Visibility\nDeep Diving        High Pressure\n\nTanya Tapdole\n\nOCEAN RESCUE DIVERS ASSOCIATION",
+        "pl": "Nurek nr 0852437\nTANYA TAPDOLE\n\nSpecjalizacja:\nNurkowanie swobodne        Ograniczona widoczność\nNurkowanie głębokie        Wysokie ciśnienie\n\nTanya Tapdole\n\nSTOWARZYSZENIE NURKÓW RATOWNICTWA OCEANICZNEGO",
+        "speaker": "narrator"
+      }
+    },
+    "FogBall": {
+      "Clues/Text/FogBall/Face": {
+        "en": "FACE",
+        "pl": "TWARZ",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FogBall/Fog": {
+        "en": "FOG",
+        "pl": "MGŁA",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FogBall/Text0": {
+        "en": "A strange glass ball found in the Dream Chamber. Something is swirling around inside of it.",
+        "pl": "Dziwna szklana kula znaleziona w Komnacie Snów. Coś wiruje w jej wnętrzu.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FogBall/Text1": {
+        "en": "That belongs to Sym, I'm pretty sure.",
+        "pl": "To chyba należy do Sym, jestem tego prawie pewna.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/FogBall/Text2": {
+        "en": "Well… thou may’st use it... to speak with Gregory.",
+        "pl": "Cóż... możesz jej użyć... by przemówić do Gregory'ego.",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/FogBall/Text3": {
+        "en": "Whispering questions into the 'great unseen beyond', hoping without hope to get a response.",
+        "pl": "Szepcząc pytania w 'wielką niewidzialną otchłań', z nadzieją wbrew nadziei na odpowiedź.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FogBall/Text4": {
+        "en": "...if I'm not mistaken, this little part at the front is actually a microphone.",
+        "pl": "...o ile się nie mylę, ta mała część z przodu to w rzeczywistości mikrofon.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/FogBall/Text5": {
+        "en": "It is on loan - from Miss Silkmoth. Indeed, it is a divining orb - of a sort.",
+        "pl": "Mam ją w depozycie - od panny Silkmoth. Istotnie, to kula wróżebna - swego rodzaju.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/FogBall/Text6": {
+        "en": "-what's this weird little antenna thing?",
+        "pl": "-co to za dziwna, mała antenka?",
+        "speaker": "Sally"
+      }
+    },
+    "ModelTown": {
+      "Clues/Text/ModelTown/Text0": {
+        "en": "A hand-made model town found in the captain's quarters.",
+        "pl": "Ręcznie wykonana makieta miasteczka znaleziona w Kwaterze Kapitańskiej.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/ModelTown/Text1": {
+        "en": "A quaint little pretense of Silkwirm-on-sea, as beheld in the mind's eye of one Magnus Mortuga.",
+        "pl": "Urocza, mała namiastka Silkwirm nad Morzem, taka, jaką w oczach wyobraźni widział niejaki Magnus Mortuga.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/ModelTown/Text2": {
+        "en": "I believe this is supposed to be Silkwirm's Governor - a man named Faustus Fellow.",
+        "pl": "Wydaje mi się, że to ma przedstawiać Gubernatora Silkwirm - człowieka imieniem Faustus Fellow.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/ModelTown/Text3": {
+        "en": "It basically only shows the buildings and people that were relevant to him.",
+        "pl": "W zasadzie pokazuje tylko budynki i ludzi, którzy byli dla niego ważni.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/ModelTown/Text4": {
+        "en": "That's my mom, standing in the harbor... and that's my dad, standing under the lighthouse.",
+        "pl": "To moja mama, stoi w porcie... a to mój tata, stoi pod latarnią morską.",
+        "speaker": "niepewne, patrz VERIFICATION_QUEUE"
+      },
+      "Clues/Text/ModelTown/Text5": {
+        "en": "Oh! That's my house! Right there. Yeah - the theatre, where I lived.",
+        "pl": "Och! To mój dom! Właśnie tam. Tak - teatr, w którym mieszkałam.",
+        "speaker": "niepewne, patrz VERIFICATION_QUEUE"
+      },
+      "Clues/Text/ModelTown/Text6": {
+        "en": "Hang on... is that my father?",
+        "pl": "Chwila... czy to mój ojciec?",
+        "speaker": "niepewne, patrz VERIFICATION_QUEUE"
+      },
+      "Clues/Text/ModelTown/Text7": {
+        "en": "The lighthouse opened up. There was a film reel hidden inside.",
+        "pl": "Latarnia się otworzyła. W środku była ukryta szpula filmowa.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/ModelTown/Text8": {
+        "en": "Let's see if we can find a way to watch that film...",
+        "pl": "Zobaczmy, czy uda nam się znaleźć sposób, żeby obejrzeć ten film...",
+        "speaker": "Sally"
+      }
+    },
+    "RaggedCloth": {
+      "Clues/Text/RaggedCloth/Text0": {
+        "en": "A ragged square of thick sailcloth found hanging up on the wall in the Illusion Theatre.",
+        "pl": "Postrzępiony kwadrat grubego żaglowego płótna, znaleziony powieszony na ścianie w Teatrze Iluzji.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/RaggedCloth/Text1": {
+        "en": "Footprints have been marked in the centre of a circular imprint.",
+        "pl": "Na środku widać ślady stóp odciśnięte w kolistym wgłębieniu.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/RaggedCloth/Text2": {
+        "en": "Someone has painted the words\n'THE STARGAZING GIRL'",
+        "pl": "Ktoś namalował na nim słowa\n'DZIEWCZYNA PATRZĄCA W GWIAZDY'",
+        "speaker": "narrator"
+      },
+      "Clues/Text/RaggedCloth/Text3": {
+        "en": "Why would a submarine need a sail??",
+        "pl": "Po co łodzi podwodnej żagiel??",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/RaggedCloth/Text4": {
+        "en": "It's the cloth that Magnus used to cover the cauldron.",
+        "pl": "To płótno, którym Magnus zakrywał kocioł.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/RaggedCloth/Text5": {
+        "en": "H-how should I know?",
+        "pl": "S-skąd mam wiedzieć?",
+        "speaker": "Sinthia (niepewne)"
+      },
+      "Clues/Text/RaggedCloth/Text6": {
+        "en": "No, Sym didn't tell me the details.",
+        "pl": "Nie, Sym nie zdradziła mi szczegółów.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/RaggedCloth/Text7": {
+        "en": "She didn't want to, for some reason. She seemed to regret the whole thing.",
+        "pl": "Z jakiegoś powodu nie chciała. Wyglądało na to, że żałuje całej tej sprawy.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/RaggedCloth/Text8": {
+        "en": "THE\nSTARGAZING\nGIRL",
+        "pl": "DZIEWCZYNA\nPATRZĄCA\nW GWIAZDY",
+        "speaker": "narrator"
+      }
+    },
+    "UnderwaterPhoto": {
+      "Clues/Text/UnderwaterPhoto/Text0": {
+        "en": "It was hidden in Symmetry and Sinthia's bunk room.",
+        "pl": "Było ukryte w kajucie sypialnej Symmetry i Sinthii.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/UnderwaterPhoto/Text1": {
+        "en": "Sinthia took it using the submarine's underwater imaging system.",
+        "pl": "Sinthia zrobiła je za pomocą systemu obrazowania podwodnego łodzi.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/UnderwaterPhoto/Text2": {
+        "en": "I guess we can start by asking Sym and Sinthia about it.",
+        "pl": "Chyba możemy zacząć od zapytania o to Sym i Sinthii.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/UnderwaterPhoto/Text3": {
+        "en": "I wish I hadn't done it. I put it in the safe so I wouldn't have to think about it.",
+        "pl": "Żałuję, że to zrobiłam. Schowałam je do sejfu, żeby nie musieć o tym myśleć.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/UnderwaterPhoto/Text4": {
+        "en": "The face from the aether... it must be...",
+        "pl": "Ta twarz z eteru... to musi być...",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/UnderwaterPhoto/Text5": {
+        "en": "I've never seen her with my eyes. I've only ever heard her voice.",
+        "pl": "Nigdy nie widziałam jej na własne oczy. Zawsze tylko słyszałam jej głos.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/UnderwaterPhoto/Text6": {
+        "en": "She's probably still out there...",
+        "pl": "Pewnie wciąż gdzieś tam jest...",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/UnderwaterPhoto/Text7": {
+        "en": "Doesn't look like any face I've ever seen.",
+        "pl": "Nie wygląda jak żadna twarz, jaką kiedykolwiek widziałem.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/UnderwaterPhoto/Text8": {
+        "en": "No, well... perhaps you ought to count yourself lucky.",
+        "pl": "Nie, cóż... może powinnaś uznać się za szczęściarę.",
+        "speaker": "Sinthia"
+      }
+    },
+    "BlackBox": {
+      "Clues/Text/BlackBox/Text0": {
+        "en": "An old wooden box that won't open. It was laying on the bed in the Captain's Quarters.",
+        "pl": "Stara drewniana skrzynka, która nie chce się otworzyć. Leżała na łóżku w Kwaterze Kapitańskiej.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BlackBox/Text1": {
+        "en": "...did you open it? Have you tried pushing the diamond thingy? Perhaps you need a key?",
+        "pl": "...otworzyłeś ją? Próbowałeś nacisnąć tę rzecz w kształcie diamentu? Może potrzeba klucza?",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/BlackBox/Text2": {
+        "en": "I cannot turn mine eyes, what lies within!? Surely some solemn secret, dark and dreadful.",
+        "pl": "Nie mogę oderwać mych oczu - cóż w niej leży!? Zaiste, jakaś ponura tajemnica, mroczna i straszliwa.",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/BlackBox/Text3": {
+        "en": "S'far as I know, that box is a very recent addition to the submarine.",
+        "pl": "O ile wiem, ta skrzynka to bardzo niedawny nabytek na tej łodzi.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/BlackBox/Text4": {
+        "en": "I think it may have been the catalyst that lead to Mortuga's murder.",
+        "pl": "Myślę, że mogła być katalizatorem, który doprowadził do morderstwa Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/BlackBox/Text5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Clues/Text/BlackBox/Text6": {
+        "en": "The box opens by sliding a drawer out the side.",
+        "pl": "Skrzynka otwiera się przez wysunięcie szuflady z boku.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BlackBox/Text7": {
+        "en": "Inside were three objects; a rusty film reel, a ripped scroll and a black-edged envelope.",
+        "pl": "W środku znajdowały się trzy przedmioty: zardzewiała szpula filmowa, podarty zwój i koperta obwiedziona czernią.",
+        "speaker": "narrator"
+      }
+    },
+    "CorneliusCane": {
+      "Clues/Text/CorneliusCane/Remove": {
+        "en": "REMOVE",
+        "pl": "USUŃ",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CorneliusCane/Text0": {
+        "en": "A wooden cane used by Godrik Gripp.",
+        "pl": "Drewniana laska używana przez Godrika Grippa.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CorneliusCane/Text1": {
+        "en": "Why bother with the - the cane, and the whole persona?",
+        "pl": "Po co zawracać sobie głowę tą... laską i całą tą maskaradą?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CorneliusCane/Text2": {
+        "en": "To him , it may be a wooden stick of great thunderous importance.",
+        "pl": "Dla niego to może być drewniany kij o wielkiej, doniosłej wadze.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/CorneliusCane/Text3": {
+        "en": "I'm sure I saw a picture of this recently... but it looked different.",
+        "pl": "Jestem pewien, że widziałem ostatnio jej zdjęcie... ale wyglądała inaczej.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CorneliusCane/Text4": {
+        "en": "...the wood itself - it's mahogany, but it smells of salty ocean air...",
+        "pl": "...samo drewno - to mahoń, ale pachnie słonym morskim powietrzem...",
+        "speaker": "Sally"
+      },
+      "Clues/Text/CorneliusCane/Text5": {
+        "en": "If you watch Gripp closely, he holds it tighter whenever he gets sad or nervous.",
+        "pl": "Jeśli uważnie obserwujesz Grippa, zauważysz, że ściska ją mocniej, gdy jest smutny albo zdenerwowany.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CorneliusCane/Text6": {
+        "en": "It may transpire that the true meaning of the cane is found in its unsinkability.",
+        "pl": "Może się okazać, że prawdziwe znaczenie laski tkwi w tym, że nie da się jej zatopić.",
+        "speaker": "Sally"
+      }
+    },
+    "DreamHelmet": {
+      "Clues/Text/DreamHelmet/Text0": {
+        "en": "A peculiar piece of equipment found in Dr Zephyr's Dream Chamber.",
+        "pl": "Osobliwe urządzenie znalezione w Komnacie Snów Doktora Zephyra.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/DreamHelmet/Text1": {
+        "en": "A large brass funnel is attached to the top of a pair of leather goggles. ",
+        "pl": "Duży mosiężny lejek jest przymocowany do wierzchu pary skórzanych gogli.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/DreamHelmet/Text2": {
+        "en": "Curiously, the goggles are fully opaque - you can't see anything while you're wearing them.",
+        "pl": "Co ciekawe, gogle są całkowicie nieprzezroczyste - nie widać przez nie zupełnie nic.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/DreamHelmet/Text3": {
+        "en": "This pattern looks like a bit like a dreamcatcher.",
+        "pl": "Ten wzór trochę przypomina łapacz snów.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/DreamHelmet/Text4": {
+        "en": "In fact, I'm pretty sure he measured Mortuga's head to get the shape right.",
+        "pl": "Właściwie jestem prawie pewien, że zmierzył głowę Mortugi, żeby dopasować kształt.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/DreamHelmet/Text5": {
+        "en": "I'm getting wind-battered mahogany... ice cold sea spray... and mostly-melted candlewax.",
+        "pl": "Wyczuwam smagany wiatrem mahoń... lodowato zimną morską mgiełkę... i w większości stopiony wosk świecy.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/DreamHelmet/Text6": {
+        "en": "It is an energy filter.",
+        "pl": "To filtr energii.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/DreamHelmet/Text7": {
+        "en": "To study the transmission, it is first necessary to change the format of the energy signature.",
+        "pl": "By zbadać transmisję, należy najpierw zmienić format sygnatury energetycznej.",
+        "speaker": "Zephyr"
+      }
+    },
+    "FamilyPhoto": {
+      "Clues/Text/FamilyPhoto/Text0": {
+        "en": "A framed photograph found in Symmetry and Sinthia's bunk room.",
+        "pl": "Oprawione zdjęcie znalezione w kajucie sypialnej Symmetry i Sinthii.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FamilyPhoto/Text1": {
+        "en": "-is that Sinthia's mom?? That jacket is something else!",
+        "pl": "-to mama Sinthii?? Ależ ten płaszcz robi wrażenie!",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/FamilyPhoto/Text2": {
+        "en": "That man on the right - that's Don Drummond, the shipyard mechanic.",
+        "pl": "Ten mężczyzna po prawej - to Don Drummond, mechanik ze stoczni.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/FamilyPhoto/Text3": {
+        "en": "She was super ambitious, always making plans - my dad could barely keep up.",
+        "pl": "Była bardzo ambitna, zawsze coś planowała - mój tata ledwo za nią nadążał.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/FamilyPhoto/Text4": {
+        "en": "A submarine constructed by the harbormaster and the shipyard mechanic.",
+        "pl": "Łódź podwodna skonstruowana przez kapitan portu i mechanika stoczniowego.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/FamilyPhoto/Text5": {
+        "en": "A sorry-sorrow'd tale has she, for never fully wrought.",
+        "pl": "Smutną-smuconą powieść ma ona, wszak nigdy w pełni niedokończoną.",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/FamilyPhoto/Text6": {
+        "en": "There it is - on the left hand side, in the big tank of water. I think it's the reason they built the submarine.\n",
+        "pl": "O, jest - po lewej stronie, w wielkim zbiorniku z wodą. Myślę, że to właśnie dla niego zbudowali tę łódź podwodną.\n",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/FamilyPhoto/Text7": {
+        "en": "So Sylvia made a plan to go and live in a submarine, and take the Silversnake with her.",
+        "pl": "Więc Sylvia postanowiła zamieszkać w łodzi podwodnej i zabrać ze sobą Srebrnego Węża.",
+        "speaker": "Sinthia"
+      }
+    },
+    "GlassEyeball": {
+      "Clues/Text/GlassEyeball/Text0": {
+        "en": "A strange glass eye found in the Child's Room. ",
+        "pl": "Dziwne szklane oko znalezione w Pokoju Dziecięcym.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/GlassEyeball/Text1": {
+        "en": "It smells musty and unpleasant.",
+        "pl": "Pachnie stęchlizną, nieprzyjemnie.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/GlassEyeball/Text2": {
+        "en": "Um... in the Parlor, on the floor.",
+        "pl": "Yy... w Salonie, na podłodze.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/GlassEyeball/Text3": {
+        "en": "What I do know, is that it belonged to Mortuga.",
+        "pl": "Co wiem na pewno, to że należało do Mortugi.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/GlassEyeball/Text4": {
+        "en": "Perhaps it came from the ocean - have you asked Madam Tadpole about it?",
+        "pl": "Może pochodzi z oceanu - pytałeś już o nie Madam Tadpole?",
+        "speaker": "Sally"
+      },
+      "Clues/Text/GlassEyeball/Text5": {
+        "en": "I imagine, at some point, Sinthia will assume use of the captain's cabin?",
+        "pl": "Wyobrażam sobie, że w pewnym momencie Sinthia przejmie gabinet kapitana?",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/GlassEyeball/Text6": {
+        "en": "It's Magnus's key. It unlocks his cabin.",
+        "pl": "To klucz Magnusa. Otwiera jego gabinet.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/GlassEyeball/Text7": {
+        "en": "Eyeball Key",
+        "pl": "Kluczyk w kształcie Oka",
+        "speaker": "narrator"
+      }
+    },
+    "HexBottle": {
+      "Clues/Text/HexBottle/Asleep": {
+        "en": "ASLEEP",
+        "pl": "ŚPI",
+        "speaker": "narrator"
+      },
+      "Clues/Text/HexBottle/Text0": {
+        "en": "A glass bottle with a strange object floating inside.\nIt was found in the Dream Chamber.",
+        "pl": "Szklana butelka z dziwnym przedmiotem unoszącym się w środku.\nZnaleziona w Komnacie Snów.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/HexBottle/Text1": {
+        "en": "A subtle floral smell is gently emanating from within the bottle.",
+        "pl": "Z wnętrza butelki delikatnie unosi się subtelny kwiatowy zapach.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/HexBottle/Text2": {
+        "en": "It is a glass container with a Hex inside.",
+        "pl": "To szklany pojemnik z Hexem w środku.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/HexBottle/Text3": {
+        "en": "Whatever it is, he dumps it into the ocean every single night.",
+        "pl": "Cokolwiek to jest, wylewa to do oceanu każdej nocy.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/HexBottle/Text4": {
+        "en": "Hush! Speaketh soft!",
+        "pl": "Cyt! Mów ciszej!",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/HexBottle/Text5": {
+        "en": "There's some kind of pattern... it almost looks pictoral...",
+        "pl": "Jest tu jakiś wzór... wygląda niemal jak obrazek...",
+        "speaker": "Sally"
+      },
+      "Clues/Text/HexBottle/Text6": {
+        "en": "Valerian, skullcap and chamomile.",
+        "pl": "Waleriana, tarczyca i rumianek.",
+        "speaker": "Zephyr"
+      }
+    },
+    "MermaidPainting": {
+      "Clues/Text/MermaidPainting/Text0": {
+        "en": "A large painting of some unknown being.\nIt's set in an ornate wooden frame.",
+        "pl": "Duży obraz przedstawiający nieznaną istotę.\nOsadzony w zdobionej drewnianej ramie.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MermaidPainting/Text1": {
+        "en": "The brass plaque displays a single word: 'HER'.\nUnusually, it has been set directly onto the painting.",
+        "pl": "Mosiężna tabliczka pokazuje jedno słowo: 'ONA'.\nNietypowo, została umieszczona bezpośrednio na obrazie.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MermaidPainting/Text2": {
+        "en": "There's something hiding in the water. Something big.",
+        "pl": "Coś się kryje w wodzie. Coś wielkiego.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/MermaidPainting/Text3": {
+        "en": "Stories alluding to such a being were the reason I traveled to Silkwirm in the first place.",
+        "pl": "Opowieści nawiązujące do takiej istoty były właśnie powodem, dla którego w ogóle przyjechałam do Silkwirm.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/MermaidPainting/Text4": {
+        "en": "I'm pretty sure it's out there. Maybe even right now.",
+        "pl": "Jestem prawie pewna, że ona tam jest. Może nawet właśnie teraz.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/MermaidPainting/Text5": {
+        "en": "It's just... unnerving. It's making some of the crew uncomfortable.",
+        "pl": "To po prostu... niepokojące. Część załogi czuje się przez to nieswojo.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/MermaidPainting/Text6": {
+        "en": "Her flicker-flame doth draw me in, and I am merest moth.",
+        "pl": "Jej migotliwy płomień mnie przyciąga, a jam ledwie ćmą.",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/MermaidPainting/Text7": {
+        "en": "I wouldn't lose sleep over it if I were you.",
+        "pl": "Na twoim miejscu nie traciłbym przez to snu.",
+        "speaker": "Gripp"
+      }
+    },
+    "MoonVial": {
+      "Clues/Text/MoonVial/Text0": {
+        "en": "A small glass bottle found smashed on the floor in the Illusion Theatre.",
+        "pl": "Mała szklana buteleczka znaleziona rozbita na podłodze w Teatrze Iluzji.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MoonVial/Text1": {
+        "en": "The spilled purple liquid has a subtle botanical scent.",
+        "pl": "Rozlany fioletowy płyn ma subtelny, ziołowy zapach.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MoonVial/Text2": {
+        "en": "The small paper label is marked with a simple picture of a moon.",
+        "pl": "Mała papierowa etykieta oznaczona jest prostym rysunkiem księżyca.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MoonVial/Text3": {
+        "en": "If it wasn't dropped by Mortuga... perhaps it was dropped by the culprit?",
+        "pl": "Jeśli nie upuścił jej Mortuga... może upuścił ją sprawca?",
+        "speaker": "Sally"
+      },
+      "Clues/Text/MoonVial/Text4": {
+        "en": "It's not my place to muse upon the things in Chamber Dream!",
+        "pl": "Nie moje to miejsce, bym rozmyślała nad rzeczami z Komnaty Snów!",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/MoonVial/Text5": {
+        "en": "It's a... herbal compound of some kind. Valerian, skullcap, chamomile... and seawater.",
+        "pl": "To... jakiś związek ziołowy. Waleriana, tarczyca, rumianek... i woda morska.",
+        "speaker": "Zephyr"
+      },
+      "Clues/Text/MoonVial/Text6": {
+        "en": "Hmm - I suppose it could be a sleep aid. Like a mild sedative?",
+        "pl": "Hmm - przypuszczam, że to może być środek nasenny. Coś jak łagodny środek uspokajający?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/MoonVial/Text7": {
+        "en": "Of course, I do concede that I have many similar bottles here in my Dream chamber...",
+        "pl": "Oczywiście, przyznaję, że mam tu, w mojej Komnacie Snów, wiele podobnych buteleczek...",
+        "speaker": "Zephyr"
+      }
+    },
+    "ShipsWheel": {
+      "Clues/Text/ShipsWheel/Text0": {
+        "en": "A ship's wheel found in the control room.",
+        "pl": "Koło sterowe znalezione w Sterowni.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/ShipsWheel/Text1": {
+        "en": "I got to steer a big wheel like this in my movie. Mine didn't have that red metal bit, though.",
+        "pl": "W moim filmie mogłem sterować takim wielkim kołem. Moje nie miało jednak tej czerwonej metalowej części.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/ShipsWheel/Text2": {
+        "en": "Also mine was up on the aft deck, not, you know, indoors in a control room.",
+        "pl": "A poza tym moje było na Pokładzie Rufowym, a nie, no wiesz, w środku, w jakiejś sterowni.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/ShipsWheel/Text3": {
+        "en": "The big wooden one's for steering left and right. The smaller one's for diving and surfacing.",
+        "pl": "To duże, drewniane jest do sterowania w lewo i w prawo. To mniejsze - do zanurzania i wynurzania.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/ShipsWheel/Text4": {
+        "en": "Magnus used to let me steer. He even taught me how to do it.",
+        "pl": "Magnus czasem pozwalał mi sterować. Nawet mnie tego nauczył.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/ShipsWheel/Text5": {
+        "en": "The thicker wood is mahogany - very old mahogany.",
+        "pl": "Grubsze drewno to mahoń - bardzo stary mahoń.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/ShipsWheel/Text6": {
+        "en": "Somebody skimped on the repairs, huh?",
+        "pl": "Ktoś oszczędzał na naprawach, co?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/ShipsWheel/Text7": {
+        "en": "It looks in working order to me...?",
+        "pl": "Dla mnie wygląda na sprawne...?",
+        "speaker": "Sally"
+      }
+    },
+    "WoodenBuoy": {
+      "Clues/Text/WoodenBuoy/Text0": {
+        "en": "It's chained to the deck of the Mortuga Submarine.",
+        "pl": "Przykuta łańcuchem do pokładu Łodzi Podwodnej Mortuga.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/WoodenBuoy/Text1": {
+        "en": "There's a faint green glow in its eyes.",
+        "pl": "W jej oczach widać słaby, zielony blask.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/WoodenBuoy/Text2": {
+        "en": "A big green light shines out of his eyes sometimes.",
+        "pl": "Czasem z jego oczu bije wielkie, zielone światło.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/WoodenBuoy/Text3": {
+        "en": "Magnus wouldn't bring this inside the submarine... but he didn't seem to want to get rid of it either.",
+        "pl": "Magnus nie chciał wnieść jej do środka łodzi... ale nie wyglądało też na to, że chce się jej pozbyć.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/WoodenBuoy/Text4": {
+        "en": "To me it sits right alongside that iron bell  in his office and that stone cauldron in the store room...",
+        "pl": "Dla mnie pasuje ona do tego żelaznego dzwonu w jego gabinecie i tego kamiennego kotła w magazynie...",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/WoodenBuoy/Text5": {
+        "en": "Together they form Mortuga's collection of inexplicably cursed-looking nautical artifacts.",
+        "pl": "Razem tworzą kolekcję Mortugi - morskich artefaktów, które w niewytłumaczalny sposób wyglądają na przeklęte.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/WoodenBuoy/Text6": {
+        "en": "You know, for some time now I've heard stories of sailors seeing a green light in the ocean at night...",
+        "pl": "Wiesz, od jakiegoś czasu słyszę opowieści marynarzy, którzy widzieli nocą w oceanie zielone światło...",
+        "speaker": "Tadpole"
+      },
+      "Clues/Text/WoodenBuoy/Text7": {
+        "en": "Problem is, several of the stories predate the Mortuga Submarine.",
+        "pl": "Problem w tym, że kilka z tych opowieści jest starszych niż Łódź Podwodna Mortuga.",
+        "speaker": "Tadpole"
+      }
+    },
+    "WoodenPipe": {
+      "Clues/Text/WoodenPipe/Text0": {
+        "en": "Mariana Moon's wooden pipe.",
+        "pl": "Drewniana fajka Mariany Moon.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/WoodenPipe/Text1": {
+        "en": "It's not a pipe at all! It's a secret dictaphone!",
+        "pl": "To wcale nie jest fajka! To tajny dyktafon!",
+        "speaker": "Sally"
+      },
+      "Clues/Text/WoodenPipe/Text2": {
+        "en": "Tut at me all you like, but you can't deny the value of hard evidence.",
+        "pl": "Możesz sobie na mnie prychać ile chcesz, ale nie zaprzeczysz wartości twardych dowodów.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/WoodenPipe/Text3": {
+        "en": "-is Ms. Moon some sort of covert operative?",
+        "pl": "-czy panna Moon jest jakąś tajną agentką?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/WoodenPipe/Text4": {
+        "en": "I think she's just nosey.",
+        "pl": "Myślę, że po prostu jest wścibska.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/WoodenPipe/Text5": {
+        "en": "Looks like the tape can swap out...\nSo maybe there are other tapes.",
+        "pl": "Wygląda na to, że taśmę da się wymienić...\nWięc może istnieją inne taśmy.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/WoodenPipe/Text6": {
+        "en": "A long tobacco pipe belonging to Mariana Moon. It is secretly a dictaphone.\n\nFrom a distance, it looks like a normal brown tobacco pipe, like one that JRR Tolkein would have.\n\nUpon closer inspection, it has a few buttons concealed on it. I think the speaker/microphone would be in the well of the pipe - so you'd not normally be able to see the speaker holes. I think the primary 'button' to hold to record sound is on the mouthpiece - meaning you can innocently hold it in your mouth to secretly record what's being said in the room.\n",
+        "pl": "Długa fajka do tytoniu należąca do Mariany Moon. W tajemnicy jest dyktafonem.\n\nZ daleka wygląda jak zwykła, brązowa fajka do tytoniu, taka, jaką mógłby mieć J.R.R. Tolkien.\n\nPo bliższych oględzinach widać na niej kilka ukrytych przycisków. Wydaje się, że głośnik/mikrofon znajduje się w główce fajki - więc normalnie nie widać otworów głośnika. Główny 'przycisk' do przytrzymania podczas nagrywania dźwięku znajduje się chyba na ustniku - co oznacza, że można niewinnie trzymać ją w ustach, potajemnie nagrywając to, co mówi się w pomieszczeniu.\n",
+        "speaker": "narrator"
+      },
+      "Clues/Text/WoodenPipe/Text7": {
+        "en": "Grimoire",
+        "pl": "Grimoire",
+        "speaker": "narrator"
+      }
+    },
+    "BalloonBasket": {
+      "Clues/Text/BalloonBasket/Text0": {
+        "en": "A basket for a hot air balloon. It was hanging in the centre of the engine room.",
+        "pl": "Kosz od balonu na ogrzane powietrze. Wisiał na środku Maszynowni.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BalloonBasket/Text1": {
+        "en": "For most of its life it was just ornamental - we put it out the front of the shop as a billboard.",
+        "pl": "Przez większość swojego istnienia był tylko ozdobą - wystawialiśmy go przed sklepem jako reklamę.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/BalloonBasket/Text2": {
+        "en": "They'd complain that Mr Gripp would charge them full price. Even though they were locals.",
+        "pl": "Skarżyli się, że Pan Gripp każe im płacić pełną cenę. Mimo że byli miejscowi.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/BalloonBasket/Text3": {
+        "en": "Ah, there lies the picture of the cane. But wait; is it of-a-one with that in current Godrik's grasp?",
+        "pl": "Ach, oto obrazek laski. Lecz zaczekaj; czy jest ona jednym i tym samym z tą, którą dziś dzierży Godrik?",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/BalloonBasket/Text4": {
+        "en": "No, the basket is made from wicker and carbon fiber... The wood inside the basket - that's the mahogany.",
+        "pl": "Nie, kosz jest zrobiony z wikliny i włókna węglowego... Drewno wewnątrz kosza - to jest ten mahoń.",
+        "speaker": "Moon"
+      },
+      "Clues/Text/BalloonBasket/Text5": {
+        "en": "MR GRIPP'S EMPORIUM\nBUY  -  SELL -  REPAIR\n\nHere at Mr Gripp's, we chart the unchartable, plot the unplottable, and measure the unmeasurable.\n\nWith the right contraption in your pocket, even the great unknown may be quantified and calculated.\n",
+        "pl": "EMPORIUM PANA GRIPPA\nKUPNO  -  SPRZEDAŻ - NAPRAWA\n\nU Pana Grippa mierzymy niemierzalne, wykreślamy niewykreślalne i wyznaczamy niewyznaczalne.\n\nZ odpowiednim urządzeniem w kieszeni nawet wielka niewiadoma może zostać skwantyfikowana i obliczona.\n",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BalloonBasket/Text6": {
+        "en": "OPEN!\n\n10AM to 6PM\nMON to SAT",
+        "pl": "OTWARTE!\n\n10:00 do 18:00\nPON do SOB",
+        "speaker": "narrator"
+      }
+    },
+    "BlurryPhoto": {
+      "Clues/Text/BlurryPhoto/Text0": {
+        "en": "An instant photo depicting a muscular man.\nIt was found in the cargo hold.",
+        "pl": "Zdjęcie natychmiastowe przedstawiające umięśnionego mężczyznę.\nZnalezione w Ładowni.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BlurryPhoto/Text1": {
+        "en": "-is that Tadpole with long hair? She never told me about that! It's a strong look.",
+        "pl": "-czy to Tadpole z długimi włosami? Nigdy mi o tym nie mówiła! Mocna stylizacja.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/BlurryPhoto/Text2": {
+        "en": "Aha! This must be where Madam Tadpole got her stage name.",
+        "pl": "Aha! To musi być stąd, skąd Madam Tadpole wzięła swój pseudonim sceniczny.",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/BlurryPhoto/Text3": {
+        "en": "That's no woman! That's a mermaid! Slumbering in an ethereal bubble!",
+        "pl": "To nie jest kobieta! To syrena! Drzemiąca w eterycznej bańce!",
+        "speaker": "Symmetry"
+      },
+      "Clues/Text/BlurryPhoto/Text4": {
+        "en": "It's a fake tail - I don't wear it anymore. It actually slowed me down.",
+        "pl": "To sztuczny ogon - już go nie noszę. Właściwie mnie spowalniał.",
+        "speaker": "Tadpole"
+      },
+      "Clues/Text/BlurryPhoto/Text5": {
+        "en": "Night of a Full Moon",
+        "pl": "Noc Pełni Księżyca",
+        "speaker": "narrator"
+      },
+      "Clues/Text/BlurryPhoto/Text6": {
+        "en": "WW\nWaylan Wolfe",
+        "pl": "WW\nWaylan Wolfe",
+        "speaker": "narrator"
+      }
+    },
+    "CaptainsJacket": {
+      "Clues/Text/CaptainsJacket/Text0": {
+        "en": "An ornate jacket displayed on a wooden mannequin in the control room.",
+        "pl": "Zdobiony płaszcz wystawiony na drewnianym manekinie w Sterowni.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaptainsJacket/Text1": {
+        "en": "We can't touch it, as it's kept locked behind glass.",
+        "pl": "Nie możemy go dotknąć, bo jest zamknięty pod szkłem.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CaptainsJacket/Text2": {
+        "en": "There was a handheld radio in the right pocket.",
+        "pl": "W prawej kieszeni była krótkofalówka.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/CaptainsJacket/Text3": {
+        "en": "Oh, how strange. It's never been worn.",
+        "pl": "O, jak dziwnie. Nigdy nie był noszony.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/CaptainsJacket/Text4": {
+        "en": "I have my own jacket. This one stays behind glass.\nIt's... just the way it's meant to be.",
+        "pl": "Mam własny płaszcz. Ten zostaje pod szkłem.\nTo... po prostu tak ma być.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/CaptainsJacket/Text5": {
+        "en": "I guess she'd rather keep it preserved.",
+        "pl": "Chyba woli zachować go w nienaruszonym stanie.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/CaptainsJacket/Text6": {
+        "en": "Both she and I hath mothers lost... and both a token keep.",
+        "pl": "Obie, ona i ja, utraciłyśmy matki... i obie strzeżemy po nich pamiątki.",
+        "speaker": "Symmetry"
+      }
+    },
+    "StrangeDevice": {
+      "Clues/Text/StrangeDevice/Text0": {
+        "en": "An unidentified device found floating in the bilgewater.",
+        "pl": "Niezidentyfikowane urządzenie znalezione unoszące się w wodzie zaściekowej Zęzy.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/StrangeDevice/Text1": {
+        "en": "Ah! Um... Laser gun?",
+        "pl": "Ach! Yy... Pistolet laserowy?",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/StrangeDevice/Text2": {
+        "en": "Doesn't appear to do anything, does it? Perhaps it's broken.",
+        "pl": "Chyba nic nie robi, prawda? Może jest zepsute.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/StrangeDevice/Text3": {
+        "en": "It's an antenna.",
+        "pl": "To antena.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/StrangeDevice/Text4": {
+        "en": "Seawater can really do a number on electronics, you gotta be careful.",
+        "pl": "Woda morska potrafi nieźle zniszczyć elektronikę, trzeba uważać.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/StrangeDevice/Text5": {
+        "en": "...I just assumed it was waterlogged - from the bilgewater.",
+        "pl": "...po prostu założyłem, że nasiąkło wodą - z tej wody zaściekowej.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/StrangeDevice/Text6": {
+        "en": "That belongs to Dirk, I think.",
+        "pl": "To chyba należy do Dirka.",
+        "speaker": "Sally"
+      }
+    },
+    "SubmarineBlueprint": {
+      "Clues/Text/SubmarineBlueprint/Text0": {
+        "en": "A strange blueprint found in the control room.",
+        "pl": "Dziwny plan znaleziony w Sterowni.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/SubmarineBlueprint/Text1": {
+        "en": "The title reads 'THE Mortuga SUBMARINE'",
+        "pl": "Tytuł głosi: 'ŁÓDŹ PODWODNA MORTUGA'",
+        "speaker": "narrator"
+      },
+      "Clues/Text/SubmarineBlueprint/Text2": {
+        "en": "The title reads 'THE SEAFOAM SUBMARINE'",
+        "pl": "Tytuł głosi: 'ŁÓDŹ PODWODNA SEAFOAM'",
+        "speaker": "narrator"
+      },
+      "Clues/Text/SubmarineBlueprint/Text3": {
+        "en": "I'm trying to get a handle on the exact form of the submarine.",
+        "pl": "Próbuję dokładnie zrozumieć kształt tej łodzi podwodnej.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/SubmarineBlueprint/Text4": {
+        "en": "They say Mortuga bought an incomplete submarine, and then paid for it to be completed.",
+        "pl": "Podobno Mortuga kupił niedokończoną łódź podwodną, a potem zapłacił za jej dokończenie.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/SubmarineBlueprint/Text5": {
+        "en": "No no - the yellowish parts - they're from an old drawing of a sailing ship.",
+        "pl": "Nie, nie - te żółtawe fragmenty - pochodzą ze starego rysunku żaglowca.",
+        "speaker": "Sinthia"
+      },
+      "Clues/Text/SubmarineBlueprint/Text6": {
+        "en": "All told, Magnus was rather dismissive of the notion that the submarine should bear his moniker.",
+        "pl": "Ogólnie rzecz biorąc, Magnus raczej lekceważył pomysł, że łódź podwodna miałaby nosić jego imię.",
+        "speaker": "Gripp"
+      }
+    },
+    "SunTablets": {
+      "Clues/Text/SunTablets/Text0": {
+        "en": "A brown glass bottle containing three varieties of tablets.",
+        "pl": "Brązowa szklana buteleczka zawierająca trzy rodzaje tabletek.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/SunTablets/Text1": {
+        "en": "There is nothing printed on the label, but someone has drawn a simple picture of a sun.",
+        "pl": "Na etykiecie nic nie wydrukowano, ale ktoś narysował na niej prosty rysunek słońca.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/SunTablets/Text2": {
+        "en": "Some kind of vitamin supplement, I believe?",
+        "pl": "To chyba jakiś suplement witaminowy?",
+        "speaker": "Sally"
+      },
+      "Clues/Text/SunTablets/Text3": {
+        "en": "Vitamin D. All three types.",
+        "pl": "Witamina D. Wszystkie trzy rodzaje.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/SunTablets/Text4": {
+        "en": "I gotta take it while I'm down here - since I'm not getting natural light, you know...",
+        "pl": "Muszę ją brać, jak już tu jestem na dole - bo nie mam tu naturalnego światła, wiesz...",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/SunTablets/Text5": {
+        "en": "Sun tablets...?",
+        "pl": "Tabletki słoneczne...?",
+        "speaker": "Gripp"
+      },
+      "Clues/Text/SunTablets/Text6": {
+        "en": "Silkwirm's sun is scantly seen. Even in a summer sky.",
+        "pl": "Słońce Silkwirm rzadko bywa widziane. Nawet na letnim niebie.",
+        "speaker": "Zephyr"
+      }
+    },
+    "LifesizeDoll": {
+      "Clues/Text/LifesizeDoll/Text0": {
+        "en": "A lifesize doll of Symmetry Silkmoth. It was found hidden in the Illusion Theatre.",
+        "pl": "Lalka naturalnej wielkości przedstawiająca Symmetry Silkmoth. Znaleziona ukryta w Teatrze Iluzji.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/LifesizeDoll/Text1": {
+        "en": "This is the Lady of the Looking Glass herself.",
+        "pl": "To sama Dama Zwierciadła we własnej osobie.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/LifesizeDoll/Text2": {
+        "en": "It is a pullstring. You pull it.",
+        "pl": "To sznurek do pociągania. Pociąga się go.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/LifesizeDoll/Text3": {
+        "en": "Oh. The head comes off.\nI don't - I don't like that, it's - kinda morbid.",
+        "pl": "Och. Głowa się zdejmuje.\nNie... nie podoba mi się to, jest - trochę makabryczne.",
+        "speaker": "Sally"
+      },
+      "Clues/Text/LifesizeDoll/Text4": {
+        "en": "When the stunt is that dangerous, and the stunt guy refuses to do it - you use the dummy.",
+        "pl": "Kiedy kaskaderska akcja jest aż tak niebezpieczna, a kaskader odmawia jej wykonania - używa się manekina.",
+        "speaker": "Dirk"
+      },
+      "Clues/Text/LifesizeDoll/Text5": {
+        "en": "There was a film projector hidden inside the body of the doll.",
+        "pl": "Wewnątrz ciała lalki był ukryty projektor filmowy.",
+        "speaker": "narrator"
+      }
+    },
+    "Typewriter": {
+      "Clues/Text/Typewriter/Text0": {
+        "en": "J. D. Wirman's typewriter.",
+        "pl": "Maszyna do pisania J. D. Wirmana.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/Typewriter/Text1": {
+        "en": "I mean, probably because it used to belong to his Dad.",
+        "pl": "No bo pewnie dlatego, że kiedyś należała do jego taty.",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/Typewriter/Text2": {
+        "en": "It's a mess - the keys are all in the wrong place...",
+        "pl": "Ale bałagan - wszystkie klawisze są w złych miejscach...",
+        "speaker": "Sally"
+      },
+      "Clues/Text/Typewriter/Text3": {
+        "en": "I'm taking another swing at a story outline. For my next book.",
+        "pl": "Próbuję jeszcze raz nakreślić zarys fabuły. Do mojej następnej książki.",
+        "speaker": "Wirman"
+      },
+      "Clues/Text/Typewriter/Text4": {
+        "en": "It's got a good example of the Fellow emblem, there on the back - see?",
+        "pl": "Ma tu, z tyłu, ładny przykład godła rodu Fellow, widzisz?",
+        "speaker": "Grimoire"
+      },
+      "Clues/Text/Typewriter/Text5": {
+        "en": "Gifted to the\nSILKWIRM-ON-SEA\nTOWN HALL\nA Gesture of Unity from\nGovernor Faustus Fellow\nto Mayor Damian Dusk",
+        "pl": "Podarowano\nRATUSZOWI\nSILKWIRM NAD MORZEM\nGest jedności od\nGubernatora Faustusa Fellowa\ndla Burmistrza Damiana Duska",
+        "speaker": "narrator"
+      }
+    },
+    "MourningEnvelope": {
+      "Clues/Text/MourningEnvelope/Text0": {
+        "en": "A black-edged mourning envelope found in the black box.",
+        "pl": "Koperta żałobna obwiedziona czernią, znaleziona w czarnej skrzynce.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MourningEnvelope/Text1": {
+        "en": "It's been ripped open at the side, and is currently empty.",
+        "pl": "Została rozerwana z boku i obecnie jest pusta.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/MourningEnvelope/Text2": {
+        "en": "Governor Faustus Fellow\nand Selena Stonetop\nGovernor's Manor\nFellow Estate, Ponder Hill\nSilkwirm-on-sea",
+        "pl": "Gubernator Faustus Fellow\noraz Selena Stonetop\nDwór Gubernatora\nMajątek Fellow, Ponder Hill\nSilkwirm nad Morzem",
+        "speaker": "narrator"
+      }
+    },
+    "RippedScroll": {
+      "Clues/Text/RippedScroll/Text0": {
+        "en": "A ripped scroll found in the black box.",
+        "pl": "Podarty zwój znaleziony w czarnej skrzynce.",
+        "speaker": "narrator"
+      },
+      "Clues/Text/RippedScroll/Text1": {
+        "en": "I know you wanted 'the coordinates', but I don't know them. So this is all you get - if you don't know how to make use of it, that's your problem, not mine.\n\nWe put it all back where we found it - with the exception of the key, which (as you're well aware) has been safely around my neck ever since.",
+        "pl": "Wiem, że chciałeś 'współrzędnych', ale ich nie znam. Więc to wszystko, co dostaniesz - jeśli nie wiesz, jak to wykorzystać, to twój problem, nie mój.\n\nOdłożyliśmy wszystko z powrotem tam, gdzie to znaleźliśmy - z wyjątkiem klucza, który (jak dobrze wiesz) bezpiecznie wisi na mojej szyi od tamtej pory.",
+        "speaker": "SS (niepewne - patrz VERIFICATION_QUEUE)"
+      },
+      "Clues/Text/RippedScroll/Text2": {
+        "en": "Remember, it destroyed my father within a few short years. He was a man of sturdy constitution, too. Or, he had been. Before we found it. Before she spoke to us.\n\nA wise man would simply put the entire thing out of his mind.\nSS",
+        "pl": "Pamiętaj, że to zniszczyło mojego ojca w ciągu zaledwie kilku krótkich lat. A był to człowiek o mocnej konstytucji. A przynajmniej był - zanim to znaleźliśmy. Zanim ona do nas przemówiła.\n\nMądry człowiek po prostu wyrzuciłby to wszystko z głowy.\nSS",
+        "speaker": "SS (niepewne - patrz VERIFICATION_QUEUE)"
+      }
+    },
+    "Figurehead": {
+      "Clues/Text/Figurehead/Text0": {
+        "en": "An old wooden figurehead from a sailing ship.\nIt was tied to the back of the aft deck.",
+        "pl": "Stary drewniany galion z żaglowca.\nBył przywiązany z tyłu Pokładu Rufowego.",
+        "speaker": "narrator"
+      }
+    },
+    "OceanTreasure": {
+      "Clues/Text/OceanTreasure/Text0": {
+        "en": "A pile of assorted ocean-themed treasure.\nIt was locked in a chest in the dome tank.",
+        "pl": "Stos różnorodnego skarbu w oceanicznym stylu.\nBył zamknięty w skrzyni w Zbiorniku Kopułowym.",
+        "speaker": "narrator"
+      }
+    },
+    "TheMermaidsTongue": {
+      "Clues/Text/TheMermaidsTongue/Text0": {
+        "en": "A strange leather mask known as The Mermaid's Tongue. It was found in the cabinet of curiosity.",
+        "pl": "Dziwna skórzana maska znana jako Język Syreny. Znaleziona w Gabinecie Osobliwości.",
+        "speaker": "narrator"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Clues/Text/RippedScroll/Text1-2",
+      "en": "letter signed 'SS', mentions 'the key... around my neck', 'it destroyed my father', 'before she spoke to us'",
+      "propozycja": "przetlumaczone doslownie, podpis 'SS' pozostawiony bez zmian",
+      "problem": "Podpis 'SS' wskazuje na Selene Stonetop (matka Felicii, babcia Sinthii) - NIE na Felicie Stonetop, ktora wg dotychczas ustalonej fabuly (Godrik Conversation 1, batch_44) jako pierwsza znalazla Jezyk Syreny wraz z Mortuga i Godrikiem i nosila Kluczyk z Naszyjnika. Ten list sugeruje, ze to SELENA (wczesniejsze pokolenie) mogla miec wlasne, wczesniejsze doswiadczenie z tym samym przedmiotem/kluczem ('ever since' - od dawna go nosi). Mozliwe wyjasnienia: (a) to Felicia pod inicjalami babki z powodu bledu/uproszczenia, (b) to faktycznie osobny, wczesniejszy watek Seleny nieujawniony dotad w przetlumaczonym materiale, (c) 'ona' w 'before she spoke to us' odnosi sie do Syreny przemawiajacej do calego pokolenia Seleny, nie tylko Felicii. WYMAGA POTWIERDZENIA - kluczowe dla spojnosci fabuly, nie zmieniac GLOSSARY bez decyzji usera."
+    },
+    {
+      "term": "Clues/Text/MourningEnvelope/Text2",
+      "en": "Governor Faustus Fellow\nand Selena Stonetop\nGoverner's Manor...",
+      "propozycja": "przetlumaczone doslownie",
+      "problem": "Koperta zaadresowana wspolnie do 'Gubernatora Faustusa Fellowa ORAZ Seleny Stonetop' pod adresem Dworu Gubernatora - sugeruje bliski zwiazek (malzenstwo? wspolne zamieszkanie?) miedzy Selena Stonetop a Gubernatorem Fellow, nieujawniony dotad w GLOSSARY. Do potwierdzenia przy dalszych partiach Clues/Text (moze wyjasnic sie w MovieMagazine/NewspaperPage/SilkwirmMap - jeszcze nieprzetlumaczone)."
+    },
+    {
+      "term": "Clues/Text/ModelTown/Text4-6",
+      "en": "'That's my mom, standing in harbor... my dad under lighthouse' / 'my house... the theatre, where I lived' / 'is that my father?'",
+      "propozycja": "przypisano roboczo Sinthii (Text4), Symmetry (Text5) i niezidentyfikowanej postaci/Wirmanowi (Text6)",
+      "problem": "Trzy kolejne linie wygladaja na ciagla wypowiedz JEDNEJ postaci wspominajacej model miasteczka, ale szczegoly (mama w porcie, tata pod latarnia, dom w teatrze) nie pasuja spojnie do zadnej dotad ustalonej biografii (Sinthia: mama Sylvia-kapitan portu, ojczym Don Drummond-mechanik stoczni, NIE latarnik; Symmetry: mieszkala w teatrze Fortuna Hall, ale rodzice nieustaleni). Mozliwe, ze to 3 ROZNE, kolejne po sobie reakcje roznych postaci (nie jedna wypowiedz) - do potwierdzenia w grze przy ogladaniu makiety, zanim ustali sie to w GLOSSARY."
+    },
+    {
+      "term": "Clues/Text/CaretakersJournal/Text4-5",
+      "en": "'Page 2 information about the clue. It can be one or two lines.' / 'Information about the clue. It can be one or two lines.'",
+      "propozycja": "przetlumaczone doslownie jako instrukcja",
+      "problem": "Wyglada na literalny placeholder/szablon deweloperski uzywany do formatowania opisow dowodow (nie tresc widoczna dla gracza) - podobnie jak 'title here' z batch_95. Do potwierdzenia w grze czy to kiedykolwiek widoczne."
+    },
+    {
+      "term": "Clues/Text/CaretakersJournal/Text8",
+      "en": "I've seen it - and so have you. It's attached to Dr Zephyr's left wrist.",
+      "propozycja": "przypisano roboczo Grimoire, niepewne",
+      "problem": "Ujawnia, ze 'His Golden Palm' (jedna z 4 relikwii) to prawdopodobnie proteza/sztuczna dlon przypieta do lewego nadgarstka Doktora Zephyra - nowy szczegol wygladu postaci nieustalony dotad w GLOSSARY. Mowca niepotwierdzony."
+    }
+  ]
+}

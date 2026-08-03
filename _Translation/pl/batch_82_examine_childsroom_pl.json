@@ -1,0 +1,386 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja ChildsRoom/Pokoj Dziecka (66 terminow, ~19 mikroscen) - dawny pokoj dziecka o morskim motywie, obecnie warsztat iluzjonisty Symmetry (wspomniany 'medalion Sym'). Zawiera magiczne rekwizyty (szafka do znikania, karty, kubki, laska stojaca samodzielnie).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci.",
+    "uwagi_tlumaczeniowe": "Dice/ds2: gra slowna 'dice'(l.mnoga)/'die'(l.pojedyncza, takze 'umrzec') zaadaptowana funkcjonalnie jako prosta korekta gramatyczna liczby pojedynczej bez zachowania dwuznacznosci 'umrzec'."
+  },
+  "categories": {
+    "Exam_Area_ChildsRoom_BG": {
+      "Examine/Exam_Area_ChildsRoom_BG/Section ds0": {
+        "en": "An old fashioned child's room with an ocean theme.",
+        "pl": "Staromodny pokój dziecięcy w morskim motywie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_BG/Section ds1": {
+        "en": "Currently being used as a magician's workshop.",
+        "pl": "Obecnie wykorzystywany jako warsztat iluzjonisty.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_Dice": {
+      "Examine/Exam_Area_ChildsRoom_Dice/Section ds0": {
+        "en": "Hey look, Sally, it's a giant dice.",
+        "pl": "Hej, patrz, Sally, to wielka kostka do gry.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_Dice/Section ds1": {
+        "en": "What did I do!?",
+        "pl": "Co ja zrobiłam!?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_Dice/Section ds2": {
+        "en": "[i]Die.[/i]",
+        "pl": "[i]Kość.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_LockedBoxAlreadySolved": {
+      "Examine/Exam_Area_ChildsRoom_LockedBoxAlreadySolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_ChildsRoom_LockedBoxEnd": {
+      "Examine/Exam_Area_ChildsRoom_LockedBoxEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxEnd/Section ds1": {
+        "en": "What's in there?",
+        "pl": "Co tam jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxEnd/Section ds3": {
+        "en": "It opened!",
+        "pl": "Otworzyło się!",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_LockedBoxStart": {
+      "Examine/Exam_Area_ChildsRoom_LockedBoxStart/Section ds0": {
+        "en": "What's all this stuff on the top?",
+        "pl": "Co to za rzeczy na górze?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxStart/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxStart/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ChildsRoom_LockedBoxStart/Section ds3": {
+        "en": "It's a wooden chest...",
+        "pl": "To drewniana skrzynia...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_LocketPrompt": {
+      "Examine/Exam_Area_ChildsRoom_LocketPrompt/Section ds0": {
+        "en": "Let's take a look at Sym's locket...",
+        "pl": "Spójrzmy na medalion Sym...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_Newspaper": {
+      "Examine/Exam_Area_ChildsRoom_Newspaper/Section ds0": {
+        "en": "A page ripped out of a newspaper...",
+        "pl": "Strona wyrwana z gazety...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ChildsRoom_boxes": {
+      "Examine/Exam_Area_ChildsRoom_boxes/Section ds0": {
+        "en": "Magician boxes.",
+        "pl": "Pudełka iluzjonisty.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ChildsRoom_cards": {
+      "Examine/Exam_Area_ChildsRoom_cards/Section ds0": {
+        "en": "...is this your card?",
+        "pl": "...czy to twoja karta?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_cards/Section ds5": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_cards/Section ds6": {
+        "en": "Aw.",
+        "pl": "Ech.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_cups": {
+      "Examine/Exam_Area_ChildsRoom_cups/Section ds0": {
+        "en": "Plastic cups.",
+        "pl": "Plastikowe kubki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_cups/Section ds10": {
+        "en": "For magic tricks?",
+        "pl": "Do sztuczek magicznych?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_cups/Section ds12": {
+        "en": "Presumably.",
+        "pl": "Przypuszczalnie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_drawers": {
+      "Examine/Exam_Area_ChildsRoom_drawers/Section ds0": {
+        "en": "A set of wooden drawers.",
+        "pl": "Zestaw drewnianych szuflad.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ChildsRoom_fish": {
+      "Examine/Exam_Area_ChildsRoom_fish/Section ds0": {
+        "en": "Fish hanging from the ceiling.",
+        "pl": "Ryby wiszące u sufitu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_fish/Section ds4": {
+        "en": "It's like we're underwater!",
+        "pl": "Jakbyśmy byli pod wodą!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_fish/Section ds5": {
+        "en": "We are underwater.",
+        "pl": "Jesteśmy pod wodą.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_fish/Section ds6": {
+        "en": "Oh yeah.",
+        "pl": "A tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_juggling": {
+      "Examine/Exam_Area_ChildsRoom_juggling/Section ds0": {
+        "en": "Why did that feel like an insult?",
+        "pl": "Czemu to zabrzmiało jak zniewaga?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_juggling/Section ds4": {
+        "en": "Grimoire, you look like the kind of guy who can juggle.",
+        "pl": "Grimoire, wyglądasz jak facet, który umie żonglować.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_juggling/Section ds5": {
+        "en": "I don't hear you denying it.",
+        "pl": "Nie słyszę, żebyś temu zaprzeczał.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_juggling/Section ds6": {
+        "en": "Juggling balls.",
+        "pl": "Piłeczki do żonglerki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_juggling/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_lamp": {
+      "Examine/Exam_Area_ChildsRoom_lamp/Section ds0": {
+        "en": "The lamp fell over.",
+        "pl": "Lampa się przewróciła.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_lamp/Section ds5": {
+        "en": "Wow, you really [h]are[/h] a detective.",
+        "pl": "Wow, ty [h]naprawdę[/h] jesteś detektywem.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_painting1": {
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds0": {
+        "en": "An... eerie painting of a girl standing in the woods.",
+        "pl": "Niepokojący... obraz dziewczynki stojącej w lesie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds2": {
+        "en": "Sure.",
+        "pl": "Jasne.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds3": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds4": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds5": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_painting1/Section ds6": {
+        "en": "It [h]is[/h] just a painting. Right?",
+        "pl": "To [h]przecież[/h] tylko obraz. Prawda?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_painting2": {
+      "Examine/Exam_Area_ChildsRoom_painting2/Section ds0": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_photos": {
+      "Examine/Exam_Area_ChildsRoom_photos/Section ds0": {
+        "en": "Anyone important in those photos?",
+        "pl": "Ktoś ważny na tych zdjęciach?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_photos/Section ds4": {
+        "en": "I don't think so...",
+        "pl": "Nie sądzę...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_photos/Section ds5": {
+        "en": "Good.",
+        "pl": "Dobrze.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_seahorse": {
+      "Examine/Exam_Area_ChildsRoom_seahorse/Section ds0": {
+        "en": "Oh - can I ride it?",
+        "pl": "Och - mogę na nim jeździć?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_seahorse/Section ds4": {
+        "en": "It's a sea horse rocking horse!",
+        "pl": "To konik na biegunach w kształcie konika morskiego!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_seahorse/Section ds5": {
+        "en": "I don't know.\nAre you a [i]small Victorian child?[/i]",
+        "pl": "Nie wiem.\nCzy jesteś [i]małym dzieckiem z epoki wiktoriańskiej?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_seahorse/Section ds6": {
+        "en": "Yes.",
+        "pl": "Tak.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_seahorse/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_starfish": {
+      "Examine/Exam_Area_ChildsRoom_starfish/Section ds0": {
+        "en": "Now I heard - if you cut a starfish in half, both halves regenerate into a new starfish.",
+        "pl": "Słyszałam, że jeśli przetniesz rozgwiazdę na pół, obie połówki zregenerują się w nowe rozgwiazdy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_starfish/Section ds4": {
+        "en": "Yeah. I can do that too.",
+        "pl": "Tak. Ja też tak potrafię.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_starfish/Section ds5": {
+        "en": "Also, they have no brain and no blood.",
+        "pl": "Poza tym nie mają mózgu ani krwi.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_starfish/Section ds6": {
+        "en": "Yep. Ditto.",
+        "pl": "No tak. Ja też.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ChildsRoom_submarine": {
+      "Examine/Exam_Area_ChildsRoom_submarine/Section ds0": {
+        "en": "It's a model submarine...",
+        "pl": "To model łodzi podwodnej...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_submarine/Section ds4": {
+        "en": "I think it's a doll's house.",
+        "pl": "Chyba to domek dla lalek.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_walking stick": {
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds0": {
+        "en": "A walking stick, standing up by itself.",
+        "pl": "Laska, stojąca sama, o własnych siłach.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds4": {
+        "en": "...I think it's part of an illusion.",
+        "pl": "...chyba to część iluzji.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds5": {
+        "en": "What illusion?",
+        "pl": "Jaka iluzja?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds6": {
+        "en": "Invisible man, maybe?",
+        "pl": "Może niewidzialny człowiek?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds7": {
+        "en": "I don't see it.",
+        "pl": "Nie widzę go.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_walking stick/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ChildsRoom_wardrobe": {
+      "Examine/Exam_Area_ChildsRoom_wardrobe/Section ds0": {
+        "en": "It's a magic vanishing cabinet.",
+        "pl": "To magiczna szafka do znikania.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_wardrobe/Section ds10": {
+        "en": "Oh, it's empty.",
+        "pl": "Och, jest pusta.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ChildsRoom_wardrobe/Section ds11": {
+        "en": "[i]Vanished.[/i]",
+        "pl": "[i]Zniknęła.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ChildsRoom_wardrobe/Section ds4": {
+        "en": "I think it's just a wardrobe.\nLet's take a look inside...",
+        "pl": "Chyba to po prostu szafa.\nZajrzyjmy do środka...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,1658 @@
+{
+  "_meta": {
+    "batch": "Tadpole CLUE X (~53 sceny, 308 terminow) - reakcje Tadpole (nurkini, luzny bezposredni rejestr) na kazdy dowod w grze.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json",
+    "speaker_resolution": "speaker_map.json (soulTalking) - pokrycie pelne.",
+    "character_voice": "Tadpole: kontynuacja bezposredniego, casualowego rejestru (batch_32-35)."
+  },
+  "categories": {
+    "Tadpole CLUE ActionFigure": {
+      "Conversation/Tadpole CLUE ActionFigure/Section ds15": {
+        "en": "You know... I think [h]I'd[/h] make a pretty good action figure.",
+        "pl": "Wiecie... myślę, że [h]ja[/h] byłabym całkiem niezłą figurką akcji.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ActionFigure/Section ds16": {
+        "en": "Maybe a bath toy? With little legs that kick when you wind me up?",
+        "pl": "Może zabawka do kąpieli? Z małymi nóżkami, które kopią, kiedy mnie nakręcisz?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ActionFigure/Section ds17": {
+        "en": "I'd buy it.",
+        "pl": "Kupiłabym to.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE BalloonBasket": {
+      "Conversation/Tadpole CLUE BalloonBasket/Section ds0": {
+        "en": "Gripp's got his brand figured out, huh? Kind of an 18th century, vaudeville, aeronaut vibe?",
+        "pl": "Gripp ma ogarniętą swoją markę, co? Taki klimat XVIII-wiecznego wodewilu i aeronauty?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BalloonBasket/Section ds7": {
+        "en": "Even just the choice to use the word [i]'emporium'[/i]...",
+        "pl": "Nawet sam wybór słowa [i]'emporium'...[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE BlackBox": {
+      "Conversation/Tadpole CLUE BlackBox/Section ds6": {
+        "en": "Do you know what's inside?",
+        "pl": "Wiesz, co jest w środku?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds7": {
+        "en": "No - it must've been [h]something[/h], though.",
+        "pl": "Nie - ale musiało tam coś [h]być.[/h]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds8": {
+        "en": "There's no way all this kicked off over an empty box.",
+        "pl": "Nie ma mowy, żeby to wszystko zaczęło się od pustego pudełka.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds9": {
+        "en": "What do you mean?",
+        "pl": "Co masz na myśli?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds10": {
+        "en": "S'far as I know, that box is a [h]very[/h] recent addition to the submarine.",
+        "pl": "O ile wiem, to pudełko to [h]bardzo[/h] niedawny dodatek do łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds11": {
+        "en": "I think it may have been the catalyst that lead to Mortuga's murder.",
+        "pl": "Myślę, że mogło być katalizatorem, który doprowadził do morderstwa Mortugi.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds13": {
+        "en": "Now I [h]really[/h] wanna know what's inside.",
+        "pl": "Teraz [h]naprawdę[/h] chcę wiedzieć, co jest w środku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE BlackBox/Section ds15": {
+        "en": "Hmph.",
+        "pl": "Hmph.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE BlurryPhoto": {
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds8": {
+        "en": "-is that [h]you[/h] in the photo, Miss Tadpole?",
+        "pl": "-czy to [h]ty[/h] jesteś na zdjęciu, panno Tadpole?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds9": {
+        "en": "No. I'm not that buff, and my beard isn't that thick-",
+        "pl": "Nie. Nie jestem taka umięśniona, a moja broda nie jest tak gęsta-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds10": {
+        "en": "[i]The woman in the glass ball!![/i]",
+        "pl": "[i]Kobieta w szklanej kuli!![/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds11": {
+        "en": "She looks [h]just[/h] like you, except she has long hair... and a mermaid tail.",
+        "pl": "Wygląda [h]dokładnie[/h] jak ty, tylko że ma długie włosy... i ogon syreny.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds12": {
+        "en": "It's a fake tail - I don't wear it anymore, it actually slowed me down.",
+        "pl": "To sztuczny ogon - już go nie noszę, tak naprawdę mnie spowalniał.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds13": {
+        "en": "Not that I could really swim in that little ball anyway...",
+        "pl": "Nie żebym w ogóle mogła pływać w tej małej kuli...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds14": {
+        "en": "So who's the [i]guy?[/i]",
+        "pl": "Więc kim jest ten [i]facet?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds15": {
+        "en": "Just some guy. Not important.",
+        "pl": "Po prostu jakiś facet. Nieważne.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BlurryPhoto/Section ds19": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE BrokenCompass": {
+      "Conversation/Tadpole CLUE BrokenCompass/Section ds0": {
+        "en": "Sinthia mentioned the ship's compass broke...",
+        "pl": "Sinthia wspomniała, że kompas statku się zepsuł...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BrokenCompass/Section ds6": {
+        "en": "Looks like Gripp's in the middle of fixing it.",
+        "pl": "Wygląda na to, że Gripp jest w trakcie naprawiania go.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BrokenCompass/Section ds7": {
+        "en": "Did Sinthia say exactly [h]how[/h] it broke? Or what was wrong with it?",
+        "pl": "Czy Sinthia powiedziała dokładnie, [h]jak[/h] się zepsuł? Albo co było z nim nie tak?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE BrokenCompass/Section ds8": {
+        "en": "She just said it was [i]'acting erratically.'[/i]",
+        "pl": "Powiedziała tylko, że [i]'działał nieprzewidywalnie'.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE BrokenCompass/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE CaptainsJacket": {
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds6": {
+        "en": "S - for what?",
+        "pl": "S - na co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds7": {
+        "en": "It's custom made - see the 'S' emblem on the epaulettes? And on the back?",
+        "pl": "Zrobiona na zamówienie - widzisz godło 'S' na naramiennikach? I na plecach?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds8": {
+        "en": "Seafoam, obviously.",
+        "pl": "Seafoam, oczywiście.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds9": {
+        "en": "So why isn't Sinthia [i]wearing[/i] it?",
+        "pl": "Więc czemu Sinthia jej nie [i]nosi?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds10": {
+        "en": "I guess she'd rather keep it preserved.",
+        "pl": "Chyba wolałaby ją zachować w dobrym stanie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaptainsJacket/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE CaptainsLog": {
+      "Conversation/Tadpole CLUE CaptainsLog/Section ds0": {
+        "en": "Magnus really wasn't one for record-keeping...",
+        "pl": "Magnus naprawdę nie był typem, co prowadzi zapiski...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaptainsLog/Section ds6": {
+        "en": "...he did make a [h]few[/h] entries, though.",
+        "pl": "...zrobił jednak [h]kilka[/h] wpisów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CaptainsLog/Section ds7": {
+        "en": "Looks like it's just each time someone [i]new[/i] arrives on the submarine.",
+        "pl": "Wygląda na to, że to po prostu za każdym razem, kiedy ktoś [i]nowy[/i] przybywa na łódź podwodną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CaptainsLog/Section ds10": {
+        "en": "That makes sense - he was always people focused.",
+        "pl": "To ma sens - zawsze był skupiony na ludziach.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaptainsLog/Section ds11": {
+        "en": "Human interactions, relationships... it's what he considered most important.",
+        "pl": "Interakcje międzyludzkie, relacje... to uważał za najważniejsze.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE CaretakersJournal": {
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds6": {
+        "en": "Do you recognise any of these objects?",
+        "pl": "Rozpoznajesz któryś z tych przedmiotów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds7": {
+        "en": "[i]The Mermaid's Tongue...\nRumored to be lost at sea...[/i]",
+        "pl": "[i]Język Syreny...\nPodobno zaginiony na morzu...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds9": {
+        "en": "You've heard of it?",
+        "pl": "Słyszałaś o tym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds10": {
+        "en": "[i]Oh[/i] - uh... no.\nNot by name.",
+        "pl": "[i]Och[/i] - yy... nie.\nNie z nazwy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds11": {
+        "en": "Maybe Zephyr was trying to get [i]hold[/i] of it.",
+        "pl": "Może Zephyr próbował to [i]zdobyć.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds12": {
+        "en": "Yeah... maybe he [i]was[/i]...",
+        "pl": "Tak... może [i]tak[/i] było...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaretakersJournal/Section ds14": {
+        "en": "Tapdole?",
+        "pl": "Tapdole?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE CaseFile": {
+      "Conversation/Tadpole CLUE CaseFile/Section ds0": {
+        "en": "Sinthia had to ask my help when writing this up - she wanted to put Magnus's age, but she didn't know it.",
+        "pl": "Sinthia musiała poprosić mnie o pomoc przy pisaniu tego - chciała wpisać wiek Magnusa, ale go nie znała.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaseFile/Section ds7": {
+        "en": "How come [i]you[/i] did?",
+        "pl": "Skąd [i]ty[/i] go znałaś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CaseFile/Section ds8": {
+        "en": "He and I were friends. I was really trying to get to know him...",
+        "pl": "On i ja byliśmy przyjaciółmi. Naprawdę starałam się go poznać...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CaseFile/Section ds9": {
+        "en": "Sounds like that might've been kind of an uphill struggle?",
+        "pl": "Brzmi, jakby to mogła być trochę walka pod górkę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CaseFile/Section ds10": {
+        "en": "Yeah. He didn't really like to talk about himself.",
+        "pl": "Tak. Naprawdę nie lubił mówić o sobie.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE CellPhone": {
+      "Conversation/Tadpole CLUE CellPhone/Section ds18": {
+        "en": "I kinda wish Dirk hadn't brought that onto the submarine.",
+        "pl": "Trochę żałuję, że Dirk w ogóle to przywiózł na łódź podwodną.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CellPhone/Section ds19": {
+        "en": "Why?",
+        "pl": "Czemu?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CellPhone/Section ds20": {
+        "en": "Feels like it breaks some unspoken rule - having contact with the outside world...",
+        "pl": "Czuję, że to łamie jakąś niepisaną zasadę - kontakt ze światem zewnętrznym...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE CommandContract": {
+      "Conversation/Tadpole CLUE CommandContract/Section ds0": {
+        "en": "Looks like Mortuga chose to use a [i]typewriter[/i] for this...",
+        "pl": "Wygląda na to, że Mortuga zdecydował się użyć do tego [i]maszyny do pisania...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CommandContract/Section ds6": {
+        "en": "It's more that he didn't like writing by hand. He'd even sometimes ask [i]me[/i] to write things for him.",
+        "pl": "To bardziej to, że nie lubił pisać ręcznie. Czasem prosił nawet [i]mnie,[/i] żebym coś dla niego napisała.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CommandContract/Section ds7": {
+        "en": "To make it more official, maybe?",
+        "pl": "Żeby było bardziej oficjalne, może?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE CommandContract/Section ds10": {
+        "en": "Like what?",
+        "pl": "Na przykład co?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CommandContract/Section ds11": {
+        "en": "Oh-\nJust little notes, you know.",
+        "pl": "Och-\nPo prostu małe notatki, wiesz.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CommandContract/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE CurseCauldron": {
+      "Conversation/Tadpole CLUE CurseCauldron/Section ds8": {
+        "en": "All I can say for sure, is that at one time, this cauldron spent several years [i]underwater.[/i]",
+        "pl": "Jedyne, co mogę powiedzieć na pewno, to że w pewnym momencie ten kocioł spędził kilka lat [i]pod wodą.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CurseCauldron/Section ds11": {
+        "en": "Not just underwater, but in the [i]ocean[/i] - I can tell by the growth of the barnacles and algae.",
+        "pl": "Nie tylko pod wodą, ale w [i]oceanie[/i] - poznaję po naroślach pąkli i alg.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CurseCauldron/Section ds12": {
+        "en": "There's no growth on the inside, though. Or on the lid.",
+        "pl": "Ale w środku nie ma żadnych narośli. Ani na wieku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE CurseCauldron/Section ds13": {
+        "en": "Yeah, I noticed that too.",
+        "pl": "Tak, też to zauważyłam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE CurseCauldron/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE DivingLicense": {
+      "Conversation/Tadpole CLUE DivingLicense/Section ds6": {
+        "en": "Hey - where did you - uh -",
+        "pl": "Hej - skąd wy - yy -",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds7": {
+        "en": "Does this belong to you?",
+        "pl": "Czy to należy do ciebie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds9": {
+        "en": "We found it in the [i]bilge.[/i]",
+        "pl": "Znaleźliśmy to w [i]zęzie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds10": {
+        "en": "You [i]dropped[/i] it, maybe?",
+        "pl": "Może to [i]upuściłaś?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds12": {
+        "en": "[i]'Ocean Rescue Divers Association'.[/i] Is this an organisation you used to work for?",
+        "pl": "[i]'Stowarzyszenie Nurków Ratowniczych Oceanu'.[/i] Czy to organizacja, dla której kiedyś pracowałaś?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE DivingLicense/Section ds14": {
+        "en": "Maybe.",
+        "pl": "Może.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE DreamHelmet": {
+      "Conversation/Tadpole CLUE DreamHelmet/Section ds0": {
+        "en": "This pattern looks a bit like a dreamcatcher.",
+        "pl": "Ten wzór wygląda trochę jak łapacz snów.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DreamHelmet/Section ds6": {
+        "en": "What's a dreamcatcher?",
+        "pl": "Co to jest łapacz snów?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE DreamHelmet/Section ds7": {
+        "en": "It's something you hang in your bedroom window when you're a teenage girl.",
+        "pl": "To coś, co wieszasz w oknie sypialni, kiedy jesteś nastoletnią dziewczyną.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE DreamHelmet/Section ds8": {
+        "en": "Bingo.",
+        "pl": "Bingo.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DreamHelmet/Section ds9": {
+        "en": "I see.",
+        "pl": "Rozumiem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE DriftwoodCane": {
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds10": {
+        "en": "If you watch him closely, Gripp holds this tighter whenever he gets sad or nervous...",
+        "pl": "Jeśli obserwujesz go uważnie, Gripp trzyma to mocniej, kiedy robi się smutny albo zdenerwowany...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds14": {
+        "en": "Sounds like you've really been [i]staring[/i] at him.",
+        "pl": "Brzmi, jakbyś naprawdę się w niego [i]wpatrywała.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds17": {
+        "en": "...and only lets go of it when he's totally at ease.",
+        "pl": "...i puszcza to dopiero, kiedy jest zupełnie spokojny.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds18": {
+        "en": "Yeah, well, you can learn a lot watching someone's involuntary movements.",
+        "pl": "No cóż, można się wiele nauczyć, obserwując czyjeś mimowolne ruchy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds19": {
+        "en": "Okay, do [i]me.[/i]",
+        "pl": "Okej, zrób to ze [i]mną.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds21": {
+        "en": "You're tired. Achy. You only got an hour of sleep - on a hard surface.",
+        "pl": "Jesteś zmęczona. Obolała. Spałaś tylko godzinę - na twardej powierzchni.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE DriftwoodCane/Section ds22": {
+        "en": "Wow, I feel so seen.",
+        "pl": "Wow, czuję się tak przejrzana.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE FamilyPhoto": {
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds0": {
+        "en": "There it is - on the left hand side, in the big tank of water.",
+        "pl": "Oto i on - po lewej stronie, w wielkim zbiorniku z wodą.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds6": {
+        "en": "What [i]is[/i] it? Some kind of sea creature?",
+        "pl": "Co to [i]jest?[/i] Jakieś stworzenie morskie?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds7": {
+        "en": "I think it's the reason they built the submarine.\n",
+        "pl": "Myślę, że to powód, dla którego zbudowali łódź podwodną.\n",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds8": {
+        "en": "They built a submarine to house a [i]sea creature?[/i]",
+        "pl": "Zbudowali łódź podwodną, żeby pomieścić [i]stworzenie morskie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds9": {
+        "en": "Mhm.",
+        "pl": "Mhm.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds10": {
+        "en": "I don't understand, where would it [i]live?[/i] Wouldn't it need to be in [i]water?[/i]",
+        "pl": "Nie rozumiem, gdzie by [i]mieszkało?[/i] Czy nie musiałoby być w [i]wodzie?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds11": {
+        "en": "Yeah. There's a special area of submarine that can fill up with seawater.",
+        "pl": "Tak. Jest specjalny obszar łodzi podwodnej, który można wypełnić wodą morską.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds12": {
+        "en": "Where??",
+        "pl": "Gdzie??",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds13": {
+        "en": "You're standing on top of it, right this second.",
+        "pl": "Stoisz właśnie na nim, w tej sekundzie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FamilyPhoto/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE FeliciaPainting": {
+      "Conversation/Tadpole CLUE FeliciaPainting/Section ds0": {
+        "en": "You know, I think this painting is the answer.",
+        "pl": "Wiecie, myślę, że ten obraz to odpowiedź.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FeliciaPainting/Section ds6": {
+        "en": "To what?",
+        "pl": "Na co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE FeliciaPainting/Section ds7": {
+        "en": "Everything. Magnus Mortuga, what he was doing, what he was thinking...",
+        "pl": "Na wszystko. Magnus Mortuga, co robił, o czym myślał...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FeliciaPainting/Section ds8": {
+        "en": "Even, maybe - how and why he died.",
+        "pl": "Nawet, może - jak i czemu umarł.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FeliciaPainting/Section ds18": {
+        "en": "[i]I swear - there's [h]always[/h] a painting with a secret in it.[/i]",
+        "pl": "[i]Przysięgam - [h]zawsze[/h] jest jakiś obraz z sekretem w środku.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE Figurehead": {
+      "Conversation/Tadpole CLUE Figurehead/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE FilmProjector": {
+      "Conversation/Tadpole CLUE FilmProjector/Section ds0": {
+        "en": "That's Mortuga's.",
+        "pl": "To Mortugi.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FilmProjector/Section ds6": {
+        "en": "Although, presumably he got it from someone else.",
+        "pl": "Chociaż, zapewne dostał to od kogoś innego.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FilmProjector/Section ds8": {
+        "en": "Someone on the submarine?",
+        "pl": "Ktoś z łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE FilmProjector/Section ds9": {
+        "en": "I mean someone from before.",
+        "pl": "Mam na myśli kogoś sprzed.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE FogBall": {
+      "Conversation/Tadpole CLUE FogBall/Section ds0": {
+        "en": "That belongs to Sym, I'm pretty sure.",
+        "pl": "To należy do Sym, jestem prawie pewna.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FogBall/Section ds6": {
+        "en": "It's something to do with her old magic act.",
+        "pl": "To ma coś wspólnego z jej dawnym numerem magicznym.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FogBall/Section ds7": {
+        "en": "You might be right, but we found it in Zephyr's [i]Dream Chamber.[/i]",
+        "pl": "Możesz mieć rację, ale znaleźliśmy to w [i]Komnacie Snów[/i] Zephyra.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE FogBall/Section ds8": {
+        "en": "[i]Still?[/i] I told him to give all her stuff back.",
+        "pl": "[i]Wciąż?[/i] Mówiłam mu, żeby oddał jej wszystkie rzeczy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE FogBall/Section ds10": {
+        "en": "I'll have to have a word with him.",
+        "pl": "Będę musiała z nim porozmawiać.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE GlassEyeball": {
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds0": {
+        "en": "Where did you find that?",
+        "pl": "Gdzie to znaleźliście?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds6": {
+        "en": "We just - found it - lying around in a corridor. What is it?",
+        "pl": "Po prostu - znaleźliśmy to - leżało w korytarzu. Co to jest?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds7": {
+        "en": "It was in Sym's-",
+        "pl": "Było w Sym-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds8": {
+        "en": "It's Magnus's [i]key.[/i] It unlocks his cabin.",
+        "pl": "To [i]klucz[/i] Magnusa. Odblokowuje jego kajutę.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds9": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds10": {
+        "en": "Yeah. You just gotta - [i]push the iris...[/i]",
+        "pl": "Tak. Trzeba po prostu - [i]wcisnąć tęczówkę...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds11": {
+        "en": "...and the key pops out the back. See?",
+        "pl": "...i klucz wyskakuje z tyłu. Widzicie?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds12": {
+        "en": "That feels kinda [i]violent.[/i]",
+        "pl": "To wydaje się trochę [i]brutalne.[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds13": {
+        "en": "So, you need this to lock or unlock the Captain's Cabin?",
+        "pl": "Więc potrzebujesz tego, żeby zamknąć albo otworzyć Kajutę Kapitana?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds14": {
+        "en": "Uh-huh. Magnus only locked that door on rare occasions, but whenever he did - he used this key.",
+        "pl": "Aha. Magnus zamykał te drzwi tylko w rzadkich przypadkach, ale kiedy to robił - używał tego klucza.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds16": {
+        "en": "Down the hall from the Parlor - at the very back of the submarine.",
+        "pl": "W dół korytarza od Salonu - na samym tyle łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GlassEyeball/Section ds17": {
+        "en": "And, uh - the cabin is...?",
+        "pl": "I, yy - kajuta jest...?",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE GoldenLocket": {
+      "Conversation/Tadpole CLUE GoldenLocket/Section ds6": {
+        "en": "I'm surprised Sym let you see it, she's normally pretty guarded about it.",
+        "pl": "Dziwię się, że Sym pozwoliła wam to zobaczyć, zwykle jest z tym dość skryta.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GoldenLocket/Section ds8": {
+        "en": "Uh  - it's some kind of family [i]heirloom[/i], I think?",
+        "pl": "Yy - to jakaś rodzinna [i]pamiątka,[/i] chyba?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE GoldenLocket/Section ds9": {
+        "en": "Do you know why she [i]wears[/i] it all the time?",
+        "pl": "Wiesz, czemu [i]nosi[/i] to cały czas?",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE HandheldRadio": {
+      "Conversation/Tadpole CLUE HandheldRadio/Section ds0": {
+        "en": "It's a radio... dressed up like a little doll...",
+        "pl": "To radio... przebrane za małą lalkę...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandheldRadio/Section ds6": {
+        "en": "-is it not [h]Sinthia?[/h]",
+        "pl": "-czy to nie [h]Sinthia?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE HandheldRadio/Section ds7": {
+        "en": "Do you know who it's supposed to [i]be?[/i]",
+        "pl": "Wiesz, kogo ma [i]przedstawiać?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandheldRadio/Section ds8": {
+        "en": "I don't [i]think[/i] so...",
+        "pl": "Nie [i]sądzę...[/i]",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE HandwrittenLetter": {
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds0": {
+        "en": "I don't know anything about that.",
+        "pl": "Nic o tym nie wiem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds6": {
+        "en": "Never seen it before.",
+        "pl": "Nigdy tego nie widziałam.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds9": {
+        "en": "You sure...?",
+        "pl": "Jesteś pewna...?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds10": {
+        "en": "Oh...",
+        "pl": "Och...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds11": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds12": {
+        "en": "[i]What?[/i]",
+        "pl": "[i]Co?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HandwrittenLetter/Section ds13": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE HexBottle": {
+      "Conversation/Tadpole CLUE HexBottle/Section ds0": {
+        "en": "Any idea what Zephyr's keeping in this bottle...?",
+        "pl": "Masz pojęcie, co Zephyr trzyma w tej butelce...?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds7": {
+        "en": "Every evening, he comes by the Airlock and empties the bottle into the water tank below.",
+        "pl": "Każdego wieczoru przychodzi do Śluzy Powietrznej i opróżnia butelkę do zbiornika wodnego poniżej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds8": {
+        "en": "...and the water tank leads out into the ocean?",
+        "pl": "...a zbiornik wodny wychodzi do oceanu?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds9": {
+        "en": "Yeah. And then each morning, he comes by with the empty bottle and fills it back up again.",
+        "pl": "Tak. A potem każdego ranka przychodzi z pustą butelką i napełnia ją z powrotem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds10": {
+        "en": "Whatever it is, he dumps it into the ocean every single night.",
+        "pl": "Cokolwiek to jest, wyrzuca to do oceanu każdej nocy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds11": {
+        "en": "Why?? What's he doing?",
+        "pl": "Czemu?? Co on robi?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds12": {
+        "en": "I've never managed to work it out.",
+        "pl": "Nigdy nie udało mi się tego rozgryźć.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds14": {
+        "en": "What?? What d'you mean?",
+        "pl": "Co?? Co masz na myśli?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE HexBottle/Section ds19": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE HexoftheHelmsman": {
+      "Conversation/Tadpole CLUE HexoftheHelmsman/Section ds0": {
+        "en": "So the main character's inspired by Magnus Mortuga...?",
+        "pl": "Więc główny bohater jest inspirowany Magnusem Mortugą...?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexoftheHelmsman/Section ds8": {
+        "en": "Nice. Real subtle.",
+        "pl": "Ładnie. Naprawdę subtelnie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE HexoftheHelmsman/Section ds11": {
+        "en": "I think so. But Wirman changed his name to 'Markus Mordoom'.",
+        "pl": "Chyba tak. Ale Wirman zmienił jego imię na 'Markus Mordoom'.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE IllusionistPoster": {
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds0": {
+        "en": "I saw posters just like this up on the walls in Fortuna Hall...",
+        "pl": "Widziałam takie same plakaty na ścianach w Fortuna Hall...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds6": {
+        "en": "You went to see Symmetry's show?",
+        "pl": "Byłaś na pokazie Symmetry?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds7": {
+        "en": "No - by the time I came through the town, she'd already left.",
+        "pl": "Nie - zanim przejeżdżałam przez miasteczko, ona już wyjechała.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds8": {
+        "en": "But her posters were still up?",
+        "pl": "Ale jej plakaty wciąż wisiały?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds9": {
+        "en": "Yeah, the owner was scrambling to find something new. I don't think she wanted to admit she'd lost her star act.",
+        "pl": "Tak, właścicielka gorączkowo szukała czegoś nowego. Nie sądzę, żeby chciała przyznać, że straciła swoją gwiazdę programu.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds11": {
+        "en": "And - did she ever find a new show?",
+        "pl": "I - znalazła kiedyś nowy pokaz?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds12": {
+        "en": "Uh, no. It didn't work out.",
+        "pl": "Yy, nie. Nie wyszło.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds14": {
+        "en": "The theatre owner, that's, uh - Baroness Fortuna?",
+        "pl": "Właścicielka teatru, to, yy - Baronowa Fortuna?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds15": {
+        "en": "That's her.",
+        "pl": "To ona.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IllusionistPoster/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE InnDeeds": {
+      "Conversation/Tadpole CLUE InnDeeds/Section ds0": {
+        "en": "[i]The Stonetop Inn...[/i]",
+        "pl": "[i]Gospoda Stonetop...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE InnDeeds/Section ds6": {
+        "en": "That's where [h]Magnus[/h] lived - back before the submarine.",
+        "pl": "Tam mieszkał [h]Magnus[/h] - jeszcze przed łodzią podwodną.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE InnDeeds/Section ds7": {
+        "en": "He lived in the [h]Inn?[/h] But - he wasn't part of the Stonetop family, surely?",
+        "pl": "Mieszkał w [h]Gospodzie?[/h] Ale - chyba nie był częścią rodziny Stonetop?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE InnDeeds/Section ds8": {
+        "en": "No - I don't think he had [h]any[/h] family in the town.",
+        "pl": "Nie - nie sądzę, żeby miał [h]jakąkolwiek[/h] rodzinę w miasteczku.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE IronBell": {
+      "Conversation/Tadpole CLUE IronBell/Section ds0": {
+        "en": "This thing weighs a [i]ton...[/i]",
+        "pl": "Ta rzecz waży [i]tonę...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds6": {
+        "en": "Reckon you could pick it up? You're pretty strong, right?",
+        "pl": "Myślisz, że mogłabyś to podnieść? Jesteś dość silna, prawda?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds7": {
+        "en": "Probably. But he had real big arms, like me.",
+        "pl": "Pewnie. Ale on miał naprawdę wielkie ramiona, jak ja.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds8": {
+        "en": "I could maybe get my [h]arms[/h] around it, just about...",
+        "pl": "Może udałoby mi się objąć to [h]ramionami,[/h] tak jakoś...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds10": {
+        "en": "What about Mortuga?",
+        "pl": "A co z Mortugą?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds11": {
+        "en": "But for anyone else, it'd be a two person job?",
+        "pl": "Ale dla kogokolwiek innego, to byłaby robota dla dwóch osób?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE IronBell/Section ds12": {
+        "en": "Yeah, I think so.",
+        "pl": "Tak, chyba tak.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE LifesizeDoll": {
+      "Conversation/Tadpole CLUE LifesizeDoll/Section ds0": {
+        "en": "I never had dolls as a child.",
+        "pl": "Nigdy nie miałam lalek jako dziecko.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE LifesizeDoll/Section ds6": {
+        "en": "The closest thing I had were frogs I'd catch from a pond. I'd give them names and try to make friends with them.",
+        "pl": "Najbliższe temu były żaby, które łapałam ze stawu. Nadawałam im imiona i próbowałam się z nimi zaprzyjaźnić.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE LifesizeDoll/Section ds7": {
+        "en": "What did you have instead?",
+        "pl": "Co miałaś zamiast tego?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE LifesizeDoll/Section ds8": {
+        "en": "Nothing, we were super poor.",
+        "pl": "Nic, byliśmy strasznie biedni.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE LifesizeDoll/Section ds9": {
+        "en": "Ahh, the best things in life are free.",
+        "pl": "Achh, najlepsze rzeczy w życiu są za darmo.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE MermaidPainting": {
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds6": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds7": {
+        "en": "I feel like I know what this is.",
+        "pl": "Mam wrażenie, że wiem, co to jest.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds8": {
+        "en": "The thing in the painting - you've seen it?",
+        "pl": "Ta rzecz na obrazie - widziałaś to?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds9": {
+        "en": "Not seen it.\nMore like... felt it.",
+        "pl": "Nie widziałam.\nBardziej jakby... to poczuła.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds11": {
+        "en": "I'm pretty sure it's out there. Maybe even right now.",
+        "pl": "Jestem prawie pewna, że to gdzieś tam jest. Może nawet teraz.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds12": {
+        "en": "Uh...",
+        "pl": "Yy...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds13": {
+        "en": "Hm.\nThat's up to you.",
+        "pl": "Hm.\nTo zależy od was.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds14": {
+        "en": "Should we be worried about this?",
+        "pl": "Powinniśmy się tym martwić?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MermaidPainting/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE MessageinaBottle": {
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds0": {
+        "en": "Where did you get this [i]bottle[/i] from?",
+        "pl": "Skąd masz tę [i]butelkę?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds6": {
+        "en": "I found it in the ocean, like everything else in here.",
+        "pl": "Znalazłam ją w oceanie, jak wszystko inne tutaj.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds7": {
+        "en": "When? Recently?",
+        "pl": "Kiedy? Niedawno?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds8": {
+        "en": "Yeah, this morning.",
+        "pl": "Tak, dziś rano.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds9": {
+        "en": "Was it near the submarine?",
+        "pl": "Była blisko łodzi podwodnej?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds10": {
+        "en": "Of course, I never go [i]too[/i] far out.",
+        "pl": "Jasne, nigdy nie odpływam [i]zbyt[/i] daleko.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds11": {
+        "en": "Are you gonna open it up?",
+        "pl": "Zamierzasz to otworzyć?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds12": {
+        "en": "[i]No way,[/i] it's a message in a bottle-",
+        "pl": "[i]W życiu,[/i] to wiadomość w butelce-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds13": {
+        "en": "-if I [i]opened[/i] it, it'd just be a message [h]and[/h] a bottle. Not nearly as interesting.",
+        "pl": "-gdybym to [i]otworzyła,[/i] to byłaby po prostu wiadomość [h]i[/h] butelka. Wcale nie tak interesujące.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MessageinaBottle/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE ModelTown": {
+      "Conversation/Tadpole CLUE ModelTown/Section ds10": {
+        "en": "Magnus carved and painted it himself, so it's very specific to his life.",
+        "pl": "Magnus sam to wyrzeźbił i pomalował, więc jest to bardzo specyficzne dla jego życia.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ModelTown/Section ds11": {
+        "en": "It basically only shows the buildings and people that were relevant to him.",
+        "pl": "Zasadniczo pokazuje tylko budynki i ludzi, którzy byli dla niego ważni.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ModelTown/Section ds12": {
+        "en": "I noticed Mortuga [i]himself[/i] isn't on there...",
+        "pl": "Zauważyłem, że samego Mortugi tam [i]nie ma...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE ModelTown/Section ds13": {
+        "en": "No... I think he's somewhere else.",
+        "pl": "Nie... myślę, że jest gdzie indziej.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE MoonVial": {
+      "Conversation/Tadpole CLUE MoonVial/Section ds0": {
+        "en": "This was on the floor of the crime scene-",
+        "pl": "To leżało na podłodze miejsca zbrodni-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds6": {
+        "en": "Poison, maybe?",
+        "pl": "Trucizna, może?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds7": {
+        "en": "We don't [h]know[/h] that.\nWe don't know [h]what[/h] it is.",
+        "pl": "Nie [h]wiemy[/h] tego.\nNie wiemy, [h]czym[/h] to jest.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds8": {
+        "en": "Doesn't make any [i]sense[/i] for it to be poison-",
+        "pl": "Nie ma [i]sensu,[/i] żeby to była trucizna-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds9": {
+        "en": "Magnus was killed with a blade. Something sharp.",
+        "pl": "Magnus został zabity ostrzem. Czymś ostrym.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds10": {
+        "en": "Right-",
+        "pl": "No tak-",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds11": {
+        "en": "-but there wasn't anything like that at the crime scene.",
+        "pl": "-ale na miejscu zbrodni nie było niczego takiego.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds12": {
+        "en": "Well then it must be somewhere else.",
+        "pl": "Więc musi być gdzie indziej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE MoonVial/Section ds14": {
+        "en": "Do you know what it is?",
+        "pl": "Wiecie, czym to jest?",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE MourningEnvelope": {
+      "Conversation/Tadpole CLUE MourningEnvelope/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE MovieMagazine": {
+      "Conversation/Tadpole CLUE MovieMagazine/Section ds0": {
+        "en": "Yeah, see - [i]this[/i] what I'm talking about-",
+        "pl": "Tak, widzicie - [i]to[/i] właśnie mam na myśli-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MovieMagazine/Section ds6": {
+        "en": "Dirk looks [h]way[/h] better like that. The beard, the long hair, the outfit-",
+        "pl": "Dirk wygląda [h]dużo[/h] lepiej w ten sposób. Broda, długie włosy, strój-",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MovieMagazine/Section ds8": {
+        "en": "I can't help it if I have a type.",
+        "pl": "Nic na to nie poradzę, że mam swój typ.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE MovieMagazine/Section ds10": {
+        "en": "You like the rugged pirate look, huh?",
+        "pl": "Lubisz surowy piracki wygląd, co?",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE NewspaperPage": {
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds0": {
+        "en": "Where did you find [i]this?[/i]",
+        "pl": "Gdzie to [i]znaleźliście?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds6": {
+        "en": "Symmetry had it.\nDoes it not [i]belong[/i] to her?",
+        "pl": "Symmetry to miała.\nCzy to nie [i]należy[/i] do niej?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds7": {
+        "en": "No, it belongs to Magnus.",
+        "pl": "Nie, to należy do Magnusa.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds8": {
+        "en": "Just the front page? Or did he have the whole newspaper?",
+        "pl": "Tylko pierwsza strona? Czy miał całą gazetę?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds9": {
+        "en": "Just this one page.",
+        "pl": "Tylko tę jedną stronę.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds10": {
+        "en": "Why's he so interested in Sym's old magic act?",
+        "pl": "Czemu jest tak zainteresowany dawnym numerem magicznym Sym?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds11": {
+        "en": "He's not.",
+        "pl": "Nie jest.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE NewspaperPage/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE OceanTreasure": {
+      "Conversation/Tadpole CLUE OceanTreasure/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE Pocketbook": {
+      "Conversation/Tadpole CLUE Pocketbook/Section ds0": {
+        "en": "Hands off. That's mine.",
+        "pl": "Łapy przy sobie. To moje.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds6": {
+        "en": "How d'you get it [i]open?[/i]",
+        "pl": "Jak to się [i]otwiera?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds7": {
+        "en": "You don't.",
+        "pl": "Nijak.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds8": {
+        "en": "You don't know the [i]code?[/i]",
+        "pl": "Nie znasz [i]kodu?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds9": {
+        "en": "[i]Oh[/i], I [i]know[/i] it.",
+        "pl": "[i]Och,[/i] [i]znam[/i] go.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds10": {
+        "en": "But [h]you[/h] don't.",
+        "pl": "Ale [h]ty[/h] nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds11": {
+        "en": "What's this [i]symbol[/i] on the front? Looks like someone scratched it in with a [i]claw[/i] or something...",
+        "pl": "Co to za [i]symbol[/i] z przodu? Wygląda, jakby ktoś wydrapał to [i]pazurem[/i] czy czymś...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds12": {
+        "en": "None of your business.",
+        "pl": "Nie twój interes.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds13": {
+        "en": "...iiiis it your [i]phone number?[/i] Your [i]birthday?[/i]",
+        "pl": "...czyyy to twój [i]numer telefonu?[/i] Twoje [i]urodziny?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds18": {
+        "en": "Name of your childhood [i]pet?[/i]",
+        "pl": "Imię twojego [i]zwierzątka[/i] z dzieciństwa?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds19": {
+        "en": "Sally, it's a number.",
+        "pl": "Sally, to liczba.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE Pocketbook/Section ds20": {
+        "en": "Oh, yeah.",
+        "pl": "Och, tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE RaggedCloth": {
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds11": {
+        "en": "I'm pretty sure Magnus kept this in the store room...",
+        "pl": "Jestem prawie pewna, że Magnus trzymał to w magazynie...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds12": {
+        "en": "He had it covering the cauldron, I guess?",
+        "pl": "Zakrywał tym kocioł, jak sądzę?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds13": {
+        "en": "It seems likely.",
+        "pl": "Wydaje się prawdopodobne.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds14": {
+        "en": "Just to protect it from... dust?",
+        "pl": "Żeby chronić go przed... kurzem?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds15": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE RaggedCloth/Section ds16": {
+        "en": "Or maybe he was specifically keeping it [i]hidden...[/i]",
+        "pl": "Albo może celowo trzymał to [i]ukryte...[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE RippedScroll": {
+      "Conversation/Tadpole CLUE RippedScroll/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE SeaChart": {
+      "Conversation/Tadpole CLUE SeaChart/Section ds0": {
+        "en": "That drawing of the coral - it looks familiar...",
+        "pl": "Ten rysunek koralowca - wygląda znajomo...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SeaChart/Section ds6": {
+        "en": "Oh it's a - just a generic piece of red [i]coral[/i] - isn't it?",
+        "pl": "Och, to - po prostu zwykły kawałek czerwonego [i]koralowca[/i] - prawda?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE SeaChart/Section ds8": {
+        "en": "It reminds me of a piece I found in the [i]ocean[/i] recently...",
+        "pl": "Przypomina mi kawałek, który znalazłam ostatnio w [i]oceanie...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SeaChart/Section ds9": {
+        "en": "Can I see it? Do you still [i]have[/i] it?",
+        "pl": "Mogę zobaczyć? Wciąż go [i]masz?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE SeaChart/Section ds10": {
+        "en": "No.",
+        "pl": "Nie.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SeaChart/Section ds15": {
+        "en": "Great.",
+        "pl": "Świetnie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE ShipinaBottle": {
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds0": {
+        "en": "I'm pretty sure Magnus carved this himself.",
+        "pl": "Jestem prawie pewna, że Magnus sam to wyrzeźbił.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds6": {
+        "en": "I know one way you could get it [h]out[/h] of the bottle.",
+        "pl": "Znam jeden sposób, żeby wyciągnąć to [h]z[/h] butelki.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds7": {
+        "en": "No idea how he got it into the bottle, though...",
+        "pl": "Nie mam pojęcia, jak wsadził to do środka, chociaż...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds8": {
+        "en": "Trick of the trade, I guess.",
+        "pl": "Sztuczka fachu, jak sądzę.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds11": {
+        "en": "That's a last resort.",
+        "pl": "To ostateczność.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE ShipinaBottle/Section ds12": {
+        "en": "[i]Kschhh!![/i]",
+        "pl": "[i]Kszszsz!![/i]",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE ShipsWheel": {
+      "Conversation/Tadpole CLUE ShipsWheel/Section ds0": {
+        "en": "Magnus used to let me steer. He even taught me how to do it.",
+        "pl": "Magnus pozwalał mi kiedyś sterować. Nawet mnie tego nauczył.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ShipsWheel/Section ds12": {
+        "en": "...I don't know about that.",
+        "pl": "...tego to ja nie wiem.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE ShipsWheel/Section ds14": {
+        "en": "Sounds like he was setting you up to be the next captain.",
+        "pl": "Brzmi, jakby przygotowywał cię na następnego kapitana.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Tadpole CLUE SilkwirmMap": {
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds0": {
+        "en": "[i]Silkwirm-on-sea...[/i]",
+        "pl": "[i]Silkwirm nad Morzem...[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds6": {
+        "en": "Let's see... Magnus, Gripp, Wirman, Sinthia... oh - and Sym.",
+        "pl": "Zobaczmy... Magnus, Gripp, Wirman, Sinthia... och - i Sym.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds7": {
+        "en": "Those five are from the town. Or - they lived there for a while, at least.",
+        "pl": "Ta piątka jest z miasteczka. Albo - przynajmniej mieszkali tam przez jakiś czas.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds8": {
+        "en": "You think they all knew each other from before the submarine?",
+        "pl": "Myślisz, że wszyscy znali się jeszcze przed łodzią podwodną?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds9": {
+        "en": "Magnus and [i]Gripp[/i] knew each other, I think...",
+        "pl": "Magnus i [i]Gripp[/i] się znali, chyba...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds10": {
+        "en": "Oh yeah.",
+        "pl": "O tak.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE SilkwirmMap/Section ds11": {
+        "en": "They lived opposite, see?",
+        "pl": "Mieszkali naprzeciwko, widzicie?",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE StrangeDevice": {
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds0": {
+        "en": "Hm. Looks broken.",
+        "pl": "Hm. Wygląda na zepsute.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds6": {
+        "en": "[i]Does[/i] it? How can you tell?",
+        "pl": "Naprawdę [i]tak[/i] wygląda? Skąd wiesz?",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds7": {
+        "en": "I... just assumed it was waterlogged - from the bilgewater.",
+        "pl": "Ja... po prostu założyłam, że jest zalane wodą - z zęzy.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds8": {
+        "en": "How did you know we found it in the bilge?",
+        "pl": "Skąd wiedziałaś, że znaleźliśmy to w zęzie?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds9": {
+        "en": "Because it smells. And it's still wet.",
+        "pl": "Bo śmierdzi. I wciąż jest mokre.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds10": {
+        "en": "Oh yeah. Ew.\n-Sally, you take it.",
+        "pl": "O tak. Fuj.\n-Sally, ty to weź.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE StrangeDevice/Section ds11": {
+        "en": "[h]I[/h] don't want it! [i]You[/i] keep it!",
+        "pl": "[h]Ja[/h] tego nie chcę! [i]Ty[/i] to zatrzymaj!",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE SubmarineBlueprint": {
+      "Conversation/Tadpole CLUE SubmarineBlueprint/Section ds7": {
+        "en": "I guess now that Sinthia's captain, she wants an up-to-date blueprint of the submarine.",
+        "pl": "Sądzę, że teraz, kiedy Sinthia jest kapitanem, chce aktualnego planu łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SubmarineBlueprint/Section ds8": {
+        "en": "Why was there an [h]out[/h] of date blueprint??",
+        "pl": "Czemu w ogóle był [h]nieaktualny[/h] plan??",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE SubmarineBlueprint/Section ds9": {
+        "en": "The ship has kind of a complex history...",
+        "pl": "Statek ma dość skomplikowaną historię...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SubmarineBlueprint/Section ds13": {
+        "en": "She's been through a few different phases... lived through a few rough patches.",
+        "pl": "Przeszła przez kilka różnych faz... przetrwała parę trudnych okresów.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE SunTablets": {
+      "Conversation/Tadpole CLUE SunTablets/Section ds0": {
+        "en": "Dirk tried to get me to take these...",
+        "pl": "Dirk próbował namówić mnie, żebym to brała...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SunTablets/Section ds6": {
+        "en": "He's convinced we've all got a Vitamin D deficiency.",
+        "pl": "Jest przekonany, że wszyscy mamy niedobór witaminy D.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE SunTablets/Section ds13": {
+        "en": "He said that's why everyone on the submarine is, in his words; [i]'moody and weird'.[/i]",
+        "pl": "Powiedział, że dlatego wszyscy na łodzi podwodnej są, jego słowami; [i]'humorzaści i dziwni'.[/i]",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE TheMermaidsTongue": {
+      "Conversation/Tadpole CLUE TheMermaidsTongue/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE Typewriter": {
+      "Conversation/Tadpole CLUE Typewriter/Section ds0": {
+        "en": "I really don't know why Wirman brought that bulky old thing with him.",
+        "pl": "Naprawdę nie wiem, czemu Wirman przywiózł ze sobą to nieporęczne, stare graty.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Typewriter/Section ds6": {
+        "en": "Maybe the typewriter's got some kind of [i]sentimental[/i] value.",
+        "pl": "Może maszyna do pisania ma jakąś [i]sentymentalną[/i] wartość.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE Typewriter/Section ds7": {
+        "en": "It [i]must[/i] do - otherwise he'd upgrade to something more modern. ",
+        "pl": "[i]Musi[/i] mieć - inaczej przesiadłby się na coś nowocześniejszego. ",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Typewriter/Section ds15": {
+        "en": "That's no way to talk about Dirk.",
+        "pl": "Tak się nie mówi o Dirku.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE Typewriter/Section ds16": {
+        "en": "Hahaha!",
+        "pl": "Hahaha!",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE Typewriter/Section ds17": {
+        "en": "I don't doubt he could afford it.",
+        "pl": "Nie wątpię, że byłoby go stać.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE UnderwaterPhoto": {
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds6": {
+        "en": "Tadpole... is this a photo of [h]you?[/h]",
+        "pl": "Tadpole... czy to zdjęcie [h]ciebie?[/h]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds7": {
+        "en": "Why'd you say that?",
+        "pl": "Czemu tak mówisz?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds8": {
+        "en": "It's just - it's an [i]underwater[/i] photo... and it kinda looks like a woman's face, I just thought-",
+        "pl": "Po prostu - to zdjęcie [i]podwodne...[/i] i trochę wygląda jak twarz kobiety, po prostu pomyślałam-",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds9": {
+        "en": "All mysterious underwater women look alike, is that it?",
+        "pl": "Wszystkie tajemnicze podwodne kobiety wyglądają tak samo, o to chodzi?",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds10": {
+        "en": "Uh, no, I-",
+        "pl": "Yy, nie, ja-",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds11": {
+        "en": "Hahaha, I'm kidding.",
+        "pl": "Hahaha, żartuję.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds12": {
+        "en": "For the record;\n[h]I[/h] don't think it looks like you.",
+        "pl": "Tak dla wiadomości;\n[h]Ja[/h] nie sądzę, żeby to wyglądało jak ty.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds13": {
+        "en": "In fact, it doesn't look like [i]anyone.[/i]",
+        "pl": "Właściwie, to nie wygląda jak [i]ktokolwiek.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE UnderwaterPhoto/Section ds19": {
+        "en": "Right. It doesn't.",
+        "pl": "No tak. Nie wygląda.",
+        "speaker": "Tadpole"
+      }
+    },
+    "Tadpole CLUE WoodenBuoy": {
+      "Conversation/Tadpole CLUE WoodenBuoy/Section ds0": {
+        "en": "Magnus wouldn't bring this inside the submarine...",
+        "pl": "Magnus nie wnosiłby tego do środka łodzi podwodnej...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE WoodenBuoy/Section ds7": {
+        "en": "...but he didn't seem to want to get [i]rid[/i] of it either.",
+        "pl": "...ale nie wyglądało też na to, żeby chciał się tego [i]pozbyć.[/i]",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE WoodenBuoy/Section ds8": {
+        "en": "So, it must have some kind of purpose.",
+        "pl": "Więc musi mieć jakiś cel.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE WoodenBuoy/Section ds9": {
+        "en": "We already [h]know[/h] what it does - we saw it on the way in.",
+        "pl": "Już [h]wiemy,[/h] co to robi - widzieliśmy to w drodze tutaj.",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE WoodenBuoy/Section ds10": {
+        "en": "It shines a big green light so you know where to go to find the submarine.",
+        "pl": "Świeci wielkim zielonym światłem, żebyś wiedział, gdzie iść, żeby znaleźć łódź podwodną.",
+        "speaker": "Sally"
+      }
+    },
+    "Tadpole CLUE WoodenPipe": {
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds6": {
+        "en": "Mariana's like a little mole, digging around for worms...",
+        "pl": "Mariana jest jak mały kret, wygrzebujący robaki...",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds8": {
+        "en": "I can't imagine what she'd get on me - I don't have any secrets.",
+        "pl": "Nie wyobrażam sobie, co by na mnie znalazła - nie mam żadnych sekretów.",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds9": {
+        "en": "...except the worms are other people's secrets.",
+        "pl": "...tyle że robaki to cudze sekrety.",
+        "speaker": "Tadpole"
+      },
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds10": {
+        "en": "What about your [i]first name?[/i]",
+        "pl": "A co z twoim [i]imieniem?[/i]",
+        "speaker": "Sally"
+      },
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds11": {
+        "en": "What about your [h]second[/h] name?",
+        "pl": "A co z twoim [h]drugim[/h] imieniem?",
+        "speaker": "Grimoire"
+      },
+      "Conversation/Tadpole CLUE WoodenPipe/Section ds12": {
+        "en": "Let's change the subject.",
+        "pl": "Zmieńmy temat.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "batch": "Examine - Map nav (65 terminow) - komunikaty systemowe mapy: proby wejscia do zablokowanych/niedostepnych lokacji, wielokrotnie powielone warianty tego samego krotkiego tekstu (rozne ds odpowiadaja rozmym punktom w grze, gdzie ten sam komunikat sie pojawia). Ostatni blok wspolnych mechanik przed Puzzle misc i OTHER_UI.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. To komunikaty systemowe/UI bez wyraznego mowcy w zrodle - oznaczone jako 'Grimoire (domniemany)' dla komunikatow informacyjnych i 'Sally (domniemany)' dla reakcji '...', zgodnie z konwencja przyjeta dla podobnego tekstu wspolnego w poprzednich batchach (np. batch_68 Puzzle UI)."
+  },
+  "categories": {
+    "Exam_Map_...": {
+      "Examine/Exam_Map_.../Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_.../Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_.../Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_.../Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Map_It wont open": {
+      "Examine/Exam_Map_It wont open/Section ds1": {
+        "en": "It won't open.",
+        "pl": "Nie otworzy się.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_It wont open/Section ds4": {
+        "en": "It won't open.",
+        "pl": "Nie otworzy się.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_It wont open/Section ds5": {
+        "en": "It won't open.",
+        "pl": "Nie otworzy się.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_It wont open/Section ds6": {
+        "en": "It won't open.",
+        "pl": "Nie otworzy się.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Its locked": {
+      "Examine/Exam_Map_Its locked/Section ds0": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds11": {
+        "en": "It's locked.",
+        "pl": "Jest zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds13": {
+        "en": "It's locked.",
+        "pl": "Jest zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds15": {
+        "en": "It's locked.",
+        "pl": "Jest zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds16": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds4": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds5": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds7": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked/Section ds9": {
+        "en": "It's locked.",
+        "pl": "Jest zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Its locked CaptainsCabin": {
+      "Examine/Exam_Map_Its locked CaptainsCabin/Request exitClueRequest0Hint0": {
+        "en": "Do we have a key for the Captain's Cabin...?",
+        "pl": "Czy mamy klucz do Kajuty Kapitana...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds0": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds13": {
+        "en": "Locked.",
+        "pl": "Zamknięte.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds13 Choice 1": {
+        "en": "Use Item",
+        "pl": "Użyj przedmiotu",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds13 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds13 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Map_Its locked CaptainsCabin/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Map_Lets head to the crime scene first": {
+      "Examine/Exam_Map_Lets head to the crime scene first/Section ds5": {
+        "en": "Let's head to the crime scene first.",
+        "pl": "Idźmy najpierw na miejsce zbrodni.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets head to the crime scene first/Section ds6": {
+        "en": "Let's head to the crime scene first.",
+        "pl": "Idźmy najpierw na miejsce zbrodni.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets head to the crime scene first/Section ds7": {
+        "en": "Let's go to the crime scene before we do anything else.",
+        "pl": "Pójdźmy na miejsce zbrodni, zanim zrobimy cokolwiek innego.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets head to the crime scene first/Section ds8": {
+        "en": "Let's go to the crime scene before we do anything else.",
+        "pl": "Pójdźmy na miejsce zbrodni, zanim zrobimy cokolwiek innego.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Lets not wander off right now": {
+      "Examine/Exam_Map_Lets not wander off right now/Section ds1": {
+        "en": "Let's not wander off right now.",
+        "pl": "Nie wałęsajmy się teraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets not wander off right now/Section ds4": {
+        "en": "Let's not wander off right now.",
+        "pl": "Nie wałęsajmy się teraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets not wander off right now/Section ds5": {
+        "en": "Let's not wander off right now.",
+        "pl": "Nie wałęsajmy się teraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets not wander off right now/Section ds6": {
+        "en": "Let's not wander off right now.",
+        "pl": "Nie wałęsajmy się teraz.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Lets stay where we are for now": {
+      "Examine/Exam_Map_Lets stay where we are for now/Section ds1": {
+        "en": "Let's stay where we are for now.",
+        "pl": "Zostańmy na razie tam, gdzie jesteśmy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets stay where we are for now/Section ds4": {
+        "en": "Let's stay where we are for now.",
+        "pl": "Zostańmy na razie tam, gdzie jesteśmy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets stay where we are for now/Section ds5": {
+        "en": "Let's stay where we are for now.",
+        "pl": "Zostańmy na razie tam, gdzie jesteśmy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Lets stay where we are for now/Section ds6": {
+        "en": "Let's stay where we are for now.",
+        "pl": "Zostańmy na razie tam, gdzie jesteśmy.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Nope cant do that": {
+      "Examine/Exam_Map_Nope cant do that/Section ds1": {
+        "en": "Nope. Can't do that.",
+        "pl": "Nie. Nie możemy tego zrobić.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Nope cant do that/Section ds4": {
+        "en": "Nope. Can't do that.",
+        "pl": "Nie. Nie możemy tego zrobić.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Nope cant do that/Section ds5": {
+        "en": "Nope. Can't do that.",
+        "pl": "Nie. Nie możemy tego zrobić.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Nope cant do that/Section ds6": {
+        "en": "Nope. Can't do that.",
+        "pl": "Nie. Nie możemy tego zrobić.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Probably not a good idea right now": {
+      "Examine/Exam_Map_Probably not a good idea right now/Section ds1": {
+        "en": "Probably not a good idea right now.",
+        "pl": "Prawdopodobnie to nie jest teraz dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Probably not a good idea right now/Section ds4": {
+        "en": "Probably not a good idea right now.",
+        "pl": "Prawdopodobnie to nie jest teraz dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Probably not a good idea right now/Section ds5": {
+        "en": "Probably not a good idea right now.",
+        "pl": "Prawdopodobnie to nie jest teraz dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Probably not a good idea right now/Section ds6": {
+        "en": "Probably not a good idea right now.",
+        "pl": "Prawdopodobnie to nie jest teraz dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Thats not a good idea": {
+      "Examine/Exam_Map_Thats not a good idea/Section ds1": {
+        "en": "That's not a good idea.",
+        "pl": "To nie jest dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Thats not a good idea/Section ds4": {
+        "en": "That's not a good idea.",
+        "pl": "To nie jest dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Thats not a good idea/Section ds5": {
+        "en": "That's not a good idea.",
+        "pl": "To nie jest dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_Thats not a good idea/Section ds6": {
+        "en": "That's not a good idea.",
+        "pl": "To nie jest dobry pomysł.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_Unlocking CaptainsCabin": {
+      "Examine/Exam_Map_Unlocking CaptainsCabin/Section ds17": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally (domniemany)"
+      },
+      "Examine/Exam_Map_Unlocking CaptainsCabin/Section ds18": {
+        "en": "That's the one.",
+        "pl": "O, to jest to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_We cant get in there right now": {
+      "Examine/Exam_Map_We cant get in there right now/Section ds1": {
+        "en": "We can't get in there right now.",
+        "pl": "Nie możemy się tam teraz dostać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant get in there right now/Section ds4": {
+        "en": "We can't get in there right now.",
+        "pl": "Nie możemy się tam teraz dostać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant get in there right now/Section ds5": {
+        "en": "We can't get in there right now.",
+        "pl": "Nie możemy się tam teraz dostać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant get in there right now/Section ds6": {
+        "en": "We can't get in there right now.",
+        "pl": "Nie możemy się tam teraz dostać.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Map_We cant go outside right now": {
+      "Examine/Exam_Map_We cant go outside right now/Section ds1": {
+        "en": "We can't go outside right now.",
+        "pl": "Nie możemy teraz wyjść na zewnątrz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant go outside right now/Section ds4": {
+        "en": "We can't go outside right now.",
+        "pl": "Nie możemy teraz wyjść na zewnątrz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant go outside right now/Section ds5": {
+        "en": "We can't go outside right now.",
+        "pl": "Nie możemy teraz wyjść na zewnątrz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Map_We cant go outside right now/Section ds6": {
+        "en": "We can't go outside right now.",
+        "pl": "Nie możemy teraz wyjść na zewnątrz.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,775 @@
+{
+  "_meta": {
+    "batch": "Puzzles - czesc 2 (ostatnia): SuspectBoard1 (37) + SuspectBoard2 (76, w tym KLUCZOWE odkrycie: Mortuga sam wyslal list T.W. Ibisa do Wirmana, licząc na informacje o Felicii Stonetop; Mortuga NIE zdenerwowal sie pokazem Symmetry, lecz wiadomoscia o smierci Gubernatora Fellow) + MarianaStatementBoard (17, dziennik Moon z pierwszej wizyty na lodzi, oprowadzanej przez Grippa) + 8 mniejszych grup mechanik zagadek (GrippShop, CutSceneControlRoom, LockedBoxZephyr/Gripp/Symmetry, PuzzleBellCauldron/MarianaTent/LifesizeDoll) + 4 grupy 'Requests' (podpowiedzi/prosby o dowod). KOMPLETUJE cala kategorie Puzzles (556/556).",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_puzzles_en.json)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "note_grammar": "SuspectBoard1/2 to karty biograficzne dopasowywane do portretow podejrzanych - rodzaj gramatyczny czasownikow dobrano wg jawnych zaimkow w zrodle (he/his/she/her) lub, przy ich braku, wg utrwalonej fabuly (np. Text14-16 = Symmetry, fem). Kilka kart bez zadnego sygnalu (domniemane dystraktory) otrzymalo rodzaj meski jako domyslny, spojnie z konwencja przyjeta w batch_98 (Connectors)."
+  },
+  "categories": {
+    "GrippShop": {
+      "Puzzles/Text/GrippShop/Text0": {
+        "en": "Compass",
+        "pl": "Kompas"
+      },
+      "Puzzles/Text/GrippShop/Text1": {
+        "en": "Sextant",
+        "pl": "Sekstant"
+      },
+      "Puzzles/Text/GrippShop/Text2": {
+        "en": "Map",
+        "pl": "Mapa"
+      },
+      "Puzzles/Text/GrippShop/Text3": {
+        "en": "Chronometer",
+        "pl": "Chronometr"
+      },
+      "Puzzles/Text/GrippShop/Text4": {
+        "en": "Spyglass",
+        "pl": "Luneta"
+      },
+      "Puzzles/Text/GrippShop/Text5": {
+        "en": "Chart",
+        "pl": "Mapa nawigacyjna"
+      },
+      "Puzzles/Text/GrippShop/Text6": {
+        "en": "Exit Shop",
+        "pl": "Wyjdź ze Sklepu"
+      }
+    },
+    "CutSceneControlRoom": {
+      "Puzzles/Text/CutSceneControlRoom/Text0": {
+        "en": "We're being held down! We need to resurface!!",
+        "pl": "Coś nas przytrzymuje! Musimy wypłynąć na powierzchnię!!"
+      },
+      "Puzzles/Text/CutSceneControlRoom/Text1": {
+        "en": "The submarine can't take it - the controls are going crazy!",
+        "pl": "Łódź tego nie wytrzyma - sterowanie oszalało!"
+      },
+      "Puzzles/Text/CutSceneControlRoom/Text2": {
+        "en": "Wait-",
+        "pl": "Czekaj-"
+      },
+      "Puzzles/Text/CutSceneControlRoom/Text3": {
+        "en": "What - what did she...",
+        "pl": "Co - co ona..."
+      },
+      "Puzzles/Text/CutSceneControlRoom/Text4": {
+        "en": "She's gone.",
+        "pl": "Zniknęła."
+      },
+      "Puzzles/Text/CutSceneControlRoom/Text5": {
+        "en": "She let us go.",
+        "pl": "Puściła nas."
+      }
+    },
+    "LockedBoxZephyr": {
+      "Puzzles/Text/LockedBoxZephyr/Text0": {
+        "en": "a crimson hue upon the label",
+        "pl": "karmazynowy odcień na etykiecie"
+      },
+      "Puzzles/Text/LockedBoxZephyr/Text1": {
+        "en": "aerated with effervescence",
+        "pl": "musująca od pęcherzyków powietrza"
+      },
+      "Puzzles/Text/LockedBoxZephyr/Text2": {
+        "en": "exhales a\ncurious vapor",
+        "pl": "wydziela\nosobliwe opary"
+      },
+      "Puzzles/Text/LockedBoxZephyr/Text3": {
+        "en": "drips fall with a hurried cadence",
+        "pl": "krople spadają w pospiesznym rytmie"
+      },
+      "Puzzles/Text/LockedBoxZephyr/Text4": {
+        "en": "a glutinous viscosity",
+        "pl": "kleista gęstość"
+      },
+      "Puzzles/Text/LockedBoxZephyr/Text5": {
+        "en": "a conspicuous\nX upon the label",
+        "pl": "widoczny wyraźnie\nznak X na etykiecie"
+      }
+    },
+    "PuzzleBellCauldron": {
+      "Puzzles/Text/PuzzleBellCauldron/Text0": {
+        "en": "Left Side",
+        "pl": "Lewa Strona"
+      },
+      "Puzzles/Text/PuzzleBellCauldron/Text1": {
+        "en": "Front",
+        "pl": "Przód"
+      },
+      "Puzzles/Text/PuzzleBellCauldron/Text2": {
+        "en": "Right Side",
+        "pl": "Prawa Strona"
+      },
+      "Puzzles/Text/PuzzleBellCauldron/Text3": {
+        "en": "Turn\nHandle",
+        "pl": "Obróć\nUchwyt"
+      },
+      "Puzzles/Text/PuzzleBellCauldron/Text4": {
+        "en": "Turn Both\nHandles",
+        "pl": "Obróć Oba\nUchwyty"
+      }
+    },
+    "LockedBoxGripp": {
+      "Puzzles/Text/LockedBoxGripp/Text0": {
+        "en": "This compass tries to point away from all the others",
+        "pl": "Ten kompas próbuje wskazywać w stronę przeciwną do wszystkich pozostałych"
+      },
+      "Puzzles/Text/LockedBoxGripp/Text1": {
+        "en": "This compass doesn't want to solve this puzzle right now",
+        "pl": "Ten kompas nie chce teraz rozwiązywać tej zagadki"
+      },
+      "Puzzles/Text/LockedBoxGripp/Text2": {
+        "en": "This compass is actually a clock in disguise",
+        "pl": "Ten kompas to tak naprawdę zegar w przebraniu"
+      },
+      "Puzzles/Text/LockedBoxGripp/Text3": {
+        "en": "This compass tries to point at all the others",
+        "pl": "Ten kompas próbuje wskazywać na wszystkie pozostałe"
+      }
+    },
+    "PuzzleMarianaTent": {
+      "Puzzles/Text/PuzzleMarianaTent/Text0": {
+        "en": "Dayglo",
+        "pl": "Dnioblask"
+      },
+      "Puzzles/Text/PuzzleMarianaTent/Text1": {
+        "en": "Evergleam",
+        "pl": "Zawszeblask"
+      },
+      "Puzzles/Text/PuzzleMarianaTent/Text2": {
+        "en": "Illuminight",
+        "pl": "Nocoblask"
+      },
+      "Puzzles/Text/PuzzleMarianaTent/Text3": {
+        "en": "Nevergleam",
+        "pl": "Nigdyblask"
+      }
+    },
+    "PuzzleLifesizeDoll": {
+      "Puzzles/Text/PuzzleLifesizeDoll/Text0": {
+        "en": "Lift Head",
+        "pl": "Podnieś Głowę"
+      },
+      "Puzzles/Text/PuzzleLifesizeDoll/Text1": {
+        "en": "Lift Locket",
+        "pl": "Podnieś Medalion"
+      },
+      "Puzzles/Text/PuzzleLifesizeDoll/Text2": {
+        "en": "Open Flap",
+        "pl": "Otwórz Klapkę"
+      }
+    },
+    "LockedBoxSymmetry": {
+      "Puzzles/Text/LockedBoxSymmetry/Text0": {
+        "en": "Jennifer and Margaret gaze jealously at Patricia, whose doll is neither too large nor too small.",
+        "pl": "Jennifer i Margaret patrzą zazdrośnie na Patricię, której lalka nie jest ani za duża, ani za mała."
+      }
+    },
+    "SuspectBoard1": {
+      "Puzzles/Text/SuspectBoard1/Text0": {
+        "en": "Move the drawings to the correct positions",
+        "pl": "Przesuń rysunki na właściwe miejsca"
+      },
+      "Puzzles/Text/SuspectBoard1/Text1": {
+        "en": "Commissioned the submarine because he was cursed to live in the ocean ",
+        "pl": "Zlecił budowę łodzi podwodnej, bo był przeklęty i musiał żyć w oceanie"
+      },
+      "Puzzles/Text/SuspectBoard1/Text10": {
+        "en": "Came across the submarine by pure chance",
+        "pl": "Natknął się na łódź podwodną czystym przypadkiem"
+      },
+      "Puzzles/Text/SuspectBoard1/Text11": {
+        "en": "Stole The Mermaid's Tongue from the Airlock and put it in his Cabinet of Curiosity",
+        "pl": "Ukradł Język Syreny ze Śluzy i umieścił go w swoim Gabinecie Osobliwości"
+      },
+      "Puzzles/Text/SuspectBoard1/Text12": {
+        "en": "Was asked by Mortuga to keep The Mermaid's Tongue safe in his Cabinet of Curiosity",
+        "pl": "Został poproszony przez Mortugę, żeby bezpiecznie przechować Język Syreny w swoim Gabinecie Osobliwości"
+      },
+      "Puzzles/Text/SuspectBoard1/Text13": {
+        "en": "Was invited to work alongside Dr Zephyr  in the Dream Chamber",
+        "pl": "Został zaproszony do pracy u boku Doktora Zephyra w Komnacie Snów"
+      },
+      "Puzzles/Text/SuspectBoard1/Text14": {
+        "en": "Was invited on board to be the resident Illusionist",
+        "pl": "Została zaproszona na pokład jako rezydentka-iluzjonistka"
+      },
+      "Puzzles/Text/SuspectBoard1/Text15": {
+        "en": "Performed a magic act for Mortuga which appeared to make him miserable",
+        "pl": "Wykonała numer magiczny dla Mortugi, który zdawał się przygnębiać go jeszcze bardziej"
+      },
+      "Puzzles/Text/SuspectBoard1/Text16": {
+        "en": "Was asked by Mortuga to perform a magic act in the Illusion Theatre",
+        "pl": "Została poproszona przez Mortugę o wykonanie numeru magicznego w Teatrze Iluzji"
+      },
+      "Puzzles/Text/SuspectBoard1/Text17": {
+        "en": "Was saved from drowning by Mortuga",
+        "pl": "Został uratowany przed utonięciem przez Mortugę"
+      },
+      "Puzzles/Text/SuspectBoard1/Text18": {
+        "en": "Was kidnapped and kept prisoner by Mortuga",
+        "pl": "Został porwany i przetrzymywany jako więzień przez Mortugę"
+      },
+      "Puzzles/Text/SuspectBoard1/Text19": {
+        "en": "Offered to take over from Mortuga as a way of freeing him from his burden",
+        "pl": "Zaproponowała, że przejmie obowiązki po Mortudze, żeby uwolnić go od jego brzemienia"
+      },
+      "Puzzles/Text/SuspectBoard1/Text2": {
+        "en": "Was coerced into helping Gripp search for The Mermaid's Tongue",
+        "pl": "Został zmuszony, żeby pomóc Grippowi szukać Języka Syreny"
+      },
+      "Puzzles/Text/SuspectBoard1/Text20": {
+        "en": "Blackmailed Mortuga into relinquishing the captaincy to her",
+        "pl": "Zaszantażowała Mortugę, żeby zrzekł się na jej rzecz stanowiska kapitana"
+      },
+      "Puzzles/Text/SuspectBoard1/Text21": {
+        "en": "Sought out the submarine to reclaim ownership of it",
+        "pl": "Odszukała łódź podwodną, żeby odzyskać nad nią własność"
+      },
+      "Puzzles/Text/SuspectBoard1/Text22": {
+        "en": "Sought out Mortuga because he owed her money",
+        "pl": "Odszukała Mortugę, bo był jej winien pieniądze"
+      },
+      "Puzzles/Text/SuspectBoard1/Text23": {
+        "en": "Mortuga wrote a contract for her to sign so that she could become captain",
+        "pl": "Mortuga napisał kontrakt, żeby go podpisała i mogła zostać kapitanem"
+      },
+      "Puzzles/Text/SuspectBoard1/Text24": {
+        "en": "Mortuga wrote a contract which she found after his death and forged his signature",
+        "pl": "Mortuga napisał kontrakt, który znalazła po jego śmierci, i sfałszowała jego podpis"
+      },
+      "Puzzles/Text/SuspectBoard1/Text25": {
+        "en": "Just wanted any kind of quiet place to finish writing his book",
+        "pl": "Chciał po prostu jakiegoś spokojnego miejsca, żeby dokończyć pisanie swojej książki"
+      },
+      "Puzzles/Text/SuspectBoard1/Text26": {
+        "en": "Was sent a letter explaining how to access the Mortuga submarine",
+        "pl": "Otrzymał list wyjaśniający, jak dostać się na Łódź Podwodną Mortuga"
+      },
+      "Puzzles/Text/SuspectBoard1/Text27": {
+        "en": "Considered using Mortuga's death as the story outline for his next book",
+        "pl": "Rozważał wykorzystanie śmierci Mortugi jako zarysu fabuły swojej następnej książki"
+      },
+      "Puzzles/Text/SuspectBoard1/Text28": {
+        "en": "Interviewed Mortuga as research for his next book",
+        "pl": "Przeprowadził wywiad z Mortugą jako research do swojej następnej książki"
+      },
+      "Puzzles/Text/SuspectBoard1/Text29": {
+        "en": "Tagged along with Wirman just for fun",
+        "pl": "Pojechał z Wirmanem po prostu dla zabawy"
+      },
+      "Puzzles/Text/SuspectBoard1/Text3": {
+        "en": "Was killed when he attempted to unlock the cauldron to get The Mermaid's Tongue",
+        "pl": "Zginął, gdy próbował otworzyć kocioł, żeby zdobyć Język Syreny"
+      },
+      "Puzzles/Text/SuspectBoard1/Text30": {
+        "en": "Was sent to spy on Wirman and report back to his employer",
+        "pl": "Został wysłany, żeby szpiegować Wirmana i zdawać raport swojemu pracodawcy"
+      },
+      "Puzzles/Text/SuspectBoard1/Text31": {
+        "en": "Tried to convince Wirman to kill Magnus Mortuga",
+        "pl": "Próbował przekonać Wirmana, żeby zabił Magnusa Mortugę"
+      },
+      "Puzzles/Text/SuspectBoard1/Text32": {
+        "en": "Tried to convince Wirman to kill Markus Mordoom",
+        "pl": "Próbował przekonać Wirmana, żeby zabił Markusa Mordooma"
+      },
+      "Puzzles/Text/SuspectBoard1/Text33": {
+        "en": "Was hired by Mortuga to find information about Felicia Stonetop",
+        "pl": "Został zatrudniony przez Mortugę, żeby znaleźć informacje o Felicii Stonetop"
+      },
+      "Puzzles/Text/SuspectBoard1/Text34": {
+        "en": "Was hired by Gripp to kill Magnus Mortuga",
+        "pl": "Został zatrudniony przez Grippa, żeby zabić Magnusa Mortugę"
+      },
+      "Puzzles/Text/SuspectBoard1/Text35": {
+        "en": "Brought the Black Box onto the submarine and gave it to Mortuga",
+        "pl": "Przyniosła Czarną Skrzynkę na łódź podwodną i dała ją Mortudze"
+      },
+      "Puzzles/Text/SuspectBoard1/Text36": {
+        "en": "Brought the Black Box onto the submarine and gave it to Gripp",
+        "pl": "Przyniosła Czarną Skrzynkę na łódź podwodną i dała ją Grippowi"
+      },
+      "Puzzles/Text/SuspectBoard1/Text4": {
+        "en": "Was killed when he used The Mermaid's Tongue to summon The Mermaid",
+        "pl": "Zginął, gdy użył Języka Syreny, żeby przywołać Syrenę"
+      },
+      "Puzzles/Text/SuspectBoard1/Text5": {
+        "en": "Crashed his hot air balloon into the ocean",
+        "pl": "Rozbił swój balon na ogrzane powietrze w oceanie"
+      },
+      "Puzzles/Text/SuspectBoard1/Text6": {
+        "en": "Commissioned the submarine as a way to search for The Mermaid's Tongue",
+        "pl": "Zlecił budowę łodzi podwodnej, żeby móc szukać Języka Syreny"
+      },
+      "Puzzles/Text/SuspectBoard1/Text7": {
+        "en": "Argued with Mortuga about navigation, resulting in the broken ship's wheel",
+        "pl": "Pokłócił się z Mortugą o nawigację, co doprowadziło do złamania koła sterowego"
+      },
+      "Puzzles/Text/SuspectBoard1/Text8": {
+        "en": "Was with Mortuga when he opened the Black Box and discovered the Necklace Key",
+        "pl": "Był z Mortugą, gdy ten otworzył Czarną Skrzynkę i odkrył Kluczyk z Naszyjnika"
+      },
+      "Puzzles/Text/SuspectBoard1/Text9": {
+        "en": "Was asked to smuggle The Mermaid's Tongue onto the submarine",
+        "pl": "Został poproszony, żeby przemycić Język Syreny na łódź podwodną"
+      }
+    },
+    "SuspectBoard2": {
+      "Puzzles/Text/SuspectBoard2/Case File": {
+        "en": "Case File",
+        "pl": "Akta Sprawy"
+      },
+      "Puzzles/Text/SuspectBoard2/Text0": {
+        "en": "Was saved from drowning by Mortuga",
+        "pl": "Został uratowany przed utonięciem przez Mortugę"
+      },
+      "Puzzles/Text/SuspectBoard2/Text1": {
+        "en": "Offered to take over from Mortuga as a way of freeing him from his burden",
+        "pl": "Zaproponowała, że przejmie obowiązki po Mortudze, żeby uwolnić go od jego brzemienia"
+      },
+      "Puzzles/Text/SuspectBoard2/Text10": {
+        "en": "Godrik Gripp",
+        "pl": "Godrika Grippa"
+      },
+      "Puzzles/Text/SuspectBoard2/Text11": {
+        "en": "Symmetry Silkmoth",
+        "pl": "Symmetry Silkmoth"
+      },
+      "Puzzles/Text/SuspectBoard2/Text12": {
+        "en": "Dr Zephyr",
+        "pl": "Doktora Zephyra"
+      },
+      "Puzzles/Text/SuspectBoard2/Text13": {
+        "en": "Madam Tadpole",
+        "pl": "Madam Tadpole"
+      },
+      "Puzzles/Text/SuspectBoard2/Text14": {
+        "en": "to reveal the location of",
+        "pl": "w ujawnieniu lokalizacji"
+      },
+      "Puzzles/Text/SuspectBoard2/Text15": {
+        "en": "Felicia Stonetop.",
+        "pl": "Felicii Stonetop."
+      },
+      "Puzzles/Text/SuspectBoard2/Text16": {
+        "en": "The Mermaid.",
+        "pl": "Syreny."
+      },
+      "Puzzles/Text/SuspectBoard2/Text17": {
+        "en": "Selena Stonetop.",
+        "pl": "Seleny Stonetop."
+      },
+      "Puzzles/Text/SuspectBoard2/Text18": {
+        "en": "Sylvia Seafoam.",
+        "pl": "Sylvii Seafoam."
+      },
+      "Puzzles/Text/SuspectBoard2/Text19": {
+        "en": "Confirm with Tadpole",
+        "pl": "Potwierdź z Tadpole"
+      },
+      "Puzzles/Text/SuspectBoard2/Text2": {
+        "en": "Sought out the submarine to reclaim ownership of it",
+        "pl": "Odszukała łódź podwodną, żeby odzyskać nad nią własność"
+      },
+      "Puzzles/Text/SuspectBoard2/Text20": {
+        "en": "Sinthia became Captain because of",
+        "pl": "Sinthia została Kapitanem dzięki"
+      },
+      "Puzzles/Text/SuspectBoard2/Text21": {
+        "en": "Confirm with Tadpole",
+        "pl": "Potwierdź z Tadpole"
+      },
+      "Puzzles/Text/SuspectBoard2/Text22": {
+        "en": "Sinthia became Captain because of",
+        "pl": "Sinthia została Kapitanem dzięki"
+      },
+      "Puzzles/Text/SuspectBoard2/Text23": {
+        "en": "the Command Contract,",
+        "pl": "Kontraktowi Dowódczemu,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text24": {
+        "en": "the Captain's Log,",
+        "pl": "Dziennikowi Kapitana,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text25": {
+        "en": "the Submarine Blueprint,",
+        "pl": "Planom Łodzi Podwodnej,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text26": {
+        "en": "the Newspaper page,",
+        "pl": "Stronie Gazety,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text27": {
+        "en": "has another page, that we discovered inside",
+        "pl": "ma jeszcze jedną stronę, którą odkryliśmy w"
+      },
+      "Puzzles/Text/SuspectBoard2/Text28": {
+        "en": "but it has another page that we discovered inside",
+        "pl": "ale ma jeszcze jedną stronę, którą odkryliśmy w"
+      },
+      "Puzzles/Text/SuspectBoard2/Text29": {
+        "en": "the Message in a Bottle.",
+        "pl": "Wiadomości w Butelce."
+      },
+      "Puzzles/Text/SuspectBoard2/Text3": {
+        "en": "Mortuga wrote a contract which she found after his death and forged his signature",
+        "pl": "Mortuga napisał kontrakt, który znalazła po jego śmierci, i sfałszowała jego podpis"
+      },
+      "Puzzles/Text/SuspectBoard2/Text30": {
+        "en": "the Black Box.",
+        "pl": "Czarnej Skrzynce."
+      },
+      "Puzzles/Text/SuspectBoard2/Text31": {
+        "en": "the Cabinet of Curiosity.",
+        "pl": "Gabinecie Osobliwości."
+      },
+      "Puzzles/Text/SuspectBoard2/Text32": {
+        "en": "the Pocketbook.",
+        "pl": "Notesie Kieszonkowym."
+      },
+      "Puzzles/Text/SuspectBoard2/Text33": {
+        "en": "While it's true that Mortuga did decide to create the Command Contract after Sinthia showed him",
+        "pl": "Choć prawdą jest, że Mortuga rzeczywiście postanowił stworzyć Kontrakt Dowódczy po tym, jak Sinthia pokazała mu"
+      },
+      "Puzzles/Text/SuspectBoard2/Text34": {
+        "en": "the Inn Deeds,",
+        "pl": "Akt Własności Gospody,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text35": {
+        "en": "the Handheld Radio,",
+        "pl": "Krótkofalówkę,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text36": {
+        "en": "the Underwater Photo,",
+        "pl": "Zdjęcie Podwodne,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text37": {
+        "en": "the Broken Compass,",
+        "pl": "Zepsuty Kompas,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text38": {
+        "en": "the contract was never intended for Sinthia.",
+        "pl": "kontrakt nigdy nie był przeznaczony dla Sinthii."
+      },
+      "Puzzles/Text/SuspectBoard2/Text39": {
+        "en": "Confirm with Sinthia",
+        "pl": "Potwierdź z Sinthią"
+      },
+      "Puzzles/Text/SuspectBoard2/Text4": {
+        "en": "Was sent a letter explaining how to access the Mortuga submarine",
+        "pl": "Otrzymał list wyjaśniający, jak dostać się na Łódź Podwodną Mortuga"
+      },
+      "Puzzles/Text/SuspectBoard2/Text40": {
+        "en": "Wirman was lured onto the submarine by",
+        "pl": "Wirman został zwabiony na łódź podwodną przez"
+      },
+      "Puzzles/Text/SuspectBoard2/Text41": {
+        "en": "the Handwritten Letter,",
+        "pl": "Odręczny List,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text42": {
+        "en": "the Cell Phone,",
+        "pl": "Telefon Komórkowy,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text43": {
+        "en": "the Wooden Buoy,",
+        "pl": "Drewnianą Boję,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text44": {
+        "en": "but it wasn't actually from by who it claimed to be from.",
+        "pl": "ale tak naprawdę nie pochodził od tego, za kogo się podawał."
+      },
+      "Puzzles/Text/SuspectBoard2/Text45": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Puzzles/Text/SuspectBoard2/Text46": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Puzzles/Text/SuspectBoard2/Text47": {
+        "en": "Vincent Van De Peer",
+        "pl": "Vincent Van De Peer"
+      },
+      "Puzzles/Text/SuspectBoard2/Text48": {
+        "en": "Damian Dusk",
+        "pl": "Damian Dusk"
+      },
+      "Puzzles/Text/SuspectBoard2/Text49": {
+        "en": "sent it, hoping to lure Wirman onto the submarine.",
+        "pl": "wysłał to, mając nadzieję zwabić Wirmana na łódź podwodną."
+      },
+      "Puzzles/Text/SuspectBoard2/Text5": {
+        "en": "Considered using Mortuga's death as the story outline for his next book",
+        "pl": "Rozważał wykorzystanie śmierci Mortugi jako zarysu fabuły swojej następnej książki"
+      },
+      "Puzzles/Text/SuspectBoard2/Text50": {
+        "en": "He'd hoped Wirman might have information about",
+        "pl": "Miał nadzieję, że Wirman może mieć informacje o"
+      },
+      "Puzzles/Text/SuspectBoard2/Text51": {
+        "en": "Felicia Stonetop",
+        "pl": "Felicii Stonetop"
+      },
+      "Puzzles/Text/SuspectBoard2/Text52": {
+        "en": "The Mermaid",
+        "pl": "Syrenie"
+      },
+      "Puzzles/Text/SuspectBoard2/Text53": {
+        "en": "Selena Stonetop",
+        "pl": "Selenie Stonetop"
+      },
+      "Puzzles/Text/SuspectBoard2/Text54": {
+        "en": "Julie Janele",
+        "pl": "Julie Janele"
+      },
+      "Puzzles/Text/SuspectBoard2/Text55": {
+        "en": "because Wirman's father had been acquainted with her.",
+        "pl": "ponieważ ojciec Wirmana ją znał."
+      },
+      "Puzzles/Text/SuspectBoard2/Text56": {
+        "en": "Confirm with Wirman",
+        "pl": "Potwierdź z Wirmanem"
+      },
+      "Puzzles/Text/SuspectBoard2/Text57": {
+        "en": "Watching Symmetry perform",
+        "pl": "Oglądanie występu Symmetry w"
+      },
+      "Puzzles/Text/SuspectBoard2/Text58": {
+        "en": "'The Star-Gazing Girl'",
+        "pl": "'Dziewczyna Patrząca w Gwiazdy'"
+      },
+      "Puzzles/Text/SuspectBoard2/Text59": {
+        "en": "'Lady of the Looking-Glass'",
+        "pl": "'Dama Zwierciadła'"
+      },
+      "Puzzles/Text/SuspectBoard2/Text6": {
+        "en": "Was invited to work alongside Dr Zephyr  in the Dream Chamber",
+        "pl": "Został zaproszony do pracy u boku Doktora Zephyra w Komnacie Snów"
+      },
+      "Puzzles/Text/SuspectBoard2/Text60": {
+        "en": "'My Departed Uncle Gregory'",
+        "pl": "'Mój Zmarły Wuj Gregory'"
+      },
+      "Puzzles/Text/SuspectBoard2/Text61": {
+        "en": "'Hex of the Helmsman'",
+        "pl": "'Klątwa Sternika'"
+      },
+      "Puzzles/Text/SuspectBoard2/Text62": {
+        "en": "did not make Mortuga miserable.",
+        "pl": "nie sprawiło, że Mortuga poczuł się nieszczęśliwy."
+      },
+      "Puzzles/Text/SuspectBoard2/Text63": {
+        "en": "He was already miserable, because he had just found",
+        "pl": "Był już nieszczęśliwy, ponieważ właśnie znalazł"
+      },
+      "Puzzles/Text/SuspectBoard2/Text64": {
+        "en": "the Mourning Envelope,",
+        "pl": "Kopertę Żałobną,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text65": {
+        "en": "the Mermaid's Tongue,",
+        "pl": "Język Syreny,"
+      },
+      "Puzzles/Text/SuspectBoard2/Text66": {
+        "en": "the HER Painting,",
+        "pl": "Obraz 'ONA',"
+      },
+      "Puzzles/Text/SuspectBoard2/Text67": {
+        "en": "which informed him",
+        "pl": "która poinformowała go, że"
+      },
+      "Puzzles/Text/SuspectBoard2/Text68": {
+        "en": "Governor Fellow",
+        "pl": "Gubernator Fellow"
+      },
+      "Puzzles/Text/SuspectBoard2/Text69": {
+        "en": "had died.",
+        "pl": "zmarł."
+      },
+      "Puzzles/Text/SuspectBoard2/Text7": {
+        "en": "Performed a magic act for Mortuga which appeared to make him miserable",
+        "pl": "Wykonała numer magiczny dla Mortugi, który zdawał się przygnębiać go jeszcze bardziej"
+      },
+      "Puzzles/Text/SuspectBoard2/Text70": {
+        "en": "Confirm with Symmetry",
+        "pl": "Potwierdź z Symmetry"
+      },
+      "Puzzles/Text/SuspectBoard2/Text71": {
+        "en": "Crashed his hot air balloon into the ocean",
+        "pl": "Rozbił swój balon na ogrzane powietrze w oceanie"
+      },
+      "Puzzles/Text/SuspectBoard2/Text72": {
+        "en": "Commissioned the submarine as a way to search for The Mermaid's Tongue",
+        "pl": "Zlecił budowę łodzi podwodnej, żeby móc szukać Języka Syreny"
+      },
+      "Puzzles/Text/SuspectBoard2/Text73": {
+        "en": "Argued with Mortuga about navigation, resulting in the broken ship's wheel",
+        "pl": "Pokłócił się z Mortugą o nawigację, co doprowadziło do złamania koła sterowego"
+      },
+      "Puzzles/Text/SuspectBoard2/Text74": {
+        "en": "Was with Mortuga when he opened the Black Box and discovered the Necklace Key",
+        "pl": "Był z Mortugą, gdy ten otworzył Czarną Skrzynkę i odkrył Kluczyk z Naszyjnika"
+      },
+      "Puzzles/Text/SuspectBoard2/Text8": {
+        "en": "Even though he did wish to leave the submarine, Mortuga could not accept Tadpole's offer to give up his captaincy to her.",
+        "pl": "Mimo że rzeczywiście pragnął opuścić łódź podwodną, Mortuga nie mógł przyjąć propozycji Tadpole, by zrzec się na jej rzecz stanowiska kapitana."
+      },
+      "Puzzles/Text/SuspectBoard2/Text9": {
+        "en": "Before Mortuga could leave the submarine, he needed",
+        "pl": "Zanim Mortuga mógł opuścić łódź podwodną, potrzebował pomocy"
+      }
+    },
+    "MarianaStatementBoard": {
+      "Puzzles/Text/MarianaStatementBoard/Text0": {
+        "en": "Imagine my excitement - to finally get a good look around the Mortuga Submarine! I was even given a tour by one of Mortuga's subordinates, a Mr Godrik Gripp.",
+        "pl": "Wyobraźcie sobie moje podniecenie - w końcu móc dobrze rozejrzeć się po Łodzi Podwodnej Mortuga! Oprowadził mnie nawet jeden z podwładnych Mortugi, niejaki Pan Godrik Gripp."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text1": {
+        "en": "We begun by visiting a bizarre laboratory known as the 'Dream Chamber.' It smelled of dried herbs and dusty glass, but was devoid of its Dream Custodian.",
+        "pl": "Zaczęliśmy od odwiedzenia osobliwego laboratorium znanego jako 'Komnata Snów'. Pachniało suszonymi ziołami i zakurzonym szkłem, lecz było pozbawione swojego Kustosza Snów."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text10": {
+        "en": "Mr Gripp took me down to the cargo hold. It smells of damp wood and tarred rope. Yes, I describe it in the present tense, for it is here I sit as I write this very diary.",
+        "pl": "Pan Gripp zaprowadził mnie do Ładowni. Pachnie tam wilgotnym drewnem i smołowaną liną. Tak, opisuję to w czasie teraźniejszym, bo właśnie tu siedzę, pisząc ten oto dziennik."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text11": {
+        "en": "Next door, the engine room; burnished bronze and tea-stained parchment. I learned that it's something of a nest for Mr Gripp himself, and thus was currently unoccupied.",
+        "pl": "Obok, Maszynownia; wypolerowany brąz i pergamin poplamiony herbatą. Dowiedziałam się, że to coś w rodzaju gniazda samego Pana Grippa, a więc obecnie było nieużywane."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text12": {
+        "en": "Outside, I encountered a Dr Zacharius Zephyr, the aforementioned keeper of the Dream Chamber. Surprised to see us, he nearly dropped the empty glass bottle he was carrying.",
+        "pl": "Na zewnątrz natknęłam się na Doktora Zachariasza Zephyra, wspomnianego wcześniej opiekuna Komnaty Snów. Zaskoczony naszym widokiem, omal nie upuścił pustej szklanej butelki, którą niósł."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text13": {
+        "en": "Clearly wishing to remove himself from the situation, the good doctor muttered something inaudible and disappeared up the ladder.",
+        "pl": "Najwyraźniej pragnąc jak najszybciej się stamtąd oddalić, dobry doktor wymamrotał coś niezrozumiałego i zniknął po drabinie."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text14": {
+        "en": "We continued on into the next room, which I was amused to discover was some kind of shimmering mermaid grotto.",
+        "pl": "Ruszyliśmy dalej, do kolejnego pomieszczenia, o którym z rozbawieniem odkryłam, że jest czymś w rodzaju migoczącej groty syreny."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text15": {
+        "en": "I smelled her before I saw her - the unmistakeable mix of salt, seaweed and sequinned spandex. It can only be Madam Tadpole, a name which may be familiar to longtime readers of this diary.",
+        "pl": "Wyczułam ją, zanim ją zobaczyłam - niepowtarzalną mieszankę soli, wodorostów i cekinowego spandeksu. To może być tylko Madam Tadpole, imię, które może być znane długoletnim czytelnikom tego dziennika."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text16": {
+        "en": "Tadpole and I caught up while Mr Gripp skulked in the doorway, clearly hoping this would mark the end of the tour. But it did not, dear reader, it did not!!",
+        "pl": "Nadrobiłyśmy z Tadpole zaległości, podczas gdy Pan Gripp czaił się w progu, najwyraźniej mając nadzieję, że to będzie koniec wycieczki. Lecz nie było, drogi czytelniku, nie było!!"
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text2": {
+        "en": "An early disappointment - the Captain's Cabin was locked. Mr Gripp explained how Captain Mortuga mostly keeps this room locked when it's not in use.",
+        "pl": "Wczesne rozczarowanie - Gabinet Kapitana był zamknięty. Pan Gripp wyjaśnił, że Kapitan Mortuga zazwyczaj trzyma to pomieszczenie zamknięte, gdy z niego nie korzysta."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text3": {
+        "en": "We climbed down into the living quarters, where a pair of bunk rooms sat at the end of a corridor.",
+        "pl": "Zeszliśmy do części mieszkalnej, gdzie na końcu korytarza znajdowały się dwie kajuty sypialne."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text4": {
+        "en": "The first smelled of crayon dust and unwatered flowers. A young woman was laying in her bed, poring over an old document. ",
+        "pl": "Pierwsza pachniała pyłem kredek i niepodlanymi kwiatami. Młoda kobieta leżała na łóżku, zagłębiona w studiowanie starego dokumentu."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text5": {
+        "en": "She hastily hid the document away and introduced herself as Miss Sinthia Seafoam. A name to remember, dear reader, as she will shortly become quite important.",
+        "pl": "Pospiesznie schowała dokument i przedstawiła się jako Panna Sinthia Seafoam. Imię do zapamiętania, drogi czytelniku, bo wkrótce stanie się dość ważna."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text6": {
+        "en": "The second bunk room smelled of aftershave and desperation. The two men within (Mr James Wirman and Mr Dirk Dansom) both appeared to be asleep - so we decided not to intrude.",
+        "pl": "Druga kajuta pachniała wodą po goleniu i desperacją. Obaj mężczyźni w środku (Pan James Wirman i Pan Dirk Dansom) wyglądali na śpiących - postanowiliśmy więc nie przeszkadzać."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text7": {
+        "en": "Next on the tour - a room inhabited (by the looks of things) by a young child who is also a stage magician. Sadly, this mythical child-magician is nowhere to be seen.",
+        "pl": "Kolejny punkt wycieczki - pomieszczenie zamieszkane (sądząc po wyglądzie) przez małe dziecko, będące jednocześnie iluzjonistką sceniczną. Niestety, to mityczne dziecko-iluzjonistka nigdzie nie jest widoczne."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text8": {
+        "en": "The room at the very end of the hallway was sealed with a heavy bulkhead door. Mr Gripp dismissed it as a store room that only Captain Mortuga makes use of.",
+        "pl": "Pomieszczenie na samym końcu korytarza było zapieczętowane ciężkimi drzwiami grodziowymi. Pan Gripp zbagatelizował je jako magazyn, z którego korzysta tylko Kapitan Mortuga."
+      },
+      "Puzzles/Text/MarianaStatementBoard/Text9": {
+        "en": "(Perhaps you'll agree with me, dear reader, when I suggest the peculiarity of a simple 'store room' being sealed off with such a significant door)",
+        "pl": "(Być może zgodzicie się ze mną, drodzy czytelnicy, gdy zasugeruję, jak osobliwe jest to, że zwykły 'magazyn' zapieczętowano tak znaczącymi drzwiami)"
+      }
+    },
+    "RequestsSuspectBoard2": {
+      "Puzzles/RequestsSuspectBoard2/clueRequest0Hint0": {
+        "en": "...because he had just opened...",
+        "pl": "...bo właśnie otworzył..."
+      },
+      "Puzzles/RequestsSuspectBoard2/clueRequest1Hint0": {
+        "en": "...and discovered...",
+        "pl": "...i odkrył..."
+      },
+      "Puzzles/RequestsSuspectBoard2/clueRequest3Hint0": {
+        "en": "Wirman was lured onto the submarine by...",
+        "pl": "Wirman został zwabiony na łódź podwodną przez..."
+      },
+      "Puzzles/RequestsSuspectBoard2/clueRequest4Hint0": {
+        "en": "The contract Sinthia signed...",
+        "pl": "Kontrakt, który podpisała Sinthia..."
+      },
+      "Puzzles/RequestsSuspectBoard2/clueRequest5Hint0": {
+        "en": "...that we discovered inside...",
+        "pl": "...który odkryliśmy w środku..."
+      },
+      "Puzzles/RequestsSuspectBoard2/clueRequest6Hint0": {
+        "en": "Mortuga did write it in response to being presented with...",
+        "pl": "Mortuga napisał go w odpowiedzi na przedstawienie mu..."
+      },
+      "Puzzles/RequestsSuspectBoard2/soulRequest2Hint0": {
+        "en": "Before Mortuga could leave the submarine, he needed...",
+        "pl": "Zanim Mortuga mógł opuścić łódź podwodną, potrzebował..."
+      },
+      "Puzzles/RequestsSuspectBoard2/soulRequest7Hint0": {
+        "en": "It was somebody else who wished to lure Wirman onto the submarine.",
+        "pl": "To ktoś inny chciał zwabić Wirmana na łódź podwodną."
+      }
+    },
+    "RequestsAttachGame_CellPhone_StrangeDevice": {
+      "Puzzles/RequestsAttachGame_CellPhone_StrangeDevice/clueRequest0Hint0": {
+        "en": "Let's take a look at Dirk's cellphone...",
+        "pl": "Rzućmy okiem na telefon Dirka..."
+      },
+      "Puzzles/RequestsAttachGame_CellPhone_StrangeDevice/clueRequest1Hint0": {
+        "en": "Does something fit into Dirk's cellphone...?",
+        "pl": "Czy coś pasuje do telefonu Dirka...?"
+      }
+    },
+    "RequestsAttachGame_MermaidsTongue": {
+      "Puzzles/RequestsAttachGame_MermaidsTongue/clueRequest0Hint0": {
+        "en": "The eyes...",
+        "pl": "Oczy..."
+      },
+      "Puzzles/RequestsAttachGame_MermaidsTongue/clueRequest1Hint0": {
+        "en": "The thing that sticks out the top of the head...",
+        "pl": "Rzecz, która sterczy z czubka głowy..."
+      }
+    },
+    "RequestsAttachGame_OceanMapRippedScroll": {
+      "Puzzles/RequestsAttachGame_OceanMapRippedScroll/clueRequest0Hint0": {
+        "en": "The upper part of the image...",
+        "pl": "Górna część obrazu..."
+      },
+      "Puzzles/RequestsAttachGame_OceanMapRippedScroll/clueRequest1Hint0": {
+        "en": "The lower part of the image...",
+        "pl": "Dolna część obrazu..."
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Puzzles/Text/SuspectBoard2/Text63-69 (potwierdzenie Symmetry)",
+      "en": "'He was already miserable, because he had just found the Mourning Envelope... which informed him Governor Fellow had died.'",
+      "propozycja": "przetlumaczone doslownie",
+      "problem": "WAZNE zestawienie z ustalona fabula: Godrik Conversation 4 mowi, ze Naszyjnik Felicii odeslano JEJ RODZICOM w Kopercie Zalobnej (potwierdzajac SMIERC FELICII). Ten fragment SuspectBoard2 mowi, ze ta sama Koperta Zalobna poinformowala Mortuge o SMIERCI GUBERNATORA FELLOW - NIE Felicii. To wzmacnia hipoteze z batch_97 (VERIFICATION_QUEUE #56/#62), ze Gubernator Faustus Fellow i Selena Stonetop byli WSPOLNYMI rodzicami Felicii (koperta = zawiadomienie o smierci ich corki, zaadresowane do obojga rodzicow, ktore Mortuga potem otrzymal/przechowal) - ALE nie jest to jednoznacznie potwierdzone (mozliwe tez, ze to ODREBNE zawiadomienie o smierci samego Gubernatora, nie Felicii). WYMAGA POTWIERDZENIA - nie zmieniono GLOSSARY bez pelnej pewnosci, tylko odnotowano jako wzmocniony trop."
+    },
+    {
+      "term": "Puzzles/Text/SuspectBoard2/Text44,Text3 i podobne 'it was/wasn't' w mad-libach",
+      "en": "\"but it wasn't actually from by who it claimed to be from.\"",
+      "propozycja": "rodzaj meski jako domyslny (list/telefon/boja moga byc r.m./r.z.)",
+      "problem": "Ta sama systemowa niedoskonalosc gramatyczna co w Puzzles/Connectors (batch_98) - 'it' odnosi sie do jednej z 3 wybieralnych 'czesci' o roznym rodzaju gramatycznym w polskim. Wiekszosc (list, telefon) jest rodzaju meskiego, wiec domyslna forma pasuje w 2/3 przypadkow."
+    }
+  ]
+}

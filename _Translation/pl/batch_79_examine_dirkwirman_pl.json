@@ -1,0 +1,593 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja DirkWirman (106 terminow, ~24 mikroscen) - wspolny pokoj z pryczami dzielony przez Dirka i Wirmana. Zawiera zagadke maszyny do pisania Wirmana z ukrytym listem, walizke z woda po goleniu, oraz kluczowa scene AfterWirmanSuspicion, gdzie Grimoire dopytuje o zwiazek ojca Wirmana z Mortuga.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_DirkWirman_ActionFigure": {
+      "Examine/Exam_Area_DirkWirman_ActionFigure/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_DirkWirman_ActionFigure/Section ds1": {
+        "en": "It's some kind of doll.",
+        "pl": "To jakiś rodzaj lalki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_ActionFigure/Section ds2": {
+        "en": "Sally. [h]No.[/h]",
+        "pl": "Sally. [h]Nie.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_ActionFigure/Section ds5": {
+        "en": "It's a [i]collectable action figure.[/i]",
+        "pl": "To [i]kolekcjonerska figurka akcji.[/i]",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_DirkWirman_ActionFigure/Section ds6": {
+        "en": "Same thing.",
+        "pl": "To samo.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_AfterWirmanSuspicion": {
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds1": {
+        "en": "Wait, Wirman - I had a question.",
+        "pl": "Czekaj, Wirman - miałem pytanie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds10": {
+        "en": "Your father knew [i]Mortuga?[/i] You never mentioned that.",
+        "pl": "Twój ojciec znał [i]Mortugę?[/i] Nigdy o tym nie wspominałeś.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds3": {
+        "en": "[i]Another[/i] one...?",
+        "pl": "[i]Kolejne[/i]...?",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds4": {
+        "en": "Yeah, never met him. That's why the offer in the letter was so tempting.",
+        "pl": "Tak, nigdy go nie poznałem. Dlatego oferta w liście była tak kusząca.",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds5": {
+        "en": "You'd not met Mortuga before you arrived here on the submarine, is that right?",
+        "pl": "Nie znałeś Mortugi, zanim dotarłeś tu, na łódź podwodną, zgadza się?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds6": {
+        "en": "Right, but then, where'd you get the information about him to inspire your [i]first[/i] book?",
+        "pl": "Dobrze, ale w takim razie skąd wziąłeś informacje o nim, które zainspirowały twoją [i]pierwszą[/i] książkę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds7": {
+        "en": "The [i]first[/i] one? Oh, I just asked my father.",
+        "pl": "[i]Pierwszą?[/i] Och, po prostu zapytałem ojca.",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds8": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_AfterWirmanSuspicion/Section ds9": {
+        "en": "He didn't - but, they, uh, had a mutual friend.",
+        "pl": "On go nie znał - ale mieli, yy, wspólnego znajomego.",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_DirkWirman_BG": {
+      "Examine/Exam_Area_DirkWirman_BG/Section ds0": {
+        "en": "It's a bunk room.\nIt's pretty nice, honestly.",
+        "pl": "To pokój z pryczami.\nJest całkiem miły, szczerze mówiąc.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_BG/Section ds1": {
+        "en": "I'd [h]kill[/h] to have a bedroom this big.",
+        "pl": "[h]Zabiłabym[/h] za taką dużą sypialnię.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_BG/Section ds2": {
+        "en": "Who would you kill?",
+        "pl": "Kogo byś zabiła?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_BG/Section ds3": {
+        "en": "Oh, I'd just pick someone from my list.",
+        "pl": "Och, po prostu wybrałabym kogoś z mojej listy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_TuxCellphoneEnd": {
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneEnd/Section ds1": {
+        "en": "So now we can look at it?",
+        "pl": "Więc teraz możemy na to spojrzeć?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneEnd/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneEnd/Section ds4": {
+        "en": "It's unlocked.",
+        "pl": "Jest odblokowany.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_TuxCellphoneSolved": {
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneSolved/Section ds1": {
+        "en": "We already unlocked the cell phone.",
+        "pl": "Już odblokowaliśmy ten telefon.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DirkWirman_TuxCellphoneStart": {
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds0": {
+        "en": "You never know when you might have to go to a fancy party.",
+        "pl": "Nigdy nie wiadomo, kiedy trzeba będzie pójść na wystawne przyjęcie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds1": {
+        "en": "Ah - it's locked.",
+        "pl": "Ach - jest zablokowany.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds2": {
+        "en": "What d'you mean it's locked??\nHow can a phone be locked?",
+        "pl": "Jak to zablokowany??\nJak telefon może być zablokowany?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds2 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds2 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds4": {
+        "en": "...is that a tuxedo?",
+        "pl": "...czy to smoking?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds5": {
+        "en": "What's this in the front pocket...?",
+        "pl": "Co to jest w przedniej kieszeni...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TuxCellphoneStart/Section ds6": {
+        "en": "It's a cell phone!",
+        "pl": "To telefon komórkowy!",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterNoPermission": {
+      "Examine/Exam_Area_DirkWirman_TypewriterNoPermission/Section ds0": {
+        "en": "That's fair.",
+        "pl": "To sprawiedliwe.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterNoPermission/Section ds1": {
+        "en": "Let's at least talk to the guy, before we put our [i]grubby little hands[/i] all over his typewriter.",
+        "pl": "Porozmawiajmy chociaż z tym facetem, zanim położymy nasze [i]brudne łapska[/i] na jego maszynie do pisania.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterPuzzleEnd": {
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleEnd/Section ds0": {
+        "en": "The little hatch opened!",
+        "pl": "Mała klapka się otworzyła!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleEnd/Section ds1": {
+        "en": "What's this - a letter?",
+        "pl": "Co to jest - list?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleEnd/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterPuzzlePrompt": {
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzlePrompt/Section ds0": {
+        "en": "Did you notice the weird mechanism on the back?",
+        "pl": "Zauważyłeś dziwny mechanizm z tyłu?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzlePrompt/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzlePrompt/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzlePrompt/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzlePrompt/Section ds3": {
+        "en": "There's something strange about this typewriter.",
+        "pl": "Jest coś dziwnego w tej maszynie do pisania.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterPuzzleSolved": {
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds0": {
+        "en": "It's Wirman's typewriter.",
+        "pl": "To maszyna do pisania Wirmana.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds3": {
+        "en": "We already solved the puzzle and found the handwritten letter.",
+        "pl": "Już rozwiązaliśmy tę zagadkę i znaleźliśmy odręczny list.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds3 Choice 1": {
+        "en": "Handwritten Letter",
+        "pl": "Odręczny List",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds3 Choice 2": {
+        "en": "Typewriter",
+        "pl": "Maszyna do Pisania",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds3 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleSolved/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterPuzzleStart": {
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleStart/Section ds0": {
+        "en": "It's Wirman's typewriter. I think it's also a puzzle.",
+        "pl": "To maszyna do pisania Wirmana. Chyba to też zagadka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleStart/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleStart/Section ds0 Choice 2": {
+        "en": "Typewriter",
+        "pl": "Maszyna do Pisania",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleStart/Section ds0 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_DirkWirman_TypewriterPuzzleStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_DirkWirman_TypewriterWithPermission": {
+      "Examine/Exam_Area_DirkWirman_TypewriterWithPermission/Section ds0": {
+        "en": "It's Wirman's typewriter.",
+        "pl": "To maszyna do pisania Wirmana.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DirkWirman_bedleft": {
+      "Examine/Exam_Area_DirkWirman_bedleft/Section ds0": {
+        "en": "A bed.",
+        "pl": "Łóżko.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bedleft/Section ds1": {
+        "en": "It's neat as a pin.",
+        "pl": "Jest schludne jak spod igły.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_bedright": {
+      "Examine/Exam_Area_DirkWirman_bedright/Section ds0": {
+        "en": "A bed.",
+        "pl": "Łóżko.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bedright/Section ds1": {
+        "en": "It's a mess.",
+        "pl": "Jest w nieładzie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_bookpiles": {
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds0": {
+        "en": "Piles of books.",
+        "pl": "Stosy książek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds1": {
+        "en": "They're all classic fantasy adventure novels.",
+        "pl": "Wszystkie to klasyczne fantastyczne powieści przygodowe.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds2": {
+        "en": "Oh, I've read this one!\n[i]The Sapphire Sword.[/i]",
+        "pl": "Och, czytałam tę!\n[i]Szafirowy Miecz.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds3": {
+        "en": "It's about a boy who learns how to travel between dimensions.",
+        "pl": "Jest o chłopcu, który uczy się podróżować między wymiarami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds4": {
+        "en": "Using the titular [i]sapphire sword[/i],\nI presume.",
+        "pl": "Za pomocą tytułowego [i]szafirowego miecza,[/i]\ndomyślam się.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds5": {
+        "en": "No. There's no sword.",
+        "pl": "Nie. Nie ma żadnego miecza.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds6": {
+        "en": "But-",
+        "pl": "Ale-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds7": {
+        "en": "The sword is a [i]metaphor.[/i]",
+        "pl": "Miecz to [i]metafora.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_bookpiles/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_discardedpapers": {
+      "Examine/Exam_Area_DirkWirman_discardedpapers/Section ds0": {
+        "en": "A bunch of discarded paper.",
+        "pl": "Sterta wyrzuconego papieru.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_discardedpapers/Section ds1": {
+        "en": "There's something typed on it...",
+        "pl": "Coś jest na nim wystukane...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_discardedpapers/Section ds2": {
+        "en": "Yeah, but I can barely make sense of it.",
+        "pl": "Tak, ale ledwo mogę się w tym połapać.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_discardedpapers/Section ds3": {
+        "en": "Kinda looks like an attempt at the first chapter of a story...",
+        "pl": "Wygląda trochę jak próba napisania pierwszego rozdziału jakiejś historii...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_dumbbell": {
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds0": {
+        "en": "It's a huge iron dumbbell...\nMade from nuts and bolts.",
+        "pl": "To wielki żelazny hantel...\nZrobiony z nakrętek i śrub.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds2": {
+        "en": "So...\nYou gonna pick it up?\nMight be a clue.",
+        "pl": "Więc...\nPodniesiesz go?\nMoże być tropem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds3": {
+        "en": "I doubt it.",
+        "pl": "Wątpię.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds4": {
+        "en": "Big blunt object like that...\nCould be a weapon?",
+        "pl": "Taki wielki, tępy przedmiot...\nMógłby być bronią?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds6": {
+        "en": "I'd say it looks [i]pretty suspicious.[/i]\nWorth investigating.",
+        "pl": "Powiedziałabym, że wygląda [i]dość podejrzanie.[/i]\nWarto to zbadać.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_dumbbell/Section ds7": {
+        "en": "I disagree.",
+        "pl": "Nie zgadzam się.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_food": {
+      "Examine/Exam_Area_DirkWirman_food/Section ds0": {
+        "en": "Sally, it's a submarine.",
+        "pl": "Sally, to łódź podwodna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_food/Section ds1": {
+        "en": "There's food lying around...",
+        "pl": "Wszędzie leży jedzenie...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_food/Section ds2": {
+        "en": "Do they want rats?\n[i]That's[/i] how you get rats.",
+        "pl": "Chcą szczurów?\n[i]Tak[/i] właśnie się je ściąga.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_food/Section ds3": {
+        "en": "Either there are already rats,\nor there are no rats.",
+        "pl": "Albo już są tu szczury,\nalbo nie ma żadnych szczurów.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_hangingclothes": {
+      "Examine/Exam_Area_DirkWirman_hangingclothes/Section ds0": {
+        "en": "I guess the submarine doesn't have a laundry room.",
+        "pl": "Chyba łódź podwodna nie ma pralni.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_DirkWirman_lightbulb": {
+      "Examine/Exam_Area_DirkWirman_lightbulb/Section ds0": {
+        "en": "It's a cheap lightbulb.",
+        "pl": "To tania żarówka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_lightbulb/Section ds1": {
+        "en": "-no shade.",
+        "pl": "-bez klosza.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_punching": {
+      "Examine/Exam_Area_DirkWirman_punching/Section ds0": {
+        "en": "Looks like it's been [i]recently punched...[/i]",
+        "pl": "Wygląda na to, że został [i]niedawno uderzony...[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_punching/Section ds1": {
+        "en": "It's a punching bag.",
+        "pl": "To worek treningowy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_punching/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_punching/Section ds3": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_sinkmirror": {
+      "Examine/Exam_Area_DirkWirman_sinkmirror/Section ds0": {
+        "en": "Looks like someone's been using it to shave.",
+        "pl": "Wygląda na to, że ktoś się tu golił.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_sinkmirror/Section ds1": {
+        "en": "There's a sink here, with its own little mirror.",
+        "pl": "Jest tu umywalka z małym lusterkiem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_suitcase": {
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds0": {
+        "en": "It's a suitcase.",
+        "pl": "To walizka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds1": {
+        "en": "[Sniff]",
+        "pl": "[Wącha]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds2": {
+        "en": "Clothes are neatly folded inside.",
+        "pl": "W środku są schludnie złożone ubrania.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds3": {
+        "en": "It smells like, uh - [i]men's aftershave...[/i]",
+        "pl": "Pachnie jak, yy - [i]męska woda po goleniu...[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds4": {
+        "en": "I'm getting bergamot... cedarwood...",
+        "pl": "Wyczuwam bergamotkę... drzewo cedrowe...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds5": {
+        "en": "-and notes of citrus.",
+        "pl": "-i nuty cytrusowe.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_suitcase/Section ds6": {
+        "en": "You done sniffing the suitcase?",
+        "pl": "Skończyłaś wąchać tę walizkę?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_teacup": {
+      "Examine/Exam_Area_DirkWirman_teacup/Section ds0": {
+        "en": "It's a teacup.",
+        "pl": "To filiżanka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_teacup/Section ds1": {
+        "en": "I've been on this submarine for ages and nobody's offered [h]me[/h] a cup of tea.",
+        "pl": "Jestem na tej łodzi podwodnej całe wieki, a nikt nie zaoferował [h]mi[/h] filiżanki herbaty.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_teacup/Section ds2": {
+        "en": "You don't even [i]like[/i] tea.",
+        "pl": "Ty nawet nie [i]lubisz[/i] herbaty.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_teacup/Section ds3": {
+        "en": "[i]Still.[/i]",
+        "pl": "[i]Mimo to.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_DirkWirman_wallnotes": {
+      "Examine/Exam_Area_DirkWirman_wallnotes/Section ds0": {
+        "en": "Notes stuck to the wall.",
+        "pl": "Karteczki przyklejone do ściany.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_wallnotes/Section ds2": {
+        "en": "[i]Title Ideas:\nCurse of the Captain\nScourge of the Sailor\nBane of the Bosun[/i]\n",
+        "pl": "[i]Pomysły na Tytuł:\nKlątwa Kapitana\nSztorm Sternika\nBicz Bosmana[/i]\n",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_DirkWirman_wallnotes/Section ds3": {
+        "en": "All duds.",
+        "pl": "Same kity.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_DirkWirman_window": {
+      "Examine/Exam_Area_DirkWirman_window/Section ds0": {
+        "en": "One good thing about living in a submarine:",
+        "pl": "Jedna dobra rzecz w mieszkaniu na łodzi podwodnej:",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_DirkWirman_window/Section ds1": {
+        "en": "Every window - has an ocean view.",
+        "pl": "Każde okno - ma widok na ocean.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

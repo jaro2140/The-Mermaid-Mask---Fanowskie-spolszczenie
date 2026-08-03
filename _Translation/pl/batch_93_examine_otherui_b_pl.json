@@ -1,0 +1,282 @@
+{
+  "_meta": {
+    "batch": "Examine - OTHER_UI czesc B (51 terminow) - druga z trzech partii koncowego bloku 'inne UI'. Zawiera komunikaty bledu tropow (Clue Detail Fail), sklep Grippa (GrippShopBuy/Money - komiczna scena, gdzie Grimoire probuje kupic cos bez pieniedzy), oraz odsluchanie tasmy ujawniajacej mechanizm otwarcia Czarnej Skrzynki.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Potwierdza sie ponownie 'Mariana' = Moon (ListenedToTapeWithBlackBoxOpening/ds6: 'It's what Mariana said she recorded while she was in the Control Room')."
+  },
+  "categories": {
+    "Examine Clue Detail Fail Grim": {
+      "Examine/Examine Clue Detail Fail Grim/Section ds0": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Clue Detail Fail Grim/Section ds8": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Clue Detail Fail Grim/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Examine Clue Detail Fail Sal": {
+      "Examine/Examine Clue Detail Fail Sal/Section ds0": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Clue Detail Fail Sal/Section ds8": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Clue Detail Fail Sal/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Sally"
+      }
+    },
+    "Examine GrippSuspicion Felicia Painting": {
+      "Examine/Examine GrippSuspicion Felicia Painting/Section ds0": {
+        "en": "I think the diary pages on the back mentioned something about this...",
+        "pl": "Chyba strony dziennika z tyłu wspominały coś o tym...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine GrippSuspicion Felicia Painting/Section ds3": {
+        "en": "True - but I was thinking about something a little more tangible.",
+        "pl": "Racja - ale myślałem o czymś trochę bardziej namacalnym.",
+        "speaker": "Sally"
+      }
+    },
+    "GoldenLocket Open": {
+      "Examine/GoldenLocket Open/Section ds1": {
+        "en": "You really think we should open it?",
+        "pl": "Naprawdę myślisz, że powinniśmy to otworzyć?",
+        "speaker": "Sally"
+      },
+      "Examine/GoldenLocket Open/Section ds3": {
+        "en": "I dunno. Maybe.",
+        "pl": "Nie wiem. Może.",
+        "speaker": "Grimoire"
+      },
+      "Examine/GoldenLocket Open/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/GoldenLocket Open/Section ds6": {
+        "en": "It's up to you.",
+        "pl": "To zależy od ciebie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "GrippShopBuy": {
+      "Examine/GrippShopBuy/Section ds0": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/GrippShopBuy/Section ds0 Choice 1": {
+        "en": "Progress 1",
+        "pl": "Postęp 1",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/GrippShopBuy/Section ds0 Choice 2": {
+        "en": "Progress 2",
+        "pl": "Postęp 2",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/GrippShopBuy/Section ds0 Choice 3": {
+        "en": "Progress 3",
+        "pl": "Postęp 3",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/GrippShopBuy/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/GrippShopBuy/Section ds1": {
+        "en": "[i]I don't want it.[/i]",
+        "pl": "[i]Nie chcę tego.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/GrippShopBuy/Section ds10": {
+        "en": "Apologies, you can't afford that one.",
+        "pl": "Przepraszam, nie stać cię na to.",
+        "speaker": "Gripp"
+      },
+      "Examine/GrippShopBuy/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/GrippShopBuy/Section ds12": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/GrippShopBuy/Section ds13": {
+        "en": "Why didn't you say so!",
+        "pl": "Czemu od razu tak nie powiedzieliście!",
+        "speaker": "Gripp"
+      },
+      "Examine/GrippShopBuy/Section ds14": {
+        "en": "We need to talk to you.",
+        "pl": "Musimy z panem porozmawiać.",
+        "speaker": "Grimoire"
+      },
+      "Examine/GrippShopBuy/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      },
+      "Examine/GrippShopBuy/Section ds4": {
+        "en": "I know!! I'm not trying to buy anything!",
+        "pl": "Wiem!! Nie próbuję niczego kupić!",
+        "speaker": "Sally"
+      },
+      "Examine/GrippShopBuy/Section ds5": {
+        "en": "Mr Gripp, we're not customers, we're detectives.",
+        "pl": "Panie Gripp, nie jesteśmy klientami, jesteśmy detektywami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/GrippShopBuy/Section ds6": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Gripp"
+      },
+      "Examine/GrippShopBuy/Section ds8": {
+        "en": "I'm sorry, you can't afford this item.",
+        "pl": "Przepraszam, nie stać cię na ten przedmiot.",
+        "speaker": "Gripp"
+      },
+      "Examine/GrippShopBuy/Section ds9": {
+        "en": "I'm afraid you don't have enough money.",
+        "pl": "Obawiam się, że nie masz wystarczająco pieniędzy.",
+        "speaker": "Gripp"
+      }
+    },
+    "GrippShopMoney": {
+      "Examine/GrippShopMoney/Section ds1": {
+        "en": "Grimoire, you don't have any money?",
+        "pl": "Grimoire, nie masz żadnych pieniędzy?",
+        "speaker": "Sally"
+      },
+      "Examine/GrippShopMoney/Section ds3": {
+        "en": "I don't have any [h]gold coins[/h], no!!",
+        "pl": "Nie mam żadnych [h]złotych monet,[/h] nie!!",
+        "speaker": "Grimoire"
+      }
+    },
+    "ListenedToTapeWithBlackBoxOpening": {
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds0": {
+        "en": "Even as it is, I'd say this is a pretty important discovery.",
+        "pl": "Nawet w tym stanie, powiedziałbym, że to całkiem ważne odkrycie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds1": {
+        "en": "That recording... it's Mortuga opening the Black Box.",
+        "pl": "To nagranie... to Mortuga otwierający Czarną Skrzynkę.",
+        "speaker": "Sally"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds10": {
+        "en": "Oh?",
+        "pl": "O?",
+        "speaker": "Grimoire"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds12": {
+        "en": "Do we?",
+        "pl": "Czyżby?",
+        "speaker": "Sally"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds13": {
+        "en": "Yup. It's no [i]wonder[/i] we couldn't get the lid open...",
+        "pl": "Ano. Nic [i]dziwnego,[/i] że nie mogliśmy otworzyć pokrywy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds5": {
+        "en": "Yup.\nIt's no [i]wonder[/i] we couldn't get the lid open...",
+        "pl": "Ano.\nNic [i]dziwnego,[/i] że nie mogliśmy otworzyć pokrywy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds5 Choice 1": {
+        "en": "Go to Captain's Quarters",
+        "pl": "Idź do Kajuty Kapitana",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds5 Choice 2": {
+        "en": "Not Yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds5 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds6": {
+        "en": "It's what Mariana said she recorded while she was in the Control Room.",
+        "pl": "To to, co Mariana powiedziała, że nagrała, będąc w Centrali Dowodzenia.",
+        "speaker": "Sally"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds7": {
+        "en": "...and just like she said - Mortuga's having a one-sided conversation.",
+        "pl": "...i dokładnie jak mówiła - Mortuga prowadzi jednostronną rozmowę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds8": {
+        "en": "I think it's missing half the audio - if only we could hear the whole thing...",
+        "pl": "Chyba brakuje połowy nagrania - gdybyśmy tylko mogli usłyszeć wszystko...",
+        "speaker": "Sally"
+      },
+      "Examine/ListenedToTapeWithBlackBoxOpening/Section ds9": {
+        "en": "We finally know how to open the Black Box!",
+        "pl": "Wreszcie wiemy, jak otworzyć Czarną Skrzynkę!",
+        "speaker": "Grimoire"
+      }
+    },
+    "LookforDollinIllusionTheatre": {
+      "Examine/LookforDollinIllusionTheatre/Section ds1": {
+        "en": "Well - there's only one other place it would be.",
+        "pl": "Cóż - jest tylko jedno inne miejsce, gdzie mogłoby być.",
+        "speaker": "Grimoire"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds1 Choice 1": {
+        "en": "Return to Illusion Theatre",
+        "pl": "Wróć do Teatru Iluzji",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds2": {
+        "en": "You know, I think Sym's [i]hiding[/i] something on the submarine - something we haven't found yet.",
+        "pl": "Wiesz, myślę, że Sym coś [i]ukrywa[/i] na łodzi podwodnej - coś, czego jeszcze nie znaleźliśmy.",
+        "speaker": "Sally"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds3": {
+        "en": "A certain piece of equipment she uses in [i]magic tricks...?[/i]",
+        "pl": "Pewien sprzęt, którego używa do [i]sztuczek magicznych...?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/LookforDollinIllusionTheatre/Section ds4": {
+        "en": "That's the one. Problem is, we already searched the Child's Room [h]and[/h] her bunk room...",
+        "pl": "Właśnie to. Problem w tym, że przeszukaliśmy już Pokój Dziecka [h]i[/h] jej pokój z pryczami...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

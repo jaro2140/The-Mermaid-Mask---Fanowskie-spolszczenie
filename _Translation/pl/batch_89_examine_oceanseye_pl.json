@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja OceansEye/Oko Oceanu (46 terminow, ~14 mikroscen) - OSTATNIA lokacja z kategorii Examine 'lokacje' - przeszklona kopula pod lodzia z widokiem na dno oceanu. Zawiera skrzynie ze skarbem (monety, perly, klejnoty) oraz ostry koral przypominajacy krysztal.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_OceansEye_BG": {
+      "Examine/Exam_Area_OceansEye_BG/Section ds0": {
+        "en": "Why [h]is[/h] there an upside-down dome attached to the bottom of the submarine?",
+        "pl": "Czemu do spodu łodzi podwodnej [h]jest[/h] przymocowana odwrócona kopuła?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_BG/Section ds1": {
+        "en": "I guess it's a bit like a glass-bottom boat.",
+        "pl": "Chyba to trochę jak łódź ze szklanym dnem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_BG/Section ds2": {
+        "en": "So it's just for looking out into the ocean?",
+        "pl": "Więc to tylko po to, żeby patrzeć na ocean?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_BG/Section ds3": {
+        "en": "Maybe...",
+        "pl": "Może...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_OceansEye_ChestEnd": {
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds1": {
+        "en": "...there's something sharp in there.",
+        "pl": "...jest tam coś ostrego.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds10": {
+        "en": "[i]Ouch![/i]",
+        "pl": "[i]Au![/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds11": {
+        "en": "-What happened?",
+        "pl": "-Co się stało?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds12": {
+        "en": "I cut my finger...",
+        "pl": "Skaleczyłem się w palec...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ChestEnd/Section ds2": {
+        "en": "What's inside?",
+        "pl": "Co jest w środku?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_OceansEye_ChestSolved": {
+      "Examine/Exam_Area_OceansEye_ChestSolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_OceansEye_ChestStart": {
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds0": {
+        "en": "It's a real, [h]actual,[/h] treasure chest.",
+        "pl": "To prawdziwa, [h]najprawdziwsza[/h] skrzynia ze skarbem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds1": {
+        "en": "aaand done.",
+        "pl": "i... gotowe.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds1 Choice 1": {
+        "en": "Open it",
+        "pl": "Otwórz to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds3": {
+        "en": "Let's open it.",
+        "pl": "Otwórzmy to.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds5": {
+        "en": "Hold on.\nI'm... just - savoring the moment.",
+        "pl": "Czekaj.\nJa... po prostu - delektuję się chwilą.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_ChestStart/Section ds6": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_OceansEye_OceanTreasure": {
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds10": {
+        "en": "I guess it was the [h]coral[/h] that's sharp... it's weird, it's like crystal-",
+        "pl": "Chyba to [h]koral[/h] był ostry... to dziwne, jest jak kryształ-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds12": {
+        "en": "What's wrong with [h]you?[/h]",
+        "pl": "Co jest nie tak z [h]tobą?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds3": {
+        "en": "It's... actually treasure.",
+        "pl": "To... naprawdę skarb.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds4": {
+        "en": "Coins. Pearls. Gems.\nStandard treasure.",
+        "pl": "Monety. Perły. Klejnoty.\nStandardowy skarb.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds6": {
+        "en": "-I assumed it'd be something weird! Something confusing!",
+        "pl": "-Zakładałem, że to będzie coś dziwnego! Coś zagadkowego!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds7": {
+        "en": "You were hoping for something [h]else?[/h]",
+        "pl": "Miałeś nadzieję na coś [h]innego?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_OceanTreasure/Section ds9": {
+        "en": "Something to turn the case on its head, you know??",
+        "pl": "Coś, co wywróci tę sprawę do góry nogami, wiesz??",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_OceansEye_airlockdoor": {
+      "Examine/Exam_Area_OceansEye_airlockdoor/Section ds0": {
+        "en": "Ah - don't touch that door.\nIt goes... right out into the ocean.",
+        "pl": "Ach - nie dotykaj tych drzwi.\nProwadzą... prosto do oceanu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_airlockdoor/Section ds1": {
+        "en": "I doubt you could open it if you wanted to.",
+        "pl": "Wątpię, żebyś mógł je otworzyć, nawet gdybyś chciał.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_airlockdoor/Section ds2": {
+        "en": "It's probably pressure locked while the room is drained of water.",
+        "pl": "Prawdopodobnie są zablokowane ciśnieniowo, dopóki pokój jest osuszony z wody.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_airlockdoor/Section ds3": {
+        "en": "But if the room was full of water...",
+        "pl": "Ale gdyby pokój był pełen wody...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_airlockdoor/Section ds4": {
+        "en": "Then yeah, you could use it to go outside.",
+        "pl": "To tak, mógłbyś ich użyć, żeby wyjść na zewnątrz.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_OceansEye_coral": {
+      "Examine/Exam_Area_OceansEye_coral/Section ds1": {
+        "en": "There's coral growing down here, too.",
+        "pl": "Tutaj też rośnie koral.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_OceansEye_drain": {
+      "Examine/Exam_Area_OceansEye_drain/Section ds0": {
+        "en": "That must be how the room fills and empties itself with water.",
+        "pl": "Tak zapewne ten pokój napełnia się i opróżnia z wody.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_drain/Section ds1": {
+        "en": "There's a drain here.",
+        "pl": "Jest tu odpływ.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_OceansEye_ladder": {
+      "Examine/Exam_Area_OceansEye_ladder/Section ds1": {
+        "en": "It wasn't easy to climb down... but it'll be even harder to climb back up.",
+        "pl": "Zejście nie było łatwe... ale wejście z powrotem będzie jeszcze trudniejsze.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ladder/Section ds2": {
+        "en": "I guess it'd be easier if it was full of water. You know you could just - [i]swim[/i] to the top.",
+        "pl": "Chyba byłoby łatwiej, gdyby było pełne wody. Wiesz, mogłabyś po prostu - [i]popłynąć[/i] na górę.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_ladder/Section ds3": {
+        "en": "I'll stick with the ladder.",
+        "pl": "Zostanę przy drabinie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_ladder/Section ds4": {
+        "en": "It's the ladder.",
+        "pl": "To ta drabina.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_OceansEye_rocks": {
+      "Examine/Exam_Area_OceansEye_rocks/Section ds0": {
+        "en": "Rocks.\nComplete with their own barnacles, seaweed and starfish.",
+        "pl": "Skały.\nZ własnymi pąklami, wodorostami i rozgwiazdami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_rocks/Section ds1": {
+        "en": "I assumed they were decorative, but they're real.",
+        "pl": "Zakładałem, że są ozdobne, ale są prawdziwe.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_OceansEye_sand": {
+      "Examine/Exam_Area_OceansEye_sand/Section ds0": {
+        "en": "It's the ocean floor.",
+        "pl": "To dno oceanu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_OceansEye_sand/Section ds1": {
+        "en": "Not quite.\nIt's a bunch of sand on the bottom of the dome.",
+        "pl": "Nie do końca.\nTo trochę piasku na dnie kopuły.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_OceansEye_sand/Section ds2": {
+        "en": "[h]Looks[/h] like the ocean floor.",
+        "pl": "[h]Wygląda[/h] jak dno oceanu.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_OceansEye_toplight": {
+      "Examine/Exam_Area_OceansEye_toplight/Section ds0": {
+        "en": "I can see the airlock through the hole in the ceiling.",
+        "pl": "Widzę śluzę przez otwór w suficie.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

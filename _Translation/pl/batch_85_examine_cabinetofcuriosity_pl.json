@@ -1,0 +1,345 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja CabinetOfCuriosity/Gabinet Osobliwosci (60 terminow, ~19 mikroscen) - kolekcja Doktora Zephyra: sfera armilarna, woskowa figura 'Boggy' (bagienny potwor - powtarzajacy sie motyw z SUS X), kula do wrozenia, hipnotyzujace szkielko, oraz - kluczowo - Jezyk Syreny widoczny za szklem (MermaidsTongue1-2).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_CabinetOfCuriosity_MermaidsTongue1": {
+      "Examine/Exam_Area_CabinetOfCuriosity_MermaidsTongue1/Section ds0": {
+        "en": "...is that what I think it is?",
+        "pl": "...czy to jest to, co myślę, że jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_MermaidsTongue1/Section ds1": {
+        "en": "...I want to take a closer look at it, but it's locked behind glass.",
+        "pl": "...chcę przyjrzeć się temu bliżej, ale jest zamknięte za szkłem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_MermaidsTongue1/Section ds3": {
+        "en": "Huh.",
+        "pl": "Huh.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_MermaidsTongue2": {
+      "Examine/Exam_Area_CabinetOfCuriosity_MermaidsTongue2/Section ds0": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_PuzzleAlreadySolved": {
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleAlreadySolved/Section ds3": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_PuzzleEnd": {
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleEnd/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleEnd/Section ds4": {
+        "en": "Now what?",
+        "pl": "Co teraz?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_PuzzleStart": {
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleStart/Section ds2": {
+        "en": "There's a bunch of little skulls down here...",
+        "pl": "Jest tu na dole kilka małych czaszek...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleStart/Section ds2 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleStart/Section ds2 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_PuzzleStart/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_armillary": {
+      "Examine/Exam_Area_CabinetOfCuriosity_armillary/Section ds0": {
+        "en": "It's an armillary sphere.",
+        "pl": "To sfera armilarna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_armillary/Section ds1": {
+        "en": "Usually the rings are set around the earth, or the sun...",
+        "pl": "Zwykle pierścienie są ułożone wokół ziemi albo słońca...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_armillary/Section ds2": {
+        "en": "...but this one has a little clawed foot in the centre?",
+        "pl": "...ale ta ma pośrodku małą łapę ze szponami?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_armillary/Section ds3": {
+        "en": "I... don't have the mental capacity to consider the implications of that.",
+        "pl": "Ja... nie mam siły psychicznej, żeby zastanawiać się nad konsekwencjami tego.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_bg": {
+      "Examine/Exam_Area_CabinetOfCuriosity_bg/Section ds0": {
+        "en": "Dr Zephyr's cabinet of curiosity.",
+        "pl": "Gabinet osobliwości Doktora Zephyra.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bg/Section ds1": {
+        "en": "It's not a cabinet.\nIt's a whole dang [h]room.[/h]",
+        "pl": "To nie jest gabinet.\nTo cały, cholerny [h]pokój.[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bg/Section ds2": {
+        "en": "Eh, almost.\nIt's more like a... walk-in pantry.",
+        "pl": "Eh, prawie.\nTo bardziej jak... duża spiżarnia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bg/Section ds3": {
+        "en": "[i]A walk-in pantry is a room.[/i]",
+        "pl": "[i]Duża spiżarnia to pokój.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_boggy": {
+      "Examine/Exam_Area_CabinetOfCuriosity_boggy/Section ds0": {
+        "en": "Hang on... is that-",
+        "pl": "Czekaj... czy to-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_boggy/Section ds1": {
+        "en": "Yeah it's Boggy. The swamp monster from Boggy's Bog-",
+        "pl": "Tak, to Boggy. Bagienny potwór z Bagna Boggy'ego-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_boggy/Section ds2": {
+        "en": "Don't panic, it's just a wax model.",
+        "pl": "Bez paniki, to tylko woskowa figura.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_boggy/Section ds3": {
+        "en": "We can't seem to get away from this guy...",
+        "pl": "Chyba nie da się uciec od tego faceta...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_bottles": {
+      "Examine/Exam_Area_CabinetOfCuriosity_bottles/Section ds0": {
+        "en": "Of what?",
+        "pl": "Z czym?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bottles/Section ds1": {
+        "en": "Bottles. ",
+        "pl": "Butelki. ",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bottles/Section ds2": {
+        "en": "Oh, you know...",
+        "pl": "Och, no wiesz...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_bottles/Section ds3": {
+        "en": "Stuff.",
+        "pl": "Różne rzeczy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_crystal ball": {
+      "Examine/Exam_Area_CabinetOfCuriosity_crystal ball/Section ds0": {
+        "en": "On a normal day, that'd be worth a look.",
+        "pl": "W normalny dzień warto by się temu przyjrzeć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_crystal ball/Section ds1": {
+        "en": "Hey, it's a crystal ball!",
+        "pl": "Hej, to kula do wróżenia!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_crystal ball/Section ds2": {
+        "en": "But I think we've already hit our crystal ball capacity.",
+        "pl": "Ale chyba osiągnęliśmy już nasz limit kul do wróżenia.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_hypnoglass": {
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds1": {
+        "en": "...but I can't seem to look away...",
+        "pl": "...ale nie mogę chyba oderwać wzroku...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds2": {
+        "en": "I don't know what this is...",
+        "pl": "Nie wiem, co to jest...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds3": {
+        "en": "Sally!",
+        "pl": "Sally!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds4": {
+        "en": "Hm?",
+        "pl": "Hm?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds5": {
+        "en": "You were getting hypnotised!",
+        "pl": "Byłaś hipnotyzowana!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_hypnoglass/Section ds6": {
+        "en": "Really?\n[i]Cool.[/i]",
+        "pl": "Naprawdę?\n[i]Fajnie.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_letters": {
+      "Examine/Exam_Area_CabinetOfCuriosity_letters/Section ds0": {
+        "en": "[i]Two[/i] letters.",
+        "pl": "[i]Dwa[/i] listy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_letters/Section ds4": {
+        "en": "What's that? [i]A letter?[/i]",
+        "pl": "Co to jest? [i]List?[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_nosemask": {
+      "Examine/Exam_Area_CabinetOfCuriosity_nosemask/Section ds0": {
+        "en": "But if you laid it down flat...\nYou could use it as a sundial.",
+        "pl": "Ale gdybyś położył to płasko...\nMógłbyś użyć tego jako zegara słonecznego.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_nosemask/Section ds1": {
+        "en": "...is it a mask?",
+        "pl": "...czy to maska?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_nosemask/Section ds3": {
+        "en": "I'm not sure.",
+        "pl": "Nie jestem pewna.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_prisonermask": {
+      "Examine/Exam_Area_CabinetOfCuriosity_prisonermask/Section ds0": {
+        "en": "This looks like one of those metal masks they used to make prisoners wear.",
+        "pl": "To wygląda jak jedna z tych metalowych masek, które kiedyś zakładano więźniom.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_prisonermask/Section ds1": {
+        "en": "When did they do that?",
+        "pl": "Kiedy to robiono?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_prisonermask/Section ds2": {
+        "en": "You know - the olden times.",
+        "pl": "No wiesz - dawne czasy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_prisonermask/Section ds3": {
+        "en": "Right.",
+        "pl": "No tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_stuff left": {
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff left/Section ds0": {
+        "en": "Trinkets.",
+        "pl": "Błyskotki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff left/Section ds1": {
+        "en": "Keepsakes.",
+        "pl": "Pamiątki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff left/Section ds2": {
+        "en": "Curios.",
+        "pl": "Osobliwości.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff left/Section ds3": {
+        "en": "[i]Ephemera.[/i]",
+        "pl": "[i]Memorabilia.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff left/Section ds4": {
+        "en": "Oh, good one.",
+        "pl": "O, niezłe.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_stuff right": {
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff right/Section ds0": {
+        "en": "Knick-knacks.",
+        "pl": "Drobiazgi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff right/Section ds1": {
+        "en": "Oddities.",
+        "pl": "Dziwactwa.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff right/Section ds2": {
+        "en": "Doodads.",
+        "pl": "Cudeńka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff right/Section ds3": {
+        "en": "[i]Assorted Anomalous Artifacts.[/i]",
+        "pl": "[i]Anomalne Artefakty Antykwaryczne.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_stuff right/Section ds4": {
+        "en": "Nice.",
+        "pl": "Niezłe.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CabinetOfCuriosity_unicorn": {
+      "Examine/Exam_Area_CabinetOfCuriosity_unicorn/Section ds0": {
+        "en": "So...\nIt's a unicorn skull?",
+        "pl": "Więc...\nTo czaszka jednorożca?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_unicorn/Section ds1": {
+        "en": "Slow down.\nCould just be a narwhal.",
+        "pl": "Zwolnij.\nMoże to być po prostu narwal.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_unicorn/Section ds2": {
+        "en": "A narwhal's horn is on the [i]end[/i] of its nose!",
+        "pl": "Róg narwala jest na [i]końcu[/i] jego nosa!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_unicorn/Section ds3": {
+        "en": "Oh yeah...",
+        "pl": "A tak...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CabinetOfCuriosity_unicorn/Section ds4": {
+        "en": "Unicorn it is.",
+        "pl": "Niech będzie jednorożec.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

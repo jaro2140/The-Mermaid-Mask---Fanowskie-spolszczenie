@@ -1,0 +1,1150 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja Parlor (205 terminow, ~45 mikroscen) - interakcje z otoczeniem w Salonie (glownym hubie lodzi podwodnej), w tym finalowa sekwencja pogoni za Grippem po ujawnieniu go jako mordercy (GrippHasEscaped, GrippTurnedOffLights) oraz krotkie reakcje kazdego z 8 podejrzanych podczas finalowej konfrontacji w Salonie (Parlor_[Postac] 1/2/3).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci (nazwa sceny czesto wskazuje ktora postac - np. 'Parlor_Gripp 1' = rozmowa z Grippem, wiec jego linie = Gripp, pozostale = Grimoire/Sally naprzemiennie wedlug logiki dialogu). Do weryfikacji w grze przy watpliwosciach.",
+    "uwagi": "Exam_Area_Parlor_bg/ds4 zawiera angielska gre slowna 'drawing room'/'withdrawing room' (etymologia 'pokoju do wycofywania sie') nieprzekladalna doslownie na polski 'salon' - przetlumaczona funkcjonalnie z zachowaniem sensu wyjasnienia."
+  },
+  "categories": {
+    "Exam_Area_Parlor_BGEnd": {
+      "Examine/Exam_Area_Parlor_BGEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Parlor_BGGripp": {
+      "Examine/Exam_Area_Parlor_BGGripp/Section ds0": {
+        "en": "I think we'd better talk to Gripp.",
+        "pl": "Chyba powinniśmy porozmawiać z Grippem.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomLocked": {
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds8": {
+        "en": "I think this door leads into the control room.",
+        "pl": "Myślę, że te drzwi prowadzą do centrali dowodzenia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds9": {
+        "en": "You can't.\nIt's locked.",
+        "pl": "Nie możesz.\nJest zamknięte.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds9 Choice 1": {
+        "en": "Look through window",
+        "pl": "Zajrzyj przez okno",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds9 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds9 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds12": {
+        "en": "I wanna go into the control room!",
+        "pl": "Chcę wejść do centrali dowodzenia!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomLocked/Section ds14": {
+        "en": "Well-",
+        "pl": "Cóż-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomSinthia1": {
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds0": {
+        "en": "Hello...?",
+        "pl": "Halo...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds1": {
+        "en": "Go solve the crime!!",
+        "pl": "Idźcie rozwiązać zbrodnię!!",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds2": {
+        "en": "We're [i]doing[/i] it!",
+        "pl": "[i]Robimy[/i] to!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds3": {
+        "en": "Did you talk to Sym yet?",
+        "pl": "Rozmawialiście już z Sym?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds4": {
+        "en": "Where is she?",
+        "pl": "Gdzie ona jest?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds5": {
+        "en": "She'll be in the room nearest the Illusion Theatre.",
+        "pl": "Będzie w pokoju najbliżej Teatru Iluzji.",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds10": {
+        "en": "[i]Sim?[/i]",
+        "pl": "[i]Sim?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia1/Section ds11": {
+        "en": "Sym! [i]Symmetry!?[/i]",
+        "pl": "Sym! [i]Symmetry!?[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomSinthia2": {
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds0": {
+        "en": "Hello...?",
+        "pl": "Halo...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds1": {
+        "en": "Go solve the crime!!",
+        "pl": "Idźcie rozwiązać zbrodnię!!",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds2": {
+        "en": "We're [i]doing[/i] it!",
+        "pl": "[i]Robimy[/i] to!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds3": {
+        "en": "Did you talk to Sym yet?",
+        "pl": "Rozmawialiście już z Sym?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds4": {
+        "en": "Where is she?",
+        "pl": "Gdzie ona jest?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds5": {
+        "en": "She'll be in the room nearest the Illusion Theatre.",
+        "pl": "Będzie w pokoju najbliżej Teatru Iluzji.",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds9": {
+        "en": "The Child's Room? The one with that weird painting?",
+        "pl": "Pokój Dziecka? Ten z tym dziwnym obrazem?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds10": {
+        "en": "We [i]checked[/i] in there!!",
+        "pl": "[i]Sprawdziliśmy[/i] tam!!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds11": {
+        "en": "Yeah, no - there's no [i]weird painting[/i] in that room. Just a weird [h]girl.[/h]",
+        "pl": "Tak, nie - nie ma żadnego [i]dziwnego obrazu[/i] w tym pokoju. Tylko dziwna [h]dziewczyna.[/h]",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds12": {
+        "en": "Tell her to knock it off and start taking this seriously.",
+        "pl": "Powiedzcie jej, żeby przestała i zaczęła traktować to poważnie.",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds13": {
+        "en": "I [h]knew[/h] it.",
+        "pl": "[h]Wiedziałem.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds15": {
+        "en": "[i]Sim?[/i]",
+        "pl": "[i]Sim?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia2/Section ds16": {
+        "en": "Sym! [i]Symmetry!?[/i]",
+        "pl": "Sym! [i]Symmetry!?[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomSinthia3": {
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds3": {
+        "en": "You spoke with Sym?",
+        "pl": "Rozmawialiście z Sym?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds4": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds5": {
+        "en": "-and...?",
+        "pl": "-i...?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds10": {
+        "en": "I'm not about to declare her innocent right here, right now - if [i]that's[/i] what you were hoping for.",
+        "pl": "Nie zamierzam ogłaszać jej niewinności tu i teraz - jeśli [i]na to[/i] liczyliście.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds12": {
+        "en": "Aww, [i]come on[/i].\nDo it!",
+        "pl": "Achh, [i]no weź.[/i]\nZrób to!",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds15": {
+        "en": "We haven't even spoken to all the [i]suspects[/i] yet.",
+        "pl": "Nie rozmawialiśmy jeszcze nawet ze wszystkimi [i]podejrzanymi.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds16": {
+        "en": "Oh, which ones are you missing?",
+        "pl": "Och, kogo brakuje?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds17": {
+        "en": "[i]You.[/i]",
+        "pl": "[i]Ciebie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds18": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomSinthia3/Section ds20": {
+        "en": "Open the door, Sinthia.",
+        "pl": "Otwórz drzwi, Sinthio.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomUnlocked": {
+      "Examine/Exam_Area_Parlor_ControlRoomUnlocked/Section ds8": {
+        "en": "Looks like she unlocked the door...",
+        "pl": "Wygląda na to, że otworzyła drzwi...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomUnlocked/Section ds9": {
+        "en": "[i]Finally.[/i]",
+        "pl": "[i]Nareszcie.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomUnlocked/Section ds9 Choice 1": {
+        "en": "Go inside",
+        "pl": "Wejdź do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomUnlocked/Section ds9 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomUnlocked/Section ds9 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomWindow_BG": {
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_BG/Section ds0": {
+        "en": "It's a window into the control room.",
+        "pl": "To okno do centrali dowodzenia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_BG/Section ds1": {
+        "en": "...is there anyone in there?",
+        "pl": "...jest tam ktoś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_BG/Section ds2": {
+        "en": "I can't see...",
+        "pl": "Nie widzę...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_ControlRoomWindow_Note": {
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds0": {
+        "en": "It's taped up on the other side of the door.",
+        "pl": "Jest przyklejona po drugiej stronie drzwi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds1": {
+        "en": "[i]You don't need to come in here.",
+        "pl": "[i]Nie musicie tu wchodzić.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds2": {
+        "en": "[i]The crime scene is one floor down, at the very back of the submarine.",
+        "pl": "[i]Miejsce zbrodni jest piętro niżej, na samym tyle łodzi podwodnej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds3": {
+        "en": "[i]-Captain Seafoam.[/i]",
+        "pl": "[i]-Kapitan Seafoam.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds4": {
+        "en": "Thanks for the directions, I guess...",
+        "pl": "Dzięki za wskazówki, jak sądzę...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds5": {
+        "en": "Do you get the sense that the Captain is [h]hiding[/h] from us?",
+        "pl": "Masz wrażenie, że Kapitan się przed nami [h]ukrywa?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds6": {
+        "en": "Why would they do that?",
+        "pl": "Czemu miałaby to robić?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_ControlRoomWindow_Note/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Dirk 1": {
+      "Examine/Exam_Area_Parlor_Dirk 1/Section ds1": {
+        "en": "Oh man, I thought you guys were like - [h]gone[/h] gone.",
+        "pl": "O rany, myślałem, że wy dwoje jesteście jakby - [h]zniknęli[/h] na dobre.",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 1/Section ds2": {
+        "en": "It's only been about an hour...",
+        "pl": "Minęła tylko jakaś godzina...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 1/Section ds3": {
+        "en": "I'm not sure Dirk's developed object permanence yet.",
+        "pl": "Nie jestem pewna, czy Dirk ma już wykształconą stałość przedmiotu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 1/Section ds4": {
+        "en": "[i]Hey![/i]",
+        "pl": "[i]Hej![/i]",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 1/Section ds5": {
+        "en": "I don't know what that means. But I'm gonna assume you're being rude!",
+        "pl": "Nie wiem, co to znaczy. Ale założę się, że jesteś niemiła!",
+        "speaker": "Dirk"
+      }
+    },
+    "Exam_Area_Parlor_Dirk 2": {
+      "Examine/Exam_Area_Parlor_Dirk 2/Section ds4": {
+        "en": "I got a feeling something [i]bad[/i] is about to go down.",
+        "pl": "Mam przeczucie, że zaraz stanie się coś [i]złego.[/i]",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 2/Section ds5": {
+        "en": "I dunno.",
+        "pl": "Nie wiem.",
+        "speaker": "Dirk"
+      }
+    },
+    "Exam_Area_Parlor_Dirk 3": {
+      "Examine/Exam_Area_Parlor_Dirk 3/Section ds1": {
+        "en": "Uh - what happens now? We call the cops, or what?",
+        "pl": "Yy - co teraz? Dzwonimy na policję, czy co?",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 3/Section ds2": {
+        "en": "With [i]what?[/i] ",
+        "pl": "[i]Czym?[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 3/Section ds3": {
+        "en": "The Cell Pho-",
+        "pl": "Telefo-",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_Parlor_Dirk 3/Section ds4": {
+        "en": "Oh yeah, no signal, huh.",
+        "pl": "A tak, brak zasięgu, co.",
+        "speaker": "Dirk"
+      }
+    },
+    "Exam_Area_Parlor_FirstEntry": {
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds0": {
+        "en": "What's at the bottom of the ladder?",
+        "pl": "Co jest na dole drabiny?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds1": {
+        "en": "I can't see, it's pitch black.",
+        "pl": "Nie widzę, jest kompletnie ciemno.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds2": {
+        "en": "Should we go back up?",
+        "pl": "Powinniśmy wrócić na górę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_FirstEntry/Section ds6": {
+        "en": "Wait, I think there's a lever-",
+        "pl": "Czekaj, chyba jest tu dźwignia-",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Gripp 1": {
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds1": {
+        "en": "...you say you've [i]solved[/i] the mystery?",
+        "pl": "...mówicie, że [i]rozwiązaliście[/i] zagadkę?",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds2": {
+        "en": "Yup. All wrapped up with a bow.",
+        "pl": "Ano. Wszystko zapakowane z kokardką.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds3": {
+        "en": "What now - dramatically [i]point[/i] at the culprit? [i]'Ha haa, it's you'[/i] - etcetera?",
+        "pl": "Co teraz - dramatycznie [i]wskazać[/i] winnego? [i]'Ha haa, to ty'[/i] - i tak dalej?",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds4": {
+        "en": "Uh, that's not - normally our standard protocol, no.",
+        "pl": "Yy, to nie - normalnie nasz standardowy protokół, nie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds5": {
+        "en": "Maybe it [i]should[/i] be. Sounds fun.",
+        "pl": "Może [i]powinien[/i] być. Brzmi zabawnie.",
+        "speaker": "Gripp"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 1/Section ds6": {
+        "en": "Impressive!",
+        "pl": "Imponujące!",
+        "speaker": "Gripp"
+      }
+    },
+    "Exam_Area_Parlor_Gripp 2": {
+      "Examine/Exam_Area_Parlor_Gripp 2/Section ds1": {
+        "en": "To think...",
+        "pl": "Pomyśleć tylko...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Gripp 2/Section ds3": {
+        "en": "...Mortuga had such a thing hidden in the submarine, this whole time.",
+        "pl": "...że Mortuga miał coś takiego ukrytego na łodzi podwodnej, przez cały ten czas.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_Gripp 3": {
+      "Examine/Exam_Area_Parlor_Gripp 3/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Gripp"
+      }
+    },
+    "Exam_Area_Parlor_GrippHasEscaped 1": {
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 1/Section ds0": {
+        "en": "The Mermaid's Tongue! - it's gone!",
+        "pl": "Język Syreny! - zniknął!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 1/Section ds1": {
+        "en": "He [i]took[/i] it! He must have!",
+        "pl": "On to [i]zabrał![/i] Musiał!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 1/Section ds7": {
+        "en": "He can't have gone up to the Fore Deck, it's still locked-",
+        "pl": "Nie mógł pójść na Pokład Dziobowy, wciąż jest zamknięty-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_GrippHasEscaped 2": {
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 2/Section ds8": {
+        "en": "What about the Aft Deck?",
+        "pl": "A co z Pokładem Rufowym?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 2/Section ds9": {
+        "en": "Let's go! Maybe we can catch him!",
+        "pl": "Chodźmy! Może go złapiemy!",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_GrippTurnedOffLights": {
+      "Examine/Exam_Area_Parlor_GrippTurnedOffLights/Section ds0": {
+        "en": "It's dark!",
+        "pl": "Jest ciemno!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_GrippTurnedOffLights/Section ds1": {
+        "en": "Gripp turned off the lights!",
+        "pl": "Gripp wyłączył światła!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_GrippTurnedOffLights/Section ds7": {
+        "en": "Someone grab him!!",
+        "pl": "Ktoś go złapcie!!",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_LaunchGrimoire4Parlor0": {
+      "Examine/Exam_Area_Parlor_LaunchGrimoire4Parlor0/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Parlor_MermaidsTongue": {
+      "Examine/Exam_Area_Parlor_MermaidsTongue/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Parlor_Moon 1": {
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds1": {
+        "en": "I can't say I [i]like[/i] being locked inside the submarine...",
+        "pl": "Nie mogę powiedzieć, żebym [i]lubiła[/i] być zamknięta na łodzi podwodnej...",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds2": {
+        "en": "You feel like you might want to try to escape?",
+        "pl": "Masz ochotę spróbować ucieczki?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds3": {
+        "en": "Hm. No more than usual.",
+        "pl": "Hm. Nie bardziej niż zwykle.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds4": {
+        "en": "You [i]couldn't[/i] escape, even [h]if[/h] the Fore Deck hatch was open-",
+        "pl": "Nie [i]mogłabyś[/i] uciec, nawet [h]gdyby[/h] właz na Pokładzie Dziobowym był otwarty-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds5": {
+        "en": "-we're floating in the middle of the ocean.",
+        "pl": "-unosimy się na środku oceanu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds6": {
+        "en": "Ah, but what if I've chartered a [i]rescue helicopter??[/i]",
+        "pl": "Ach, ale co jeśli wynajęłam [i]helikopter ratunkowy??[/i]",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds7": {
+        "en": "Have you?",
+        "pl": "Wynajęłaś?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Moon 1/Section ds8": {
+        "en": "No, but - [i]what if?[/i]",
+        "pl": "Nie, ale - [i]a gdyby?[/i]",
+        "speaker": "Moon"
+      }
+    },
+    "Exam_Area_Parlor_Moon 2": {
+      "Examine/Exam_Area_Parlor_Moon 2/Section ds1": {
+        "en": "You're asking for trouble, you know that?",
+        "pl": "Prosisz się o kłopoty, wiesz o tym?",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 2/Section ds3": {
+        "en": "Don't say I didn't warn you.",
+        "pl": "Nie mów, że cię nie ostrzegałam.",
+        "speaker": "Moon"
+      }
+    },
+    "Exam_Area_Parlor_Moon 3": {
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds1": {
+        "en": "Fascinating... but not wholly unexpected.",
+        "pl": "Fascynujące... ale nie do końca niespodziewane.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds2": {
+        "en": "Oh no? You had it sussed out?",
+        "pl": "Och, naprawdę? Miałaś to rozgryzione?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds3": {
+        "en": "To a certain extent.",
+        "pl": "Do pewnego stopnia.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds4": {
+        "en": "You coulda [i]told[/i] us. Saved us some time.",
+        "pl": "Mogłaś nam [i]powiedzieć.[/i] Zaoszczędziłabyś nam czasu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds5": {
+        "en": "-and what if I'd been wrong? Hm?",
+        "pl": "-a co, jeśli bym się myliła? Hm?",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_Parlor_Moon 3/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_NoDirections": {
+      "Examine/Exam_Area_Parlor_NoDirections/Section ds0": {
+        "en": "Hang on.\nWhich way is the crime scene?",
+        "pl": "Czekaj.\nW którą stronę jest miejsce zbrodni?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_NoDirections/Section ds1": {
+        "en": "No idea.",
+        "pl": "Nie mam pojęcia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_NoDirections/Section ds4": {
+        "en": "I'm not sure that's a good idea.",
+        "pl": "Nie jestem pewna, czy to dobry pomysł.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_NoDirections/Section ds5": {
+        "en": "I assumed we were just going to wander around randomly until we found it.",
+        "pl": "Zakładałem, że po prostu będziemy się błąkać na oślep, aż to znajdziemy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_Painting1": {
+      "Examine/Exam_Area_Parlor_Painting1/Section ds0": {
+        "en": "What... is [h]that?[/h]",
+        "pl": "Co... to [h]jest?[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Painting1/Section ds1": {
+        "en": "Whoa.",
+        "pl": "Ho ho.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_PaintingEnd": {
+      "Examine/Exam_Area_Parlor_PaintingEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Parlor_Sally 1": {
+      "Examine/Exam_Area_Parlor_Sally 1/Section ds0": {
+        "en": "This is - the [i]weirdest[/i] submarine I've ever been on.",
+        "pl": "To jest - [i]najdziwniejsza[/i] łódź podwodna, na jakiej kiedykolwiek byłam.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Sally 1/Section ds1": {
+        "en": "...and the first?",
+        "pl": "...i pierwsza?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Sally 1/Section ds2": {
+        "en": "And the first.",
+        "pl": "I pierwsza.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Sinthia 1": {
+      "Examine/Exam_Area_Parlor_Sinthia 1/Section ds1": {
+        "en": "I've got everything under control!",
+        "pl": "Mam wszystko pod kontrolą!",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 1/Section ds2": {
+        "en": "That's exactly what people say when they [i]don't have everything under control.[/i]",
+        "pl": "To dokładnie to, co ludzie mówią, kiedy [i]nie mają wszystkiego pod kontrolą.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_Sinthia 2": {
+      "Examine/Exam_Area_Parlor_Sinthia 2/Section ds1": {
+        "en": "I still - don't understand...",
+        "pl": "Wciąż - nie rozumiem...",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 2/Section ds3": {
+        "en": "...is this the murder weapon?",
+        "pl": "...czy to narzędzie zbrodni?",
+        "speaker": "Sinthia"
+      }
+    },
+    "Exam_Area_Parlor_Sinthia 3": {
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds1": {
+        "en": "[i]...what do we do? What do I do?[/i] ",
+        "pl": "[i]...co robimy? Co ja robię?[/i] ",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds3": {
+        "en": "...should I put him in the brig?",
+        "pl": "...powinnam wsadzić go do aresztu?",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds4": {
+        "en": "There's a brig?",
+        "pl": "Jest jakiś areszt?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds5": {
+        "en": "I - was thinking maybe we could use one of the bunk rooms... we could lock it from the outside...",
+        "pl": "Ja - myślałam, że może moglibyśmy użyć jednej z kajut sypialnych... moglibyśmy zamknąć ją z zewnątrz...",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds6": {
+        "en": "[i]Sally.[/i] ",
+        "pl": "[i]Sally.[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds7": {
+        "en": "Let's cross that brig when we come to it.",
+        "pl": "Zajmiemy się aresztem, kiedy przyjdzie na to czas.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds8": {
+        "en": "Sorry!",
+        "pl": "Przepraszam!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Sinthia 3/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "Exam_Area_Parlor_Speaker": {
+      "Examine/Exam_Area_Parlor_Speaker/Section ds0": {
+        "en": "There's an old-fashioned speaker mounted on the wall. It's playing spooky music.",
+        "pl": "Na ścianie zamontowano staromodny głośnik. Gra z niego niesamowita muzyka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Speaker/Section ds3": {
+        "en": "It's the kind of music you'd hear at a fancy party for vampires...",
+        "pl": "To rodzaj muzyki, jaką usłyszałbyś na wystawnym przyjęciu dla wampirów...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Speaker/Section ds4": {
+        "en": "-but the vampires are all wearing masks, and there's one guy who's secretly [h]not[/h] a vampire, and-",
+        "pl": "-ale wszystkie wampiry noszą maski, i jest jeden facet, który potajemnie [h]nie[/h] jest wampirem, i-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Speaker/Section ds5": {
+        "en": "Sally.",
+        "pl": "Sally.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Speaker/Section ds6": {
+        "en": "I hear it.",
+        "pl": "Słyszę to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Speaker/Section ds7": {
+        "en": "Hm?",
+        "pl": "Hm?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_Symmetry 1": {
+      "Examine/Exam_Area_Parlor_Symmetry 1/Section ds1": {
+        "en": "I know thy task is grave, but use a gentle hand, for we are [i]frail and fragile[/i] souls.",
+        "pl": "Wiem, że wasze zadanie poważne jest, lecz łagodną dłoń zachowajcie, bo jesteśmy [i]słabymi, kruchymi[/i] duszami.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 1/Section ds4": {
+        "en": "Fine.",
+        "pl": "Dobrze.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 1/Section ds5": {
+        "en": "Eh. No promises.",
+        "pl": "Eh. Bez obietnic.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Symmetry 2": {
+      "Examine/Exam_Area_Parlor_Symmetry 2/Section ds1": {
+        "en": "I think she's nearby...",
+        "pl": "Myślę, że jest gdzieś blisko...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 2/Section ds2": {
+        "en": "...waiting for one of us to act...",
+        "pl": "...czeka, aż któreś z nas zadziała...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_Symmetry 3": {
+      "Examine/Exam_Area_Parlor_Symmetry 3/Section ds1": {
+        "en": "His countenance, shifted.",
+        "pl": "Jego oblicze, zmieniło się.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 3/Section ds2": {
+        "en": "The mask dropped, and truth stands bare revealed.",
+        "pl": "Maska opadła, a prawda stoi obnażona.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 3/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Symmetry 3/Section ds4": {
+        "en": "He looks terrified.",
+        "pl": "Wygląda na przerażonego.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Tadpole 1": {
+      "Examine/Exam_Area_Parlor_Tadpole 1/Section ds1": {
+        "en": "Who is it? [i]How? Why?[/i]",
+        "pl": "Kto to jest? [i]Jak? Czemu?[/i]",
+        "speaker": "Tadpole"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 1/Section ds2": {
+        "en": "Uh - we'll [i]get[/i] to it!",
+        "pl": "Yy - [i]dojdziemy[/i] do tego!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 1/Section ds3": {
+        "en": "What's the hold up? We're all here, aren't we?",
+        "pl": "Co nas wstrzymuje? Wszyscy tu jesteśmy, prawda?",
+        "speaker": "Tadpole"
+      }
+    },
+    "Exam_Area_Parlor_Tadpole 2": {
+      "Examine/Exam_Area_Parlor_Tadpole 2/Section ds1": {
+        "en": "The Mermaid's Tongue?",
+        "pl": "Język Syreny?",
+        "speaker": "Tadpole"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 2/Section ds2": {
+        "en": "It's the mask that was stolen from my room...",
+        "pl": "To maska, która została skradziona z mojego pokoju...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Exam_Area_Parlor_Tadpole 3": {
+      "Examine/Exam_Area_Parlor_Tadpole 3/Section ds1": {
+        "en": "You get ten minutes.",
+        "pl": "Masz dziesięć minut.",
+        "speaker": "Tadpole"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 3/Section ds2": {
+        "en": "Then it's my turn.",
+        "pl": "Potem moja kolej.",
+        "speaker": "Tadpole"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 3/Section ds3": {
+        "en": "What are you going to do?",
+        "pl": "Co zamierzasz zrobić?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 3/Section ds4": {
+        "en": "Uh - actually, it might be better if you don't answer that.",
+        "pl": "Yy - właściwie, może lepiej, żebyś nie odpowiadała na to pytanie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_Tadpole 3/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Exam_Area_Parlor_Wirman 1": {
+      "Examine/Exam_Area_Parlor_Wirman 1/Section ds1": {
+        "en": "You know, we really do have the [i]perfect[/i] setting for this - in terms of literary tradition, I mean.",
+        "pl": "Wiecie, mamy naprawdę [i]idealną[/i] scenerię do tego - w sensie tradycji literackiej, mam na myśli.",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_Parlor_Wirman 1/Section ds2": {
+        "en": "The Parlor?",
+        "pl": "Salon?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Wirman 1/Section ds3": {
+        "en": "It's textbook!",
+        "pl": "To podręcznikowe!",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_Parlor_Wirman 2": {
+      "Examine/Exam_Area_Parlor_Wirman 2/Section ds1": {
+        "en": "...I thought I knew all [i]about[/i] Mortuga, but this [i]mask[/i] thing?",
+        "pl": "...myślałem, że wiem wszystko [i]o[/i] Mortudze, ale ta sprawa z [i]maską?[/i]",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_Parlor_Wirman 2/Section ds2": {
+        "en": "I dunno. I feel like maybe I missed a memo.",
+        "pl": "Nie wiem. Mam wrażenie, że coś mi umknęło.",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_Parlor_Wirman 3": {
+      "Examine/Exam_Area_Parlor_Wirman 3/Section ds1": {
+        "en": "Ah - [i]the villain reveals himself.[/i] Another classic literary trope.",
+        "pl": "Ach - [i]złoczyńca się odsłania.[/i] Kolejny klasyczny motyw literacki.",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_Parlor_Wirman 3/Section ds5": {
+        "en": "Let me guess - he's about to monologue about why he did it?",
+        "pl": "Niech zgadnę - zaraz wygłosi monolog, dlaczego to zrobił?",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_Parlor_Wirman 3/Section ds6": {
+        "en": "I'd be disappointed if he didn't!",
+        "pl": "Byłbym rozczarowany, gdyby tego nie zrobił!",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_Parlor_Zephyr 1": {
+      "Examine/Exam_Area_Parlor_Zephyr 1/Section ds1": {
+        "en": "[i]You[/i] have been inside my Cabinet of Curiosity.",
+        "pl": "[i]Wy[/i] byliście w mojej Gablocie Osobliwości.",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 1/Section ds2": {
+        "en": "-how did you know?",
+        "pl": "-skąd wiedziałeś?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 1/Section ds3": {
+        "en": "The guilt is written on your face, you refuse to meet my eye.",
+        "pl": "Wina jest wypisana na twojej twarzy, unikasz mojego wzroku.",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 1/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 1/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_Zephyr 2": {
+      "Examine/Exam_Area_Parlor_Zephyr 2/Section ds4": {
+        "en": "The veil is thinning.",
+        "pl": "Zasłona się przerzedza.",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 2/Section ds5": {
+        "en": "We are near to it.",
+        "pl": "Jesteśmy blisko tego.",
+        "speaker": "Zephyr"
+      }
+    },
+    "Exam_Area_Parlor_Zephyr 3": {
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds1": {
+        "en": "He stands exposed at last... and witnessed by no less than a [i]full court of his peers.[/i] ",
+        "pl": "Stoi wreszcie obnażony... świadkiem czego jest nie kto inny, jak [i]pełny dwór jego rówieśników.[/i] ",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds2": {
+        "en": "I wonder - is it bravery, or surrender?",
+        "pl": "Zastanawiam się - czy to odwaga, czy poddanie się?",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds3": {
+        "en": "[i]...accepting that your world will render...[/i] ",
+        "pl": "[i]...akceptując, że twój świat się rozpadnie...[/i] ",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds4": {
+        "en": "Hm?",
+        "pl": "Hm?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds5": {
+        "en": "Uh - nothing.",
+        "pl": "Yy - nic takiego.",
+        "speaker": "Zephyr"
+      },
+      "Examine/Exam_Area_Parlor_Zephyr 3/Section ds6": {
+        "en": "Yeah well, we kinda backed him into a corner. Literally.",
+        "pl": "No cóż, trochę zapędziliśmy go w kąt. Dosłownie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_bg": {
+      "Examine/Exam_Area_Parlor_bg/Section ds2": {
+        "en": "It's like an old fashioned drawing room...",
+        "pl": "To jak staromodny salonik...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_bg/Section ds3": {
+        "en": "I don't see any drawings.",
+        "pl": "Nie widzę żadnych rysunków.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_bg/Section ds4": {
+        "en": "It's short for [h]with[/h]drawing. As in, you [h]withdraw[/h] there after dinner.",
+        "pl": "To skrót od pokoju do [h]wy[/h]cofywania się. Bo [h]wycofujesz[/h] się tam po kolacji.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_bg/Section ds5": {
+        "en": "I... actually never knew that.",
+        "pl": "Ja... właściwie nigdy tego nie wiedziałam.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_books": {
+      "Examine/Exam_Area_Parlor_books/Section ds2": {
+        "en": "[i]Mysteries of the Deep.\nWonders of the Ocean Depths.\nSecrets of the Darkest, Deepest-[/i]",
+        "pl": "[i]Tajemnice Głębin.\nCuda Oceanicznych Głębi.\nSekrety Najciemniejszych, Najgłębszych-[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_books/Section ds8": {
+        "en": "What kind of books have we got?",
+        "pl": "Jakie mamy tu książki?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_books/Section ds9": {
+        "en": "Okay - it's safe to say a clear theme is emerging.",
+        "pl": "Okej - można śmiało powiedzieć, że wyłania się wyraźny motyw.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_chandelier": {
+      "Examine/Exam_Area_Parlor_chandelier/Section ds2": {
+        "en": "I'm guessing this place hasn't booked its quarterly fire safety inspection.",
+        "pl": "Zgaduję, że to miejsce nie umówiło się na kwartalną kontrolę przeciwpożarową.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_chandelier/Section ds5": {
+        "en": "The candles are actually lit.\nSome of them anyway.",
+        "pl": "Świece są rzeczywiście zapalone.\nPrzynajmniej niektóre.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_fireplace": {
+      "Examine/Exam_Area_Parlor_fireplace/Section ds0": {
+        "en": "I guess [h]this[/h] is what lights up the room when you pull the switch.",
+        "pl": "Zgaduję, że [h]to[/h] rozświetla pokój, kiedy pociągniesz za dźwignię.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_fireplace/Section ds2": {
+        "en": "I wonder what they burn to make it pink?",
+        "pl": "Zastanawiam się, co palą, żeby było różowe?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_furniture": {
+      "Examine/Exam_Area_Parlor_furniture/Section ds2": {
+        "en": "I claim the couch!",
+        "pl": "Zajmuję kanapę!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_furniture/Section ds3": {
+        "en": "If we end up having to stay the night.",
+        "pl": "Jeśli w końcu będziemy musieli zostać na noc.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_furniture/Section ds4": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_furniture/Section ds7": {
+        "en": "Sally - we are [h]not[/h] staying overnight on the [h]murder submarine.[/h]",
+        "pl": "Sally - [h]nie[/h] zostajemy na noc na [h]łodzi podwodnej morderstwa.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_furniture/Section ds8": {
+        "en": "But I brought my toothbrush...",
+        "pl": "Ale przywiozłam szczoteczkę do zębów...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_ladder": {
+      "Examine/Exam_Area_Parlor_ladder/Section ds0": {
+        "en": "It's the ladder leading back up to the fore deck.",
+        "pl": "To drabina prowadząca z powrotem na pokład dziobowy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_photos": {
+      "Examine/Exam_Area_Parlor_photos/Section ds0": {
+        "en": "What's in the frames?",
+        "pl": "Co jest w ramkach?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_photos/Section ds2": {
+        "en": "They're just ocean landscapes.",
+        "pl": "To po prostu pejzaże oceaniczne.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_switch": {
+      "Examine/Exam_Area_Parlor_switch/Section ds0": {
+        "en": "This is the lever you pulled?",
+        "pl": "To ta dźwignia, którą pociągnąłeś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_switch/Section ds2": {
+        "en": "Yeah, so leave it alone.",
+        "pl": "Tak, więc zostaw ją w spokoju.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_switch/Section ds3": {
+        "en": "I don't want it to go dark again.",
+        "pl": "Nie chcę, żeby znów zrobiło się ciemno.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Parlor_wine": {
+      "Examine/Exam_Area_Parlor_wine/Section ds0": {
+        "en": "A glass of wine.",
+        "pl": "Kieliszek wina.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_wine/Section ds2": {
+        "en": "[h]Ominously[/h] left half-finished.",
+        "pl": "[h]Złowieszczo[/h] zostawiony w połowie wypity.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Parlor_wine/Section ds3": {
+        "en": "Maybe the wine was corked.",
+        "pl": "Może wino było skorkowane.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Parlor_wine/Section ds4": {
+        "en": "[h]Ominously[/h] corked.",
+        "pl": "[h]Złowieszczo[/h] skorkowane.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Parlor_GrippHasEscaped 1 Request": {
+      "Examine/Exam_Area_Parlor_GrippHasEscaped 1/Request exitViewRequest0Hint0": {
+        "en": "Gripp can't have gone up to the Fore Deck, it's still locked. Which way did he go?",
+        "pl": "Gripp nie mógł pójść na Pokład Dziobowy, wciąż jest zamknięty. W którą stronę poszedł?",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Examine/Exam_Area_Parlor_bg/Section ds4",
+      "issue": "Angielska gra slowna 'drawing room' -> 'withdrawing room' (etymologia 'pokoj do wycofywania sie') nieprzekladalna doslownie na polski 'salon' - przetlumaczona funkcjonalnie z zachowaniem sensu wyjasnienia, ale bez analogicznej gry slownej w jezyku polskim."
+    }
+  ]
+}

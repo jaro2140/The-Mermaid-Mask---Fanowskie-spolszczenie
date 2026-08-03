@@ -1,0 +1,336 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja MessHall/Mesa (55 terminow, ~19 mikroscen) - jadalnia lodzi. Zawiera krotkie 'podsluchane' fragmenty mysli/rozmow kazdego z 8 glownych podejrzanych (jedna linijka na postac), oraz zagadke z metalowym poslagiem weza z ukryta szafka.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy dla scen z nazwiskami postaci (Dirk/Gripp/Moon/Sinthia/Symmetry/Tadpole/Wirman/Zephyr) przypisani bezposrednio wg nazwy sceny - to pojedyncze linijki 'podsluchanych' mysli kazdej postaci."
+  },
+  "categories": {
+    "Exam_Area_MessHall_Dirk": {
+      "Examine/Exam_Area_MessHall_Dirk/Section ds1": {
+        "en": "[i]...get this, Tadpole wouldn't let me swim in her pool. Yeah, she's got a...[/i]",
+        "pl": "[i]...wyobraź sobie, Tadpole nie pozwoliła mi pływać w swoim basenie. Tak, ma...[/i]",
+        "speaker": "Dirk"
+      }
+    },
+    "Exam_Area_MessHall_Gripp": {
+      "Examine/Exam_Area_MessHall_Gripp/Section ds1": {
+        "en": "...could go out onto to the Aft Deck...",
+        "pl": "...mógłbym wyjść na Pokład Rufowy...",
+        "speaker": "Gripp"
+      }
+    },
+    "Exam_Area_MessHall_Moon": {
+      "Examine/Exam_Area_MessHall_Moon/Section ds1": {
+        "en": "...I'm [i]sure[/i] I recorded Mortuga opening the Black Box...",
+        "pl": "...jestem [i]pewna,[/i] że nagrałam, jak Mortuga otwiera Czarną Skrzynkę...",
+        "speaker": "Moon"
+      }
+    },
+    "Exam_Area_MessHall_Puzzle1": {
+      "Examine/Exam_Area_MessHall_Puzzle1/Section ds0": {
+        "en": "It's a big metal statue of a serpent.",
+        "pl": "To wielki metalowy posąg węża.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle1/Section ds1": {
+        "en": "There's a cabinet built into it... but I think it's locked.",
+        "pl": "Jest w nim wbudowana szafka... ale chyba jest zamknięta.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle1/Section ds1 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle1/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle1/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_MessHall_Puzzle2": {
+      "Examine/Exam_Area_MessHall_Puzzle2/Section ds0": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle2/Section ds1": {
+        "en": "The little cabinet opened!",
+        "pl": "Mała szafka się otworzyła!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle2/Section ds3": {
+        "en": "Anything in there?",
+        "pl": "Coś tam jest?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_MessHall_Puzzle3": {
+      "Examine/Exam_Area_MessHall_Puzzle3/Section ds0": {
+        "en": "It's a big metal statue of a serpent.",
+        "pl": "To wielki metalowy posąg węża.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_Puzzle3/Section ds3": {
+        "en": "We opened the cabinet, and found this.",
+        "pl": "Otworzyliśmy szafkę i znaleźliśmy to.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_Sinthia": {
+      "Examine/Exam_Area_MessHall_Sinthia/Section ds1": {
+        "en": "[i]...how it's still in the pocket of Mom's jacket. Maybe...[/i]",
+        "pl": "[i]...jak to wciąż jest w kieszeni kurtki mamy. Może...[/i]",
+        "speaker": "Sinthia"
+      }
+    },
+    "Exam_Area_MessHall_Suspectsbg": {
+      "Examine/Exam_Area_MessHall_Suspectsbg/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_MessHall_Symmetry": {
+      "Examine/Exam_Area_MessHall_Symmetry/Section ds1": {
+        "en": "...I was talking to Hex...",
+        "pl": "...rozmawiałam z Hexem...",
+        "speaker": "Symmetry"
+      }
+    },
+    "Exam_Area_MessHall_Tadpole": {
+      "Examine/Exam_Area_MessHall_Tadpole/Section ds1": {
+        "en": "...maybe I should start locking my door when I'm not in there...",
+        "pl": "...może powinnam zacząć zamykać drzwi, kiedy mnie tam nie ma...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Exam_Area_MessHall_Wirman": {
+      "Examine/Exam_Area_MessHall_Wirman/Section ds1": {
+        "en": "...is the Iron Bell really not related to the crime scene...?",
+        "pl": "...czy Żelazny Dzwon naprawdę nie jest związany z miejscem zbrodni...?",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_MessHall_Zephyr": {
+      "Examine/Exam_Area_MessHall_Zephyr/Section ds1": {
+        "en": "...safely concealed behind my bookcase...",
+        "pl": "...bezpiecznie ukryte za moją biblioteczką...",
+        "speaker": "Zephyr"
+      }
+    },
+    "Exam_Area_MessHall_bg": {
+      "Examine/Exam_Area_MessHall_bg/Section ds0": {
+        "en": "I guess this is the mess hall.",
+        "pl": "Chyba to jest mesa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_bg/Section ds1": {
+        "en": "It is kind of a mess, yeah.",
+        "pl": "Rzeczywiście, niezła tu... meszanina.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_cards": {
+      "Examine/Exam_Area_MessHall_cards/Section ds0": {
+        "en": "Playing cards.",
+        "pl": "Karty do gry.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_cards/Section ds1": {
+        "en": "Looks like someone got dealt a bad hand...",
+        "pl": "Wygląda na to, że ktoś dostał słabą rękę...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_cards/Section ds2": {
+        "en": "Oh really?",
+        "pl": "O, naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_cards/Section ds3": {
+        "en": "I have no idea, I just thought that would sound cool.",
+        "pl": "Nie mam pojęcia, po prostu pomyślałem, że to zabrzmi fajnie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_chandelier": {
+      "Examine/Exam_Area_MessHall_chandelier/Section ds1": {
+        "en": "A wooden chandelier.",
+        "pl": "Drewniany żyrandol.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_MessHall_coral": {
+      "Examine/Exam_Area_MessHall_coral/Section ds0": {
+        "en": "This looks like dead coral.",
+        "pl": "To wygląda jak martwy koral.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_coral/Section ds1": {
+        "en": "...is coral ever [h]alive?[/h]",
+        "pl": "...czy koral kiedykolwiek jest [h]żywy?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_coral/Section ds2": {
+        "en": "Coral are marine animals, dude.",
+        "pl": "Koralowce to zwierzęta morskie, ziomek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_coral/Section ds3": {
+        "en": "[i]what[/i]",
+        "pl": "[i]co[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_crayons": {
+      "Examine/Exam_Area_MessHall_crayons/Section ds0": {
+        "en": "A little pot with a red crayon and a blue crayon.",
+        "pl": "Mały pojemniczek z czerwoną i niebieską kredką.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_crayons/Section ds1": {
+        "en": "Ten bucks says this turns out to be an important clue.",
+        "pl": "Dziesięć dolarów, że to okaże się ważnym tropem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_crayons/Section ds3": {
+        "en": "You're not going to pick it up?",
+        "pl": "Nie podniesiesz tego?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_crayons/Section ds4": {
+        "en": "No...?",
+        "pl": "Nie...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_crayons/Section ds5": {
+        "en": "You're on.",
+        "pl": "Stoi.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_fish": {
+      "Examine/Exam_Area_MessHall_fish/Section ds0": {
+        "en": "A picture of a fish.",
+        "pl": "Obrazek ryby.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_fish/Section ds1": {
+        "en": "Delightful.",
+        "pl": "Zachwycające.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_MessHall_kitchen": {
+      "Examine/Exam_Area_MessHall_kitchen/Section ds0": {
+        "en": "Hey, it's a kitchen.",
+        "pl": "Hej, to kuchnia.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_kitchen/Section ds1": {
+        "en": "We didn't [i]have[/i] one of those last time.",
+        "pl": "Nie [i]mieliśmy[/i] takiej ostatnim razem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_kitchen/Section ds2": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_kitchen/Section ds3": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_MessHall_ladder": {
+      "Examine/Exam_Area_MessHall_ladder/Section ds0": {
+        "en": "The ladder leading back up to the parlor.",
+        "pl": "Drabina prowadząca z powrotem do salonu.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_MessHall_pan": {
+      "Examine/Exam_Area_MessHall_pan/Section ds0": {
+        "en": "Pots and pans for cooking.",
+        "pl": "Garnki i patelnie do gotowania.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_MessHall_pufferfish": {
+      "Examine/Exam_Area_MessHall_pufferfish/Section ds1": {
+        "en": "Pufferfish lamp!",
+        "pl": "Lampa w kształcie rozdymki!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_pufferfish/Section ds3": {
+        "en": "A timeless classic.",
+        "pl": "Ponadczasowa klasyka.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_MessHall_table": {
+      "Examine/Exam_Area_MessHall_table/Section ds0": {
+        "en": "Three tables - arranged into a Z shape.",
+        "pl": "Trzy stoły - ustawione w kształt litery Z.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_table/Section ds1": {
+        "en": "It's actually more like an S, from this angle.",
+        "pl": "Właściwie z tego kąta bardziej przypomina literę S.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_table/Section ds2": {
+        "en": "Oh - maybe they were trying to write my name, but they ran out of tables!!",
+        "pl": "Och - może próbowali napisać moje imię, ale zabrakło im stołów!!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_table/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_MessHall_tail": {
+      "Examine/Exam_Area_MessHall_tail/Section ds0": {
+        "en": "There's a metal sculpture of a serpent curving around the room.",
+        "pl": "Metalowa rzeźba węża owija się wokół pokoju.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_tail/Section ds1": {
+        "en": "Better not touch it.",
+        "pl": "Lepiej tego nie dotykać.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_tail/Section ds4": {
+        "en": " It's probably a [i]load-bearing[/i] serpent.",
+        "pl": " To pewnie wąż [i]nośny[/i]... lepiej go nie ruszać.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_MessHall_windows": {
+      "Examine/Exam_Area_MessHall_windows/Section ds0": {
+        "en": "Wait...\nAre these windows or lights?",
+        "pl": "Czekaj...\nCzy to okna, czy lampy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_MessHall_windows/Section ds1": {
+        "en": "Both.",
+        "pl": "I jedno, i drugie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_MessHall_windows/Section ds2": {
+        "en": "It's a good idea - since you'd never get any natural light down here.",
+        "pl": "To dobry pomysł - skoro i tak nigdy nie miałbyś tu naturalnego światła.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

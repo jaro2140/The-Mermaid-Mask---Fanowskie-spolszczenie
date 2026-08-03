@@ -1,0 +1,1300 @@
+{
+  "_meta": {
+    "batch": "Examine - Puzzle UI (232 terminy) - powtarzalny tekst mechaniki zagadek: podpowiedzi (Hint 1/2/3) dla wszystkich zagadek w grze, komunikaty sukcesu/porazki, wiadomosci. Pierwsza partia nowej kategorii 'Examine' (opisy/interakcje z otoczeniem, 2711 terminow w ~712 mikroscenach w 24 lokacjach) - nastepujaca po ukonczeniu calej kategorii 'CLUE X'.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json nie pokrywa Examine (system inny niz Conversation) - wszystkie wpisy [???] w zrodle. Sceny z sufiksem 'Grim'/'Sal' w nazwie -> jednoznacznie Grimoire/Sally. Pozostale (ogolny tekst mechaniki podpowiedzi, wspoldzielony miedzy detektywami) -> 'Grimoire (domniemany)' zgodnie z ustalona konwencja dla niejednoznacznych wpisow mechaniki.",
+    "uwagi": "Ustalone kanoniczne tlumaczenia krotkich, wielokrotnie powtarzajacych sie fraz uzywane konsekwentnie w calej kategorii Examine: 'Nope.'->'Nie.', 'Nothing.'->'Nic.', \"That's not it.\"->'To nie to.', \"I guess that's wrong.\"->'Chyba się mylę.'"
+  },
+  "categories": {
+    "Examine Puzzle Back Out Grim": {
+      "Examine/Examine Puzzle Back Out Grim/Section ds0": {
+        "en": "Let's try again later.",
+        "pl": "Spróbujmy ponownie później.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Back Out Grim/Section ds3": {
+        "en": "Just gonna rest my brain.",
+        "pl": "Po prostu dam odpocząć mózgowi.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Examine Puzzle Back Out Sal": {
+      "Examine/Examine Puzzle Back Out Sal/Section ds2": {
+        "en": "We'll come back later.",
+        "pl": "Wrócimy do tego później.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Back Out Sal/Section ds4": {
+        "en": "I'll do this later.",
+        "pl": "Zrobię to później.",
+        "speaker": "Sally"
+      }
+    },
+    "Examine Puzzle Bilge Hint 1": {
+      "Examine/Examine Puzzle Bilge Hint 1/Section ds1": {
+        "en": "So we can rotate the glass orbs...",
+        "pl": "Więc możemy obracać szklane kule...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 1/Section ds5": {
+        "en": "...and we can turn the outer dials, which [h]also[/h] rotates the glass orbs - but in a different way.",
+        "pl": "...i możemy kręcić zewnętrznymi pokrętłami, które [h]też[/h] obracają szklane kule - ale w inny sposób.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Bilge Hint 2": {
+      "Examine/Examine Puzzle Bilge Hint 2/Section ds4": {
+        "en": "Looks like the solution's shown on those two little screens - with the red and white lights...",
+        "pl": "Wygląda na to, że rozwiązanie jest pokazane na tych dwóch małych ekranach - z czerwonymi i białymi światełkami...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 2/Section ds8": {
+        "en": "...I think [i]either[/i] of the orbs could produce [i]either[/i] of the solutions, so it doesn't matter which way round we do it.",
+        "pl": "...myślę, że [i]którakolwiek[/i] z kul może dać [i]którekolwiek[/i] z rozwiązań, więc nie ma znaczenia, w którą stronę to zrobimy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Bilge Hint 3": {
+      "Examine/Examine Puzzle Bilge Hint 3/Section ds10": {
+        "en": "In that case - we'll need to make it so certain balls are hidden behind other ones.",
+        "pl": "W takim razie - musimy sprawić, żeby pewne kulki były ukryte za innymi.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 3/Section ds4": {
+        "en": "We have to rotate the glass orbs so the red and white balls [i]match[/i] the solutions on the screens.",
+        "pl": "Musimy obrócić szklane kule tak, żeby czerwone i białe kulki [i]pasowały[/i] do rozwiązań na ekranach.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Bilge Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle DollCabinetDoor Hint 1": {
+      "Examine/Examine Puzzle DollCabinetDoor Hint 1/Section ds1": {
+        "en": "So there's [i]four rows[/i], with labels off to the left... and [i]six columns[/i], with labels up at the top.",
+        "pl": "Więc są [i]cztery rzędy,[/i] z etykietami po lewej... i [i]sześć kolumn,[/i] z etykietami na górze.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 1/Section ds5": {
+        "en": "As for the tiles - I don't think the colors matter - just the shapes. So, a few of the tiles are exactly the same.",
+        "pl": "A co do kafelków - nie sądzę, żeby kolory miały znaczenie - tylko kształty. Więc kilka kafelków jest dokładnie takich samych.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle DollCabinetDoor Hint 2": {
+      "Examine/Examine Puzzle DollCabinetDoor Hint 2/Section ds4": {
+        "en": "Each slot is a part of one horizontal row and one vertical column.",
+        "pl": "Każde miejsce jest częścią jednego poziomego rzędu i jednej pionowej kolumny.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 2/Section ds8": {
+        "en": "So when we place a tile, it has to work for the row [h]and[/h] the column it's in.",
+        "pl": "Więc kiedy umieszczamy kafelek, musi on pasować do rzędu [h]i[/h] kolumny, w której się znajduje.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle DollCabinetDoor Hint 3": {
+      "Examine/Examine Puzzle DollCabinetDoor Hint 3/Section ds10": {
+        "en": "The labels for the [i]columns[/i] refer to orientation... rotation... even mirroring?",
+        "pl": "Etykiety dla [i]kolumn[/i] odnoszą się do orientacji... obrotu... nawet odbicia lustrzanego?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 3/Section ds4": {
+        "en": "The labels for the rows just seem to be card suits. That's simple enough.",
+        "pl": "Etykiety dla rzędów wydają się być po prostu kolorami kart. To dość proste.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle DollCabinetDoor Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Fails": {
+      "Examine/Examine Puzzle Fails/Section ds0": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds1": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds10": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds11": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds12": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds13": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds8": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Fails/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle FlagKeys Hint 1": {
+      "Examine/Examine Puzzle FlagKeys Hint 1/Section ds1": {
+        "en": "So - there's twelve big keyholes - those are for pirate keys.",
+        "pl": "Więc - jest dwanaście wielkich dziurek od klucza - te są na piraccie klucze.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 1/Section ds5": {
+        "en": "...and each pirate key is [h]itself[/h] a keyhole for the smaller flag keys.",
+        "pl": "...a każdy piracki klucz [h]sam[/h] jest dziurką od klucza dla mniejszych kluczy-flag.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 1/Section ds6": {
+        "en": "I noticed the pirates can [i]rotate[/i], too.",
+        "pl": "Zauważyłem, że piraci też mogą się [i]obracać.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle FlagKeys Hint 2": {
+      "Examine/Examine Puzzle FlagKeys Hint 2/Section ds4": {
+        "en": "For each pirate key, there's a flag key that matches it.",
+        "pl": "Dla każdego pirackiego klucza jest pasujący klucz-flaga.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 2/Section ds8": {
+        "en": "...but the pirate keys also need to be in the right positions - in relation to the colored lighthouses.",
+        "pl": "...ale pirackie klucze muszą też być we właściwych pozycjach - względem kolorowych latarni morskich.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle FlagKeys Hint 3": {
+      "Examine/Examine Puzzle FlagKeys Hint 3/Section ds10": {
+        "en": "Mhm. Specifically, when a certain [i]pirate[/i] is looking at a certain [i]lighthouse.[/i]",
+        "pl": "Mhm. Dokładniej, kiedy konkretny [i]pirat[/i] patrzy na konkretną [i]latarnię morską.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 3/Section ds4": {
+        "en": "I think the flags represent [i]views,[/i] as seen by the pirates...",
+        "pl": "Myślę, że flagi przedstawiają [i]widoki,[/i] jakie widzą piraci...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle FlagKeys Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle HexagonPanel Hint 1": {
+      "Examine/Examine Puzzle HexagonPanel Hint 1/Section ds1": {
+        "en": "So we've gotta move the six panels to cover up the circuit board.",
+        "pl": "Więc musimy przesunąć sześć paneli, żeby zakryć płytkę obwodu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 1/Section ds5": {
+        "en": "-there's a way to [i]rotate[/i] them, too, but it's kind of indirect.",
+        "pl": "-jest też sposób, żeby je [i]obracać,[/i] ale to trochę pośrednie.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle HexagonPanel Hint 2": {
+      "Examine/Examine Puzzle HexagonPanel Hint 2/Section ds4": {
+        "en": "Each panel's connected to a smaller circular part... but we don't need those to cover the circuit board.",
+        "pl": "Każdy panel jest połączony z mniejszą okrągłą częścią... ale nie potrzebujemy ich, żeby zakryć płytkę obwodu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 2/Section ds8": {
+        "en": "No, but we [i]can[/i] use them to change the angle of the panels they're connected to.",
+        "pl": "Nie, ale [i]możemy[/i] ich użyć, żeby zmienić kąt paneli, z którymi są połączone.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle HexagonPanel Hint 3": {
+      "Examine/Examine Puzzle HexagonPanel Hint 3/Section ds10": {
+        "en": "They need to be laid out evenly on the circuit board - leaving a gap between each one.",
+        "pl": "Muszą być rozłożone równomiernie na płytce obwodu - zostawiając przerwę między każdym.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 3/Section ds11": {
+        "en": "And then we can fill those gaps with the panels from the other two sets.",
+        "pl": "A potem możemy wypełnić te przerwy panelami z pozostałych dwóch zestawów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 3/Section ds4": {
+        "en": "I'd start with the pink set - the one with three panels.",
+        "pl": "Zacząłbym od różowego zestawu - tego z trzema panelami.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle HexagonPanel Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxDirk Hint 1": {
+      "Examine/Examine Puzzle LockedBoxDirk Hint 1/Section ds1": {
+        "en": "There are four sets - and they all have a certain shape we need to match.",
+        "pl": "Są cztery zestawy - i wszystkie mają pewien kształt, który musimy dopasować.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 1/Section ds7": {
+        "en": "It's kinda like a crossword - but for shapes instead of words.",
+        "pl": "To trochę jak krzyżówka - ale z kształtami zamiast słów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 1/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxDirk Hint 2": {
+      "Examine/Examine Puzzle LockedBoxDirk Hint 2/Section ds4": {
+        "en": "The sets labelled B, C and D are separate... but A overlaps with all of them.",
+        "pl": "Zestawy oznaczone B, C i D są osobne... ale A nakłada się na wszystkie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 2/Section ds8": {
+        "en": "So the solution to A has to agree with B, C and D...",
+        "pl": "Więc rozwiązanie dla A musi być zgodne z B, C i D...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxDirk Hint 3": {
+      "Examine/Examine Puzzle LockedBoxDirk Hint 3/Section ds10": {
+        "en": "-but we need to focus on a solution that solves [i]all[/i] the sets at the same time.",
+        "pl": "-ale musimy skupić się na rozwiązaniu, które rozwiązuje [i]wszystkie[/i] zestawy naraz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 3/Section ds4": {
+        "en": "There may be a couple different ways to make the shapes for each set-",
+        "pl": "Może być kilka różnych sposobów na ułożenie kształtów dla każdego zestawu-",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxDirk Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxGripp Hint 1": {
+      "Examine/Examine Puzzle LockedBoxGripp Hint 1/Section ds1": {
+        "en": "So there's four slots, and each one needs a compass to go in it.",
+        "pl": "Więc są cztery gniazda, i w każde trzeba włożyć kompas.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 1/Section ds5": {
+        "en": "The labels are all describing a particular compass, I guess?",
+        "pl": "Etykiety chyba opisują konkretny kompas?",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxGripp Hint 2": {
+      "Examine/Examine Puzzle LockedBoxGripp Hint 2/Section ds4": {
+        "en": "I think we'd get more information about how each compass worked if we moved them around...",
+        "pl": "Myślę, że dowiedzielibyśmy się więcej o działaniu każdego kompasu, gdybyśmy nimi poruszali...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 2/Section ds8": {
+        "en": "...and pay attention to the needles while you're doing it.",
+        "pl": "...i zwracali uwagę na igły, robiąc to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxGripp Hint 3": {
+      "Examine/Examine Puzzle LockedBoxGripp Hint 3/Section ds10": {
+        "en": "At least one of them doesn't seem to be a compass at all!",
+        "pl": "Przynajmniej jeden z nich wcale nie wygląda na kompas!",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 3/Section ds4": {
+        "en": "It's really all about the behaviour of the needles - relative to the position the compasses.",
+        "pl": "Chodzi tak naprawdę o zachowanie igieł - względem pozycji kompasów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxGripp Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMoon Hint 1": {
+      "Examine/Examine Puzzle LockedBoxMoon Hint 1/Section ds1": {
+        "en": "So - there's a drawing of each of the suspects... one of Mortuga... and ones of us, too.",
+        "pl": "Więc - jest rysunek każdego z podejrzanych... jeden Mortugi... i nasze też.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 1/Section ds5": {
+        "en": "Each one needs to be moved to the right place on the board...",
+        "pl": "Każdy trzeba przenieść we właściwe miejsce na planszy...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMoon Hint 2": {
+      "Examine/Examine Puzzle LockedBoxMoon Hint 2/Section ds10": {
+        "en": "Of course, remember Mariana's diary?",
+        "pl": "No tak, pamiętasz dziennik Mariany?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 2/Section ds4": {
+        "en": "Looks like the board's been divided into segments...\n",
+        "pl": "Wygląda na to, że plansza jest podzielona na segmenty...\n",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 2/Section ds8": {
+        "en": "The shape looks [i]familiar[/i] - is it some kinda diagram?",
+        "pl": "Ten kształt wygląda [i]znajomo[/i] - czy to jakiś diagram?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 2/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMoon Hint 3": {
+      "Examine/Examine Puzzle LockedBoxMoon Hint 3/Section ds10": {
+        "en": "Oh - and Mortuga probably shouldn't be in [h]any[/h] of the segments.",
+        "pl": "Och - i Mortuga chyba nie powinien być w [h]żadnym[/h] z segmentów.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 3/Section ds4": {
+        "en": "I'd say me, you and Mariana all need to be in the same segment.",
+        "pl": "Powiedziałbym, że ja, ty i Mariana musimy być w tym samym segmencie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMoon Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMortuga Hint 1": {
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 1/Section ds1": {
+        "en": "So... we can swap the sails between the nine boats.",
+        "pl": "Więc... możemy zamieniać żagle między dziewięcioma łódkami.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 1/Section ds5": {
+        "en": "-and we can tap the boats to [i]turn[/i] them - making them face different directions on the grid.",
+        "pl": "-i możemy stukać w łódki, żeby je [i]obrócić[/i] - sprawiając, że zwracają się w różne strony na siatce.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMortuga Hint 2": {
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 2/Section ds10": {
+        "en": "Seems like the boats can only point in straight lines or diagonals - a bit like chess.",
+        "pl": "Wygląda na to, że łódki mogą wskazywać tylko proste linie lub przekątne - trochę jak w szachach.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 2/Section ds4": {
+        "en": "I think it's supposed to be a sequence - like a journey. ",
+        "pl": "Myślę, że to ma być sekwencja - jak podróż. ",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 2/Section ds8": {
+        "en": "The start point is the arrow tile on the left side, and the end point is the red X.",
+        "pl": "Punkt startowy to kafelek ze strzałką po lewej stronie, a punkt końcowy to czerwone X.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxMortuga Hint 3": {
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 3/Section ds10": {
+        "en": "...and the angle of each boat represents the [i]direction[/i] of that movement.",
+        "pl": "...a kąt każdej łódki reprezentuje [i]kierunek[/i] tego ruchu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 3/Section ds11": {
+        "en": "So we need to plot a journey, from boat to boat, going from the start point to the end point.",
+        "pl": "Więc musimy wykreślić trasę, od łódki do łódki, od punktu startowego do końcowego.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 3/Section ds4": {
+        "en": "I think the numbers on the sails represent [i]movements[/i] on the grid...",
+        "pl": "Myślę, że liczby na żaglach reprezentują [i]ruchy[/i] na siatce...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxMortuga Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSinthia Hint 1": {
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 1/Section ds1": {
+        "en": "There's a bunch of stuff we can fiddle with on the front of the safe...",
+        "pl": "Jest sporo rzeczy, którymi możemy kręcić z przodu sejfu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 1/Section ds5": {
+        "en": "...and on the back, there's some kind of display.",
+        "pl": "...a z tyłu jest jakiś wyświetlacz.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSinthia Hint 2": {
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 2/Section ds4": {
+        "en": "Turn the hat around while you're looking at the display on the back.",
+        "pl": "Obróć kapelusz, patrząc jednocześnie na wyświetlacz z tyłu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 2/Section ds8": {
+        "en": "That'll give you a better idea of how it works.",
+        "pl": "To da ci lepsze pojęcie, jak to działa.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSinthia Hint 3": {
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 3/Section ds10": {
+        "en": "Right. So we've gotta get the numbers in each row and column to [i]add up[/i] to those totals.",
+        "pl": "No tak. Więc musimy sprawić, żeby liczby w każdym rzędzie i kolumnie [i]sumowały się[/i] do tych wartości.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 3/Section ds11": {
+        "en": "I'd say start with the column with a total of [h]2[/h] - it's only got two inputs, so they both need to be set to [h]1.[/h]",
+        "pl": "Powiedziałbym, żeby zacząć od kolumny z sumą [h]2[/h] - ma tylko dwa wejścia, więc oba muszą być ustawione na [h]1.[/h]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 3/Section ds4": {
+        "en": "I think the smaller numbers on the red circles are the required totals.",
+        "pl": "Myślę, że mniejsze liczby na czerwonych kółkach to wymagane sumy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSinthia Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSym Hint 1": {
+      "Examine/Examine Puzzle LockedBoxSym Hint 1/Section ds1": {
+        "en": "First things first, we need to make sense of that clue written on the box.",
+        "pl": "Najpierw najważniejsze, musimy zrozumieć tę wskazówkę napisaną na pudełku.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 1/Section ds5": {
+        "en": "Right - surely, it's the key to knowing where to put everything else.",
+        "pl": "No tak - z pewnością to klucz do tego, gdzie umieścić resztę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSym Hint 2": {
+      "Examine/Examine Puzzle LockedBoxSym Hint 2/Section ds4": {
+        "en": "So... the six cards can be put in [i]pairs[/i] - to make three images of the same girl...",
+        "pl": "Więc... sześć kart można ułożyć w [i]pary[/i] - żeby stworzyć trzy obrazy tej samej dziewczyny...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 2/Section ds8": {
+        "en": "...and then the glass lenses [i]change and warp[/i] those images.",
+        "pl": "...a potem szklane soczewki [i]zmieniają i wykrzywiają[/i] te obrazy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 2/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSym Hint 3": {
+      "Examine/Examine Puzzle LockedBoxSym Hint 3/Section ds10": {
+        "en": "And the other two use a kind of fish-eye effect, which [i]bends[/i] the images in different directions...",
+        "pl": "A pozostałe dwie używają czegoś w rodzaju efektu rybiego oka, który [i]wygina[/i] obrazy w różnych kierunkach...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 3/Section ds4": {
+        "en": "Two of the lenses use magnification to make things larger or smaller...",
+        "pl": "Dwie z soczewek używają powiększenia, żeby coś zrobić większym lub mniejszym...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxSym Message": {
+      "Examine/Examine Puzzle LockedBoxSym Message/Section ds0": {
+        "en": "There's a message engraved in the wood.",
+        "pl": "W drewnie jest wygrawerowana wiadomość.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Message/Section ds1": {
+        "en": "[i]Jennifer and Margaret gaze jealously at Patricia, whose doll is neither too large nor too small.[/i]",
+        "pl": "[i]Jennifer i Margaret patrzą zazdrośnie na Patricię, której lalka nie jest ani za duża, ani za mała.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Message/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Message/Section ds3": {
+        "en": "-is that your best creepy voice?",
+        "pl": "-to twój najlepszy przerażający głos?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxSym Message/Section ds4": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxTadpole Hint 1": {
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 1/Section ds1": {
+        "en": "There are nine dials placed around the diving helmet...",
+        "pl": "Jest dziewięć pokręteł umieszczonych wokół hełmu do nurkowania...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 1/Section ds5": {
+        "en": "...and each one can be set to one of [i]four[/i] different angles.",
+        "pl": "...i każde można ustawić na jeden z [i]czterech[/i] różnych kątów.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxTadpole Hint 2": {
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 2/Section ds4": {
+        "en": "The dials are connected by little pipes along the surface of the diving helmet...",
+        "pl": "Pokrętła są połączone małymi rurkami wzdłuż powierzchni hełmu do nurkowania...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 2/Section ds8": {
+        "en": "Specifically, the pipes attach to one of the four [i]quadrants[/i] of each dial - each of which is bearing a symbol.",
+        "pl": "Dokładniej, rurki dołączają do jednego z czterech [i]kwadrantów[/i] każdego pokrętła - każdy z nich niesie symbol.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxTadpole Hint 3": {
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 3/Section ds10": {
+        "en": "Right. We just need to rotate the dials so all the connected symbols match.",
+        "pl": "No tak. Musimy po prostu obrócić pokrętła tak, żeby wszystkie połączone symbole pasowały.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 3/Section ds4": {
+        "en": "Basically, the pipes connect some symbols to other symbols.",
+        "pl": "Zasadniczo rurki łączą pewne symbole z innymi symbolami.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxTadpole Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxWirman Hint 1": {
+      "Examine/Examine Puzzle LockedBoxWirman Hint 1/Section ds1": {
+        "en": "There's six different things we can rotate - the three outer rings and the three inner dials.",
+        "pl": "Jest sześć różnych rzeczy, które możemy obracać - trzy zewnętrzne pierścienie i trzy wewnętrzne pokrętła.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 1/Section ds5": {
+        "en": "The solution's something to do with how they all [i]relate[/i] to each other...",
+        "pl": "Rozwiązanie ma coś wspólnego z tym, jak wszystkie się ze sobą [i]łączą...[/i]",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxWirman Hint 2": {
+      "Examine/Examine Puzzle LockedBoxWirman Hint 2/Section ds4": {
+        "en": "The outer rings have little arrows - pointing at certain [i]shapes[/i] on their inner dials.",
+        "pl": "Zewnętrzne pierścienie mają małe strzałki - wskazujące na konkretne [i]kształty[/i] na wewnętrznych pokrętłach.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 2/Section ds8": {
+        "en": "So - we're rotating the shapes to certain angles, and then [i]pointing at five of them[/i] with the arrows.",
+        "pl": "Więc - obracamy kształty pod pewnymi kątami, a potem [i]wskazujemy na pięć z nich[/i] strzałkami.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxWirman Hint 3": {
+      "Examine/Examine Puzzle LockedBoxWirman Hint 3/Section ds12": {
+        "en": "We're looking for a set of five rotated shapes - they'll look a certain way if you combine them all together.",
+        "pl": "Szukamy zestawu pięciu obróconych kształtów - będą wyglądać w określony sposób, jeśli połączymy je razem.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 3/Section ds4": {
+        "en": "The diagram at the bottom shows the combined shape that we're trying to fit into the sequence.",
+        "pl": "Diagram na dole pokazuje połączony kształt, który próbujemy dopasować do sekwencji.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxWirman Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxZephyr Hint 1": {
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 1/Section ds1": {
+        "en": "Six bottles. Each with a dropper, and a cap on top of that dropper...",
+        "pl": "Sześć butelek. Każda z zakraplaczem, i nakrętką na tym zakraplaczu...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 1/Section ds5": {
+        "en": "...I guess each bottle has a specific cap that matches it?",
+        "pl": "...chyba każda butelka ma konkretną pasującą nakrętkę?",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxZephyr Hint 2": {
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 2/Section ds4": {
+        "en": "Some of the clues reference things that aren't immediately visible...",
+        "pl": "Niektóre wskazówki odnoszą się do rzeczy, które nie są od razu widoczne...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 2/Section ds8": {
+        "en": "...so we might need to investigate the bottles a little more.",
+        "pl": "...więc może musimy zbadać butelki nieco dokładniej.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle LockedBoxZephyr Hint 3": {
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds10": {
+        "en": "From there, just keep swapping the caps until they're all in the right place.",
+        "pl": "Od tego momentu po prostu zamieniaj nakrętki, aż wszystkie znajdą się we właściwym miejscu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds11": {
+        "en": "Uh - I just wanna check what... [i]'aerated with effervescence'[/i] means...",
+        "pl": "Yy - chcę tylko sprawdzić, co znaczy... [i]'napowietrzone musowaniem'...[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds12": {
+        "en": "Bubbles.",
+        "pl": "Bąbelki.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds13": {
+        "en": "[i]Right[/i] -yeah - I knew that.",
+        "pl": "[i]No tak[/i] -jasne - wiedziałem to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds4": {
+        "en": "[i]Lifting[/i] the droppers allows you to see the drips, the vapors, and so on.",
+        "pl": "[i]Podnoszenie[/i] zakraplaczy pozwala zobaczyć kropelki, opary, i tak dalej.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle LockedBoxZephyr Hint 3/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MarianaTent Hint 1": {
+      "Examine/Examine Puzzle MarianaTent Hint 1/Section ds1": {
+        "en": "I guess there's four types of mushrooms...",
+        "pl": "Chyba są cztery rodzaje grzybów...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 1/Section ds4": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 1/Section ds5": {
+        "en": "...but I don't think it's anything to do with their shape or size.",
+        "pl": "...ale nie sądzę, żeby to miało coś wspólnego z ich kształtem czy rozmiarem.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MarianaTent Hint 2": {
+      "Examine/Examine Puzzle MarianaTent Hint 2/Section ds4": {
+        "en": "Some of the mushrooms glow in the light, some glow in the dark...",
+        "pl": "Niektóre grzyby świecą na świetle, niektóre świecą w ciemności...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 2/Section ds8": {
+        "en": "...some glow all the time, and some never glow at all.",
+        "pl": "...niektóre świecą cały czas, a niektóre wcale nie świecą.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MarianaTent Hint 3": {
+      "Examine/Examine Puzzle MarianaTent Hint 3/Section ds10": {
+        "en": "Right. Then we should be able to assign it to one of the four categories.",
+        "pl": "No tak. Więc powinniśmy móc przypisać go do jednej z czterech kategorii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 3/Section ds11": {
+        "en": "There's fourteen mushrooms total. So if your answers don't add up to fourteen, take another look.",
+        "pl": "Jest czternaście grzybów w sumie. Więc jeśli twoje odpowiedzi nie sumują się do czternastu, spójrz jeszcze raz.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 3/Section ds4": {
+        "en": "Pick a mushroom - and watch what it does when it goes in and out of the light.",
+        "pl": "Wybierz grzyba - i obserwuj, co się dzieje, kiedy wchodzi i wychodzi ze światła.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MarianaTent Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MessHallDials Hint 1": {
+      "Examine/Examine Puzzle MessHallDials Hint 1/Section ds1": {
+        "en": "Four dials, with a window in the centre of each one.",
+        "pl": "Cztery pokrętła, z okienkiem pośrodku każdego.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 1/Section ds2": {
+        "en": "What do those numbers mean, though?",
+        "pl": "Ale co znaczą te liczby?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 1/Section ds3": {
+        "en": "Turning each dial rotates the shapes that appear in the surrounding windows.",
+        "pl": "Kręcenie każdym pokrętłem obraca kształty, które pojawiają się w okienkach dookoła.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MessHallDials Hint 2": {
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds1": {
+        "en": "I noticed the shapes are all triangles, squares and uh-",
+        "pl": "Zauważyłem, że kształty to same trójkąty, kwadraty i yy-",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds3": {
+        "en": "Pentagon.",
+        "pl": "Pięciokąt.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds4": {
+        "en": "Some of the shapes might not be visible, if they're not currently in the windows.",
+        "pl": "Niektóre kształty mogą nie być widoczne, jeśli obecnie nie są w okienkach.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds5": {
+        "en": "But if you turn the dials all the way around, you can see what we're working with.",
+        "pl": "Ale jeśli obrócisz pokrętła w koło, zobaczysz, z czym pracujemy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds6": {
+        "en": "What's the one called with five sides?",
+        "pl": "Jak się nazywa ten z pięcioma bokami?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 2/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle MessHallDials Hint 3": {
+      "Examine/Examine Puzzle MessHallDials Hint 3/Section ds4": {
+        "en": "So the shapes have three, four or five sides.",
+        "pl": "Więc kształty mają trzy, cztery albo pięć boków.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 3/Section ds5": {
+        "en": "But some of numbers in the windows are larger...",
+        "pl": "Ale niektóre liczby w okienkach są większe...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 3/Section ds6": {
+        "en": "Then you'd need more than one shape.",
+        "pl": "Więc potrzebowałbyś więcej niż jednego kształtu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 3/Section ds8": {
+        "en": "We need to match the amount of sides with the numbers written in the windows.",
+        "pl": "Musimy dopasować liczbę boków do liczb wypisanych w okienkach.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle MessHallDials Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Nearly Correct": {
+      "Examine/Examine Puzzle Nearly Correct/Section ds0": {
+        "en": "I think that's nearly right...",
+        "pl": "Myślę, że to prawie dobrze...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Nearly Correct/Section ds1": {
+        "en": "Almost...",
+        "pl": "Prawie...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Nearly Correct/Section ds2": {
+        "en": "That's not far off...",
+        "pl": "Niewiele brakuje...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Nearly Correct/Section ds3": {
+        "en": "I think you're close...",
+        "pl": "Myślę, że jesteś blisko...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Sal Fail": {
+      "Examine/Examine Puzzle Sal Fail/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Sally"
+      }
+    },
+    "Examine Puzzle SkullSets Hint 1": {
+      "Examine/Examine Puzzle SkullSets Hint 1/Section ds1": {
+        "en": "So there's seven categories of skull...",
+        "pl": "Więc jest siedem kategorii czaszek...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 1/Section ds5": {
+        "en": "And each skull fits into exactly [i]two[/i] categories - since it's always gonna be in one column and one row.",
+        "pl": "I każda czaszka pasuje dokładnie do [i]dwóch[/i] kategorii - bo zawsze będzie w jednej kolumnie i jednym rzędzie.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle SkullSets Hint 2": {
+      "Examine/Examine Puzzle SkullSets Hint 2/Section ds10": {
+        "en": "For instance - there's [i]three[/i] red skulls - so that category label goes along the [i]top[/i], since it'd be for a column.",
+        "pl": "Na przykład - są [i]trzy[/i] czerwone czaszki - więc ta etykieta kategorii idzie wzdłuż [i]góry,[/i] bo byłaby dla kolumny.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 2/Section ds8": {
+        "en": "Some categories have [i]four[/i] skulls - those are the rows - and some have [i]three[/i] - those are the columns.",
+        "pl": "Niektóre kategorie mają [i]cztery[/i] czaszki - to są rzędy - a niektóre mają [i]trzy[/i] - to są kolumny.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle SkullSets Hint 3": {
+      "Examine/Examine Puzzle SkullSets Hint 3/Section ds10": {
+        "en": "Okay, here's my take on the categories - in no particular order;",
+        "pl": "Okej, oto moja lista kategorii - w dowolnej kolejności;",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 3/Section ds11": {
+        "en": "Eyes, moons, noses, horns, lower jaws, red, and shaking.",
+        "pl": "Oczy, księżyce, nosy, rogi, dolne szczęki, czerwone, i trzęsące się.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 3/Section ds4": {
+        "en": "Oh - and make sure to tap the skulls to turn them around - otherwise you might miss something.",
+        "pl": "Och - i pamiętaj, żeby stukać w czaszki, żeby je obrócić - inaczej możesz coś przeoczyć.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle SkullSets Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Solved": {
+      "Examine/Examine Puzzle Solved/Section ds0": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Solved/Section ds5": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Solved/Section ds7": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Success Grim": {
+      "Examine/Examine Puzzle Success Grim/Section ds0": {
+        "en": "Oh, that was it!",
+        "pl": "Och, to było to!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds1": {
+        "en": "Nice work.",
+        "pl": "Dobra robota.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds10": {
+        "en": "Good job.",
+        "pl": "Dobra robota.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds11": {
+        "en": "That's the one.",
+        "pl": "To ten.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds12": {
+        "en": "I'm impressed.",
+        "pl": "Jestem pod wrażeniem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds13": {
+        "en": "Hey, I did it!",
+        "pl": "Hej, udało mi się!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds14": {
+        "en": "Nice.",
+        "pl": "Ładnie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds15": {
+        "en": "There we go.",
+        "pl": "O, właśnie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds2": {
+        "en": "Good job.",
+        "pl": "Dobra robota.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds3": {
+        "en": "That's the one.",
+        "pl": "To ten.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds4": {
+        "en": "Hey, I did it!",
+        "pl": "Hej, udało mi się!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds5": {
+        "en": "I'm impressed.",
+        "pl": "Jestem pod wrażeniem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds6": {
+        "en": "There we go.",
+        "pl": "O, właśnie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds7": {
+        "en": "Nice.",
+        "pl": "Ładnie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds8": {
+        "en": "Oh, that was it!",
+        "pl": "Och, to było to!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Examine Puzzle Success Grim/Section ds9": {
+        "en": "Nice work.",
+        "pl": "Dobra robota.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Examine Puzzle Success Sal": {
+      "Examine/Examine Puzzle Success Sal/Section ds0": {
+        "en": "That was right!",
+        "pl": "To było dobrze!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds1": {
+        "en": "I'm impressed.",
+        "pl": "Jestem pod wrażeniem.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds10": {
+        "en": "That was right!",
+        "pl": "To było dobrze!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds11": {
+        "en": "Nice work.",
+        "pl": "Dobra robota.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds12": {
+        "en": "Got it!",
+        "pl": "Mam to!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds13": {
+        "en": "Good job.",
+        "pl": "Dobra robota.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds14": {
+        "en": "I did it!",
+        "pl": "Udało mi się!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds16": {
+        "en": "Nice!",
+        "pl": "Ładnie!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds17": {
+        "en": "There we go.",
+        "pl": "O, właśnie.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds2": {
+        "en": "Nice work.",
+        "pl": "Dobra robota.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds3": {
+        "en": "Got it!",
+        "pl": "Mam to!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds5": {
+        "en": "Good job.",
+        "pl": "Dobra robota.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds6": {
+        "en": "I did it!",
+        "pl": "Udało mi się!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds7": {
+        "en": "There we go.",
+        "pl": "O, właśnie.",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds8": {
+        "en": "Nice!",
+        "pl": "Ładnie!",
+        "speaker": "Sally"
+      },
+      "Examine/Examine Puzzle Success Sal/Section ds9": {
+        "en": "I'm impressed.",
+        "pl": "Jestem pod wrażeniem.",
+        "speaker": "Sally"
+      }
+    },
+    "Examine Puzzle SuspectBoard Hint 1": {
+      "Examine/Examine Puzzle SuspectBoard Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle SuspectBoard Hint 2": {
+      "Examine/Examine Puzzle SuspectBoard Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle SuspectBoard Hint 3": {
+      "Examine/Examine Puzzle SuspectBoard Hint 3/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle SuspectBoard Success": {
+      "Examine/Examine Puzzle SuspectBoard Success/Section ds9": {
+        "en": "Got it.",
+        "pl": "Mam to.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Switchboard Hint 1": {
+      "Examine/Examine Puzzle Switchboard Hint 1/Section ds1": {
+        "en": "The digital display changes depending on which [i]plugs[/i] are in which [i]sockets...[/i]",
+        "pl": "Cyfrowy wyświetlacz zmienia się w zależności od tego, które [i]wtyczki[/i] są w których [i]gniazdkach...[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 1/Section ds5": {
+        "en": "...I guess we have to get it to match the drawing on the piece of paper?",
+        "pl": "...chyba musimy sprawić, żeby pasowało do rysunku na kartce?",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Switchboard Hint 2": {
+      "Examine/Examine Puzzle Switchboard Hint 2/Section ds10": {
+        "en": "The plugs are in sets of two, so the output for each set is the combination of [i]both[/i] the sockets they're plugged into.",
+        "pl": "Wtyczki są w parach, więc wynik dla każdej pary to połączenie [i]obu[/i] gniazdek, do których są podłączone.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 2/Section ds4": {
+        "en": "Try just swapping the plugs between the different sockets - until the display starts to match the diagram.",
+        "pl": "Spróbuj po prostu zamieniać wtyczki między różnymi gniazdkami - aż wyświetlacz zacznie pasować do diagramu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 2/Section ds9": {
+        "en": "I guess that's wrong.",
+        "pl": "Chyba się mylę.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Examine Puzzle Switchboard Hint 3": {
+      "Examine/Examine Puzzle Switchboard Hint 3/Section ds10": {
+        "en": "They overlap though - meaning some parts can be lit up by two different sets of plugs.",
+        "pl": "Nakładają się jednak - co oznacza, że niektóre części mogą być podświetlone przez dwie różne pary wtyczek.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 3/Section ds4": {
+        "en": "The display's made up of various inputs from the sets of plugs...",
+        "pl": "Wyświetlacz składa się z różnych sygnałów wejściowych z par wtyczek...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 3/Section ds8": {
+        "en": "For instance, the top left's lit up by the [i]red triangle[/i] set, and the bottom left's lit up by the [i]blue square[/i] set.",
+        "pl": "Na przykład, górny lewy jest podświetlony przez zestaw [i]czerwonego trójkąta,[/i] a dolny lewy przez zestaw [i]niebieskiego kwadratu.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Examine Puzzle Switchboard Hint 3/Section ds9": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

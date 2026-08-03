@@ -1,0 +1,1149 @@
+{
+  "_meta": {
+    "batch": "Hints - cala kategoria (284 terminy) - system podpowiedzi UI (przycisk 'Hint' przy kazdym podejrzanym/lokacji): krotkie, WYSOCE POWTARZALNE frazy typu 'Sprobujmy X'/'Moze X...?'/'Zbadajmy Y...'/'Porozmawiajmy z Z...'. Tylko 152 unikalne zdania rozlozone na 284 klucze terminow (te same zdania powtarzaja sie dla wielu podejrzanych/scen) - przetlumaczono kazde unikalne zdanie raz i zmapowano automatycznie do wszystkich pasujacych kluczy, z pelna walidacja 1:1 pokrycia.",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_hints_en.json)",
+    "target_language_slot": "Russian (index 7 w mLanguages)"
+  },
+  "categories": {
+    "Hints": {
+      "Hints/Hint All Lets talk to the other suspects": {
+        "en": "Let's talk to the other suspects...",
+        "pl": "Porozmawiajmy z pozostałymi podejrzanymi..."
+      },
+      "Hints/Hint Dirk 1 Action Figure": {
+        "en": "Let's try the Action Figure.",
+        "pl": "Spróbujmy Figurki Akcji."
+      },
+      "Hints/Hint Dirk 1 Cell Phone": {
+        "en": "Let's try the Cell Phone.",
+        "pl": "Spróbujmy Telefonu Komórkowego."
+      },
+      "Hints/Hint Dirk 1 Hex of the Helmsman": {
+        "en": "Let's try Hex of the Helmsman.",
+        "pl": "Spróbujmy Klątwy Sternika."
+      },
+      "Hints/Hint Dirk 1 Movie Magazine": {
+        "en": "Let's try the Movie Magazine.",
+        "pl": "Spróbujmy Magazynu Filmowego."
+      },
+      "Hints/Hint Dirk 2 Command Contract": {
+        "en": "Maybe the Command Contract...?",
+        "pl": "Może Kontrakt Dowódczy...?"
+      },
+      "Hints/Hint Dirk 2 Diving License": {
+        "en": "Maybe the Diving License...?",
+        "pl": "Może Licencja na Nurkowanie...?"
+      },
+      "Hints/Hint Dirk 2 Film Projector": {
+        "en": "Maybe the Film Projector...?",
+        "pl": "Może Projektor Filmowy...?"
+      },
+      "Hints/Hint Dirk 2 MessageinaBottle": {
+        "en": "Maybe the Message in a Bottle...?",
+        "pl": "Może Wiadomość w Butelce...?"
+      },
+      "Hints/Hint Dirk 2 Pocketbook": {
+        "en": "Maybe the Pocketbook...?",
+        "pl": "Może Notes Kieszonkowy...?"
+      },
+      "Hints/Hint Dirk 2 Strange Device": {
+        "en": "Maybe the Strange Device...?",
+        "pl": "Może Dziwne Urządzenie...?"
+      },
+      "Hints/Hint Dirk 2 Sun Tablets": {
+        "en": "Maybe the Sun Tablets...?",
+        "pl": "Może Tabletki Słoneczne...?"
+      },
+      "Hints/Hint Dirk 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Dirk Action Figure": {
+        "en": "Maybe the Action Figure...?",
+        "pl": "Może Figurka Akcji...?"
+      },
+      "Hints/Hint Dirk Cell Phone": {
+        "en": "Maybe the Cell Phone...?",
+        "pl": "Może Telefon Komórkowy...?"
+      },
+      "Hints/Hint Dirk Hex of the Helmsman": {
+        "en": "Maybe Hex of the Helmsman...?",
+        "pl": "Może Klątwa Sternika...?"
+      },
+      "Hints/Hint Dirk Lets ask others about Dirk": {
+        "en": "Let's ask others about Dirk...",
+        "pl": "Zapytajmy innych o Dirka..."
+      },
+      "Hints/Hint Dirk Lets examines clues in case file": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Dirk Lets explore Dirks bunk room": {
+        "en": "Let's explore Dirk's bunk room...",
+        "pl": "Zbadajmy kajutę sypialną Dirka..."
+      },
+      "Hints/Hint Dirk Lets explore the airlock": {
+        "en": "Let's explore the airlock...",
+        "pl": "Zbadajmy śluzę..."
+      },
+      "Hints/Hint Dirk Lets explore the bilge": {
+        "en": "Let's explore the bilge...",
+        "pl": "Zbadajmy zęzę..."
+      },
+      "Hints/Hint Dirk Lets explore the cargo hold": {
+        "en": "Let's explore the cargo hold...",
+        "pl": "Zbadajmy ładownię..."
+      },
+      "Hints/Hint Dirk Lets explore the control room": {
+        "en": "Let's explore the control room...",
+        "pl": "Zbadajmy sterownię..."
+      },
+      "Hints/Hint Dirk Lets explore the other bunk room": {
+        "en": "Let's explore the other bunk room...",
+        "pl": "Zbadajmy drugą kajutę sypialną..."
+      },
+      "Hints/Hint Dirk Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Dirk Lets talk to Dirk": {
+        "en": "Let's talk to Dirk...",
+        "pl": "Porozmawiajmy z Dirkiem..."
+      },
+      "Hints/Hint Dirk Lets talk to Mariana": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Dirk Lets talk to Sinthia": {
+        "en": "Let's talk to Sinthia...",
+        "pl": "Porozmawiajmy z Sinthią..."
+      },
+      "Hints/Hint Dirk Lets talk to Wirman": {
+        "en": "Let's talk to Wirman...",
+        "pl": "Porozmawiajmy z Wirmanem..."
+      },
+      "Hints/Hint Dirk Movie Magazine": {
+        "en": "Maybe the Movie Magazine...?",
+        "pl": "Może Magazyn Filmowy...?"
+      },
+      "Hints/Hint Dirk No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Gripp 1 Balloon Basket": {
+        "en": "Let's try the Balloon Basket.",
+        "pl": "Spróbujmy Kosza Balonowego."
+      },
+      "Hints/Hint Gripp 1 Broken Compass": {
+        "en": "Let's try the Broken Compass.",
+        "pl": "Spróbujmy Zepsutego Kompasu."
+      },
+      "Hints/Hint Gripp 1 Cornelius Cane": {
+        "en": "Let's try Cornelius Cane.",
+        "pl": "Spróbujmy Corneliusa Cane."
+      },
+      "Hints/Hint Gripp 1 Ocean Map": {
+        "en": "Let's try the Ocean Map.",
+        "pl": "Spróbujmy Mapy Oceanu."
+      },
+      "Hints/Hint Gripp 2 CaptainsLog": {
+        "en": "Maybe the Captain's Log...?",
+        "pl": "Może Dziennik Kapitana...?"
+      },
+      "Hints/Hint Gripp 2 CaretakersJournal": {
+        "en": "Maybe the Caretaker's Journal...?",
+        "pl": "Może Dziennik Dozorcy...?"
+      },
+      "Hints/Hint Gripp 2 GoldenLocket": {
+        "en": "Maybe the Golden Locket...?",
+        "pl": "Może Złoty Medalion...?"
+      },
+      "Hints/Hint Gripp 2 ModelTown": {
+        "en": "Maybe the Model Town...?",
+        "pl": "Może Makieta Miasteczka...?"
+      },
+      "Hints/Hint Gripp 2 ShipinaBottle": {
+        "en": "Maybe the Ship in a Bottle...?",
+        "pl": "Może Statek w Butelce...?"
+      },
+      "Hints/Hint Gripp 2 ShipsWheel": {
+        "en": "Maybe the Ship's Wheel...?",
+        "pl": "Może Koło Sterowe...?"
+      },
+      "Hints/Hint Gripp 2 SilkwirmMap": {
+        "en": "Maybe the Silkwirm Map...?",
+        "pl": "Może Mapa Silkwirm...?"
+      },
+      "Hints/Hint Gripp 2 WoodenBuoy": {
+        "en": "Maybe the Wooden Buoy...?",
+        "pl": "Może Drewniana Boja...?"
+      },
+      "Hints/Hint Gripp 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Gripp Balloon Basket": {
+        "en": "Maybe the Balloon Basket...?",
+        "pl": "Może Kosz Balonowy...?"
+      },
+      "Hints/Hint Gripp Broken Compass": {
+        "en": "Maybe the Broken Compass...?",
+        "pl": "Może Zepsuty Kompas...?"
+      },
+      "Hints/Hint Gripp Cornelius Cane": {
+        "en": "Maybe Cornelius Cane...?",
+        "pl": "Może Cornelius Cane...?"
+      },
+      "Hints/Hint Gripp Lets examines clues in case file 1": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Gripp Lets examines clues in case file 2": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Gripp Lets explore the Captains Cabin": {
+        "en": "Let's explore the Captain's Cabin...",
+        "pl": "Zbadajmy Gabinet Kapitana..."
+      },
+      "Hints/Hint Gripp Lets explore the Captains Quarters": {
+        "en": "Let's explore the Captain's Quarters...",
+        "pl": "Zbadajmy Kwaterę Kapitańską..."
+      },
+      "Hints/Hint Gripp Lets explore the Control Room": {
+        "en": "Let's explore the Control Room...",
+        "pl": "Zbadajmy Sterownię..."
+      },
+      "Hints/Hint Gripp Lets explore the Dream Chamber": {
+        "en": "Let's explore the Dream Chamber...",
+        "pl": "Zbadajmy Komnatę Snów..."
+      },
+      "Hints/Hint Gripp Lets explore the Illusion Theatre": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Gripp Lets explore the engine room": {
+        "en": "Let's explore the Engine Room...",
+        "pl": "Zbadajmy Maszynownię..."
+      },
+      "Hints/Hint Gripp Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Gripp Lets talk to Gripp": {
+        "en": "Let's talk to Gripp...",
+        "pl": "Porozmawiajmy z Grippem..."
+      },
+      "Hints/Hint Gripp Lets talk to others about Gripp": {
+        "en": "Let's talk to others about Gripp...",
+        "pl": "Porozmawiajmy z innymi o Grippie..."
+      },
+      "Hints/Hint Gripp No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Gripp Ocean Map": {
+        "en": "Maybe the Ocean Map...?",
+        "pl": "Może Mapa Oceanu...?"
+      },
+      "Hints/Hint Map 10 Go After Gripp": {
+        "en": "We have to go after Gripp!",
+        "pl": "Musimy ruszyć za Grippem!"
+      },
+      "Hints/Hint Map 11 Check Control Room": {
+        "en": "We have to get back to the Control Room!",
+        "pl": "Musimy wrócić do Sterowni!"
+      },
+      "Hints/Hint Map 12 No Hint": {
+        "en": "I think we're done.",
+        "pl": "Chyba skończyliśmy."
+      },
+      "Hints/Hint Map 1a Visit Crime Scene": {
+        "en": "Let's visit the Crime Scene first...",
+        "pl": "Odwiedźmy najpierw miejsce zbrodni..."
+      },
+      "Hints/Hint Map 1b Explore Crime Scene": {
+        "en": "Let's explore the Crime Scene...",
+        "pl": "Zbadajmy miejsce zbrodni..."
+      },
+      "Hints/Hint Map 2 Explore the Submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Map 2 Explore the Submarine 1": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Map 2 Find all Suspects": {
+        "en": "Let's try to find all the Suspects...",
+        "pl": "Spróbujmy znaleźć wszystkich Podejrzanych..."
+      },
+      "Hints/Hint Map 2 Get into the Control Room": {
+        "en": "Let's find a way into the Control Room...",
+        "pl": "Znajdźmy sposób, żeby dostać się do Sterowni..."
+      },
+      "Hints/Hint Map 3 Examines Clues in Case File": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Map 3 Explore Airlock": {
+        "en": "Let's explore the Airlock Grotto...",
+        "pl": "Zbadajmy Grotę Śluzową..."
+      },
+      "Hints/Hint Map 3 Explore Bilge": {
+        "en": "Let's explore the Bilge...",
+        "pl": "Zbadajmy Zęzę..."
+      },
+      "Hints/Hint Map 3 Explore CaptainsCabin": {
+        "en": "Let's explore the Captain's Cabin...",
+        "pl": "Zbadajmy Gabinet Kapitana..."
+      },
+      "Hints/Hint Map 3 Explore CaptainsQuarters": {
+        "en": "Let's explore the Captain's Quarters...",
+        "pl": "Zbadajmy Kwaterę Kapitańską..."
+      },
+      "Hints/Hint Map 3 Explore CargoHold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Map 3 Explore ChildsRoom": {
+        "en": "Let's explore the Child's Room...",
+        "pl": "Zbadajmy Pokój Dziecięcy..."
+      },
+      "Hints/Hint Map 3 Explore ControlRoom": {
+        "en": "Let's explore the Control Room...",
+        "pl": "Zbadajmy Sterownię..."
+      },
+      "Hints/Hint Map 3 Explore DirkWirman": {
+        "en": "Let's explore Dirk & Wirman's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Dirka i Wirmana..."
+      },
+      "Hints/Hint Map 3 Explore DreamChamber": {
+        "en": "Let's explore the Dream Chamber...",
+        "pl": "Zbadajmy Komnatę Snów..."
+      },
+      "Hints/Hint Map 3 Explore EngineRoom": {
+        "en": "Let's explore the Engine Room...",
+        "pl": "Zbadajmy Maszynownię..."
+      },
+      "Hints/Hint Map 3 Explore IllusionTheatre": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Map 3 Explore MessHall": {
+        "en": "Let's explore the Mess Hall...",
+        "pl": "Zbadajmy Mesę..."
+      },
+      "Hints/Hint Map 3 Explore Parlor": {
+        "en": "Let's explore the Parlor...",
+        "pl": "Zbadajmy Salon..."
+      },
+      "Hints/Hint Map 3 Explore SymSinthia": {
+        "en": "Let's explore Sym & Sinthia's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Sym i Sinthii..."
+      },
+      "Hints/Hint Map 3 Light up Bilge": {
+        "en": "Maybe there's a way to light up the Bilge...",
+        "pl": "Może jest sposób, żeby oświetlić Zęzę..."
+      },
+      "Hints/Hint Map 3 Talk to Dirk": {
+        "en": "Let's talk to Dirk...",
+        "pl": "Porozmawiajmy z Dirkiem..."
+      },
+      "Hints/Hint Map 3 Talk to Gripp": {
+        "en": "Let's talk to Gripp...",
+        "pl": "Porozmawiajmy z Grippem..."
+      },
+      "Hints/Hint Map 3 Talk to Moon": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Map 3 Talk to Sinthia": {
+        "en": "Let's talk to Sinthia...",
+        "pl": "Porozmawiajmy z Sinthią..."
+      },
+      "Hints/Hint Map 3 Talk to Sym": {
+        "en": "Let's talk to Sym...",
+        "pl": "Porozmawiajmy z Sym..."
+      },
+      "Hints/Hint Map 3 Talk to Tadpole": {
+        "en": "Let's talk to Tadpole...",
+        "pl": "Porozmawiajmy z Tadpole..."
+      },
+      "Hints/Hint Map 3 Talk to Wirman": {
+        "en": "Let's talk to Wirman...",
+        "pl": "Porozmawiajmy z Wirmanem..."
+      },
+      "Hints/Hint Map 3 Talk to Zephyr": {
+        "en": "Let's talk to Zephyr...",
+        "pl": "Porozmawiajmy z Zephyrem..."
+      },
+      "Hints/Hint Map 3 Unlock Captains Cabin": {
+        "en": "Let's find a way to unlock the Captain's Cabin...",
+        "pl": "Znajdźmy sposób, żeby odblokować Gabinet Kapitana..."
+      },
+      "Hints/Hint Map 3 Unlock Captains Quarters": {
+        "en": "Let's find a way to access the Captain's Quarters...",
+        "pl": "Znajdźmy sposób, żeby dostać się do Kwatery Kapitańskiej..."
+      },
+      "Hints/Hint Map 4 Report to Sinthia": {
+        "en": "Let's make our report to Sinthia.",
+        "pl": "Złóżmy raport Sinthii."
+      },
+      "Hints/Hint Map 5 Check Captains Cabin": {
+        "en": "Let's check the Captain's Cabin.",
+        "pl": "Sprawdźmy Gabinet Kapitana."
+      },
+      "Hints/Hint Map 5 Check Captains Quarters": {
+        "en": "Let's check the Captain's Quarters.",
+        "pl": "Sprawdźmy Kwaterę Kapitańską."
+      },
+      "Hints/Hint Map 5 Check CargoHold": {
+        "en": "Let's check the Cargo Hold.",
+        "pl": "Sprawdźmy Ładownię."
+      },
+      "Hints/Hint Map 5 Check ControlRoom": {
+        "en": "Let's check the Control Room.",
+        "pl": "Sprawdźmy Sterownię."
+      },
+      "Hints/Hint Map 5 Check DreamChamber": {
+        "en": "Let's check the Dream Chamber.",
+        "pl": "Sprawdźmy Komnatę Snów."
+      },
+      "Hints/Hint Map 5 Check Mess Hall": {
+        "en": "Let's check the Mess Hall.",
+        "pl": "Sprawdźmy Mesę."
+      },
+      "Hints/Hint Map 5 Discuss": {
+        "en": "Let's discuss what we've learned...",
+        "pl": "Omówmy, czego się dowiedzieliśmy..."
+      },
+      "Hints/Hint Map 5 Explore AftDeck": {
+        "en": "Let's explore the Aft Deck...",
+        "pl": "Zbadajmy Pokład Rufowy..."
+      },
+      "Hints/Hint Map 5 Explore CabinetCuriosity": {
+        "en": "Let's explore the Cabinet of Curiosity...",
+        "pl": "Zbadajmy Gabinet Osobliwości..."
+      },
+      "Hints/Hint Map 5 Explore DomeTank": {
+        "en": "Let's explore the Dome Tank...",
+        "pl": "Zbadajmy Zbiornik Kopułowy..."
+      },
+      "Hints/Hint Map 5 Explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Map 5 Explore the submarine 2": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Map 6 Investigate Crime Scene": {
+        "en": "Let's investigate the Crime Scene.",
+        "pl": "Zbadajmy miejsce zbrodni."
+      },
+      "Hints/Hint Map 6 Revisit Crime Scene": {
+        "en": "Let's go back to the Crime Scene.",
+        "pl": "Wróćmy na miejsce zbrodni."
+      },
+      "Hints/Hint Map 7 Discuss Crime Scene": {
+        "en": "Let's discuss the Crime Scene.",
+        "pl": "Omówmy miejsce zbrodni."
+      },
+      "Hints/Hint Map 7 Investigate Crime Scene": {
+        "en": "Let's investigate the Crime Scene.",
+        "pl": "Zbadajmy miejsce zbrodni."
+      },
+      "Hints/Hint Map 8 Check Mess Hall": {
+        "en": "Let's check the Mess Hall.",
+        "pl": "Sprawdźmy Mesę."
+      },
+      "Hints/Hint Map 9 Check Parlor": {
+        "en": "Let's check the Parlor.",
+        "pl": "Sprawdźmy Salon."
+      },
+      "Hints/Hint Moon 1 HexBottle": {
+        "en": "Let's try the Hex Bottle.",
+        "pl": "Spróbujmy Butelki Hexa."
+      },
+      "Hints/Hint Moon 1 MoonVial": {
+        "en": "Let's try the Moon Vial.",
+        "pl": "Spróbujmy Fiolki Moon."
+      },
+      "Hints/Hint Moon 1 SilkwirmMap": {
+        "en": "Let's try the Silkwirm Map.",
+        "pl": "Spróbujmy Mapy Silkwirm."
+      },
+      "Hints/Hint Moon 1 WoodenPipe": {
+        "en": "Let's try the Wooden Pipe.",
+        "pl": "Spróbujmy Drewnianej Rury."
+      },
+      "Hints/Hint Moon 2 Black Box": {
+        "en": "Maybe the Black Box...?",
+        "pl": "Może Czarna Skrzynka...?"
+      },
+      "Hints/Hint Moon 2 CaretakersJournal": {
+        "en": "Maybe the Caretaker's Journal...?",
+        "pl": "Może Dziennik Dozorcy...?"
+      },
+      "Hints/Hint Moon 2 CellPhone": {
+        "en": "Maybe the Cell Phone...?",
+        "pl": "Może Telefon Komórkowy...?"
+      },
+      "Hints/Hint Moon 2 FamilyPhoto": {
+        "en": "Maybe the Family Photo...?",
+        "pl": "Może Zdjęcie Rodzinne...?"
+      },
+      "Hints/Hint Moon 2 FeliciaPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Moon 2 GlassEyeball": {
+        "en": "Maybe the Glass Eyeball...?",
+        "pl": "Może Szklane Oko...?"
+      },
+      "Hints/Hint Moon 2 InnDeeds": {
+        "en": "Maybe the Inn Deeds...?",
+        "pl": "Może Akt Własności Gospody...?"
+      },
+      "Hints/Hint Moon 2 MermaidPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Moon 2 ModelTown": {
+        "en": "Maybe the Model Town...?",
+        "pl": "Może Makieta Miasteczka...?"
+      },
+      "Hints/Hint Moon 2 Newspaper": {
+        "en": "Maybe the Newspaper Page...?",
+        "pl": "Może Strona Gazety...?"
+      },
+      "Hints/Hint Moon 2 OceanMap": {
+        "en": "Maybe the Ocean Map...?",
+        "pl": "Może Mapa Oceanu...?"
+      },
+      "Hints/Hint Moon 2 Pocketbook": {
+        "en": "Maybe the Pocketbook...?",
+        "pl": "Może Notes Kieszonkowy...?"
+      },
+      "Hints/Hint Moon 2 ShipinaBottle": {
+        "en": "Maybe the Ship in a Bottle...?",
+        "pl": "Może Statek w Butelce...?"
+      },
+      "Hints/Hint Moon 2 WoodenBuoy": {
+        "en": "Maybe the Wooden Buoy...?",
+        "pl": "Może Drewniana Boja...?"
+      },
+      "Hints/Hint Moon 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Moon Lets examines clues in case file 1": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Moon Lets examines clues in case file 2": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Moon Lets explore the Airlock": {
+        "en": "Let's explore the Airlock...",
+        "pl": "Zbadajmy Śluzę..."
+      },
+      "Hints/Hint Moon Lets explore the Bunk Room": {
+        "en": "Let's explore the Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną..."
+      },
+      "Hints/Hint Moon Lets explore the Captains Quarters": {
+        "en": "Let's explore the Captain's Quarters...",
+        "pl": "Zbadajmy Kwaterę Kapitańską..."
+      },
+      "Hints/Hint Moon Lets explore the Cargo Hold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Moon Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Moon Lets talk to Dirk": {
+        "en": "Let's talk to Dirk...",
+        "pl": "Porozmawiajmy z Dirkiem..."
+      },
+      "Hints/Hint Moon Lets talk to Mariana": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Moon Lets talk to others about Mariana": {
+        "en": "Let's talk to others about Mariana...",
+        "pl": "Porozmawiajmy z innymi o Marianie..."
+      },
+      "Hints/Hint Sinthia 1 Blueprint": {
+        "en": "Let's try the Submarine Blueprint.",
+        "pl": "Spróbujmy Planów Łodzi Podwodnej."
+      },
+      "Hints/Hint Sinthia 1 CaptainsLog": {
+        "en": "Let's try the Captain's Log.",
+        "pl": "Spróbujmy Dziennika Kapitana."
+      },
+      "Hints/Hint Sinthia 1 CommandContract": {
+        "en": "Let's try the Command Contract.",
+        "pl": "Spróbujmy Kontraktu Dowódczego."
+      },
+      "Hints/Hint Sinthia 1 FamilyPhoto": {
+        "en": "Let's try the Family Photo.",
+        "pl": "Spróbujmy Zdjęcia Rodzinnego."
+      },
+      "Hints/Hint Sinthia 1 FeliciaPainting": {
+        "en": "Let's try the HER Painting.",
+        "pl": "Spróbujmy Obrazu 'ONA'."
+      },
+      "Hints/Hint Sinthia 1 InnDeeds": {
+        "en": "Let's try the Inn Deeds.",
+        "pl": "Spróbujmy Aktu Własności Gospody."
+      },
+      "Hints/Hint Sinthia 1 UnderwaterPhoto": {
+        "en": "Let's try the Underwater Photo.",
+        "pl": "Spróbujmy Zdjęcia Podwodnego."
+      },
+      "Hints/Hint Sinthia 2 BrokenCompass": {
+        "en": "Maybe the Broken Compass...?",
+        "pl": "Może Zepsuty Kompas...?"
+      },
+      "Hints/Hint Sinthia 2 CaptainsJacket": {
+        "en": "Maybe the Captain's Jacket...?",
+        "pl": "Może Płaszcz Kapitański...?"
+      },
+      "Hints/Hint Sinthia 2 CaseFile": {
+        "en": "Maybe the Case File...?",
+        "pl": "Może Akta Sprawy...?"
+      },
+      "Hints/Hint Sinthia 2 CellPhone": {
+        "en": "Maybe the Cell Phone...?",
+        "pl": "Może Telefon Komórkowy...?"
+      },
+      "Hints/Hint Sinthia 2 CurseCauldron": {
+        "en": "Maybe the Stone Cauldron...?",
+        "pl": "Może Kamienny Kocioł...?"
+      },
+      "Hints/Hint Sinthia 2 GlassEyeball": {
+        "en": "Maybe the Glass Eyeball...?",
+        "pl": "Może Szklane Oko...?"
+      },
+      "Hints/Hint Sinthia 2 HandheldRadio": {
+        "en": "Maybe the Handheld Radio...?",
+        "pl": "Może Krótkofalówka...?"
+      },
+      "Hints/Hint Sinthia 2 MermaidPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Sinthia 2 ModelTown": {
+        "en": "Maybe the Model Town...?",
+        "pl": "Może Makieta Miasteczka...?"
+      },
+      "Hints/Hint Sinthia 2 Newspaper": {
+        "en": "Maybe the Newspaper...?",
+        "pl": "Może gazeta...?"
+      },
+      "Hints/Hint Sinthia 2 ShipsWheel": {
+        "en": "Maybe the Ship's Wheel...?",
+        "pl": "Może Koło Sterowe...?"
+      },
+      "Hints/Hint Sinthia 2 SilkwirmMap": {
+        "en": "Maybe the Silkwirm Map...?",
+        "pl": "Może Mapa Silkwirm...?"
+      },
+      "Hints/Hint Sinthia 2 StrangeDevice": {
+        "en": "Maybe the Strange Device...?",
+        "pl": "Może Dziwne Urządzenie...?"
+      },
+      "Hints/Hint Sinthia 2 WoodenBuoy": {
+        "en": "Maybe the Wooden Buoy...?",
+        "pl": "Może Drewniana Boja...?"
+      },
+      "Hints/Hint Sinthia 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Sinthia Lets examines clues in case file": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Sinthia Lets explore Sinthias Bunk Room": {
+        "en": "Let's explore Sinthia's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Sinthii..."
+      },
+      "Hints/Hint Sinthia Lets explore Wirmans Bunk Room": {
+        "en": "Let's explore Wirman's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Wirmana..."
+      },
+      "Hints/Hint Sinthia Lets explore the Cargo Hold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Sinthia Lets explore the Control Room": {
+        "en": "Let's explore the Control Room...",
+        "pl": "Zbadajmy Sterownię..."
+      },
+      "Hints/Hint Sinthia Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Sinthia Lets talk to Mariana": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Sinthia Lets talk to Sinthia": {
+        "en": "Let's talk to Sinthia...",
+        "pl": "Porozmawiajmy z Sinthią..."
+      },
+      "Hints/Hint Sinthia Lets talk to Sym": {
+        "en": "Lets talk to Symmetry...",
+        "pl": "Porozmawiajmy z Symmetry..."
+      },
+      "Hints/Hint Sinthia Lets talk to Wirman": {
+        "en": "Let's talk to Wirman...",
+        "pl": "Porozmawiajmy z Wirmanem..."
+      },
+      "Hints/Hint Sinthia Lets talk to others about Sinthia": {
+        "en": "Let's talk to others about Sinthia...",
+        "pl": "Porozmawiajmy z innymi o Sinthii..."
+      },
+      "Hints/Hint Sym 1 FilmProjector": {
+        "en": "Let's try the Film Projector.",
+        "pl": "Spróbujmy Projektora Filmowego."
+      },
+      "Hints/Hint Sym 1 GlassEyeball": {
+        "en": "Let's try the Glass Eyeball.",
+        "pl": "Spróbujmy Szklanego Oka."
+      },
+      "Hints/Hint Sym 1 Golden Locket": {
+        "en": "Let's try the Golden Locket.",
+        "pl": "Spróbujmy Złotego Medalionu."
+      },
+      "Hints/Hint Sym 1 IllusionPoster": {
+        "en": "Let's try the Illusion Poster.",
+        "pl": "Spróbujmy Plakatu Iluzjonisty."
+      },
+      "Hints/Hint Sym 1 LifesizeDoll": {
+        "en": "Let's try the Lifesize Doll.",
+        "pl": "Spróbujmy Lalki Naturalnej Wielkości."
+      },
+      "Hints/Hint Sym 1 Newspaper": {
+        "en": "Let's try the Newspaper Page.",
+        "pl": "Spróbujmy Strony Gazety."
+      },
+      "Hints/Hint Sym 1 Sailcloth": {
+        "en": "Let's try the Sailcloth.",
+        "pl": "Spróbujmy Żaglowego Płótna."
+      },
+      "Hints/Hint Sym 2 Caretakers Journal": {
+        "en": "Maybe the Caretaker's Journal...?",
+        "pl": "Może Dziennik Dozorcy...?"
+      },
+      "Hints/Hint Sym 2 Cauldron": {
+        "en": "Maybe the Stone Cauldron...?",
+        "pl": "Może Kamienny Kocioł...?"
+      },
+      "Hints/Hint Sym 2 Dream Helmet": {
+        "en": "Maybe the Dream Helmet...?",
+        "pl": "Może Hełm Snów...?"
+      },
+      "Hints/Hint Sym 2 Fog Ball": {
+        "en": "Maybe the Fog Ball...?",
+        "pl": "Może Kula Mgły...?"
+      },
+      "Hints/Hint Sym 2 Hex Bottle": {
+        "en": "Maybe the Hex Bottle...?",
+        "pl": "Może Butelka Hexa...?"
+      },
+      "Hints/Hint Sym 2 Moon Vial": {
+        "en": "Maybe the Moon Vial...?",
+        "pl": "Może Fiolka Moon...?"
+      },
+      "Hints/Hint Sym 2 Ship in a Bottle": {
+        "en": "Maybe the Ship in a Bottle...?",
+        "pl": "Może Statek w Butelce...?"
+      },
+      "Hints/Hint Sym 2 Underwater Photo": {
+        "en": "Maybe the Underwater Photo...?",
+        "pl": "Może Zdjęcie Podwodne...?"
+      },
+      "Hints/Hint Sym 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Sym Lets examines clues in case file": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Sym Lets explore DirkWirman Bunk Room": {
+        "en": "Let's explore Dirk and Wirman's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Dirka i Wirmana..."
+      },
+      "Hints/Hint Sym Lets explore the Childs Room": {
+        "en": "Let's explore the Child's Room...",
+        "pl": "Zbadajmy Pokój Dziecięcy..."
+      },
+      "Hints/Hint Sym Lets explore the Control Room": {
+        "en": "Let's explore the Control Room...",
+        "pl": "Zbadajmy Sterownię..."
+      },
+      "Hints/Hint Sym Lets explore the Dream Chamber": {
+        "en": "Let's explore the Dream Chamber...",
+        "pl": "Zbadajmy Komnatę Snów..."
+      },
+      "Hints/Hint Sym Lets explore the Illusion Theatre": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Sym Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Sym Lets talk to Symmetry": {
+        "en": "Let's talk to Symmetry...",
+        "pl": "Porozmawiajmy z Symmetry..."
+      },
+      "Hints/Hint Sym Lets talk to others about Symmetry": {
+        "en": "Let's talk to others about Symmetry...",
+        "pl": "Porozmawiajmy z innymi o Symmetry..."
+      },
+      "Hints/Hint Tadpole 1 DivingLicense": {
+        "en": "Let's try the Diving License.",
+        "pl": "Spróbujmy Licencji Nurkowej."
+      },
+      "Hints/Hint Tadpole 1 GlassEyeball": {
+        "en": "Let's try the Glass Eyeball.",
+        "pl": "Spróbujmy Szklanego Oka."
+      },
+      "Hints/Hint Tadpole 1 MessageinaBottle": {
+        "en": "Let's try the Message in a Bottle.",
+        "pl": "Spróbujmy Wiadomości w Butelce."
+      },
+      "Hints/Hint Tadpole 1 MoonPhoto": {
+        "en": "Let's try the Moon Photo.",
+        "pl": "Spróbujmy Zdjęcia Księżycowego."
+      },
+      "Hints/Hint Tadpole 1 Pocketbook": {
+        "en": "Let's try the Pocketbook.",
+        "pl": "Spróbujmy Notesu Kieszonkowego."
+      },
+      "Hints/Hint Tadpole 2 FeliciaPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Tadpole 2 HexBottle": {
+        "en": "Maybe the Hex Bottle...?",
+        "pl": "Może Butelka Hexa...?"
+      },
+      "Hints/Hint Tadpole 2 IllusionistPoster": {
+        "en": "Maybe the Illusion Poster...?",
+        "pl": "Może Plakat Iluzjonisty...?"
+      },
+      "Hints/Hint Tadpole 2 MermaidPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Tadpole 2 OceanMap": {
+        "en": "Maybe the Ocean Map...?",
+        "pl": "Może Mapa Oceanu...?"
+      },
+      "Hints/Hint Tadpole 2 StrangeDevice": {
+        "en": "Maybe the Strange Device...?",
+        "pl": "Może Dziwne Urządzenie...?"
+      },
+      "Hints/Hint Tadpole 2 UnderwaterPhoto": {
+        "en": "Maybe the Underwater Photo...?",
+        "pl": "Może Zdjęcie Podwodne...?"
+      },
+      "Hints/Hint Tadpole 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Tadpole Lets examines clues in case file 1": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Tadpole Lets examines clues in case file 2": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Tadpole Lets explore the Airlock": {
+        "en": "Let's explore the Airlock...",
+        "pl": "Zbadajmy Śluzę..."
+      },
+      "Hints/Hint Tadpole Lets explore the Bilge": {
+        "en": "Let's explore the Bilge...",
+        "pl": "Zbadajmy Zęzę..."
+      },
+      "Hints/Hint Tadpole Lets explore the Bunk Room": {
+        "en": "Let's explore the Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną..."
+      },
+      "Hints/Hint Tadpole Lets explore the Cargo Hold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Tadpole Lets explore the Dream Chamber": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Tadpole Lets explore the Illusion Theatre": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Tadpole Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Tadpole Lets talk to Dirk": {
+        "en": "Let's talk to Dirk...",
+        "pl": "Porozmawiajmy z Dirkiem..."
+      },
+      "Hints/Hint Tadpole Lets talk to Mariana": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Tadpole Lets talk to Tadpole": {
+        "en": "Let's talk to Tadpole...",
+        "pl": "Porozmawiajmy z Tadpole..."
+      },
+      "Hints/Hint Tadpole Lets talk to others about Tadpole": {
+        "en": "Let's talk to others about Tadpole...",
+        "pl": "Porozmawiajmy z innymi o Tadpole..."
+      },
+      "Hints/Hint Wirman 1 HandwrittenLetter": {
+        "en": "Let's try the Handwritten Letter.",
+        "pl": "Spróbujmy Odręcznego Listu."
+      },
+      "Hints/Hint Wirman 1 HexNovel": {
+        "en": "Let's try Hex of the Helmsman.",
+        "pl": "Spróbujmy Klątwy Sternika."
+      },
+      "Hints/Hint Wirman 1 Typewriter": {
+        "en": "Let's try the Typewriter.",
+        "pl": "Spróbujmy Maszyny do Pisania."
+      },
+      "Hints/Hint Wirman 2 ActionFigure": {
+        "en": "Maybe the Action Figure...?",
+        "pl": "Może Figurka Akcji...?"
+      },
+      "Hints/Hint Wirman 2 CellPhone": {
+        "en": "Maybe the Cell Phone...?",
+        "pl": "Może Telefon Komórkowy...?"
+      },
+      "Hints/Hint Wirman 2 CommandContract": {
+        "en": "Maybe the Command Contract...?",
+        "pl": "Może Kontrakt Dowódczy...?"
+      },
+      "Hints/Hint Wirman 2 Curse Cauldron": {
+        "en": "Maybe the Stone Cauldron...?",
+        "pl": "Może Kamienny Kocioł...?"
+      },
+      "Hints/Hint Wirman 2 IllusionistPoster": {
+        "en": "Maybe the Illusion Poster...?",
+        "pl": "Może Plakat Iluzjonisty...?"
+      },
+      "Hints/Hint Wirman 2 InnDeeds": {
+        "en": "Maybe the Inn Deeds...?",
+        "pl": "Może Akt Własności Gospody...?"
+      },
+      "Hints/Hint Wirman 2 MessageinaBottle": {
+        "en": "Maybe the Message in a Bottle...?",
+        "pl": "Może Wiadomość w Butelce...?"
+      },
+      "Hints/Hint Wirman 2 MovieMagazine": {
+        "en": "Maybe the Movie Magazine...?",
+        "pl": "Może Magazyn Filmowy...?"
+      },
+      "Hints/Hint Wirman 2 Newspaper": {
+        "en": "Maybe the Newspaper...?",
+        "pl": "Może gazeta...?"
+      },
+      "Hints/Hint Wirman 2 SilkwirmMap": {
+        "en": "Maybe the Silkwirm Map...?",
+        "pl": "Może Mapa Silkwirm...?"
+      },
+      "Hints/Hint Wirman 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Wirman Done": {
+        "en": "...I think we're done.",
+        "pl": "...chyba skończyliśmy."
+      },
+      "Hints/Hint Wirman HandwrittenLetter": {
+        "en": "Maybe the Handwritten Letter...?",
+        "pl": "Może Odręczny List...?"
+      },
+      "Hints/Hint Wirman HexNovel": {
+        "en": "Maybe Hex of the Helmsman...?",
+        "pl": "Może Klątwa Sternika...?"
+      },
+      "Hints/Hint Wirman Lets examines clues in case file": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Wirman Lets explore Wirmans Bunk Room": {
+        "en": "Let's explore Wirman's Bunk Room...",
+        "pl": "Zbadajmy Kajutę Sypialną Wirmana..."
+      },
+      "Hints/Hint Wirman Lets explore the Airlock": {
+        "en": "Let's explore the Airlock...",
+        "pl": "Zbadajmy Śluzę..."
+      },
+      "Hints/Hint Wirman Lets explore the Cargo Hold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Wirman Lets explore the Childs Room": {
+        "en": "Let's explore the Child's Room...",
+        "pl": "Zbadajmy Pokój Dziecięcy..."
+      },
+      "Hints/Hint Wirman Lets explore the Control Room": {
+        "en": "Let's explore the Control Room...",
+        "pl": "Zbadajmy Sterownię..."
+      },
+      "Hints/Hint Wirman Lets explore the submarine": {
+        "en": "Let's explore the submarine..",
+        "pl": "Zbadajmy łódź podwodną.."
+      },
+      "Hints/Hint Wirman Lets talk to Tadpole": {
+        "en": "Let's talk to Tadpole...",
+        "pl": "Porozmawiajmy z Tadpole..."
+      },
+      "Hints/Hint Wirman Lets talk to Wirman": {
+        "en": "Let's talk to Wirman...",
+        "pl": "Porozmawiajmy z Wirmanem..."
+      },
+      "Hints/Hint Wirman Lets talk to others about Wirman": {
+        "en": "Let's talk to others about Wirman...",
+        "pl": "Porozmawiajmy z innymi o Wirmanie..."
+      },
+      "Hints/Hint Wirman Newspaper": {
+        "en": "Maybe the Newspaper...?",
+        "pl": "Może gazeta...?"
+      },
+      "Hints/Hint Wirman No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Wirman Typewriter": {
+        "en": "Maybe the Typewriter...?",
+        "pl": "Może Maszyna do Pisania...?"
+      },
+      "Hints/Hint Zephyr 1 CaretakersJournal": {
+        "en": "Let's try the Caretaker's Journal.",
+        "pl": "Spróbujmy Dziennika Dozorcy."
+      },
+      "Hints/Hint Zephyr 1 DreamHelmet": {
+        "en": "Let's try the Dream Helmet.",
+        "pl": "Spróbujmy Hełmu Snów."
+      },
+      "Hints/Hint Zephyr 1 FogBall": {
+        "en": "Let's try the Fog Ball.",
+        "pl": "Spróbujmy Kuli Mgły."
+      },
+      "Hints/Hint Zephyr 1 HexBottle": {
+        "en": "Let's try the Hex Bottle.",
+        "pl": "Spróbujmy Butelki Hexa."
+      },
+      "Hints/Hint Zephyr 1 MoonVial": {
+        "en": "Let's try the Moon Vial.",
+        "pl": "Spróbujmy Fiolki Moon."
+      },
+      "Hints/Hint Zephyr 2 Cane": {
+        "en": "Maybe Cornelius Cane...?",
+        "pl": "Może Cornelius Cane...?"
+      },
+      "Hints/Hint Zephyr 2 Cauldron": {
+        "en": "Maybe the Stone Cauldron...?",
+        "pl": "Może Kamienny Kocioł...?"
+      },
+      "Hints/Hint Zephyr 2 FeliciaPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Zephyr 2 GlassEyeball": {
+        "en": "Maybe the Glass Eyeball...?",
+        "pl": "Może Szklane Oko...?"
+      },
+      "Hints/Hint Zephyr 2 GoldenLocket": {
+        "en": "Maybe the Golden Locket...?",
+        "pl": "Może Złoty Medalion...?"
+      },
+      "Hints/Hint Zephyr 2 HexNovel": {
+        "en": "Maybe Hex of the Helmsman...?",
+        "pl": "Może Klątwa Sternika...?"
+      },
+      "Hints/Hint Zephyr 2 IllusionistPoster": {
+        "en": "Maybe the Illusion Poster...?",
+        "pl": "Może Plakat Iluzjonisty...?"
+      },
+      "Hints/Hint Zephyr 2 IronBell": {
+        "en": "Maybe the Iron Bell...?",
+        "pl": "Może Żelazny Dzwon...?"
+      },
+      "Hints/Hint Zephyr 2 MermaidPainting": {
+        "en": "Maybe the HER Painting...?",
+        "pl": "Może Obraz 'ONA'...?"
+      },
+      "Hints/Hint Zephyr 2 NewspaperPage": {
+        "en": "Maybe the Newspaper Page...?",
+        "pl": "Może Strona Gazety...?"
+      },
+      "Hints/Hint Zephyr 2 OceanMap": {
+        "en": "Maybe the Ocean Map...?",
+        "pl": "Może Mapa Oceanu...?"
+      },
+      "Hints/Hint Zephyr 2 UnderwaterPhoto": {
+        "en": "Maybe the Underwater Photo...?",
+        "pl": "Może Zdjęcie Podwodne...?"
+      },
+      "Hints/Hint Zephyr 3 No Prompt": {
+        "en": "Nothing comes to mind...",
+        "pl": "Nic nie przychodzi mi do głowy..."
+      },
+      "Hints/Hint Zephyr Lets examines clues in case file": {
+        "en": "Let's examine the clues in our Case File...",
+        "pl": "Przejrzyjmy dowody w naszych Aktach Sprawy..."
+      },
+      "Hints/Hint Zephyr Lets explore the Cargo Hold": {
+        "en": "Let's explore the Cargo Hold...",
+        "pl": "Zbadajmy Ładownię..."
+      },
+      "Hints/Hint Zephyr Lets explore the Childs Room": {
+        "en": "Let's explore the Child's Room...",
+        "pl": "Zbadajmy Pokój Dziecięcy..."
+      },
+      "Hints/Hint Zephyr Lets explore the Dream Chamber": {
+        "en": "Let's explore the Dream Chamber...",
+        "pl": "Zbadajmy Komnatę Snów..."
+      },
+      "Hints/Hint Zephyr Lets explore the Illusion Theatre": {
+        "en": "Let's explore the Illusion Theatre...",
+        "pl": "Zbadajmy Teatr Iluzji..."
+      },
+      "Hints/Hint Zephyr Lets explore the submarine": {
+        "en": "Let's explore the submarine...",
+        "pl": "Zbadajmy łódź podwodną..."
+      },
+      "Hints/Hint Zephyr Lets talk to Mariana": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą..."
+      },
+      "Hints/Hint Zephyr Lets talk to Zephyr": {
+        "en": "Let's talk to Zephyr...",
+        "pl": "Porozmawiajmy z Zephyrem..."
+      },
+      "Hints/Hint Zephyr Lets talk to others about Zephyr": {
+        "en": "Let's talk to others about Zephyr...",
+        "pl": "Porozmawiajmy z innymi o Zephyrze..."
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

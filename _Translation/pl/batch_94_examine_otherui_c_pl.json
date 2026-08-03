@@ -1,0 +1,316 @@
+{
+  "_meta": {
+    "batch": "Examine - OTHER_UI czesc C (55 terminow) - OSTATNIA partia kategorii 'Examine' (2711/2711 terminow po tym batchu = 100% KOMPLETNE). Zawiera menu systemowe (Quit Game, Reset Puzzle), sceny fabularne (podsluchana klotnia w Salonie, uzycie fajki-dyktafonu jako odtwarzacza), oraz zagadke z plaskorzezba Felicii (twarz/naszyjnik/miecz/slonce/tabliczka).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "MessHallWhereisEveryone": {
+      "Examine/MessHallWhereisEveryone/Section ds0": {
+        "en": "Uh, where did everyone go?",
+        "pl": "Yy, gdzie wszyscy poszli?",
+        "speaker": "Sally"
+      },
+      "Examine/MessHallWhereisEveryone/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MessHallWhereisEveryone/Section ds3": {
+        "en": "I can hear them arguing... I think they're above us.",
+        "pl": "Słyszę, jak się kłócą... chyba są nad nami.",
+        "speaker": "Sally"
+      },
+      "Examine/MessHallWhereisEveryone/Section ds4": {
+        "en": "-in the Parlor? What's going on?",
+        "pl": "-w Salonie? Co się dzieje?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MessHallWhereisEveryone/Section ds6": {
+        "en": "Wait - do you hear that?",
+        "pl": "Czekaj - słyszysz to?",
+        "speaker": "Sally"
+      },
+      "Examine/MessHallWhereisEveryone/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Quit Game": {
+      "Examine/Quit Game/Section ds0": {
+        "en": "Quit to the title screen?\n(Progress is autosaved)",
+        "pl": "Wyjść do ekranu tytułowego?\n(Postęp jest zapisywany automatycznie)",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Quit Game/Section ds0 Choice 1": {
+        "en": "Quit",
+        "pl": "Wyjdź",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Quit Game/Section ds0 Choice 2": {
+        "en": "Don't Quit",
+        "pl": "Nie wychodź",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Quit Game/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "QuitTheGame": {
+      "Examine/QuitTheGame/Section ds0": {
+        "en": "Quit the game?",
+        "pl": "Wyjść z gry?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/QuitTheGame/Section ds0 Choice 1": {
+        "en": "Quit",
+        "pl": "Wyjdź",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/QuitTheGame/Section ds0 Choice 2": {
+        "en": "Don't Quit",
+        "pl": "Nie wychodź",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/QuitTheGame/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "ReadyReportToSinthia": {
+      "Examine/ReadyReportToSinthia/Section ds0": {
+        "en": "I think it's finally time to make our 'report' to Sinthia.",
+        "pl": "Myślę, że w końcu czas na nasz 'raport' dla Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Examine/ReadyReportToSinthia/Section ds1": {
+        "en": "She'll be thrilled.",
+        "pl": "Będzie zachwycona.",
+        "speaker": "Sally"
+      },
+      "Examine/ReadyReportToSinthia/Section ds1 Choice 1": {
+        "en": "Go to Control Room",
+        "pl": "Idź do Centrali Dowodzenia",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/ReadyReportToSinthia/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/ReadyReportToSinthia/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/ReadyReportToSinthia/Section ds2": {
+        "en": "She'll be thrilled.",
+        "pl": "Będzie zachwycona.",
+        "speaker": "Sally"
+      }
+    },
+    "RedSkyRecommendMessHall": {
+      "Examine/RedSkyRecommendMessHall/Section ds17": {
+        "en": "...I thought we were [i]avoiding[/i] it. Everyone's [i]in[/i] there right now.",
+        "pl": "...myślałem, że tego [i]unikamy.[/i] Wszyscy są tam teraz [i]w środku.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/RedSkyRecommendMessHall/Section ds18": {
+        "en": "You know, maybe we should go back to the Mess Hall...",
+        "pl": "Wiesz, może powinniśmy wrócić do Mesy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/RedSkyRecommendMessHall/Section ds19": {
+        "en": "Yeah, well, that's [i]exactly[/i] why it might be useful...",
+        "pl": "No cóż, właśnie [i]dlatego[/i] to może być przydatne...",
+        "speaker": "Grimoire"
+      },
+      "Examine/RedSkyRecommendMessHall/Section ds19 Choice 1": {
+        "en": "Go to Mess Hall",
+        "pl": "Idź do Mesy",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RedSkyRecommendMessHall/Section ds19 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RedSkyRecommendMessHall/Section ds19 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Reset Puzzle Grim": {
+      "Examine/Reset Puzzle Grim/Section ds0": {
+        "en": "Reset the puzzle?",
+        "pl": "Zresetować zagadkę?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Reset Puzzle Grim/Section ds0 Choice 1": {
+        "en": "Reset",
+        "pl": "Resetuj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Reset Puzzle Grim/Section ds0 Choice 2": {
+        "en": "Cancel",
+        "pl": "Anuluj",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Reset Puzzle Grim/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Sinthia pig back": {
+      "Examine/Sinthia pig back/Section ds0": {
+        "en": "These ones aren't buttons - it's just some kind of display.",
+        "pl": "Te nie są przyciskami - to tylko jakiś wyświetlacz.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "UnlockedSymSinthiaRoom": {
+      "Examine/UnlockedSymSinthiaRoom/Section ds1": {
+        "en": "We should be able to get into Sym and Sinthia's bunk room now.",
+        "pl": "Powinniśmy teraz móc dostać się do pokoju z pryczami Sym i Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Examine/UnlockedSymSinthiaRoom/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/UnlockedSymSinthiaRoom/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/UnlockedSymSinthiaRoom/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/UnlockedSymSinthiaRoom/Section ds2": {
+        "en": "Oh - right, I almost forgot.",
+        "pl": "Och - racja, prawie zapomniałem.",
+        "speaker": "Sally"
+      }
+    },
+    "WoodenPipe Use": {
+      "Examine/WoodenPipe Use/Section ds0": {
+        "en": "Sally - despite what you may have read in popular detective fiction - this is [i]no[/i] time to smoke a pipe.",
+        "pl": "Sally - bez względu na to, co czytałaś w popularnych powieściach detektywistycznych - to [i]nie[/i] jest czas na palenie fajki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/WoodenPipe Use/Section ds1": {
+        "en": "I'm not gonna smoke it. I wanna listen to it.",
+        "pl": "Nie zamierzam jej palić. Chcę jej posłuchać.",
+        "speaker": "Sally"
+      },
+      "Examine/WoodenPipe Use/Section ds3": {
+        "en": "You - what?",
+        "pl": "Ty - co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/WoodenPipe Use/Section ds6": {
+        "en": "It's a little tape player.",
+        "pl": "To mały odtwarzacz kaset.",
+        "speaker": "Sally"
+      }
+    },
+    "e_puzzle_felicia_done": {
+      "Examine/e_puzzle_felicia_done/Section ds0": {
+        "en": "The sun was upside down!",
+        "pl": "Słońce było do góry nogami!",
+        "speaker": "Sally"
+      },
+      "Examine/e_puzzle_felicia_done/Section ds1": {
+        "en": "Do you hear something?",
+        "pl": "Słyszysz coś?",
+        "speaker": "Grimoire"
+      }
+    },
+    "e_puzzle_felicia_face": {
+      "Examine/e_puzzle_felicia_face/Section ds0": {
+        "en": "It's Felicia's face.",
+        "pl": "To twarz Felicii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/e_puzzle_felicia_face/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "e_puzzle_felicia_necklace": {
+      "Examine/e_puzzle_felicia_necklace/Section ds0": {
+        "en": "It's Felicia's necklace.",
+        "pl": "To naszyjnik Felicii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/e_puzzle_felicia_necklace/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "e_puzzle_felicia_plaque": {
+      "Examine/e_puzzle_felicia_plaque/Section ds0": {
+        "en": "It's the name plaque.",
+        "pl": "To tabliczka z imieniem.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/e_puzzle_felicia_plaque/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "e_puzzle_felicia_sun": {
+      "Examine/e_puzzle_felicia_sun/Section ds0": {
+        "en": "...is that the sun?",
+        "pl": "...czy to słońce?",
+        "speaker": "Sally"
+      },
+      "Examine/e_puzzle_felicia_sun/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/e_puzzle_felicia_sun/Section ds1 Choice 1": {
+        "en": "Rotate it",
+        "pl": "Obróć to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/e_puzzle_felicia_sun/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/e_puzzle_felicia_sun/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "e_puzzle_felicia_sword": {
+      "Examine/e_puzzle_felicia_sword/Section ds0": {
+        "en": "It's Felicia's sword.",
+        "pl": "To miecz Felicii.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/e_puzzle_felicia_sword/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

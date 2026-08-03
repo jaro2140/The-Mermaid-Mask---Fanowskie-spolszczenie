@@ -1,0 +1,774 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja ControlRoom/Centrala Dowodzenia (139 terminow, ~24 mikroscen) - mostek/sterownia lodzi podwodnej. Zawiera mechanike kompasu (Present a Clue), sceny z zazdrosnie strzegacym plaszczem kapitanskim (Sinthia) i tajemniczym przelacznikiem, oraz interakcje z panelem sterowania (dzwignie, radar, glebokosciomierz, predkosciomierz).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Sinthia rozpoznana jako mowca w scenach CaptainsJacket 1 i jacketswitch (protektorka plaszcza/przelacznika kapitanskiego, zgodnie z jej rola kapitana lodzi ustalona we wczesniejszych batchach)."
+  },
+  "categories": {
+    "Exam_Area_ControlRoom_AfterReport": {
+      "Examine/Exam_Area_ControlRoom_AfterReport/Section ds0": {
+        "en": "I guess we'd better go.",
+        "pl": "Chyba lepiej już pójdźmy.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ControlRoom_BG": {
+      "Examine/Exam_Area_ControlRoom_BG/Section ds0": {
+        "en": "Wait-",
+        "pl": "Czekaj-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_BG/Section ds1": {
+        "en": "Ah, well, you know, it's uh... [mumbling]",
+        "pl": "Ach, cóż, wiesz, to yy... [mamrocze]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_BG/Section ds2": {
+        "en": "Uh, what's the difference?",
+        "pl": "Yy, jaka jest różnica?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_BG/Section ds3": {
+        "en": "What's that?",
+        "pl": "Co takiego?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_BG/Section ds4": {
+        "en": "[mumbling]\n...and [h]that's[/h] the difference.",
+        "pl": "[mamrocze]\n...i [h]na tym[/h] polega różnica.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_BG/Section ds5": {
+        "en": "Should we be calling this the control room... or - [i]the bridge?[/i]",
+        "pl": "Czy powinniśmy nazywać to centralą dowodzenia... czy - [i]mostkiem?[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_CaptainsJacket 1": {
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 1/Section ds0": {
+        "en": "Fine...",
+        "pl": "Dobra...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 1/Section ds1": {
+        "en": "Don't touch that please! It's behind glass for a [i]reason...[/i]",
+        "pl": "Proszę tego nie dotykać! Jest za szkłem nie bez [i]powodu...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 1/Section ds2": {
+        "en": "It is a garment of [h]great[/h] historical significance - and must be preserved.",
+        "pl": "To strój o [h]wielkim[/h] znaczeniu historycznym - i musi być zachowany.",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 1/Section ds3": {
+        "en": "What... if we just look at it?\nFrom a distance?",
+        "pl": "A co... jeśli po prostu na to popatrzymy?\nZ daleka?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_CaptainsJacket 2": {
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds1": {
+        "en": "There's an electronic panel over here... some kind of switch, maybe?",
+        "pl": "Jest tu jakiś elektroniczny panel... może jakiś przełącznik?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds1 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds5": {
+        "en": "Now Sinthia's not here, we could finally take a closer look at that jacket...",
+        "pl": "Skoro Sinthii tu nie ma, moglibyśmy wreszcie przyjrzeć się bliżej temu płaszczowi...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds6": {
+        "en": "We could, but it's still locked behind glass.",
+        "pl": "Moglibyśmy, ale wciąż jest zamknięty za szkłem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 2/Section ds7": {
+        "en": "There must be [h]some[/h] way to get at it.",
+        "pl": "Musi być [h]jakiś[/h] sposób, żeby się do niego dostać.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_CaptainsJacket 4": {
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 4/Section ds0": {
+        "en": "Oh - hey - there's something bulky in here.",
+        "pl": "Och - hej - jest tu coś nieporęcznego.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 4/Section ds2": {
+        "en": "Well, almost.",
+        "pl": "No, prawie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 4/Section ds3": {
+        "en": "Oh - it's a radio!",
+        "pl": "Och - to radio!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 4/Section ds4": {
+        "en": "It's just like that one we found in the captain's cabin...",
+        "pl": "Zupełnie jak to, które znaleźliśmy w kajucie kapitańskiej...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 4/Section ds7": {
+        "en": "I've been dying to check in the pockets of this thing...",
+        "pl": "Umierałam z chęci, żeby sprawdzić kieszenie tej rzeczy...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_CaptainsJacket 5": {
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 5/Section ds1": {
+        "en": "It's the Captain's Jacket. We found a radio in the pocket.",
+        "pl": "To Płaszcz Kapitana. Znaleźliśmy radio w kieszeni.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 5/Section ds1 Choice 1": {
+        "en": "Captain's Jacket",
+        "pl": "Płaszcz Kapitana",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 5/Section ds1 Choice 2": {
+        "en": "Handheld Radio",
+        "pl": "Radio Przenośne",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 5/Section ds1 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_CaptainsJacket 5/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_SwitchboardEnd": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardEnd/Section ds1": {
+        "en": "The hatch opened!",
+        "pl": "Właz się otworzył!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardEnd/Section ds2": {
+        "en": "Something unlocked.",
+        "pl": "Coś się odblokowało.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_SwitchboardStart": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds0": {
+        "en": "It's an electrical switchboard.",
+        "pl": "To elektryczna tablica rozdzielcza.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds1": {
+        "en": "Uh, if we carefully and sensibly interact with this precision equipment.",
+        "pl": "Yy, jeśli będziemy ostrożnie i rozsądnie obchodzić się z tym precyzyjnym sprzętem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds1 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_SwitchboardStart/Section ds2": {
+        "en": "Something's [h]bound[/h] to happen if we mess arou-",
+        "pl": "Coś [h]na pewno[/h] się stanie, jeśli będziemy tu maj-",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_audio": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_audio/Section ds0": {
+        "en": "It's a kind of waveform.",
+        "pl": "To coś w rodzaju przebiegu fali.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_audio/Section ds1": {
+        "en": "I think this is for listening to the ocean.",
+        "pl": "Chyba to służy do nasłuchiwania oceanu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_audio/Section ds2": {
+        "en": "What are they expecting to hear...?",
+        "pl": "Czego się spodziewają usłyszeć...?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_bg": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_bg/Section ds1": {
+        "en": "Yeah. It's mostly a bunch of measurements and readings.",
+        "pl": "Tak. To głównie stos pomiarów i odczytów.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_bg/Section ds2": {
+        "en": "Not a whole lot of actual controls...",
+        "pl": "Nie ma tu zbyt wielu prawdziwych sterowników...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_compass slot": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_compass slot/Section ds0": {
+        "en": "Looks like something's missing here.",
+        "pl": "Wygląda na to, że czegoś tu brakuje.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_compass slot/Section ds1": {
+        "en": "Something with three small holes...",
+        "pl": "Czegoś z trzema małymi otworami...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_compass slot/Section ds2": {
+        "en": "Bowling ball??",
+        "pl": "Kula do kręgli??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_compass slot/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_compass slot/Section ds4": {
+        "en": "Coconut??",
+        "pl": "Kokos??",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_depth meter": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_depth meter/Section ds0": {
+        "en": "Grimoire.\nIf [h]you[/h] had a depth meter...\nIt would say zero.",
+        "pl": "Grimoire.\nGdybyś [h]ty[/h] miał głębokościomierz...\nPokazywałby zero.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_depth meter/Section ds1": {
+        "en": "It's a depth meter.\nShows how deep we are.",
+        "pl": "To głębokościomierz.\nPokazuje, jak głęboko jesteśmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_depth meter/Section ds2": {
+        "en": "Proud of that one?",
+        "pl": "Dumny z tego dowcipu?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_depth meter/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_depth meter/Section ds4": {
+        "en": "Hoo, wow.",
+        "pl": "Hoo, ojej.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_dials": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_dials/Section ds0": {
+        "en": "These look like the dials on my oven.",
+        "pl": "Te wyglądają jak pokrętła w moim piekarniku.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_dials/Section ds1": {
+        "en": "You don't have an oven...",
+        "pl": "Nie masz piekarnika...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_dials/Section ds2": {
+        "en": "I meant my microwave.",
+        "pl": "Miałam na myśli mikrofalówkę.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_dials/Section ds3": {
+        "en": "[i]Well.[/i]\nNow I just feel bad.",
+        "pl": "[i]Cóż.[/i]\nTeraz czuję się źle.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_log card": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_log card/Section ds0": {
+        "en": "A little card came out.",
+        "pl": "Wysunęła się mała karta.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_log card/Section ds1": {
+        "en": "It's got a bunch of numbers printed on it.",
+        "pl": "Wydrukowano na niej mnóstwo liczb.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_log card/Section ds2": {
+        "en": "Oh. I guess it shows the daily readings for the depth, the spedometer and the heading.",
+        "pl": "Och. Chyba pokazuje dzienne odczyty głębokości, prędkości i kursu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_log card/Section ds3": {
+        "en": "I wonder why you'd need that.",
+        "pl": "Zastanawiam się, po co by to było potrzebne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_log card/Section ds4": {
+        "en": "...insurance purposes maybe?",
+        "pl": "...może do celów ubezpieczeniowych?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_logbook": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_logbook/Section ds0": {
+        "en": "It's a ring-bound book.",
+        "pl": "To książka na spirali.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_printed photo": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_printed photo/Section ds0": {
+        "en": "A sheet of glossy paper came out.",
+        "pl": "Wysunął się arkusz błyszczącego papieru.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_printed photo/Section ds1": {
+        "en": "I think this is how they print out stuff they see with the radar machine...",
+        "pl": "Chyba w ten sposób drukują to, co widzą za pomocą radaru...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_printed photo/Section ds2": {
+        "en": "So... is there anything on it?\nDid it see anything?",
+        "pl": "Więc... czy coś na nim jest?\nCoś to zobaczyło?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_printed photo/Section ds3": {
+        "en": "No. Nothing.",
+        "pl": "Nie. Nic.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_printed photo/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_radar": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_radar/Section ds0": {
+        "en": "A radar?\nMaybe some kind of underwater imaging system?",
+        "pl": "Radar?\nMoże jakiś system obrazowania podwodnego?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_radar/Section ds3": {
+        "en": "Either way, it's a machine that looks out into the ocean.",
+        "pl": "Tak czy inaczej, to maszyna, która spogląda w głąb oceanu.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_red lever": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_red lever/Section ds1": {
+        "en": "It's a lever.",
+        "pl": "To dźwignia.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_red lever/Section ds1 Choice 1": {
+        "en": "Pull it",
+        "pl": "Pociągnij ją",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_red lever/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw ją",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_red lever/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_red lever done": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_red lever done/Section ds1": {
+        "en": "It's a lever.",
+        "pl": "To dźwignia.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_spedometer": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_spedometer/Section ds0": {
+        "en": "I think this one's a spedometer.",
+        "pl": "Chyba to jest prędkościomierz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_spedometer/Section ds1": {
+        "en": "We're not going very fast...",
+        "pl": "Nie jedziemy zbyt szybko...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_spedometer/Section ds2": {
+        "en": "[i]Good??[/i]",
+        "pl": "[i]To dobrze??[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_yellow lever": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_yellow lever/Section ds1": {
+        "en": "It's a lever.",
+        "pl": "To dźwignia.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_yellow lever/Section ds1 Choice 1": {
+        "en": "Pull it",
+        "pl": "Pociągnij ją",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_yellow lever/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw ją",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_ControlPanel_yellow lever/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_ControlRoom_ControlPanel_yellow lever done": {
+      "Examine/Exam_Area_ControlRoom_ControlPanel_yellow lever done/Section ds1": {
+        "en": "It's a lever.",
+        "pl": "To dźwignia.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_ControlRoom_FixedCompass 1": {
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Request exitClueRequest0Hint0": {
+        "en": "We don't know which way North is...",
+        "pl": "Nie wiemy, w którą stronę jest północ...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds1": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds10": {
+        "en": "And, uh - Silkwirm would be [i]which[/i] way?",
+        "pl": "I, yy - Silkwirm byłby w [i]którą[/i] stronę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds11": {
+        "en": "Let's just... head back to Silkwirm, shall we? Get everyone off this submarine.",
+        "pl": "Po prostu... wróćmy do Silkwirm, dobrze? Zabierzmy wszystkich z tej łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds12": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds13": {
+        "en": "Remarkable...",
+        "pl": "Niezwykłe...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds4 Choice 1": {
+        "en": "Present a Clue",
+        "pl": "Przedstaw trop",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds4 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds5": {
+        "en": "No stars, no moon...",
+        "pl": "Żadnych gwiazd, żadnego księżyca...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds7": {
+        "en": "We got [i]moved[/i], I - I don't know where we are...",
+        "pl": "Zostaliśmy [i]przesunięci[/i], ja - nie wiem, gdzie jesteśmy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 1/Section ds9": {
+        "en": "I don't know where - I don't know which way [i]North[/i] is.",
+        "pl": "Nie wiem gdzie - nie wiem, w którą stronę jest [i]północ[/i].",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_FixedCompass 2": {
+      "Examine/Exam_Area_ControlRoom_FixedCompass 2/Section ds10": {
+        "en": "He-",
+        "pl": "On-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 2/Section ds2": {
+        "en": "He fixed it.",
+        "pl": "Naprawił to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_FixedCompass 2/Section ds8": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_Periscope": {
+      "Examine/Exam_Area_ControlRoom_Periscope/Section ds0": {
+        "en": "Down periscope!",
+        "pl": "Peryskop w dół!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_Periscope/Section ds1": {
+        "en": "Down periscope!",
+        "pl": "Peryskop w dół!",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_Wheel": {
+      "Examine/Exam_Area_ControlRoom_Wheel/Section ds0": {
+        "en": "That was [h]not[/h] convincing.",
+        "pl": "To [h]nie[/h] było przekonujące.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_Wheel/Section ds1": {
+        "en": "Ah - the ship's wheel...",
+        "pl": "Ach - koło sterowe...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_Wheel/Section ds4": {
+        "en": "Don't touch it.",
+        "pl": "Nie dotykaj go.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_Wheel/Section ds5": {
+        "en": "I won't...",
+        "pl": "Nie będę...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_Window": {
+      "Examine/Exam_Area_ControlRoom_Window/Section ds0": {
+        "en": "You can see out into the ocean.",
+        "pl": "Widać stąd ocean.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_Window/Section ds1": {
+        "en": "Anything out there?",
+        "pl": "Coś tam jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_Window/Section ds2": {
+        "en": "Uh-huh.",
+        "pl": "Aha.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_Window/Section ds3": {
+        "en": "What is it?",
+        "pl": "Co to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_Window/Section ds4": {
+        "en": "Whole lotta water.",
+        "pl": "Cała masa wody.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_blueprint": {
+      "Examine/Exam_Area_ControlRoom_blueprint/Section ds0": {
+        "en": "Currently being [h]used[/h] for arts and crafts.",
+        "pl": "Obecnie [h]wykorzystywany[/h] do prac plastycznych.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_blueprint/Section ds1": {
+        "en": "It's a normal table.",
+        "pl": "To zwykły stół.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_blueprint/Section ds2": {
+        "en": "There's even an arts and crafts table-",
+        "pl": "Jest nawet stół do prac plastycznych-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_chaircontract1": {
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds0": {
+        "en": "That's not a label.\nIt's a whole [h]document...[/h]",
+        "pl": "To nie jest etykieta.\nTo cały [h]dokument...[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds1": {
+        "en": "It's a throne.",
+        "pl": "To tron.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds2": {
+        "en": "It's not a [i]throne.[/i]",
+        "pl": "To nie jest [i]tron.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds3": {
+        "en": "Well - what is it?",
+        "pl": "No to - co to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds4": {
+        "en": "The captain's... control... chair.",
+        "pl": "Kapitański... fotel... dowódczy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds5": {
+        "en": "There's a label taped to the back - maybe it [h]says[/h] what kind of chair it is.",
+        "pl": "Z tyłu przyklejona jest etykieta - może [h]mówi[/h], jaki to rodzaj fotela.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_chaircontract1/Section ds6": {
+        "en": "Well, it's uh-",
+        "pl": "Cóż, to yy-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_controlpanel1": {
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds0": {
+        "en": "I will make no such promise.",
+        "pl": "Nie złożę takiej obietnicy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds0 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds1": {
+        "en": "Can we look at the control panel?",
+        "pl": "Możemy spojrzeć na panel sterowania?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_controlpanel1/Section ds2": {
+        "en": "If you promise not to press any of the buttons.",
+        "pl": "Jeśli obiecasz, że nie naciśniesz żadnego z przycisków.",
+        "speaker": "Sinthia"
+      }
+    },
+    "Exam_Area_ControlRoom_jacketswitch": {
+      "Examine/Exam_Area_ControlRoom_jacketswitch/Section ds0": {
+        "en": "What does this do?",
+        "pl": "Co to robi?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_jacketswitch/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_ControlRoom_jacketswitch/Section ds2": {
+        "en": "[h]Nothing![/h]",
+        "pl": "[h]Nic![/h]",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_ControlRoom_jacketswitch/Section ds3": {
+        "en": "[i]So she basically just confirmed it does something, right?[/i]",
+        "pl": "[i]Czyli w zasadzie właśnie potwierdziła, że to coś robi, prawda?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_jacketswitch/Section ds4": {
+        "en": "[i]Oh yeah.\nBig time.[/i]",
+        "pl": "[i]O tak.\nI to jak.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_mural": {
+      "Examine/Exam_Area_ControlRoom_mural/Section ds0": {
+        "en": "Hey, there's a mosaic on the wall here.",
+        "pl": "Hej, tu na ścianie jest mozaika.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_mural/Section ds1": {
+        "en": "Nope. It's a mural.",
+        "pl": "Nie. To fresk.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_mural/Section ds2": {
+        "en": "[h]Rats.[/h]",
+        "pl": "[h]A niech to.[/h]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ControlRoom_platform": {
+      "Examine/Exam_Area_ControlRoom_platform/Section ds0": {
+        "en": "There's a whole raised dais here...",
+        "pl": "Jest tu całe podwyższenie...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_platform/Section ds1": {
+        "en": "What's that symbol in the middle of the floor? An eight?",
+        "pl": "Co to za symbol na środku podłogi? Ósemka?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_platform/Section ds2": {
+        "en": "No, it's an S.",
+        "pl": "Nie, to S.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ControlRoom_wires": {
+      "Examine/Exam_Area_ControlRoom_wires/Section ds0": {
+        "en": "Careful not to trip on those wires.",
+        "pl": "Uważaj, żeby nie potknąć się o te kable.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_wires/Section ds1": {
+        "en": "I won't.",
+        "pl": "Nie potknę się.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ControlRoom_wires/Section ds2": {
+        "en": "You won't be careful?",
+        "pl": "Nie będziesz uważać?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ControlRoom_wires/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

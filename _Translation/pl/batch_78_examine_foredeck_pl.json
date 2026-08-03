@@ -1,0 +1,599 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja ForeDeck/Poklad Dziobowy (107 terminow, ~22 mikroscen) - pierwsza lokacja gry (wejscie na lodz podwodna) oraz jej powtorna wersja po wyplynieciu na powierzchnie pod koniec gry (Resurface_*). Zawiera zagadkowa scene MermaidVoice ze zniekstalconym glosem, mechanike boi/zielonego swiatla, oraz przemalowana nazwe lodzi Seafoam->Mortuga.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci.",
+    "uwagi_tlumaczeniowe": "Dwie gry slowne bez bezposredniego odpowiednika w polskim zaadaptowane funkcjonalnie: (1) 'buoy' pronunciation joke (Resurface_buoy ds11-14) - PO PRZEGLADZIE LQA (2026-07-25, v38): spor o wymowe 'bo-j'/'bu-i'; (2) 'bay vs gulf' geografia (rock ds10-12) - PO PRZEGLADZIE LQA: 'zwykla zatoka vs wielka zatoka'; (3) 'poop deck' pun (aft ds2-3) - PO PRZEGLADZIE LQA: 'pokladem zadnim' (odtwarza efekt 'poprawny termin brzmi smiesznie/niezrecznie'). Pelna analiza i historia zmian: Docs/LQA_HUMOR_WORDPLAY_REVIEW.md."
+  },
+  "categories": {
+    "Exam_Area_ForeDeck_CantEscape": {
+      "Examine/Exam_Area_ForeDeck_CantEscape/Section ds4": {
+        "en": "Let's take a look around first.",
+        "pl": "Rozejrzyjmy się najpierw.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_MermaidVoice": {
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds0": {
+        "en": "[i]What[/i] did you say?",
+        "pl": "[i]Co[/i] powiedziałeś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds10": {
+        "en": "...are you okay?",
+        "pl": "...wszystko w porządku?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds11": {
+        "en": "-Yeah.",
+        "pl": "-Tak.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds13": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds14": {
+        "en": "[h]?..[/h]    [i]??[/i] ?. .    .   ",
+        "pl": "[h]?..[/h]    [i]??[/i] ?. .    .   ",
+        "speaker": "(glos znieksztalcony)"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds5": {
+        "en": "Huh?",
+        "pl": "Huh?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds6": {
+        "en": "I didn't understand what you said.",
+        "pl": "Nie zrozumiałem, co powiedziałeś.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds7": {
+        "en": "I didn't say anything.",
+        "pl": "Nic nie powiedziałam.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_MermaidVoice/Section ds8": {
+        "en": "Oh.\nWeird.",
+        "pl": "Och.\nDziwne.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_aft deck": {
+      "Examine/Exam_Area_ForeDeck_Resurface_aft deck/Section ds0": {
+        "en": "Hey - we forgot to go check it out!",
+        "pl": "Hej - zapomnieliśmy tam zajrzeć!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_aft deck/Section ds1": {
+        "en": "We didn't forget - it was [i]underwater[/i] until about two minutes ago.",
+        "pl": "Nie zapomnieliśmy - było [i]pod wodą[/i] jeszcze jakieś dwie minuty temu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_aft deck/Section ds4": {
+        "en": "It's the Aft Deck.",
+        "pl": "To Pokład Rufowy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_aft deck/Section ds5": {
+        "en": "Oh yeah.",
+        "pl": "A tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_bg 1": {
+      "Examine/Exam_Area_ForeDeck_Resurface_bg 1/Section ds0": {
+        "en": "It's the fore deck. Looks about the same as before.",
+        "pl": "To Pokład Dziobowy. Wygląda mniej więcej tak samo jak wcześniej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_bg 1/Section ds1": {
+        "en": "What are we supposed to do now??",
+        "pl": "Co teraz mamy robić??",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_bg 1/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_bg 2": {
+      "Examine/Exam_Area_ForeDeck_Resurface_bg 2/Section ds0": {
+        "en": "It's the fore deck. Looks about the same as before.",
+        "pl": "To Pokład Dziobowy. Wygląda mniej więcej tak samo jak wcześniej.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_boat 1": {
+      "Examine/Exam_Area_ForeDeck_Resurface_boat 1/Section ds2": {
+        "en": "[i]Wait[/i] - you don't think...?",
+        "pl": "[i]Czekaj[/i] - nie sądzisz chyba...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_boat 1/Section ds3": {
+        "en": "It's the rowing boat.\n",
+        "pl": "To ta łódka wiosłowa.\n",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_boat 2": {
+      "Examine/Exam_Area_ForeDeck_Resurface_boat 2/Section ds0": {
+        "en": "I've been in some [i]pretty shabby[/i] rowing boats in my time...",
+        "pl": "Bywałem w swoim czasie w niektórych [i]całkiem nędznych[/i] łódkach wiosłowych...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_boat 2/Section ds3": {
+        "en": "-but even [i]I[/i] have my limits.",
+        "pl": "-ale nawet [i]ja[/i] mam swoje granice.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_buoy": {
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds1": {
+        "en": "Hey buddy. Been a while.",
+        "pl": "Hej, koleżko. Dawno się nie widzieliśmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds10": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds11": {
+        "en": "It's [i]'buoy'[/i], by the way.",
+        "pl": "Tak w ogóle to się czyta [i]'bo-j'.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds12": {
+        "en": "Uh - no, it's [i]'buoy.'[/i]",
+        "pl": "Chyba [i]'bu-i'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds13": {
+        "en": "...agree to disagree?",
+        "pl": "...zgódźmy się, że się nie zgadzamy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds14": {
+        "en": "[i]Disagree[/i] to disagree!",
+        "pl": "[i]Nie zgadzam się[/i], że się nie zgadzamy!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_buoy/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_entrance1": {
+      "Examine/Exam_Area_ForeDeck_Resurface_entrance1/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_entrance2": {
+      "Examine/Exam_Area_ForeDeck_Resurface_entrance2/Section ds0": {
+        "en": "We've got work to do.",
+        "pl": "Mamy robotę do zrobienia.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_entrance2/Section ds0 Choice 1": {
+        "en": "Go back in",
+        "pl": "Wróć do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_entrance2/Section ds0 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_entrance2/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_names": {
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds0": {
+        "en": "This makes a little more sense now.",
+        "pl": "Teraz to ma trochę więcej sensu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds5": {
+        "en": "But who painted the big [i]Mortuga[/i] name on there?",
+        "pl": "Ale kto namalował tam ten wielki napis [i]Mortuga[/i]?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds6": {
+        "en": "You don't think Mortuga would've done it himself?",
+        "pl": "Nie sądzisz, że Mortuga zrobiłby to sam?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds7": {
+        "en": "I don't think so.",
+        "pl": "Nie sądzę.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds8": {
+        "en": "Then I guess it was the guy who rebuilt the submarine.",
+        "pl": "W takim razie chyba zrobił to facet, który przebudował łódź podwodną.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_names/Section ds9": {
+        "en": "Drummond? I think his name was? The shipyard guy.",
+        "pl": "Drummond? Chyba tak się nazywał? Facet ze stoczni.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_sally": {
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds2": {
+        "en": "She can't be serious.",
+        "pl": "Ona nie może mówić poważnie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds3": {
+        "en": "I really don't appreciate being kicked out - she didn't even pay us!",
+        "pl": "Naprawdę nie podoba mi się to wyrzucanie nas - nawet nam nie zapłaciła!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds4": {
+        "en": "We can worry about that later-",
+        "pl": "Możemy się tym martwić później-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds5": {
+        "en": "I don't know if you've noticed, but we're currently [i]stranded[/i] out here.",
+        "pl": "Nie wiem, czy zauważyłeś, ale jesteśmy obecnie [i]uwięzieni[/i] tutaj.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds6": {
+        "en": "Oh yeah...",
+        "pl": "A tak...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sally/Section ds7": {
+        "en": "Wait - so how is Sinthia expecting us to leave the submarine?",
+        "pl": "Czekaj - to jak Sinthia spodziewa się, że opuścimy łódź podwodną?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_sky 1": {
+      "Examine/Exam_Area_ForeDeck_Resurface_sky 1/Section ds0": {
+        "en": "It's sunset. It'll be dark soon.",
+        "pl": "Zachodzi słońce. Niedługo się ściemni.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sky 1/Section ds1": {
+        "en": "We were down there [i]all day[/i] and I barely felt it.",
+        "pl": "Byliśmy tam na dole [i]cały dzień[/i], a ledwie to poczułam.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_Resurface_sky 1/Section ds4": {
+        "en": "...it's hard to keep track of time when you're down there.",
+        "pl": "...trudno śledzić upływ czasu, kiedy jest się tam na dole.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_Resurface_sky 2": {
+      "Examine/Exam_Area_ForeDeck_Resurface_sky 2/Section ds0": {
+        "en": "It's sunset. It'll be dark soon.",
+        "pl": "Zachodzi słońce. Niedługo się ściemni.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_aft": {
+      "Examine/Exam_Area_ForeDeck_aft/Section ds0": {
+        "en": "I can see the other end of the submarine.",
+        "pl": "Widzę drugi koniec łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_aft/Section ds2": {
+        "en": "Presumably that's the aft deck. Also known as the poop deck.",
+        "pl": "Przypuszczalnie to Pokład Rufowy. Zwany też... pokładem zadnim.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_aft/Section ds3": {
+        "en": "-yeah let's go with aft.",
+        "pl": "-tak, zostańmy przy 'rufowym'.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_aft/Section ds4": {
+        "en": "There's another deck back there... that one looks like it's made of wood, though.",
+        "pl": "Jest tam z tyłu jeszcze jeden pokład... ten wygląda jednak, jakby był zrobiony z drewna.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_bg": {
+      "Examine/Exam_Area_ForeDeck_bg/Section ds0": {
+        "en": "So, this is the Mortuga Submarine?",
+        "pl": "Więc to jest Łódź Podwodna Mortugi?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_bg/Section ds1": {
+        "en": "According to the case file, yeah.",
+        "pl": "Według akt sprawy, tak.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_bg/Section ds2": {
+        "en": "And Mortuga is...?",
+        "pl": "A Mortuga to...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_bg/Section ds3": {
+        "en": "He [h]was[/h] the Captain.\nNow he's the murder victim.",
+        "pl": "[h]Był[/h] kapitanem.\nTeraz jest ofiarą morderstwa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_bg/Section ds4": {
+        "en": "Okay, so where's the new captain?",
+        "pl": "Okej, więc gdzie jest nowy kapitan?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_bg/Section ds5": {
+        "en": "Good question.",
+        "pl": "Dobre pytanie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_boat": {
+      "Examine/Exam_Area_ForeDeck_boat/Section ds0": {
+        "en": "An old rowing boat...",
+        "pl": "Stara łódka wiosłowa...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_boat/Section ds2": {
+        "en": "Oar...",
+        "pl": "Wiosło...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_boat/Section ds3": {
+        "en": "Or what?",
+        "pl": "Albo co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_boat/Section ds4": {
+        "en": "[h]Oar.[/h]\nIt only has one oar.",
+        "pl": "[h]Wiosło.[/h]\nMa tylko jedno wiosło.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_boat/Section ds6": {
+        "en": "OH",
+        "pl": "OCH",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_buoy 1": {
+      "Examine/Exam_Area_ForeDeck_buoy 1/Section ds0": {
+        "en": "With a... face.",
+        "pl": "Z... twarzą.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 1/Section ds10": {
+        "en": "An old wooden buoy. ",
+        "pl": "Stara drewniana boja. ",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_buoy 2": {
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds0": {
+        "en": "This is where the green light was coming from...",
+        "pl": "Stąd właśnie dochodziło zielone światło...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds3": {
+        "en": "I noticed it started to fade as soon as we stepped onto the deck.",
+        "pl": "Zauważyłam, że zaczęło gasnąć, gdy tylko weszliśmy na pokład.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds4": {
+        "en": "So it's a buoy that doubles as a lighthouse?",
+        "pl": "Więc to boja, która pełni też funkcję latarni morskiej?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds6": {
+        "en": "The opposite, really.",
+        "pl": "Właściwie to odwrotnie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_buoy 2/Section ds8": {
+        "en": "A lighthouse warns you to stay away, but this thing lured us in.",
+        "pl": "Latarnia ostrzega, żeby trzymać się z daleka, ale ta rzecz nas przywabiła.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_chain": {
+      "Examine/Exam_Area_ForeDeck_chain/Section ds0": {
+        "en": "There's a chain connecting the buoy to the door.",
+        "pl": "Jest łańcuch łączący boję z drzwiami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_chain/Section ds2": {
+        "en": "So when the fore deck is underwater, the buoy floats up above it?",
+        "pl": "Więc kiedy Pokład Dziobowy jest pod wodą, boja unosi się nad nim?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_chain/Section ds3": {
+        "en": "That explains how we saw the green light before the submarine actually surfaced.",
+        "pl": "To wyjaśnia, jak zobaczyliśmy zielone światło, zanim łódź podwodna faktycznie wypłynęła na powierzchnię.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_entrance": {
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds0": {
+        "en": "Does that constitute an invitation...?",
+        "pl": "Czy to stanowi zaproszenie...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds0 Choice 1": {
+        "en": "Go inside",
+        "pl": "Wejdź do środka",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds0 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds2": {
+        "en": "Ready, Sally?",
+        "pl": "Gotowa, Sally?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds3": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds4": {
+        "en": "",
+        "pl": "",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds5": {
+        "en": "There's nobody here..",
+        "pl": "Nikogo tu nie ma..",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds6": {
+        "en": "Somebody must've opened it after the submarine surfaced.",
+        "pl": "Ktoś musiał je otworzyć, gdy łódź wypłynęła na powierzchnię.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_entrance/Section ds7": {
+        "en": "The door's open, though.",
+        "pl": "Drzwi są jednak otwarte.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_names": {
+      "Examine/Exam_Area_ForeDeck_names/Section ds0": {
+        "en": "Looks like it initially said [i]Seafoam[/i], but that got crossed out and now it says [i]Mortuga[/i].",
+        "pl": "Wygląda na to, że pierwotnie było napisane [i]Seafoam[/i], ale zostało przekreślone i teraz jest napisane [i]Mortuga[/i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_names/Section ds2": {
+        "en": "It's the wrong way around...",
+        "pl": "To jest na odwrót...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_names/Section ds3": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_names/Section ds4": {
+        "en": "Take another look at the case file.",
+        "pl": "Spójrz jeszcze raz na akta sprawy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_names/Section ds5": {
+        "en": "I'm getting mutiny vibes from this, I don't know about you.",
+        "pl": "Czuję w tym klimat buntu na pokładzie, nie wiem jak ty.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_puddle": {
+      "Examine/Exam_Area_ForeDeck_puddle/Section ds0": {
+        "en": "Those are some big puddles, considering it's only slightly raining.",
+        "pl": "To są całkiem duże kałuże, jak na to, że pada tylko lekki deszcz.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_puddle/Section ds2": {
+        "en": "Yes. However, five minutes ago, the fore deck was underwater.",
+        "pl": "Tak. Jednakże pięć minut temu Pokład Dziobowy był pod wodą.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_puddle/Section ds3": {
+        "en": "Right.",
+        "pl": "No tak.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_rock": {
+      "Examine/Exam_Area_ForeDeck_rock/Section ds0": {
+        "en": "The coastal rocks that curve around the bay of Silkwirm-on-Sea.",
+        "pl": "Nadbrzeżne skały, które okalają zatokę Silkwirm-on-Sea.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_rock/Section ds10": {
+        "en": "Wait - is it a bay or a gulf?",
+        "pl": "Czekaj - to zwykła zatoka czy wielka zatoka?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_rock/Section ds11": {
+        "en": "A gulf would be deeper. More enclosed.",
+        "pl": "Wielka zatoka byłaby cóż... głębsza. Bardziej zamknięta.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_rock/Section ds12": {
+        "en": "Uh... secret geography nerd??",
+        "pl": "Yy... tajny maniak geografii??",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_ForeDeck_sail": {
+      "Examine/Exam_Area_ForeDeck_sail/Section ds0": {
+        "en": "It's the bit that... sticks out of the top of the submarine.",
+        "pl": "To ta część, która... wystaje z góry łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_sail/Section ds2": {
+        "en": "It's called the sail - or sometimes the [i]fairwater.[/i]",
+        "pl": "Nazywa się to kiosk - albo czasem [i]nadbudówka dziobowa.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_sail/Section ds3": {
+        "en": "Wait - you know [i]submarine words??[/i]",
+        "pl": "Czekaj - ty znasz [i]słownictwo okrętów podwodnych??[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_sail/Section ds4": {
+        "en": "Apparently so!",
+        "pl": "Najwyraźniej tak!",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_ForeDeck_sky": {
+      "Examine/Exam_Area_ForeDeck_sky/Section ds0": {
+        "en": "It's dawn. Looks like the sun is trying to come out.",
+        "pl": "Jest świt. Wygląda na to, że słońce próbuje wyjść.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_sky/Section ds2": {
+        "en": "It needn't have bothered. We're not going to be around to see it.",
+        "pl": "Nie musiało się trudzić. I tak nie będzie nas tu, żeby to zobaczyć.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_sky/Section ds3": {
+        "en": "Oh no - how come??",
+        "pl": "O nie - jak to??",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_ForeDeck_sky/Section ds4": {
+        "en": "Because we're going inside the submarine.",
+        "pl": "Bo wchodzimy do środka łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_ForeDeck_sky/Section ds5": {
+        "en": "Oh yeah.",
+        "pl": "A tak.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

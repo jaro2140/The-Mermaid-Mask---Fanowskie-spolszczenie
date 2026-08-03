@@ -1,0 +1,1478 @@
+{
+  "_meta": {
+    "batch": "Souls - cala kategoria (299 terminow) - mechanika 'kartoteki podejrzanych' (Job/Role, From, Skills, Lives, Notes) + zbior zeznan innych postaci o kazdym z 8 glownych podejrzanych i Mortudze (ofierze) + tabela 'Suspicions' (tytul sprawy + 4 kluczowe fakty per podejrzany, analogicznie do juz przetlumaczonego SuspectBoard z Puzzles).",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_souls_en.json)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "speaker_resolution": "Kategoria Souls NIE ma pokrycia w speaker_map.json (jak Examine/Clues/Puzzles). Zeznania o kazdej postaci przypisano kontekstowo wg charakterystycznego rejestru (archaizmy=Symmetry, formalny=Zephyr, wspolczesny/luzny=Dirk, techniczny=Sinthia/Grimoire, bezposredni=Tadpole/Moon, playful=Gripp) - czesc przypisan to najlepsze przyblizenie, nie pewnik."
+  },
+  "categories": {
+    "Names": {
+      "Souls/Names/Anon": {
+        "en": "???",
+        "pl": "???"
+      },
+      "Souls/Names/Blank": {
+        "en": " ",
+        "pl": " "
+      },
+      "Souls/Names/CaptainSeafoam": {
+        "en": "Captain Seafoam",
+        "pl": "Kapitan Seafoam"
+      },
+      "Souls/Names/Dirk": {
+        "en": "Dirk",
+        "pl": "Dirk"
+      },
+      "Souls/Names/Felicia": {
+        "en": "Felicia",
+        "pl": "Felicia"
+      },
+      "Souls/Names/Film": {
+        "en": "Film",
+        "pl": "Film"
+      },
+      "Souls/Names/Godrik": {
+        "en": "Gripp",
+        "pl": "Gripp"
+      },
+      "Souls/Names/Grimoire": {
+        "en": "Grimoire",
+        "pl": "Grimoire"
+      },
+      "Souls/Names/Gripp": {
+        "en": "Gripp",
+        "pl": "Gripp"
+      },
+      "Souls/Names/Mariana": {
+        "en": "Mariana",
+        "pl": "Mariana"
+      },
+      "Souls/Names/Moon": {
+        "en": "Moon",
+        "pl": "Moon"
+      },
+      "Souls/Names/Mortuga": {
+        "en": "Mortuga",
+        "pl": "Mortuga"
+      },
+      "Souls/Names/MrGripp": {
+        "en": "Mr Gripp",
+        "pl": "Pan Gripp"
+      },
+      "Souls/Names/Pipe": {
+        "en": "Pipe",
+        "pl": "Pipe"
+      },
+      "Souls/Names/Sally": {
+        "en": "Sally",
+        "pl": "Sally"
+      },
+      "Souls/Names/Sinthia": {
+        "en": "Sinthia",
+        "pl": "Sinthia"
+      },
+      "Souls/Names/Symmetry": {
+        "en": "Symmetry",
+        "pl": "Symmetry"
+      },
+      "Souls/Names/Tadpole": {
+        "en": "Tadpole",
+        "pl": "Tadpole"
+      },
+      "Souls/Names/Wirman": {
+        "en": "Wirman",
+        "pl": "Wirman"
+      },
+      "Souls/Names/Zephyr": {
+        "en": "Zephyr",
+        "pl": "Zephyr"
+      }
+    },
+    "LongNames": {
+      "Souls/Long Names/Anon": {
+        "en": "???",
+        "pl": "???"
+      },
+      "Souls/Long Names/Blank": {
+        "en": "",
+        "pl": ""
+      },
+      "Souls/Long Names/Dirk": {
+        "en": "Dirk Dansom",
+        "pl": "Dirk Dansom"
+      },
+      "Souls/Long Names/Felicia": {
+        "en": "Felicia Stonetop",
+        "pl": "Felicia Stonetop"
+      },
+      "Souls/Long Names/Film": {
+        "en": "Film",
+        "pl": "Film"
+      },
+      "Souls/Long Names/Godrik": {
+        "en": "Godrik Gripp",
+        "pl": "Godrik Gripp"
+      },
+      "Souls/Long Names/Grimoire": {
+        "en": "Detective Grimoire",
+        "pl": "Detektyw Grimoire"
+      },
+      "Souls/Long Names/Gripp": {
+        "en": "Godrik Gripp",
+        "pl": "Godrik Gripp"
+      },
+      "Souls/Long Names/Moon": {
+        "en": "Mariana Moon",
+        "pl": "Mariana Moon"
+      },
+      "Souls/Long Names/Mortuga": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Souls/Long Names/Pipe": {
+        "en": "Pipe",
+        "pl": "Pipe"
+      },
+      "Souls/Long Names/Sally": {
+        "en": "Sally",
+        "pl": "Sally"
+      },
+      "Souls/Long Names/Sinthia": {
+        "en": "Sinthia Seafoam",
+        "pl": "Sinthia Seafoam"
+      },
+      "Souls/Long Names/Symmetry": {
+        "en": "Symmetry Silkmoth",
+        "pl": "Symmetry Silkmoth"
+      },
+      "Souls/Long Names/Tadpole": {
+        "en": "Madam Tadpole",
+        "pl": "Madam Tadpole"
+      },
+      "Souls/Long Names/Wirman": {
+        "en": "J. D. Wirman",
+        "pl": "J. D. Wirman"
+      },
+      "Souls/Long Names/Zephyr": {
+        "en": "Dr Zephyr",
+        "pl": "Doktor Zephyr"
+      }
+    },
+    "LongNames2": {
+      "Souls/Long Names 2/Anon": {
+        "en": "???",
+        "pl": "???"
+      },
+      "Souls/Long Names 2/Blank": {
+        "en": "",
+        "pl": ""
+      },
+      "Souls/Long Names 2/Dirk": {
+        "en": "Dirk\nDansom",
+        "pl": "Dirk\nDansom"
+      },
+      "Souls/Long Names 2/Felicia": {
+        "en": "Felicia\nStonetop",
+        "pl": "Felicia\nStonetop"
+      },
+      "Souls/Long Names 2/Film": {
+        "en": "Film",
+        "pl": "Film"
+      },
+      "Souls/Long Names 2/Godrik": {
+        "en": "Godrik\nGripp",
+        "pl": "Godrik\nGripp"
+      },
+      "Souls/Long Names 2/Grimoire": {
+        "en": "Detective\nGrimoire",
+        "pl": "Detektyw\nGrimoire"
+      },
+      "Souls/Long Names 2/Gripp": {
+        "en": "Godrik\nGripp",
+        "pl": "Godrik\nGripp"
+      },
+      "Souls/Long Names 2/Moon": {
+        "en": "Mariana\nMoon",
+        "pl": "Mariana\nMoon"
+      },
+      "Souls/Long Names 2/Mortuga": {
+        "en": "Magnus\nMortuga",
+        "pl": "Magnus\nMortuga"
+      },
+      "Souls/Long Names 2/Pipe": {
+        "en": "Pipe",
+        "pl": "Pipe"
+      },
+      "Souls/Long Names 2/Sally": {
+        "en": "Sally",
+        "pl": "Sally"
+      },
+      "Souls/Long Names 2/Sinthia": {
+        "en": "Sinthia\nSeafoam",
+        "pl": "Sinthia\nSeafoam"
+      },
+      "Souls/Long Names 2/Symmetry": {
+        "en": "Symmetry\nSilkmoth",
+        "pl": "Symmetry\nSilkmoth"
+      },
+      "Souls/Long Names 2/Tadpole": {
+        "en": "Madam\nTadpole",
+        "pl": "Madam\nTadpole"
+      },
+      "Souls/Long Names 2/Wirman": {
+        "en": "J. D.\nWirman",
+        "pl": "J. D.\nWirman"
+      },
+      "Souls/Long Names 2/Zephyr": {
+        "en": "Dr Zephyr",
+        "pl": "Doktor Zephyr"
+      }
+    },
+    "Suspicions": {
+      "Souls/Suspicions/Dirk Title": {
+        "en": "The Other Murder",
+        "pl": "Inne Morderstwo"
+      },
+      "Souls/Suspicions/Gripp Title": {
+        "en": "The Curious Case of Cornelius Cane",
+        "pl": "Osobliwy Przypadek Corneliusa Cane"
+      },
+      "Souls/Suspicions/Moon Title": {
+        "en": "The Black Box",
+        "pl": "Czarna Skrzynka"
+      },
+      "Souls/Suspicions/Sinthia Title": {
+        "en": "A Captain's Legacy",
+        "pl": "Dziedzictwo Kapitana"
+      },
+      "Souls/Suspicions/Symmetry Title": {
+        "en": "Ill-Fated Illusion",
+        "pl": "Nieszczęsna Iluzja"
+      },
+      "Souls/Suspicions/Tadpole Title": {
+        "en": "Keeping Secrets",
+        "pl": "Strzegąc Sekretów"
+      },
+      "Souls/Suspicions/Wirman Title": {
+        "en": "Stranger than Fiction",
+        "pl": "Dziwniejsze niż Fikcja"
+      },
+      "Souls/Suspicions/Zephyr Title": {
+        "en": "The Dream Doctor",
+        "pl": "Doktor Snów"
+      }
+    },
+    "Dirk": {
+      "Souls/Text/Dirk/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text1": {
+        "en": "Actor",
+        "pl": "Aktor",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text10": {
+        "en": "No, I'm just here tagging along here with Wirman. He wanted to take a trip out here and I figured - you know, the more the merrier!",
+        "pl": "Nie, po prostu pojechałem tu z Wirmanem. Chciał się tu wybrać, a ja pomyślałem - no wiesz, im więcej, tym weselej!",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Dirk/Text11": {
+        "en": "...look - the studio was worried Wirman was just gonna disappear without ever finishing the book. So, they sent me to keep an eye on him. Maybe even - steer him in the right direction a little bit.",
+        "pl": "...słuchaj - wytwórnia martwiła się, że Wirman po prostu zniknie, nigdy nie kończąc książki. Więc wysłali mnie, żebym miał na niego oko. Może nawet - trochę pokierował go we właściwym kierunku.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Dirk/Text12": {
+        "en": "I noticed Mr Dansom was quite determined to hold conversation with Magnus...",
+        "pl": "Zauważyłem, że Pan Dansom był całkiem zdeterminowany, żeby prowadzić rozmowy z Magnusem...",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Dirk/Text13": {
+        "en": "I noticed Dirk seems to be trying to tell Wirman what to write in his book...",
+        "pl": "Zauważyłam, że Dirk zdaje się próbować mówić Wirmanowi, co ma pisać w swojej książce...",
+        "speaker": "Sally"
+      },
+      "Souls/Text/Dirk/Text14": {
+        "en": "Alone, he's oft espied! Atop our ship, and stood enrob'd in warmer light.",
+        "pl": "Samotny, częstokroć bywa dostrzegany! Na szczycie naszego statku, spowity w cieplejsze światło.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Dirk/Text15": {
+        "en": "He's a good egg, but he's not my type. I don't go in for the boy scout look.",
+        "pl": "To dobry chłopak, ale nie w moim typie. Nie przepadam za wyglądem harcerzyka.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Dirk/Text16": {
+        "en": "I dunno - I heard he didn't get paid that much at all. Something about his contract... his agent...",
+        "pl": "Nie wiem - słyszałem, że wcale nie dostał dużo zapłacone. Coś z jego kontraktem... jego agentem...",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Dirk/Text17": {
+        "en": "He's the actor they found to play the lead in the movie adaptation of my book.",
+        "pl": "To aktor, którego znaleźli, żeby zagrał główną rolę w filmowej adaptacji mojej książki.",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Dirk/Text18": {
+        "en": "But - I was getting nowhere until Mr Van De Peer said he wanted to hire a nobod- an unknown, for his new project.",
+        "pl": "Ale - nie posuwałem się nigdzie, dopóki Pan Van De Peer nie powiedział, że chce zatrudnić jakiegoś niko- nieznanego aktora do swojego nowego projektu.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Dirk/Text19": {
+        "en": "I asked him what it was he'd lost... and he said he couldn't really describe it - but it 'looked a bit like a gun.'",
+        "pl": "Zapytałem go, co takiego zgubił... a on powiedział, że nie potrafi tego dokładnie opisać - ale 'wyglądało trochę jak pistolet.'",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Dirk/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text21": {
+        "en": "Let's talk to Dirk...",
+        "pl": "Porozmawiajmy z Dirkiem...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text22": {
+        "en": "The Other Murder",
+        "pl": "Inne Morderstwo",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text23": {
+        "en": "Dirk uses the cell phone to report back to the movie production company.",
+        "pl": "Dirk używa telefonu komórkowego, żeby zdawać raport wytwórni filmowej.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text24": {
+        "en": "He has a custom antenna to help him get phone signal while out in the ocean.",
+        "pl": "Ma niestandardową antenę, która pomaga mu łapać sygnał telefonu na środku oceanu.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text25": {
+        "en": "He suggested killing off the fictional character of Markus Mordoom.",
+        "pl": "Zasugerował zabicie fikcyjnej postaci Markusa Mordooma.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text26": {
+        "en": "Dirk signed a bad contract and would prefer to be free to work on other projects. ",
+        "pl": "Dirk podpisał zły kontrakt i wolałby być wolny, żeby pracować przy innych projektach.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text3": {
+        "en": "The city",
+        "pl": "Miasto",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text5": {
+        "en": "Social charisma, acting, staying in shape",
+        "pl": "Charyzma towarzyska, aktorstwo, dbanie o formę",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text7": {
+        "en": "Bunk Room - with J. D. Wirman",
+        "pl": "Kajuta Sypialna - z J. D. Wirmanem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Dirk/Text9": {
+        "en": "Dirk played the lead role of Markus Mordoom in 'Hex of the Helmsman' - a movie adaptation of the book by J. D. Wirman",
+        "pl": "Dirk zagrał główną rolę Markusa Mordooma w 'Klątwie Sternika' - filmowej adaptacji książki J. D. Wirmana",
+        "speaker": "narrator"
+      }
+    },
+    "Gripp": {
+      "Souls/Text/Gripp/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text1": {
+        "en": "Proprietor of Mr Gripp's Emporium",
+        "pl": "Właściciel Emporium Pana Grippa",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text10": {
+        "en": "I crashed my hot air balloon into the ocean. Whole thing came down. Dreadful.",
+        "pl": "Rozbiłem swój balon na ogrzane powietrze w oceanie. Całość runęła. Okropne.",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Gripp/Text11": {
+        "en": "But to be pulled from the ocean by Magnus Mortuga himself, and to find that very same map laying on his desk...",
+        "pl": "Ale zostać wyciągniętym z oceanu przez samego Magnusa Mortugę i znaleźć dokładnie tę samą mapę leżącą na jego biurku...",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Gripp/Text12": {
+        "en": "Godrik made some kind of... official request - but Magnus had denied it.",
+        "pl": "Godrik złożył jakiś... oficjalny wniosek - ale Magnus go odrzucił.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Gripp/Text13": {
+        "en": "I especially relished in the task of deciphering and restoring old maps...",
+        "pl": "Szczególnie rozkoszowałem się zadaniem odczytywania i odnawiania starych map...",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Gripp/Text14": {
+        "en": "When first we met, when first I came, he had not yet his cane beclaimed.",
+        "pl": "Gdy pierwszy raz się spotkaliśmy, gdym pierwszy raz przybyła, nie posiadał jeszcze swej laski.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Gripp/Text15": {
+        "en": "...but from what I gather, he knew it wasn't really his life's calling.",
+        "pl": "...ale z tego, co rozumiem, wiedział, że to tak naprawdę nie było jego życiowym powołaniem.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Gripp/Text16": {
+        "en": "I found out Mr Gripp wanted to be the submarine's navigator at one stage - but Mortuga never allowed it.",
+        "pl": "Odkryłem, że Pan Gripp w pewnym momencie chciał zostać nawigatorem łodzi podwodnej - ale Mortuga nigdy na to nie pozwolił.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Gripp/Text17": {
+        "en": "...I dunno, he's kinda like one of those savants - you know, kind of odd, but seriously gifted-",
+        "pl": "...nie wiem, on jest jak taki jeden z tych sawantów - no wiesz, trochę dziwny, ale naprawdę utalentowany-",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Gripp/Text18": {
+        "en": "He wanted to put all those navigation skills to use and actually head out on an adventure.",
+        "pl": "Chciał wykorzystać te wszystkie umiejętności nawigacyjne i faktycznie wyruszyć na przygodę.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Gripp/Text19": {
+        "en": "Whilst showing me around the submarine, he was mostly subdued - didn't say an awful lot.",
+        "pl": "Podczas oprowadzania mnie po łodzi podwodnej był w większości powściągliwy - niewiele mówił.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Gripp/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text21": {
+        "en": "Let's talk to Gripp...",
+        "pl": "Porozmawiajmy z Grippem...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text22": {
+        "en": "The Curious Case of Cornelius Cane",
+        "pl": "Osobliwy Przypadek Corneliusa Cane",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text23": {
+        "en": "Gripp made a new cane since coming aboard the submarine.",
+        "pl": "Gripp zrobił nową laskę, odkąd wszedł na pokład łodzi podwodnej.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text24": {
+        "en": "The broken pieces of the ship's wheel are inside Gripp's balloon basket.",
+        "pl": "Połamane kawałki koła sterowego są wewnątrz kosza balonowego Grippa.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text25": {
+        "en": "The ship's wheel was broken during an argument between Gripp and Mortuga. ",
+        "pl": "Koło sterowe zostało złamane podczas kłótni między Grippem a Mortugą.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text26": {
+        "en": "Gripp wanted to follow the ocean map, but Mortuga has already done so in the past.",
+        "pl": "Gripp chciał podążyć za mapą oceanu, ale Mortuga już to zrobił w przeszłości.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text3": {
+        "en": "Silkwirm-on-sea",
+        "pl": "Silkwirm nad Morzem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text5": {
+        "en": "Navigation, cartography",
+        "pl": "Nawigacja, kartografia",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text7": {
+        "en": "Engine Room",
+        "pl": "Maszynownia",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Gripp/Text9": {
+        "en": "Gripp once held aspirations of becoming the navigator for the submarine, but Mortuga didn't allow it",
+        "pl": "Gripp miał kiedyś aspiracje, żeby zostać nawigatorem łodzi podwodnej, ale Mortuga na to nie pozwolił",
+        "speaker": "narrator"
+      }
+    },
+    "Moon": {
+      "Souls/Text/Moon/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text1": {
+        "en": "Wandering historian storyteller",
+        "pl": "Wędrowna historyczka-gawędziarka",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text10": {
+        "en": "I've been searching for the Mortuga Submarine for some time, you know.",
+        "pl": "Szukam Łodzi Podwodnej Mortuga już od jakiegoś czasu, wiesz.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Moon/Text11": {
+        "en": "As I've said, I came on board the submarine via the foredeck, and Mortuga met me in the parlor. He took the box, and told me to wait in the control room, while he went down the hall into his cabin.",
+        "pl": "Jak już mówiłam, weszłam na pokład łodzi podwodnej przez pokład dziobowy, a Mortuga spotkał się ze mną w salonie. Wziął skrzynkę i kazał mi czekać w sterowni, podczas gdy on poszedł korytarzem do swojego gabinetu.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Moon/Text12": {
+        "en": "It is hypothesized that Ms. Moon was embroiled in some form of deal with Magnus Mortuga.",
+        "pl": "Wysnuto hipotezę, że panna Moon była uwikłana w jakiś rodzaj układu z Magnusem Mortugą.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Moon/Text13": {
+        "en": "Soon after we entered the bilge, she whipped out her tobacco pipe with a strange kind of urgency...",
+        "pl": "Wkrótce po tym, jak weszliśmy do Zęzy, wyciągnęła swoją fajkę do tytoniu z dziwnym pośpiechem...",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Moon/Text14": {
+        "en": "The kinship of wearing-a-big-yellow-locket-around-your-neck!!",
+        "pl": "Pokrewieństwo noszenia-wielkiego-żółtego-medalionu-na-szyi!!",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Moon/Text15": {
+        "en": "Yeah, we've crossed paths - we very briefly both worked for the same guy.",
+        "pl": "Tak, nasze ścieżki się skrzyżowały - przez krótką chwilę pracowałyśmy dla tego samego gościa.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Moon/Text16": {
+        "en": "I have to assume she was invited?",
+        "pl": "Muszę założyć, że została zaproszona?",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Moon/Text17": {
+        "en": "The timeline. She shows up - and bang. Mortuga murdered.",
+        "pl": "Chronologia. Ona się pojawia - i bum. Mortuga zamordowany.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Moon/Text18": {
+        "en": "Well, she's supposed to be all like old-timey and stuff, right? But she was really curious about my cell phone.",
+        "pl": "No, niby ma być cała taka staroświecka i w ogóle, tak? Ale bardzo ją zaciekawił mój telefon komórkowy.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Moon/Text19": {
+        "en": "I go wherever I please... which usually amounts to wherever has the most interesting rumors.",
+        "pl": "Chodzę, gdzie mi się podoba... co zwykle sprowadza się do miejsc z najciekawszymi plotkami.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Moon/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text21": {
+        "en": "Let's talk to Mariana...",
+        "pl": "Porozmawiajmy z Marianą...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text22": {
+        "en": "The Black Box",
+        "pl": "Czarna Skrzynka",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text23": {
+        "en": "Mariana's phone number was written on a photograph in the pocketbook.",
+        "pl": "Numer telefonu Mariany był zapisany na fotografii w notesie kieszonkowym.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text24": {
+        "en": "Mortuga used Dirk's cell phone was used to contact Mariana.",
+        "pl": "Mortuga użył telefonu komórkowego Dirka, żeby skontaktować się z Marianą.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text25": {
+        "en": "She brought the black box on board and gave it to Mortuga.",
+        "pl": "Przyniosła czarną skrzynkę na pokład i dała ją Mortudze.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text26": {
+        "en": "Mariana used her pipe to record the moment Mortuga opened the black box.",
+        "pl": "Mariana użyła swojej fajki, żeby nagrać moment, w którym Mortuga otworzył czarną skrzynkę.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text3": {
+        "en": "No fixed address",
+        "pl": "Brak stałego adresu",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text5": {
+        "en": "Local history, urban myths, emerging folklore",
+        "pl": "Historia lokalna, miejskie legendy, powstający folklor",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text7": {
+        "en": "Cargo Hold",
+        "pl": "Ładownia",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Moon/Text9": {
+        "en": "Mariana arrived shortly before Mortuga was killed, and refuses to talk about exactly why she's here",
+        "pl": "Mariana przybyła krótko przed zamordowaniem Mortugi i odmawia mówienia dokładnie, dlaczego tu jest",
+        "speaker": "narrator"
+      }
+    },
+    "Mortuga": {
+      "Souls/Text/Mortuga/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text1": {
+        "en": "Ex-captain of the Mortuga Submarine",
+        "pl": "Były kapitan Łodzi Podwodnej Mortuga",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text10": {
+        "en": "He simply told me he'd acquired a submarine and would be living in it for an undisclosed amount of time.",
+        "pl": "Po prostu powiedział mi, że zdobył łódź podwodną i będzie w niej mieszkał przez bliżej nieokreślony czas.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Mortuga/Text11": {
+        "en": "Well, for one, he never let himself leave the submarine. Even if he wanted to.",
+        "pl": "Cóż, po pierwsze, nigdy nie pozwalał sobie opuścić łodzi podwodnej. Nawet gdyby chciał.",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Mortuga/Text12": {
+        "en": "But you know, perhaps the rumors were true after all. Perhaps he had disappeared into the sea.",
+        "pl": "Ale wiesz, może plotki jednak były prawdziwe. Może zniknął w morzu.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Mortuga/Text13": {
+        "en": "Not even, the innkeeper was a woman named Felicia Stonetop. Magnus merely worked under her charge.",
+        "pl": "Wcale nie, karczmarką była kobieta imieniem Felicia Stonetop. Magnus jedynie pracował pod jej zwierzchnictwem.",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Mortuga/Text14": {
+        "en": "He lived and worked in the Inn opposite my emporium...",
+        "pl": "Mieszkał i pracował w Gospodzie naprzeciwko mojego emporium...",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Mortuga/Text15": {
+        "en": "Doom'd to dwell, down in the dark, the once-light of a life once-lived, now too lum'nous to look-upon.",
+        "pl": "Skazany, by trwać w mroku, niegdysiejsze światło niegdyś przeżytego życia, teraz zbyt jaskrawe, by na nie spojrzeć.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Mortuga/Text16": {
+        "en": "In fact, I'm pretty sure he was trying to reconnect with someone he once knew from the town.",
+        "pl": "Właściwie jestem prawie pewien, że próbował ponownie nawiązać kontakt z kimś, kogo kiedyś znał z miasteczka.",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Mortuga/Text17": {
+        "en": "He asked about my home life, my family - my father...",
+        "pl": "Pytał o moje życie rodzinne, moją rodzinę - mojego ojca...",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Mortuga/Text18": {
+        "en": "He was super curious about contracts.",
+        "pl": "Był bardzo ciekawy kontraktów.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Mortuga/Text19": {
+        "en": "All I could dig up was a rumor that he bought the submarine from the Shipyard...",
+        "pl": "Jedyne, co udało mi się wygrzebać, to plotka, że kupił łódź podwodną w Stoczni...",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Mortuga/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text3": {
+        "en": "Silkwirm-on-sea",
+        "pl": "Silkwirm nad Morzem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text5": {
+        "en": "Sailing",
+        "pl": "Żeglarstwo",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text6": {
+        "en": "Lived:",
+        "pl": "Mieszkał:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text7": {
+        "en": "Captain's Quarters",
+        "pl": "Kwatera Kapitańska",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Mortuga/Text9": {
+        "en": "Mortuga was found dead in a small room known as the Illusion Theatre, laying on his back beside an ancient stone cauldron",
+        "pl": "Mortuga został znaleziony martwy w małym pomieszczeniu znanym jako Teatr Iluzji, leżący na plecach obok starożytnego kamiennego kotła",
+        "speaker": "narrator"
+      }
+    },
+    "Sinthia": {
+      "Souls/Text/Sinthia/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text1": {
+        "en": "New Captain of the Mortuga Submarine",
+        "pl": "Nowa Kapitan Łodzi Podwodnej Mortuga",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text10": {
+        "en": "I sought an audience with Magnus Mortuga. I had things I wished to discuss with him!",
+        "pl": "Szukałam posłuchania u Magnusa Mortugi. Miałam sprawy, które chciałam z nim omówić!",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Sinthia/Text11": {
+        "en": "My intention was to refund his payment and undo the transaction, placing the submarine back into my ownership.",
+        "pl": "Moim zamiarem było zwrócić mu zapłatę i cofnąć transakcję, przywracając łódź podwodną z powrotem pod moją własność.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Sinthia/Text12": {
+        "en": "That Miss Seafoam had made her ambitions known to Magnus, but he had shut them down.",
+        "pl": "Że panna Seafoam dała Magnusowi znać o swoich ambicjach, ale on je zdławił.",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Sinthia/Text13": {
+        "en": "So much so, that I bemoan seeing her spend her best years hidden away down here in the dark.",
+        "pl": "Do tego stopnia, że ubolewam, widząc, jak spędza swoje najlepsze lata ukryta tu w ciemności.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Sinthia/Text14": {
+        "en": "To helm this vessel next by rightful claim, for she, in law and title, holds its name.",
+        "pl": "By sterować tym statkiem z prawa słusznego roszczenia, bo ona, w prawie i tytule, dzierży jego imię.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Sinthia/Text15": {
+        "en": "It's not a joke to her. She cares a lot about the submarine.",
+        "pl": "To dla niej nie żart. Bardzo zależy jej na tej łodzi podwodnej.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Sinthia/Text16": {
+        "en": "Not a submarine. This submarine. Like I said - it's just the way it's meant to be.",
+        "pl": "Nie łódź podwodna. Ta łódź podwodna. Jak już mówiłam - to po prostu tak ma być.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Sinthia/Text17": {
+        "en": "The pressure's already getting to her - I know the signs, believe me.",
+        "pl": "Presja już na nią działa - znam te oznaki, uwierz mi.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Sinthia/Text18": {
+        "en": "I heard Sinthia's captain now just because of some contract she signed?",
+        "pl": "Słyszałem, że Sinthia jest teraz kapitanem tylko dlatego, że podpisała jakiś kontrakt?",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Sinthia/Text19": {
+        "en": "She's the daughter of Harbormaster Sylvia Seafoam...",
+        "pl": "Jest córką Kapitan Portu Sylvii Seafoam...",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Sinthia/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text21": {
+        "en": "Let's talk to Sinthia...",
+        "pl": "Porozmawiajmy z Sinthią...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text22": {
+        "en": "A Captain's Legacy",
+        "pl": "Dziedzictwo Kapitana",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text23": {
+        "en": "Sinthia became Captain because of the command contract.",
+        "pl": "Sinthia została kapitanem dzięki kontraktowi dowódczemu.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text24": {
+        "en": "But she forged Mortuga's signature by copying it from the captain's log.",
+        "pl": "Ale sfałszowała podpis Mortugi, kopiując go z dziennika kapitana.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text25": {
+        "en": "Sinthia considers herself the legal owner of the Mortuga Submarine.",
+        "pl": "Sinthia uważa się za prawowitą właścicielkę Łodzi Podwodnej Mortuga.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text26": {
+        "en": "It was originally the Seafoam Submarine. Mortuga bought it using the Inn Deeds.",
+        "pl": "Pierwotnie była to Łódź Podwodna Seafoam. Mortuga kupił ją za pomocą Aktu Własności Gospody.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text3": {
+        "en": "Silkwirm-on-sea",
+        "pl": "Silkwirm nad Morzem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text5": {
+        "en": "Being captain, nautical engineering",
+        "pl": "Bycie kapitanem, inżynieria morska",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text7": {
+        "en": "Bunk Room - with Symmetry Silkmoth",
+        "pl": "Kajuta Sypialna - z Symmetry Silkmoth",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Sinthia/Text9": {
+        "en": "Sinthia assumed captaincy immediately after Mortuga's death, by way of a peculiar written contract",
+        "pl": "Sinthia przejęła stanowisko kapitana natychmiast po śmierci Mortugi, za pomocą osobliwego, pisemnego kontraktu",
+        "speaker": "narrator"
+      }
+    },
+    "Symmetry": {
+      "Souls/Text/Symmetry/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text1": {
+        "en": "Illusionist",
+        "pl": "Iluzjonistka",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text10": {
+        "en": "No, Miss Silkmoth would be working with me, here in the Dream Chamber.",
+        "pl": "Nie, panna Silkmoth miała pracować ze mną, tutaj, w Komnacie Snów.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Symmetry/Text11": {
+        "en": "A time bespent, in Chamber Dream, enchain’d to lofty quest. Then lo, a shock - Dismissed! Bespurned! Rejected! My lonesome purpose, lost.",
+        "pl": "Czas spędzony, w Komnacie Snów, przykuty do wzniosłej misji. Wtem, cios - Odprawiona! Wzgardzona! Odrzucona! Me samotne powołanie, stracone.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Symmetry/Text12": {
+        "en": "Her tenure with me has come to an end - she has moved onto pastures new.",
+        "pl": "Jej służba u mnie dobiegła końca - przeniosła się na nowe pastwiska.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Symmetry/Text13": {
+        "en": "Oh yes, Cornelius tells me he saw Symmetry drawing something while in the mess hall...",
+        "pl": "O tak, Cornelius mówi mi, że widział, jak Symmetry coś rysowała, będąc w Mesie...",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Symmetry/Text14": {
+        "en": "Of what, if aught, doth lay beyond, this fleeting form of flesh !",
+        "pl": "Cóż, jeśli cokolwiek, leży poza tą ulotną formą ciała!",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Symmetry/Text15": {
+        "en": "Sym's quite delicate. She's got some real self-worth issues.",
+        "pl": "Sym jest dość delikatna. Ma prawdziwe problemy z poczuciem własnej wartości.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Symmetry/Text16": {
+        "en": "Uh - so, it's looking like Sym was the last person to see Mortuga alive.",
+        "pl": "Yy - więc wygląda na to, że Sym była ostatnią osobą, która widziała Mortugę żywego.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Symmetry/Text17": {
+        "en": "She wanted to know what I liked about her old magic show - the one she had in the theatre.",
+        "pl": "Chciała wiedzieć, co podobało mi się w jej starym pokazie magicznym - tym, który miała w teatrze.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Symmetry/Text18": {
+        "en": "Uh, not exactly, but get this - one time I looked into that room... and there were two of 'em.",
+        "pl": "Yy, nie do końca, ale słuchaj - raz zajrzałem do tego pokoju... i było ich dwie.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Symmetry/Text19": {
+        "en": "Symmetry was the only person I didn't see on my tour of the submarine...",
+        "pl": "Symmetry była jedyną osobą, której nie zobaczyłam podczas mojej wycieczki po łodzi podwodnej...",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Symmetry/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text21": {
+        "en": "Let's talk to Symmetry...",
+        "pl": "Porozmawiajmy z Symmetry...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text22": {
+        "en": "Ill-Fated Illusion",
+        "pl": "Nieszczęsna Iluzja",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text23": {
+        "en": "Symmetry performed a magic act for Mortuga in the Illusion Theatre.",
+        "pl": "Symmetry wykonała numer magiczny dla Mortugi w Teatrze Iluzji.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text24": {
+        "en": "The magic act was named 'The Stargazing Girl'.",
+        "pl": "Numer magiczny nazywał się 'Dziewczyna Patrząca w Gwiazdy'.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text25": {
+        "en": "Mariana recorded it on her pipe while she was down in the bilge.",
+        "pl": "Mariana nagrała to na swojej fajce, będąc w Zęzie.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text26": {
+        "en": "The magic act ended with Symmetry's doll appearing to be decapitated.",
+        "pl": "Numer magiczny zakończył się tym, że lalka Symmetry wyglądała na ściętą.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text3": {
+        "en": "Silkwirm-on-sea",
+        "pl": "Silkwirm nad Morzem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text5": {
+        "en": "Illusions, performance, the paranormal, curses",
+        "pl": "Iluzje, występy sceniczne, zjawiska paranormalne, klątwy",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text7": {
+        "en": "Bunk Room - with Sinthia Seafoam",
+        "pl": "Kajuta Sypialna - z Sinthią Seafoam",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Symmetry/Text9": {
+        "en": "Sym was the last person to see Mortuga alive, as they were both in the Illusion Theatre on the evening of his death",
+        "pl": "Sym była ostatnią osobą, która widziała Mortugę żywego - oboje byli w Teatrze Iluzji wieczorem w dniu jego śmierci",
+        "speaker": "narrator"
+      }
+    },
+    "Tadpole": {
+      "Souls/Text/Tadpole/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text1": {
+        "en": "Retired swimmer/mermaid",
+        "pl": "Emerytowana pływaczka/syrena",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text10": {
+        "en": "Somehow, Magnus found me. Pulled me into his submarine.",
+        "pl": "Jakoś Magnus mnie znalazł. Wciągnął mnie do swojej łodzi podwodnej.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Tadpole/Text11": {
+        "en": "Perhaps Wolfe's travelling performers came through Silkwirm-on-sea at one point...",
+        "pl": "Może wędrowni artyści Wolfe'a przejeżdżali kiedyś przez Silkwirm nad Morzem...",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Tadpole/Text12": {
+        "en": "I'm to believe Tadpole had taken it upon herself to discover the source of Magnus's internal anguish.",
+        "pl": "Mam wierzyć, że Tadpole wzięła na siebie odkrycie źródła wewnętrznej udręki Magnusa.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Tadpole/Text13": {
+        "en": "She's all branding, the name, the look, the identity as a 'Half Mermaid' - it's all theatrics.",
+        "pl": "To wszystko marka - imię, wygląd, tożsamość 'Pół-Syreny' - to wszystko teatr.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Tadpole/Text14": {
+        "en": "Maybe I should cut my hair short and dye it green. Maybe that'll do it.",
+        "pl": "Może powinnam obciąć włosy na krótko i pofarbować je na zielono. Może to by pomogło.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Tadpole/Text15": {
+        "en": "Nothing. They just decided I had certain 'physical abnormalities' that made it unfair to the other swimmers.",
+        "pl": "Nic. Po prostu zdecydowali, że mam pewne 'nieprawidłowości fizyczne', które czyniły to nieuczciwym wobec innych pływaków.",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Tadpole/Text16": {
+        "en": "Also, she's travelled the world - she's had all these different jobs, met all these different people...",
+        "pl": "Poza tym, podróżowała po świecie - miała te wszystkie różne prace, poznała tych wszystkich różnych ludzi...",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Tadpole/Text17": {
+        "en": "To me, she gives off this indisputable 'I will destroy you if I see fit to do so' kind of energy.",
+        "pl": "Dla mnie ona emanuje tą niepodważalną energią typu 'zniszczę cię, jeśli uznam to za stosowne'.",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Tadpole/Text18": {
+        "en": "Like, get this - I found out she used to be a rescue diver - but they banned her for being too good.",
+        "pl": "Wyobraź sobie - odkryłem, że kiedyś była nurkiem ratowniczym - ale zakazali jej tego, bo była zbyt dobra.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Tadpole/Text19": {
+        "en": "I first met Tadpole when she was on the road, travelling with a group of performers.",
+        "pl": "Po raz pierwszy spotkałam Tadpole, gdy była w trasie, podróżując z grupą artystów.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Tadpole/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text21": {
+        "en": "Let's talk to Tadpole...",
+        "pl": "Porozmawiajmy z Tadpole...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text22": {
+        "en": "Keeping Secrets",
+        "pl": "Strzegąc Sekretów",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text23": {
+        "en": "There was a recording of an argument between Tadpole and Mortuga.",
+        "pl": "Było nagranie kłótni między Tadpole a Mortugą.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text24": {
+        "en": "Tadpole used to work as a rescue diver. Her real name is Tanya Tapdole.",
+        "pl": "Tadpole pracowała kiedyś jako nurek ratowniczy. Jej prawdziwe imię i nazwisko to Tanya Tapdole.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text25": {
+        "en": "She used to work as a performer in Waylan Wolfe's traveling show.",
+        "pl": "Pracowała kiedyś jako artystka w wędrownym widowisku Waylana Wolfe'a.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text26": {
+        "en": "Tadpole was trying to get Mortuga to give up the captaincy of the submarine.",
+        "pl": "Tadpole próbowała skłonić Mortugę, żeby zrzekł się dowodzenia łodzią podwodną.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text3": {
+        "en": "Far away",
+        "pl": "Daleko stąd",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text5": {
+        "en": "Swimming, the ocean, treasure",
+        "pl": "Pływanie, ocean, skarby",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text7": {
+        "en": "Airlock Grotto",
+        "pl": "Grota Śluzowa",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Tadpole/Text9": {
+        "en": "Madam Tadpole owed her life to Mortuga, who once saved her from drowning in the ocean",
+        "pl": "Madam Tadpole zawdzięczała życie Mortudze, który kiedyś uratował ją przed utonięciem w oceanie",
+        "speaker": "narrator"
+      }
+    },
+    "Wirman": {
+      "Souls/Text/Wirman/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text1": {
+        "en": "Author",
+        "pl": "Pisarz",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text10": {
+        "en": "I came of my own volition! I wanted somewhere quiet to work on my next novel. Minimal distractions. Not saying it's worked, but-",
+        "pl": "Przyjechałem z własnej woli! Chciałem jakiegoś spokojnego miejsca, żeby popracować nad następną powieścią. Minimum rozpraszaczy. Nie mówię, że to zadziałało, ale-",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Wirman/Text11": {
+        "en": "So you got this letter, from someone called T. W. Ibis...",
+        "pl": "Więc dostałeś ten list, od kogoś o imieniu T. W. Ibis...",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Wirman/Text12": {
+        "en": "I observed that he did not seem at all saddened or sorrowed by the death of Magnus Mortuga.",
+        "pl": "Zaobserwowałem, że nie wydawał się w ogóle zasmucony czy zbolały śmiercią Magnusa Mortugi.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Wirman/Text13": {
+        "en": "-but I believe Wirman was invited onto the submarine by Mortuga himself.",
+        "pl": "-ale wierzę, że Wirman został zaproszony na łódź podwodną przez samego Mortugę.",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Wirman/Text14": {
+        "en": "And crime-dark scene beconsequently came the fresh'st focus for his ever-pond'rous gaze!",
+        "pl": "I mroczna od zbrodni scena stała się w konsekwencji najświeższym ogniskiem jego wiecznie zamyślonego spojrzenia!",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Wirman/Text15": {
+        "en": "And after he arrived on the submarine, Mortuga spent a lot of time talking with him.\n",
+        "pl": "A po tym, jak przybył na łódź podwodną, Mortuga spędzał z nim dużo czasu na rozmowach.\n",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Wirman/Text16": {
+        "en": "He just... really wanted to meet him, I guess. Who else? Captain Mortuga! ",
+        "pl": "On po prostu... chyba naprawdę chciał go poznać. Kogo innego? Kapitana Mortugę!",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Wirman/Text17": {
+        "en": "This is how things go - if you get a success, you have to keep it going.",
+        "pl": "Tak to już jest - jeśli masz sukces, musisz go podtrzymywać.",
+        "speaker": "Wirman"
+      },
+      "Souls/Text/Wirman/Text18": {
+        "en": "Or - whatever, I don't think he actually has a title for it yet, or a story outline, or actually anything.",
+        "pl": "Albo - cokolwiek, nie sądzę, żeby miał już dla niej tytuł, zarys fabuły, czy cokolwiek w ogóle.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Wirman/Text19": {
+        "en": "The book is very clearly a loose re-telling of the real-life story of one Magnus Mortuga.",
+        "pl": "Ta książka bardzo wyraźnie jest luźnym przetworzeniem prawdziwej historii niejakiego Magnusa Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Wirman/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text20": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text21": {
+        "en": "Let's talk to Wirman...",
+        "pl": "Porozmawiajmy z Wirmanem...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text22": {
+        "en": "Stranger Than Fiction",
+        "pl": "Dziwniejsze niż Fikcja",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text23": {
+        "en": "Wirman was invited to the submarine by a letter claiming to be from T.W. Ibis.",
+        "pl": "Wirman został zaproszony na łódź podwodną listem podającym się za list od T.W. Ibisa.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text24": {
+        "en": "T. W. Ibis was Wirman's old boss when he worked as a journalist for the newspaper.",
+        "pl": "T. W. Ibis był dawnym szefem Wirmana, gdy ten pracował jako dziennikarz w gazecie.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text25": {
+        "en": "Wirman wrote a story outline for his next book after seeing the crime scene.",
+        "pl": "Wirman napisał zarys fabuły do swojej następnej książki po zobaczeniu miejsca zbrodni.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text26": {
+        "en": "Wirman sealed it in a bottle and threw it into the ocean, but Tadpole retrieved it.",
+        "pl": "Wirman zapieczętował go w butelce i wyrzucił do oceanu, ale Tadpole go odzyskała.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text3": {
+        "en": "The city, originally Silkwirm-on-sea",
+        "pl": "Miasto, pierwotnie Silkwirm nad Morzem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text5": {
+        "en": "Writing, fiction, story structure, journalism",
+        "pl": "Pisanie, beletrystyka, struktura fabuły, dziennikarstwo",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text7": {
+        "en": "Bunk Room - with Dirk Dansom",
+        "pl": "Kajuta Sypialna - z Dirkiem Dansomem",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Wirman/Text9": {
+        "en": "Wirman is the author of 'Hex of the Helmsman', a novel about a cursed sailor going on a doomed ocean voyage",
+        "pl": "Wirman jest autorem 'Klątwy Sternika', powieści o przeklętym żeglarzu wyruszającym w skazany na klęskę morski rejs",
+        "speaker": "narrator"
+      }
+    },
+    "Zephyr": {
+      "Souls/Text/Zephyr/Text0": {
+        "en": "Job/Role:",
+        "pl": "Zawód/Rola:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text1": {
+        "en": "Dream Doctor",
+        "pl": "Doktor Snów",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text10": {
+        "en": "I was the first person to be invited on board. I joined Magnus here shortly before the submarine's maiden voyage.",
+        "pl": "Byłem pierwszą osobą zaproszoną na pokład. Dołączyłem do Magnusa tutaj krótko przed dziewiczym rejsem łodzi podwodnej.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Zephyr/Text11": {
+        "en": "I was already preparing to bring a large amount of heavy equipment on board - I suppose Magnus considered it logical to fold the cauldron into that set.",
+        "pl": "Przygotowywałem się już, żeby przynieść na pokład dużą ilość ciężkiego sprzętu - przypuszczam, że Magnus uznał za logiczne włączenie kotła do tego zestawu.",
+        "speaker": "Zephyr"
+      },
+      "Souls/Text/Zephyr/Text12": {
+        "en": "This is a great 'pull the thread' moment - why would Zephyr need to discreetly smuggle stuff on board, if Mortuga and Zephyr were the only two people on the submarine??? It hints at a third person",
+        "pl": "To świetny moment do 'pociągnięcia za nitkę' - po co Zephyrowi potajemne przemycanie rzeczy na pokład, skoro Mortuga i Zephyr byli jedynymi dwiema duszami na łodzi podwodnej??? To sugeruje trzecią osobę",
+        "speaker": "narrator (notatka deweloperska - patrz VERIFICATION_QUEUE)"
+      },
+      "Souls/Text/Zephyr/Text13": {
+        "en": "She is all that stirs in the minds of men that they shall never know... a being known only as The Mermaid.",
+        "pl": "Jest tym wszystkim, co porusza się w umysłach ludzi, czego nigdy nie poznają... istotą znaną jedynie jako Syrena.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Zephyr/Text14": {
+        "en": "Well yes, Zacharias was one of the only two souls aboard the submarine when I arrived-",
+        "pl": "No tak, Zachariasz był jedną z tylko dwóch dusz na pokładzie łodzi podwodnej, gdy przybyłam-",
+        "speaker": "Sinthia"
+      },
+      "Souls/Text/Zephyr/Text15": {
+        "en": "His life's long hope to pierce the veil and breach! Breach! Those black'st bounds.",
+        "pl": "Jego życia długa nadzieja, by przebić zasłonę i przełamać! Przełamać! Owe najczarniejsze granice.",
+        "speaker": "Symmetry"
+      },
+      "Souls/Text/Zephyr/Text16": {
+        "en": "It's not the dreams that were the problem. It's the communicating-with-spirits-from-the-other-world stuff.",
+        "pl": "To nie sny są problemem. To ta cała sprawa z komunikowaniem-się-z-duchami-z-zaświatów.",
+        "speaker": "Dirk"
+      },
+      "Souls/Text/Zephyr/Text17": {
+        "en": "Oh. He - uh, I'm pretty sure he's keeping an animal in there. In his Dream Chamber.",
+        "pl": "Och. On - yy, jestem prawie pewna, że trzyma tam jakieś zwierzę. W swojej Komnacie Snów.",
+        "speaker": "Moon"
+      },
+      "Souls/Text/Zephyr/Text18": {
+        "en": "Zephyr's not from Silkwirm though, is he?",
+        "pl": "Zephyr nie jest jednak z Silkwirm, prawda?",
+        "speaker": "Gripp"
+      },
+      "Souls/Text/Zephyr/Text19": {
+        "en": "There was this one thing - it was behind glass - like this spooky mask kinda thing?",
+        "pl": "Była tam jedna rzecz - za szkłem - taka, no wiesz, niepokojąca maska czy coś?",
+        "speaker": "Tadpole"
+      },
+      "Souls/Text/Zephyr/Text2": {
+        "en": "From:",
+        "pl": "Skąd:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text20": {
+        "en": "I tried asking him about his experiments... but he seemed awfully reluctant to divulge any details.",
+        "pl": "Próbowałem wypytać go o jego eksperymenty... ale wydawał się okropnie niechętny, żeby zdradzić jakiekolwiek szczegóły.",
+        "speaker": "Grimoire"
+      },
+      "Souls/Text/Zephyr/Text21": {
+        "en": "Let's keep investigating...",
+        "pl": "Kontynuujmy śledztwo...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text22": {
+        "en": "Let's talk to Zephyr...",
+        "pl": "Porozmawiajmy z Zephyrem...",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text23": {
+        "en": "The Dream Doctor",
+        "pl": "Doktor Snów",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text24": {
+        "en": "The Moon Vial was found at the crime scene. It smells the same as the Hex Bottle.",
+        "pl": "Fiolkę Moon znaleziono na miejscu zbrodni. Pachnie tak samo jak Butelka Hexa.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text25": {
+        "en": "Hex is a Hexapus who is sleeping in the bottle, displaying his dreams on his skin.",
+        "pl": "Hex to heksapus, który śpi w butelce, wyświetlając swoje sny na skórze.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text26": {
+        "en": "The Dream Helmet is a version of the Hex Bottle, scaled up to fit Mortuga.",
+        "pl": "Hełm Snów to wersja Butelki Hexa, powiększona, żeby pasowała na Mortugę.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text27": {
+        "en": "The Fog Ball is designed to display a certain face when it hears Symmetry's voice.",
+        "pl": "Kula Mgły została zaprojektowana tak, żeby wyświetlać pewną twarz, gdy usłyszy głos Symmetry.",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text3": {
+        "en": "Unknown",
+        "pl": "Nieznane",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text4": {
+        "en": "Skills/Interests:",
+        "pl": "Umiejętności/Zainteresowania:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text5": {
+        "en": "Dreams, spirit energy, supernatural communication",
+        "pl": "Sny, energia duchowa, komunikacja nadprzyrodzona",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text6": {
+        "en": "Lives:",
+        "pl": "Mieszka:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text7": {
+        "en": "Dream Chamber",
+        "pl": "Komnata Snów",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text8": {
+        "en": "Notes:",
+        "pl": "Notatki:",
+        "speaker": "narrator"
+      },
+      "Souls/Text/Zephyr/Text9": {
+        "en": "Before his death, Mortuga had been partaking in Zephyr's mysterious dream-related experiments",
+        "pl": "Przed śmiercią Mortuga brał udział w tajemniczych eksperymentach Zephyra związanych ze snami",
+        "speaker": "narrator"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Souls/Text/Zephyr/Text12",
+      "en": "This is a great 'pull the thread' moment - why would Zephyr need to discreetly smuggle stuff on board, if Mortuga and Zephyr were the only two people on the submarine??? It hints at a third person",
+      "propozycja": "przetlumaczone doslownie",
+      "problem": "Ta linia wyglada na WEWNETRZNA NOTATKE DEWELOPERSKA (analiza fabuly/wskazowka projektowa), nie na kwestie postaci - przypadkiem pozostawiona w danych lokalizacyjnych, podobnie do wczesniejszych 'Lorem ipsum'/'title here'. Do sprawdzenia czy to w ogole widoczne w grze (prawdopodobnie nie - moze byc martwym terminem)."
+    }
+  ]
+}

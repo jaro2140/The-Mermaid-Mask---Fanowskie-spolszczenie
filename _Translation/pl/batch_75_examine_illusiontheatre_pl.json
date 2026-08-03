@@ -1,0 +1,761 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja IllusionTheatre/Teatr Iluzji (134 terminy, ~35 mikroscen) - MIEJSCE ZBRODNI, gdzie zginal Mortuga. Zawiera rekonstrukcje zwlok (outline), krew, Kociol, mechanike Zelaznego Dzwonu z zagadka obracanej rury/plakatu, oraz szafke z lalka wygladajaca jak Symmetry (mechanizm iluzji teatralnej).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_IllusionTheatre_CabinetDoll 1": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 1/Section ds10": {
+        "en": "There's a... girl... in there.",
+        "pl": "Tam jest... dziewczyna...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 1/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 1/Section ds4": {
+        "en": "It's a doll.\nI hope.",
+        "pl": "To lalka.\nMam nadzieję.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 1/Section ds9": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetDoll 2": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 2/Section ds0": {
+        "en": "So, it's a lifesize doll, that looks like Symmetry?",
+        "pl": "Więc to lalka naturalnej wielkości, która wygląda jak Symmetry?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 2/Section ds10": {
+        "en": "Well, yeah.",
+        "pl": "No, tak.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 2/Section ds3": {
+        "en": "But I think there's more to it than that.",
+        "pl": "Ale myślę, że to coś więcej.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetDoll 3": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 3/Section ds3": {
+        "en": "Hi there.",
+        "pl": "Witaj.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 3/Section ds3 Choice 1": {
+        "en": "Look at doll",
+        "pl": "Spójrz na lalkę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 3/Section ds3 Choice 2": {
+        "en": "Look at projector",
+        "pl": "Spójrz na projektor",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 3/Section ds3 Choice 3": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetDoll 3/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetNoInsight": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetNoInsight/Section ds0": {
+        "en": "There's a wooden panel on the wall here...",
+        "pl": "Jest tu na ścianie drewniany panel...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetNoInsight/Section ds1": {
+        "en": "No, it's too dark.",
+        "pl": "Nie, jest zbyt ciemno.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetNoInsight/Section ds6": {
+        "en": "Can you see anything through that little hole?",
+        "pl": "Widzisz coś przez ten mały otwór?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetPanel 1": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 1/Section ds0": {
+        "en": "This wooden panel - [i]surely[/i] there's something behind it?",
+        "pl": "Ten drewniany panel - [i]na pewno[/i] jest za nim coś?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 1/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 1/Section ds3 Choice 1": {
+        "en": "Push it",
+        "pl": "Popchnij go",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 1/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 1/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetPanel 2": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 2/Section ds0": {
+        "en": "Hello...",
+        "pl": "Halo...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 2/Section ds3": {
+        "en": "It's a little set of tiles.",
+        "pl": "To mały zestaw kafelków.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 2/Section ds3 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 2/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 2/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_CabinetPanel 3": {
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 3/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 3/Section ds3": {
+        "en": "It's unlocked - I think?",
+        "pl": "Jest odblokowane - chyba?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_CabinetPanel 3/Section ds9": {
+        "en": "Right, let's get this thing open-",
+        "pl": "Dobra, otwórzmy to-",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_Cloth": {
+      "Examine/Exam_Area_IllusionTheatre_Cloth/Section ds0": {
+        "en": "There's a cloth hanging up on the wall.",
+        "pl": "Na ścianie wisi szmatka.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_DemoLock": {
+      "Examine/Exam_Area_IllusionTheatre_DemoLock/Section ds0": {
+        "en": "...because this is the last room in the demo.",
+        "pl": "...bo to ostatni pokój w wersji demo.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DemoLock/Section ds4": {
+        "en": "We can't leave.",
+        "pl": "Nie możemy wyjść.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DemoLock/Section ds5": {
+        "en": "Why not?",
+        "pl": "Czemu nie?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_DrainClosed": {
+      "Examine/Exam_Area_IllusionTheatre_DrainClosed/Section ds0": {
+        "en": "There's a drain along the back of the room.",
+        "pl": "Wzdłuż tylnej ściany pokoju jest odpływ.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DrainClosed/Section ds1": {
+        "en": "It's actually not a drain.\nNot right now - it's closed up.",
+        "pl": "To właściwie nie jest odpływ.\nNie teraz - jest zamknięty.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DrainClosed/Section ds2": {
+        "en": "But - the blood?",
+        "pl": "Ale - krew?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DrainClosed/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_DrainOpen": {
+      "Examine/Exam_Area_IllusionTheatre_DrainOpen/Section ds0": {
+        "en": "It's the drain.",
+        "pl": "To ten odpływ.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DrainOpen/Section ds3": {
+        "en": "Hey, it's open - wasn't it closed before?",
+        "pl": "Hej, jest otwarty - czy nie był wcześniej zamknięty?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_DrainOpen/Section ds4": {
+        "en": "Yeah, we pulled that switch down in the bilge, remember?",
+        "pl": "Tak, pociągnęliśmy tamten przełącznik w zęzie, pamiętasz?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_LetsCompleteChecklistFirst": {
+      "Examine/Exam_Area_IllusionTheatre_LetsCompleteChecklistFirst/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_LetsCompleteChecklistFirst/Section ds4": {
+        "en": "I do, but - let's finish the checklist first.",
+        "pl": "Chcę, ale - najpierw skończmy listę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_LetsCompleteChecklistFirst/Section ds5": {
+        "en": "You don't wanna take another look in here?",
+        "pl": "Nie chcesz jeszcze raz się tu rozejrzeć?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_LookforSuspectsinMessHall": {
+      "Examine/Exam_Area_IllusionTheatre_LookforSuspectsinMessHall/Section ds0": {
+        "en": "Let's go.",
+        "pl": "Chodźmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_LookforSuspectsinMessHall/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_LookforSuspectsinMessHall/Section ds3": {
+        "en": "Mess Hall?",
+        "pl": "Do Mesy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_LookforSuspectsinMessHall/Section ds4": {
+        "en": "It's about time we went to speak with everyone else...",
+        "pl": "Najwyższy czas, żebyśmy poszli porozmawiać z resztą...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_MoonVial": {
+      "Examine/Exam_Area_IllusionTheatre_MoonVial/Section ds0": {
+        "en": "I'm guessing Mortuga dropped this when he died.",
+        "pl": "Zgaduję, że Mortuga to upuścił, kiedy umierał.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_MoonVial/Section ds1": {
+        "en": "There's a little broken bottle on the floor.",
+        "pl": "Na podłodze leży mała rozbita buteleczka.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_Poster 1": {
+      "Examine/Exam_Area_IllusionTheatre_Poster 1/Section ds0": {
+        "en": "I think it's supposed to be a poster...",
+        "pl": "Chyba to ma być plakat...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_Poster 1/Section ds1": {
+        "en": "Someone's taped a drawing to the wall.",
+        "pl": "Ktoś przykleił rysunek do ściany.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_Poster 1/Section ds3": {
+        "en": "Although it's upside-down for some reason....?",
+        "pl": "Chociaż z jakiegoś powodu jest do góry nogami....?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_ReadyToInvestigate": {
+      "Examine/Exam_Area_IllusionTheatre_ReadyToInvestigate/Section ds0": {
+        "en": "Well, here we are. One last time.",
+        "pl": "Cóż, jesteśmy tu. Ostatni raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_ReadyToInvestigate/Section ds5": {
+        "en": "There must be some way get the Iron Bell to lower onto the Cauldron...",
+        "pl": "Musi być jakiś sposób, żeby opuścić Żelazny Dzwon na Kocioł...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_Window": {
+      "Examine/Exam_Area_IllusionTheatre_Window/Section ds0": {
+        "en": "It's a little window.",
+        "pl": "To małe okienko.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_Window/Section ds1": {
+        "en": "...why did you phrase it like that?",
+        "pl": "...czemu tak to ująłeś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_Window/Section ds2": {
+        "en": "It looks out into the endless dark void of the ocean.",
+        "pl": "Wychodzi na niekończącą się, mroczną pustkę oceanu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_Window/Section ds3": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_banner": {
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds0": {
+        "en": "Someone's hung up a banner with the words [i]Illusion Theatre[/i] painted on it.",
+        "pl": "Ktoś powiesił baner z namalowanymi słowami [i]Teatr Iluzji[/i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds3": {
+        "en": "You know, I think this room's had some kind of rebranding.",
+        "pl": "Wiesz, myślę, że ten pokój przeszedł jakiś rebranding.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds4": {
+        "en": "Possibly nothing.",
+        "pl": "Może to nic.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds6": {
+        "en": "Rebranding from what?\nWhat was it before?",
+        "pl": "Rebranding z czego?\nCzym był wcześniej?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds7": {
+        "en": "A small room like this wouldn't normally have a name at all.",
+        "pl": "Taki mały pokój zwykle w ogóle nie miałby nazwy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_banner/Section ds8": {
+        "en": "What's the illusion, I wonder...?",
+        "pl": "Zastanawiam się, na czym polega ta iluzja...?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell": {
+      "Examine/Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell/Section ds1 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bell LetsLookCloseratIronBell/Section ds3": {
+        "en": "What d'you know, it fits perfectly.",
+        "pl": "A niech mnie, pasuje idealnie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg ...": {
+      "Examine/Exam_Area_IllusionTheatre_bg .../Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg ... 2": {
+      "Examine/Exam_Area_IllusionTheatre_bg ... 2/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg ... 3": {
+      "Examine/Exam_Area_IllusionTheatre_bg ... 3/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg 1": {
+      "Examine/Exam_Area_IllusionTheatre_bg 1/Section ds0": {
+        "en": "So this is the Illusion Theatre?",
+        "pl": "Więc to jest Teatr Iluzji?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bg 1/Section ds1": {
+        "en": "It's very small for a theatre...",
+        "pl": "Jest bardzo mały jak na teatr...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bg 1/Section ds2": {
+        "en": "It's basically just the end of a corridor - separated from the rest of the corridor by... a door.",
+        "pl": "To w zasadzie tylko koniec korytarza - oddzielony od reszty korytarza przez... drzwi.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg MustbeaWaytoLowerIronBell": {
+      "Examine/Exam_Area_IllusionTheatre_bg MustbeaWaytoLowerIronBell/Section ds0": {
+        "en": "There [i]must[/i] be a way to lower the Iron Bell into this room...",
+        "pl": "[i]Musi[/i] być jakiś sposób, żeby opuścić Żelazny Dzwon do tego pokoju...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_bg MustbeaWaytoLowerIronBell ShutCauldronFirst": {
+      "Examine/Exam_Area_IllusionTheatre_bg MustbeaWaytoLowerIronBell ShutCauldronFirst/Section ds0": {
+        "en": "There [i]must[/i] be a way to lower the Iron Bell into this room...",
+        "pl": "[i]Musi[/i] być jakiś sposób, żeby opuścić Żelazny Dzwon do tego pokoju...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_bg MustbeaWaytoLowerIronBell ShutCauldronFirst/Section ds3": {
+        "en": "I think we should [i]probably[/i] shut the Cauldron first.",
+        "pl": "Myślę, że [i]chyba[/i] powinniśmy najpierw zamknąć Kocioł.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_blood": {
+      "Examine/Exam_Area_IllusionTheatre_blood/Section ds0": {
+        "en": "A trail of blood. Looks like it came from the wound in Mortuga's neck.",
+        "pl": "Ślad krwi. Wygląda, jakby pochodziła z rany na szyi Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_blood/Section ds1": {
+        "en": "No it doesn't.\nNot immediately.",
+        "pl": "Wcale nie.\nNie od razu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_blood/Section ds2": {
+        "en": "It runs straight down the room towards the back of the submarine.",
+        "pl": "Biegnie prosto przez pokój w stronę tyłu łodzi podwodnej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_blood/Section ds3": {
+        "en": "It pools out first, [h]then[/h] changes its mind.",
+        "pl": "Najpierw się rozlewa, a [h]potem[/h] zmienia zdanie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_blood/Section ds4": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_cauldron 1": {
+      "Examine/Exam_Area_IllusionTheatre_cauldron 1/Section ds0": {
+        "en": "This is the cauldron?",
+        "pl": "To jest ten kocioł?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_cauldron 1/Section ds3": {
+        "en": "Not quite what I was expecting...",
+        "pl": "Nie do końca to, czego się spodziewałem...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_cauldron 2": {
+      "Examine/Exam_Area_IllusionTheatre_cauldron 2/Section ds0": {
+        "en": "The case file said it had never been unlocked before...",
+        "pl": "W aktach sprawy było napisane, że nigdy wcześniej nie był odblokowany...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_cauldron 2/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_cauldron 3": {
+      "Examine/Exam_Area_IllusionTheatre_cauldron 3/Section ds0": {
+        "en": "It's Mortuga's stone cauldron.",
+        "pl": "To kamienny kocioł Mortugi.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_cauldron LetsLeaveitShut": {
+      "Examine/Exam_Area_IllusionTheatre_cauldron LetsLeaveitShut/Section ds0": {
+        "en": "Let's leave it shut for now.",
+        "pl": "Zostawmy go na razie zamkniętego.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_cauldron LetsShutit": {
+      "Examine/Exam_Area_IllusionTheatre_cauldron LetsShutit/Section ds0": {
+        "en": "We'd better shut it.",
+        "pl": "Lepiej go zamknijmy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_cauldron LetsShutit/Section ds0 Choice 1": {
+        "en": "Shut the Cauldron",
+        "pl": "Zamknij Kocioł",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_cauldron LetsShutit/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_cauldron LetsShutit/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_curtain": {
+      "Examine/Exam_Area_IllusionTheatre_curtain/Section ds0": {
+        "en": "Someone's hung up a curtain here.",
+        "pl": "Ktoś powiesił tu zasłonę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_curtain/Section ds1": {
+        "en": "It's tied to the wall right now, but looks like it can be drawn across the middle of the room.",
+        "pl": "Teraz jest przywiązana do ściany, ale wygląda na to, że można ją rozciągnąć przez środek pokoju.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_curtain/Section ds2": {
+        "en": "Oh, like a [i]theatre[/i] curtain.",
+        "pl": "Och, jak kurtyna [i]teatralna[/i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_curtain/Section ds3": {
+        "en": "Finally something to justify the name of the room.",
+        "pl": "Wreszcie coś, co uzasadnia nazwę tego pokoju.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_door": {
+      "Examine/Exam_Area_IllusionTheatre_door/Section ds0": {
+        "en": "It's a heavy bulkhead door.\nSeems like you lock it by turning that big wheel.",
+        "pl": "To ciężkie drzwi grodziowe.\nWygląda na to, że zamyka się je, obracając to wielkie koło.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_door/Section ds2": {
+        "en": "If you were strong enough, maybe.",
+        "pl": "Gdybyś był wystarczająco silny, może.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_door/Section ds3": {
+        "en": "There's actually a wheel on [h]both[/h] sides of the door.",
+        "pl": "Właściwie koło jest po [h]obu[/h] stronach drzwi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_door/Section ds4": {
+        "en": "So I could lock it or unlock it from either side?",
+        "pl": "Więc mogłabym je zamknąć albo otworzyć z dowolnej strony?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_door/Section ds6": {
+        "en": "Ouch.",
+        "pl": "Ała.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_outline": {
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds1": {
+        "en": "So... this is where Magnus Mortuga died.",
+        "pl": "Więc... tu właśnie zginął Magnus Mortuga.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds2": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds3": {
+        "en": "It's just like the case file said.\nHe landed on his back, with the cauldron at his feet.",
+        "pl": "Dokładnie tak, jak było w aktach sprawy.\nUpadł na plecy, z kotłem u stóp.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds4": {
+        "en": "Yeah.\nYou can see that's where the blood came from.",
+        "pl": "Tak.\nWidać, że stąd wzięła się krew.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds5": {
+        "en": "He was killed by getting cut across the neck, right?",
+        "pl": "Zginął od cięcia w szyję, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds6": {
+        "en": "But there's no weapon?\nNo knife or anything?",
+        "pl": "Ale nie ma żadnej broni?\nŻadnego noża czy czegoś?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_outline/Section ds7": {
+        "en": "Nothing.",
+        "pl": "Nic.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst": {
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds1": {
+        "en": "That poster...\n",
+        "pl": "Ten plakat...\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds3": {
+        "en": "The pipe looks a little loose... d'you think it's supposed to [i]move?[/i]",
+        "pl": "Ta rura wygląda na trochę luźną... myślisz, że powinna się [i]ruszać?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds3 Choice 1": {
+        "en": "Rotate Pipe",
+        "pl": "Obróć rurę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds4": {
+        "en": "Hang on - let's shut the cauldron first, just in case.",
+        "pl": "Czekaj - zamknijmy najpierw kocioł, na wszelki wypadek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster LetsShutCauldronFirst/Section ds5": {
+        "en": "...it's taped to a pipe on the wall.",
+        "pl": "...jest przyklejony do rury na ścianie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_poster WeCouldRotateit": {
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds1": {
+        "en": "The pipe looks a little loose... d'you think it's supposed to [i]move?[/i]",
+        "pl": "Ta rura wygląda na trochę luźną... myślisz, że powinna się [i]ruszać?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds1 Choice 1": {
+        "en": "Rotate Pipe",
+        "pl": "Obróć rurę",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds3": {
+        "en": "That poster...\n",
+        "pl": "Ten plakat...\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeCouldRotateit/Section ds5": {
+        "en": "...it's taped to a pipe on the wall.",
+        "pl": "...jest przyklejony do rury na ścianie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_poster WeRotatedIt": {
+      "Examine/Exam_Area_IllusionTheatre_poster WeRotatedIt/Section ds1": {
+        "en": "So it's a winch handle disguised as a pipe?",
+        "pl": "Więc to korba wciągarki zamaskowana jako rura?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_poster WeRotatedIt/Section ds3": {
+        "en": "That explains why the poster was [i]upside-down!\n[/i]",
+        "pl": "To wyjaśnia, czemu plakat był [i]do góry nogami!\n[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_IllusionTheatre_stool 1": {
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Request Hint0": {
+        "en": "Where else have we seen a stool like this...?",
+        "pl": "Gdzie jeszcze widzieliśmy taki stołek...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds0": {
+        "en": "The stool's been knocked over.",
+        "pl": "Stołek został przewrócony.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds1": {
+        "en": "Doesn't it look familiar to you?",
+        "pl": "Nie wydaje ci się znajomy?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds2": {
+        "en": "Sally. It's a standard wooden stool, I don't-",
+        "pl": "Sally. To zwyczajny drewniany stołek, ja nie-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds2 Choice 1": {
+        "en": "I know where it's from!",
+        "pl": "Wiem, skąd on jest!",
+        "speaker": "Sally (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds2 Choice 2": {
+        "en": "Never mind...",
+        "pl": "Nieważne...",
+        "speaker": "Sally (opcja wyboru)"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 1/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_IllusionTheatre_stool 2": {
+      "Examine/Exam_Area_IllusionTheatre_stool 2/Section ds3": {
+        "en": "It looks [i]exactly[/i] like the bar stools in the Stonetop Inn.",
+        "pl": "Wygląda [i]dokładnie[/i] jak barowe stołki w Gospodzie Stonetop.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 2/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_IllusionTheatre_stool 3": {
+      "Examine/Exam_Area_IllusionTheatre_stool 3/Section ds3": {
+        "en": "It looks [i]exactly[/i] like the bar stools in the Stonetop Inn.",
+        "pl": "Wygląda [i]dokładnie[/i] jak barowe stołki w Gospodzie Stonetop.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_IllusionTheatre_stool 3/Section ds4": {
+        "en": "The stool's been knocked over.",
+        "pl": "Stołek został przewrócony.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

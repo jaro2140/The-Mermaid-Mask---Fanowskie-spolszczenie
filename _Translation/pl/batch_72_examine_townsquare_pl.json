@@ -1,0 +1,818 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja TownSquare/Rynek Miejski (149 terminow, ~27 mikroscen) - epilog gry, ostatnia lokacja odwiedzana po rozwiazaniu sprawy. Zawiera pozegnalne sceny ze wszystkimi podejrzanymi (Dirk, Moon, Symmetry+Sinthia, Wirman) oraz zartobliwe zamkniecie fabuly (nazwa 'Sybilla' dla Sally, meta-zart o czwartej scianie).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Scena SymSinthia (Symmetry+Sinthia pozegnanie) ma najwiecej niepewnosci co do przypisania konkretnych linii - oznaczona w _meta jako do weryfikacji.",
+    "uwagi": "statue_early/ds2 replikuje zrodlowy blad tagow (podwojny otwierajacy [i] bez zamkniecia) dla zachowania parytetu tagow z validatorem, zgodnie z ustalona konwencja z poprzednich batchy."
+  },
+  "categories": {
+    "Exam_Area_TownSquare_BG": {
+      "Examine/Exam_Area_TownSquare_BG/Section ds1": {
+        "en": "[i]Silkwirm-on-Sea.[/i]\nIt's a ghost town...",
+        "pl": "[i]Silkwirm-on-Sea.[/i]\nTo miasto-widmo...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_BG/Section ds2": {
+        "en": "A [i]ghost[/i] town?",
+        "pl": "Miasto-[i]widmo[/i]?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_BG/Section ds3": {
+        "en": "I just meant - since, you know, it's abandoned.",
+        "pl": "Miałem na myśli tylko - no wiesz, jest opuszczone.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_BG/Section ds4": {
+        "en": "But yeah there might be ghosts.",
+        "pl": "Ale tak, mogą tu być duchy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_Dirk": {
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds0": {
+        "en": "Catching up on your text messages?",
+        "pl": "Nadrabiasz zaległości z wiadomościami?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds1": {
+        "en": "[i]Zero[/i] missed calls. Can you believe that? [i]Zero.[/i]",
+        "pl": "[i]Zero[/i] nieodebranych połączeń. Wierzysz w to? [i]Zero.[/i]",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds2": {
+        "en": "Devastating.",
+        "pl": "Miażdżące.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds3": {
+        "en": "Not even from Van De Peer?",
+        "pl": "Nawet od Van De Peera?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds4": {
+        "en": "I'm writing him a message now. Giving him the deets.",
+        "pl": "Właśnie piszę mu wiadomość. Podaję mu szczegóły.",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds5": {
+        "en": "A [i]very selective[/i] version of the deets.",
+        "pl": "[i]Bardzo wybiórczą[/i] wersję szczegółów.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds6": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Dirk"
+      },
+      "Examine/Exam_Area_TownSquare_Dirk/Section ds7": {
+        "en": "Smart.",
+        "pl": "Sprytne.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_Gripps_ending": {
+      "Examine/Exam_Area_TownSquare_Gripps_ending/Section ds0": {
+        "en": "Gripp's Emporium.",
+        "pl": "Emporium Grippa.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Gripps_ending/Section ds2": {
+        "en": "Wanna take a look inside?",
+        "pl": "Chcesz zerknąć do środka?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Gripps_ending/Section ds3": {
+        "en": "Oh, a nice bit of [i]breaking and entering[/i] to finish off the day?",
+        "pl": "Och, miłe [i]włamanie[/i] na zakończenie dnia?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Gripps_ending/Section ds5": {
+        "en": "Eh. We've done worse.",
+        "pl": "Eh. Robiliśmy gorsze rzeczy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_Moon": {
+      "Examine/Exam_Area_TownSquare_Moon/Section ds0": {
+        "en": "I don't know about you, but I thought that was all [i]very[/i] interesting.",
+        "pl": "Nie wiem jak wy, ale ja uznałam to wszystko za [i]bardzo[/i] interesujące.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds1": {
+        "en": "You must be pleased, you've come away with a new story to tell around the campfire.",
+        "pl": "Musisz być zadowolona, wracasz z nową historią do opowiadania przy ognisku.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds10": {
+        "en": "I'm almost afraid to ask-",
+        "pl": "Boję się prawie zapytać-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds11": {
+        "en": "Sibyl.",
+        "pl": "Sybilla.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds12": {
+        "en": "Yep, this conversation is over.",
+        "pl": "No dobra, ta rozmowa jest skończona.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds2": {
+        "en": "Quite right!",
+        "pl": "Zgadza się!",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds3": {
+        "en": "Uh, yeah. I would have to agree.",
+        "pl": "Yy, tak. Musiałbym się zgodzić.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds4": {
+        "en": "Hm, I'm not sure it would be wise to tell too many people-",
+        "pl": "Hm, nie jestem pewien, czy mądrze byłoby opowiadać o tym zbyt wielu ludziom-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds5": {
+        "en": "Oh, don't worry - I'll [i]change[/i] all your names to protect your privacy.",
+        "pl": "Och, nie martw się - [i]zmienię[/i] wam wszystkim imiona, żeby chronić waszą prywatność.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds6": {
+        "en": "What are you going to change [i]my[/i] name to?",
+        "pl": "Na co zmienisz [i]moje[/i] imię?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds7": {
+        "en": "Detective Gallothorne.",
+        "pl": "Detektyw Gallothorne.",
+        "speaker": "Moon"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds8": {
+        "en": "Wow. I Love it.",
+        "pl": "Wow. Uwielbiam je.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Moon/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_Sally": {
+      "Examine/Exam_Area_TownSquare_Sally/Section ds1": {
+        "en": "I thought I was, but maybe not. Maybe this is my dream.",
+        "pl": "Myślałam, że tak, ale może nie. Może to jest mój sen.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Sally/Section ds2": {
+        "en": "Are you awake?",
+        "pl": "Czy jesteś przebudzona?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Sally/Section ds4": {
+        "en": "It's not a dream.",
+        "pl": "To nie jest sen.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Sally/Section ds5": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Sally/Section ds6": {
+        "en": "That's exactly what [h]dream Grimoire[/h] would say.",
+        "pl": "Dokładnie to powiedziałby [h]senny Grimoire[/h].",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_SallyEnding": {
+      "Examine/Exam_Area_TownSquare_SallyEnding/Section ds2": {
+        "en": "Are you okay?",
+        "pl": "Wszystko w porządku?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_SallyEnding/Section ds3": {
+        "en": "Yeah. You?",
+        "pl": "Tak. A ty?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_SallyEnding/Section ds4": {
+        "en": "Somehow, yeah.",
+        "pl": "Jakoś tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_Submarine": {
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds2": {
+        "en": "...a submarine?",
+        "pl": "...łódź podwodna?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds4": {
+        "en": "Maybe we should go take a look.",
+        "pl": "Może powinniśmy pójść zobaczyć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds4 Choice 1": {
+        "en": "Board it",
+        "pl": "Wejdź na pokład",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds4 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds4 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds5": {
+        "en": "...is that...?",
+        "pl": "...czy to...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine/Section ds6": {
+        "en": "I think I can see someone standing on the deck...",
+        "pl": "Chyba widzę kogoś stojącego na pokładzie...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_Submarine1": {
+      "Examine/Exam_Area_TownSquare_Submarine1/Section ds6": {
+        "en": "That was the [i]weirdest[/i] submarine I've ever been on.",
+        "pl": "To była [i]najdziwniejsza[/i] łódź podwodna, na jakiej kiedykolwiek byłem.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine1/Section ds8": {
+        "en": "...and the last?",
+        "pl": "...i ostatnia?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine1/Section ds9": {
+        "en": "And the last.",
+        "pl": "I ostatnia.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_Submarine2": {
+      "Examine/Exam_Area_TownSquare_Submarine2/Section ds2": {
+        "en": "And just like that, it's gone.",
+        "pl": "I tak po prostu, zniknęła.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Submarine2/Section ds7": {
+        "en": "I wonder if we'll ever see it again.",
+        "pl": "Zastanawiam się, czy jeszcze ją kiedyś zobaczymy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_SymSinthia": {
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds1": {
+        "en": "Of course. We all are.",
+        "pl": "Oczywiście. Wszyscy jesteśmy.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds10": {
+        "en": "Yeah, I've got a couple friends you could stay with.",
+        "pl": "Tak, mam kilku znajomych, u których mogłybyście się zatrzymać.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds11": {
+        "en": "I'll write down the address for you.",
+        "pl": "Zapiszę wam adres.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds12": {
+        "en": "Ah! Thank you!",
+        "pl": "Ach! Dziękuję!",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds14": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds2": {
+        "en": "She's still processing.",
+        "pl": "Ona wciąż to przetwarza.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds3": {
+        "en": "You okay, Sinthia?",
+        "pl": "W porządku, Sinthio?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds4": {
+        "en": "That and we've just been to tell her step-father that we're leaving Silkwirm.",
+        "pl": "To, oraz to, że właśnie powiedziałyśmy jej ojczymowi, że opuszczamy Silkwirm.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds5": {
+        "en": "Oh? Where you headed?",
+        "pl": "Och? Dokąd się wybieracie?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds7": {
+        "en": "We, uh - haven't worked that out yet.",
+        "pl": "My, yy - jeszcze tego nie ustaliłyśmy.",
+        "speaker": "Symmetry"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds8": {
+        "en": "...I know a place you could go.",
+        "pl": "...znam miejsce, do którego mogłybyście pojechać.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_SymSinthia/Section ds9": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Symmetry"
+      }
+    },
+    "Exam_Area_TownSquare_Wirman": {
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds0": {
+        "en": "Easily one of the strangest days of my life.\n",
+        "pl": "Zdecydowanie jeden z najdziwniejszych dni w moim życiu.\n",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds2": {
+        "en": "It's in the top five at least.",
+        "pl": "Jest przynajmniej w pierwszej piątce.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds3": {
+        "en": "What are you going to do now?",
+        "pl": "Co teraz zrobisz?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds4": {
+        "en": "So far the only thing I've decided on is to go home and have a [i]bath.[/i]",
+        "pl": "Na razie jedyne, co postanowiłem, to pójść do domu i wziąć [i]kąpiel.[/i]",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds5": {
+        "en": "A bath? You haven't had enough [i]being-submerged-in-water[/i] for one day?",
+        "pl": "Kąpiel? Nie miałeś dość [i]bycia-zanurzonym-w-wodzie[/i] jak na jeden dzień?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Examine/Exam_Area_TownSquare_Wirman/Section ds8": {
+        "en": "Okay maybe a shower.",
+        "pl": "Dobra, może prysznic.",
+        "speaker": "Wirman"
+      }
+    },
+    "Exam_Area_TownSquare_greenlight": {
+      "Examine/Exam_Area_TownSquare_greenlight/Section ds0": {
+        "en": "But whatever it is, it's the source of the green light.",
+        "pl": "Ale cokolwiek to jest, to źródło zielonego światła.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_greenlight/Section ds1": {
+        "en": "What is it...?",
+        "pl": "Co to jest...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_greenlight/Section ds2": {
+        "en": "There's something in the water...",
+        "pl": "Coś jest w wodzie...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_greenlight/Section ds3": {
+        "en": "I don't know.",
+        "pl": "Nie wiem.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_gripps": {
+      "Examine/Exam_Area_TownSquare_gripps/Section ds0": {
+        "en": "What d'you think they sell?",
+        "pl": "Jak myślisz, co tu sprzedawali?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_gripps/Section ds1": {
+        "en": "Another abandoned building.\n[i]Mr Gripp's Emporium[/i].",
+        "pl": "Kolejny opuszczony budynek.\n[i]Emporium Pana Grippa[/i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_gripps/Section ds2": {
+        "en": "Currently? Nothing.",
+        "pl": "Obecnie? Nic.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_grippsign": {
+      "Examine/Exam_Area_TownSquare_grippsign/Section ds0": {
+        "en": "That must be the logo for [i]Mr Gripp's Emporium.[/i]",
+        "pl": "To musi być logo [i]Emporium Pana Grippa.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_grippsign/Section ds1": {
+        "en": "I think it's a hot air balloon.",
+        "pl": "Chyba to balon na ogrzane powietrze.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_grippsign/Section ds2": {
+        "en": "I've always wanted to go in a hot air balloon!",
+        "pl": "Zawsze chciałam polecieć balonem!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_grippsign/Section ds3": {
+        "en": "Well then - you're in the right place!",
+        "pl": "No to - jesteś we właściwym miejscu!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_grippsign/Section ds4": {
+        "en": "At the wrong time.",
+        "pl": "W niewłaściwym czasie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_harbor": {
+      "Examine/Exam_Area_TownSquare_harbor/Section ds0": {
+        "en": "It's a small harbor, with a couple of wooden jetties.",
+        "pl": "To mały port z kilkoma drewnianymi pomostami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_harbor/Section ds2": {
+        "en": "This is a fishing town, right?",
+        "pl": "To rybackie miasteczko, prawda?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_harbor/Section ds3": {
+        "en": "Used to be.",
+        "pl": "Kiedyś było.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_lighthouse": {
+      "Examine/Exam_Area_TownSquare_lighthouse/Section ds0": {
+        "en": "There's an old lighthouse up on that rock.",
+        "pl": "Na tej skale stoi stara latarnia morska.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse/Section ds1": {
+        "en": "Can we go up to the top?",
+        "pl": "Możemy wejść na szczyt?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse/Section ds2": {
+        "en": "Do you have permission from the lighthouse keeper?",
+        "pl": "Masz pozwolenie od latarnika?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse/Section ds3": {
+        "en": "...[i]no?[/i]",
+        "pl": "...[i]nie?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse/Section ds4": {
+        "en": "Then no.",
+        "pl": "W takim razie nie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_lighthouse_ending": {
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds0": {
+        "en": "We never got to go to the lighthouse...",
+        "pl": "Nigdy nie udało nam się pójść do latarni...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds10": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds2": {
+        "en": "Well, hey. Maybe our next case'll be [i]entirely[/i] in a lighthouse.",
+        "pl": "Cóż, hej. Może nasza następna sprawa będzie się rozgrywać [i]całkowicie[/i] w latarni morskiej.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds3": {
+        "en": "No way, this was [h]it[/h] - [h]this[/h] was the lighthouse case.",
+        "pl": "Nie ma mowy, to była [h]ta[/h] - [h]to[/h] była sprawa latarni.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds4": {
+        "en": "I'm just saying, next time the theme will most likely be totally different.",
+        "pl": "Mówię tylko, że następnym razem motyw najprawdopodobniej będzie zupełnie inny.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds5": {
+        "en": "If there even [h]is[/h] a next time.",
+        "pl": "Jeśli w ogóle [h]będzie[/h] następny raz.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds7": {
+        "en": "Would you mind not leaning on the fourth wall like that?",
+        "pl": "Czy mogłabyś nie opierać się tak o czwartą ścianę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds8": {
+        "en": "[i]Now[/i] who's leaning on the fourth wall?",
+        "pl": "[i]Teraz[/i] to kto opiera się o czwartą ścianę?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_lighthouse_ending/Section ds9": {
+        "en": "This was a [i]lot[/i] of work - it may be unsustainable.",
+        "pl": "To było [i]mnóstwo[/i] pracy - może to być niewykonalne na dłuższą metę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_signpost": {
+      "Examine/Exam_Area_TownSquare_signpost/Section ds0": {
+        "en": "It's a signpost.\nLists a bunch of places in the town...",
+        "pl": "To drogowskaz.\nWymienia kilka miejsc w mieście...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_signpost/Section ds1": {
+        "en": "[i]Drummond Shipyard.\nSeafoam Harbor.[/i]\n",
+        "pl": "[i]Stocznia Drummonda.\nPort Seafoam.[/i]\n",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_signpost/Section ds2": {
+        "en": "[i]Gripp's Emporium.\nStonetop Inn.\nThe Silkwirm Spectator.[/i]",
+        "pl": "[i]Emporium Grippa.\nGospoda Stonetop.\nThe Silkwirm Spectator.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_signpost/Section ds3": {
+        "en": "[i]Fortuna Hall Theatre.\nSilkwirm-on-Sea Town Hall.[/i]",
+        "pl": "[i]Teatr Fortuna Hall.\nRatusz Silkwirm-on-Sea.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_signpost/Section ds4": {
+        "en": "None of those places are open, so we don't have to worry about them.",
+        "pl": "Żadne z tych miejsc nie jest otwarte, więc nie musimy się nimi martwić.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_signpost/Section ds5": {
+        "en": "Good, because I've forgotten them all already.",
+        "pl": "Dobrze, bo i tak już wszystkie zapomniałam.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_sky": {
+      "Examine/Exam_Area_TownSquare_sky/Section ds0": {
+        "en": "I think it's almost dawn.",
+        "pl": "Chyba już prawie świt.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_sky_ending": {
+      "Examine/Exam_Area_TownSquare_sky_ending/Section ds0": {
+        "en": "It's sunrise.",
+        "pl": "Wschodzi słońce.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_sky_ending/Section ds2": {
+        "en": "How long were we on the submarine?",
+        "pl": "Jak długo byliśmy na tej łodzi podwodnej?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_sky_ending/Section ds3": {
+        "en": "Uh... about twenty-six hours?",
+        "pl": "Yy... jakieś dwadzieścia sześć godzin?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_sky_ending/Section ds4": {
+        "en": "[i]That's[/i] why I'm so hungry.",
+        "pl": "[i]Dlatego[/i] jestem taki głodny.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_statue": {
+      "Examine/Exam_Area_TownSquare_statue/Section ds0": {
+        "en": "Are you surprised this didn't turn out to be about the Silversnake?",
+        "pl": "Jesteś zaskoczona, że to nie okazało się mieć związku ze Srebrnym Wężem?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_statue/Section ds2": {
+        "en": "Yeah, I guess...",
+        "pl": "Tak, chyba tak...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_statue/Section ds3": {
+        "en": "Although, they may be more related than we know.",
+        "pl": "Chociaż, mogą być ze sobą bardziej powiązane, niż nam się wydaje.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_statue/Section ds4": {
+        "en": "What, the Silversnake and The Mermaid?",
+        "pl": "Co, Srebrny Wąż i Syrena?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_statue/Section ds5": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_statue/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_statue_early": {
+      "Examine/Exam_Area_TownSquare_statue_early/Section ds0": {
+        "en": "A large stone statue on top of a fountain.",
+        "pl": "Wielki kamienny posąg na szczycie fontanny.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_statue_early/Section ds1": {
+        "en": "It looks like a fisherman wrestling with some kind of... dragon?",
+        "pl": "Wygląda jak rybak zmagający się z jakimś... smokiem?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_statue_early/Section ds2": {
+        "en": "It says right here;\n[i]The Silkwirm Serpent[i].",
+        "pl": "Napisano tu:\n[i]Wąż z Silkwirm[i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_statue_early/Section ds4": {
+        "en": "It can't be a serpent. It has legs.",
+        "pl": "To nie może być wąż. Ma nogi.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_statue_early/Section ds5": {
+        "en": "Right??",
+        "pl": "No nie??",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_stonetopInn_ending": {
+      "Examine/Exam_Area_TownSquare_stonetopInn_ending/Section ds0": {
+        "en": "The Stonetop Inn.",
+        "pl": "Gospoda Stonetop.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopInn_ending/Section ds2": {
+        "en": "Five stars. Nice and quiet. Would sleep on floor again.",
+        "pl": "Pięć gwiazdek. Miło i cicho. Chętnie znów prześpię się na podłodze.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_stonetopinn": {
+      "Examine/Exam_Area_TownSquare_stonetopinn/Section ds1": {
+        "en": "[i]The Stonetop Inn.\nThe Best Inn in Silkwirm-on-Sea.[/i]",
+        "pl": "[i]Gospoda Stonetop.\nNajlepsza Gospoda w Silkwirm-on-Sea.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopinn/Section ds2": {
+        "en": "It's the [h]only[/h] inn.",
+        "pl": "To [h]jedyna[/h] gospoda.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopinn/Section ds3": {
+        "en": "And therefore the best.",
+        "pl": "A zatem najlepsza.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_stonetopsign": {
+      "Examine/Exam_Area_TownSquare_stonetopsign/Section ds0": {
+        "en": "It's the Stonetop emblem I guess. Looks like a snowman.",
+        "pl": "To chyba godło Stonetop. Wygląda jak bałwan.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopsign/Section ds1": {
+        "en": "It's not- why would it be a snowman???",
+        "pl": "To nie- czemu miałby to być bałwan???",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopsign/Section ds2": {
+        "en": "Alright then, what is it?",
+        "pl": "No dobrze, to co to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopsign/Section ds3": {
+        "en": "I think it's three stones stacked on top of each other.",
+        "pl": "Myślę, że to trzy kamienie ułożone jeden na drugim.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_stonetopsign/Section ds4": {
+        "en": "Oh that actually does make more sense.",
+        "pl": "O, to faktycznie ma więcej sensu.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_theatre": {
+      "Examine/Exam_Area_TownSquare_theatre/Section ds0": {
+        "en": "[i]Baroness Fortuna presents:\nFortuna Hall[/i]",
+        "pl": "[i]Baronowa Fortuna przedstawia:\nFortuna Hall[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_theatre/Section ds1": {
+        "en": "It's a billboard for a theatre.",
+        "pl": "To billboard teatru.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_theatre/Section ds2": {
+        "en": "[i]Performing tonight:\nWaylan Wolfe[/i]",
+        "pl": "[i]Dziś wieczorem występuje:\nWaylan Wolfe[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_theatre/Section ds3": {
+        "en": "Ooh - tonight?",
+        "pl": "Ooo - dziś wieczorem?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_theatre/Section ds5": {
+        "en": "Also the sign is several years old.",
+        "pl": "Poza tym ten szyld ma kilka lat.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_theatre/Section ds6": {
+        "en": "We didn't come all this way to go to the theatre.",
+        "pl": "Nie przebyliśmy tej całej drogi, żeby iść do teatru.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_TownSquare_theatresign": {
+      "Examine/Exam_Area_TownSquare_theatresign/Section ds0": {
+        "en": "[i]Performing tonight:\nWaylan Wolfe[/i]",
+        "pl": "[i]Dziś wieczorem występuje:\nWaylan Wolfe[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_theatresign/Section ds2": {
+        "en": "Seems like that never actually happened...",
+        "pl": "Wygląda na to, że to nigdy się nie odbyło...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_theatresign/Section ds3": {
+        "en": "I wonder what happened to him - Wolfe?",
+        "pl": "Zastanawiam się, co się z nim stało - z Wolfe'em?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_theatresign/Section ds4": {
+        "en": "...maybe it's better that we don't know.",
+        "pl": "...może lepiej, że nie wiemy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_TownSquare_town": {
+      "Examine/Exam_Area_TownSquare_town/Section ds0": {
+        "en": "Silkwirm-on-sea.",
+        "pl": "Silkwirm-on-Sea.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds2": {
+        "en": "What do you think will happen to it?",
+        "pl": "Jak myślisz, co się z nim stanie?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds3": {
+        "en": "Bulldozed. Parking lot. Within the month.",
+        "pl": "Zrównają je z ziemią. Parking. W ciągu miesiąca.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds4": {
+        "en": "Grimoire.",
+        "pl": "Grimoire.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds5": {
+        "en": "Well, what do [i]you[/i] think?",
+        "pl": "No to co [i]ty[/i] myślisz?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds7": {
+        "en": "I think there's a chance the people who used to live here might come back.",
+        "pl": "Myślę, że jest szansa, że ludzie, którzy tu kiedyś mieszkali, mogą wrócić.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_TownSquare_town/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Examine/Exam_Area_TownSquare_SymSinthia (cala scena)",
+      "issue": "Przypisanie konkretnych linii do Symmetry vs Sinthia w scenie pozegnalnej niepewne - brak metadata mowcy w zrodle (kategoria Examine bez pokrycia w speaker_map). Logika przypisania: Sinthia jako ta bardziej wycofana/przetwarzajaca ('...' w ds0/ds6/ds14), Symmetry jako ta odpowiadajaca w jej imieniu. Do potwierdzenia w grze."
+    }
+  ]
+}

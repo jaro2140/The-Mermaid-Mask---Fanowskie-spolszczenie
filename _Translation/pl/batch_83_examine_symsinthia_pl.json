@@ -1,0 +1,367 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja SymSinthia (62 terminy, ~19 mikroscen) - wspolny pokoj z pryczami Symmetry i Sinthii (para). Zawiera oddzielne lozka obu postaci, tajemnicze zdjecie podwodne, oraz drobne szczegoly ich osobowosci (rysunki Sinthii, energia Sym).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_SymSinthia_BG": {
+      "Examine/Exam_Area_SymSinthia_BG/Section ds0": {
+        "en": "It's Sym and Sinthia's bunk room.",
+        "pl": "To pokój z pryczami Sym i Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_BG/Section ds1": {
+        "en": "It's pretty cosy.",
+        "pl": "Jest całkiem przytulnie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_Familyphoto": {
+      "Examine/Exam_Area_SymSinthia_Familyphoto/Section ds0": {
+        "en": "It's been hung from the pipe,\nso you can see it from the bed.",
+        "pl": "Powieszono to na rurze,\nżeby było widać z łóżka.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_Familyphoto/Section ds1": {
+        "en": "A framed photo.",
+        "pl": "Oprawione zdjęcie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_LockedBoxEnd": {
+      "Examine/Exam_Area_SymSinthia_LockedBoxEnd/Section ds0": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxEnd/Section ds1": {
+        "en": "What's inside?",
+        "pl": "Co jest w środku?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_LockedBoxSolved": {
+      "Examine/Exam_Area_SymSinthia_LockedBoxSolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_SymSinthia_LockedBoxStart": {
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds0": {
+        "en": "-in the shape of a pig.",
+        "pl": "-w kształcie świnki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds3": {
+        "en": "It's a pig.",
+        "pl": "To świnka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds4": {
+        "en": "It's a [h]safe.[/h]",
+        "pl": "To [h]skarbonka.[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_LockedBoxStart/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_Magazine": {
+      "Examine/Exam_Area_SymSinthia_Magazine/Section ds0": {
+        "en": "Hey, this is pretty recent...",
+        "pl": "Hej, to całkiem świeże wydanie...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_Magazine/Section ds1": {
+        "en": "It's a magazine.",
+        "pl": "To czasopismo.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_Underwater Photo": {
+      "Examine/Exam_Area_SymSinthia_Underwater Photo/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_Underwater Photo/Section ds3": {
+        "en": "What is it?",
+        "pl": "Co to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_Underwater Photo/Section ds4": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_Underwater Photo/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_Underwater Photo 2": {
+      "Examine/Exam_Area_SymSinthia_Underwater Photo 2/Section ds6": {
+        "en": "Well, I guess we can start by asking Sym and Sinthia about it.",
+        "pl": "Cóż, chyba możemy zacząć od zapytania o to Sym i Sinthii.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_bird": {
+      "Examine/Exam_Area_SymSinthia_bird/Section ds0": {
+        "en": "It's an origami bird.",
+        "pl": "To ptak origami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_bird/Section ds1": {
+        "en": "The movement of the submarine makes it look like it's blowing in the wind...",
+        "pl": "Ruch łodzi podwodnej sprawia, że wygląda, jakby powiewał na wietrze...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_boardgame": {
+      "Examine/Exam_Area_SymSinthia_boardgame/Section ds0": {
+        "en": "Oh cool, a board game.\nWanna play?",
+        "pl": "O, super, gra planszowa.\nChcesz zagrać?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_boardgame/Section ds1": {
+        "en": "We don't know the rules.",
+        "pl": "Nie znamy zasad.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_boardgame/Section ds2": {
+        "en": "...you don't normally let that stop you.",
+        "pl": "...zwykle cię to nie powstrzymuje.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_bookpile": {
+      "Examine/Exam_Area_SymSinthia_bookpile/Section ds1": {
+        "en": "Old books...\nMostly fairy tales for young children.",
+        "pl": "Stare książki...\nGłównie bajki dla małych dzieci.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_bookpile/Section ds3": {
+        "en": "They've been stacked up into a little tower.",
+        "pl": "Ułożono je w małą wieżę.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_chips": {
+      "Examine/Exam_Area_SymSinthia_chips/Section ds0": {
+        "en": "What flavor?",
+        "pl": "Jaki smak?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_chips/Section ds1": {
+        "en": "'Sun-Ripened Tomato.'",
+        "pl": "'Pomidor Dojrzewający na Słońcu.'",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_chips/Section ds2": {
+        "en": "Dang.\nSounds good.",
+        "pl": "Ojej.\nBrzmi nieźle.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_craftbox": {
+      "Examine/Exam_Area_SymSinthia_craftbox/Section ds0": {
+        "en": "A little wooden box with art supplies inside.",
+        "pl": "Małe drewniane pudełko z przyborami plastycznymi w środku.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_SymSinthia_drawings": {
+      "Examine/Exam_Area_SymSinthia_drawings/Section ds0": {
+        "en": "A few drawings.\nA mouse, a girl, a leaf-",
+        "pl": "Kilka rysunków.\nMysz, dziewczynka, liść-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_drawings/Section ds1": {
+        "en": "You're right.\nThey're great.",
+        "pl": "Masz rację.\nSą świetne.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_drawings/Section ds2": {
+        "en": "They're uh...\n[i]...not good.[/i]",
+        "pl": "Są, yy...\n[i]...kiepskie.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_house1": {
+      "Examine/Exam_Area_SymSinthia_house1/Section ds1": {
+        "en": "Look at that little wooden house!",
+        "pl": "Spójrz na ten mały drewniany domek!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_house1/Section ds2": {
+        "en": "Looks like it'd be a nice place to live.",
+        "pl": "Wygląda na miłe miejsce do mieszkania.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_ladder": {
+      "Examine/Exam_Area_SymSinthia_ladder/Section ds0": {
+        "en": "Imagine having to climb a ladder every time you want to go to bed...",
+        "pl": "Wyobraź sobie, że musisz wspinać się po drabinie za każdym razem, gdy chcesz iść do łóżka...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_ladder/Section ds1": {
+        "en": "Sounds like fun.",
+        "pl": "Brzmi zabawnie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_mirror": {
+      "Examine/Exam_Area_SymSinthia_mirror/Section ds0": {
+        "en": "It's a mirror.",
+        "pl": "To lustro.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_mirror/Section ds2": {
+        "en": "My hair is perfect and does [h]not[/h] need fixing.",
+        "pl": "Moje włosy są idealne i [h]nie[/h] potrzebują poprawek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_mirror/Section ds3": {
+        "en": "Sally - you can use it to fix your hair.",
+        "pl": "Sally - możesz go użyć, żeby poprawić swoje włosy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_polaroids": {
+      "Examine/Exam_Area_SymSinthia_polaroids/Section ds0": {
+        "en": "Instant photos.\nThe kind you have to shake.",
+        "pl": "Zdjęcia natychmiastowe.\nTakie, które trzeba potrząsać.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_polaroids/Section ds1": {
+        "en": "That's a myth, actually - you shouldn't shake them.\nIt damages them.",
+        "pl": "To właściwie mit - nie powinno się nimi potrząsać.\nTo je niszczy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_polaroids/Section ds2": {
+        "en": "Well.\nThat's [h]my[/h] life turned upside down.",
+        "pl": "Cóż.\nTo [h]moje[/h] życie wywrócone do góry nogami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_polaroids/Section ds3": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_SymSinthia_sinthiabed1": {
+      "Examine/Exam_Area_SymSinthia_sinthiabed1/Section ds0": {
+        "en": "It's Sinthia's bed.",
+        "pl": "To łóżko Sinthii.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed1/Section ds1": {
+        "en": "How can you tell it's hers?",
+        "pl": "Skąd wiesz, że to jej?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed1/Section ds2": {
+        "en": "Process of elimination.",
+        "pl": "Metoda eliminacji.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_sinthiabed2": {
+      "Examine/Exam_Area_SymSinthia_sinthiabed2/Section ds0": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed2/Section ds2": {
+        "en": "I hate to pry, but...",
+        "pl": "Nie lubię się wtrącać, ale...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed2/Section ds2 Choice 1": {
+        "en": "Under the mattress...",
+        "pl": "Pod materacem...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed2/Section ds2 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_SymSinthia_sinthiabed2/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_SymSinthia_sinthiabed3": {
+      "Examine/Exam_Area_SymSinthia_sinthiabed3/Section ds0": {
+        "en": "It's Sinthia's bed.",
+        "pl": "To łóżko Sinthii.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_symbed1": {
+      "Examine/Exam_Area_SymSinthia_symbed1/Section ds0": {
+        "en": "It's Sym's bed.",
+        "pl": "To łóżko Sym.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_symbed1/Section ds1": {
+        "en": "It just has her energy.",
+        "pl": "Po prostu ma jej energię.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_symbed1/Section ds2": {
+        "en": "How can you tell?",
+        "pl": "Skąd wiesz?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_SymSinthia_window": {
+      "Examine/Exam_Area_SymSinthia_window/Section ds0": {
+        "en": "It's a window. It must be a light, too, since we're underwater...",
+        "pl": "To okno. Musi być też lampą, skoro jesteśmy pod wodą...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_window/Section ds1": {
+        "en": "They've taped yellow paper to it.",
+        "pl": "Przykleiły do niego żółty papier.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_SymSinthia_window/Section ds2": {
+        "en": "So?",
+        "pl": "I co z tego?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_SymSinthia_window/Section ds3": {
+        "en": "I think they want it to look like the sun...",
+        "pl": "Myślę, że chcą, żeby wyglądało jak słońce...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

@@ -1,0 +1,350 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja Bilge/Zeza (61 terminow, ~16 mikroscen) - ciemne pomieszczenie ponizej poziomu wody, wymagajace mechaniki latarki (telefon Dirka). Zawiera tajemnicze urzadzenie oraz przelacznik otwierajacy odplyw widziany wczesniej w Illusion Theatre.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Powtarzajacy sie klucz 'Request exitClueRequest0Hint0' (identyczny tekst w 5 scenach) przetlumaczony jednolicie."
+  },
+  "categories": {
+    "Exam_Area_Bilge_BGDark 1": {
+      "Examine/Exam_Area_Bilge_BGDark 1/Request exitClueRequest0Hint0": {
+        "en": "...is there something we can use as a flashlight?",
+        "pl": "...czy jest tu coś, czego moglibyśmy użyć jako latarki?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds0": {
+        "en": "It's almost pitch black in here...",
+        "pl": "Jest tu prawie zupełnie ciemno...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds2": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds2 Choice 1": {
+        "en": "There is something...",
+        "pl": "Coś tu jest...",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds2 Choice 2": {
+        "en": "There's no flashlight",
+        "pl": "Nie ma latarki",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds2 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds3": {
+        "en": "I'm guessing you didn't bring a flashlight.",
+        "pl": "Zgaduję, że nie wziąłeś latarki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds4": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 1/Section ds6": {
+        "en": "I'm guessing you didn't bring a flashlight.",
+        "pl": "Zgaduję, że nie wziąłeś latarki.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Bilge_BGDark 2": {
+      "Examine/Exam_Area_Bilge_BGDark 2/Section ds7": {
+        "en": "We can use Dirk's cell phone!",
+        "pl": "Możemy użyć telefonu Dirka!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 2/Section ds8": {
+        "en": "Probably not?",
+        "pl": "Chyba nie?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_BGDark 2/Section ds9": {
+        "en": "Do you think he'll mind?",
+        "pl": "Myślisz, że będzie miał coś przeciwko?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Bilge_DivingLicense": {
+      "Examine/Exam_Area_Bilge_DivingLicense/Section ds0": {
+        "en": "What's this...?",
+        "pl": "Co to jest...?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_DrainLight": {
+      "Examine/Exam_Area_Bilge_DrainLight/Section ds0": {
+        "en": "The light is coming through an open drain in the ceiling.",
+        "pl": "Światło wpada przez otwarty odpływ w suficie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_DrainLight/Section ds1": {
+        "en": "A drain in the [h]floor[/h] of the room above, you mean.",
+        "pl": "Masz na myśli odpływ w [h]podłodze[/h] pokoju powyżej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_DrainLight/Section ds2": {
+        "en": "[i]Literally,[/i] the same thing.",
+        "pl": "[i]Dosłownie[/i] to samo.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_Flashlight at 1": {
+      "Examine/Exam_Area_Bilge_Flashlight at 1/Section ds0": {
+        "en": "Point it here!",
+        "pl": "Skieruj ją tutaj!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_Flashlight at 1/Section ds1": {
+        "en": "Here?",
+        "pl": "Tutaj?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_Flashlight at 2": {
+      "Examine/Exam_Area_Bilge_Flashlight at 2/Section ds0": {
+        "en": "No - not there - over here!",
+        "pl": "Nie - nie tam - tutaj!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_Flashlight at 2/Section ds1": {
+        "en": "Like this?",
+        "pl": "Tak?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_Flashlight at 3": {
+      "Examine/Exam_Area_Bilge_Flashlight at 3/Section ds0": {
+        "en": "You're doing it wrong!\nPoint it over here!",
+        "pl": "Robisz to źle!\nSkieruj ją tutaj!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_Flashlight at 3/Section ds1": {
+        "en": "Over here?",
+        "pl": "Tutaj?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_Flashlight at 4": {
+      "Examine/Exam_Area_Bilge_Flashlight at 4/Section ds1": {
+        "en": "I would [i]never.[/i]",
+        "pl": "Nigdy bym tego [i]nie zrobił.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_Flashlight at 4/Section ds2": {
+        "en": "At this point it's become clear that you're doing this deliberately to annoy me.",
+        "pl": "W tym momencie stało się jasne, że robisz to celowo, żeby mnie zdenerwować.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Bilge_Flashlight beam": {
+      "Examine/Exam_Area_Bilge_Flashlight beam/Section ds0": {
+        "en": "You're not [i]pointing[/i] it at anything.",
+        "pl": "W ogóle jej [i]nie kierujesz[/i] na nic.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_Flashlight beam/Section ds1": {
+        "en": "Well where [h]should[/h] I point it?",
+        "pl": "No to gdzie [h]powinienem[/h] ją skierować?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_StrangeDevice": {
+      "Examine/Exam_Area_Bilge_StrangeDevice/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_StrangeDevice/Section ds1": {
+        "en": "I've no idea. It's some kind of strange... device...",
+        "pl": "Nie mam pojęcia. To jakieś dziwne... urządzenie...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_StrangeDevice/Section ds2": {
+        "en": "What [h]is[/h] that?",
+        "pl": "Co to [h]właściwie[/h] jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_StrangeDevice/Section ds3": {
+        "en": "What should we call it?",
+        "pl": "Jak powinniśmy to nazwać?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_SwitchDone": {
+      "Examine/Exam_Area_Bilge_SwitchDone/Section ds0": {
+        "en": "The switch is over here - somewhere.",
+        "pl": "Przełącznik jest gdzieś tutaj.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_SwitchDone/Section ds1": {
+        "en": "We already used it to open the drain in the ceiling.",
+        "pl": "Już go użyliśmy, żeby otworzyć odpływ w suficie.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Bilge_SwitchFound1": {
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds1": {
+        "en": "See?\nI knew what I was doing.",
+        "pl": "Widzisz?\nWiedziałam, co robię.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds2": {
+        "en": "A switch!",
+        "pl": "Przełącznik!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds3": {
+        "en": "It looks like some kind of dial...",
+        "pl": "Wygląda jak jakieś pokrętło...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds3 Choice 1": {
+        "en": "Look closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds3 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds3 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Bilge_SwitchFound1/Section ds5": {
+        "en": "Dumb luck.",
+        "pl": "Głupi traf.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_SwitchFound2": {
+      "Examine/Exam_Area_Bilge_SwitchFound2/Section ds4": {
+        "en": "......",
+        "pl": "......",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Bilge_bg": {
+      "Examine/Exam_Area_Bilge_bg/Request exitClueRequest0Hint0": {
+        "en": "...is there something we can use as a flashlight?",
+        "pl": "...czy jest tu coś, czego moglibyśmy użyć jako latarki?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_Bilge_bg/Section ds0": {
+        "en": "...this room smells like rust and dirty seawater.",
+        "pl": "...ten pokój pachnie rdzą i brudną wodą morską.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_bg/Section ds10": {
+        "en": "I kinda like it.",
+        "pl": "Całkiem mi się podoba.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_bg/Section ds11": {
+        "en": "I [h]knew[/h] you were going to say that.",
+        "pl": "[h]Wiedziałem,[/h] że to powiesz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_bg/Section ds12": {
+        "en": "You always like the worst smells.",
+        "pl": "Zawsze lubisz najgorsze zapachy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_bottle": {
+      "Examine/Exam_Area_Bilge_bottle/Request exitClueRequest0Hint0": {
+        "en": "...is there something we can use as a flashlight?",
+        "pl": "...czy jest tu coś, czego moglibyśmy użyć jako latarki?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_Bilge_bottle/Section ds0": {
+        "en": "A glass bottle.",
+        "pl": "Szklana butelka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_bottle/Section ds10": {
+        "en": "It's just trash.",
+        "pl": "To po prostu śmieć.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_bottle/Section ds13": {
+        "en": "Don't be so quick to dismiss it! One man's trash is another man's-",
+        "pl": "Nie odrzucaj tego tak pochopnie! Śmieć jednego człowieka to skarb-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_bottle/Section ds14": {
+        "en": "Oh yeah, no, it's just trash.",
+        "pl": "A tak, nie, to po prostu śmieć.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_pipes": {
+      "Examine/Exam_Area_Bilge_pipes/Request exitClueRequest0Hint0": {
+        "en": "...is there something we can use as a flashlight?",
+        "pl": "...czy jest tu coś, czego moglibyśmy użyć jako latarki?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_Bilge_pipes/Section ds0": {
+        "en": "So - the bilge collects excess water?",
+        "pl": "Więc - zęza zbiera nadmiar wody?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_pipes/Section ds17": {
+        "en": "Sure.",
+        "pl": "Jasne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_pipes/Section ds18": {
+        "en": "Meaning... water is getting into the submarine? From the outside?",
+        "pl": "Czyli... woda dostaje się do łodzi podwodnej? Z zewnątrz?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_pipes/Section ds19": {
+        "en": "Best not to think about it.",
+        "pl": "Lepiej o tym nie myśleć.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Bilge_water": {
+      "Examine/Exam_Area_Bilge_water/Request exitClueRequest0Hint0": {
+        "en": "...is there something we can use as a flashlight?",
+        "pl": "...czy jest tu coś, czego moglibyśmy użyć jako latarki?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_Bilge_water/Section ds0": {
+        "en": "It's a thigh-high pool of dirty water.",
+        "pl": "To sięgająca ud kałuża brudnej wody.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_water/Section ds10": {
+        "en": "Don't say [i]thigh-high.[/i]",
+        "pl": "Nie mów [i]sięgająca ud.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_water/Section ds13": {
+        "en": "But it was in between the two!",
+        "pl": "Ale było gdzieś pomiędzy!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Bilge_water/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Bilge_water/Section ds15": {
+        "en": "Say knee-high.\nOr waist-high.",
+        "pl": "Powiedz sięgająca kolan.\nAlbo sięgająca pasa.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

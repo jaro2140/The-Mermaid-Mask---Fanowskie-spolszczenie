@@ -1,0 +1,642 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja Airlock/Sluza (113 terminow, ~27 mikroscen) - pokoj Tadpole (nurkini), zdekorowany morskimi pamiatkami. Zawiera studnie sluzy prowadzaca do zalanej skrzyni ze skarbem, zagadke z hełmem do nurkowania/sejfem, oraz butelki z sekretami - w tym odkrycie DRUGIEJ tajnej strony Kontraktu Dowodczego Sinthii.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Scena 'bottles 3 Tadpole stops us breaking it' - linia 'I don't go around breaking your stuff' przypisana do Tadpole (broni swoich rzeczy), w przeciwienstwie do niemal identycznej sceny 'bottles 2' (Tadpole nieobecna), gdzie te sama kwestie mowi Grimoire z szacunku dla jej wlasnosci pod jej nieobecnosc."
+  },
+  "categories": {
+    "Exam_Area_Airlock_Airlock1": {
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds0": {
+        "en": "How do you feel about... [i]swimming?[/i]",
+        "pl": "Co sądzisz o... [i]pływaniu?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds1": {
+        "en": "Nope.\nNot happening.",
+        "pl": "Nie.\nNie ma mowy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds1 Choice 1": {
+        "en": "Look down",
+        "pl": "Spójrz w dół",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock1/Section ds5": {
+        "en": "Sally.",
+        "pl": "Sally.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_Airlock2": {
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds1": {
+        "en": "Only one way to find out.",
+        "pl": "Jest tylko jeden sposób, żeby się dowiedzieć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds1 Choice 1": {
+        "en": "Climb down",
+        "pl": "Zejdź na dół",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds1 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds2": {
+        "en": "Huh. It's been drained of water...",
+        "pl": "Huh. Woda została stąd spuszczona...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds3": {
+        "en": "I thought it was a diving airlock...",
+        "pl": "Myślałem, że to śluza nurkowa...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Airlock2/Section ds4": {
+        "en": "...but maybe it's just a ballast tank?",
+        "pl": "...ale może to po prostu zbiornik balastowy?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_AirlockHole_BG": {
+      "Examine/Exam_Area_Airlock_AirlockHole_BG/Section ds0": {
+        "en": "It's the airlock hole.",
+        "pl": "To otwór śluzy.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Airlock_AirlockHole_Chest": {
+      "Examine/Exam_Area_Airlock_AirlockHole_Chest/Section ds0": {
+        "en": "It's a treasure chest. We can't reach it while it's underwater.",
+        "pl": "To skrzynia ze skarbem. Nie możemy jej dosięgnąć, dopóki jest pod wodą.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_AirlockHole_Chest/Section ds1": {
+        "en": "What a tease.",
+        "pl": "Ale zaczepka.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_AirlockHole_water": {
+      "Examine/Exam_Area_Airlock_AirlockHole_water/Section ds0": {
+        "en": "It's filled up with water.\nWe can't go down there.",
+        "pl": "Wypełniło się wodą.\nNie możemy tam zejść.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Airlock_BG": {
+      "Examine/Exam_Area_Airlock_BG/Section ds0": {
+        "en": "I count at least six.",
+        "pl": "Naliczam co najmniej sześć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_BG/Section ds1": {
+        "en": "So many colors...",
+        "pl": "Tyle kolorów...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_BG/Section ds2": {
+        "en": "Just saw another one. Seven.",
+        "pl": "Właśnie zobaczyłem kolejną. Siedem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_LockedBoxAlreadySolved": {
+      "Examine/Exam_Area_Airlock_LockedBoxAlreadySolved/Section ds1": {
+        "en": "We already solved it.",
+        "pl": "Już to rozwiązaliśmy.",
+        "speaker": "Sally (domniemany)"
+      }
+    },
+    "Exam_Area_Airlock_LockedBoxEnd": {
+      "Examine/Exam_Area_Airlock_LockedBoxEnd/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxEnd/Section ds1": {
+        "en": "What's inside?",
+        "pl": "Co jest w środku?",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_LockedBoxStart": {
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds0": {
+        "en": "Oh!",
+        "pl": "Och!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds3": {
+        "en": "It's a diving helmet.\nOne of those old heavy ones.",
+        "pl": "To hełm do nurkowania.\nJeden z tych starych, ciężkich.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds4": {
+        "en": "You think it's a safe?",
+        "pl": "Myślisz, że to sejf?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds5": {
+        "en": "Nah, looks pretty dangerous.",
+        "pl": "Nie, wygląda dość niebezpiecznie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_LockedBoxStart/Section ds6": {
+        "en": "[h]A[/h] safe.",
+        "pl": "[h]Ten[/h] sejf.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_Pocketbook Asked Tadpole": {
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds1": {
+        "en": "Tadpole didn't give us the code for the pocketbook.",
+        "pl": "Tadpole nie dała nam kodu do notesu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds2": {
+        "en": "I noticed.",
+        "pl": "Zauważyłem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds3": {
+        "en": "So, what now?",
+        "pl": "Więc co teraz?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds4": {
+        "en": "Maybe someone [i]else[/i] will know it.",
+        "pl": "Może ktoś [i]inny[/i] będzie go znał.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds5": {
+        "en": "...I doubt it.",
+        "pl": "...wątpię.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds6": {
+        "en": "How about this-",
+        "pl": "A co powiesz na to-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds7": {
+        "en": "Ooh.",
+        "pl": "Ooo.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds8": {
+        "en": "I knew that would cheer you up.",
+        "pl": "Wiedziałem, że to cię rozweseli.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_Pocketbook Asked Tadpole/Section ds9": {
+        "en": "-if we ask everyone, and [i]nobody[/i] knows it, we can break it open.",
+        "pl": "-jeśli zapytamy wszystkich i [i]nikt[/i] go nie zna, możemy go rozbić.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_airlocklid": {
+      "Examine/Exam_Area_Airlock_airlocklid/Section ds0": {
+        "en": "I think it's the lid that fits over the airlock. It's been taken off the hinge.",
+        "pl": "Chyba to pokrywa pasująca do śluzy. Została zdjęta z zawiasu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_airlocklid/Section ds1": {
+        "en": "So there's no lid?\nWhat if it floods?",
+        "pl": "Więc nie ma pokrywy?\nA co, jeśli zaleje?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_airlocklid/Section ds3": {
+        "en": "Then we drown.",
+        "pl": "To utoniemy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_airlocklid/Section ds4": {
+        "en": "As long as we're aligned on that.",
+        "pl": "Dobrze, że się w tej kwestii zgadzamy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bigmirror": {
+      "Examine/Exam_Area_Airlock_bigmirror/Section ds0": {
+        "en": "That's a big mirror.",
+        "pl": "To duże lustro.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bigmirror/Section ds1": {
+        "en": "It's the kind of mirror you'd walk through to get to mirror world.",
+        "pl": "To taki rodzaj lustra, przez które wchodzi się do lustrzanego świata.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bigmirror/Section ds2": {
+        "en": "You've been to mirror world? What's it like?",
+        "pl": "Byłaś w lustrzanym świecie? Jaki on jest?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bigmirror/Section ds4": {
+        "en": "On reflection, it's not that great.",
+        "pl": "Po zastanowieniu, nie jest taki wspaniały.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bigmirror/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_bottles 1 Finding it": {
+      "Examine/Exam_Area_Airlock_bottles 1 Finding it/Section ds0": {
+        "en": "Hey, this one has a message inside!",
+        "pl": "Hej, w tej jest wiadomość!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 1 Finding it/Section ds1": {
+        "en": "Old glass bottles.",
+        "pl": "Stare szklane butelki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 1 Finding it/Section ds2": {
+        "en": "Looks like they've all been salvaged from the ocean.",
+        "pl": "Wygląda na to, że wszystkie zostały wyłowione z oceanu.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bottles 2 I Do Want to See Inside": {
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds0": {
+        "en": "But what if there's something on the back?",
+        "pl": "Ale co, jeśli coś jest na odwrocie?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds1": {
+        "en": "I [i]do[/i] kinda wanna see what's on that piece of paper...",
+        "pl": "[i]Właściwie[/i] trochę chcę zobaczyć, co jest na tej kartce...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds2": {
+        "en": "We can read it just fine.",
+        "pl": "Możemy to przeczytać bez problemu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds3": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds4": {
+        "en": "So, what, you wanna break it open?",
+        "pl": "Więc co, chcesz to rozbić?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds5": {
+        "en": "Maybe, yeah.",
+        "pl": "Może, tak.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds6": {
+        "en": "Hey, I don't go around breaking [i]your[/i] stuff.",
+        "pl": "Hej, ja nie chodzę i nie niszczę [i]twoich[/i] rzeczy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 2 I Do Want to See Inside/Section ds7": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bottles 3 Tadpole stops us breaking it": {
+      "Examine/Exam_Area_Airlock_bottles 3 Tadpole stops us breaking it/Section ds0": {
+        "en": "Hey, I don't go around breaking [i]your[/i] stuff.",
+        "pl": "Hej, ja nie chodzę i nie niszczę [i]twoich[/i] rzeczy.",
+        "speaker": "Tadpole"
+      },
+      "Examine/Exam_Area_Airlock_bottles 3 Tadpole stops us breaking it/Section ds1": {
+        "en": "So, what, you wanna break it open?",
+        "pl": "Więc co, chcesz to rozbić?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 3 Tadpole stops us breaking it/Section ds2": {
+        "en": "Maybe, yeah.",
+        "pl": "Może, tak.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 3 Tadpole stops us breaking it/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      }
+    },
+    "Exam_Area_Airlock_bottles 4a Tadpole is not here": {
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds0 Choice 1": {
+        "en": "Break it open",
+        "pl": "Rozbij to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds1": {
+        "en": "Well - Tadpole's not here...",
+        "pl": "No cóż - Tadpole tu nie ma...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4a Tadpole is not here/Section ds2": {
+        "en": "Thus you're free to start breaking her belongings.",
+        "pl": "A zatem możesz swobodnie zacząć niszczyć jej rzeczy.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bottles 4b Now weve broken it open": {
+      "Examine/Exam_Area_Airlock_bottles 4b Now weve broken it open/Section ds1": {
+        "en": "Now we can [i]finally[/i] take a proper look at this...",
+        "pl": "Teraz możemy [i]wreszcie[/i] przyjrzeć się temu jak należy...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bottles 4c That looked familiar": {
+      "Examine/Exam_Area_Airlock_bottles 4c That looked familiar/Section ds1": {
+        "en": "Well.\n[i]That[/i] looked familiar.",
+        "pl": "Cóż.\n[i]To[/i] wyglądało znajomo.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4c That looked familiar/Section ds4": {
+        "en": "It's a secret third page of the Command Contract...",
+        "pl": "To tajna trzecia strona Kontraktu Dowódczego...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_bottles 4c That looked familiar/Section ds5": {
+        "en": "Secret [i]second[/i] page, technically.",
+        "pl": "Technicznie rzecz biorąc, tajna [i]druga[/i] strona.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_bottles 5 DotDotDot": {
+      "Examine/Exam_Area_Airlock_bottles 5 DotDotDot/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_bottles others 1 Old Glass Bottles": {
+      "Examine/Exam_Area_Airlock_bottles others 1 Old Glass Bottles/Section ds1": {
+        "en": "Old glass bottles.",
+        "pl": "Stare szklane butelki.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Airlock_bottles others 2 These arent the Ones": {
+      "Examine/Exam_Area_Airlock_bottles others 2 These arent the Ones/Section ds2": {
+        "en": "[i]These[/i] aren't the bottles I'm interested in...",
+        "pl": "[i]Te[/i] nie są butelkami, którymi jestem zainteresowany...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_coralshelves": {
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds0": {
+        "en": "I thought coral only grew in the ocean.",
+        "pl": "Myślałam, że koral rośnie tylko w oceanie.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds1": {
+        "en": "These shelves are grown from real coral.",
+        "pl": "Te półki wyrosły z prawdziwego koralu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds2": {
+        "en": "Well, there's a [h]lot[/h] of salt and water in the air...",
+        "pl": "Cóż, w powietrzu jest [h]dużo[/h] soli i wody...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds3": {
+        "en": "Oh yeah - I can taste it!",
+        "pl": "O tak - czuję to w smaku!",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds4": {
+        "en": "Please stop.",
+        "pl": "Proszę, przestań.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_coralshelves/Section ds5": {
+        "en": "[i]mlem mlem mlem[/i]",
+        "pl": "[i]mlask mlask mlask[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_cushions": {
+      "Examine/Exam_Area_Airlock_cushions/Section ds0": {
+        "en": "Cushions.",
+        "pl": "Poduszki.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "Exam_Area_Airlock_hangingshells": {
+      "Examine/Exam_Area_Airlock_hangingshells/Section ds1": {
+        "en": "[i]She sells seashells by the seashore.[/i]",
+        "pl": "[i]Sprzedaje muszelki na brzegu morza.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_hangingshells/Section ds2": {
+        "en": "Terrible place to sell seashells.",
+        "pl": "Okropne miejsce na sprzedawanie muszelek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_hangingshells/Section ds3": {
+        "en": "Anyone can get them for free, they're just lying around.",
+        "pl": "Każdy może je zdobyć za darmo, po prostu leżą wszędzie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_jellyfish": {
+      "Examine/Exam_Area_Airlock_jellyfish/Section ds0": {
+        "en": "Looks like a jellyfish.",
+        "pl": "Wygląda jak meduza.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_jellyfish/Section ds3": {
+        "en": "It's two glass bowls and some seashells.",
+        "pl": "To dwie szklane miski i trochę muszelek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_jellyfish/Section ds4": {
+        "en": "Right.\nBut what does it [h]look[/h] like?",
+        "pl": "No tak.\nAle na co to [h]wygląda?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_jellyfish/Section ds5": {
+        "en": "Jellyfish.",
+        "pl": "Meduza.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_ladder": {
+      "Examine/Exam_Area_Airlock_ladder/Section ds0": {
+        "en": "It's a ladder.\nIt doesn't go anywhere though.",
+        "pl": "To drabina.\nNiedokądś jednak nie prowadzi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_ladder/Section ds1": {
+        "en": "I imagine it's for lowering into the hole, so you can climb down.",
+        "pl": "Wyobrażam sobie, że służy do opuszczenia w otwór, żeby móc po niej zejść.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_ladder/Section ds2": {
+        "en": "Oh.",
+        "pl": "Och.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_ladder/Section ds3": {
+        "en": "Or, you know...\nYou could use it to display your collection of [i]rusty jewellery.[/i]",
+        "pl": "Albo, wiesz...\nMogłabyś jej użyć, żeby wystawić swoją kolekcję [i]zardzewiałej biżuterii.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_pearlnecklace": {
+      "Examine/Exam_Area_Airlock_pearlnecklace/Section ds0": {
+        "en": "A pearl necklace.\nWith real pearls.",
+        "pl": "Naszyjnik z pereł.\nZ prawdziwymi perłami.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_pearlnecklace/Section ds1": {
+        "en": "Do you know how much that's [h]worth?[/h]",
+        "pl": "Wiesz, ile to jest [h]warte?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_pearlnecklace/Section ds2": {
+        "en": "Nope!",
+        "pl": "Nie!",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_seaweed": {
+      "Examine/Exam_Area_Airlock_seaweed/Section ds0": {
+        "en": "Decorative seaweed.",
+        "pl": "Dekoracyjne wodorosty.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_seaweed/Section ds3": {
+        "en": "It really ties the room together.",
+        "pl": "Naprawdę spina ten pokój w całość.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_shellrow": {
+      "Examine/Exam_Area_Airlock_shellrow/Section ds0": {
+        "en": "It's a little family of seashells.",
+        "pl": "To mała rodzinka muszelek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_shellrow/Section ds1": {
+        "en": "A family?",
+        "pl": "Rodzinka?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_shellrow/Section ds2": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_smallmirrors": {
+      "Examine/Exam_Area_Airlock_smallmirrors/Section ds0": {
+        "en": "It's a collection of small mirrors.",
+        "pl": "To kolekcja małych lusterek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_smallmirrors/Section ds1": {
+        "en": "You know, it might be fun to start a mirror collection.",
+        "pl": "Wiesz, mogłoby być fajnie zacząć kolekcję luster.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_smallmirrors/Section ds2": {
+        "en": "I could really see myself doing that.",
+        "pl": "Naprawdę mogłabym siebie w tym zobaczyć.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_smallmirrors/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_teacup": {
+      "Examine/Exam_Area_Airlock_teacup/Section ds0": {
+        "en": "An ornate teacup.",
+        "pl": "Ozdobna filiżanka.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_teacup/Section ds1": {
+        "en": "With an ornate crack down the side.",
+        "pl": "Z ozdobnym pęknięciem z boku.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_Airlock_towels": {
+      "Examine/Exam_Area_Airlock_towels/Section ds0": {
+        "en": "Oh, that reminds me...\nI need to buy new towels for my bathroom.",
+        "pl": "Och, to mi przypomina...\nMuszę kupić nowe ręczniki do łazienki.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_Airlock_towels/Section ds1": {
+        "en": "Sally, we're solving a murder here, focus?",
+        "pl": "Sally, rozwiązujemy tu morderstwo, skupienie?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_Airlock_wood": {
+      "Examine/Exam_Area_Airlock_wood/Section ds0": {
+        "en": "It's a curved piece of wood.",
+        "pl": "To zakrzywiony kawałek drewna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_Airlock_wood/Section ds1": {
+        "en": "Looks like it's from the hull of a ship.",
+        "pl": "Wygląda, jakby pochodził z kadłuba statku.",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

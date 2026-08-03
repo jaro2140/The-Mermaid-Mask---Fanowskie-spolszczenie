@@ -1,0 +1,317 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja StonetopInn/Gospoda Stonetop (54 terminy, ~17 mikroscen) - PIERWSZA lokacja gry, przed dotarciem do lodzi podwodnej. Grimoire czuwa samotnie, podczas gdy Sally spi - wiekszosc linii to jego solowy monolog, az do sceny budzenia jej (fullscreen1) gdy dostrzegaja zielone swiatlo.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci. Poniewaz Sally spi przez wiekszosc tej lokacji, prawie wszystkie linie to monolog Grimoire'a - Sally pojawia sie dopiero w fullscreen1 (budzenie sie)."
+  },
+  "categories": {
+    "Exam_Area_StonetopInn_InnLight": {
+      "Examine/Exam_Area_StonetopInn_InnLight/Section ds6": {
+        "en": "I thought I heard something outside...",
+        "pl": "Wydawało mi się, że coś słyszałem na zewnątrz...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_InnLight/Section ds7": {
+        "en": "Hello...?",
+        "pl": "Halo...?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_Sally": {
+      "Examine/Exam_Area_StonetopInn_Sally/Section ds0": {
+        "en": "It's Sally. She's fast asleep.",
+        "pl": "To Sally. Śpi jak zabita.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_Sally/Section ds1": {
+        "en": "To be fair, it is four in the morning.",
+        "pl": "Żeby było uczciwie, jest czwarta rano.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_Sally/Section ds2": {
+        "en": "I agreed to stay awake and see if anyone shows up.",
+        "pl": "Zgodziłem się nie spać i sprawdzić, czy ktoś się pojawi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_Sally/Section ds3": {
+        "en": "So far... nothing.",
+        "pl": "Jak dotąd... nic.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_Sally/Section ds4": {
+        "en": "....",
+        "pl": "....",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_barrels": {
+      "Examine/Exam_Area_StonetopInn_barrels/Section ds0": {
+        "en": "There's nothing written on the barrels.",
+        "pl": "Na beczkach nic nie napisano.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_barrels/Section ds3": {
+        "en": "I'm sure they were once filled with some kind of wonderful unsanctioned local ale.",
+        "pl": "Jestem pewien, że kiedyś były wypełnione jakimś wspaniałym, niezalegalizowanym lokalnym piwem.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_bg": {
+      "Examine/Exam_Area_StonetopInn_bg/Section ds0": {
+        "en": "It's what remains of the Stonetop Inn.",
+        "pl": "To, co zostało z Gospody Stonetop.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_bg/Section ds2": {
+        "en": "Although I... don't have any point of reference - maybe it looked like this when it was still open.",
+        "pl": "Chociaż... nie mam żadnego punktu odniesienia - może wyglądała tak nawet, gdy jeszcze była otwarta.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_bg/Section ds4": {
+        "en": "Looks like it's been closed for some time...",
+        "pl": "Wygląda na to, że jest zamknięta od jakiegoś czasu...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_board": {
+      "Examine/Exam_Area_StonetopInn_board/Section ds0": {
+        "en": "[i]Fishing Trips.\nOn Board The Dearest Selena.[/i] ",
+        "pl": "[i]Wyprawy Wędkarskie.\nNa Pokładzie Dearest Seleny.[/i] ",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_board/Section ds3": {
+        "en": "[i]Enquire with Felicia Stonetop at the bar, or with Sylvia Seafoam at the harbor.[/i]",
+        "pl": "[i]Pytać Felicię Stonetop przy barze albo Sylvię Seafoam w porcie.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_board/Section ds4": {
+        "en": "I'm guessing that's the name of the ship.",
+        "pl": "Zgaduję, że to nazwa statku.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_book 1": {
+      "Examine/Exam_Area_StonetopInn_book 1/Section ds0": {
+        "en": "It's some book Sally's been reading.",
+        "pl": "To jakaś książka, którą czytała Sally.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_book 1/Section ds1": {
+        "en": "She insisted that we bring it with us - although I'm not sure why.",
+        "pl": "Nalegała, żebyśmy ją ze sobą zabrali - choć nie jestem pewien czemu.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_book 2": {
+      "Examine/Exam_Area_StonetopInn_book 2/Section ds0": {
+        "en": "[i]Hex of the Helmsman, by J. D. Wirman.[/i]",
+        "pl": "[i]Klątwa Sternika, autorstwa J. D. Wirmana.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_book 2/Section ds1": {
+        "en": "Looks like Sally's read through it a couple of times already...",
+        "pl": "Wygląda na to, że Sally przeczytała ją już kilka razy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_book 2/Section ds2": {
+        "en": "I wonder what's so interesting about it?",
+        "pl": "Zastanawiam się, co w niej takiego interesującego?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_casefile 1": {
+      "Examine/Exam_Area_StonetopInn_casefile 1/Section ds0": {
+        "en": "It's the case file - the reason we're here.",
+        "pl": "To akta sprawy - powód, dla którego tu jesteśmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 1/Section ds1": {
+        "en": "It was left for us right here on the bar.",
+        "pl": "Zostały dla nas zostawione właśnie tutaj, na barze.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_casefile 2": {
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds3": {
+        "en": "Captain Seafoam...",
+        "pl": "Kapitan Seafoam...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds4": {
+        "en": "As far as I know, that's who hired us - and who left the case file here in the Inn.",
+        "pl": "O ile wiem, to ona nas zatrudniła - i to ona zostawiła akta sprawy tutaj, w Gospodzie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds5": {
+        "en": "But where are they now?\nWhere's anyone?",
+        "pl": "Ale gdzie ona teraz jest?\nGdzie ktokolwiek jest?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds6": {
+        "en": "Sally, what do you think?",
+        "pl": "Sally, co o tym myślisz?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds7": {
+        "en": ".....",
+        "pl": ".....",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_StonetopInn_casefile 2/Section ds8": {
+        "en": "Great contribution.",
+        "pl": "Wspaniały wkład.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_crab": {
+      "Examine/Exam_Area_StonetopInn_crab/Section ds0": {
+        "en": "A crab.",
+        "pl": "Krab.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_crab/Section ds3": {
+        "en": "...just in case anyone missed the overt nautical theming.",
+        "pl": "...na wypadek, gdyby ktoś przeoczył ten oczywisty morski motyw.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_fish": {
+      "Examine/Exam_Area_StonetopInn_fish/Section ds0": {
+        "en": "A wooden carving of a fish skeleton.",
+        "pl": "Drewniana rzeźba szkieletu ryby.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_fish/Section ds3": {
+        "en": "If the windows weren't boarded up, you'd be able to see it from outside.",
+        "pl": "Gdyby okna nie były zabite deskami, można by ją zobaczyć z zewnątrz.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_floor": {
+      "Examine/Exam_Area_StonetopInn_floor/Section ds0": {
+        "en": "Nobody's cleaned the floor in a while.",
+        "pl": "Nikt nie sprzątał tej podłogi od dawna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_floor/Section ds3": {
+        "en": "Or perhaps ever.",
+        "pl": "Albo może nigdy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_fullscreen1": {
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds2": {
+        "en": "Sally, wake up! We have to go!",
+        "pl": "Sally, obudź się! Musimy iść!",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds3": {
+        "en": ".....nnnngh...",
+        "pl": ".....nnnngh...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds4": {
+        "en": "Because, there's an eerie green light trying to lure us outside.",
+        "pl": "Bo jest tam niesamowite zielone światło, które próbuje nas zwabić na zewnątrz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds6": {
+        "en": "Why...?",
+        "pl": "Czemu...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds7": {
+        "en": "Oh. That's a pretty good reason.",
+        "pl": "Och. To całkiem dobry powód.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen1/Section ds9": {
+        "en": "I'll get up.",
+        "pl": "Wstaję.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_StonetopInn_fullscreen2": {
+      "Examine/Exam_Area_StonetopInn_fullscreen2/Section ds11": {
+        "en": "To move around, use the map button in the bottom left.",
+        "pl": "Aby się poruszać, użyj przycisku mapy w lewym dolnym rogu.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/Exam_Area_StonetopInn_fullscreen2/Section ds9": {
+        "en": "I think it's time to go outside.",
+        "pl": "Myślę, że czas wyjść na zewnątrz.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_lamp": {
+      "Examine/Exam_Area_StonetopInn_lamp/Section ds0": {
+        "en": "Lamps.",
+        "pl": "Lampy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_lamp/Section ds3": {
+        "en": "That's also what [h]I[/h] plan to do when [h]I[/h] retire.",
+        "pl": "To też jest to, co [h]ja[/h] planuję robić, kiedy [h]ja[/h] przejdę na emeryturę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_lamp/Section ds4": {
+        "en": "They've stopped giving out light and taken up dust collecting.",
+        "pl": "Przestały dawać światło i zajęły się zbieraniem kurzu.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_serpent": {
+      "Examine/Exam_Area_StonetopInn_serpent/Section ds0": {
+        "en": "It's a painting of a sea serpent.",
+        "pl": "To obraz morskiego węża.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_serpent/Section ds3": {
+        "en": "Wait... is it a serpent if it has legs?",
+        "pl": "Czekaj... czy to jest wąż, skoro ma nogi?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_serpent/Section ds4": {
+        "en": "Ah. Thanks for clearing that up.",
+        "pl": "Ach. Dzięki za wyjaśnienie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_serpent/Section ds6": {
+        "en": "What do you think, Sally?",
+        "pl": "Co o tym myślisz, Sally?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_serpent/Section ds7": {
+        "en": ".....",
+        "pl": ".....",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_StonetopInn_stools": {
+      "Examine/Exam_Area_StonetopInn_stools/Section ds0": {
+        "en": "Bar stools.",
+        "pl": "Stołki barowe.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_stools/Section ds4": {
+        "en": "The wood is rotting, so I've strategically chosen [h]not[/h] to sit on them.",
+        "pl": "Drewno gnije, więc strategicznie postanowiłem [h]nie[/h] siadać na nich.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_StonetopInn_windows": {
+      "Examine/Exam_Area_StonetopInn_windows/Section ds0": {
+        "en": "Someone's done a pretty half-hearted job of boarding up the windows.",
+        "pl": "Ktoś dość niedbale zabił deskami okna.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_StonetopInn_windows/Section ds3": {
+        "en": "Maybe they left in a hurry.",
+        "pl": "Może wyszli w pośpiechu.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

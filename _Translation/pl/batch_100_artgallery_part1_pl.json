@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "batch": "ArtGallery - czesc 1: elementy glowne UI (12) + Tabs (5) + Submarine (2) + Souls (41, komentarze deweloperskie artystow Adam/Catherine/Velvet o projektowaniu 9 postaci + 'Others'/rodzina Fellow) = 60 terminow. Tresc to nieobowiazkowe, odblokowywane stopniowo komentarze 'making-of' - nie wplywaja na rozwiazanie zagadki, ale zawieraja ciekawe kontekstowe informacje (m.in. POTWIERDZENIE ze 'Zlota Dlon' Zephyra to dosłowny antyk - Zephyr info 3).",
+    "date": "2026-08-03",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_artgallery_en.json)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "note": "Imiona i nazwiska prawdziwych tworcow gry (Adam Vian, Catherine Unger, Kindra Dantone, Charlotte 'Velvet' Harris) pozostaja bez zmian - to kredyty deweloperskie, nie postacie fikcyjne. Podpisy pod komentarzami ('-Adam'/'-Catherine'/'-Velvet') zachowane w oryginalnej formie."
+  },
+  "categories": {
+    "Root": {
+      "ArtGallery/Adam Vian": {
+        "en": "Adam Vian",
+        "pl": "Adam Vian"
+      },
+      "ArtGallery/BunkDirkWirman": {
+        "en": "Bunk Room: Dirk / Wirman",
+        "pl": "Kajuta Sypialna: Dirk / Wirman"
+      },
+      "ArtGallery/BunkSymSinthia": {
+        "en": "Bunk Room: Symmetry / Sinthia",
+        "pl": "Kajuta Sypialna: Symmetry / Sinthia"
+      },
+      "ArtGallery/Catherine Unger": {
+        "en": "Catherine Unger",
+        "pl": "Catherine Unger"
+      },
+      "ArtGallery/Charlotte Harris": {
+        "en": "Velvet V.",
+        "pl": "Velvet V."
+      },
+      "ArtGallery/Explanation": {
+        "en": "Welcome to the Art Gallery.\n\nThere is a gallery page for every character, location and clue in the game.\n\nThese are unlocked as you encounter them on your save file, so check back later!",
+        "pl": "Witaj w Galerii Sztuki.\n\nDla każdej postaci, lokacji i dowodu w grze znajduje się osobna strona w galerii.\n\nOdblokowują się w miarę napotykania ich w Twoim zapisie gry, więc zaglądaj tu ponownie!"
+      },
+      "ArtGallery/FilmReel": {
+        "en": "Film Reel",
+        "pl": "Szpula Filmowa"
+      },
+      "ArtGallery/Kindra Dantone": {
+        "en": "Kindra Dantone",
+        "pl": "Kindra Dantone"
+      },
+      "ArtGallery/Next": {
+        "en": "Next",
+        "pl": "Dalej"
+      },
+      "ArtGallery/Previous": {
+        "en": "Prev",
+        "pl": "Wstecz"
+      },
+      "ArtGallery/RustyFilmReel": {
+        "en": "Rusty Film Reel",
+        "pl": "Zardzewiała Szpula Filmowa"
+      },
+      "ArtGallery/TrembleMouse": {
+        "en": "Tremble\nMouse",
+        "pl": "Drżąca\nMysz"
+      }
+    },
+    "Tabs": {
+      "ArtGallery/Tabs/Characters": {
+        "en": "Characters",
+        "pl": "Postacie"
+      },
+      "ArtGallery/Tabs/Clues 1": {
+        "en": "Clues 1",
+        "pl": "Dowody 1"
+      },
+      "ArtGallery/Tabs/Clues 2": {
+        "en": "Clues 2",
+        "pl": "Dowody 2"
+      },
+      "ArtGallery/Tabs/Locations": {
+        "en": "Locations",
+        "pl": "Lokacje"
+      },
+      "ArtGallery/Tabs/Submarine": {
+        "en": "Submarine",
+        "pl": "Łódź Podwodna"
+      }
+    },
+    "Submarine": {
+      "ArtGallery/Submarine/3D Model": {
+        "en": "3D Model",
+        "pl": "Model 3D"
+      },
+      "ArtGallery/Submarine/Design": {
+        "en": "Design",
+        "pl": "Projekt"
+      }
+    },
+    "Souls": {
+      "ArtGallery/Souls/Dirk info 1": {
+        "en": "Dirk was modelled after popular movie actors you might have seen in blockbusters in the 2010s.\n\nHe's got skinny legs because he's not a body builder - his muscle is mostly just for aesthetics.\n\nI gave him simple dot eyes to make him seem naive and somewhat clueless.\n\n-Adam",
+        "pl": "Dirk został wzorowany na popularnych aktorach filmowych, których mogliście widzieć w hitach kinowych lat 2010.\n\nMa chude nogi, bo nie jest kulturystą - jego mięśnie służą głównie estetyce.\n\nDałem mu proste, kropkowe oczy, żeby wyglądał na naiwnego i trochę bezradnego.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Dirk info 2": {
+        "en": "Dirk is the most contemporary character in the Grimoire universe - he even wears jeans and sunglasses.\n\nI first referenced to old-timey poster boy movie stars, but final design is inspired by more modern celebrities. Like the majority of male movie stars, we wanted him to have a generic superhero build.\n\n-Catherine",
+        "pl": "Dirk jest najbardziej współczesną postacią w uniwersum Grimoire'a - nosi nawet dżinsy i okulary przeciwsłoneczne.\n\nNa początku odwoływałam się do staroświeckich, plakatowych gwiazd filmowych, ale ostateczny projekt inspirowany jest bardziej współczesnymi celebrytami. Podobnie jak większość męskich gwiazd filmowych, chcieliśmy, żeby miał typową, superbohaterską budowę ciała.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Dirk info 3": {
+        "en": "Adam and I drew character concepts separately and then we would compare and develop the characters further based on a combination of the ideas.\n\nI originally drew Dirk with blue puppydog eyes, but Adam drew Dirk with naive-looking dot eyes which felt more in line with his character, so it stuck.\n\n-Catherine",
+        "pl": "Adam i ja rysowaliśmy koncepcje postaci osobno, a potem porównywaliśmy je i rozwijaliśmy dalej na podstawie połączenia obu pomysłów.\n\nPierwotnie narysowałam Dirka z niebieskimi, szczenięcymi oczami, ale Adam narysował go z naiwnie wyglądającymi, kropkowymi oczami, co lepiej pasowało do jego charakteru - i tak już zostało.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Dirk info 4": {
+        "en": "In case you're thinking it: yes, I was consciously evoking Johnny Bravo with the animation smears.\n\nDirk was very fun to pose, and some of these sketches became animation poses with almost no revisions. Dirk draws from a rich lineage of Good Boys.\n\n-Velvet",
+        "pl": "Na wypadek, gdybyście się zastanawiali: tak, świadomie nawiązywałam do Johnny'ego Bravo poprzez smugi animacyjne.\n\nPozowanie Dirka sprawiało mi dużo frajdy, a niektóre z tych szkiców stały się pozami animacyjnymi niemal bez poprawek. Dirk czerpie z bogatej tradycji Dobrych Chłopaków.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Gripp info 1": {
+        "en": "Gripp’s original inspiration was somewhere between an eccentric snake oil salesman and Willy Wonka.\n\nI liked the idea that his face could be wide-eyed and overly friendly - and then quickly become dark and scheming.\n\n-Catherine",
+        "pl": "Pierwotną inspiracją dla Grippa było coś pomiędzy ekscentrycznym sprzedawcą cudownych mikstur a Willym Wonką.\n\nPodobał mi się pomysł, że jego twarz mogła być szeroko otwarta i przesadnie przyjazna - a potem szybko stawać się mroczna i wyrachowana.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Gripp info 2": {
+        "en": "Eventually I started to incorporate the aeronautical theme into his look.\n\nI experimented with compass belt buckles, propeller bow ties, and eventually the recognisable hot air balloon hat.\n\nOnce we shrunk down a version of this hat for Cornelius Cane to wear, we knew we had found our Gripp.\n\n-Catherine",
+        "pl": "W końcu zaczęłam wplatać w jego wygląd motyw lotniczy.\n\nEksperymentowałam z klamrami do pasa w kształcie kompasu, muszkami w kształcie śmigieł, aż w końcu doszłam do rozpoznawalnego kapelusza w kształcie balonu na ogrzane powietrze.\n\nGdy zmniejszyliśmy wersję tego kapelusza, żeby mógł go nosić Cornelius Cane, wiedzieliśmy, że znaleźliśmy naszego Grippa.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Gripp info 3": {
+        "en": "Gripp was surprisingly hard to animate. We simplified him quite a bit after I came on, but he still has a lot going on and very difficult proportions to control. I love how he turned out though.\n\n\nI'm pretty sure he has the most unique poses of any Grimoire character ever, too. I hope you appreciate them!\n\n-Velvet",
+        "pl": "Gripp był zaskakująco trudny do animowania. Uprościliśmy go dość mocno, odkąd dołączyłam do projektu, ale wciąż dzieje się w nim bardzo dużo i ma bardzo trudne proporcje do kontrolowania. Uwielbiam jednak to, jak wyszedł.\n\n\nJestem prawie pewna, że ma też najbardziej unikalne pozy spośród wszystkich postaci Grimoire'a w historii serii. Mam nadzieję, że je docenicie!\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Gripp info 4": {
+        "en": "Here, Catherine arrives at the final design for the Mortuga Submarine.\n\nOne of the last major changes we made was to the scope of the wooden sailing ship - the Dearest Selena. We realised it needed to be much smaller and simpler (with only one sail, rather than several) as it could apparently be crewed by only two people.\n\n-Adam",
+        "pl": "Tutaj Catherine dochodzi do ostatecznego projektu Łodzi Podwodnej Mortuga.\n\nJedną z ostatnich większych zmian, jakie wprowadziliśmy, był rozmiar drewnianego żaglowca - Dearest Seleny. Zdaliśmy sobie sprawę, że musi być dużo mniejsza i prostsza (z jednym żaglem, a nie kilkoma), skoro najwyraźniej mogła być obsługiwana zaledwie przez dwie osoby.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Moon info 1": {
+        "en": "I imagined Mariana as a wandering countryside historian - an old-fashioned dapper look, but messy and mud-scuffed from her time crawling around the brambles.\n\nReally, the only thing from this drawing that we kept was the fact that she has a pipe.\n\n-Adam",
+        "pl": "Wyobrażałem sobie Marianę jako wędrującą po wsiach historyczkę - staroświecki, elegancki wygląd, ale rozczochrany i ubłocony od czasu spędzanego na czołganiu się wśród jeżyn.\n\nTak naprawdę jedyną rzeczą z tego rysunku, którą zachowaliśmy, jest fakt, że ma fajkę.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Moon info 2": {
+        "en": "Mariana Moon's keywords were nomadic historian, professor and hobbit.\n\nNaturally, tweed jackets, waistcoats and a tobacco pipe seemed like a fitting combination.\n\nShe's also an older character, and I struggled with capturing her age at first.\n\n-Catherine",
+        "pl": "Słowa kluczowe dla Mariany Moon to koczownicza historyczka, profesorka i hobbit.\n\nNaturalnie, tweedowe żakiety, kamizelki i fajka do tytoniu wydawały się pasującą kombinacją.\n\nJest też starszą postacią i na początku miałam trudności z uchwyceniem jej wieku.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Moon info 3": {
+        "en": "Since she was a nomad, I imagined she needed to carry all of her worldly possessions wherever she went. In one image, I drew her wearing all her clothes at once.\n\nI also started drawing her with moon-shaped accessories, which eventually made it into her final design.\n\n-Catherine",
+        "pl": "Skoro była koczowniczką, wyobrażałam sobie, że musi nosić cały swój dobytek wszędzie, gdzie się udaje. Na jednym z obrazków narysowałam ją, jak nosi na sobie od razu wszystkie swoje ubrania.\n\nZaczęłam też rysować ją z akcesoriami w kształcie księżyca, co ostatecznie trafiło do jej finalnego projektu.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Moon info 4": {
+        "en": "Bilbo Baggins was referenced a fair bit in discussions of Mariana's mannerisms. (Marianarisms?) This came across especially in the bottom-middle drawing, which made it into animation with only a little alteration.\n\n\nI like to imagine she always knows a little bit more than she's letting on, and isn't above teasing you with that fact.\n\n-Velvet",
+        "pl": "Bilbo Baggins był dość często przywoływany w dyskusjach o manieryzmach Mariany. (Marianeryzmach?) Widać to zwłaszcza na rysunku na dole pośrodku, który trafił do animacji niemal bez zmian.\n\n\nLubię myśleć, że ona zawsze wie trochę więcej, niż daje po sobie poznać, i nie stroni od podpuszczania cię tym faktem.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Mortuga info 1": {
+        "en": "There were rumours that Mortuga was under a curse and couldn’t leave the submarine to see the light of day, much like a vampire.\n\nHe is visual combination of Sinbad, Captain Nemo and Count Dracula. I gave him sunken vampiric features, as we wanted him to seem intimidating.\n\n-Catherine",
+        "pl": "Krążyły plotki, że Mortuga był pod klątwą i nie mógł opuścić łodzi podwodnej, żeby zobaczyć światło dnia, podobnie jak wampir.\n\nJest wizualnym połączeniem Sindbada, Kapitana Nemo i Hrabiego Draculi. Dałam mu zapadnięte, wampirze rysy, bo chcieliśmy, żeby wydawał się onieśmielający.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Mortuga info 2": {
+        "en": "I tried to imagine the way this curse might effect his appearance - his hair starting to look like coral.\n\nWe also needed to show off an important scar on his arm, so I came up with the idea of him wearing half a ripped jacket.\n\n-Catherine",
+        "pl": "Próbowałam wyobrazić sobie, jak ta klątwa mogłaby wpłynąć na jego wygląd - jego włosy zaczynające przypominać koral.\n\nMusieliśmy też pokazać ważną bliznę na jego ramieniu, więc wpadłam na pomysł, żeby nosił połowicznie rozdartą marynarkę.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Mortuga info 3": {
+        "en": "I remember seeing fishing boats on a trip to Vietnam that had eyes painted on the front of every boat. One of the reasons for this was to scare away sea monsters.\n\nI loved this idea and added a similar feature to the back of the submarine.\n\n-Catherine",
+        "pl": "Pamiętam, jak podczas podróży do Wietnamu widziałam łodzie rybackie z namalowanymi oczami z przodu każdej łódki. Jednym z powodów było odstraszanie morskich potworów.\n\nUwielbiałam ten pomysł i dodałam podobny element z tyłu łodzi podwodnej.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Mortuga info 4": {
+        "en": "Here, Catherine arrives at the final design for the Mortuga Submarine.\n\nOne of the last major changes we made was to the scope of the wooden sailing ship - the Dearest Selena. We realised it needed to be much smaller and simpler (with only one sail, rather than several) as it could apparently be crewed by only two people.\n\n-Adam",
+        "pl": "Tutaj Catherine dochodzi do ostatecznego projektu Łodzi Podwodnej Mortuga.\n\nJedną z ostatnich większych zmian, jakie wprowadziliśmy, był rozmiar drewnianego żaglowca - Dearest Seleny. Zdaliśmy sobie sprawę, że musi być dużo mniejsza i prostsza (z jednym żaglem, a nie kilkoma), skoro najwyraźniej mogła być obsługiwana zaledwie przez dwie osoby.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Others info 1": {
+        "en": "There are several clues in the game that show what the extended Fellow family looked like, so it was important that we spent some time drawing them.\n\nDesigning them together meant that I was able to balance their likeness to one another and consciously make them look related.\n\n-Catherine",
+        "pl": "W grze jest kilka dowodów pokazujących, jak wyglądała szeroko pojęta rodzina Fellow, więc ważne było, żebyśmy poświęcili trochę czasu na ich narysowanie.\n\nProjektowanie ich razem oznaczało, że mogłam wyważyć ich podobieństwo do siebie nawzajem i świadomie sprawić, by wyglądali na spokrewnionych.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Others info 2": {
+        "en": "Some cleaned up art to confirm the final designs for several side characters, including their 'meeples' for the model town.\n\nFrom top left: Baroness Fortuna, Governor Fellow, Selena Stonetop, Damian Dusk, Felicia Stonetop.\n\n-Adam",
+        "pl": "Kilka oczyszczonych grafik potwierdzających finalne projekty kilku postaci pobocznych, w tym ich 'pionków' do makiety miasteczka.\n\nOd góry z lewej: Baronowa Fortuna, Gubernator Fellow, Selena Stonetop, Damian Dusk, Felicia Stonetop.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Others info 3": {
+        "en": "As a retired circus performer, her unique appearance feels like an old stage costume.\n\nI drew clothes that were a cross between swimsuit and costume, even giving her theatrical faux lashes and stage make-up.\n\nShe salvages items from the sea to decorate her room, so I loved the idea of her wearing pirate treasure as jewellery.\n\n-Catherine",
+        "pl": "Jako emerytowana artystka cyrkowa, jej niepowtarzalny wygląd przypomina stary kostium sceniczny.\n\nNarysowałam ubrania będące skrzyżowaniem stroju kąpielowego i kostiumu, dodając jej nawet teatralne sztuczne rzęsy i sceniczny makijaż.\n\nRatuje przedmioty z morza, żeby ozdobić nimi swój pokój, więc uwielbiałam pomysł, żeby nosiła piracki skarb jako biżuterię.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Others info 4": {
+        "en": "Notes\n\n-Velvet",
+        "pl": "Notatki\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Others info 5": {
+        "en": "Others",
+        "pl": "Inni"
+      },
+      "ArtGallery/Souls/Sinthia info 1": {
+        "en": "When Sinthia was first conceived, her name was Dorothy Drummond. She was less of an intrepid mechanic and more of a goody-two-shoes genius who always knew the right answer - her hair evoking someone eagerly raising their hand in a classroom.\n\nThis particular outfit was inspired by German mathematician Emmy Noether.\n\n-Adam",
+        "pl": "Kiedy Sinthia została po raz pierwszy pomyślana, nazywała się Dorothy Drummond. Była wtedy mniej nieustraszoną mechaniczką, a bardziej wzorową geniuszką, która zawsze znała właściwą odpowiedź - jej fryzura przywodziła na myśl kogoś gorliwie podnoszącego rękę w klasie.\n\nTen konkretny strój inspirowany był niemiecką matematyczką Emmy Noether.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Sinthia info 2": {
+        "en": "The first character I drew in the game, an experienced young mechanic turned newbie submarine captain.\n\nI enjoyed playing around with the idea that she would wear nuts, bolts and spanners in her hair and as jewellery.\n\nAt one point I gave her an oversized spanner - which felt a little too fantastical. \n\n-Catherine",
+        "pl": "Pierwsza postać, jaką narysowałam w tej grze - doświadczona młoda mechaniczka, która z dnia na dzień została nowicjuszką na stanowisku kapitana łodzi podwodnej.\n\nZ przyjemnością bawiłam się pomysłem, że nosiłaby nakrętki, śrubki i klucze we włosach oraz jako biżuterię.\n\nW pewnym momencie dałam jej ogromny klucz francuski - co wydawało się trochę zbyt fantazyjne.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Sinthia info 3": {
+        "en": "I wanted Sinthia's appearance to suggest that her new captain’s role was ill-fitted for her.\n\nI put her in an oversized authoritative sea captain’s jacket, that is clumsily worn over her mechanic's overalls like an afterthought.\n\n-Catherine",
+        "pl": "Chciałam, żeby wygląd Sinthii sugerował, że jej nowa rola kapitana zupełnie do niej nie pasuje.\n\nUbrałam ją w zbyt duży, władczy płaszcz kapitana statku, niezdarnie narzucony na jej mechaniczny kombinezon, jakby w ostatniej chwili.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Sinthia info 4": {
+        "en": "In tweaking Sinthia's design for animation we removed the big collar on her coat: it just distracted from her face and hurt the silhouette.\n\n\nHer movement is relatively understated, but I feel she has a great range from faux-confident captain to cheeky young girl to nervous teen. She's dealing with a lot and trying hard to mask her stress, so it's fitting.\n\n-Velvet",
+        "pl": "Dopracowując projekt Sinthii pod kątem animacji, usunęliśmy duży kołnierz jej płaszcza - po prostu odwracał uwagę od twarzy i szkodził sylwetce.\n\n\nJej ruchy są stosunkowo powściągliwe, ale uważam, że ma świetną rozpiętość - od pozornie pewnej siebie kapitan, przez zuchwałą młodą dziewczynę, po zestresowaną nastolatkę. Mierzy się z bardzo wieloma sprawami i mocno stara się maskować swój stres, więc to pasuje.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Symmetry info 1": {
+        "en": "Symmetry was originally called Felicity Fog. Eventually, we realised we shouldn't have a Felicity and a Felicia, so I came up with Symmetry Silkmoth instead.\n\nSym's crystal ball being known as the 'Fog Ball' is a vestigial trace of her original name.\n\n-Adam",
+        "pl": "Symmetry pierwotnie nazywała się Felicity Fog. Ostatecznie zdaliśmy sobie sprawę, że nie powinniśmy mieć jednocześnie Felicity i Felicii, więc zamiast tego wymyśliłem Symmetry Silkmoth.\n\nTo, że kryształowa kula Sym nazywana jest 'Kulą Mgły' (Fog Ball), to szczątkowy ślad po jej pierwotnym imieniu.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Symmetry info 2": {
+        "en": "Sym was originally considered the prime suspect and to add to the suspicion, we wanted her to be spooky looking - pale features, white victorian clothes, a body shaped like a ghost and a face like vacant doll.\n\nI added an eye on her locket, a symbol that became synonymous with her mentor, Zephyr.\n\n-Catherine",
+        "pl": "Sym była pierwotnie uważana za głównego podejrzanego i, żeby wzmocnić te podejrzenia, chcieliśmy, żeby wyglądała niesamowicie - blade rysy, białe wiktoriańskie ubrania, ciało w kształcie ducha i twarz jak u bezdusznej lalki.\n\nDodałam oko na jej medalionie - symbol, który stał się nierozerwalnie związany z jej mentorem, Zephyrem.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Symmetry info 3": {
+        "en": "She's an illusionist-in-training, so I perched a tiny wizard hat on her head, gave her magicians gloves and a cape that was far too big for her.\n\nThere was also a phase where I imagined the eye on her locket would always look in the same direction she was looking. One of her tricks!\n\n-Catherine",
+        "pl": "Jest iluzjonistką w trakcie szkolenia, więc umieściłam na jej głowie mały kapelusz czarodzieja, dałam jej rękawiczki magika oraz pelerynę, która była dla niej zdecydowanie za duża.\n\nBył też etap, w którym wyobrażałam sobie, że oko na jej medalionie zawsze patrzy w tym samym kierunku, co ona. Jedna z jej sztuczek!\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Symmetry info 4": {
+        "en": "Sym is one of those characters where translating Adam's design into three dimensions was a lot of fun. She has a great box-shaped head so it was important to me that it work from all angles.\n\n\nI ended up giving her some subtle rubber-hose arms in motion, making her look a bit more pathetic and adding to her antiquated image by evoking 1930s animation.\n\n-Velvet",
+        "pl": "Sym to jedna z tych postaci, przy których przekładanie projektu Adama na trzy wymiary było świetną zabawą. Ma świetną, pudełkowatą głowę, więc ważne było dla mnie, żeby działała pod każdym kątem.\n\n\nOstatecznie dałam jej subtelne, gumowo-wężowe ruchy ramion, dzięki czemu wygląda trochę bardziej żałośnie, i wzmocniłam jej staroświecki wizerunek, nawiązując do animacji z lat 30.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Tadpole info 1": {
+        "en": "Tadpole was a very difficult character to design! We had to change her head shape several times before we finally landed on something we were happy with.\n\nIn the name of simplifying the design, we also removed some of the extra details I initially wanted - like shark bite marks on her arms.\n\n-Adam",
+        "pl": "Tadpole była bardzo trudną postacią do zaprojektowania! Musieliśmy kilka razy zmieniać kształt jej głowy, zanim w końcu wylądowaliśmy przy czymś, z czego byliśmy zadowoleni.\n\nW imię uproszczenia projektu usunęliśmy też część dodatkowych szczegółów, których początkowo chciałem - jak ślady ugryzień rekina na jej ramionach.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Tadpole info 2": {
+        "en": "Madam Tadpole is a peculiar character, as you're not sure if she is human or a fish.\n\nAt one point I really leant into that idea of her being a human fish and drew her with fish style features, put barnacles on her body and gave her hair made of seaweed that she styled to look like a fin.\n\n-Catherine",
+        "pl": "Madam Tadpole to osobliwa postać, bo nie jest do końca jasne, czy jest człowiekiem, czy rybą.\n\nW pewnym momencie naprawdę zaangażowałam się w ten pomysł bycia rybo-człowiekiem i narysowałam ją z rybimi rysami, dodałam pąkle na jej ciele oraz włosy z wodorostów, ułożone tak, by przypominały płetwę.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Tadpole info 3": {
+        "en": "As a retired circus performer, her unique appearance feels like an old stage costume.\n\nI drew clothes that were a cross between swimsuit and costume, even giving her theatrical faux lashes and stage make-up.\n\nShe salvages items from the sea to decorate her room, so I loved the idea of her wearing pirate treasure as jewellery.\n\n-Catherine",
+        "pl": "Jako emerytowana artystka cyrkowa, jej niepowtarzalny wygląd przypomina stary kostium sceniczny.\n\nNarysowałam ubrania będące skrzyżowaniem stroju kąpielowego i kostiumu, dodając jej nawet teatralne sztuczne rzęsy i sceniczny makijaż.\n\nRatuje przedmioty z morza, żeby ozdobić nimi swój pokój, więc uwielbiałam pomysł, żeby nosiła piracki skarb jako biżuterię.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Tadpole info 4": {
+        "en": "Tadpole's body language is usually understated, even graceful, but occasionally she'll break out into a broad motion that makes use of her huge arms in a way that's quite striking.\n\nI wanted to give her shark teeth at first, but it ended up being too distracting.\n\n-Velvet",
+        "pl": "Mowa ciała Tadpole jest zazwyczaj powściągliwa, wręcz pełna gracji, ale od czasu do czasu przechodzi w szeroki ruch, wykorzystujący jej ogromne ramiona w sposób, który robi spore wrażenie.\n\nNa początku chciałam dać jej rekinie zęby, ale okazało się to zbyt rozpraszające.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Wirman info 1": {
+        "en": "This is my earliest drawing of Wirman. I imagined him with a perpetual five o'clock shadow, wrinkled clothes and a dated haircut.\n\nI always felt like he should look like he belongs in the 1970s.\n\n-Adam",
+        "pl": "To mój najwcześniejszy rysunek Wirmana. Wyobrażałem go sobie z wiecznym, jednodniowym zarostem, pogniecionymi ubraniami i staromodną fryzurą.\n\nZawsze czułem, że powinien wyglądać, jakby przynależał do lat 70.\n\n-Adam"
+      },
+      "ArtGallery/Souls/Wirman info 2": {
+        "en": "A writer who’s a little rough around the edges and seemingly always grumpy.\n\nAdam was keen on referencing Stephen King for this character - which is where his furrowed brow and pained expression were derived from.\n\n-Catherine",
+        "pl": "Pisarz, który jest trochę szorstki i zdaje się zawsze nieco naburmuszony.\n\nAdamowi bardzo zależało na nawiązaniu do Stephena Kinga przy tej postaci - stąd właśnie zmarszczone brwi i zbolały wyraz twarzy.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Wirman info 3": {
+        "en": "At one point my version of Wirman started to look a little too confident.\n\nI remedied this by make his hair look less styled, giving him loose clothing and a hunched posture - a bad habit acquired from hours writing away on his typewriter.\n\n-Catherine",
+        "pl": "W pewnym momencie moja wersja Wirmana zaczęła wyglądać na trochę zbyt pewną siebie.\n\nZaradziłam temu, sprawiając, że jego włosy wyglądają na mniej ułożone, dając mu luźne ubrania i przygarbioną postawę - zły nawyk nabyty podczas długich godzin pisania na maszynie.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Wirman info 4": {
+        "en": "To me Wirman is the Professor Pointer of this game, in that he feels very similar to myself.\n\n\nAdam reduced his chin after I did these sketches as it didn't feel right for him to have such a strong jaw. This results in quite a squidgy, nuanced head shape that makes for very fun facial expressions. It also means you can draw him a bit wrong and it'll still look like him.\n\n-Velvet",
+        "pl": "Dla mnie Wirman to Profesor Pointer tej gry - czuję, że jest bardzo podobny do mnie samej.\n\n\nAdam zmniejszył mu podbródek po tym, jak zrobiłam te szkice, bo takie mocne szczęki nie pasowały do niego. Efektem jest dość miękki, niuansowy kształt głowy, który daje bardzo zabawne wyrazy twarzy. Oznacza to też, że można go narysować trochę źle, a i tak będzie wyglądał jak on.\n\n-Velvet"
+      },
+      "ArtGallery/Souls/Zephyr info 1": {
+        "en": "This was my first drawing of Zephyr. I always imagined him draped in long, old-fashioned scholar's robes.\n\n-Adam\n\n",
+        "pl": "To był mój pierwszy rysunek Zephyra. Zawsze wyobrażałem go sobie owiniętego w długie, staroświeckie szaty uczonego.\n\n-Adam\n\n"
+      },
+      "ArtGallery/Souls/Zephyr info 2": {
+        "en": "Zephyr’s odd profession as a Dream Doctor was the leading point of my original sketches. I wanted him to look wise, but equally spiritual and eccentric.\n\nThe tattooed eye on his head was to suggest a third all-seeing eye. Adding the spectacles was a turning point for me, because it made him look slightly dissociated and somewhat sinister.\n\n-Catherine",
+        "pl": "Osobliwy zawód Zephyra jako Doktora Snów był głównym punktem wyjścia moich pierwotnych szkiców. Chciałam, żeby wyglądał mądrze, ale zarazem duchowo i ekscentrycznie.\n\nWytatuowane oko na jego głowie miało sugerować trzecie, wszystkowidzące oko. Dodanie okularów było dla mnie punktem zwrotnym, bo sprawiło, że wyglądał na lekko zdystansowanego i nieco złowieszczego.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Zephyr info 3": {
+        "en": "His outfit is inspired by wise men from the ages such as Charles Darwin and Isaac Newton, but this opulent style also ties into his image as an avid collector of strange antiquities.\n\nI thought it would be fun to make his hand a literal antique.\n\n-Catherine",
+        "pl": "Jego strój inspirowany jest mędrcami z różnych epok, takimi jak Karol Darwin i Isaac Newton, ale ten wystawny styl wiąże się też z jego wizerunkiem zapalonego kolekcjonera dziwnych antyków.\n\nPomyślałam, że fajnie będzie, jeśli jego dłoń będzie dosłownym antykiem.\n\n-Catherine"
+      },
+      "ArtGallery/Souls/Zephyr info 4": {
+        "en": "Zephyr is one of the hardest characters I've ever had to animate!\n\nHe has everything: tall so his proportions are difficult to control, moves slowly so needs lots of drawings, flowing fabric so tons of secondary motion to manage. I'm extremely proud of how he turned out though.\n\n-Velvet",
+        "pl": "Zephyr to jedna z najtrudniejszych postaci, jakie kiedykolwiek musiałam animować!\n\nMa wszystko naraz: jest wysoki, więc trudno kontrolować jego proporcje, porusza się wolno, więc potrzeba mnóstwa rysunków, ma powiewające szaty, więc trzeba zarządzać mnóstwem ruchu drugorzędnego. Jestem jednak niezwykle dumna z tego, jak wyszedł.\n\n-Velvet"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "ArtGallery/Souls/Others info 1",
+      "en": "There are several clues in the game that show what the extended Fellow family looked like...",
+      "propozycja": "przetlumaczone doslownie",
+      "problem": "Komentarz artystki WPROST nazywa Selene Stonetop i Felicie Stonetop czescia 'rozszerzonej rodziny Fellow' (extended Fellow family), obok Baronowej Fortuny i Gubernatora Fellow. To MOCNO potwierdza (choc wciaz nie w 100% jednoznacznie) hipoteze z batch_97/99, ze Faustus Fellow i Selena Stonetop sa rodzicami Felicii. Nie zmieniono GLOSSARY na 'potwierdzone' bez jeszcze wyrazniejszego zrodla (np. sceny dialogowej to precyzujacej), ale to najsilniejsza dotad poszlaka."
+    }
+  ]
+}

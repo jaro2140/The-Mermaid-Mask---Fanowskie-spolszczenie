@@ -5,7 +5,7 @@
     "source": "Game_Translate/source/i2loc_terms.json",
     "speaker_resolution": "speaker_map.json (soulTalking) - pokrycie pelne poza mechanika Choice (3 wpisy, standardowa konwencja).",
     "character_voice": "Sinthia: kontynuacja teatralnego, dramatycznego rejestru nastolatki (batch_10-11, batch_13-15).",
-    "uwagi": "InnDeeds/ds8,17 - gra slow 'indeed'/'inn deed' (nazwa dokumentu brzmi jak angielskie 'w istocie') nieprzekladalna doslownie - zastosowano funkcjonalny zamiennik oparty o 'otoz to' -> 'o, toz to' (podobny rytm komiczny, rozbicie slowa). Do potwierdzenia z userem."
+    "uwagi": "InnDeeds/ds8,17 - gra slow 'indeed'/'inn deed' (nazwa dokumentu brzmi jak angielskie 'w istocie'). PO PRZEGLADZIE LQA (2026-07-25, v38): rozwiazanie usera oparte na 'fakt'/'F-akt Gospody' -> 'To bezsprzeczny fakt. [h]F-akt Gospody.[/h] To bezsprzeczny [i]f-akt-[/i]' (ds8), '[i]F-akt-[/i]' (ds17) - prawdziwy homofon fakt/f-akt, bez zmiany terminologii GLOSSARY (dokument nadal 'Akt Gospody'). Pelna analiza: Docs/LQA_HUMOR_WORDPLAY_REVIEW.md #6."
   },
   "categories": {
     "Sinthia CLUE ActionFigure": {
@@ -990,7 +990,7 @@
       },
       "Conversation/Sinthia CLUE InnDeeds/Section ds8": {
         "en": "We did indeed.\n[h]Inn Deed.[/h]\nWe did [i]inn-deed-[/i]",
-        "pl": "Ależ tak, otóż to.\n[h]Akt Gospody.[/h]\nZnaleźliśmy - [i]o, tóż to-[/i]",
+        "pl": "To bezsprzeczny fakt.\n[h]F—akt Gospody.[/h]\nTo bezsprzeczny [i]f-akt-[/i]",
         "speaker": "Grimoire"
       },
       "Conversation/Sinthia CLUE InnDeeds/Section ds9": {
@@ -1035,7 +1035,7 @@
       },
       "Conversation/Sinthia CLUE InnDeeds/Section ds17": {
         "en": "[i]Inn-deed-[/i]",
-        "pl": "[i]O, tóż to-[/i]",
+        "pl": "[i]F-akt-[/i]",
         "speaker": "Grimoire"
       },
       "Conversation/Sinthia CLUE InnDeeds/Section ds18": {

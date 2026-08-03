@@ -1,0 +1,1212 @@
+{
+  "_meta": {
+    "batch": "Examine - Deduction UI (223 terminy) - mechanika dedukcji: MindGame (gra skojarzen mysli), MultipleChoice Fail (nieudane odpowiedzi wieloktorowego wyboru), PresentClue (prezentowanie dowodow - already/compare/correct-wrong-detail/fail/not-quite/not-yet), RecipeComplete (odblokowanie rozmowy z podejrzanym po ukonczeniu 'przepisu' dowodow), SuspectBoard Correct/Incorrect (finalowe sceny epilogu - kazdy podejrzany wyjasnia swoj watek po rozwiazaniu zagadki).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Sceny z sufiksem 'Grim'/'Sal' w nazwie -> jednoznacznie Grimoire/Sally. Sceny '...GrimSal' (tekst wspoldzielony, dwa warianty) -> PODZIELONE PO KOLEJNOSCI ds: pierwsza polowa=Grimoire, druga polowa=Sally (zalozenie, nie potwierdzone w zrodle - do weryfikacji w grze). Sceny SuspectBoard [Postac] Correct/Incorrect (finalowy epilog) -> mowca przypisany na podstawie tresci/kontekstu fabularnego (rowniez zalozenie - PILNIE do weryfikacji w grze, patrz VERIFICATION_QUEUE).",
+    "uwagi_WAZNE": "SuspectBoard Wirman Correct ROZWIAZUJE watek 'T. W. Ibis' - to byl WYMYSLONY PSEUDONIM, ktorego Mortuga kazal uzyc Wirmanowi, zeby napisac liscik-instrukcje (z lokalizacja lodzi) jako niby-neutralna trzecia strona, bo Mortuga sam nie chcial pisac odrecznie ani zdradzac zbyt wiele we wlasnym imieniu. Patrz VERIFICATION_QUEUE - to jest kluczowa informacja rozwiazujaca 4-krotnie napotkana zagadke. SuspectBoard Sinthia Correct wyjasnia geneze Kontraktu Dowodczego (Mortuga odkryl, ze akt wlasnosci Gospody splacil lodz podwodna, wiec byl jej prawnym wlascicielem, i probowal kontraktem kontrolowac Sinthie). SuspectBoard Tadpole Correct wyjasnia, czemu Mortuga nie mogl opuscic lodzi (chronil Tadpole przed Jezykiem Syreny). SuspectBoard Sym Correct - niejasny kontekst emocjonalny (przeprosiny/pocieszenie zwiazane z 'anguish' Symmetry) - mowca ds7/ds9 zalozony jako Godrik (charakterystyczny ton zamykajacej przemowy 'to dotyczy was wszystkich'), ale NIEPEWNE."
+  },
+  "categories": {
+    "MindGameAlmostG": {
+      "Examine/MindGameAlmostG/Section ds0": {
+        "en": "Almost... maybe just change one thing.",
+        "pl": "Prawie... może po prostu zmień jedną rzecz.",
+        "speaker": "Grimoire"
+      }
+    },
+    "MindGameAlmostS": {
+      "Examine/MindGameAlmostS/Section ds0": {
+        "en": "Almost... maybe just change one thing.",
+        "pl": "Prawie... może po prostu zmień jedną rzecz.",
+        "speaker": "Sally"
+      }
+    },
+    "MindGameIncompleteG": {
+      "Examine/MindGameIncompleteG/Section ds0": {
+        "en": "We still need to choose two stray thoughts and put them into the slots.",
+        "pl": "Wciąż musimy wybrać dwie błądzące myśli i umieścić je w miejscach.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MindGameIncompleteG/Section ds2": {
+        "en": "That's not a complete sentence.",
+        "pl": "To nie jest pełne zdanie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "MindGameIncompleteS": {
+      "Examine/MindGameIncompleteS/Section ds0": {
+        "en": "We still need to highlight a detail of each clue.",
+        "pl": "Wciąż musimy podświetlić szczegół każdej wskazówki.",
+        "speaker": "Sally"
+      },
+      "Examine/MindGameIncompleteS/Section ds2": {
+        "en": "That's... not a sentence.",
+        "pl": "To... nie jest zdanie.",
+        "speaker": "Sally"
+      }
+    },
+    "MindGameNotRightEitherG": {
+      "Examine/MindGameNotRightEitherG/Section ds4": {
+        "en": "That's not right either.",
+        "pl": "To też nie jest poprawne.",
+        "speaker": "Grimoire"
+      }
+    },
+    "MindGameNotRightEitherS": {
+      "Examine/MindGameNotRightEitherS/Section ds0": {
+        "en": "That's not right either.",
+        "pl": "To też nie jest poprawne.",
+        "speaker": "Sally"
+      }
+    },
+    "MindGameNotRightG": {
+      "Examine/MindGameNotRightG/Section ds4": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Grimoire"
+      }
+    },
+    "MindGameNotRightS": {
+      "Examine/MindGameNotRightS/Section ds4": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Sally"
+      }
+    },
+    "MultipleChoice Fail Grim": {
+      "Examine/MultipleChoice Fail Grim/Section ds10": {
+        "en": "Sure about that?",
+        "pl": "Jesteś tego pewien?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds11": {
+        "en": "Uh - not really.",
+        "pl": "Yy - nie bardzo.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds12": {
+        "en": "Uh - not really.",
+        "pl": "Yy - nie bardzo.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds13": {
+        "en": "Sure about that?",
+        "pl": "Jesteś tego pewien?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds14": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds15": {
+        "en": "I'm... gonna try that again.",
+        "pl": "Ja... spróbuję jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds16": {
+        "en": "Yeeaah let's do that again.",
+        "pl": "Noo, zróbmy to jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds17": {
+        "en": "Uh...",
+        "pl": "Yy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds18": {
+        "en": "I'm... gonna try that again.",
+        "pl": "Ja... spróbuję jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds19": {
+        "en": "Really?",
+        "pl": "Naprawdę?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds20": {
+        "en": "Yeeaah let's do that again.",
+        "pl": "Noo, zróbmy to jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds21": {
+        "en": "Uh...",
+        "pl": "Yy...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds22": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds23": {
+        "en": "-is what I [i]would[/i] say, if I wanted to be wrong.",
+        "pl": "-to bym [i]powiedział,[/i] gdybym chciał się mylić.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim/Section ds24": {
+        "en": "Because that was wrong.",
+        "pl": "Bo to było błędne.",
+        "speaker": "Grimoire"
+      }
+    },
+    "MultipleChoice Fail Grim Serious": {
+      "Examine/MultipleChoice Fail Grim Serious/Section ds10": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds11": {
+        "en": "Yeah. Maybe that's not it.",
+        "pl": "Tak. Może to nie to.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds12": {
+        "en": "Not really, no.",
+        "pl": "Nie bardzo, nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds13": {
+        "en": "Are you sure...?",
+        "pl": "Jesteś pewien...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds14": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds15": {
+        "en": "...let's look at this again.",
+        "pl": "...spójrzmy na to jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds25": {
+        "en": "Yeah. Maybe that's not it.",
+        "pl": "Tak. Może to nie to.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds26": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds27": {
+        "en": "Not really, no.",
+        "pl": "Nie bardzo, nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds28": {
+        "en": "Are you sure...?",
+        "pl": "Jesteś pewien...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds29": {
+        "en": "...let's look at this again.",
+        "pl": "...spójrzmy na to jeszcze raz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/MultipleChoice Fail Grim Serious/Section ds30": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "MultipleChoice Fail Sal": {
+      "Examine/MultipleChoice Fail Sal/Section ds25": {
+        "en": "You sure about that?",
+        "pl": "Jesteś tego pewna?",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds26": {
+        "en": "No. Not really.",
+        "pl": "Nie. Nie bardzo.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds27": {
+        "en": "No. Not really.",
+        "pl": "Nie. Nie bardzo.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds28": {
+        "en": "You sure about that?",
+        "pl": "Jesteś tego pewna?",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds29": {
+        "en": "You know what, let's try that again.",
+        "pl": "Wiesz co, spróbujmy jeszcze raz.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds30": {
+        "en": "Wait - really?",
+        "pl": "Czekaj - naprawdę?",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds31": {
+        "en": "You know what, let's try that again.",
+        "pl": "Wiesz co, spróbujmy jeszcze raz.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds32": {
+        "en": "Wait - really?",
+        "pl": "Czekaj - naprawdę?",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds33": {
+        "en": "On second thought - maybe not.",
+        "pl": "Po namyśle - może jednak nie.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds34": {
+        "en": "Uh-\n",
+        "pl": "Yy-\n",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds35": {
+        "en": "On second thought - maybe not.",
+        "pl": "Po namyśle - może jednak nie.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds36": {
+        "en": "Uh-\n",
+        "pl": "Yy-\n",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds37": {
+        "en": "Kidding - obviously.\n",
+        "pl": "Żartuję - oczywiście.\n",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds38": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal/Section ds39": {
+        "en": "Now, for the actual answer;\n",
+        "pl": "A teraz, prawdziwa odpowiedź;\n",
+        "speaker": "Sally"
+      }
+    },
+    "MultipleChoice Fail Sal Serious": {
+      "Examine/MultipleChoice Fail Sal Serious/Section ds25": {
+        "en": "I'm not so sure about that.",
+        "pl": "Nie jestem tego taka pewna.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds26": {
+        "en": "Let's think about this again.",
+        "pl": "Pomyślmy o tym jeszcze raz.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds27": {
+        "en": "Yeah, I think maybe that was wrong.",
+        "pl": "Tak, myślę, że to było błędne.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds28": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds29": {
+        "en": "...maybe that's not it.",
+        "pl": "...może to nie to.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds30": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds40": {
+        "en": "Let's think about this again.",
+        "pl": "Pomyślmy o tym jeszcze raz.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds41": {
+        "en": "I'm not so sure about that.",
+        "pl": "Nie jestem tego taka pewna.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds42": {
+        "en": "Yeah, I think maybe that was wrong.",
+        "pl": "Tak, myślę, że to było błędne.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds43": {
+        "en": "I don't know...",
+        "pl": "Nie wiem...",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds44": {
+        "en": "...maybe that's not it.",
+        "pl": "...może to nie to.",
+        "speaker": "Sally"
+      },
+      "Examine/MultipleChoice Fail Sal Serious/Section ds45": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue Already GrimSal": {
+      "Examine/PresentClue Already GrimSal/Section ds0": {
+        "en": "We already covered this.",
+        "pl": "Już to omówiliśmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds6": {
+        "en": "We've already talked about that.\n",
+        "pl": "Już o tym rozmawialiśmy.\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds8": {
+        "en": "We've been over that already.\n",
+        "pl": "Już to przerobiliśmy.\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds10": {
+        "en": "We've looked at that already.",
+        "pl": "Już się temu przyjrzeliśmy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds11": {
+        "en": "We already covered this.",
+        "pl": "Już to omówiliśmy.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds12": {
+        "en": "I don't think we need to talk about that again.",
+        "pl": "Nie sądzę, żebyśmy musieli o tym znowu rozmawiać.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds14": {
+        "en": "We've already talked about that.\n",
+        "pl": "Już o tym rozmawialiśmy.\n",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Already GrimSal/Section ds15": {
+        "en": "I don't think we need to go back to that.",
+        "pl": "Nie sądzę, żebyśmy musieli do tego wracać.",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue Compare to itself GrimSal": {
+      "Examine/PresentClue Compare to itself GrimSal/Section ds5": {
+        "en": "We need a clue that's got some connection to this one.",
+        "pl": "Potrzebujemy wskazówki, która ma jakiś związek z tą.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds6": {
+        "en": "This is the clue we need to compare with something else.",
+        "pl": "To wskazówka, którą musimy porównać z czymś innym.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds7": {
+        "en": "We can't compare it to itself.\n",
+        "pl": "Nie możemy porównać tego z samym sobą.\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds8": {
+        "en": "We need a clue that's got a connection to this one.",
+        "pl": "Potrzebujemy wskazówki, która ma związek z tą.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds9": {
+        "en": "This is the clue we wanna compare with a different one.\n",
+        "pl": "To wskazówka, którą chcemy porównać z inną.\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds10": {
+        "en": "I don't wanna compare it to itself.",
+        "pl": "Nie chcę porównywać tego z samym sobą.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds11": {
+        "en": "We need a clue that's got some connection to this one.",
+        "pl": "Potrzebujemy wskazówki, która ma jakiś związek z tą.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds12": {
+        "en": "This is the clue we need to compare with something else.",
+        "pl": "To wskazówka, którą musimy porównać z czymś innym.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds13": {
+        "en": "We can't compare it to itself.\n",
+        "pl": "Nie możemy porównać tego z samym sobą.\n",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds14": {
+        "en": "We need a clue that's got a connection to this one.",
+        "pl": "Potrzebujemy wskazówki, która ma związek z tą.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds15": {
+        "en": "This is the clue we wanna compare with a different one.\n",
+        "pl": "To wskazówka, którą chcemy porównać z inną.\n",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Compare to itself GrimSal/Section ds16": {
+        "en": "I don't wanna compare it to itself.",
+        "pl": "Nie chcę porównywać tego z samym sobą.",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue CorrectClue WrongDetail": {
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds0": {
+        "en": "This is the right clue, but let's be specific...",
+        "pl": "To właściwa wskazówka, ale bądźmy konkretni...",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds5": {
+        "en": "This is the right clue, but we want a specific aspect of it...",
+        "pl": "To właściwa wskazówka, ale chcemy jej konkretnego aspektu...",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds6": {
+        "en": "This is the right clue, but we want a specific aspect of it...",
+        "pl": "To właściwa wskazówka, ale chcemy jej konkretnego aspektu...",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds8": {
+        "en": "This is the correct clue, but we need to choose the right part...",
+        "pl": "To właściwa wskazówka, ale musimy wybrać właściwą część...",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds9": {
+        "en": "This is the right clue, but let's be specific...",
+        "pl": "To właściwa wskazówka, ale bądźmy konkretni...",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue CorrectClue WrongDetail/Section ds10": {
+        "en": "This is the correct clue, but we need to choose the right part...",
+        "pl": "To właściwa wskazówka, ale musimy wybrać właściwą część...",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue Fail Grim": {
+      "Examine/PresentClue Fail Grim/Section ds0": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds5": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds6": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds7": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds8": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Fail Grim/Section ds10": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Grimoire"
+      }
+    },
+    "PresentClue Fail Sal": {
+      "Examine/PresentClue Fail Sal/Section ds0": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds1": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds5": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds6": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds7": {
+        "en": "That's not right.",
+        "pl": "To nie jest poprawne.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds8": {
+        "en": "Nope.",
+        "pl": "Nie.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Fail Sal/Section ds9": {
+        "en": "That's not it.",
+        "pl": "To nie to.",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue GrippSuspicion FeliciaPainting": {
+      "Examine/PresentClue GrippSuspicion FeliciaPainting/Section ds0": {
+        "en": "I think the diary pages on the back mentioned something about this...",
+        "pl": "Myślę, że strony dziennika z tyłu wspominały coś o tym...",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue GrippSuspicion FeliciaPainting/Section ds3": {
+        "en": "True - but I was thinking about something a little more tangible.",
+        "pl": "Prawda - ale myślałam o czymś trochę bardziej namacalnym.",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue Not quite GrimSal": {
+      "Examine/PresentClue Not quite GrimSal/Section ds0": {
+        "en": "I know what you mean - but it's not what I had in mind.",
+        "pl": "Rozumiem, o co ci chodzi - ale to nie to, co miałem na myśli.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds6": {
+        "en": "I mean, I get it - but that's not quite right.",
+        "pl": "No, rozumiem - ale to nie do końca poprawne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds8": {
+        "en": "That kinda does make sense, but it's not quite what I was after.",
+        "pl": "To ma jakiś sens, ale to nie do końca to, o co mi chodziło.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds10": {
+        "en": "That almost works, but it's not what I was thinking of.\n",
+        "pl": "To prawie działa, ale nie o tym myślałem.\n",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds11": {
+        "en": "I know what you mean - but it's not what I had in mind.",
+        "pl": "Rozumiem, o co ci chodzi - ale to nie to, co miałam na myśli.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds12": {
+        "en": "That kinda does make sense, but it's not quite what I was after.",
+        "pl": "To ma jakiś sens, ale to nie do końca to, o co mi chodziło.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds14": {
+        "en": "I mean, I get it - but that's not quite right.",
+        "pl": "No, rozumiem - ale to nie do końca poprawne.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not quite GrimSal/Section ds15": {
+        "en": "That almost works, but it's not what I was thinking of.\n",
+        "pl": "To prawie działa, ale nie o tym myślałam.\n",
+        "speaker": "Sally"
+      }
+    },
+    "PresentClue Not yet GrimSal": {
+      "Examine/PresentClue Not yet GrimSal/Section ds0": {
+        "en": "We'll get to that later...",
+        "pl": "Zajmiemy się tym później...",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds6": {
+        "en": "We'll get to this later.",
+        "pl": "Zajmiemy się tym później.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds7": {
+        "en": "I think we'll circle back around to this.",
+        "pl": "Myślę, że do tego wrócimy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds8": {
+        "en": "We'll get to that in a minute.",
+        "pl": "Zajmiemy się tym za chwilę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds9": {
+        "en": "I'm pretty sure we'll circle around to that later.",
+        "pl": "Jestem prawie pewien, że do tego wrócimy później.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds10": {
+        "en": "We'll talk about that in a minute.",
+        "pl": "Porozmawiamy o tym za chwilę.",
+        "speaker": "Grimoire"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds11": {
+        "en": "We'll get to that later...",
+        "pl": "Zajmiemy się tym później...",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds12": {
+        "en": "We'll get to that in a minute.",
+        "pl": "Zajmiemy się tym za chwilę.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds13": {
+        "en": "I think we'll circle back around to this.",
+        "pl": "Myślę, że do tego wrócimy.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds14": {
+        "en": "We'll get to this later.",
+        "pl": "Zajmiemy się tym później.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds15": {
+        "en": "We'll talk about that in a minute.",
+        "pl": "Porozmawiamy o tym za chwilę.",
+        "speaker": "Sally"
+      },
+      "Examine/PresentClue Not yet GrimSal/Section ds16": {
+        "en": "I'm pretty sure we'll circle around to that later.",
+        "pl": "Jestem prawie pewna, że do tego wrócimy później.",
+        "speaker": "Sally"
+      }
+    },
+    "RecipeCompleteDirk": {
+      "Examine/RecipeCompleteDirk/Section ds0": {
+        "en": "There's something suspicious about Dirk...",
+        "pl": "Coś podejrzanego jest z Dirkiem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteDirk/Section ds1": {
+        "en": "Let's go talk to him.",
+        "pl": "Chodźmy z nim porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteDirk/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteDirk/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteDirk/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteGripp": {
+      "Examine/RecipeCompleteGripp/Section ds0": {
+        "en": "There's something suspicious about Gripp...",
+        "pl": "Coś podejrzanego jest z Grippem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteGripp/Section ds1": {
+        "en": "Let's go talk to him.",
+        "pl": "Chodźmy z nim porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteGripp/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteGripp/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteGripp/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteMoon": {
+      "Examine/RecipeCompleteMoon/Section ds0": {
+        "en": "There's something suspicious about Mariana...",
+        "pl": "Coś podejrzanego jest z Marianą...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteMoon/Section ds1": {
+        "en": "Let's go talk to her.",
+        "pl": "Chodźmy z nią porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteMoon/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteMoon/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteMoon/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteSinthia": {
+      "Examine/RecipeCompleteSinthia/Section ds0": {
+        "en": "There's something suspicious about Sinthia...",
+        "pl": "Coś podejrzanego jest z Sinthią...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteSinthia/Section ds1": {
+        "en": "Let's go talk to her.",
+        "pl": "Chodźmy z nią porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteSinthia/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteSinthia/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteSinthia/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteSymmetry": {
+      "Examine/RecipeCompleteSymmetry/Section ds0": {
+        "en": "There's something suspicious about Symmetry...",
+        "pl": "Coś podejrzanego jest z Symmetry...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteSymmetry/Section ds1": {
+        "en": "Let's go talk to her.",
+        "pl": "Chodźmy z nią porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteSymmetry/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteSymmetry/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteSymmetry/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteTadpole": {
+      "Examine/RecipeCompleteTadpole/Section ds0": {
+        "en": "There's something suspicious about Tadpole...",
+        "pl": "Coś podejrzanego jest z Tadpole...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteTadpole/Section ds1": {
+        "en": "Let's go talk to her.",
+        "pl": "Chodźmy z nią porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteTadpole/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteTadpole/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteTadpole/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteWirman": {
+      "Examine/RecipeCompleteWirman/Section ds0": {
+        "en": "There's something suspicious about Wirman...",
+        "pl": "Coś podejrzanego jest z Wirmanem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteWirman/Section ds1": {
+        "en": "Let's go talk to him.",
+        "pl": "Chodźmy z nim porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteWirman/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteWirman/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteWirman/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "RecipeCompleteZephyr": {
+      "Examine/RecipeCompleteZephyr/Section ds0": {
+        "en": "There's something suspicious about Zephyr...",
+        "pl": "Coś podejrzanego jest z Zephyrem...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteZephyr/Section ds1": {
+        "en": "Let's go talk to him.",
+        "pl": "Chodźmy z nim porozmawiać.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/RecipeCompleteZephyr/Section ds1 Choice 1": {
+        "en": "Go now",
+        "pl": "Idź teraz",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteZephyr/Section ds1 Choice 2": {
+        "en": "Later",
+        "pl": "Później",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/RecipeCompleteZephyr/Section ds1 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "SuspectBoard Sinthia Correct": {
+      "Examine/SuspectBoard Sinthia Correct/Section ds0": {
+        "en": "So... who [i]was[/i] it for?",
+        "pl": "Więc... dla kogo [i]właściwie[/i] to było?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds2": {
+        "en": "Me.",
+        "pl": "Dla mnie.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds3": {
+        "en": "Once Mortuga found out the Inn Deeds had been used to pay for the submarine...",
+        "pl": "Gdy Mortuga odkrył, że akt własności Gospody spłacił łódź podwodną...",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds4": {
+        "en": "...he realised for the first time that he was its legal owner.",
+        "pl": "...po raz pierwszy uświadomił sobie, że jest jej prawnym właścicielem.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds5": {
+        "en": "Armed with the new information, Mortuga attempted to use it to control me.",
+        "pl": "Uzbrojony w tę nową wiedzę, Mortuga próbował wykorzystać to, żeby mnie kontrolować.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds6": {
+        "en": "Thus, the Command Contract.",
+        "pl": "Stąd Kontrakt Dowódczy.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds7": {
+        "en": "...and to cease my search for The Mermaid's Tongue.",
+        "pl": "...i żebym przestała szukać Języka Syreny.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds8": {
+        "en": "To strongarm me into telling him where Felicia had gone...",
+        "pl": "Żeby zmusić mnie do powiedzenia mu, dokąd zniknęła Felicia...",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds9": {
+        "en": "He really hadn't known that before?",
+        "pl": "Naprawdę wcześniej tego nie wiedział?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds10": {
+        "en": "No. He'd always assumed I paid for it with my own money.",
+        "pl": "Nie. Zawsze zakładał, że zapłaciłam za to z własnych pieniędzy.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds11": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds12": {
+        "en": "What exactly was he hoping to achieve...?",
+        "pl": "Co dokładnie chciał osiągnąć...?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds13": {
+        "en": "I guess Mortuga thought if [h]I[/h] could be controlled by a contract, maybe... someone else could be too.",
+        "pl": "Chyba Mortuga pomyślał, że skoro [h]mnie[/h] można kontrolować kontraktem, to może... kogoś innego też.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds14": {
+        "en": "Wasn't Mortuga supposed to be paperwork-averse? ",
+        "pl": "Czy Mortuga nie miał niechęci do papierkowej roboty? ",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds15": {
+        "en": "Of course not.",
+        "pl": "Oczywiście, że nie.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds16": {
+        "en": "But it didn't work.",
+        "pl": "Ale to nie zadziałało.",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds17": {
+        "en": "Um, that's my bad. I ended up telling him all about contracts, you know - what they [i]are[/i], how they [i]work...[/i]",
+        "pl": "Yy, to moja wina. W końcu opowiedziałam mu wszystko o kontraktach, no wiecie - czym [i]są,[/i] jak [i]działają...[/i]",
+        "speaker": "Sinthia"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds18": {
+        "en": "Where would he even get an idea like that?",
+        "pl": "Skąd w ogóle wziął taki pomysł?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds19": {
+        "en": "I'm surprised to learn he would try to control someone with a contract... ",
+        "pl": "Dziwi mnie, że próbowałby kogoś kontrolować kontraktem... ",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sinthia Correct/Section ds20": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sinthia"
+      }
+    },
+    "SuspectBoard Sinthia Incorrect": {
+      "Examine/SuspectBoard Sinthia Incorrect/Section ds0": {
+        "en": "I don't think that's right...",
+        "pl": "Nie sądzę, żeby to było poprawne...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "SuspectBoard Sym Correct": {
+      "Examine/SuspectBoard Sym Correct/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds2": {
+        "en": "See? I [i]told[/i] you - you didn't make him sad.",
+        "pl": "Widzisz? [i]Mówiłem[/i] ci - nie zrobiłaś go smutnym.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds3": {
+        "en": "He'd just learned about the death of his beloved friend...",
+        "pl": "Właśnie dowiedział się o śmierci swojej ukochanej przyjaciółki...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds4": {
+        "en": "What I did, it was-",
+        "pl": "To, co zrobiłam, było-",
+        "speaker": "Symmetry"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds5": {
+        "en": "You didn't know.",
+        "pl": "Nie wiedziałaś.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds6": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Symmetry"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds7": {
+        "en": "Symmetry, let it go. Your anguish.",
+        "pl": "Symmetry, puść to. Twoje cierpienie.",
+        "speaker": "Godrik"
+      },
+      "Examine/SuspectBoard Sym Correct/Section ds9": {
+        "en": "That goes for [i]all[/i] of you.",
+        "pl": "To dotyczy [i]was wszystkich.[/i]",
+        "speaker": "Godrik"
+      }
+    },
+    "SuspectBoard Sym Incorrect": {
+      "Examine/SuspectBoard Sym Incorrect/Section ds0": {
+        "en": "I don't think that's right...",
+        "pl": "Nie sądzę, żeby to było poprawne...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "SuspectBoard Tadpole Correct": {
+      "Examine/SuspectBoard Tadpole Correct/Section ds0": {
+        "en": "He always [i]did[/i] think you would make the best captain. ",
+        "pl": "Zawsze [i]uważał,[/i] że byłabyś najlepszym kapitanem. ",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds2": {
+        "en": "And he [i]did[/i] want to leave.",
+        "pl": "I [i]naprawdę[/i] chciał odejść.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Tadpole"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds4": {
+        "en": "But he couldn't. Not without the information he so desired.",
+        "pl": "Ale nie mógł. Nie bez informacji, której tak bardzo pragnął.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds5": {
+        "en": "...since it turned out he had The Mermaid's Tongue on board the entire time...",
+        "pl": "...skoro okazało się, że przez cały czas miał Język Syreny na pokładzie...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds6": {
+        "en": "I don't think he wanted to leave me on the submarine with it.",
+        "pl": "Nie sądzę, żeby chciał zostawić mnie na łodzi podwodnej z tym.",
+        "speaker": "Tadpole"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds7": {
+        "en": "Not just that...",
+        "pl": "Nie tylko to...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds8": {
+        "en": "He was trying to [i]protect[/i] you.",
+        "pl": "Próbował cię [i]chronić.[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds9": {
+        "en": "He didn't want me anywhere near it.",
+        "pl": "Nie chciał, żebym była w pobliżu tego.",
+        "speaker": "Tadpole"
+      },
+      "Examine/SuspectBoard Tadpole Correct/Section ds11": {
+        "en": "I'm aware.",
+        "pl": "Wiem o tym.",
+        "speaker": "Tadpole"
+      }
+    },
+    "SuspectBoard Tadpole Incorrect": {
+      "Examine/SuspectBoard Tadpole Incorrect/Section ds0": {
+        "en": "I don't think that's right...",
+        "pl": "Nie sądzę, żeby to było poprawne...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "SuspectBoard Wirman Correct": {
+      "Examine/SuspectBoard Wirman Correct/Section ds13": {
+        "en": "It was his [i]idea[/i], but he wasn't one for writing by hand, so he asked me to do it for him.",
+        "pl": "To był jego [i]pomysł,[/i] ale nie był typem, co pisze ręcznie, więc poprosił mnie, żebym to dla niego zrobił.",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds16": {
+        "en": "Wait so [i]Mortuga[/i] wrote the letter??",
+        "pl": "Czekaj, więc [i]Mortuga[/i] napisał ten list??",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds17": {
+        "en": "Not exactly.",
+        "pl": "Nie do końca.",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds21": {
+        "en": "Mortuga didn't want to reveal too much in the letter, so he had the idea to pretend to be a neutral third party.",
+        "pl": "Mortuga nie chciał zdradzić zbyt wiele w liście, więc wpadł na pomysł, żeby udawać neutralną trzecią stronę.",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds22": {
+        "en": "But - why [i]Ibis?[/i]",
+        "pl": "Ale - czemu [i]Ibis?[/i]",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds23": {
+        "en": "We learned about Ibis from that newspaper page - but it just needed to be someone you would listen to.",
+        "pl": "Dowiedzieliśmy się o Ibisie z tamtej strony gazety - ale musiał to być po prostu ktoś, kogo byście posłuchali.",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds24": {
+        "en": "Honestly, I'm surprised it worked...",
+        "pl": "Szczerze mówiąc, dziwię się, że to zadziałało...",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds25": {
+        "en": "Were you able to - tell him anything?",
+        "pl": "Czy udało ci się - cokolwiek mu powiedzieć?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds26": {
+        "en": "Oh yeah... I was wondering about that.",
+        "pl": "O tak... zastanawiałem się nad tym.",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds27": {
+        "en": "Huh. This explains why Mortuga kept asking about my father...",
+        "pl": "Hę. To wyjaśnia, czemu Mortuga wciąż pytał o mojego ojca...",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds28": {
+        "en": "D'you think he [i]would've[/i] known anything about Felicia? -about what happened to her?",
+        "pl": "Myślisz, że [i]mógłby[/i] wiedzieć coś o Felicii? -o tym, co się z nią stało?",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds29": {
+        "en": "Afraid not. I haven't spoken to my father in years...",
+        "pl": "Obawiam się, że nie. Nie rozmawiałem z ojcem od lat...",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds30": {
+        "en": "It's possible...",
+        "pl": "To możliwe...",
+        "speaker": "Grimoire (domniemany)"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds34": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Wirman"
+      },
+      "Examine/SuspectBoard Wirman Correct/Section ds36": {
+        "en": "Hm.",
+        "pl": "Hm.",
+        "speaker": "Grimoire (domniemany)"
+      }
+    },
+    "SuspectBoard Wirman Incorrect": {
+      "Examine/SuspectBoard Wirman Incorrect/Section ds0": {
+        "en": "I don't think that's right...",
+        "pl": "Nie sądzę, żeby to było poprawne...",
+        "speaker": "Grimoire (domniemany)"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Examine/SuspectBoard Wirman Correct (cala scena)",
+      "issue": "KLUCZOWE: ta scena rozwiazuje watek 'T. W. Ibis' obecny w VERIFICATION_QUEUE (itemy dotyczace Ibisa z batch_39/61/62/66) - Ibis to wymyslony pseudonim, ktorego Mortuga kazal uzyc Wirmanowi do napisania liscika z lokalizacja lodzi, bo sam nie chcial pisac odrecznie/zdradzac za duzo we wlasnym imieniu. Nalezy zaktualizowac GLOSSARY.md i oznaczyc odpowiednie itemy VERIFICATION_QUEUE jako ROZWIAZANE."
+    },
+    {
+      "term": "Examine/SuspectBoard Sym Correct/Section ds7,ds9",
+      "issue": "Mowca przypisany jako 'Godrik' na podstawie tonu przemowy ('Symmetry, puść to... To dotyczy was wszystkich') - ZALOZENIE, nie potwierdzone zadnym metadata. Do koniecznej weryfikacji w grze - moze to byc inna postac (np. Zephyr, ktory tez ma mistyczny/pocieszajacy rejestr)."
+    },
+    {
+      "term": "Wszystkie sceny '...GrimSal'",
+      "issue": "Podzial mowcow Grimoire/Sally oparty na arbitralnej regule (pierwsza polowa linii wg numeru ds = Grimoire, druga = Sally) - PRAWDOPODOBNIE nieistotne dla rozgrywki (gra i tak dobiera wariant tekstu do aktywnego detektywa), ale przypisanie w tym pliku moze nie odzwierciedlac faktycznej logiki gry."
+    }
+  ]
+}

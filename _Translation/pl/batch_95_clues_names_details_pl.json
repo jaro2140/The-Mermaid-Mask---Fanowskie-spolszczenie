@@ -1,0 +1,1263 @@
+{
+  "_meta": {
+    "batch": "Clues - Names (54, oficjalne nazwy dowodow pokazywane w UI/inventory) + Details (253, etykiety podswietlanych czesci przy oglkadaniu dowodu z bliska) - CALA kategoria 'Clues/Names' i 'Clues/Details' skompletowana na raz (nie per-dowod), analogicznie do batch_12 Views - to zamkniete slowniki uzywane pozniej w setkach linii CLUE X (juz przetlumaczonych) i w samym UI ogladania dowodow. Rozwiazuje otwarty punkt VERIFICATION_QUEUE #20 (formalna nazwa 'Inn Deeds'). Nowe ustalenia: 'Stone Cauldron' (nie 'Cauldron') i 'Sailcloth' (nie 'Ragged Cloth') to oficjalne nazwy wyswietlane graczowi mimo innych kluczy technicznych CurseCauldron/RaggedCloth. Ujawnia nowy watek poboczny: zestaw 4 mitycznych relikwii w Dzienniku Dozorcy (Medalion Lillian, Czaszka Srebrnego Weza, Jego Zlota Dlon, Jezyk Syreny) oraz tozsamosc 'Lillian' jako matki Symmetry/rzekomej czarownicy (patrz GLOSSARY).",
+    "date": "2026-08-02",
+    "source": "Game_Translate/source/i2loc_terms.json (kategoria Clues, Clues/Names 54/54 + Clues/Details 253/253)",
+    "target_language_slot": "Russian (index 7 w mLanguages)",
+    "format_note": "en/pl w osobnych liniach, bez pola speaker (etykiety UI/nazwy dowodow, nie dialog)."
+  },
+  "categories": {
+    "Names": {
+      "Clues/Names/ActionFigure": {
+        "en": "Action Figure",
+        "pl": "Figurka Akcji"
+      },
+      "Clues/Names/BalloonBasket": {
+        "en": "Balloon Basket",
+        "pl": "Kosz Balonowy"
+      },
+      "Clues/Names/BlackBox": {
+        "en": "The Black Box",
+        "pl": "Czarna Skrzynka"
+      },
+      "Clues/Names/BlurryPhoto": {
+        "en": "Moon Photo",
+        "pl": "Zdjęcie Księżycowe"
+      },
+      "Clues/Names/BrokenCompass": {
+        "en": "Broken Compass",
+        "pl": "Zepsuty Kompas"
+      },
+      "Clues/Names/CaptainsJacket": {
+        "en": "Captain's Jacket",
+        "pl": "Płaszcz Kapitański"
+      },
+      "Clues/Names/CaptainsLog": {
+        "en": "Captain's Log",
+        "pl": "Dziennik Kapitana"
+      },
+      "Clues/Names/CaretakersJournal": {
+        "en": "Caretaker's Journal",
+        "pl": "Dziennik Dozorcy"
+      },
+      "Clues/Names/CaseFile": {
+        "en": "Case File",
+        "pl": "Akta Sprawy"
+      },
+      "Clues/Names/CellPhone": {
+        "en": "Cell Phone",
+        "pl": "Telefon Komórkowy"
+      },
+      "Clues/Names/CommandContract": {
+        "en": "Command Contract",
+        "pl": "Kontrakt Dowódczy"
+      },
+      "Clues/Names/CorneliusCane": {
+        "en": "Cornelius Cane",
+        "pl": "Cornelius Cane"
+      },
+      "Clues/Names/CurseCauldron": {
+        "en": "Stone Cauldron",
+        "pl": "Kamienny Kocioł"
+      },
+      "Clues/Names/DivingLicense": {
+        "en": "Diving License",
+        "pl": "Licencja Nurkowa"
+      },
+      "Clues/Names/DreamHelmet": {
+        "en": "Dream Helmet",
+        "pl": "Hełm Snów"
+      },
+      "Clues/Names/FamilyPhoto": {
+        "en": "Family Photo",
+        "pl": "Zdjęcie Rodzinne"
+      },
+      "Clues/Names/FeliciaPainting": {
+        "en": "HER Painting",
+        "pl": "Obraz 'ONA'"
+      },
+      "Clues/Names/Figurehead": {
+        "en": "Figurehead",
+        "pl": "Galion"
+      },
+      "Clues/Names/FilmProjector": {
+        "en": "Film Projector",
+        "pl": "Projektor Filmowy"
+      },
+      "Clues/Names/FogBall": {
+        "en": "Fog Ball",
+        "pl": "Kula Mgły"
+      },
+      "Clues/Names/GlassEyeball": {
+        "en": "Glass Eyeball",
+        "pl": "Szklane Oko"
+      },
+      "Clues/Names/GoldenLocket": {
+        "en": "Golden Locket",
+        "pl": "Złoty Medalion"
+      },
+      "Clues/Names/HandheldRadio": {
+        "en": "Handheld Radio",
+        "pl": "Krótkofalówka"
+      },
+      "Clues/Names/HandwrittenLetter": {
+        "en": "Handwritten Letter",
+        "pl": "Odręczny List"
+      },
+      "Clues/Names/HexBottle": {
+        "en": "Hex Bottle",
+        "pl": "Butelka Hexa"
+      },
+      "Clues/Names/HexoftheHelmsman": {
+        "en": "Hex of the Helmsman",
+        "pl": "Klątwa Sternika"
+      },
+      "Clues/Names/IllusionistPoster": {
+        "en": "Illusion Poster",
+        "pl": "Plakat Iluzjonisty"
+      },
+      "Clues/Names/InnDeeds": {
+        "en": "Inn Deeds",
+        "pl": "Akt Własności Gospody"
+      },
+      "Clues/Names/IronBell": {
+        "en": "Iron Bell",
+        "pl": "Żelazny Dzwon"
+      },
+      "Clues/Names/LifesizeDoll": {
+        "en": "Lifesize Doll",
+        "pl": "Lalka Naturalnej Wielkości"
+      },
+      "Clues/Names/MermaidPainting": {
+        "en": "HER Painting",
+        "pl": "Obraz 'ONA'"
+      },
+      "Clues/Names/MessageinaBottle": {
+        "en": "Message in a Bottle",
+        "pl": "Wiadomość w Butelce"
+      },
+      "Clues/Names/ModelTown": {
+        "en": "Model Town",
+        "pl": "Makieta Miasteczka"
+      },
+      "Clues/Names/MoonVial": {
+        "en": "Moon Vial",
+        "pl": "Fiolka Moon"
+      },
+      "Clues/Names/MourningEnvelope": {
+        "en": "Mourning Envelope",
+        "pl": "Koperta Żałobna"
+      },
+      "Clues/Names/MovieMagazine": {
+        "en": "Movie Magazine",
+        "pl": "Magazyn Filmowy"
+      },
+      "Clues/Names/NewspaperPage": {
+        "en": "Newspaper Page",
+        "pl": "Strona Gazety"
+      },
+      "Clues/Names/OceanTreasure": {
+        "en": "Ocean Treasure",
+        "pl": "Skarb Oceanu"
+      },
+      "Clues/Names/Pocketbook": {
+        "en": "Pocketbook",
+        "pl": "Notes Kieszonkowy"
+      },
+      "Clues/Names/RaggedCloth": {
+        "en": "Sailcloth",
+        "pl": "Żaglowe Płótno"
+      },
+      "Clues/Names/RippedScroll": {
+        "en": "Ripped Scroll",
+        "pl": "Podarty Zwój"
+      },
+      "Clues/Names/SeaChart": {
+        "en": "Ocean Map",
+        "pl": "Mapa Oceanu"
+      },
+      "Clues/Names/ShipinaBottle": {
+        "en": "Ship in a Bottle",
+        "pl": "Statek w Butelce"
+      },
+      "Clues/Names/ShipsWheel": {
+        "en": "Ship's Wheel",
+        "pl": "Koło Sterowe"
+      },
+      "Clues/Names/SilkwirmMap": {
+        "en": "Silkwirm Map",
+        "pl": "Mapa Silkwirm"
+      },
+      "Clues/Names/StrangeDevice": {
+        "en": "Strange Device",
+        "pl": "Dziwne Urządzenie"
+      },
+      "Clues/Names/SubmarineBlueprint": {
+        "en": "Submarine Blueprint",
+        "pl": "Plany Łodzi Podwodnej"
+      },
+      "Clues/Names/SunTablets": {
+        "en": "Sun Tablets",
+        "pl": "Tabletki Słoneczne"
+      },
+      "Clues/Names/TheMermaidsTongue": {
+        "en": "The Mermaid's Tongue",
+        "pl": "Język Syreny"
+      },
+      "Clues/Names/Typewriter": {
+        "en": "Typewriter",
+        "pl": "Maszyna do Pisania"
+      },
+      "Clues/Names/UnderwaterPhoto": {
+        "en": "Underwater Photo",
+        "pl": "Zdjęcie Podwodne"
+      },
+      "Clues/Names/WoodenBuoy": {
+        "en": "Wooden Buoy",
+        "pl": "Drewniana Boja"
+      },
+      "Clues/Names/WoodenPipe": {
+        "en": "Wooden Pipe",
+        "pl": "Drewniana Rura"
+      },
+      "Clues/Names/ZephyrsLetters": {
+        "en": "Zephyr's Letters",
+        "pl": "Listy Zephyra"
+      }
+    },
+    "Details": {
+      "Clues/Details/ActionFigure 1": {
+        "en": "the card backing",
+        "pl": "tylna ścianka opakowania"
+      },
+      "Clues/Details/ActionFigure 2": {
+        "en": "the 'Markus Mordoom' name label",
+        "pl": "etykieta z imieniem 'Markus Mordoom'"
+      },
+      "Clues/Details/ActionFigure 3": {
+        "en": "the logo",
+        "pl": "logo"
+      },
+      "Clues/Details/ActionFigure 4": {
+        "en": "the sword",
+        "pl": "miecz"
+      },
+      "Clues/Details/ActionFigure 5": {
+        "en": "the wheel",
+        "pl": "koło"
+      },
+      "Clues/Details/ActionFigure 6": {
+        "en": "the action figure",
+        "pl": "figurka akcji"
+      },
+      "Clues/Details/ActionFigure 7": {
+        "en": "the blurb",
+        "pl": "opis"
+      },
+      "Clues/Details/ActionFigure 8": {
+        "en": "the picture of 'Belicia Bonetop'",
+        "pl": "obrazek 'Belicii Bonetop'"
+      },
+      "Clues/Details/ActionFigure 9": {
+        "en": "the picture of 'Markus Mordoom'",
+        "pl": "obrazek 'Markusa Mordooma'"
+      },
+      "Clues/Details/ActionFigure 10": {
+        "en": "the picture of 'Devil of the Deep'",
+        "pl": "obrazek 'Diabła Głębin'"
+      },
+      "Clues/Details/ActionFigure 11": {
+        "en": "the barcode",
+        "pl": "kod kreskowy"
+      },
+      "Clues/Details/BalloonBasket 1": {
+        "en": "the basket",
+        "pl": "kosz"
+      },
+      "Clues/Details/BalloonBasket 2": {
+        "en": "the sandbags",
+        "pl": "worki z piaskiem"
+      },
+      "Clues/Details/BalloonBasket 3": {
+        "en": "the shop sign",
+        "pl": "szyld sklepu"
+      },
+      "Clues/Details/BalloonBasket 4": {
+        "en": "the picture of Gripp",
+        "pl": "obrazek Grippa"
+      },
+      "Clues/Details/BalloonBasket 5": {
+        "en": "the picture of the cane",
+        "pl": "obrazek laski"
+      },
+      "Clues/Details/BalloonBasket 6": {
+        "en": "the wood inside the basket",
+        "pl": "drewno wewnątrz kosza"
+      },
+      "Clues/Details/BlackBox 1": {
+        "en": "the box",
+        "pl": "skrzynka"
+      },
+      "Clues/Details/BlackBox 2": {
+        "en": "the emblem",
+        "pl": "emblemat"
+      },
+      "Clues/Details/BlackBox 3": {
+        "en": "the black diamond",
+        "pl": "czarny diament"
+      },
+      "Clues/Details/BlackBox 4": {
+        "en": "the handles",
+        "pl": "uchwyty"
+      },
+      "Clues/Details/BlackBox 5": {
+        "en": "the hinges",
+        "pl": "zawiasy"
+      },
+      "Clues/Details/BlackBox 6": {
+        "en": "the soil",
+        "pl": "ziemia"
+      },
+      "Clues/Details/BlurryPhoto 1": {
+        "en": "the photo",
+        "pl": "zdjęcie"
+      },
+      "Clues/Details/BlurryPhoto 2": {
+        "en": "the ticket",
+        "pl": "bilet"
+      },
+      "Clues/Details/BlurryPhoto 3": {
+        "en": "the woman in the sphere",
+        "pl": "kobieta w kuli"
+      },
+      "Clues/Details/BlurryPhoto 4": {
+        "en": "the man holding the sphere",
+        "pl": "mężczyzna trzymający kulę"
+      },
+      "Clues/Details/BlurryPhoto 5": {
+        "en": "the caption",
+        "pl": "podpis"
+      },
+      "Clues/Details/BrokenCompass 1": {
+        "en": "the compass",
+        "pl": "kompas"
+      },
+      "Clues/Details/BrokenCompass 2": {
+        "en": "the lid",
+        "pl": "pokrywa"
+      },
+      "Clues/Details/BrokenCompass 3": {
+        "en": "the opened panel",
+        "pl": "otwarty panel"
+      },
+      "Clues/Details/BrokenCompass 4": {
+        "en": "the loose cogs",
+        "pl": "luźne zębatki"
+      },
+      "Clues/Details/BrokenCompass 5": {
+        "en": "the holes",
+        "pl": "otwory"
+      },
+      "Clues/Details/BrokenCompass 6": {
+        "en": "the necklace key needle",
+        "pl": "igła kluczyka z naszyjnika"
+      },
+      "Clues/Details/BrokenCompass 7": {
+        "en": "the other needle",
+        "pl": "druga igła"
+      },
+      "Clues/Details/BrokenCompass 8": {
+        "en": "the original needle",
+        "pl": "oryginalna igła"
+      },
+      "Clues/Details/CaptainsJacket 1": {
+        "en": "the jacket",
+        "pl": "płaszcz"
+      },
+      "Clues/Details/CaptainsJacket 2": {
+        "en": "the wooden mannequin",
+        "pl": "drewniany manekin"
+      },
+      "Clues/Details/CaptainsJacket 3": {
+        "en": "the pocket",
+        "pl": "kieszeń"
+      },
+      "Clues/Details/CaptainsJacket 4": {
+        "en": "the 'S' emblem",
+        "pl": "emblemat 'S'"
+      },
+      "Clues/Details/CaptainsJacket 5": {
+        "en": "the epaulettes",
+        "pl": "naramienniki"
+      },
+      "Clues/Details/CaretakersJournal 1": {
+        "en": "the Caretaker's Journal",
+        "pl": "Dziennik Dozorcy"
+      },
+      "Clues/Details/CaretakersJournal 2": {
+        "en": "the title",
+        "pl": "tytuł"
+      },
+      "Clues/Details/CaretakersJournal 3": {
+        "en": "the face",
+        "pl": "twarz"
+      },
+      "Clues/Details/CaretakersJournal 4": {
+        "en": "Lillian's Locket",
+        "pl": "Medalion Lillian"
+      },
+      "Clues/Details/CaretakersJournal 5": {
+        "en": "Silversnake Skull",
+        "pl": "Czaszka Srebrnego Węża"
+      },
+      "Clues/Details/CaretakersJournal 6": {
+        "en": "His Golden Palm",
+        "pl": "Jego Złota Dłoń"
+      },
+      "Clues/Details/CaretakersJournal 7": {
+        "en": "The Mermaid's Tongue",
+        "pl": "Język Syreny"
+      },
+      "Clues/Details/CorneliusCane 1": {
+        "en": "a wooden cane",
+        "pl": "drewniana laska"
+      },
+      "Clues/Details/CorneliusCane 2": {
+        "en": "a hat",
+        "pl": "kapelusz"
+      },
+      "Clues/Details/CorneliusCane 3": {
+        "en": "a bandage",
+        "pl": "bandaż"
+      },
+      "Clues/Details/CorneliusCane 4": {
+        "en": "a happy face",
+        "pl": "uśmiechnięta twarz"
+      },
+      "Clues/Details/CorneliusCane 5": {
+        "en": "a surprised face",
+        "pl": "zaskoczona twarz"
+      },
+      "Clues/Details/CorneliusCane 6": {
+        "en": "two pieces of wood",
+        "pl": "dwa kawałki drewna"
+      },
+      "Clues/Details/CurseCauldron 1": {
+        "en": "The Cauldron",
+        "pl": "Kocioł"
+      },
+      "Clues/Details/CurseCauldron 2": {
+        "en": "The Lid",
+        "pl": "Pokrywa"
+      },
+      "Clues/Details/CurseCauldron 3": {
+        "en": "The Glass Eye",
+        "pl": "Szklane Oko"
+      },
+      "Clues/Details/CurseCauldron 4": {
+        "en": "The Scratches",
+        "pl": "Zadrapania"
+      },
+      "Clues/Details/CurseCauldron 5": {
+        "en": "The Shape on the Lid",
+        "pl": "Kształt na Pokrywie"
+      },
+      "Clues/Details/DivingLicense 1": {
+        "en": "the card",
+        "pl": "karta"
+      },
+      "Clues/Details/DivingLicense 2": {
+        "en": "the tape",
+        "pl": "taśma"
+      },
+      "Clues/Details/DivingLicense 3": {
+        "en": "the photo",
+        "pl": "zdjęcie"
+      },
+      "Clues/Details/DivingLicense 4": {
+        "en": "the signature",
+        "pl": "podpis"
+      },
+      "Clues/Details/DivingLicense 5": {
+        "en": "the info",
+        "pl": "informacje"
+      },
+      "Clues/Details/DivingLicense 6": {
+        "en": "the 'ORDA' logo",
+        "pl": "logo 'SNRO'"
+      },
+      "Clues/Details/DreamHelmet 1": {
+        "en": "the outer funnel",
+        "pl": "zewnętrzny lejek"
+      },
+      "Clues/Details/DreamHelmet 2": {
+        "en": "the inner filter",
+        "pl": "wewnętrzny filtr"
+      },
+      "Clues/Details/DreamHelmet 3": {
+        "en": "the goggles",
+        "pl": "gogle"
+      },
+      "Clues/Details/DreamHelmet 4": {
+        "en": "the antenna",
+        "pl": "antena"
+      },
+      "Clues/Details/FamilyPhoto 1": {
+        "en": "the frame",
+        "pl": "ramka"
+      },
+      "Clues/Details/FamilyPhoto 2": {
+        "en": "the photo",
+        "pl": "zdjęcie"
+      },
+      "Clues/Details/FamilyPhoto 3": {
+        "en": "the submarine",
+        "pl": "łódź podwodna"
+      },
+      "Clues/Details/FamilyPhoto 4": {
+        "en": "the man",
+        "pl": "mężczyzna"
+      },
+      "Clues/Details/FamilyPhoto 5": {
+        "en": "the woman",
+        "pl": "kobieta"
+      },
+      "Clues/Details/FamilyPhoto 6": {
+        "en": "the child",
+        "pl": "dziecko"
+      },
+      "Clues/Details/FamilyPhoto 7": {
+        "en": "the jacket",
+        "pl": "płaszcz"
+      },
+      "Clues/Details/FamilyPhoto 8": {
+        "en": "the blueprint",
+        "pl": "plany"
+      },
+      "Clues/Details/FamilyPhoto 9": {
+        "en": "the thing in the glass tank",
+        "pl": "rzecz w szklanym zbiorniku"
+      },
+      "Clues/Details/FeliciaPainting 1": {
+        "en": "the painting",
+        "pl": "obraz"
+      },
+      "Clues/Details/FeliciaPainting 2": {
+        "en": "the frame",
+        "pl": "rama"
+      },
+      "Clues/Details/FeliciaPainting 3": {
+        "en": "the 'HER' plaque",
+        "pl": "tabliczka 'ONA'"
+      },
+      "Clues/Details/FeliciaPainting 4": {
+        "en": "the wooden back",
+        "pl": "drewniany tył"
+      },
+      "Clues/Details/FeliciaPainting 5": {
+        "en": "the emblem",
+        "pl": "emblemat"
+      },
+      "Clues/Details/FeliciaPainting 6": {
+        "en": "the sun",
+        "pl": "słońce"
+      },
+      "Clues/Details/FeliciaPainting 7": {
+        "en": "the woman",
+        "pl": "kobieta"
+      },
+      "Clues/Details/FeliciaPainting 8": {
+        "en": "the sword",
+        "pl": "miecz"
+      },
+      "Clues/Details/FeliciaPainting 9": {
+        "en": "the necklace",
+        "pl": "naszyjnik"
+      },
+      "Clues/Details/FeliciaPainting 10": {
+        "en": "the diary pages",
+        "pl": "strony pamiętnika"
+      },
+      "Clues/Details/Figurehead 1": {
+        "en": "the figurehead",
+        "pl": "galion"
+      },
+      "Clues/Details/Figurehead 2": {
+        "en": "the necklace",
+        "pl": "naszyjnik"
+      },
+      "Clues/Details/Figurehead 3": {
+        "en": "the shield",
+        "pl": "tarcza"
+      },
+      "Clues/Details/Figurehead 4": {
+        "en": "the face",
+        "pl": "twarz"
+      },
+      "Clues/Details/Figurehead 5": {
+        "en": "the wooden beam",
+        "pl": "drewniana belka"
+      },
+      "Clues/Details/FilmProjector 1": {
+        "en": "Mortuga",
+        "pl": "Mortuga"
+      },
+      "Clues/Details/FilmProjector 2": {
+        "en": "The Door",
+        "pl": "Drzwi"
+      },
+      "Clues/Details/FilmProjector 3": {
+        "en": "The Sky",
+        "pl": "Niebo"
+      },
+      "Clues/Details/FilmProjector 4": {
+        "en": "The Railing",
+        "pl": "Poręcz"
+      },
+      "Clues/Details/FilmProjector 5": {
+        "en": "The Aft Deck",
+        "pl": "Pokład Rufowy"
+      },
+      "Clues/Details/FilmProjector 6": {
+        "en": "The Wheel",
+        "pl": "Koło"
+      },
+      "Clues/Details/FogBall 1": {
+        "en": "the glass ball",
+        "pl": "szklana kula"
+      },
+      "Clues/Details/FogBall 2": {
+        "en": "the base",
+        "pl": "podstawa"
+      },
+      "Clues/Details/FogBall 3": {
+        "en": "the metal panel",
+        "pl": "metalowy panel"
+      },
+      "Clues/Details/FogBall 4": {
+        "en": "the antenna",
+        "pl": "antena"
+      },
+      "Clues/Details/FogBall 5": {
+        "en": "the battery",
+        "pl": "bateria"
+      },
+      "Clues/Details/HandwrittenLetter 1": {
+        "en": "the envelope",
+        "pl": "koperta"
+      },
+      "Clues/Details/HandwrittenLetter 2": {
+        "en": "the letter",
+        "pl": "list"
+      },
+      "Clues/Details/HandwrittenLetter 3": {
+        "en": "the 'T. W. Ibis' signature",
+        "pl": "podpis 'T. W. Ibis'"
+      },
+      "Clues/Details/HandwrittenLetter 4": {
+        "en": "the stamp",
+        "pl": "znaczek"
+      },
+      "Clues/Details/HandwrittenLetter 5": {
+        "en": "the address",
+        "pl": "adres"
+      },
+      "Clues/Details/HandwrittenLetter 6": {
+        "en": "the post mark",
+        "pl": "stempel pocztowy"
+      },
+      "Clues/Details/HandwrittenLetter 7": {
+        "en": "the diagrams",
+        "pl": "diagramy"
+      },
+      "Clues/Details/HexBottle 1": {
+        "en": "the funnel",
+        "pl": "lejek"
+      },
+      "Clues/Details/HexBottle 2": {
+        "en": "the glass bottle",
+        "pl": "szklana butelka"
+      },
+      "Clues/Details/HexBottle 3": {
+        "en": "the pattern on Hex's skin",
+        "pl": "wzór na skórze Hexa"
+      },
+      "Clues/Details/HexBottle 4": {
+        "en": "the sleeping Hexapus",
+        "pl": "śpiący heksapus"
+      },
+      "Clues/Details/HexBottle 5": {
+        "en": "the memory of Mortuga",
+        "pl": "wspomnienie Mortugi"
+      },
+      "Clues/Details/HexoftheHelmsman 1": {
+        "en": "the book",
+        "pl": "książka"
+      },
+      "Clues/Details/HexoftheHelmsman 2": {
+        "en": "the title 'Hex of the Helmsman'",
+        "pl": "tytuł 'Klątwa Sternika'"
+      },
+      "Clues/Details/HexoftheHelmsman 3": {
+        "en": "the author 'J.D. Wirman'",
+        "pl": "autor 'J.D. Wirman'"
+      },
+      "Clues/Details/HexoftheHelmsman 4": {
+        "en": "the publisher 'Kristin Kale Publishing'",
+        "pl": "wydawca 'Kristin Kale Publishing'"
+      },
+      "Clues/Details/HexoftheHelmsman 5": {
+        "en": "the illustration ",
+        "pl": "ilustracja"
+      },
+      "Clues/Details/HexoftheHelmsman 6": {
+        "en": "the tagline 'Something terrible awaits you...'",
+        "pl": "hasło reklamowe 'Coś strasznego na ciebie czeka...'"
+      },
+      "Clues/Details/HexoftheHelmsman 7": {
+        "en": "the blurb 'He sees it in his dreams...'",
+        "pl": "opis 'Widzi to w swoich snach...'"
+      },
+      "Clues/Details/HexoftheHelmsman 8": {
+        "en": "the barcode",
+        "pl": "kod kreskowy"
+      },
+      "Clues/Details/HexoftheHelmsman 9": {
+        "en": "the author photo",
+        "pl": "zdjęcie autora"
+      },
+      "Clues/Details/HexoftheHelmsman 10": {
+        "en": "the author biography 'With his debut novel...'",
+        "pl": "biografia autora 'Dzięki swojej debiutanckiej powieści...'"
+      },
+      "Clues/Details/HexoftheHelmsman 11": {
+        "en": "the dedication 'For T.W. Ibis, For imparting upon me...'",
+        "pl": "dedykacja 'Dla T.W. Ibisa, za przekazanie mi...'"
+      },
+      "Clues/Details/HexoftheHelmsman 12": {
+        "en": "the first page 'Chapter 1, Lost at Sea'",
+        "pl": "pierwsza strona 'Rozdział 1, Zagubieni na Morzu'"
+      },
+      "Clues/Details/IllusionistPoster 1": {
+        "en": "the poster",
+        "pl": "plakat"
+      },
+      "Clues/Details/IllusionistPoster 2": {
+        "en": "the 'Baroness Fortuna Presents' banner",
+        "pl": "baner 'Baronowa Fortuna Przedstawia'"
+      },
+      "Clues/Details/IllusionistPoster 3": {
+        "en": "the 'Lady of the Looking Glass' title",
+        "pl": "tytuł 'Dama Zwierciadła'"
+      },
+      "Clues/Details/IllusionistPoster 4": {
+        "en": "Sym and her reflection",
+        "pl": "Sym i jej odbicie"
+      },
+      "Clues/Details/IllusionistPoster 5": {
+        "en": "the ticket info",
+        "pl": "informacje o bilecie"
+      },
+      "Clues/Details/IllusionistPoster 6": {
+        "en": "'title here'",
+        "pl": "'tytuł tutaj'"
+      },
+      "Clues/Details/IllusionistPoster 7": {
+        "en": "the scythe guy",
+        "pl": "facet z kosą"
+      },
+      "Clues/Details/IllusionistPoster 8": {
+        "en": "Sym sitting on the cauldron",
+        "pl": "Sym siedząca na kotle"
+      },
+      "Clues/Details/IllusionistPoster 9": {
+        "en": "the cauldron",
+        "pl": "kocioł"
+      },
+      "Clues/Details/InnDeeds 1": {
+        "en": "Nobody",
+        "pl": "Nikt"
+      },
+      "Clues/Details/InnDeeds 2": {
+        "en": "The Stonetop Family",
+        "pl": "Rodzina Stonetop"
+      },
+      "Clues/Details/InnDeeds 3": {
+        "en": "Selena Stonetop",
+        "pl": "Selena Stonetop"
+      },
+      "Clues/Details/InnDeeds 4": {
+        "en": "Felicia Stonetop",
+        "pl": "Felicia Stonetop"
+      },
+      "Clues/Details/InnDeeds 5": {
+        "en": "Magnus Mortuga",
+        "pl": "Magnus Mortuga"
+      },
+      "Clues/Details/InnDeeds 6": {
+        "en": "Don Drummond",
+        "pl": "Don Drummond"
+      },
+      "Clues/Details/IronBell 1": {
+        "en": "the iron bell",
+        "pl": "żelazny dzwon"
+      },
+      "Clues/Details/IronBell 2": {
+        "en": "the mechanism parts",
+        "pl": "części mechanizmu"
+      },
+      "Clues/Details/IronBell 3": {
+        "en": "the darker part",
+        "pl": "ciemniejsza część"
+      },
+      "Clues/Details/IronBell 4": {
+        "en": "the hanging part",
+        "pl": "zwisająca część"
+      },
+      "Clues/Details/IronBell 5": {
+        "en": "the thing wedged in the side",
+        "pl": "rzecz wciśnięta z boku"
+      },
+      "Clues/Details/IronBell 6": {
+        "en": "the images",
+        "pl": "obrazki"
+      },
+      "Clues/Details/IronBell 7": {
+        "en": "the moon",
+        "pl": "księżyc"
+      },
+      "Clues/Details/LifesizeDoll 1": {
+        "en": "the doll's body",
+        "pl": "ciało lalki"
+      },
+      "Clues/Details/LifesizeDoll 2": {
+        "en": "the doll's head",
+        "pl": "głowa lalki"
+      },
+      "Clues/Details/LifesizeDoll 3": {
+        "en": "the pullstring",
+        "pl": "sznurek do pociągania"
+      },
+      "Clues/Details/LifesizeDoll 4": {
+        "en": "the locket",
+        "pl": "medalion"
+      },
+      "Clues/Details/LifesizeDoll 5": {
+        "en": "the chest flap",
+        "pl": "klapka na piersi"
+      },
+      "Clues/Details/LifesizeDoll 6": {
+        "en": "the projector",
+        "pl": "projektor"
+      },
+      "Clues/Details/LifesizeDoll 7": {
+        "en": "the hole in the doll's stomach",
+        "pl": "dziura w brzuchu lalki"
+      },
+      "Clues/Details/MermaidPainting 1": {
+        "en": "the painting",
+        "pl": "obraz"
+      },
+      "Clues/Details/MermaidPainting 2": {
+        "en": "the frame",
+        "pl": "rama"
+      },
+      "Clues/Details/MermaidPainting 3": {
+        "en": "the 'HER' plaque",
+        "pl": "tabliczka 'ONA'"
+      },
+      "Clues/Details/MermaidPainting 4": {
+        "en": "the blank panel",
+        "pl": "pusty panel"
+      },
+      "Clues/Details/MermaidPainting 5": {
+        "en": "the wooden back",
+        "pl": "drewniany tył"
+      },
+      "Clues/Details/MermaidPainting 6": {
+        "en": "the emblem",
+        "pl": "emblemat"
+      },
+      "Clues/Details/MermaidPainting 7": {
+        "en": "the painting of the creature",
+        "pl": "obraz stworzenia"
+      },
+      "Clues/Details/MessageinaBottle 1": {
+        "en": "the algae",
+        "pl": "glony"
+      },
+      "Clues/Details/MessageinaBottle 2": {
+        "en": "the wax",
+        "pl": "wosk"
+      },
+      "Clues/Details/MessageinaBottle 3": {
+        "en": "the paper",
+        "pl": "papier"
+      },
+      "Clues/Details/MessageinaBottle 4": {
+        "en": "the title 'Curse in the Cauldron'",
+        "pl": "tytuł 'Klątwa w Kotle'"
+      },
+      "Clues/Details/MessageinaBottle 5": {
+        "en": "the writing",
+        "pl": "pismo"
+      },
+      "Clues/Details/MessageinaBottle 6": {
+        "en": "the symbol",
+        "pl": "symbol"
+      },
+      "Clues/Details/ModelTown 1": {
+        "en": "the model town",
+        "pl": "makieta miasteczka"
+      },
+      "Clues/Details/ModelTown 2": {
+        "en": "the underside",
+        "pl": "spód"
+      },
+      "Clues/Details/ModelTown 3": {
+        "en": "the sea",
+        "pl": "morze"
+      },
+      "Clues/Details/ModelTown 4": {
+        "en": "the harbor",
+        "pl": "port"
+      },
+      "Clues/Details/ModelTown 5": {
+        "en": "the lighthouse",
+        "pl": "latarnia morska"
+      },
+      "Clues/Details/ModelTown 6": {
+        "en": "the boats",
+        "pl": "łódki"
+      },
+      "Clues/Details/ModelTown 7": {
+        "en": "the fountain",
+        "pl": "fontanna"
+      },
+      "Clues/Details/ModelTown 8": {
+        "en": "The Stonetop Inn",
+        "pl": "Gospoda Stonetop"
+      },
+      "Clues/Details/ModelTown 9": {
+        "en": "Fortuna Hall Theatre",
+        "pl": "Teatr Fortuna Hall"
+      },
+      "Clues/Details/ModelTown 10": {
+        "en": "Gripp's Emporium",
+        "pl": "Emporium Grippa"
+      },
+      "Clues/Details/ModelTown 11": {
+        "en": "the Sylvia Seafoam meeple",
+        "pl": "pionek Sylvii Seafoam"
+      },
+      "Clues/Details/ModelTown 12": {
+        "en": "the Don Drummond meeple",
+        "pl": "pionek Dona Drummonda"
+      },
+      "Clues/Details/ModelTown 13": {
+        "en": "the Damian Dusk meeple",
+        "pl": "pionek Damiana Duska"
+      },
+      "Clues/Details/ModelTown 14": {
+        "en": "the Baroness Fortuna meeple",
+        "pl": "pionek Baronowej Fortuny"
+      },
+      "Clues/Details/ModelTown 15": {
+        "en": "the Governor Fellow meeple",
+        "pl": "pionek Gubernatora Fellowa"
+      },
+      "Clues/Details/ModelTown 16": {
+        "en": "the lighthouse roof",
+        "pl": "dach latarni"
+      },
+      "Clues/Details/ModelTown 17": {
+        "en": "the projector",
+        "pl": "projektor"
+      },
+      "Clues/Details/MourningEnvelope 1": {
+        "en": "the imprint",
+        "pl": "odcisk"
+      },
+      "Clues/Details/MourningEnvelope 2": {
+        "en": "the envelope",
+        "pl": "koperta"
+      },
+      "Clues/Details/MourningEnvelope 3": {
+        "en": "the address",
+        "pl": "adres"
+      },
+      "Clues/Details/MourningEnvelope 4": {
+        "en": "the wax seal",
+        "pl": "pieczęć woskowa"
+      },
+      "Clues/Details/MourningEnvelope 5": {
+        "en": "the post mark",
+        "pl": "stempel pocztowy"
+      },
+      "Clues/Details/MourningEnvelope 6": {
+        "en": "the stamps",
+        "pl": "znaczki"
+      },
+      "Clues/Details/NewspaperPage 1": {
+        "en": "the newspaper",
+        "pl": "gazeta"
+      },
+      "Clues/Details/NewspaperPage 2": {
+        "en": "the newspaper's name",
+        "pl": "nazwa gazety"
+      },
+      "Clues/Details/NewspaperPage 3": {
+        "en": "the editor 'T.W. Ibis'",
+        "pl": "redaktor 'T.W. Ibis'"
+      },
+      "Clues/Details/NewspaperPage 4": {
+        "en": "the sea serpent headline",
+        "pl": "nagłówek o wężu morskim"
+      },
+      "Clues/Details/NewspaperPage 5": {
+        "en": "the sea serpent photo",
+        "pl": "zdjęcie węża morskiego"
+      },
+      "Clues/Details/NewspaperPage 6": {
+        "en": "the sea serpent article",
+        "pl": "artykuł o wężu morskim"
+      },
+      "Clues/Details/NewspaperPage 7": {
+        "en": "the illusionist headline",
+        "pl": "nagłówek o iluzjonistce"
+      },
+      "Clues/Details/NewspaperPage 8": {
+        "en": "the illusionist photo",
+        "pl": "zdjęcie iluzjonistki"
+      },
+      "Clues/Details/NewspaperPage 9": {
+        "en": "the illusionist article",
+        "pl": "artykuł o iluzjonistce"
+      },
+      "Clues/Details/NewspaperPage 10": {
+        "en": "the adverts",
+        "pl": "reklamy"
+      },
+      "Clues/Details/OceanTreasure 1": {
+        "en": "the gemstones",
+        "pl": "klejnoty"
+      },
+      "Clues/Details/OceanTreasure 2": {
+        "en": "the coral",
+        "pl": "koral"
+      },
+      "Clues/Details/OceanTreasure 3": {
+        "en": "the shells",
+        "pl": "muszle"
+      },
+      "Clues/Details/OceanTreasure 4": {
+        "en": "the fish skeleton",
+        "pl": "szkielet ryby"
+      },
+      "Clues/Details/OceanTreasure 5": {
+        "en": "the coins",
+        "pl": "monety"
+      },
+      "Clues/Details/OceanTreasure 6": {
+        "en": "the pearl necklace",
+        "pl": "naszyjnik z pereł"
+      },
+      "Clues/Details/Pocketbook 1": {
+        "en": "the pocketbook",
+        "pl": "notes kieszonkowy"
+      },
+      "Clues/Details/Pocketbook 2": {
+        "en": "the padlock",
+        "pl": "kłódka"
+      },
+      "Clues/Details/Pocketbook 3": {
+        "en": "the emblem",
+        "pl": "emblemat"
+      },
+      "Clues/Details/Pocketbook 4": {
+        "en": "the stuff in the pocketbook",
+        "pl": "zawartość notesu"
+      },
+      "Clues/Details/Pocketbook 5": {
+        "en": "the photo of 'Moon'",
+        "pl": "zdjęcie 'Moon'"
+      },
+      "Clues/Details/Pocketbook 6": {
+        "en": "the photo of 'Fortuna'",
+        "pl": "zdjęcie 'Fortuny'"
+      },
+      "Clues/Details/Pocketbook 7": {
+        "en": "the photo of 'Tanya'",
+        "pl": "zdjęcie 'Tanyi'"
+      },
+      "Clues/Details/RaggedCloth 1": {
+        "en": "the sailcloth",
+        "pl": "żaglowe płótno"
+      },
+      "Clues/Details/RaggedCloth 2": {
+        "en": "the holes",
+        "pl": "dziury"
+      },
+      "Clues/Details/RaggedCloth 3": {
+        "en": "the title",
+        "pl": "tytuł"
+      },
+      "Clues/Details/RippedScroll 1": {
+        "en": "the wooden part",
+        "pl": "drewniana część"
+      },
+      "Clues/Details/RippedScroll 2": {
+        "en": "the parchment",
+        "pl": "pergamin"
+      },
+      "Clues/Details/RippedScroll 3": {
+        "en": "the face",
+        "pl": "twarz"
+      },
+      "Clues/Details/RippedScroll 4": {
+        "en": "the egg-shaped thing",
+        "pl": "rzecz w kształcie jajka"
+      },
+      "Clues/Details/RippedScroll 5": {
+        "en": "the writing",
+        "pl": "pismo"
+      },
+      "Clues/Details/SeaChart 1": {
+        "en": "the wooden part",
+        "pl": "drewniana część"
+      },
+      "Clues/Details/SeaChart 2": {
+        "en": "the parchment",
+        "pl": "pergamin"
+      },
+      "Clues/Details/SeaChart 3": {
+        "en": "the creepy drawing",
+        "pl": "niepokojący rysunek"
+      },
+      "Clues/Details/SeaChart 4": {
+        "en": "the coral",
+        "pl": "koral"
+      },
+      "Clues/Details/SeaChart 5": {
+        "en": "the map",
+        "pl": "mapa"
+      },
+      "Clues/Details/SeaChart 6": {
+        "en": "the X on the map",
+        "pl": "X na mapie"
+      },
+      "Clues/Details/SeaChart 7": {
+        "en": "the 'Service Record' sticker",
+        "pl": "naklejka 'Rejestr Serwisowy'"
+      },
+      "Clues/Details/ShipinaBottle 1": {
+        "en": "the sea",
+        "pl": "morze"
+      },
+      "Clues/Details/ShipinaBottle 2": {
+        "en": "the ship",
+        "pl": "statek"
+      },
+      "Clues/Details/ShipinaBottle 3": {
+        "en": "the sail",
+        "pl": "żagiel"
+      },
+      "Clues/Details/ShipinaBottle 4": {
+        "en": "the figurehead",
+        "pl": "galion"
+      },
+      "Clues/Details/ShipinaBottle 5": {
+        "en": "the helmsman",
+        "pl": "sternik"
+      },
+      "Clues/Details/ShipinaBottle 6": {
+        "en": "the captain",
+        "pl": "kapitan"
+      },
+      "Clues/Details/ShipinaBottle 7": {
+        "en": "the bottle cap",
+        "pl": "korek butelki"
+      },
+      "Clues/Details/ShipinaBottle 8": {
+        "en": "the glass dropper",
+        "pl": "szklany zakraplacz"
+      },
+      "Clues/Details/ShipsWheel 1": {
+        "en": "the valve wheel",
+        "pl": "koło zaworowe"
+      },
+      "Clues/Details/ShipsWheel 2": {
+        "en": "the axle",
+        "pl": "oś"
+      },
+      "Clues/Details/ShipsWheel 3": {
+        "en": "the original wood",
+        "pl": "oryginalne drewno"
+      },
+      "Clues/Details/ShipsWheel 4": {
+        "en": "the newer part",
+        "pl": "nowsza część"
+      },
+      "Clues/Details/SilkwirmMap 1": {
+        "en": "The map",
+        "pl": "Mapa"
+      },
+      "Clues/Details/SilkwirmMap 2": {
+        "en": "F Emblem",
+        "pl": "Godło F"
+      },
+      "Clues/Details/SilkwirmMap 3": {
+        "en": "D Emblem",
+        "pl": "Godło D"
+      },
+      "Clues/Details/SilkwirmMap 4": {
+        "en": "Fortuna Hall",
+        "pl": "Fortuna Hall"
+      },
+      "Clues/Details/SilkwirmMap 5": {
+        "en": "Silkwirm Spectator",
+        "pl": "Silkwirm Spectator"
+      },
+      "Clues/Details/SilkwirmMap 6": {
+        "en": "Stonetop Emblem",
+        "pl": "Godło Stonetop"
+      },
+      "Clues/Details/SilkwirmMap 7": {
+        "en": "Gripp's Emporium",
+        "pl": "Emporium Grippa"
+      },
+      "Clues/Details/SilkwirmMap 8": {
+        "en": "Seafoam Emblem",
+        "pl": "Godło Seafoam"
+      },
+      "Clues/Details/SilkwirmMap 9": {
+        "en": "Lighthouse logo",
+        "pl": "Logo Latarni"
+      },
+      "Clues/Details/SilkwirmMap 10": {
+        "en": "Family Tree",
+        "pl": "Drzewo Genealogiczne"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": [
+    {
+      "term": "Clues/Names/SilkwirmMap 5 (SilkwirmMap Details)",
+      "en": "Silkwirm Spectator",
+      "propozycja": "Silkwirm Spectator (bez zmian)",
+      "problem": "Nazwa lokalnej gazety (redaktor T.W. Ibis) - zostawiona po angielsku jak inne marki/nazwy wlasne firm (Wit and Whimsy). Do potwierdzenia czy nie lepiej spolszczyc na wzor innych nazw opisowych."
+    },
+    {
+      "term": "Clues/Details/IllusionistPoster 6",
+      "en": "'title here'",
+      "propozycja": "'tytuł tutaj'",
+      "problem": "Wyglada na placeholder deweloperski (niewypelnione pole tytulu na plakacie) - przetlumaczone doslownie, ale mozliwe ze to celowy zart w grze (stary plakat z bledem drukarskim) albo faktyczny placeholder niewidoczny graczowi. Do sprawdzenia w grze."
+    },
+    {
+      "term": "Clues/Details/CaretakersJournal 4-7",
+      "en": "Lillian's Locket / Silversnake Skull / His Golden Palm / The Mermaid's Tongue",
+      "propozycja": "Medalion Lillian / Czaszka Srebrnego Węża / Jego Złota Dłoń / Język Syreny",
+      "problem": "Nowy watek: Dziennik Dozorcy wymienia 4 legendarne/mityczne przedmioty jednym tchem z Jezykiem Syreny - sugeruje ze to zestaw powiazanych relikwii Silkwirm. 'Lillian' (z Golden Locket) to prawdopodobnie matka Symmetry, w dialogu Grippa nazwana 'sorceress' (czarownica) - nowy fragment lore, jeszcze nie w pelni zbadany w tlumaczonym dotad materiale. Nazwy robocze, do potwierdzenia przy tlumaczeniu Clues/Text/GoldenLocket i dalszych partii."
+    }
+  ]
+}

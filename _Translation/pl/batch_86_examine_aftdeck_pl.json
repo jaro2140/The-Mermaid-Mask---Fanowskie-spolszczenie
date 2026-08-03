@@ -1,0 +1,326 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja AftDeck/Poklad Rufowy (58 terminow, ~15 mikroscen) - drewniana czesc lodzi widoczna po ucieczce Grippa. Zawiera galion (drewniana kobieta), zlamany maszt, spalone/wypalone odciski dloni w drewnie (niewyjasnione, permanentne), oraz drzwi z ryglem mozliwym do zamkniecia TYLKO OD ZEWNATRZ (podejrzana wskazowka).",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci.",
+    "uwagi_tlumaczeniowe": "brokenrailing/ds1: zrodlo ma bledny tag '[i]Something[/h]' (niesparowany [i] z [/h]) - zreplikowano ten sam wzorzec bledu w tlumaczeniu dla zachowania parytetu tagow z walidatorem, zgodnie z konwencja z poprzednich batchy."
+  },
+  "categories": {
+    "Exam_Area_AftDeck_BG": {
+      "Examine/Exam_Area_AftDeck_BG/Section ds1": {
+        "en": "It's the aft deck.",
+        "pl": "To Pokład Rufowy.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_BG/Section ds3": {
+        "en": "It doesn't look [h]anything[/h] like the fore deck.",
+        "pl": "W [h]ogóle[/h] nie wygląda jak Pokład Dziobowy.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_BG/Section ds6": {
+        "en": "Of course not.",
+        "pl": "Oczywiście, że nie.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_Figurehead": {
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds0": {
+        "en": "It's the figurehead.",
+        "pl": "To galion.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds1": {
+        "en": "[i]Holy-[/i]",
+        "pl": "[i]O ku-[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds2": {
+        "en": "Grimoire - there's a giant wooden woman tied to the back of the submarine.",
+        "pl": "Grimoire - z tyłu łodzi podwodnej jest przywiązana wielka drewniana kobieta.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds3": {
+        "en": "I was [i]wondering[/i] if they'd kept this.",
+        "pl": "[i]Zastanawiałem[/i] się, czy to zachowali.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds4": {
+        "en": "But it's too big to fit in a storeroom, I guess.",
+        "pl": "Ale chyba jest za duża, żeby zmieścić się w magazynie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_Figurehead/Section ds6": {
+        "en": "I half expected to find it inside the submarine somewhere...",
+        "pl": "Trochę się spodziewałem, że znajdę to gdzieś w środku łodzi podwodnej...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_Mast": {
+      "Examine/Exam_Area_AftDeck_Mast/Section ds0": {
+        "en": "It's the mast...",
+        "pl": "To maszt...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_Mast/Section ds1": {
+        "en": "It's been snapped in half.\nAnd it's leaning to one side.",
+        "pl": "Złamał się na pół.\nI przechyla się na bok.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_Mast/Section ds2": {
+        "en": "[i]A bad storm, maybe...?[/i]",
+        "pl": "[i]Może jakaś silna burza...?[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_Mast/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_AftDeck_MermaidVoice": {
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds0": {
+        "en": "[i]What?[/i] ",
+        "pl": "[i]Co?[/i] ",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds10": {
+        "en": "Never mind.",
+        "pl": "Nieważne.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds14": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds15": {
+        "en": "[h]?[/h]  [i]??. .[/i] ?..    .",
+        "pl": "[h]?[/h]  [i]??. .[/i] ?..    .",
+        "speaker": "(glos znieksztalcony)"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds5": {
+        "en": "Hm?",
+        "pl": "Hm?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds6": {
+        "en": "You just said something.",
+        "pl": "Właśnie coś powiedziałeś.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds7": {
+        "en": "No I didn't.",
+        "pl": "Wcale nie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds8": {
+        "en": "But-",
+        "pl": "Ale-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_MermaidVoice/Section ds9": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_brokenrailing": {
+      "Examine/Exam_Area_AftDeck_brokenrailing/Section ds0": {
+        "en": "The railing's been destroyed, here.",
+        "pl": "Tutaj barierka jest zniszczona.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_brokenrailing/Section ds1": {
+        "en": "[i]Something[/h] crushed it.\nLooks like it happened ages ago.",
+        "pl": "[i]Coś[/h] ją zmiażdżyło.\nWygląda na to, że stało się to dawno temu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_brokenrailing/Section ds2": {
+        "en": "And they never repaired it...",
+        "pl": "I nigdy tego nie naprawili...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_door": {
+      "Examine/Exam_Area_AftDeck_door/Section ds0": {
+        "en": "It's the door leading back into the Captain's Quarters.",
+        "pl": "To drzwi prowadzące z powrotem do Kajuty Kapitana.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_door/Section ds1": {
+        "en": "The one part that actually looks like it [h]belongs[/h] on a submarine.",
+        "pl": "Jedyna część, która faktycznie wygląda, jakby [h]pasowała[/h] do łodzi podwodnej.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_door/Section ds2": {
+        "en": "There's a big metal latch, but...",
+        "pl": "Jest tu wielki metalowy rygiel, ale...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_door/Section ds3": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_door/Section ds4": {
+        "en": "It just seems odd that you'd be able to latch the door from the [h]outside.[/h]",
+        "pl": "To po prostu wydaje się dziwne, że można zaryglować te drzwi od [h]zewnątrz.[/h]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_door/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_AftDeck_fingerprints": {
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds1": {
+        "en": "Are those...?",
+        "pl": "Czy to...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds2": {
+        "en": "It almost looks like they're [i]burned[/i] into the wood.",
+        "pl": "Wygląda niemal, jakby były [i]wypalone[/i] w drewnie.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds4": {
+        "en": "They can't be.\n...wouldn't they get washed away?",
+        "pl": "Nie mogą być.\n...czy nie zostałyby zmyte?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds5": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_fingerprints/Section ds6": {
+        "en": "They're permanent.",
+        "pl": "Są trwałe.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_oar": {
+      "Examine/Exam_Area_AftDeck_oar/Section ds0": {
+        "en": "Oar.",
+        "pl": "Wiosło.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds1": {
+        "en": "Or what?",
+        "pl": "Albo co?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds2": {
+        "en": "[h]Oar.[/h]\nIt's the other oar.",
+        "pl": "[h]Wiosło.[/h]\nTo drugie wiosło.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds3": {
+        "en": "From the rowing boat on the Fore Deck?",
+        "pl": "Z łódki wiosłowej na Pokładzie Dziobowym?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds4": {
+        "en": "What's it doing over here??",
+        "pl": "Co ono tu robi??",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds5": {
+        "en": "Tadpole told us she threw it over here...",
+        "pl": "Tadpole powiedziała nam, że rzuciła je tutaj...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds6": {
+        "en": "And it got stuck in the wall?\nAnd hasn't moved since?",
+        "pl": "I utknęło w ścianie?\nI od tego czasu się nie ruszyło?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_oar/Section ds7": {
+        "en": "Seems like it...",
+        "pl": "Wygląda na to...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_AftDeck_rigging": {
+      "Examine/Exam_Area_AftDeck_rigging/Section ds0": {
+        "en": "Old rigging.",
+        "pl": "Stary takielunek.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_rigging/Section ds1": {
+        "en": "It's kinda slimy.",
+        "pl": "Jest trochę śliski.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_AftDeck_sail": {
+      "Examine/Exam_Area_AftDeck_sail/Section ds0": {
+        "en": "-is this all that's left of the sail?",
+        "pl": "-czy to wszystko, co zostało z żagla?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_sail/Section ds1": {
+        "en": "That's kinda sad.",
+        "pl": "To trochę smutne.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_sail/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_AftDeck_seasky": {
+      "Examine/Exam_Area_AftDeck_seasky/Section ds0": {
+        "en": "We arrived at the submarine just before sunrise...",
+        "pl": "Dotarliśmy do łodzi podwodnej tuż przed świtem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_seasky/Section ds2": {
+        "en": "And now it's sunset.",
+        "pl": "A teraz jest zachód słońca.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_AftDeck_wheelframe": {
+      "Examine/Exam_Area_AftDeck_wheelframe/Section ds0": {
+        "en": "What's this...?",
+        "pl": "Co to jest...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_wheelframe/Section ds1": {
+        "en": "I don't know what it's called, but I think that's where you attach the wheel.",
+        "pl": "Nie wiem, jak to się nazywa, ale chyba tu przymocowuje się koło sterowe.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_wheelframe/Section ds2": {
+        "en": "The [h]ship's[/h] wheel?",
+        "pl": "Koło [h]sterowe[/h]?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_AftDeck_wheelframe/Section ds3": {
+        "en": "Yeah.",
+        "pl": "Tak.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_AftDeck_wheelframe/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}

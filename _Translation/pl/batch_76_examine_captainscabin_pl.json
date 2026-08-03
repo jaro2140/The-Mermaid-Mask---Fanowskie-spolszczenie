@@ -1,0 +1,661 @@
+{
+  "_meta": {
+    "batch": "Examine - lokacja CaptainsCabin/Kajuta Kapitana - biuro (118 terminow, ~25 mikroscen) - gabinet Mortugi z obrazem tajemniczej kobiety (Felicia), mechanika Zelaznego Dzwonu (przygotowanie do opuszczenia go na Kociol w Illusion Theatre), statek w butelce, globus, biblioteczka ze zwojami.",
+    "date": "2026-07-25",
+    "source": "Game_Translate/source/i2loc_terms.json (i2loc_examine_en.json)",
+    "speaker_resolution": "speaker_map.json NIE POKRYWA kategorii Examine. Mowcy przypisani na podstawie kontekstu/tresci."
+  },
+  "categories": {
+    "Exam_Area_CaptainsCabin_BG": {
+      "Examine/Exam_Area_CaptainsCabin_BG/Section ds0": {
+        "en": "So this was Mortuga's cabin...",
+        "pl": "Więc to była kajuta Mortugi...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_BG/Section ds1": {
+        "en": "Where did he sleep?",
+        "pl": "Gdzie sypiał?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_BG/Section ds2": {
+        "en": "It's not his bedroom.\nIt's more... like his office.",
+        "pl": "To nie jego sypialnia.\nTo bardziej... jak jego biuro.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_DotDotDotSal1": {
+      "Examine/Exam_Area_CaptainsCabin_DotDotDotSal1/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_FeliciaPainting1a": {
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1a/Section ds0": {
+        "en": "Probably [h]haunted,[/h] but beautiful.",
+        "pl": "Pewnie [h]nawiedzony,[/h] ale piękny.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1a/Section ds1": {
+        "en": "It's a painting.",
+        "pl": "To obraz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1a/Section ds2": {
+        "en": "It's beautiful.",
+        "pl": "Jest piękny.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_FeliciaPainting1b": {
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds0": {
+        "en": "Grimoire?",
+        "pl": "Grimoire?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds1": {
+        "en": "So - who is it?",
+        "pl": "Więc - kto to jest?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds3": {
+        "en": "...let's make sure to ask [i]everyone[/i] about this.",
+        "pl": "...koniecznie zapytajmy o to [i]wszystkich[/i].",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds4": {
+        "en": "Everyone?",
+        "pl": "Wszystkich?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting1b/Section ds5": {
+        "en": "Yeah. I'm curious to see what kind of responses we get.",
+        "pl": "Tak. Jestem ciekaw, jakie odpowiedzi uzyskamy.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_FeliciaPainting2": {
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting2/Section ds0": {
+        "en": "...maybe we should take another look at this.",
+        "pl": "...może powinniśmy jeszcze raz się temu przyjrzeć.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting2/Section ds0 Choice 1": {
+        "en": "Look Closer",
+        "pl": "Przyjrzyj się bliżej",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting2/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting2/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsCabin_FeliciaPainting3": {
+      "Examine/Exam_Area_CaptainsCabin_FeliciaPainting3/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_IronBell 1": {
+      "Examine/Exam_Area_CaptainsCabin_IronBell 1/Section ds0": {
+        "en": "Why's it hanging over the desk?",
+        "pl": "Czemu wisi nad biurkiem?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell 1/Section ds1": {
+        "en": "Uh-",
+        "pl": "Yy-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell 1/Section ds2": {
+        "en": "-is that a bell?",
+        "pl": "-czy to dzwon?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell 1/Section ds3": {
+        "en": "I... think so.",
+        "pl": "Chyba... tak.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_IronBell BellReady": {
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds10": {
+        "en": "Ah.",
+        "pl": "Ach.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds11": {
+        "en": "But it's probably easier if we use the handle.",
+        "pl": "Ale pewnie łatwiej będzie użyć korby.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds5": {
+        "en": "So what now? Do we just turn the rope winch ourselves?",
+        "pl": "Więc co teraz? Po prostu sami obracamy wciągarkę linową?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds6": {
+        "en": "...I guess we [i]could.[/i]",
+        "pl": "...chyba [i]moglibyśmy.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds8": {
+        "en": "I, uh-\nI don't see a handle.",
+        "pl": "Ja, yy-\nNie widzę korby.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell BellReady/Section ds9": {
+        "en": "That's because it's not in this room.",
+        "pl": "Bo jej nie ma w tym pokoju.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_IronBell OpenHole": {
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds0": {
+        "en": "It's open.",
+        "pl": "Jest otwarte.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds10": {
+        "en": "Ah.",
+        "pl": "Ach.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds11": {
+        "en": "But it's probably easier if we use the handle.",
+        "pl": "Ale pewnie łatwiej będzie użyć korby.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds4": {
+        "en": "Looks like it's [i]exactly[/i] the right size for the Bell to go through.",
+        "pl": "Wygląda na to, że jest [i]dokładnie[/i] odpowiedniego rozmiaru, żeby zmieścił się przez nie Dzwon.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds5": {
+        "en": "So, what now? Do we just - turn the rope winch ourselves...?",
+        "pl": "Więc co teraz? Po prostu - sami obracamy wciągarkę linową...?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds6": {
+        "en": "...I guess we [i]could.[/i]",
+        "pl": "...chyba [i]moglibyśmy.[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds8": {
+        "en": "I, uh-\nI don't see a handle?",
+        "pl": "Ja, yy-\nNie widzę korby?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell OpenHole/Section ds9": {
+        "en": "That's because it's not in this room.",
+        "pl": "Bo jej nie ma w tym pokoju.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_IronBell RopeWinch": {
+      "Examine/Exam_Area_CaptainsCabin_IronBell RopeWinch/Section ds4": {
+        "en": "But-",
+        "pl": "Ale-",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell RopeWinch/Section ds5": {
+        "en": "So the Bell's attached to a [i]rope winch...[/i]",
+        "pl": "Więc Dzwon jest przymocowany do [i]wciągarki linowej...[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell RopeWinch/Section ds6": {
+        "en": "Presumably so it can be lowered onto the cauldron.",
+        "pl": "Prawdopodobnie po to, żeby można go było opuścić na kocioł.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell RopeWinch/Section ds8": {
+        "en": "Yeah, no - we'll need to clear a [i]path[/i] for it first.",
+        "pl": "No tak - najpierw będziemy musieli oczyścić dla niego [i]drogę.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_IronBell TimetolookatIronBell": {
+      "Examine/Exam_Area_CaptainsCabin_IronBell TimetolookatIronBell/Section ds5": {
+        "en": "Maybe it's time we took another look at this [i]'Iron Bell'.[/i]",
+        "pl": "Może czas jeszcze raz przyjrzeć się temu [i]'Żelaznemu Dzwonowi'.[/i]",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell TimetolookatIronBell/Section ds5 Choice 1": {
+        "en": "Let's discuss it",
+        "pl": "Omówmy to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell TimetolookatIronBell/Section ds5 Choice 2": {
+        "en": "Not yet",
+        "pl": "Jeszcze nie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_IronBell TimetolookatIronBell/Section ds5 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      }
+    },
+    "Exam_Area_CaptainsCabin_Ladder": {
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds0": {
+        "en": "It's just going to hang in the middle of the room?",
+        "pl": "Będzie po prostu wisieć na środku pokoju?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds1": {
+        "en": "...that's [h]it?[/h]",
+        "pl": "...to [h]tyle?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds2": {
+        "en": "You can reach it, can't you?",
+        "pl": "Możesz tam sięgnąć, prawda?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds3": {
+        "en": "Yeah, but-",
+        "pl": "Tak, ale-",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds4": {
+        "en": "Then I don't see the problem.",
+        "pl": "W takim razie nie widzę problemu.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds4 Choice 1": {
+        "en": "Climb the ladder",
+        "pl": "Wejdź po drabinie",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds4 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds4 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_Ladder/Section ds6": {
+        "en": "What?",
+        "pl": "Co?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_MoveLidQuestion": {
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds0": {
+        "en": "Should we move the lid?",
+        "pl": "Powinniśmy przesunąć wieko?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds0 Choice 1": {
+        "en": "Move the Lid",
+        "pl": "Przesuń wieko",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds4": {
+        "en": "Wow. Thanks.\n",
+        "pl": "Wow. Dzięki.\n",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveLidQuestion/Section ds5": {
+        "en": "I can take this one.",
+        "pl": "Ja się tym zajmę.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_MoveRugQuestion": {
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds0": {
+        "en": "Should we move the rug?",
+        "pl": "Powinniśmy przesunąć dywan?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds0 Choice 1": {
+        "en": "Move the Rug",
+        "pl": "Przesuń dywan",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveRugQuestion/Section ds5": {
+        "en": "Me again, huh?",
+        "pl": "Znowu ja, co?",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_MoveTableQuestion": {
+      "Examine/Exam_Area_CaptainsCabin_MoveTableQuestion/Section ds0": {
+        "en": "Should we move the table?",
+        "pl": "Powinniśmy przesunąć stół?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveTableQuestion/Section ds0 Choice 1": {
+        "en": "Move the Table",
+        "pl": "Przesuń stół",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveTableQuestion/Section ds0 Choice 2": {
+        "en": "Leave it",
+        "pl": "Zostaw to",
+        "speaker": "Grimoire (opcja wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveTableQuestion/Section ds0 Choice Question": {
+        "en": "",
+        "pl": "",
+        "speaker": "(naglowek wyboru)"
+      },
+      "Examine/Exam_Area_CaptainsCabin_MoveTableQuestion/Section ds4": {
+        "en": "Uh, I'll let [i]you[/i] do that.",
+        "pl": "Yy, zostawię to [i]tobie.[/i]",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_ShipinaBottle 1": {
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 1/Section ds0": {
+        "en": "Really? What ship is it?",
+        "pl": "Naprawdę? Co to za statek?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 1/Section ds1": {
+        "en": "It's a ship in a bottle.",
+        "pl": "To statek w butelce.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_ShipinaBottle 2": {
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 2/Section ds0": {
+        "en": "Would you not [i]shake[/i] it like that? You're gonna break it.",
+        "pl": "Może byś tak nie [i]potrząsał[/i] tym? Zepsujesz to.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 2/Section ds1": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 2/Section ds2": {
+        "en": "I think it already [i]is[/i] broken, listen;",
+        "pl": "Chyba już [i]jest[/i] zepsute, posłuchaj;",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 2/Section ds3": {
+        "en": "Something got loose on the inside.",
+        "pl": "Coś się w środku obluzowało.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ShipinaBottle 2/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_bookshelf": {
+      "Examine/Exam_Area_CaptainsCabin_bookshelf/Section ds0": {
+        "en": "It's Mortuga's bookshelf.",
+        "pl": "To biblioteczka Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_bookshelf/Section ds1": {
+        "en": "A lot of these aren't books, they're scrolls...",
+        "pl": "Dużo z tego to nie książki, tylko zwoje...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_bookshelf/Section ds2": {
+        "en": "[i]Scrollshelf.[/i]",
+        "pl": "[i]Zwojoteka.[/i]",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_boxes": {
+      "Examine/Exam_Area_CaptainsCabin_boxes/Section ds0": {
+        "en": "Storage boxes.",
+        "pl": "Skrzynie magazynowe.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_boxes/Section ds1": {
+        "en": "Why keep them in here, I wonder...?",
+        "pl": "Zastanawiam się, czemu trzyma je tutaj...?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_boxes/Section ds2": {
+        "en": "Where else would they be?",
+        "pl": "A gdzie indziej miałyby być?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_boxes/Section ds3": {
+        "en": "A storage room?",
+        "pl": "W magazynie?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_boxes/Section ds4": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_cage": {
+      "Examine/Exam_Area_CaptainsCabin_cage/Section ds0": {
+        "en": "It's an old birdcage.",
+        "pl": "To stara klatka na ptaki.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_cage/Section ds1": {
+        "en": "Minus the bird.",
+        "pl": "Bez ptaka.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_cage/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_chair": {
+      "Examine/Exam_Area_CaptainsCabin_chair/Section ds0": {
+        "en": "That's one impressive chair...",
+        "pl": "To imponujący fotel...",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_chair/Section ds1": {
+        "en": "Fit for a Captain.",
+        "pl": "Godny kapitana.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_chest": {
+      "Examine/Exam_Area_CaptainsCabin_chest/Section ds0": {
+        "en": "Uh - hello?",
+        "pl": "Yy - halo?",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_chest/Section ds1": {
+        "en": "It's a treasure chest.",
+        "pl": "To skrzynia ze skarbem.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_chest/Section ds2": {
+        "en": "Someone's peeking out from inside...",
+        "pl": "Ktoś zerka z jej wnętrza...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_desk": {
+      "Examine/Exam_Area_CaptainsCabin_desk/Section ds0": {
+        "en": "Mortuga's desk.",
+        "pl": "Biurko Mortugi.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_desk/Section ds1": {
+        "en": "Anything in the drawers?",
+        "pl": "Coś jest w szufladach?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_desk/Section ds2": {
+        "en": "Just dust.",
+        "pl": "Tylko kurz.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_desk/Section ds3": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_eyes": {
+      "Examine/Exam_Area_CaptainsCabin_eyes/Section ds0": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_eyes/Section ds1": {
+        "en": "What's that saying?\n[i]If walls had eyes...?[/i]",
+        "pl": "Jak to się mówi?\n[i]Gdyby ściany miały oczy...?[/i]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_eyes/Section ds2": {
+        "en": "...something like that.",
+        "pl": "...coś w tym stylu.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_frames": {
+      "Examine/Exam_Area_CaptainsCabin_frames/Section ds0": {
+        "en": "What's that on the wall?",
+        "pl": "Co to jest na ścianie?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_frames/Section ds1": {
+        "en": "It's written in a language I don't recognise.",
+        "pl": "Napisane w języku, którego nie rozpoznaję.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_frames/Section ds2": {
+        "en": "No idea...",
+        "pl": "Nie mam pojęcia...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_globe": {
+      "Examine/Exam_Area_CaptainsCabin_globe/Section ds0": {
+        "en": "It's a globe.",
+        "pl": "To globus.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_globe/Section ds1": {
+        "en": "With all seven seas.",
+        "pl": "Ze wszystkimi siedmioma morzami.",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_ropes": {
+      "Examine/Exam_Area_CaptainsCabin_ropes/Section ds0": {
+        "en": "A series of ropes...",
+        "pl": "Kilka lin...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ropes/Section ds1": {
+        "en": "They're for hanging the bell from the ceiling.",
+        "pl": "Służą do zawieszenia dzwonu u sufitu.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_ropes/Section ds2": {
+        "en": "...",
+        "pl": "...",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_rug": {
+      "Examine/Exam_Area_CaptainsCabin_rug/Section ds0": {
+        "en": "It's an old rug.",
+        "pl": "To stary dywan.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_rug/Section ds1": {
+        "en": "It's old, but it's not quite as dusty as the rest of the room...",
+        "pl": "Jest stary, ale nie jest aż tak zakurzony jak reszta pokoju...",
+        "speaker": "Sally"
+      }
+    },
+    "Exam_Area_CaptainsCabin_skulljunk": {
+      "Examine/Exam_Area_CaptainsCabin_skulljunk/Section ds0": {
+        "en": "A candle, on a skull, on a book.",
+        "pl": "Świeca, na czaszce, na książce.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_skulljunk/Section ds1": {
+        "en": "So was Mortuga a pirate, or, what?",
+        "pl": "Więc Mortuga był piratem czy jak?",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_skulljunk/Section ds2": {
+        "en": "I don't think he actually did any pirating...",
+        "pl": "Nie sądzę, żeby faktycznie zajmował się piractwem...",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_skulljunk/Section ds3": {
+        "en": "I'd say he was pirate[h]-adjacent[/h].",
+        "pl": "Powiedziałbym, że był [h]bliski[/h] piractwa.",
+        "speaker": "Grimoire"
+      }
+    },
+    "Exam_Area_CaptainsCabin_window": {
+      "Examine/Exam_Area_CaptainsCabin_window/Section ds0": {
+        "en": "[i]Nice[/i] window.",
+        "pl": "[i]Ładne[/i] okno.",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_window/Section ds1": {
+        "en": "It looks directly out the back of the ship.",
+        "pl": "Wychodzi bezpośrednio na tył statku.",
+        "speaker": "Grimoire"
+      },
+      "Examine/Exam_Area_CaptainsCabin_window/Section ds2": {
+        "en": "-the [h]ship?[/h]",
+        "pl": "-[h]statku?[/h]",
+        "speaker": "Sally"
+      },
+      "Examine/Exam_Area_CaptainsCabin_window/Section ds3": {
+        "en": "Yeah, you know.\nThe submarine.",
+        "pl": "Tak, no wiesz.\nŁodzi podwodnej.",
+        "speaker": "Grimoire"
+      }
+    }
+  },
+  "do_pozniejszej_weryfikacji": []
+}
