@@ -3,10 +3,8 @@
 Nieoficjalne polskie tłumaczenie gry **The Mermaid Mask** (SFB Games).
 Potrzebujesz **legalnie posiadanej kopii** gry (Steam/GOG).
 
-Projekt wymaga legalnie posiadanej kopii gry. Repozytorium publiczne zawiera tylko
-pliki potrzebne graczom i testerom: instalatory, gotowe patche oraz źródła
-tłumaczenia. Nie zawiera oryginalnych plików gry ani
-prywatnych narzędzi deweloperskich.
+Projekt wymaga legalnie posiadanej kopii gry.
+
 
 ## ☕ Podoba Ci się to co robie?
 Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
@@ -42,32 +40,16 @@ Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
 ## Instalacja
 
 Wymagana legalnie posiadana kopia gry (Steam/GOG, SteamOS/Steam Deck lub Windows).
-
-1. Pobierz najnowszą paczkę z [Releases](../../releases) - **jeden ZIP,
-   gotowy do użycia** (zawiera już instalator i spatchowane pliki razem).
+1. Pobierz najnowszą paczkę z [Releases](../../releases) - **jeden ZIP**, gotowy do użycia** (zawiera już instalator i spatchowane pliki razem).
 2. Rozpakuj ZIP **w dowolnym miejscu** (pulpit, pobrane, gdziekolwiek).
 3. Uruchom instalator z rozpakowanego folderu:
    - **Linux / SteamOS / Steam Deck**: `cd linux && ./install-pl.sh`
    - **Windows**: `cd windows`, a następnie
      `powershell -ExecutionPolicy Bypass -File install-pl.ps1`
-4. Instalator sam wykrywa folder gry (Steam/GOG/Steam Deck). Jeśli się nie
-   uda, podaj ścieżkę jako argument (`./install-pl.sh "/ścieżka/do/gry"`)
-   albo skopiuj `game-path.env.example` do `game-path.env` (obok folderu
-   `linux`/`windows`) i ustaw tam `GAME_PATH`.
+4. Instalator sam wykrywa folder gry (Steam/GOG/Steam Deck). Jeśli się nie uda, podaj ścieżkę jako argument (`./install-pl.sh "/ścieżka/do/gry"`) albo skopiuj `game-path.env.example` do `game-path.env` (obok folderu `linux`/`windows`) i ustaw tam `GAME_PATH`.
 5. W grze: Opcje → Język tekstu → wybierz **Polski**.
 
-To wszystko - nie trzeba klonować repozytorium ani nic ręcznie kopiować do
-konkretnych folderów. Instalator sam robi kopię zapasową oryginalnych
-plików przed podmianą (folder `backup/` obok skryptu) - przywrócenie
-oryginału: `./restore-original.sh` (Linux) lub `restore-original.ps1`
-(Windows). Weryfikacja poprawności instalacji: `verify-install.sh` /
-`verify-install.ps1`.
-
-
-## Źródła tłumaczenia
-
-`_Translation/source/` - angielski tekst źródłowy gry, `_Translation/pl/` - kompletne polskie
-tłumaczenie w tym samym formacie.
+Instalator sam robi kopię zapasową oryginalnych plików przed podmianą (folder `backup/` obok skryptu) - przywrócenie oryginału: `./restore-original.sh` (Linux) lub `restore-original.ps1` (Windows). Weryfikacja poprawności instalacji: `verify-install.sh` / `verify-install.ps1`.
 
 
 ## Screenshots
