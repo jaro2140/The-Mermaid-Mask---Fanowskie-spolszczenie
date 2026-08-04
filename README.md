@@ -12,29 +12,23 @@ Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
 ---
 
 
-## Status (2026-08-03)
+## Status — wersja 1.1
 
 | Obszar | Status |
 | --- | --- |
 | Teksty (menu, opcje, UI) | **Gotowe (100%)** |
 | Teksty (dialogi, śledztwo, zagadki, dowody) | **Gotowe (100%)** |
-| Opisy dowodów w bazie danych gry (`devTexts`) | **Gotowe (100%)** |
-| Czcionki (polskie znaki) | **Gotowe — poprawka v44** |
+| Opisy dowodów w bazie danych gry | **Gotowe (100%)** |
+| Czcionki (polskie znaki) | **Gotowe** |
 | Patch/instalator | **Gotowy** |
-| Testy w grze | **W trakcie** |
+| Testy w grze | **Zakończone** |
 
 
-## Co jeszcze wymaga testu / znane niepewności
+## Znane niepewności
 
-- **[KRYTYCZNE] Modyfikacja paczek Addressables (`.bundle`)** - część opisów
-  dowodów jest przechowywana w 11 paczkach `StreamingAssets/aa/
-  StandaloneWindows64/*.bundle`. Modyfikacja tych plików jest nowym
-  mechanizmem. Jeśli tak, mogłoby to spowodować, że opisy
-  (ale nie nazwy) niektórych dowodów wyświetlają się dalej po angielsku
-  mimo poprawnej instalacji. Zgłoś to jako issue, jeśli zauważysz taki
-  przypadek.
 - Kilka drobnych niejednoznaczności fabularnych/tłumaczeniowych oznaczonych
-  w trakcie pracy.
+  w trakcie pracy — nie wpływają na rozgrywkę ani zrozumiałość tekstu.
+- Jeśli mimo to zauważysz błąd w tłumaczeniu, zgłoś to jako issue.
 
 
 ## Instalacja
