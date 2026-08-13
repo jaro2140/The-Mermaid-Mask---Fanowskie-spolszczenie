@@ -1678,15 +1678,5 @@
         "speaker": "Dirk"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Dirk CLUE NewspaperPage - urwany dialog o autorze recenzji",
-      "problem": "Dialog o tym, ze autor recenzji ma takie samo imie jak ktos znajomy, urywa sie bez odpowiedzi (ds16 konczy sie '...jak, yy...' bez dokonczenia) - podobnie jak w zrodle (brak dalszych kluczy w tej scenie). Watek pozostaje niewyjasniony - mozliwe ze to nawiazanie do watku T. W. Ibisa (batch_39) lub Mayor Damian Dusk/ojca Wirmana (batch_60) - do sledzenia."
-    },
-    {
-      "term": "Dirk CLUE ShipinaBottle - 'Queen Serena'",
-      "problem": "Nowa nazwa fikcyjnego statku z powiesci/filmu Wirmana ('Queen Serena') - fikcjonalizowana wersja prawdziwego statku 'Dearest Selena'. Zostawiono bez tlumaczenia jak inne nazwy wlasne statkow w projekcie - do potwierdzenia spojnosci przy tlumaczeniu kolejnych partii dotyczacych ksiazki Wirmana."
-    }
-  ]
+  }
 }

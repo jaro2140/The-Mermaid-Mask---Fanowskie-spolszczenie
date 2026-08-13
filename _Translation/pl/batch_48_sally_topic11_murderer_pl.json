@@ -604,11 +604,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Sally Topic 11/ds86 '[Present Clue] Wooden Pipe / Detail: ...]'",
-      "problem": "Nietypowy, niespojny format bracketow (rozpoczyna sie '[Present Clue]' ale konczy pojedynczym ']' bez pary) - potraktowano jako czesciowo widoczny dla gracza tekst (nazwa dowodu + opis szczegolu) i przetlumaczono w calosci, w tym nazwe 'Wooden Pipe' -> 'Drewniana Rura' (ustalony wczesniej termin) - do sprawdzenia w grze czy ten fragment faktycznie jest widoczny, czy to czysto techniczny marker."
-    }
-  ]
+  }
 }

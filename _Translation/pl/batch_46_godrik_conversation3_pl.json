@@ -319,11 +319,5 @@
         "speaker": "Godrik"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Godrik Conversation 3/ds219, ds222 \"'Her'.\"",
-      "problem": "Jednoslowna kwestia 'Her' wypowiadana osobno przez Sinthie (ds219) i Symmetry (ds222) - niejasny dokladny kontekst/referent (moze to komentarz do sposobu, w jaki ktos mowi o lodzi podwodnej lub o Syrenie jako 'she/her' - angielska tradycja nazywania statkow rodzajem zenskim, ktora NIE ma odpowiednika w polskim, bo 'lodz podwodna' juz jest rodzaju zenskiego z definicji - gra slow moze byc nieprzekladalna). Przetlumaczono neutralnie jako '\"Ona\".' w obu miejscach - do sprawdzenia w grze z pelnym kontekstem/audio czy sens sie zgadza."
-    }
-  ]
+  }
 }

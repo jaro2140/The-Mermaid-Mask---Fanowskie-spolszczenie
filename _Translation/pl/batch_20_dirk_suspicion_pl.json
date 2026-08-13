@@ -746,19 +746,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Dirk 05 SUSPICION - tozsamosc 'Pipe'",
-      "problem": "Ta scena mocno sugeruje (choc nie potwierdza wprost), ze glos 'Pipe' nalezy do J.D. Wirmana - rozmowa dotyczy 'zabicia' postaci Mordooma w jego wlasnych ksiazkach, a Dirk odpowiada 'He's not enjoying writing the books anymore' (ds114, 'on' = ktos kto PISZE ksiazki = Wirman). Zgodnie z zasada GLOSSARY nadal przetlumaczono bezplciowo (gracz w tej scenie dopiero to dedukuje przez Mind Game ds30), ale to najsilniejsza jak dotad przeslanka co do tozsamosci - do potwierdzenia przy tlumaczeniu luku Wirmana."
-    },
-    {
-      "term": "Dirk 05 SUSPICION/ds100 'a little from column A, a little from column B'",
-      "problem": "Angielski idiom (z chinskiego menu a'la carte) bez bezposredniego odpowiednika w polskim - przetlumaczony funkcjonalnie jako 'trochę jedno, trochę drugie' (ten sam sens: mieszanka dwoch powodow), ale traci oryginalny obraz/humor idiomu."
-    },
-    {
-      "term": "Wit and Whimsy (nazwa wytworni filmowej)",
-      "problem": "Nazwa firmy zostawiona bez tlumaczenia (No-Touch Zone jak inne nazwy wlasne) mimo ze ma charakter gry slow ('dowcip i fantazja') - do rozwazenia czy przy dalszym zaglebianiu sie w watek Dirka/Wirmana user zechce ja jednak przetlumaczyc opisowo, analogicznie do Mermaid's Tongue."
-    }
-  ]
+  }
 }

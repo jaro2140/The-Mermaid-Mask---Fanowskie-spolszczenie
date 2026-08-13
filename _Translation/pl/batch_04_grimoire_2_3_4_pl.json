@@ -288,19 +288,5 @@
         "speaker": "Zephyr"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Grimoire 3 Iron Bell/Request exitClueRequest0Hint0/Hint1",
-      "problem": "Jak poprzednio - brak wlasnego soulTalking, zalozylem Grimoire."
-    },
-    {
-      "term": "Section ds59 Choice Question (naglowek wyboru dialogowego)",
-      "problem": "Nie mam pewnosci czy to tekst 'mowiony' przez postac czy czysto UI-owy naglowek okna wyboru - przetlumaczylem neutralnie, do sprawdzenia wizualnie w grze."
-    },
-    {
-      "term": "Grimoire 4 Parlor 0/ds66 'detective dudes' -> 'wywaliła tych detektywów'",
-      "problem": "Dirk ma najbardziej luzny/wspolczesny styl wypowiedzi w grze (potwierdzone w devTexts z Art Gallery: 'Dirk is the most contemporary character'). Uzylem potocznego 'wywalila' zamiast neutralnego 'wyrzucila' zeby to oddac - do potwierdzenia czy ten rejestr jest odpowiedni w calej grze dla Dirka."
-    }
-  ]
+  }
 }

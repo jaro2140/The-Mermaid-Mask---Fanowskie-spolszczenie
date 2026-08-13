@@ -1466,13 +1466,5 @@
         "speaker": "narrator"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Souls/Text/Zephyr/Text12",
-      "en": "This is a great 'pull the thread' moment - why would Zephyr need to discreetly smuggle stuff on board, if Mortuga and Zephyr were the only two people on the submarine??? It hints at a third person",
-      "propozycja": "przetlumaczone doslownie",
-      "problem": "Ta linia wyglada na WEWNETRZNA NOTATKE DEWELOPERSKA (analiza fabuly/wskazowka projektowa), nie na kwestie postaci - przypadkiem pozostawiona w danych lokalizacyjnych, podobnie do wczesniejszych 'Lorem ipsum'/'title here'. Do sprawdzenia czy to w ogole widoczne w grze (prawdopodobnie nie - moze byc martwym terminem)."
-    }
-  ]
+  }
 }

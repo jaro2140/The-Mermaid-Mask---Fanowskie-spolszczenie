@@ -130,15 +130,5 @@
         "speaker": "Dirk"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Dirk 02 YOURSELF/ds29-32 'Markus Mordoom' vs 'J. D. Wirman'",
-      "problem": "Sally najpierw pyta o 'Markus Mordoom' (ds29, prawdopodobnie nazwisko/pseudonim autora widoczne na okladce ksiazki - brakuje w eksporcie linii, w ktorej Dirk je wymienia, prawdopodobnie inny mowca/mechanika), po czym Dirk (ds31) i Sally (ds32, pytajac o 'J. D. Wirman') zdaja sie mowic o TEJ SAMEJ osobie - postaci Wirman towarzyszacej Dirkowi na lodzi. Zalozono ze 'Markus Mordoom' to pseudonim pisarski Wirmana - obie nazwy zostawione bez tlumaczenia (nazwy wlasne), ale zwiazek do potwierdzenia w grze/przy tlumaczeniu luku Wirmana."
-    },
-    {
-      "term": "Dirk 02 YOURSELF/ds11 'Hex of the Helmsman' -> 'Klatwa Sternika'",
-      "problem": "Tytul filmu/ksiazki przetlumaczony tworczo (analogicznie do The Mermaid's Tongue) zamiast zostawiony po angielsku - do potwierdzenia z userem czy tytuly dziel fikcyjnych w grze maja byc tlumaczone czy zostawiane oryginalnie (precedens jeszcze nie ustalony jawnie w GLOSSARY)."
-    }
-  ]
+  }
 }

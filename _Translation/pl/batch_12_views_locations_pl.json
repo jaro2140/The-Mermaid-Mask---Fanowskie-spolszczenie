@@ -133,19 +133,5 @@
         "pl": "Zgromadzenie\nNieszczęsnych Podróżników"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Views/Names/ControlRoom vs dialog 'control room'",
-      "problem": "Oficjalna nazwa lokacji (ten wpis) to 'Sterownia' (bardziej formalny rejestr, jak na etykiecie/mapie), natomiast w dialogach (batch_11 ds14) postacie mowia potocznie 'sterowka' o tym samym miejscu. To swiadomy wybor - naturalne zroznicowanie rejestru (formalna etykieta vs potoczna mowa zalogi), analogicznie do polskiego jak marynarze faktycznie by mowili - ale do potwierdzenia w grze czy nie razi obok siebie."
-    },
-    {
-      "term": "Views/Names/CaptainsCabin vs CaptainsQuarters",
-      "problem": "Dwie osobne lokacje w oryginale ('Captain's Cabin' i 'Captain's Quarters') - prawdopodobnie kajuta osobista Mortugi vs. bardziej oficjalna/reprezentacyjna czesc kwatery kapitanskiej, ale nie potwierdzone w grze co dokladnie kazda z nich zawiera. Przetlumaczono jako 'Kajuta Kapitana' / 'Kwatera Kapitanska' zeby byly jednoznacznie odrozniane - do sprawdzenia czy ten podzial ma sens po zobaczeniu obu lokacji w grze."
-    },
-    {
-      "term": "Views/Text/Parlor/Text0-1 'Initial'/'Report'",
-      "problem": "Dwa osobne klucze I2Loc dla dwuslownego tytulu 'Initial Report' (wzorem Title/Art Gallery + Art Gallery 2 z batch_01, tam tez nierozwiazane). Przetlumaczono zachowujac ta sama kolejnosc slow (Text0='Wstepny', Text1='Raport') bez zamiany miejscami, mimo ze naturalniejszy polski szyk to 'Raport Wstepny' - unikniecie zamiany zeby nie powtorzyc niepewnosci z Art Gallery (gdzie nie wiadomo czy to dwie linie jednego napisu czy dwie niezalezne etykiety). Do sprawdzenia wizualnie w grze."
-    }
-  ]
+  }
 }

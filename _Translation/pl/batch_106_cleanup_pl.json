@@ -153,13 +153,5 @@
         "pl": "Mysz"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Chapters/Chapter 2 i Chapter 4",
-      "en": "'The Box that Would Not Open' / 'The Box that was Actually Really Easy to Open'",
-      "propozycja": "Skrzynka, Która Nie Chciała Się Otworzyć / Skrzynka, Którą Tak Naprawdę Było Bardzo Łatwo Otworzyć",
-      "problem": "Zamierzony żart/callback miedzy tytulami dwoch rozdzialow (Czarna Skrzynka najpierw wydaje sie nie do otwarcia, potem okazuje sie latwa) - zachowano dlugosc i humor tytulu, do sprawdzenia czy dobrze miesci sie w UI wyboru rozdzialu w grze."
-    }
-  ]
+  }
 }

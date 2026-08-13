@@ -1794,15 +1794,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Moon CLUE FeliciaPainting/ds13 gra slow S.S.",
-      "problem": "Oryginalna gra slow (Stonetop/sea/secret/stone, wszystkie na 'S') zaadaptowana na polskie odpowiedniki zaczynajace sie na 'S' (Stonetop/sztorm/sekret/skala) zamiast doslownego tlumaczenia - 'sea' stalo sie 'sztorm' zamiast 'morze' zeby zachowac litere S. Do sprawdzenia czy brzmi naturalnie w pelnym kontekscie dialogu."
-    },
-    {
-      "term": "Moon CLUE HexoftheHelmsman/ds11 'Mayor Damian Dusk'",
-      "problem": "KLUCZOWE odkrycie - ojciec Wirmana to burmistrz Damian Dusk. To bardzo prawdopodobnie rozwiazuje watek 'Wirman zmienil imie' z Moon SUS Wirman (batch_57) - rodowe nazwisko Wirmana to zapewne 'Dusk', a 'Wirman' to pseudonim literacki. Nie dopisano jeszcze formalnie do GLOSSARY jako potwierdzone - do zrobienia po ewentualnym potwierdzeniu w kolejnych partiach (np. Wirman CLUE HexoftheHelmsman)."
-    }
-  ]
+  }
 }

@@ -1199,37 +1199,5 @@
         "speaker": "narrator"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Clues/Text/RippedScroll/Text1-2",
-      "en": "letter signed 'SS', mentions 'the key... around my neck', 'it destroyed my father', 'before she spoke to us'",
-      "propozycja": "przetlumaczone doslownie, podpis 'SS' pozostawiony bez zmian",
-      "problem": "Podpis 'SS' wskazuje na Selene Stonetop (matka Felicii, babcia Sinthii) - NIE na Felicie Stonetop, ktora wg dotychczas ustalonej fabuly (Godrik Conversation 1, batch_44) jako pierwsza znalazla Jezyk Syreny wraz z Mortuga i Godrikiem i nosila Kluczyk z Naszyjnika. Ten list sugeruje, ze to SELENA (wczesniejsze pokolenie) mogla miec wlasne, wczesniejsze doswiadczenie z tym samym przedmiotem/kluczem ('ever since' - od dawna go nosi). Mozliwe wyjasnienia: (a) to Felicia pod inicjalami babki z powodu bledu/uproszczenia, (b) to faktycznie osobny, wczesniejszy watek Seleny nieujawniony dotad w przetlumaczonym materiale, (c) 'ona' w 'before she spoke to us' odnosi sie do Syreny przemawiajacej do calego pokolenia Seleny, nie tylko Felicii. WYMAGA POTWIERDZENIA - kluczowe dla spojnosci fabuly, nie zmieniac GLOSSARY bez decyzji usera."
-    },
-    {
-      "term": "Clues/Text/MourningEnvelope/Text2",
-      "en": "Governor Faustus Fellow\nand Selena Stonetop\nGoverner's Manor...",
-      "propozycja": "przetlumaczone doslownie",
-      "problem": "Koperta zaadresowana wspolnie do 'Gubernatora Faustusa Fellowa ORAZ Seleny Stonetop' pod adresem Dworu Gubernatora - sugeruje bliski zwiazek (malzenstwo? wspolne zamieszkanie?) miedzy Selena Stonetop a Gubernatorem Fellow, nieujawniony dotad w GLOSSARY. Do potwierdzenia przy dalszych partiach Clues/Text (moze wyjasnic sie w MovieMagazine/NewspaperPage/SilkwirmMap - jeszcze nieprzetlumaczone)."
-    },
-    {
-      "term": "Clues/Text/ModelTown/Text4-6",
-      "en": "'That's my mom, standing in harbor... my dad under lighthouse' / 'my house... the theatre, where I lived' / 'is that my father?'",
-      "propozycja": "przypisano roboczo Sinthii (Text4), Symmetry (Text5) i niezidentyfikowanej postaci/Wirmanowi (Text6)",
-      "problem": "Trzy kolejne linie wygladaja na ciagla wypowiedz JEDNEJ postaci wspominajacej model miasteczka, ale szczegoly (mama w porcie, tata pod latarnia, dom w teatrze) nie pasuja spojnie do zadnej dotad ustalonej biografii (Sinthia: mama Sylvia-kapitan portu, ojczym Don Drummond-mechanik stoczni, NIE latarnik; Symmetry: mieszkala w teatrze Fortuna Hall, ale rodzice nieustaleni). Mozliwe, ze to 3 ROZNE, kolejne po sobie reakcje roznych postaci (nie jedna wypowiedz) - do potwierdzenia w grze przy ogladaniu makiety, zanim ustali sie to w GLOSSARY."
-    },
-    {
-      "term": "Clues/Text/CaretakersJournal/Text4-5",
-      "en": "'Page 2 information about the clue. It can be one or two lines.' / 'Information about the clue. It can be one or two lines.'",
-      "propozycja": "przetlumaczone doslownie jako instrukcja",
-      "problem": "Wyglada na literalny placeholder/szablon deweloperski uzywany do formatowania opisow dowodow (nie tresc widoczna dla gracza) - podobnie jak 'title here' z batch_95. Do potwierdzenia w grze czy to kiedykolwiek widoczne."
-    },
-    {
-      "term": "Clues/Text/CaretakersJournal/Text8",
-      "en": "I've seen it - and so have you. It's attached to Dr Zephyr's left wrist.",
-      "propozycja": "przypisano roboczo Grimoire, niepewne",
-      "problem": "Ujawnia, ze 'His Golden Palm' (jedna z 4 relikwii) to prawdopodobnie proteza/sztuczna dlon przypieta do lewego nadgarstka Doktora Zephyra - nowy szczegol wygladu postaci nieustalony dotad w GLOSSARY. Mowca niepotwierdzony."
-    }
-  ]
+  }
 }

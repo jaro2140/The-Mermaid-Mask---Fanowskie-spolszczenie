@@ -1239,25 +1239,5 @@
         "pl": "Drzewo Genealogiczne"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Clues/Names/SilkwirmMap 5 (SilkwirmMap Details)",
-      "en": "Silkwirm Spectator",
-      "propozycja": "Silkwirm Spectator (bez zmian)",
-      "problem": "Nazwa lokalnej gazety (redaktor T.W. Ibis) - zostawiona po angielsku jak inne marki/nazwy wlasne firm (Wit and Whimsy). Do potwierdzenia czy nie lepiej spolszczyc na wzor innych nazw opisowych."
-    },
-    {
-      "term": "Clues/Details/IllusionistPoster 6",
-      "en": "'title here'",
-      "propozycja": "'tytuł tutaj'",
-      "problem": "Wyglada na placeholder deweloperski (niewypelnione pole tytulu na plakacie) - przetlumaczone doslownie, ale mozliwe ze to celowy zart w grze (stary plakat z bledem drukarskim) albo faktyczny placeholder niewidoczny graczowi. Do sprawdzenia w grze."
-    },
-    {
-      "term": "Clues/Details/CaretakersJournal 4-7",
-      "en": "Lillian's Locket / Silversnake Skull / His Golden Palm / The Mermaid's Tongue",
-      "propozycja": "Medalion Lillian / Czaszka Srebrnego Węża / Jego Złota Dłoń / Język Syreny",
-      "problem": "Nowy watek: Dziennik Dozorcy wymienia 4 legendarne/mityczne przedmioty jednym tchem z Jezykiem Syreny - sugeruje ze to zestaw powiazanych relikwii Silkwirm. 'Lillian' (z Golden Locket) to prawdopodobnie matka Symmetry, w dialogu Grippa nazwana 'sorceress' (czarownica) - nowy fragment lore, jeszcze nie w pelni zbadany w tlumaczonym dotad materiale. Nazwy robocze, do potwierdzenia przy tlumaczeniu Clues/Text/GoldenLocket i dalszych partii."
-    }
-  ]
+  }
 }

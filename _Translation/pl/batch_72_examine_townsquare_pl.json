@@ -808,11 +808,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Examine/Exam_Area_TownSquare_SymSinthia (cala scena)",
-      "issue": "Przypisanie konkretnych linii do Symmetry vs Sinthia w scenie pozegnalnej niepewne - brak metadata mowcy w zrodle (kategoria Examine bez pokrycia w speaker_map). Logika przypisania: Sinthia jako ta bardziej wycofana/przetwarzajaca ('...' w ds0/ds6/ds14), Symmetry jako ta odpowiadajaca w jej imieniu. Do potwierdzenia w grze."
-    }
-  ]
+  }
 }

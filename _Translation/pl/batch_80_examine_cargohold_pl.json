@@ -471,11 +471,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Examine/Exam_Area_CargoHold (cala lokacja)",
-      "issue": "Postac 'Mariana' (wlascicielka namiotu, fajki, dyktafonu) nie jest jednym z 8 glownych podejrzanych ani znanym NPC z wczesniejszych batchy - moze byc pasazerka/NPC drugoplanowa. Do potwierdzenia w grze, czy pojawia sie gdzie indziej i jaka jest jej rola w fabule."
-    }
-  ]
+  }
 }

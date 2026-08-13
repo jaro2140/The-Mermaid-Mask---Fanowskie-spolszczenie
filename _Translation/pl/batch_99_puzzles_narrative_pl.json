@@ -757,19 +757,5 @@
         "pl": "Dolna część obrazu..."
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Puzzles/Text/SuspectBoard2/Text63-69 (potwierdzenie Symmetry)",
-      "en": "'He was already miserable, because he had just found the Mourning Envelope... which informed him Governor Fellow had died.'",
-      "propozycja": "przetlumaczone doslownie",
-      "problem": "WAZNE zestawienie z ustalona fabula: Godrik Conversation 4 mowi, ze Naszyjnik Felicii odeslano JEJ RODZICOM w Kopercie Zalobnej (potwierdzajac SMIERC FELICII). Ten fragment SuspectBoard2 mowi, ze ta sama Koperta Zalobna poinformowala Mortuge o SMIERCI GUBERNATORA FELLOW - NIE Felicii. To wzmacnia hipoteze z batch_97 (VERIFICATION_QUEUE #56/#62), ze Gubernator Faustus Fellow i Selena Stonetop byli WSPOLNYMI rodzicami Felicii (koperta = zawiadomienie o smierci ich corki, zaadresowane do obojga rodzicow, ktore Mortuga potem otrzymal/przechowal) - ALE nie jest to jednoznacznie potwierdzone (mozliwe tez, ze to ODREBNE zawiadomienie o smierci samego Gubernatora, nie Felicii). WYMAGA POTWIERDZENIA - nie zmieniono GLOSSARY bez pelnej pewnosci, tylko odnotowano jako wzmocniony trop."
-    },
-    {
-      "term": "Puzzles/Text/SuspectBoard2/Text44,Text3 i podobne 'it was/wasn't' w mad-libach",
-      "en": "\"but it wasn't actually from by who it claimed to be from.\"",
-      "propozycja": "rodzaj meski jako domyslny (list/telefon/boja moga byc r.m./r.z.)",
-      "problem": "Ta sama systemowa niedoskonalosc gramatyczna co w Puzzles/Connectors (batch_98) - 'it' odnosi sie do jednej z 3 wybieralnych 'czesci' o roznym rodzaju gramatycznym w polskim. Wiekszosc (list, telefon) jest rodzaju meskiego, wiec domyslna forma pasuje w 2/3 przypadkow."
-    }
-  ]
+  }
 }

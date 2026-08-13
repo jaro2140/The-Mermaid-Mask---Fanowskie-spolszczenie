@@ -152,15 +152,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Request exitClueRequest1Hint0/Hint1, RequestPrefix/Suffix exitClueRequest1 0",
-      "problem": "To mechanika 'zgloszenia tropu' (gracz sklada zdanie z fragmentu wskazujacego na konkretny dowod). Zalozylem ze mowi to Grimoire (grywalna postac/detektyw), ale te 4 terminy NIE maja wlasnego pola soulTalking w dialogueSections (nie sa w tej strukturze) - to zalozenie, nie potwierdzone wprost jak reszta linii. Do sprawdzenia w grze czy faktycznie Grimoire to mowi, i czy 'Zauważyłem... [nazwa dowodu] ...wewnątrz kotła' brzmi poprawnie gramatycznie z rzeczywista nazwa wstawianego dowodu (przypadek moze sie nie zgadzac w zaleznosci od rodzaju gramatycznego nazwy dowodu)."
-    },
-    {
-      "term": "Kocioł/Cauldron (nazwa dowodu)",
-      "problem": "Przetlumaczylem 'Cauldron'/'cauldron' jako 'Kocioł'/'kocioł' (male/duze pierwsza litera wg oryginalu). Nie mam jeszcze potwierdzenia czy to jest formalna nazwa dowodu w UI (jak np. wczesniej znalezione 'BlackBox'/'The Black Box' w devTexts) - jesli tak, warto dodac do GLOSSARY.md i uzywac konsekwentnie we wszystkich przyszlych wystapieniach (Examine, devTexts opis tego przedmiotu)."
-    }
-  ]
+  }
 }

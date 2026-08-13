@@ -309,11 +309,5 @@
         "speaker": "Moon"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ds89 Dirk 'Dude. That's real.' -> 'Stary. To jest prawda.'",
-      "problem": "'That's real' w potocznym angielskim = 'to jest głębokie/autentyczne', nie dosłownie 'prawda'. Przetlumaczone uproszczone - do rozwazenia czy 'To jest mocne' albo 'To jest szczere' lepiej oddaje ton."
-    }
-  ]
+  }
 }

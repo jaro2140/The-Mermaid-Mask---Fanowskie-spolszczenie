@@ -1194,19 +1194,5 @@
         "speaker": "Grimoire (domniemany)"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Examine/SuspectBoard Wirman Correct (cala scena)",
-      "issue": "KLUCZOWE: ta scena rozwiazuje watek 'T. W. Ibis' obecny w VERIFICATION_QUEUE (itemy dotyczace Ibisa z batch_39/61/62/66) - Ibis to wymyslony pseudonim, ktorego Mortuga kazal uzyc Wirmanowi do napisania liscika z lokalizacja lodzi, bo sam nie chcial pisac odrecznie/zdradzac za duzo we wlasnym imieniu. Nalezy zaktualizowac GLOSSARY.md i oznaczyc odpowiednie itemy VERIFICATION_QUEUE jako ROZWIAZANE."
-    },
-    {
-      "term": "Examine/SuspectBoard Sym Correct/Section ds7,ds9",
-      "issue": "Mowca przypisany jako 'Godrik' na podstawie tonu przemowy ('Symmetry, puść to... To dotyczy was wszystkich') - ZALOZENIE, nie potwierdzone zadnym metadata. Do koniecznej weryfikacji w grze - moze to byc inna postac (np. Zephyr, ktory tez ma mistyczny/pocieszajacy rejestr)."
-    },
-    {
-      "term": "Wszystkie sceny '...GrimSal'",
-      "issue": "Podzial mowcow Grimoire/Sally oparty na arbitralnej regule (pierwsza polowa linii wg numeru ds = Grimoire, druga = Sally) - PRAWDOPODOBNIE nieistotne dla rozgrywki (gra i tak dobiera wariant tekstu do aktywnego detektywa), ale przypisanie w tym pliku moze nie odzwierciedlac faktycznej logiki gry."
-    }
-  ]
+  }
 }

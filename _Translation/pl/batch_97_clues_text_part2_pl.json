@@ -2093,31 +2093,5 @@
         "speaker": "narrator"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Clues/Text/HandwrittenLetter/Text6",
-      "en": "Oh... I don't know anything about that. (reakcja na 'the handwriting - that's girl's handwriting')",
-      "propozycja": "przypisano roboczo Sinthii, niepewne",
-      "problem": "Reakcja wymijajaca na uwage, ze pismo na liscie T.W. Ibisa jest 'pismem dziewczyny' - moze sugerowac, ze to Sinthia (znana z fałszowania podpisow w Kontrakcie Dowodczym) napisala/przepisala list w imieniu Mortugi/'Ibisa', a nie sam Mortuga. Nie zmieniono ustalonego GLOSSARY (T.W. Ibis = pseudonim Mortugi) - to raczej dodatkowy niuans (kto fizycznie pisal charakterem pisma), nie sprzecznosc. Do potwierdzenia."
-    },
-    {
-      "term": "Clues/Text/HexoftheHelmsman/Text17",
-      "en": "CHAPTER 1 LOST AT SEA + Lorem ipsum dolor sit amet...",
-      "propozycja": "naglowek przetlumaczony, Lorem Ipsum pozostawiony bez zmian (celowy placeholder lacinski)",
-      "problem": "Duplikat Text16 (prawdziwy fragment rozdzialu 1) z tekstem Lorem Ipsum zamiast wlasciwej tresci - wyglada na nieusuniety placeholder deweloperski z wczesniejszej wersji tego samego ekranu ksiazki. Do sprawdzenia czy ten wariant jest w ogole widoczny w grze."
-    },
-    {
-      "term": "Clues/Text/SilkwirmMap (cale drzewo genealogiczne Text17-27)",
-      "en": "family tree: Solomon/Selena Stonetop (innkeeper), Faustus/Fortuna Fellow, Felix, Flint, daughter (adopted?), Damian/James Dusk, Felicia Stonetop, Magnus Mortuga",
-      "propozycja": "przetlumaczone doslownie z zachowaniem struktury tekstu",
-      "problem": "Plaski eksport I2Loc nie oddaje UKLADU wizualnego drzewa genealogicznego (linie pokrewienstwa, kto z kim polaczony) - tylko liste podpisow. Prawdopodobnie POTWIERDZA, ze Solomon+Selena Stonetop to malzenstwo = rodzice Felicii (rozwiazuje VERIFICATION_QUEUE #56 nt. koperty zalobnej - patrz aktualizacja GLOSSARY), a 'corka (adoptowana?)' to prawdopodobnie Symmetry pod Fortuna Fellow. Zalecane obejrzenie faktycznej grafiki mapy w grze, zeby potwierdzic dokladne polaczenia przed dalszymi wnioskami fabularnymi."
-    },
-    {
-      "term": "Clues/Text/RippedScroll (batch_96, przypomnienie)",
-      "en": "list podpisany 'SS'",
-      "propozycja": "nadal niepewne",
-      "problem": "Po przetlumaczeniu InnDeeds (list pozegnalny Felicii, WYRAZNIE podpisany '-Felicia') i ZephyrsLetters (listy Magnusa, podpisane '-Magnus') potwierdzone, ze RippedScroll NIE jest autorstwa ani Felicii, ani Magnusa - podpis 'SS' wciaz pasuje do trzech kandydatek: Selena Stonetop, Sinthia Seafoam lub Sylvia Seafoam. Nowe drzewo genealogiczne (SilkwirmMap) nie rozstrzyga jednoznacznie. WYMAGA POTWIERDZENIA usera."
-    }
-  ]
+  }
 }

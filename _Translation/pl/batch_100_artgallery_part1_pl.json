@@ -255,13 +255,5 @@
         "pl": "Zephyr to jedna z najtrudniejszych postaci, jakie kiedykolwiek musiałam animować!\n\nMa wszystko naraz: jest wysoki, więc trudno kontrolować jego proporcje, porusza się wolno, więc potrzeba mnóstwa rysunków, ma powiewające szaty, więc trzeba zarządzać mnóstwem ruchu drugorzędnego. Jestem jednak niezwykle dumna z tego, jak wyszedł.\n\n-Velvet"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ArtGallery/Souls/Others info 1",
-      "en": "There are several clues in the game that show what the extended Fellow family looked like...",
-      "propozycja": "przetlumaczone doslownie",
-      "problem": "Komentarz artystki WPROST nazywa Selene Stonetop i Felicie Stonetop czescia 'rozszerzonej rodziny Fellow' (extended Fellow family), obok Baronowej Fortuny i Gubernatora Fellow. To MOCNO potwierdza (choc wciaz nie w 100% jednoznacznie) hipoteze z batch_97/99, ze Faustus Fellow i Selena Stonetop sa rodzicami Felicii. Nie zmieniono GLOSSARY na 'potwierdzone' bez jeszcze wyrazniejszego zrodla (np. sceny dialogowej to precyzujacej), ale to najsilniejsza dotad poszlaka."
-    }
-  ]
+  }
 }

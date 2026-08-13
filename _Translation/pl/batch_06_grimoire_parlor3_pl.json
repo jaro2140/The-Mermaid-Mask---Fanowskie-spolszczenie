@@ -652,23 +652,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Engine tokens ('[Clue Detail, Film]', '[Mind Game...]', '[present clue]...', itd.)",
-      "problem": "Zalozylem ze to komendy silnika osadzone jako tresc devText/I2Loc (nie dialog), zostawione 1:1 bez tlumaczenia zgodnie z TRANSLATION_GUIDE. Do potwierdzenia w grze ze rzeczywiscie nie sa nigdy pokazywane graczowi jako tekst (a jesli sa - trzeba je jednak przetlumaczyc)."
-    },
-    {
-      "term": "'Pipe' jako urzadzenie, nie postac",
-      "problem": "Ustalono na podstawie ds191 ('Mariana's pipe') ze 'Pipe' to rura glosowa, nie osoba - kwestie przypisane 'Pipe' (ds172,173,201,202,203) to zaklocony glos TRZECIEJ, jeszcze nieujawnionej osoby. Tlumaczenie linii ds173/ds202 celowo unika form wymagajacych rodzaju gramatycznego (zeby nie zdradzic plci tej osoby przed czasem) - do sprawdzenia czy to sie utrzyma w kolejnych scenach gdy ta postac zostanie ujawniona."
-    },
-    {
-      "term": "ds191 'Mariana's pipe' -> 'rury głosowej Mariany'",
-      "problem": "Nie jestem pewien dokladnego mechanizmu (czy to fizyczna rura przy stanowisku Mariany/Moon, czy inne urzadzenie) - przetlumaczone opisowo, do zweryfikowania kontekstowo w grze."
-    },
-    {
-      "term": "ds159 Godrik: 'I guess this is it.' -> 'Chyba nadszedł ten moment.'",
-      "problem": "Idiom bez jednoznacznego dosłownego odpowiednika - przetlumaczone funkcjonalnie (poczucie rezygnacji/nieuchronnosci). Do sprawdzenia czy pasuje do tonu sceny w grze (Godrik zostaje w tym momencie skonfrontowany)."
-    }
-  ]
+  }
 }

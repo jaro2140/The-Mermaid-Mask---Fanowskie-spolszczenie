@@ -890,11 +890,5 @@
         "speaker": "(naglowek wyboru)"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Zephyr 05 SUSPICION/ds109 'ink-blank' vs Symmetry 05 SUSPICION/ds93 'ink-black'",
-      "problem": "To samo nagranie 'Pipe' (fragment przedstawienia Symmetry) ma tu drobna roznice tekstu wzgledem batch_30 ('ink-blank void' zamiast 'ink-black void') - przetlumaczono to doslownie zachowujac roznice ('atramentowopustą' zamiast 'atramentowoczarną' z batch_30), zakladajac ze to celowy efekt niedoslyszenia nagrania przez sciane/klape wentylacyjna z innego pomieszczenia. Do potwierdzenia czy to faktycznie zamierzona niespojnosc czy literowka w zrodle."
-    }
-  ]
+  }
 }

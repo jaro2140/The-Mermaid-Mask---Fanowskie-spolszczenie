@@ -1517,13 +1517,5 @@
         "pl": "O co chodzi z Butelką Hexa?"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Puzzles/Connectors (cala kategoria)",
-      "en": "n/a - mechanika mad-lib",
-      "propozycja": "patrz known_limitation w _meta",
-      "problem": "Systemowe ograniczenie gramatyczne opisane w _meta.known_limitation - rodzaj meski jako domyslny dla wszystkich niejednorodnych grup TestMindGame*. Zalecane przetestowanie w grze kazdej z ~15 mini-zagadek 'Compare'/'MindGame' pod katem gramatycznej naturalnosci poprawnej odpowiedzi (najwazniejsze: czy POPRAWNA kombinacja brzmi dobrze - bledne dystraktory maja mniejsze znaczenie)."
-    }
-  ]
+  }
 }

@@ -1140,11 +1140,5 @@
         "speaker": "Grimoire (domniemany)"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Examine/Exam_Area_Parlor_bg/Section ds4",
-      "issue": "Angielska gra slowna 'drawing room' -> 'withdrawing room' (etymologia 'pokoj do wycofywania sie') nieprzekladalna doslownie na polski 'salon' - przetlumaczona funkcjonalnie z zachowaniem sensu wyjasnienia, ale bez analogicznej gry slownej w jezyku polskim."
-    }
-  ]
+  }
 }

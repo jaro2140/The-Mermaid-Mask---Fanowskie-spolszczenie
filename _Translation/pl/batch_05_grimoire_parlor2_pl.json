@@ -504,19 +504,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ds182 'Did you...\\n[i]Fascinating.[/i]' -> 'Serio?...\\n[i]Fascynujące.[/i]'",
-      "problem": "Fragment urwany bez pelnego kontekstu poprzedzajacej linii (nie widac na co Tadpole reaguje 'Did you...'). Przetlumaczylem ogolnikowo jako reakcje zdziwienia - do sprawdzenia w grze czy pasuje do faktycznego kontekstu."
-    },
-    {
-      "term": "ds98 'The Mermaid's [i]What?[/i]' -> 'Język [i]czego?[/i]'",
-      "problem": "Zart oparty na przerwaniu w polowie frazy 'The Mermaid's [Tongue]' zastapionym przez 'What?'. Po polsku szyk 'Jezyk Syreny' ma odwrotna kolejnosc, wiec efekt komiczny przesuwa sie na dopytywanie o 'Syreny' zamiast 'Tongue' - sens (niedowierzanie Dirka) zachowany, ale mechanika zartu jest inna niz w oryginale."
-    },
-    {
-      "term": "sprawca zamiast zaimka 'they' (wielokrotnie w tej partii)",
-      "problem": "Patrz note_unknown_gender_culprit w _meta - celowa technika unikania zdradzenia plci mordercy. Do sprawdzenia czy brzmi naturalnie we wszystkich przypadkach czy w ktoryms miejscu lepiej pasowaloby inne rozwiazanie."
-    }
-  ]
+  }
 }

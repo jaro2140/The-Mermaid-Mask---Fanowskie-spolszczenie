@@ -1749,15 +1749,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Conversation/Sinthia CLUE InnDeeds/Section ds8, ds17",
-      "issue": "Gra slow 'indeed'/'Inn Deed' nieprzekladalna doslownie (dokument nazywa sie tak, ze brzmi jak angielskie 'w istocie'). Zastosowano funkcjonalny zamiennik 'otoz to' / 'o, toz to' zachowujacy komiczny rytm rozbicia slowa, ale nieoparte na nazwie dokumentu 'Akt Wlasnosci'. Do przemyslenia/potwierdzenia z userem."
-    },
-    {
-      "term": "Conversation/Sinthia CLUE RaggedCloth/Section ds6",
-      "issue": "Tytul ksiazki/opowiadania Sym \"'The Stargazing Girl'\" przetlumaczony roboczo jako \"'Dziewczyna Patrząca w Gwiazdy'\" - brak wczesniejszego wystapienia tego tytulu w innych batchach do potwierdzenia spojnosci nazwy."
-    }
-  ]
+  }
 }

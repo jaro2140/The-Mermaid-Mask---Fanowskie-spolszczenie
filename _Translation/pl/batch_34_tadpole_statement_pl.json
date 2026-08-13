@@ -359,15 +359,5 @@
         "speaker": "Tadpole"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Tadpole 04 STATEMENT - tozsamosc 'demona'",
-      "problem": "Tadpole opisuje walke z 'demonem' o swiecacych oczach i rogu, ktory po 'zabiciu' (rzuceniem wiosla) okazuje sie zostawiac po sobie skorzana maske na cala glowe (jak kominiarka) unoszaca sie w wodzie - silna poszlaka ze to byl czlowiek w masce/przebraniu (mozliwy morderca uciekajacy z miejsca zbrodni), nie prawdziwy demon. Maska zostala pozniej skradziona z sluzy - kto ja ukradl pozostaje nieujawnione w tej partii."
-    },
-    {
-      "term": "Tadpole 04 STATEMENT/ds198 'Ali-'",
-      "problem": "Przerwane slowo Grimoire'a, najprawdopodobniej poczatek 'Alien' (nawiazujac do ds147 'Alien language') - przetlumaczone jako przerwane 'Obc-' (od 'Obcy' = Alien) zeby zachowac efekt przerwania w polowie slowa."
-    }
-  ]
+  }
 }

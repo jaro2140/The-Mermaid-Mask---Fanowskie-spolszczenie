@@ -861,11 +861,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Examine/Exam_Area_DreamChamber_HexBottle 3 (cala scena)",
-      "issue": "Tajemnicza postac pomagajaca wydobyc wspomnienie z Hexa (archaiczny rejestr, zaimek zenski) przypisana jako Symmetry na podstawie stylu jezykowego i plci - brak jakiegokolwiek potwierdzenia w metadata zrodla (kategoria Examine nie ma speaker_map). Do weryfikacji w grze."
-    }
-  ]
+  }
 }

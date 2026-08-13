@@ -489,11 +489,5 @@
         "speaker": "Godrik"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Godrik Conversation 2/ds79 'left in the mouth of the Mermaid's Tongue'",
-      "problem": "Niejasna fraza w zrodle - 'left in the mouth of the Mermaid's Tongue' moze oznaczac ze cos (jaki przedmiot?) zostalo w ustach maski, albo to skrot myslowy odnoszacy sie do samej maski. Przetlumaczono doslownie ('w ustach Jezyka Syreny') zachowujac tę samą niejednoznacznosc co w oryginale - do sprawdzenia w kontekscie calej gry czy chodzi o kluczyk z naszyjnika czy o co innego."
-    }
-  ]
+  }
 }

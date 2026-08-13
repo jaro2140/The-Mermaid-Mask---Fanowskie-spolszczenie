@@ -308,19 +308,5 @@
         "pl": "UŻYJ"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Title/Art Gallery + Title/Art Gallery 2",
-      "problem": "Dwa osobne klucze I2Loc dla jednego dwuwyrazowego przycisku (EN: 'Art' / 'Gallery' jako dwie oddzielne linie). Zamienilem kolejnosc tresci (PL: 'Galeria' / 'Sztuki'), zeby caloscowo czytac sie jako 'Galeria Sztuki' zamiast dosłownego 'Sztuka Galeria' - trzeba sprawdzic w grze czy te dwa pola faktycznie sa dwiema liniami jednego napisu (a nie np. dwoma osobnymi, niezaleznymi etykietami w roznych miejscach UI), inaczej podzial tresci nie ma sensu."
-    },
-    {
-      "term": "Title/Intro/Set 1-3, Line 1-2",
-      "problem": "Poetycki tekst intro (prawdopodobnie synchronizowany z muzyka/cinematica). Oryginal ma rymy (saying/fraying, worst/thirst, meet/feet) - polskie tlumaczenie zachowuje sens i nastroj, ale NIE rymuje sie (wymuszanie rymu psulo naturalnosc). Do sprawdzenia w grze: czy tekst ma jakiekolwiek ograniczenie czasowe/synchronizacje z audio, ktore polska wersja (inna dlugosc zdan) moze rozjechac."
-    },
-    {
-      "term": "Options/Windowed, Options/Display",
-      "problem": "'Ekran' dla Display i 'Tryb okienkowy' dla Windowed - powszechne w polskich grach, ale do potwierdzenia czy mieszcza sie w szerokosci przycisku UI (nie testowane wizualnie)."
-    }
-  ]
+  }
 }

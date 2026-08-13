@@ -99,11 +99,5 @@
         "speaker": "(UI - menu)"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Conversation/Menu - etykiety skrocone (Cane/Locket/Pipe)",
-      "problem": "Te trzy etykiety to prawdopodobnie skrocone nazwy przyciskow menu odnoszace sie do konkretnych dowodow (Cornelius Cane, medalion Moon/Symmetry, Drewniana Rura) - przetlumaczono jako ogolne rzeczowniki ('Laska', 'Medalion', 'Rura') bez pewnosci czy to poprawny kontekst UI (np. czy 'Cane' to menu do pytania o Corneliusa, czy cos innego) - do sprawdzenia wizualnie w grze."
-    }
-  ]
+  }
 }

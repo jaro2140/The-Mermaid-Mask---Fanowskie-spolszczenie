@@ -942,11 +942,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ds203 Gripp 'He was very strong, you see.' -> 'Widzicie, był bardzo stanowczy.'",
-      "problem": "'Strong' przetlumaczone jako 'stanowczy' (w sensie odmowy), nie doslownie 'silny fizycznie' - kontekst (odmowa prosby) sugeruje to znaczenie, ale bez pelnego kontekstu otaczajacych linii nie mam 100% pewnosci."
-    }
-  ]
+  }
 }

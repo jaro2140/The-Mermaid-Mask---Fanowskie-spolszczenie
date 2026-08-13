@@ -157,23 +157,5 @@
         "speaker": "Symmetry"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "The Mermaid's Tongue -> Język Syreny",
-      "problem": "Tytulowy artefakt fabuly (odpowiednik 'mermaid mask' z tytulu gry). Przetlumaczylem opisowo zamiast zostawic po angielsku, bo to nazwa-metafora majaca znaczenie dla gracza, nie marka/nazwa wlasna w sensie No-Touch Zone. Kluczowa decyzja do potwierdzenia PRZED dalszym tlumaczeniem, bo pojawi sie wielokrotnie w dalszych partiach (Clues, Puzzles, Examine) - jesli user chce zostawic po angielsku, trzeba to zmienic wszedzie konsekwentnie."
-    },
-    {
-      "term": "Iron Bell -> Żelazny Dzwon",
-      "problem": "Podobnie jak wyzej - nazwa mechanizmu/dowodu, tlumaczona opisowo. Wystepuje tez w Map/Checklist/Iron Bell (jeszcze nietlumaczone) - trzeba tam uzyc tej samej nazwy gdy dojdziemy do kategorii Map."
-    },
-    {
-      "term": "Felicia Stonetop -> odmiana 'Felicii'",
-      "problem": "Odmienilem imie 'Felicia' przez przypadki jak polskie imie na -ia (Felicia/Felicii), ale zostawilem nazwisko 'Stonetop' nieodmienione (typowe dla obcych nazwisk). Do zweryfikowania czy to spojne z reszta gry, gdy pojawi sie wiecej kontekstu o tej postaci (nie jest jeszcze w GLOSSARY jako mowca - nie ma zadnych kwestii w dialogueSections, prawdopodobnie postac tylko wspominana, nie grywalna/mowiaca)."
-    },
-    {
-      "term": "Request exitClueRequest0Hint0/Hint1",
-      "problem": "Jak w batch_02 - zalozylem ze mowi Grimoire, ale te 2 terminy nie maja wlasnego soulTalking (nie sa w dialogueSections)."
-    }
-  ]
+  }
 }

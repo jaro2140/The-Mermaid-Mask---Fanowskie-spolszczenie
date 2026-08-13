@@ -515,11 +515,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ds212 Gripp 'I did.' -> 'Słyszałem.'",
-      "problem": "Odpowiedz bez jasnego bezposredniego kontekstu pytania (ds211 to '...' - brak tekstu). Zalozylem ze odpowiada na 'Did you hear...' z ds207, ale te dwie linie sa oddzielone innymi kwestiami - do zweryfikowania w grze."
-    }
-  ]
+  }
 }

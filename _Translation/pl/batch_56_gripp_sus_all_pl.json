@@ -505,11 +505,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Gripp SUS Gripp/ds28 'Godman Gripp's...' vs Godrik Gripp",
-      "problem": "Pelna nazwa dawnego sklepu Grippa uzywa imienia 'Godman' zamiast ustalonego 'Godrik' (potwierdzonego w Gripp 02 YOURSELF/ds6 i Gripp 05 SUSPICION/ds176 z batch_08-09). Przetlumaczono doslownie jako 'Godmana Grippa' zachowujac ta sama niespojnosc co w zrodle - moze to literowka w oryginalnym tekscie gry (Godman/Godrik) - do sprawdzenia/potwierdzenia."
-    }
-  ]
+  }
 }

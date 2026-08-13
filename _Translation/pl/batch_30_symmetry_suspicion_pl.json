@@ -1046,11 +1046,5 @@
         "speaker": "Grimoire"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "SFX/onomatopeje - decyzja o tlumaczeniu",
-      "problem": "TECHNICAL_GUIDE flagowal jako nierozstrzygniete czy tlumaczyc nawiasowe onomatopeje/SFX jak [Squeak!], [Gasp!]. W tej partii podjeto decyzje ZE TAK, tlumaczac je jako napisy dzwiekowe ([Pisk!], [Glosny wdech!], [Westchnienie], [Lomot], [Krzyk], [Swist]) - do potwierdzenia z userem czy to sluszne podejscie, czy powinny zostac po angielsku jako czysto techniczne znaczniki niewidoczne dla gracza."
-    }
-  ]
+  }
 }

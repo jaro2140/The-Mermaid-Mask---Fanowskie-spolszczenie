@@ -585,11 +585,5 @@
         "speaker": "Sinthia"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Sinthia SUS Zephyr - tajemnicze zwierze w Komnacie Snow",
-      "problem": "Nowy, niewyjasniony watek: Zephyr podobno trzyma jakies zwierze w tajemnicy w swojej Komnacie Snow i ma kontakty na czarnym rynku - do sledzenia czy zostanie to rozwiazane w innych partiach (mozliwe ze to Hex, heksapus z batch_43, ale Hex nie jest tajemnicą - do potwierdzenia czy to inny watek)."
-    }
-  ]
+  }
 }

@@ -791,19 +791,5 @@
         "pl": "Opracowanie wszystkich niezbędnych elementów plakatu filmowego trochę zajęło - dwóch aktorów, dwie postacie, logo filmu i tak dalej.\n\n-Adam"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "ArtGallery/Clues/TheMermaidsTongue info 2",
-      "en": "The only two people in the story who were confirmed to have used it were Felicia Stonetop and Godrik Gripp. ...although it seems that Selena Stonetop (or perhaps her father) may have also used it, long ago.",
-      "propozycja": "przetlumaczone doslownie",
-      "problem": "WAZNE - to bezposrednio od dewelopera (Adam) POTWIERDZA, ze Selena Stonetop (lub jej ojciec) UZYLA/UZYL Jezyka Syreny 'dawno temu' - osobno od historii Felicii/Godrika/Mortugi. To silnie wspiera hipoteze z batch_96 (VERIFICATION_QUEUE #55) ze podarty zwoj podpisany 'SS' to relacja Seleny Stonetop z JEJ WLASNEGO, wczesniejszego doswiadczenia z Jezykiem Syreny - rownolegle pokolenie do historii Felicii. Nadal nie 100% pewne (developer mowi 'seems'/'may have'), ale to najsilniejsza dotad poszlaka - GLOSSARY zaktualizowane z ostroznym sformulowaniem, nie jako fakt ostateczny."
-    },
-    {
-      "term": "ArtGallery/Clues/NewspaperPage info 2",
-      "en": "Act 3, Ascension of the Silkmoth: Sym emerges from a bandage cocoon in this escapology finale.",
-      "propozycja": "'Wniebowstąpienie Ćmy Jedwabnicy'",
-      "problem": "Nowo odkryty, TRZECI akt pokazu magicznego Symmetry (obok 'Dama Zwierciadła' i 'Mój Zmarły Wuj Gregory') - nie napotkany dotad w zadnym przetlumaczonym dialogu/dowodzie. Dodano do GLOSSARY jako nowa nazwa wlasna."
-    }
-  ]
+  }
 }

@@ -245,15 +245,5 @@
         "speaker": "Sinthia"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Sinthia 04 STATEMENT/ds78 'cargo hold'",
-      "problem": "Pierwsze uzycie 'Cargo Hold' w dialogu (poza Views/Names z batch_12) - przetlumaczone jako 'ladownia' zgodnie z ustalona nazwa lokacji. Zdanie urywa sie w polowie ('-') wiec kontekst kontynuacji nieznany, do sprawdzenia przy nastepnej partii Sinthii (05 SUSPICION), gdzie prawdopodobnie wątek sie konczy."
-    },
-    {
-      "term": "Sinthia 04 STATEMENT/ds32 rodzaj 'it' (igla vs kompas)",
-      "problem": "'The ship's compass, the needle - it was malfunctioning' - zalozono ze 'it' odnosi sie do 'the needle' (igla, r.z.) nie 'compass' (kompas, r.m.), stad zenska forma 'byla zepsuta'. Gramatycznie obie interpretacje mozliwe w angielskim - do potwierdzenia w kontekscie sceny czy to na pewno igla byla uszkodzonym elementem (co potwierdza tez ds116 'replacement needles' z batch_11/Grippem)."
-    }
-  ]
+  }
 }

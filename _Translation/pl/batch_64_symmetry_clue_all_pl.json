@@ -1849,11 +1849,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Conversation/Symmetry CLUE RaggedCloth/Section ds9",
-      "issue": "Tytul \"'The Stargazing Girl'\" ponownie przetlumaczony jako \"'Dziewczyna Patrzaca w Gwiazdy'\" - spojnie z batch_63 (Sinthia CLUE RaggedCloth/ds6), potwierdza konwencje nazwy przy nastepnym wystapieniu."
-    }
-  ]
+  }
 }

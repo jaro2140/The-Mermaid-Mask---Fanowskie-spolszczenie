@@ -766,15 +766,5 @@
         "speaker": "Sally"
       }
     }
-  },
-  "do_pozniejszej_weryfikacji": [
-    {
-      "term": "Sinthia 05 SUSPICION/ds133-138",
-      "problem": "Bloki ds133/134 (echo Choice 2/3 z ds55) i ds135/136 (echo Choice 2/3 z ds85) pojawiaja sie jako osobne linie dialogowe pod koniec sceny, przypisane Grimoire/Sally, po ds132 'Wow, I bet he loved that.' i przed ds137/138. Nie jest jasne z samego plaskiego eksportu I2Loc czy to (a) powtorka/rekapitulacja bledych opcji ktore gracz MOGL wybrac wczesniej (galaz dialogowa dla zlych odpowiedzi), czy (b) osobny, rownolegly watek. Przetlumaczono spojnie z oryginalnymi Choice-ami (identyczny tekst PL gdzie EN identyczny), a ds138 'Just the way it's meant to be, right. We got it.' polaczono stylistycznie z ds7 Sinthii ('to po prostu jest tak, jak ma byc') jako celowe echo/nawiazanie - do potwierdzenia w grze czy ten fragment faktycznie nastepuje w tej kolejnosci."
-    },
-    {
-      "term": "Sinthia 05 SUSPICION/ds123 'Inn Deeds'",
-      "problem": "Pierwsze pelne uzycie nazwy dowodu 'Inn Deeds' (osobna od 'the deeds to the Stonetop Inn' z ds112) - przetlumaczone opisowo jako 'aktowi wlasnosci gospody' (przypadek celownik). Sugeruje dopisanie formalnej nazwy do GLOSSARY ('Inn Deeds' -> 'Akt Wlasnosci Gospody') przy nastepnej okazji, gdy pojawi sie jako samodzielna nazwa dowodu (np. w kategorii Clues)."
-    }
-  ]
+  }
 }
