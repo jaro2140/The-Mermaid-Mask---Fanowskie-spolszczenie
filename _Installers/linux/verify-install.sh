@@ -1,44 +1,43 @@
 #!/usr/bin/env bash
-# Weryfikuje integralnosc zainstalowanego tlumaczenia PL (SHA-256 wzgledem manifestu).
-# Uzycie: ./verify-install.sh ["/sciezka/do/gry"]
+# Verifies all translated files against the release manifest.
+# Usage: ./verify-install.sh ["/path/to/The Mermaid Mask"]
 set -euo pipefail
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 # shellcheck source=../common/paths.sh
 source "$SCRIPT_DIR/../common/paths.sh"
 
-if [[ ! -f "$MANIFEST" ]]; then
-  echo "Brak $MANIFEST - nie mozna zweryfikowac instalacji." >&2
-  exit 1
-fi
-
 load_game_path "${1:-}"
+validate_package
 
+echo "=== The Mermaid Mask PL - weryfikacja ==="
 echo "Gra: $GAME_PATH"
 echo ""
 
-ALL_OK=1
-while IFS= read -r line; do
-  rel="$(sed -E 's/^"(.*)": "[0-9a-f]{64}"$/\1/' <<<"$line")"
-  expected="$(sed -E 's/^"(.*)": "([0-9a-f]{64})"$/\2/' <<<"$line")"
+all_ok=1
+file_count=0
+while read -r expected rel; do
+  [[ -n "${expected:-}" && "$expected" != \#* ]] || continue
+  file_count=$((file_count + 1))
   target="$GAME_PATH/$rel"
   if [[ ! -f "$target" ]]; then
     echo "  BRAK: $rel"
-    ALL_OK=0
-    continue
-  fi
-  actual="$(sha256_of "$target")"
-  if [[ "$actual" == "$expected" ]]; then
+    all_ok=0
+  elif [[ "$(sha256_of "$target")" == "$expected" ]]; then
     echo "  OK: $rel"
   else
-    echo "  ROZNI SIE: $rel (plik zmodyfikowany / niezainstalowany / inna wersja patcha)"
-    ALL_OK=0
+    echo "  ROZNI SIE: $rel"
+    all_ok=0
   fi
-done < <(grep -oE '"[^"]+": "[0-9a-f]{64}"' "$MANIFEST")
+done < "$PATCH_MANIFEST"
 
 echo ""
-if [[ "$ALL_OK" -eq 1 ]]; then
-  echo "Wszystko zgodne - tlumaczenie $GAME_NAME (PL) zainstalowane poprawnie."
+if [[ "$file_count" -eq 0 ]]; then
+  echo "BLAD: manifest patcha jest pusty." >&2
+  exit 1
+fi
+if [[ "$all_ok" -eq 1 ]]; then
+  echo "Wszystko zgodne - tlumaczenie jest zainstalowane poprawnie."
 else
   echo "Znaleziono niezgodnosci - patrz szczegoly powyzej." >&2
   exit 1

@@ -1,31 +1,51 @@
 #!/usr/bin/env bash
-# Przywraca oryginalne (angielskie) pliki gry, zapisane przez install-pl.sh.
-# Uzycie: ./restore-original.sh ["/sciezka/do/gry"]
+# Restores the verified original files created by install-pl.sh.
+# Usage: ./restore-original.sh ["/path/to/The Mermaid Mask"]
 set -euo pipefail
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 # shellcheck source=../common/paths.sh
 source "$SCRIPT_DIR/../common/paths.sh"
 
-BACKUP_DIR="$SCRIPT_DIR/backup"
+load_game_path "${1:-}"
+BACKUP_DIR="$GAME_PATH/.the_mermaid_mask_pl_backup/windows"
+BACKUP_MANIFEST="$BACKUP_DIR/source-sha256.txt"
 
-if [[ ! -d "$BACKUP_DIR" ]]; then
-  echo "Brak kopii zapasowej ($BACKUP_DIR) - nie ma czego przywracac." >&2
-  echo "(instalator tworzy ja automatycznie przy pierwszym uruchomieniu install-pl.sh)" >&2
+if [[ ! -f "$BACKUP_MANIFEST" ]]; then
+  echo "BLAD: brak zweryfikowanej kopii zapasowej w $BACKUP_DIR." >&2
+  echo "Jesli backup zostal usuniety, przywroc pliki przez Steam lub GOG." >&2
   exit 1
 fi
 
-load_game_path "${1:-}"
+echo "=== The Mermaid Mask - przywracanie oryginalu ==="
+echo "Gra:    $GAME_PATH"
+echo "Backup: $BACKUP_DIR"
+echo ""
 
-echo "Gra: $GAME_PATH"
+file_count=0
+while read -r expected rel; do
+  [[ -n "${expected:-}" && "$expected" != \#* ]] || continue
+  file_count=$((file_count + 1))
+  backup="$BACKUP_DIR/$rel"
+  [[ -f "$backup" ]] || { echo "BLAD: backup nie zawiera pliku: $rel" >&2; exit 1; }
+  [[ "$(sha256_of "$backup")" == "$expected" ]] || {
+    echo "BLAD: backup ma nieprawidlowa sume SHA-256: $rel" >&2
+    exit 1
+  }
+done < "$BACKUP_MANIFEST"
 
-while IFS= read -r src; do
-  rel="${src#"$BACKUP_DIR"/}"
+if [[ "$file_count" -eq 0 ]]; then
+  echo "BLAD: manifest backupu jest pusty." >&2
+  exit 1
+fi
+
+while read -r expected rel; do
+  [[ -n "${expected:-}" && "$expected" != \#* ]] || continue
   target="$GAME_PATH/$rel"
-  mkdir -p "$(dirname "$target")"
-  cp "$src" "$target"
+  mkdir -p "$(dirname -- "$target")"
+  cp "$BACKUP_DIR/$rel" "$target"
   echo "  przywrocono: $rel"
-done < <(find "$BACKUP_DIR" -type f)
+done < "$BACKUP_MANIFEST"
 
 echo ""
-echo "Gotowe - przywrocono oryginalne (angielskie) pliki $GAME_NAME."
+echo "Gotowe - przywrocono oryginalne pliki gry."

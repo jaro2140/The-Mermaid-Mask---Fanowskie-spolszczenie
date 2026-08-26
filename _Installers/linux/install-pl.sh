@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Instaluje polskie tlumaczenie The Mermaid Mask (Linux / SteamOS / Steam Deck).
-# Uzycie: ./install-pl.sh ["/sciezka/do/gry"]
+# Installs the Polish translation on the Windows build run natively or via Proton.
+# Usage: ./install-pl.sh ["/path/to/The Mermaid Mask"]
 set -euo pipefail
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
@@ -8,43 +8,98 @@ SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/../common/paths.sh"
 
 load_game_path "${1:-}"
-require_patch_payload
+validate_package
 
-BACKUP_DIR="$SCRIPT_DIR/backup"
-
-echo "Gra:    $GAME_PATH"
-echo "Pakiet: $PATCH_DIR"
+BACKUP_DIR="$GAME_PATH/.the_mermaid_mask_pl_backup/windows"
+LEGACY_BACKUP_DIR="$SCRIPT_DIR/backup"
 mkdir -p "$BACKUP_DIR"
 
-while IFS= read -r src; do
-  rel="${src#"$PATCH_DIR"/}"
-  target="$GAME_PATH/$rel"
-  bak="$BACKUP_DIR/$rel"
+echo "=== The Mermaid Mask PL - instalacja Linux/SteamOS (Proton) ==="
+echo "Gra:    $GAME_PATH"
+echo "Patch:  $PATCH_DIR"
+echo "Backup: $BACKUP_DIR"
+echo ""
 
-  if [[ ! -f "$target" ]]; then
-    echo "  BLAD: brak oryginalnego pliku $target" >&2
-    echo "  (upewnij sie, ze wskazujesz na poprawny folder gry)" >&2
+file_count=0
+while read -r source_hash rel; do
+  [[ -n "${source_hash:-}" && "$source_hash" != \#* ]] || continue
+  file_count=$((file_count + 1))
+  patch_hash="$(patch_hash_for "$rel")" || {
+    echo "BLAD: manifest patcha nie zawiera pliku: $rel" >&2
     exit 1
+  }
+  patch_file="$PATCH_DIR/$rel"
+  target="$GAME_PATH/$rel"
+  backup="$BACKUP_DIR/$rel"
+
+  [[ -f "$patch_file" ]] || { echo "BLAD: brak pliku patcha: $rel" >&2; exit 1; }
+  [[ -f "$target" ]] || { echo "BLAD: brak pliku gry: $rel" >&2; exit 1; }
+  [[ "$(sha256_of "$patch_file")" == "$patch_hash" ]] || {
+    echo "BLAD: nieprawidlowa suma SHA-256 pliku patcha: $rel" >&2
+    exit 1
+  }
+
+  target_hash="$(sha256_of "$target")"
+  if [[ "$target_hash" == "$source_hash" ]]; then
+    continue
   fi
-
-  mkdir -p "$(dirname "$bak")"
-  if [[ ! -f "$bak" ]]; then
-    cp "$target" "$bak"
-    echo "  kopia zapasowa: $rel"
+  if [[ "$target_hash" == "$patch_hash" ]]; then
+    if [[ ! -f "$backup" && -f "$LEGACY_BACKUP_DIR/$rel" && "$(sha256_of "$LEGACY_BACKUP_DIR/$rel")" == "$source_hash" ]]; then
+      mkdir -p "$(dirname -- "$backup")"
+      cp "$LEGACY_BACKUP_DIR/$rel" "$backup"
+      echo "  przeniesiono stary backup: $rel"
+    fi
+    [[ -f "$backup" && "$(sha256_of "$backup")" == "$source_hash" ]] || {
+      echo "BLAD: $rel jest juz spatchowany, ale brakuje bezpiecznego backupu." >&2
+      echo "Przywroc pliki przez Steam/GOG przed ponowna instalacja." >&2
+      exit 1
+    }
+    continue
   fi
+  echo "BLAD: nieobslugiwana wersja lub zmodyfikowany plik gry: $rel" >&2
+  echo "Sprawdz spojnosc plikow w Steam/GOG i uruchom instalator ponownie." >&2
+  exit 1
+done < "$SOURCE_MANIFEST"
 
-  mkdir -p "$(dirname "$target")"
-  cp "$src" "$target"
-  echo "  zainstalowano:  $rel"
-done < <(find "$PATCH_DIR" -type f ! -name '.gitkeep')
+if [[ "$file_count" -eq 0 ]]; then
+  echo "BLAD: manifest oryginalnych plikow jest pusty." >&2
+  exit 1
+fi
 
-echo ""
-echo "Gotowe! Polskie tlumaczenie $GAME_NAME zostalo zainstalowane."
-echo "Oryginalne pliki zachowane w: $BACKUP_DIR"
-echo ""
-echo "W grze: Opcje -> Jezyk tekstu -> wybierz 'Polski'."
+rollback() {
+  local expected rel backup target
+  while read -r expected rel; do
+    [[ -n "${expected:-}" && "$expected" != \#* ]] || continue
+    backup="$BACKUP_DIR/$rel"
+    target="$GAME_PATH/$rel"
+    if [[ -f "$backup" && "$(sha256_of "$backup")" == "$expected" ]]; then
+      cp "$backup" "$target" || true
+    fi
+  done < "$SOURCE_MANIFEST"
+}
+trap 'echo "BLAD: instalacja nie powiodla sie. Przywracam backup." >&2; rollback' ERR
+
+while read -r source_hash rel; do
+  [[ -n "${source_hash:-}" && "$source_hash" != \#* ]] || continue
+  target="$GAME_PATH/$rel"
+  backup="$BACKUP_DIR/$rel"
+  if [[ "$(sha256_of "$target")" == "$source_hash" ]]; then
+    mkdir -p "$(dirname -- "$backup")"
+    cp "$target" "$backup"
+    echo "  backup:       $rel"
+  fi
+  cp "$PATCH_DIR/$rel" "$target"
+  echo "  zainstalowano: $rel"
+done < "$SOURCE_MANIFEST"
+
+cp "$SOURCE_MANIFEST" "$BACKUP_DIR/source-sha256.txt"
+cp "$PLATFORM_FILE" "$BACKUP_DIR/platform.txt"
+trap - ERR
+
 echo ""
 echo "Uruchamiam weryfikacje instalacji..."
 "$SCRIPT_DIR/verify-install.sh" "$GAME_PATH"
 echo ""
-echo "Aby przywrocic oryginal: ./restore-original.sh"
+echo "Gotowe! W grze wybierz: Opcje -> Jezyk tekstu -> Polski."
+echo "Oryginalne pliki sa zapisane w: $BACKUP_DIR"
+echo "Przywracanie: $SCRIPT_DIR/restore-original.sh"

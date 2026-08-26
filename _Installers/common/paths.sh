@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Wspolne funkcje uzywane przez instalatory Linux/SteamOS.
-# Zrodlowane (source) przez install-pl.sh / restore-original.sh / verify-install.sh.
+# Shared functions used by the Linux/SteamOS installers.
 #
 # Wszystkie sciezki sa liczone wzgledem folderu _Installers (jeden poziom nad
 # common/), NIE wzgledem checkoutu repo - dzieki temu caly folder _Installers
@@ -11,7 +10,9 @@ set -euo pipefail
 _PATHS_SH_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 INSTALLER_ROOT="$(cd -- "$_PATHS_SH_DIR/.." && pwd)"
 PATCH_DIR="$INSTALLER_ROOT/payload"
-MANIFEST="$INSTALLER_ROOT/translation_manifest.json"
+PATCH_MANIFEST="$INSTALLER_ROOT/patch-sha256.txt"
+SOURCE_MANIFEST="$INSTALLER_ROOT/source-sha256.txt"
+PLATFORM_FILE="$INSTALLER_ROOT/platform.txt"
 
 GAME_NAME="The Mermaid Mask"
 DATA_DIR_NAME="The Mermaid Mask_Data"
@@ -26,37 +27,79 @@ GAME_PATH_CANDIDATES=(
   "$HOME/GOG Games/$GAME_NAME"
 )
 
-# Ustawia zmienna GAME_PATH: argument skryptu > zmienna srodowiskowa GAME_PATH >
-# plik game-path.env obok folderu _Installers > automatyczne wykrycie
-# (Steam/GOG/Steam Deck).
+resolve_candidate() {
+  local candidate="${1:-}"
+  [[ -n "$candidate" ]] || return 1
+  candidate="${candidate%\"}"
+  candidate="${candidate#\"}"
+
+  if [[ -f "$candidate" && "$candidate" == *.exe ]]; then
+    candidate="$(dirname -- "$candidate")"
+  fi
+  if [[ -f "$candidate/sharedassets1.assets" ]]; then
+    candidate="$(dirname -- "$candidate")"
+  fi
+  if [[ -f "$candidate/$DATA_DIR_NAME/sharedassets1.assets" && -f "$candidate/$GAME_NAME.exe" ]]; then
+    GAME_PATH="$(cd -- "$candidate" && pwd)"
+    return 0
+  fi
+  return 1
+}
+
+try_steam_root() {
+  local steam_root="$1"
+  resolve_candidate "$steam_root/steamapps/common/$GAME_NAME" && return 0
+
+  local vdf="$steam_root/steamapps/libraryfolders.vdf"
+  [[ -f "$vdf" ]] || return 1
+  local library
+  while IFS= read -r library; do
+    library="${library//\\\\/\\}"
+    resolve_candidate "$library/steamapps/common/$GAME_NAME" && return 0
+  done < <(sed -nE 's/.*"path"[[:space:]]+"([^"]+)".*/\1/p' "$vdf")
+  return 1
+}
+
+# Sets GAME_PATH using: argument, environment, config file, then auto-detection.
 load_game_path() {
   local explicit="${1:-}"
+  local configured="${GAME_PATH:-}"
+  GAME_PATH=""
 
-  if [[ -n "$explicit" ]]; then
-    GAME_PATH="$explicit"
-  fi
+  resolve_candidate "$explicit" || true
+  [[ -n "$GAME_PATH" ]] || resolve_candidate "$configured" || true
 
   if [[ -z "${GAME_PATH:-}" && -f "$INSTALLER_ROOT/game-path.env" ]]; then
-    # shellcheck disable=SC1091
-    source "$INSTALLER_ROOT/game-path.env"
+    local line value
+    while IFS= read -r line; do
+      if [[ "$line" == GAME_PATH=* ]]; then
+        value="${line#GAME_PATH=}"
+        resolve_candidate "$value" || true
+        break
+      fi
+    done < "$INSTALLER_ROOT/game-path.env"
   fi
 
   if [[ -z "${GAME_PATH:-}" ]]; then
     local candidate
     for candidate in "${GAME_PATH_CANDIDATES[@]}"; do
-      if [[ -d "$candidate/$DATA_DIR_NAME" ]]; then
-        GAME_PATH="$candidate"
-        break
-      fi
+      resolve_candidate "$candidate" && break
     done
   fi
 
   if [[ -z "${GAME_PATH:-}" ]]; then
+    try_steam_root "$HOME/.steam/steam" || true
+  fi
+  if [[ -z "${GAME_PATH:-}" ]]; then
+    try_steam_root "$HOME/.local/share/Steam" || true
+  fi
+  if [[ -z "${GAME_PATH:-}" ]]; then
+    try_steam_root "$HOME/.var/app/com.valvesoftware.Steam/.local/share/Steam" || true
+  fi
+
+  if [[ -z "${GAME_PATH:-}" ]]; then
     for candidate in /run/media/"${USER:-deck}"/*/steamapps/common/"$GAME_NAME" /run/media/*/*/steamapps/common/"$GAME_NAME"; do
-      if [[ -d "$candidate/$DATA_DIR_NAME" ]]; then
-        GAME_PATH="$candidate"
-        break
-      fi
+      resolve_candidate "$candidate" && break
     done
   fi
 
@@ -69,18 +112,13 @@ load_game_path() {
     exit 1
   fi
 
-  if [[ ! -d "$GAME_PATH" ]]; then
-    echo "Sciezka gry nie istnieje: $GAME_PATH" >&2
+  resolve_candidate "$GAME_PATH" || {
+    echo "Blad: '$GAME_PATH' nie wyglada na folder gry '$GAME_NAME'." >&2
     exit 1
-  fi
-
-  if [[ ! -d "$GAME_PATH/$DATA_DIR_NAME" ]]; then
-    echo "Blad: '$GAME_PATH' nie wyglada na folder gry '$GAME_NAME' (brak $DATA_DIR_NAME)." >&2
-    exit 1
-  fi
+  }
 }
 
-require_patch_payload() {
+validate_package() {
   if [[ ! -d "$PATCH_DIR" ]]; then
     echo "Brak payloadu patcha: $PATCH_DIR" >&2
     echo "Ta paczka wyglada na niekompletna - pobierz ja ponownie." >&2
@@ -91,6 +129,18 @@ require_patch_payload() {
     echo "Ta paczka wyglada na niekompletna - pobierz ja ponownie." >&2
     exit 1
   fi
+  for required in "$PATCH_MANIFEST" "$SOURCE_MANIFEST" "$PLATFORM_FILE"; do
+    if [[ ! -f "$required" ]]; then
+      echo "Brak wymaganego pliku paczki: $required" >&2
+      exit 1
+    fi
+  done
+  local platform
+  IFS= read -r platform < "$PLATFORM_FILE"
+  if [[ "$platform" != "windows" ]]; then
+    echo "Blad: payload '$platform' nie jest zgodny z buildem Windows/Proton." >&2
+    exit 1
+  fi
 }
 
 sha256_of() {
@@ -99,4 +149,16 @@ sha256_of() {
   else
     sha256sum "$1" | awk '{print $1}'
   fi
+}
+
+patch_hash_for() {
+  local wanted="$1" expected rel
+  while read -r expected rel; do
+    [[ -n "${expected:-}" && "$expected" != \#* ]] || continue
+    if [[ "$rel" == "$wanted" ]]; then
+      printf '%s\n' "$expected"
+      return 0
+    fi
+  done < "$PATCH_MANIFEST"
+  return 1
 }
