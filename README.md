@@ -1,10 +1,11 @@
 # 🇵🇱 The Mermaid Mask - Fanowskie spolszczenie
-
 Nieoficjalne polskie tłumaczenie gry **The Mermaid Mask** (SFB Games).
 Potrzebujesz **legalnie posiadanej kopii** gry (Steam/GOG).
 
 Projekt wymaga legalnie posiadanej kopii gry.
 
+> [!CAUTION]
+> **Spolszczenie stworzone we współpracy z AI**
 
 ## ☕ Podoba Ci się to co robie?
 Postaw mi kawe ☕! - https://buymeacoffee.com/jaro2140
